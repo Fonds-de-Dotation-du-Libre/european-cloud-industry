@@ -50,7 +50,7 @@
     "revenues": "",
     "source_url": ""
   }],
-  "software_list": [{
+  "solution_list": [{
     "title": "",
     "logo_url": "",
     "website_url": "",
@@ -83,7 +83,7 @@
       "customer": "",
       "country": "",
       "language": "",
-      "url": ""
+      "success_case_url": ""
     }]
   }]
 }
