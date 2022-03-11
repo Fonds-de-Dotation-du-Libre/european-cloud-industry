@@ -1,0 +1,149 @@
+{
+  "created": "2021-07-20",
+  "title": "Obeo SAS",
+  "type": "Corporation/Association",
+  "logo_url": "https://www.obeo.fr/images/logos/logo_obeo.png",
+  "headquarter_country": "fr",
+  "subsidiary_country_list": ["other", "countries"],
+  "website_url": "https://www.obeo.fr/",
+  "founded_year": "2005",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "299291",
+    "total_assets": "3341318",
+    "revenues": "3409120",
+    "source_url": "https://www.verif.com/bilans-gratuits/OBEO-485129860/"
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "20439",
+    "total_assets": "3081853",
+    "revenues": "3464264",
+    "source_url": "https://www.verif.com/bilans-gratuits/OBEO-485129860/"
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "-56626",
+    "total_assets": "3053545",
+    "revenues": "3103023",
+    "source_url": "https://www.verif.com/bilans-gratuits/OBEO-485129860/"
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "-25721",
+    "total_assets": "3257803",
+    "revenues": "3669150",
+    "source_url": "https://www.verif.com/bilans-gratuits/OBEO-485129860/"
+  }],
+  "software_list": [{
+    "title": "Capella",
+    "logo_url": "https://www.eclipse.org/capella/images/logo_capella_big.png",
+    "website_url": "https://www.eclipse.org/capella/",
+    "created_year": "2007",
+    "description": "Open Source solution for model-based systems engineering",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "Microsoft Visio",
+      "category": ""
+    }, {
+      "title":"Lucidchart",
+      "category": ""
+    }, {
+      "title": "MagicDraw",
+      "category": ""
+    }],
+    "licence_list": ["Eclipse Public License 2.0"],
+    "source_code_download": "https://www.eclipse.org/capella/download.html",
+    "source_code_profile": "https://www.openhub.net/p/capella-arcadia/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.eclipse.org/capella/services.html",
+    "floss_software": "Yes/No",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "No",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Capella_(engineering)",
+    "reference_list": [{
+      "title": "Ariane Group",
+      "logo_url": "",
+      "country": "fr",
+      "industry": "Aviation"
+    }, {
+      "title": "",
+      "logo_url": "",
+      "country":"",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "Arcadia and Capella for a large complex mechanical system",
+      "description": "Rolls-Royce used Arcadia / Capella to define the architecture of a large civil aerospace turbofan engine, to manage system complexity and minimise the associated risk",
+      "image_url": "https://www.eclipse.org/capella/images/thumbs/thumb_casestudy_rollsroyce.png",
+      "industry": "Aviation",
+      "customer": "Rolls Royce",
+      "country": "uk",
+      "language": "en",
+      "url": "https://www.eclipse.org/capella/resources/pdf/Case_Study_Rolls_Royce.pdf"
+  }, {
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "url": ""
+    }]
+  }, {
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "category": ""
+    }],
+    "licence_list": [""],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }, {
+      "title": "",
+      "logo_url": "",
+      "country":"",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "url": ""
+    }]
+  }]
+}
