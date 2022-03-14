@@ -136,23 +136,29 @@
       "success_case_url": ""
     }]
   },{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
+    "title": "Abilian SBE",
+    "logo_url": "https://abilian.com/static/images/logo-abilian-baseline.png",
+    "website_url": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
     "created_year": "",
-    "description": "",
+    "description": "an enterprise social networking / collaboration platform",
     "category_list": [],
     "similar_software_list": [{
-      "title": "",
+      "title": "symphony",
+      "category": ""
+    },{
+      "title": "discourse",
+      "category": ""
+    },{
+      "title": "socialhome",
       "category": ""
     }],
-    "licence_list": [""],
-    "source_code_download": "",
+    "licence_list": ["LGPL-2.1 License"],
+    "source_code_download": "https://github.com/abilian/abilian-sbe",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
     "wikipedia_url": "",
     "reference_list": [{
       "title": "",
@@ -169,5 +175,148 @@
       "country": "",
       "language": "",
       "success_case_url": ""
-    
-}
+    }]
+  },{
+    "title": "Abilian BCMS",
+    "logo_url": "",
+    "website_url": "https://abilian.com/fr/solutions/conventions-affaires/",
+    "created_year": "",
+    "description": "open source software for managing business conventions",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "category": ""
+    }],
+    "licence_list": [""],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+     "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": "" 
+    }]
+  },{
+    "title": "Abilian JNOV",
+    "logo_url": "",
+    "website_url": "https://abilian.com/fr/solutions/jnov/",
+    "created_year": "",
+    "description": "JNOV is a digital platform accessible via the Internet dedicated to managing interactions with companies or consortia",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "category": ""
+    }],
+    "licence_list": [""],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+     "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": "" 
+    }]
+  },{ 
+    "title": "Abilian Joinux",
+    "logo_url": "",
+    "website_url": "https://abilian.com/fr/solutions/joinux/",
+    "created_year": "",
+    "description": "software for managing admission and selection processes",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "category": ""
+    }],
+    "licence_list": [""],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+     "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": "" 
+    }]
+  },{
+    "title": "Abilian CRM",
+    "logo_url": "",
+    "website_url": "https://abilian.com/fr/solutions/joinux/",
+    "created_year": "",
+    "description": "software for managing admission and selection processes",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "category": ""
+    }],
+    "licence_list": ["LGPL"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+     "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": "" 
+    }]
+  }] 
+} 
+  
+   
