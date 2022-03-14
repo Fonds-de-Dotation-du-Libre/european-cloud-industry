@@ -1,0 +1,67 @@
+{
+	"created": "2022-03-11",
+	"title": "KeeWeb",
+	"type": "Other",
+	"logo_url": "https://keeweb.info/img/logo.png",
+	"headquarter_country": "NL",
+	"subsidiary_country_list": ["FR", "BE", "FI"],
+	"website_url": "https://keeweb.info",
+	"founded_year": "2016",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "KeeWeb",
+		"logo_url": "https://keeweb.info/img/logo.png",
+		"website_url": "https://keeweb.info",
+		"created_year": "2016",
+		"description": "free-cross platform web password manager compatible with KeePass. Coded in Javascript at 80% it doesn't require any server or additional resources. The app can run either in browser, or as a desktop app and consists of a single HTML file",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "lastpass",
+      "similiar_software_url":"https://www.lastpass.com/fr",
+			"category": "Password Manager"
+		}, {
+			"title": "1password",
+      "similiar_software_url":"https://1password.com/fr/",
+			"category": "Password Manager"
+		}, {
+			"title": "enpass",
+      "similiar_software_url":"https://www.enpass.io/",
+			"category": "Password Manager"
+		}, {
+			"title": "dashlane",
+      "similiar_software_url":"https://www.dashlane.com/fr/",
+			"category": "Password Manager"
+		}],
+		"licence_list": ["MIT"],
+		"source_code_download": "https://antelle.net",
+		"source_code_profile": "https://www.openhub.net/p/keeweb/analyses/latest/languages_summary",
+		"commercial_support_url": "https://opencollective.com/keeweb#support",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "No",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/KeeWeb",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
