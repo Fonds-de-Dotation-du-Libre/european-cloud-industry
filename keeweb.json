@@ -1,0 +1,63 @@
+{
+	"created": "2022-03-11",
+	"title": "KeeWeb",
+	"type": "Association",
+	"logo_url": "https://keeweb.info/img/logo.png",
+	"headquarter_country": "US",
+	"subsidiary_country_list": ["NE", "FR", "BE", "FI"],
+	"website_url": "https://keeweb.info",
+	"founded_year": "2016",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "KeeWeb",
+		"logo_url": "https://keeweb.info/img/logo.png",
+		"website_url": "",
+		"created_year": "",
+		"description": "free-cross platform web password manager compatible with KeePass",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "lastpass",
+			"category": ""
+		}, {
+			"title": "1password",
+			"category": ""
+		}, {
+			"title": "enpass",
+			"category": ""
+		}, {
+			"title": "dashlane",
+			"category": ""
+		}],
+		"licence_list": ["MIT"],
+		"source_code_download": "https://antelle.net",
+		"source_code_profile": "https://www.openhub.net/p/keeweb",
+		"commercial_support_url": "https://opencollective.com/keeweb#support",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "No",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/KeeWeb",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "KeeWeb: Self-hosted KeePass Web and Desktop client",
+			"description": "Article on Ghacks, which is a technology blog that was founded in 2005 by Martin Brinkmann",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ghacks-logo.jpg?20111024075220",
+			"industry": "Technology blog",
+			"customer": "Ghacks",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://www.ghacks.net/2016/02/25/keeweb-self-hosted-keepass-web-and-desktop-client"
+		}]
+	}]
+}
