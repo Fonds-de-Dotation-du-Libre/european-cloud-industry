@@ -7,14 +7,7 @@
 	"subsidiary_country_list": ["FR", "BE", "FI"],
 	"website_url": "https://keeweb.info",
 	"founded_year": "2016",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "KeeWeb",
 		"logo_url": "https://keeweb.info/img/logo.png",
@@ -47,21 +40,7 @@
 		"commercial_support_open_source_version": "Yes",
 		"commercial_support_available": "No",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/KeeWeb",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
