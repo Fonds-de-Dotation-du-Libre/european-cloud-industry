@@ -1,0 +1,24 @@
+# Categories
+
+- Academia and Research
+- Agriculture and Food
+- Associations and NGOs
+- Aviation and Aerospace
+- Automotive
+- Banking and Finance
+- Chemicals
+- Commerce and Retail
+- Construction
+- Consulting and Training
+- Defense
+- Energy and Utilities
+- Health and Life Sciences
+- Housing
+- Insurance
+- Information Technology
+- Manufacturing
+- Media and Entertainment
+- Public Administration and Government
+- Telecommunication
+- Transport
+- Travel and Tourism
