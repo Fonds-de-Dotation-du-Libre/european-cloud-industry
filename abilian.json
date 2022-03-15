@@ -1,124 +1,91 @@
 {
   "created": "2022-03-11",
   "title": "Abilian SAS",
-  "type": "Other",
+  "type": "Corporation",
   "logo_url": "https://abilian.com/static/images/logo-abilian-baseline.png",
-  "headquarter_country": "fr",
-  "subsidiary_country_list": ["fr"],
-  "website_url": "https://abilian.com/fr/",
+  "location": {
+		"title": "Abilian SAS",
+		"address": "172 Bd Du Montparnasse",
+		"postal_code": "75014",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "",
+		"mail_contact": "",
+		"coordinate_list": [48.839703622812436, 2.3360635403632637]
+	},
+	"subsidiary_location_list": [],
+  "website_url": "https://abilian.com/",
   "founded_year": "2012",
-  "kpi_list": [{
-    "year": "2021",
-    "staff": [],
-    "earnings": [],
-    "total_assets": [],
-    "revenues": [],
-    "source_url": []
-  },{
-    "year": "2020",
-    "staff": [],
-    "earnings": [],
-    "total_assets": [],
-    "revenues": [],
-    "source_url": []
-  }, {
-    "year": "2019",
-    "staff": [],
-    "earnings": [],
-    "total_assets": [],
-    "revenues": [],
-    "source_url": []
-  },{
-    "year": "2018",
-    "staff": [],
-    "earnings": [],
-    "total_assets": [],
-    "revenues": [],
-    "source_url": []
-  },{
-    "year": "2017",
-    "staff": [],
-    "earnings": [],
-    "total_assets": [],
-    "revenues": [],
-    "source_url": []
-  },{
-    "year": "2016",
-    "staff": [],
-    "earnings": [],
-    "total_assets": [],
-    "revenues": [],
-    "source_url": []
-  }],
+  "kpi_list": [],
   "solution_list": [{
     "title": "SICS-PC",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/sics-pc/",
-    "created_year": [],
-    "description": "a secure extranet dedicated to the business of clusters, developed by experts involved in the life of those clusters for several years, based on an open source platform dedicated to enterprise information management and emerging collaboration",
+    "created_year": "",
+    "description": "A secure extranet dedicated to the business of clusters, developed by experts involved in the life of those clusters for several years, based on an open source platform dedicated to enterprise information management and emerging collaboration",
     "category_list": [],
     "similar_software_list": [{
       "title": "Huddle",
-      "category": "Collaborative suite",
+      "category": "Collaborative Suite",
       "similar_software_url": "https://www.huddle.com/"
     },{
       "title": "Mattermost",
-      "category": "Collaborative suite",
+      "category": "Collaborative Suite",
       "similar_software_url": "https://mattermost.com/"
     },{
       "title": "Alfresco",
-      "category": "Collaborative suite",
+      "category": "Collaborative Suite",
       "similar_software_url": "https://www.alfresco.com/"
     },{
       "title": "Owncloud",
-      "category": "Collaborative suite",
+      "category": "Collaborative Suite",
       "similar_software_url": "https://owncloud.com/"
     }],  
     "licence_list": [],
-    "source_code_download": [],
-    "source_code_profile": [],
-    "commercial_support_url": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
     "floss_software": "yes",
     "commercial_support_open_source_version": "no",
     "commercial_support_available": "no",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [{
       "title": "Systematic",
       "logo_url": "https://systematic-paris-region.org/wp-content/uploads/2020/09/logo.jpg",
       "country": "fr",
-      "industry": []
+      "industry": "Associations and NGOs"
     },{
       "title": "Medicen",
       "logo_url": "https://medicen.org/wp-content/uploads/2019/11/logo-medicen-bleu.svg",
       "country": "fr",
-      "industry": []
+      "industry": "Health and Life sciences"
     },{
       "title": "Cap Digital",
-      "logo_url": [],
+      "logo_url": "https://www.capdigital.com/wp-content/themes/capdigital/img/logo2x.png",
       "country": "fr",
-      "industry": []
+      "industry": "Associations and NGOs"
     },{
       "title": "Université Pierre & Marie Curie",
       "logo_url": "https://www.sorbonne-universite.fr/sites/default/files/media/2019-10/logo_4.svg",
       "country": "fr",
-      "industry": []
+      "industry": "Academia and Research"
     }],
     "success_case_list": []
   },{
     "title": "Lab&Co",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/labandco/",
     "created_year": "2014",
-    "description": "a software package enabling research or teaching and research institutions to streamline relations between researchers and the administration",
+    "description": "A software package enabling research or teaching and research institutions to streamline relations between researchers and the administration",
     "category_list": [],
     "similar_software_list": [{
       "title": "Odoo",
-      "category": "ERP/Business software",
-      "similar_software_url": "https://www.odoo.com/fr_FR"
+      "category": "ERP and Business software",
+      "similar_software_url": "https://www.odoo.com/"
     },{
       "title": "NetSuite",
-      "category": "ERP/Business software",
-      "similar_software_url": "https://www.netsuite.com/portal/home.shtml"
+      "category": "ERP and Business software",
+      "similar_software_url": "https://www.netsuite.com/"
     }],
     "licence_list": ["Apache License 2.0"],
     "source_code_download": "https://github.com/abilian/labandco",
@@ -127,15 +94,15 @@
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [],
      "success_case_list": []
   },{
     "title": "Abilian SBE",
     "logo_url": "https://abilian.com/static/images/logo-abilian-baseline.png",
     "website_url": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
-    "created_year": [],
-    "description": "a modular and open source software platform designed to help build business applications based on emerging collaboration",
+    "created_year": "",
+    "description": "A modular and open source software platform designed to help build business applications based on emerging collaboration",
     "category_list": [],
     "similar_software_list": [{
       "title": "Symphony",
@@ -153,99 +120,99 @@
     "licence_list": ["LGPL-2.1 License"],
     "source_code_download": "https://github.com/abilian/abilian-sbe",
     "source_code_profile": "https://www.openhub.net/p/abilian-sbe",
-    "commercial_support_url": [],
+    "commercial_support_url": "",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [],
      "success_case_list": []
   },{
     "title": "Abilian BCMS",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/conventions-affaires/",
-    "created_year": [],
-    "description": "an open source solution in SaaS mode (or hosted by you) which ensures from A to Z the management of your event, in the best possible conditions",
+    "created_year": "",
+    "description": "An open source solution in SaaS mode (or hosted by you) which ensures from A to Z the management of your event, in the best possible conditions",
     "category_list": [],
     "similar_software_list": [{
       "title": "Eventbrite",
-      "category": [],
+      "category": "",
       "similar_software_url": "https://www.eventbrite.ie/"
     },{
       "title": "ExOrdo",
-      "category": [],
+      "category": "",
       "similar_software_url": "https://www.exordo.com/"
     }],
     "licence_list": [],
-    "source_code_download": [],
-    "source_code_profile": [],
-    "commercial_support_url": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [],
      "success_case_list": []
   },{
     "title": "Abilian JNOV",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/jnov/",
-    "created_year": [],
+    "created_year": "",
     "description": "JNOV is a digital platform accessible via the Internet dedicated to managing interactions with companies or consortia proposing innovative solutions in the context of calls for expressions of interest, calls for projects or cascade funding programs , and to the evaluation of applications submitted by experts",
     "category_list": [],
     "similar_software_list": [],
     "licence_list": [],
-    "source_code_download": [],
-    "source_code_profile": [],
-    "commercial_support_url": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [],
      "success_case_list": []
   },{ 
     "title": "Abilian Joinux",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/joinux/",
-    "created_year": [],
+    "created_year": "",
     "description": "joinux is an admission and selection process management software, particularly adapted to the processes of application and selection of proposals during a conference call and application and selection of candidates for a university training (master, doctorate...) or not, for a competition, etc.",
     "category_list": [],
     "similar_software_list": [],
     "licence_list": [],
-    "source_code_download": [],
-    "source_code_profile": [],
-    "commercial_support_url": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [],
      "success_case_list": []
   },{
     "title": "Abilian CRM",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/crm/",
-    "created_year": [],
+    "created_year": "",
     "description": "With Abilian CRM, you have a solution dedicated to the management of your customer relationship, and in particular to the collection and fine-tuning of information on your prospects, customers, partners, contacts (individuals) within these organizations, your business and your projects.",
     "category_list": [],
     "similar_software_list": [{
       "title": "SuiteCRM",
-      "category": [],
+      "category": "ERP and Business software",
       "similar_software_url": "https://suitecrm.com/"
     },{
       "title": "Odoo",
-      "category": [],
+      "category": "ERP and Business software",
       "similar_software_url": "https://www.odoo.com/fr_FR/app/crm"
     }],
     "licence_list": ["LGPL-2.1 License"],
-    "source_code_download": [],
-    "source_code_profile": [],
-    "commercial_support_url": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
    }]
