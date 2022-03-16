@@ -1,0 +1,173 @@
+{
+  "created": "2022-03-16",
+  "title": "Jamespot",
+  "type": "Corporation",
+  "logo_url": "https://static.wixstatic.com/media/9a1120_ad841b921a7043e2a386b0e389c4901a~mv2.png"
+  "headquarter_country": "FR",
+  "subsidiary_country_list": [],
+  "website_url": "https://www.fr.jamespot.com/",
+  "location": {
+		"title": "Jamespot Siège Social",
+		"address": "66 rue Marceau Bâtiment C",
+		"postal_code": "93100",
+		"city": "Montreuil",
+		"country": "FR",
+		"phone_contact": "+33 (0)1 48 58 18 01",
+		"mail_contact": "info@jamespot.com",
+		"coordinate_list": [48.85216149479038, 2.4262762338751003]
+	},
+  "founded_year": "2005",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "40",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "30",
+    "earnings": "",
+    "total_assets": "4 183 900.00 €",
+    "revenues": "3 165 100",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378202012311.html"
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "3 169 000.00 €",
+    "revenues": "2 642 100	",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378202012311.html"
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+  },{
+    "year": "2015",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+  },{
+    "year": "2014",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+  },{
+    "year": "2013",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html" 
+  },{
+    "year": "2012",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html" 
+  },{
+    "year": "2011",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"
+ },{
+    "year": "2010",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+ },{
+    "year": "2009",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+ },{
+    "year": "2008",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+ },{
+    "year": "2007",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"  
+ },{
+    "year": "2006",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/jamespot-483321378200612311.html"
+  }],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [Telecommunication],[Information Technology]
+    "similar_software_list": [{
+      "title": "Trello",
+      "category": "Information Technology"
+       "title": "Sharepoint",
+      "category": "Information Technology"
+       "title": "SocialCast",
+      "category": "Information Technology"
+    }],
+    "licence_list": [""],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description":"",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "FR",
+      "language": "FR",
+      "success_case_url": "https://cryptpad.fr/pad/#/2/pad/edit/bcJxb9b5yVkxViuZfKRf4eQI/"
+    }]
+  }]
+}
