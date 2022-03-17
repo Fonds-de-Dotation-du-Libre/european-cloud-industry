@@ -37,7 +37,7 @@
     "logo_url": "",
     "website_url": "https://www.shinken-enterprise.com/fr/accueil/",
     "created_year": "2009",
-    "description": "",
+    "description": "At first an open source monitoring solution, Shinken is now an open source monitoring framework, with a higher number of modules, and more importantly a higher level of flexibility, that an all-in-one solution could not provide. Shinken is easy to install and to use; the code is written in Python which means that it is available on different OSs and compatible with Utf8. Flexibility being the main its ain goal, its code remains very generic, modular and independent from other monitoring tools.",
     "solution_list": [{
     "title": "Shinken Monitoring",
     "logo_url": "",
