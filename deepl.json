@@ -2,7 +2,7 @@
   "created": "2022-03-15",
   "title": "DeepL",
   "type": "Corporation",
-  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DeepL_logo.svg/1200px-DeepL_logo.svg.png"
+  "logo_url": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg"
   "headquarter_country": "DE",
   "subsidiary_country_list": [],
   "website_url": "https://www.deepl.com/translator",
@@ -18,13 +18,6 @@
 	},
   "founded_year": "2017",
   "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
     "year": "2020",
     "staff": "",
     "earnings": "",
@@ -54,10 +47,16 @@
     "source_url": "https://www.bundesanzeiger.de/pub/en/search-result?14"
   }],
   "solution_list": [{
-    "title": "",
+    "title": "DeepL Translator",
     "logo_url": "",
-    "website_url": "",
-    "created_year": "",
+    "website_url": "https://www.deepl.com/translator",
+    "created_year": "2017",
+    "description": "Free IA-based translator based that makes it the most efficient web translator. Available in 26 languages it performs several times  better than its competitors.",
+    "category_list": [],
+    "title": "DeepL Pro",
+    "logo_url": "",
+    "website_url": "https://www.deepl.com/pro?cta=header-pro",
+    "created_year": "2018",
     "description": "",
     "category_list": [],
     "similar_software_list": [{
