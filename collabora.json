@@ -22,113 +22,113 @@
     "staff": "117",
     "earnings": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects. The company serves the automotive, OEM, silicon, and digital TV industries.",
     "total_assets": "",
-    "revenues": "22 millions",
+    "revenues": "",
     "source_url": ""
   },{
     "year": "2020",
-    "staff": "",
+    "staff": "26",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£5,337,332",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   }, {
     "year": "2019",
-    "staff": "",
+    "staff": "23",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£4,624,715",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   },{
     "year": "2018",
-    "staff": "",
+    "staff": "21",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£ 4,065,455",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   },{
     "year": "2017",
-    "staff": "",
+    "staff": "23",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£2,778,094",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   },{
     "year": "2016",
-    "staff": "",
+    "staff": "23",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£2,211,750",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
   },{
     "year": "2015",
-    "staff": "",
+    "staff": "26",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£1,355,316",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
   },{
     "year": "2014",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£1,730,246",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
   },{
     "year": "2013",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£4,834,341",
     "revenues": "",
-    "source_url": "" 
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history" 
   },{
     "year": "2012",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£1,788,088",
     "revenues": "",
-    "source_url": "" 
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history" 
   },{
     "year": "2011",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£2,286,241",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
  },{
     "year": "2010",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£1,786,003",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
  },{
     "year": "2009",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£985,820",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
  },{
     "year": "2008",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£616,421",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
  },{
     "year": "2007",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£250,910",
     "revenues": "",
-    "source_url": ""  
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
  },{
     "year": "2006",
     "staff": "",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "£108,113",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   }],
   "solution_list": [{
     "title": "Collabora Office",
@@ -141,7 +141,7 @@
     "logo_url": "",
     "website_url": "https://www.collaboraoffice.com/collabora-online/",
     "created_year": "",
-    "description": "",
+    "description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
     "solution_list": [{
     "title": "Collabora Office for Android & iOS",
     "logo_url": "",
@@ -149,7 +149,7 @@
     "created_year": "",
     "description": "",
     "solution_list": [{
-    "title": "Collabora Onlive Development Edition",
+    "title": "Collabora Online Development Edition",
     "logo_url": "",
     "website_url": "https://www.collaboraoffice.com/code/",
     "created_year": "",
