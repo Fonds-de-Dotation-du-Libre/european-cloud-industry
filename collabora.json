@@ -1,0 +1,204 @@
+{
+  "created": "2022-03-21",
+  "title": "Collabora Online",
+  "type": "Corporation",
+  "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2019/03/collabora-productivity-nav-icon.png",
+  "headquarter_country": "UK",
+  "subsidiary_country_list": ["CA"],
+  "website_url": "https://www.collaboraoffice.com/",
+  "location": {
+		"title": "The Platinum Building",
+		"address": "St John’s Innovation Park",
+		"postal_code": "CB4 0DS",
+		"city": "Cambridge",
+		"country": "UK",
+		"phone_contact": "+44 (0)1223 362967",
+		"mail_contact": "hello@collaboraoffice.com",
+		"coordinate_list": ["52.23426739352286, 0.15209271400327157"]
+	},
+  "founded_year": "2005",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "117",
+    "earnings": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects. The company serves the automotive, OEM, silicon, and digital TV industries.",
+    "total_assets": "",
+    "revenues": "22 millions",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+  },{
+    "year": "2015",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+  },{
+    "year": "2014",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+  },{
+    "year": "2013",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": "" 
+  },{
+    "year": "2012",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": "" 
+  },{
+    "year": "2011",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+ },{
+    "year": "2010",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+ },{
+    "year": "2009",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+ },{
+    "year": "2008",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+ },{
+    "year": "2007",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""  
+ },{
+    "year": "2006",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "Collabora Office",
+    "logo_url": "",
+    "website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
+    "created_year": "",
+    "description": "",
+    "solution_list": [{
+    "title": "Collabora Online",
+    "logo_url": "",
+    "website_url": "https://www.collaboraoffice.com/collabora-online/",
+    "created_year": "",
+    "description": "",
+    "solution_list": [{
+    "title": "Collabora Office for Android & iOS",
+    "logo_url": "",
+    "website_url": "https://www.collaboraoffice.com/solutions/collabora-office-android-ios/",
+    "created_year": "",
+    "description": "",
+    "solution_list": [{
+    "title": "Collabora Onlive Development Edition",
+    "logo_url": "",
+    "website_url": "https://www.collaboraoffice.com/code/",
+    "created_year": "",
+    "description": "",
+    "category_list": "", 
+    "category_list": "",
+    "similar_software_list": [{
+      "title": "Apache OpenOffice",
+      "category": ""
+    }],
+      "similar_software_list": [{
+      "title": "OnlyOffice",
+      "category": ""
+    }],
+      "similar_software_list": [{
+      "title": "Calligra",
+      "category": ""
+    }],
+   "similar_software_list": [{
+       "title": "Zaizi",
+      "category": ""
+    }],
+    "similar_software_list": [{
+       "title": "Sirius",
+      "category": ""
+    }],
+    "licence_list": ["MPL 2.0"],
+    "source_code_download": "https://www.collaboraoffice.com/code/",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "https://collaboraonline.github.io/",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Collabora",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description":"",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
