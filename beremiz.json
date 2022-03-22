@@ -1,0 +1,123 @@
+{
+	"created": "2022-03-18",
+	"title": "Bluemind SAS",
+	"type": "Corporation",
+	"logo_url": [],
+	"location": {
+		"title": "Association",
+		"address": "Hotel des télécoms 40 rue du village d’entreprises",
+		"postal_code": "31670",
+		"city": "Labège",
+		"country": "France",
+		"phone_contact": "+ 33 (0) 5 81 91 55 60",
+		"mail_contact": "contact@bluemind.net",
+		"coordinate_list": []
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.bluemind.net/",
+	"founded_year": "2021-09-25",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "BlueMind",
+		"logo_url": [],
+		"website_url": "https://www.bluemind.net/produit/",
+		"created_year": "2021-09-25",
+		"description": "BlueMind is a free software suite for enterprise messaging, calendaring and collaborative work.  BlueMind is developed in France and is presented as an alternative to MS Exchange and M365.",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "OBM 3",
+			"similiar_software_url":"https://obm.org/",
+			"category": []
+		}, {
+			"title": "Kolab",
+      "similiar_software_url":"https://www.kolab.org/",
+			"category": []
+		}, {
+			"title": "Kopano",
+     	"similiar_software_url":"https://kopano.com/",
+			"category": []
+		}],
+		"licence_list": "AGPL v3",
+		"source_code_download": [],
+		"source_code_profile": [],
+		"commercial_support_url": [],
+		"floss_software": [],
+		"commercial_support_open_source_version": [],
+		"commercial_support_available": [],
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/BlueMind_(logiciel)",
+		"reference_list": [],
+		"success_case_list": [{
+      "title": "The city and the agglomeration of Auxerre migrate their 1100 users accounts to BlueMind",
+      "description": "The city of Auxerre and the community of Agglomeration used BlueMind in their approach of mutualization of services as well as to better define the collaborative base to be proposed to its users by starting from a first perimeter: shared agenda, contacts, mobility, tasks... extensible towards extended collaboration.",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2021/08/Vue_dAuxerre_et_de_lYonne_en_2019-960x262.jpg",
+      "industry": "Community",
+      "customer": "The city and the agglomeration of Auxerre",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/cas-clients/auxerre-ville-et-agglo/"
+    },{
+      "title": "The Group Gagneraud migrates 1500 users to the BlueMind solution",
+      "description": "Groupe Gagneraud used BlueMind to optimize the overall cost of its messaging system and use a multi-platform collaborative solution",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2016/03/Groupe-Gagneraud-1.jpg",
+      "industry": "Construction",
+      "customer": "Groupe Gagneraud",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/wp-content/uploads/2016/03/casclient-gagneraud.pdf"
+    },{
+      "title": "Migration project from Lotus Domino to the BlueMind solution concerning more than 1300 user accounts.",
+      "description": "Mairie de Saint-Ouen used BlueMind to reduce costs, modernize and simplify the management of collaborative tools and define an extensible and open base for collaborative tools",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2016/01/sto_quadri_base-300x209.jpg",
+      "industry": "Community",
+      "customer": "Mairie de Saint-Ouen",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/cas-clients/mairie-de-saint-ouen/"
+    },{
+      "title": "Migration project of a messaging system based on OpenSource components to BlueMind and ActiveDirectory",
+      "description": "Centre Hospitalier des Pyrénées used BlueMind in order to provide agents with a tool that has a battery of modern and practical functionalities; To allow agents to have all functionalities available wherever they are in the institution; To modernize and simplify the daily administration of the collaborative tools; To define an extensible and open base for the collaborative tools",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2016/03/logo-ch-pyr-1.jpg",
+      "industry": "Health",
+      "customer": "Centre Hospitalier des Pyrénées",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/cas-clients/centre-hospitalier-des-pyrenees/"
+    },{
+      "title": "Migration from Exchange to BlueMind at S20 Industries",
+      "description": "S20 Industries used BlueMind to reduce costs; modernize and simplify the management of collaborative tools; define an extensible and open base for collaborative tools",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2017/10/S20-industries-logo.png",
+      "industry": "Industry",
+      "customer": "S20 Industries",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/cas-clients/s20-industries/"
+    },{
+      "title": "Migration from Microsoft NT 4.0 to BlueMind at Douarnenez City Hall",
+      "description": "The implementation of BlueMind follows a complete overhaul of the information system started in 2011. In 2014 the city launched an economic and technological study to find a new collaborative messaging solution. They chose BlueMind which fulfilled all the functional criteria in addition to being French, open source and much less expensive than American solutions.",
+      "image_url": [],
+      "industry": "Community",
+      "customer": "Mairie de Douarnenez",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/wp-content/uploads/2019/01/Ville-de-Douarnenez.pdf"
+    },{
+      "title": "Migration project from Gosa to the BlueMind solution concerning 350 user accounts.",
+      "description": "They used BlueMind to modernize and simplify the management of collaborative tools, define an extensible and open base for collaborative tools",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2017/11/mairie-savigny-sur-orge-68x150.png",
+      "industry": "Community",
+      "customer": "Mairie de Savigny-sur-Orge",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/cas-clients/mairie-savigny-sur-orge/"
+    },{
+      "title": "Migration from Zimbra to BlueMind at Usharesoft",
+      "description": "UShareSoft used BlueMind to reduce costs, modernize and simplify the management of collaborative tools such as calendars, aliases and shared mailboxes",
+      "image_url": "https://www.bluemind.net/wp-content/uploads/2017/09/UShareSoft-logo.png",
+      "industry": "Services",
+      "customer": "UShareSoft",
+      "country": "fr",
+      "language": "fr",
+      "success_case_url": "https://www.bluemind.net/cas-clients/usharesoft/"
+    }]
+  }]
+}
