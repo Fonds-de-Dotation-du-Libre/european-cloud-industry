@@ -30,12 +30,12 @@
       "category": ""
     }],
     "licence_list": ["Sketch Subscription "],
-    "source_code_download": "",
-    "source_code_profile": "https://github.com/sketch-hq/",
-    "commercial_support_url": "",
-    "floss_software": "https://developer.sketch.com/file-format/?_ga=2.228355865.520126721.1647617988-1126541352.1647617988",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "Subscription service",
+    "source_code_download": "https://developer.sketch.com/file-format/",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.sketch.com/pricing/",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sketch_(software)",
     "reference_list": [{
       "title": "",
