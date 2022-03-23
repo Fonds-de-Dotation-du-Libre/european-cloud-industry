@@ -1,0 +1,102 @@
+{
+  "created": "2022-03-23",
+  "title": "Woteks",
+  "type": "Corporation",
+  "logo_url": "https://framalibre.org/sites/default/files/worteks_logo_square_black.png",
+  "headquarter_country": "FR",
+  "subsidiary_country_list": [],
+  "website_url": "https://www.worteks.com/",
+  "location": {
+		"title": "Worteks Siège Social",
+		"address": "7 rue Diderot",
+		"postal_code": "92000",
+		"city": "Nanterre",
+		"country": "FR",
+		"phone_contact": "+33184208647",
+		"mail_contact": "info@worteks.com",
+		"coordinate_list": ["48.887029190768544, 2.2098383478066896"]
+	},
+  "founded_year": "2016",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "9",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
+  },{
+    "year": "2020",
+    "staff": "9",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "1 870 600 €",
+    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
+  }, {
+    "year": "2019",
+    "staff": "9",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "1 531 400 €",
+    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
+  },{
+    "year": "2018",
+    "staff": "8",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "1 159 500 €",
+    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
+  },{
+    "year": "2017",
+    "staff": "6",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "541 600 €",
+    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html" 
+  },{
+  "solution_list": [{
+    "title": "W'Sweet",
+    "logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
+    "website_url": "https://www.wsweet.org/",
+    "created_year": "",
+    "description": " ",
+    "category_list": "Information Technology",
+  "solution_list": [{
+    "title": "W'Opla",
+    "logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+    "website_url": "https://www.worteks.com/edition/wopla/",
+    "created_year": "",
+    "description": "",
+    "category_list": "Information Technology", 
+  "solution_list": [{
+    "title": "W'IDaaS",
+    "logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
+    "website_url": "https://www.worteks.com/edition/widaas/",
+    "created_year": "",
+    "description": "",
+    "category_list": "Information Technology", 
+    "similar_software_list": [],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": "",
+    "success_case_list": [{
+      "title": "",
+      "description":"",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": "",
+    }]
+  }]
+}
