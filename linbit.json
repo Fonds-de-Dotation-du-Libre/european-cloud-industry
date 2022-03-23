@@ -32,7 +32,7 @@
       "title": "Storage for Solution Providers",
 			"similiar_software_url": "https://storpool.com/storage-for-solution-providers/",
 			"category": []
-    }] 
+    }], 
 		"licence_list": ["General Public License v3.0"],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/#linstor",
 		"source_code_profile": "https://github.com/LINBIT",
@@ -60,7 +60,7 @@
 		"commercial_support_available": [],
 		"wikipedia_url": [],
 		"reference_list": [],
-		"success_case_list": [],
+		"success_case_list": []
 	},{
     "title": "DRBD Proxy",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/09/DRBDProxy-1024x119.png",
@@ -78,7 +78,7 @@
 		"commercial_support_available": [],
 		"wikipedia_url": [],
 		"reference_list": [],
-		"success_case_list": [],
+		"success_case_list": []
   },{
     "title": "winDRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
@@ -98,4 +98,4 @@
 		"reference_list": [],
 		"success_case_list": []
   }]
-}]
+}
