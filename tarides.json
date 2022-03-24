@@ -26,11 +26,11 @@
     "source_url": ""
   }],
   "solution_list": [{
-    "title": "Docker for Desktop",
+    "title": "Docker",
     "logo_url": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp",
     "website_url": "https://www.docker.com/",
     "created_year": "",
-    "description": "",
+    "description": "Docker is an open platform for developing, shipping, and running applications. It enables you to separate your applications from your infrastructure so you can deliver software quickly.",
     "solution_list": [{
     "title": "Qubes OS",
     "logo_url": "https://www.qubes-os.org/attachment/icons/128x128/apps/qubes-logo-icon.png",
@@ -42,11 +42,12 @@
     "logo_url": "https://mirage.io/logo.svg",
     "website_url": "https://mirage.io/",
     "created_year": "",
-    "description":"",
+    "description":"MirageOS is a library operating system that constructs unikernels for secure, high-performance applications across a variety of cloud computing and mobile platforms.",
     "solution_list": [{
     "title": "Irmin",
     "logo_url": "https://dbdb.io/media/logos/irmin.png",
-    "website_url": "https://irmin.org/", 
+    "website_url": "https://irmin.org/",
+    "description": "Irmin is a distributed database that follows the same design principles as Git." 
     "category_list": "",
     "similar_software_list": [{
       "title": "",
