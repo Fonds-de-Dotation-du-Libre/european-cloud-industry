@@ -88,7 +88,7 @@
 			"industry": "Aerospace",
 			"customer": "Airbus DS Geo Gmbh",
 			"country": "DE",
-			"language": "eng",
+			"language": "EN",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Airbus.Success.Case"
 			}, {
 			"title": "Complete Coverage ERP Implementation for Japanese Pesticide Producer",
@@ -97,7 +97,7 @@
 			"industry": "Chemical Manufacturing",
 			"customer": "Sankei Chemical",
 			"country": "JP",
-			"language": "ENG",
+			"language": "EN",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Sankei.Success.Case"
 			}, {
 			"title": "Local HTML5 App and central ERP5 to manage supply-production-sales data for 14 companies",
@@ -106,7 +106,7 @@
 			"industry": "Manufacturing",
 			"customer": "GKR international group",
 			"country": "CN",
-			"language": "ENG",
+			"language": "EN",
 			"success_case_url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
 			}, {
 			"title": "Zawee runs its local fashion shops and eCommerce web site with ERP5",
@@ -114,8 +114,8 @@
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Zawee?display=thumbnail&format=png",
 			"industry": "Retail",
 			"customer": "Zawee",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Zawee.Success.Case"
 			}, {
 			"title": "Single integrated front and back office solution to power an eBusiness",
@@ -123,8 +123,8 @@
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Sanef?display=thumbnail&format=png",
 			"industry": "Warehousing and auxiliary transport services",
 			"customer": "Sanef",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.nexedi.com/success/erp5-SanefTolling.Success.Case"
 			}, {
 			"title": "Cloud-based financial management and consolidated OLAP reporting for an international NGO",
@@ -133,7 +133,7 @@
 			"industry": "NGO",
 			"customer": "Aide et Action International",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://www.nexedi.com/success/erp5-NGO.Success.Case"
 			}, {
 			"title": "Running a Massive Open Online Course with ERP5 for 1500 students for Technische Universität Dresden and Supinfo",
@@ -141,8 +141,8 @@
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Tu.Dresden?display=thumbnail&format=png",
 			"industry": "Higher Education",
 			"customer": "Technische Universität Dresden and Supinfo",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MOOC.Success.Case"
 			}, {
 			"title": "MMC Rus Success Case",
@@ -151,7 +151,7 @@
 			"industry": "Automobile manufacturing",
 			"customer": "Mitsubishi Motors",
 			"country": "RU",
-			"language": "ENG",
+			"language": "EN",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MMC.Rus.Success.Case"
 			}, {
 			"title": "Flexible Configurable Workflows and Advanced Security for Core Business Processes of a Central Bank",
@@ -160,7 +160,7 @@
 			"industry": "Banking",
 			"customer": "central bank",
 			"country": [],
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Central.Bank.Success.Case"
 			}]
 		}, {
