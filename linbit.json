@@ -11,8 +11,8 @@
 		"country": "AUT",
 		"phone_contact": "+43 1 817 82 92-0",
 		"mail_contact": "office@linbit.com",
-		"coordinate_list": ""
-	},
+		"coordinate_list": []
+		},
 	"subsidiary_location_list": [],
 	"website_url": "https://linbit.com/",
 	"founded_year": "2001",
@@ -28,11 +28,11 @@
 			"title": "SANsymphony",
 			"similiar_software_url": "https://www.datacore.com/products/sansymphony/",
 			"category": []
-		},{
-      "title": "Storage for Solution Providers",
+			},{
+      			"title": "Storage for Solution Providers",
 			"similiar_software_url": "https://storpool.com/storage-for-solution-providers/",
 			"category": []
-    }], 
+    			}], 
 		"licence_list": ["General Public License v3.0"],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/#linstor",
 		"source_code_profile": "https://github.com/LINBIT",
@@ -43,7 +43,7 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": []
-  },{
+  		},{
 		"title": "DRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
 		"website_url": "https://linbit.com/drbd/",
@@ -61,8 +61,8 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": []
-	},{
-    "title": "DRBD Proxy",
+		},{
+    		"title": "DRBD Proxy",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/09/DRBDProxy-1024x119.png",
 		"website_url": "https://linbit.com/drbd-proxy/",
 		"created_year": [],
@@ -79,8 +79,8 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": []
-  },{
-    "title": "winDRBD",
+  		},{
+    		"title": "winDRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
 		"website_url": "https://linbit.com/windrbd-replicated-disk-drives-for-windows/",
 		"created_year": [],
