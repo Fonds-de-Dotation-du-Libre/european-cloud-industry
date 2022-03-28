@@ -9,7 +9,7 @@
 		"postal_code": "75002",
 		"city": "PARIS",
 		"country": "FR",
-		"phone_contact": "+33616132041",
+		"phone_contact": "+33 (0) 616132041",
 		"mail_contact": "contact@netframe.co",
 		"coordinate_list": []
 	},
@@ -32,12 +32,12 @@
 			"title": "Google workspace",
 			"similiar_software_url": "https://workspace.google.com/",
 			"category": []
-    },{
-      "title": "Miscrosoft Teams",
+    		},{
+      			"title": "Miscrosoft Teams",
 			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": []
 		}],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": [],
 		"source_code_profile": [],
 		"commercial_support_url": [],
