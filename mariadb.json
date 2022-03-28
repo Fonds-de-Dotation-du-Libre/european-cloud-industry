@@ -1,35 +1,35 @@
 {
-  "created": "",
-  "title": "",
-  "type": "",
-  "logo_url": "",
+  "created": "2009",
+  "title": "mariadb",
+  "type": "corporation",
+  "logo_url": "https://mariadb.com/fr/about-us/logos/",
   "location": {
-    "title": "",
-    "address": "",
-    "postal_code": "",
-    "city": "",
-    "country": "",
-    "phone_contact": "",
-    "mail_contact": "",
+    "title": "mariadb",
+    "address": "Tekniikantie 12",
+    "postal_code": " 02150",
+    "city": "Espo",
+    "country": "Finland",
+    "phone_contact": "12 Tekniikantie. Redwood City, CA. United States",
+    "mail_contact": "sales-EMEA@mariadb.com",
     "coordinate_list": []
   },
-  "subsidiary_location_list": [],
-  "website_url": "",
-  "founded_year": "",
+  "subsidiary_location_list": [Basel, Bern, Zurich, the Netherlands],
+  "website_url": "https://mariadb.com/fr/",
+  "founded_year": "2009",
   "kpi_list": [{
     "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
+    "staff": "Michael Howard, Amir Ameri, Jon Bakke,Franz Aman, Jags Ramnarayan,Mick Carney,Gregory Dorman, Bill Flynn, Sergei Golubchik,Kurt Haberkamp,Saravana Krishnamurthy,Max Mether,Robbie Mihalyi,Bill Munger,Jim Sears,Magnus Stenberg,Alexey Vorovich,Laura Wang,Michael "Monty" Widenius,Tim Yim",
+    "earnings": " $20.4 million on revenue",
+    "total_assets": "99,161 ",
+    "revenues": "$20.4 million on revenue",
+    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   },{
     "year": "2020",
     "staff": "",
-    "earnings": "",
+    "earnings": "$30.7 million ",
     "total_assets": "",
-    "revenues": "",
-    "source_url": ""
+    "revenues": "$20.4 million on revenue of $30.7 million",
+    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   }, {
     "year": "2019",
     "staff": "",
@@ -47,38 +47,75 @@
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "earnings": "-107,750 (before taxes)",
+    "total_assets": "99,161",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   },{
     "year": "2016",
     "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "earnings": "-33,054 (before taxes)",
+    "total_assets": "161,947",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   }],
   "solution_list": [{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
-    "description": "",
+    "title": "Dynamic Active Record ",
+    "logo_url": "https://mariadb.com/",
+    "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
+    "created_year": "11 years, 2 months ago",
+    "description": "The yii2-dynamic-ar extension uses MariaDB dynamic columns to add NoSQL-like documents to Yii 2 Framework's Active Record ORM",
     "category_list": [],
     "similar_software_list": [{
       "title": "",
       "similiar_software_url": "",
       "category": ""
+      
+      "title": "ocelotgui",
+    "logo_url": "https://mariadb.com/",
+    "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
+    "created_year": "11 years, 2 months ago",
+    "description": "supports MariaDB 10.2 window functions.",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+      
+      "title": "Shard-query",
+    "logo_url": "https://mariadb.com/",
+    "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
+    "created_year": "11 years, 2 months ago",
+    "description": "has special support for MariaDB 10.0 features",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+      
+     "title": "SQL Maestro for MySQL ",
+    "logo_url": "https://mariadb.com/",
+    "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
+    "created_year": "11 years, 2 months ago",
+    "description": "is a database management tool that provides direct support for a number of MariaDB features like roles, check constraints, and virtual columns.",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+      
     }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
+    "licence_list": [  GPL license, version 2. ],
+    "source_code_download": "https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.6.7&os=Linux&cpu=x86_64&pkg=tar_gz&i=systemd&m=bkns",
+    "source_code_profile": "The SHOW PROFILE and SHOW PROFILES statements display profiling information that indicates resource usage for statements executed during the course of the current session.
+Profiling is controlled by the profiling session variable, which has a default value of 0 (OFF). Profiling is enabled by setting profiling to 1 or ON:",
+    "commercial_support_url": "https://mariadb.com/fr/pricing/",
+    "floss_software": "The MySQL AB Exception for Free/Libre and Open Source
+Software-only Applications Using MySQL Client Libraries (the
+"FLOSS Exception").",
+    "commercial_support_open_source_version": "supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL, who forked it due to concerns over its acquisition by Oracle Corporation in 2009.",
     "commercial_support_available": "",
-    "wikipedia_url": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Licensing",
     "reference_list": [{
       "title": "",
       "logo_url": "",
