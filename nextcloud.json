@@ -28,11 +28,11 @@
 			"title": "Cryptpad",
 			"similiar_software_url": "https://cryptpad.fr/",
 			"category": []
-		}, {
+			}, {
 			"title": "Google workspace",
 			"similiar_software_url": "https://workspace.google.com/",
 			"category": []
-		}, {
+			}, {
 			"title": "Microsoft 365",
 			"similar_software_url": "https://www.microsoft.com/en/microsoft-365",
 			"category": []
@@ -55,7 +55,7 @@
 			"country": "LU",
 			"language": "ENG",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CGIE_Luxembourg_HNK_whitepaper.pdf"
-		}, {
+			}, {
 			"title": "Nextcloud for 33K middle school students in France",
 			"description": "SIB provides infrastructures to teachers and pupils: computers, servers, hosted applications, networks and support. To modernize their former file system with new requirements (remote access, multidevices compatibility, advanced collaboration features on documents, advanced sharing features and share groups) they chose Nextcloud",
 			"image_url": [],
@@ -64,7 +64,7 @@
 			"country": "FR",
 			"language": "FR",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
-		}, {
+			}, {
 			"title": "Germany’s public radio and television deploys Nextcloud",
 			"description": "Extensive use of Nextcloud for easy transfer of multi-gigabyte sized audio/video files from remote locations to processing studios in Germany",
 			"image_url": [],
@@ -73,7 +73,7 @@
 			"country": "DE",
 			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-IVZ_Web.pdf"
-		}, {
+			}, {
 			"title": "Building a platform for efficient collaboration that is ready for the future",
 			"description": "Project space for document exchange and collaboration with hundreds of external participants",
 			"image_url": [],
@@ -82,7 +82,7 @@
 			"country": "DE",
 			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy_DEGES_Web_22072019.pdf"
-		}, {
+			}, {
 			"title": "Keeping data secure for a globally distributed organization working with politically sensitive data",
 			"description": "Users at the Konrad-Adenauer-Stiftung regularly uploaded files to public cloud services like Dropbox or Google Drive.  The social and politically sensitive work done by the Konrad-Adenauer-Stiftung created a strong motivation to look for a file sharing solution that IT could control. KAS started their own cloud project named ‘the KASCloud’ in 2015, building on ownCloud 7. In 2017, they decided to migrate to Nextcloud because of its capabilities to authenticate users against our LDAP directory in combination with the open source strategy.",
 			"image_url": [],
@@ -91,7 +91,7 @@
 			"country": "DE",
 			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-KonradAdenauerStiftung-WebVersion-072018.pdf"
-		}, {
+			}, {
 			"title": "tubCloud migration to Nextcloud 11",
 			"description": "May 2017 the Technische Universität Berlin migrated from ownCloud 9.1 to Nextcloud 11, achieving over 38 % lower database load at peak times. This brought faster service for users as well as user interface improvements and better security. The migration was planned and executed in under 4 weeks without any problems and did not need the stand-by support from Nextcloud. This case study details the architecture and infrastructure at the TU Berlin, migration planning and execution as well as the results.",
 			"image_url": [],
@@ -100,7 +100,7 @@
 			"country": "DE",
 			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-tubCloud-TUBerlin-WebVersion-072018."
-		}, {
+			}, {
 			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
 			"description": "",
 			"image_url": [],
@@ -109,8 +109,8 @@
 			"country": "SA",
 			"language": "ENG",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
-		}]
-	}, {
+			}]
+		}, {
 		"title": "Nextcloud Outlook Integration",
 		"logo_url": [],
 		"website_url": "https://nextcloud.com/outlook/",
@@ -128,8 +128,8 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": [],
-	},{
-    "title": "Collabora Online",
+		},{
+    		"title": "Collabora Online",
 		"logo_url": [],
 		"website_url": "https://nextcloud.com/collaboraonline/",
 		"created_year": "2016",
@@ -139,11 +139,11 @@
 			"title": "LibreOffice",
 			"similiar_software_url": "https://www.libreoffice.org/",
 			"category": []
-		}, {
+			}, {
 			"title": "Google Docs",
 			"similiar_software_url": "https://workspace.google.com/products/docs/",
 			"category": []
-		}, {
+			}, {
 			"title": "Open Office",
 			"similar_software_url": "https://www.openoffice.org/",
 			"category": []
@@ -166,7 +166,7 @@
 			"country": "FR",
 			"language": "FR",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
-    },{
+    			},{
 			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online"
 			"description": "",
 			"image_url": [],
@@ -175,23 +175,23 @@
 			"country": "SA",
 			"language": "ENG",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
-    }]
-  },{
-    "title": "ONLYOFFICE",
+   			 }]
+  		},{
+    		"title": "ONLYOFFICE",
 		"logo_url": [],
 		"website_url": "https://nextcloud.com/onlyoffice/",
 		"created_year": [],
 		"description": "ONLYOFFICE integration in Nextcloud empowers your users to collaborate on office documents with team members in real time. Compatibility with Microsoft Office formats means perfect documents, every time.",
 		"category_list": [],
 		"similar_software_list": [{
-      "title": "LibreOffice",
+     			"title": "LibreOffice",
 			"similiar_software_url": "https://www.libreoffice.org/",
 			"category": []
-		}, {
+			}, {
 			"title": "Google Docs",
 			"similiar_software_url": "https://workspace.google.com/products/docs/",
 			"category": []
-		}, {
+			}, {
 			"title": "Open Office",
 			"similar_software_url": "https://www.openoffice.org/",
 			"category": []
