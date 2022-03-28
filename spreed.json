@@ -1,0 +1,133 @@
+
+{
+  "created": "2022-03-28",
+  "title": "Spreed",
+  "type": "Corporation",
+  "logo_url": "https://www.spreed.eu/media/SpreedEU_white.png",
+  "location": {
+    "title": "Struktur AG",
+    "address": "Hauptmannsreute 44A",
+    "postal_code": "D-70192",
+    "city": "Stuttgart",
+    "country": "DE",
+    "phone_contact": "+49 711 25 24 28 66",
+    "mail_contact": "support@spreed.com",
+    "coordinate_list": ["48.78727972352557, 9.154593940842148"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "",
+  "founded_year": "",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "Spreedbox",
+    "logo_url": "",
+    "website_url": "https://www.spreed.eu/spreedbox-team-collaboration-server/",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+     "title": "Jitsi",
+      "similiar_software_url": "https://meet.jit.si/",
+      "category": "Information Technology"
+     "title": "Mumble",
+      "similiar_software_url": "https://www.mumble.com/",
+      "category": "Information Technology"
+     "title": "Wire",
+      "similiar_software_url": "https://wire.com/en/",
+      "category": "Information Technology"
+     "title": "Signal",
+      "similiar_software_url": "https://signal.org/",
+      "category": "Information Technology"
+     "title": "Big Blue Button",
+      "similiar_software_url": "https://bigbluebutton.org/",
+      "category": "Information Technology"
+     "title": "Briefing",
+      "similiar_software_url": "https://brie.fi/ng",
+      "category": "Information Technology"
+     "title": "Matrix",
+      "similiar_software_url": "https://matrix.org/",
+      "category": "Information Technology"
+     "title": "Zoom",
+      "similiar_software_url": "https://zoom.us/",
+      "category": "Information Technology"
+     "title": "Teams",
+      "similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
+      "category": "Information Technology"
+     "title": "Hangouts",
+      "similiar_software_url": "https://hangouts.google.com/",
+      "category": "Information Technology"
+     "title": "Skype",
+      "similiar_software_url": "https://www.skype.com/",
+      "category": "Information Technology"
+     "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["AGPL-3.0"],
+    "source_code_download": "https://github.com/nextcloud/spreed.git",
+    "source_code_profile": "https://www.openhub.net/p/spreed/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.spreed.eu/shop/",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
