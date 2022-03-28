@@ -19,17 +19,17 @@
   "kpi_list": [{
     "year": "2021",
     "staff": "319",
-    "earnings": " $20.4 million on revenue",
+    "earnings": " m€",
     "total_assets": "99161",
-    "revenues": "$20.4 million on revenue",
-    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
+    "revenues": "36.7m€",
+    "source_url": ""
   },{
     "year": "2020",
     "staff": "",
-    "earnings": "$30.7 million ",
+    "earnings": "",
     "total_assets": "",
-    "revenues": "$20.4 million on revenue of $30.7 million",
-    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
+    "revenues": "",
+    "source_url": ""
   }, {
     "year": "2019",
     "staff": "",
@@ -47,37 +47,37 @@
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "-107,750 (before taxes)",
-    "total_assets": "99,161",
+    "earnings": " 12.06m€",
+    "total_assets": "161,947",
     "revenues": "",
     "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   },{
     "year": "2016",
     "staff": "",
-    "earnings": "-33,054 (before taxes)",
-    "total_assets": "161,947",
+    "earnings": "",
+    "total_assets": "",
     "revenues": "",
-    "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
+    "source_url": ""
   }],
-  "solution_list": [{}, {}, {}
-    "title": "Dynamic Active Record ",
-    "logo_url": "https://mariadb.com/",
+  "solution_list": [{MariaDB Community Server}, {MariaDB Enterprise}, {MariaDB SkySQL}
+    "title": "MariaDB Community Server",
+    "logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_blue-transparent.png",
     "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
-    "created_year": "11 years, 2 months ago",
+    "created_year": "2009",
     "description": "The yii2-dynamic-ar extension uses MariaDB dynamic columns to add NoSQL-like documents to Yii 2 Framework's Active Record ORM",
     "category_list": [],
     "similar_software_list": [{
-      "title": "MySQL",
+      "title": "ocelotgui ",
       "similiar_software_url": "",
       "category": ""
     }, {
-      "title": "",
-      "similiar_software_url": "",
+      "title": "MySQL",
+      "similiar_software_url": "https://www.mysql.com/fr/",
       "category": ""
     }],
-    "logo_url": "https://mariadb.com/",
+    "logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-black.svg",
     "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
-    "created_year": "11 years, 2 months ago",
+    "created_year": "2009",
     "description": "supports MariaDB 10.2 window functions.",
     "category_list": [],
     "similar_software_list": [{
@@ -86,9 +86,9 @@
       "category": ""
       
       "title": "Shard-query",
-    "logo_url": "https://mariadb.com/",
+    "logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-black.svg",
     "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
-    "created_year": "11 years, 2 months ago",
+    "created_year": "2009",
     "description": "has special support for MariaDB 10.0 features",
     "category_list": [],
     "similar_software_list": [{
@@ -97,9 +97,9 @@
       "category": ""
       
      "title": "SQL Maestro for MySQL ",
-    "logo_url": "https://mariadb.com/",
+    "logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-black.svg",
     "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
-    "created_year": "11 years, 2 months ago",
+    "created_year": "2009",
     "description": "is a database management tool that provides direct support for a number of MariaDB features like roles, check constraints, and virtual columns.",
     "category_list": [],
     "similar_software_list": [{
@@ -120,38 +120,38 @@ Software-only Applications Using MySQL Client Libraries (the
     "commercial_support_available": "",
     "wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Licensing",
     "reference_list": [{
-      "title": "Walgreens",
-      "logo_url": "",
+      "title": "Walgreens turns to MariaDB as part of open source push",
+      "logo_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/03/walgreens-customer-page-300x180.png.webp",
       "country": "US",
-      "industry": ""
+      "industry": "Pharmaceuticals"
     }],
     "success_case_list": [{
       "title": "Samsung",
-      "description": "adasdasdasda",
-      "image_url": "logo url",
-      "industry": "",
+      "description": "SAMSUNG CLOUD OPERATION TEAM AUTHENTICATES 10 BILLION+ REQUESTS DAILY WITH MARIADB XPAND; CUTS COSTS BY 50%",
+      "image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/03/samsung-customer-300x180.png.webp",
+      "industry": "Cellphone development",
       "customer": "Samung",
       "country": "KR",
       "language": "en",
-      "success_case_url": "URL"
+      "success_case_url": "https://mariadb.com/wp-content/uploads/2021/11/samsung-cloud-authenticates-10-billion-requests-daily-with-mariadb-xpand_customer-story_1127.pdf"
     }, {
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Global Health Initiative Relies on MariaDB to Manage and Analyze Multi-Billion-Row Tables",
+      "description": "HME serves as the most comprehensive effort to date to analyze disability and death from a multitude of causes worldwide.",
+      "image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/ihme-gray-300x180.png.webp",
+      "industry": "Health",
+      "customer": "IHME",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://mariadb.com/resources/customer-stories/ihme/"
     }, {
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Red Hat Builds Enterprise Applications with MariaDB ",
+      "description": "Red Hat, one of the most successful and respected open source corporations in the world, offers enterprise IT solutions through its comprehensive portfolio of products and services. ",
+      "image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/redhat-gray2-300x180.png.webp",
+      "industry": "IT",
+      "customer": "Red Hat",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://mariadb.com/wp-content/uploads/2018/10/RedHat_Case_Study_MariaDB.pdf"
     }]
   }]
 }
