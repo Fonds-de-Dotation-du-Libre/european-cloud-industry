@@ -9,7 +9,7 @@
 		"postal_code": "70192",
 		"city": "Stuttgart",
 		"country": "DE",
-		"phone_contact": "",
+		"phone_contact": [],
 		"mail_contact": "contact@nextcloud.com",
 		"coordinate_list": []
 	},
@@ -173,7 +173,7 @@
 			"industry": "Education",
 			"customer": "North-West University",
 			"country": "SA",
-			"language": "ENG",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
    			 }]
   		},{
