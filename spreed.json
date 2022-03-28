@@ -15,95 +15,50 @@
     "coordinate_list": ["48.78727972352557, 9.154593940842148"]
   },
   "subsidiary_location_list": [],
-  "website_url": "",
-  "founded_year": "",
-  "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }],
+  "website_url": "https://www.spreed.eu/",
+  "founded_year": "2016",
+  "kpi_list": [],
   "solution_list": [{
     "title": "Spreedbox",
-    "logo_url": "",
+    "logo_url": "https://www.spreed.me/wp-content/themes/spreedme/images/logo.png",
     "website_url": "https://www.spreed.eu/spreedbox-team-collaboration-server/",
-    "created_year": "",
+    "created_year": "2016",
     "description": "",
-    "category_list": [],
+    "category_list": ["Telecommunication"],
     "similar_software_list": [{
      "title": "Jitsi",
       "similiar_software_url": "https://meet.jit.si/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Mumble",
       "similiar_software_url": "https://www.mumble.com/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Wire",
       "similiar_software_url": "https://wire.com/en/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Signal",
       "similiar_software_url": "https://signal.org/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Big Blue Button",
       "similiar_software_url": "https://bigbluebutton.org/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Briefing",
       "similiar_software_url": "https://brie.fi/ng",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Matrix",
       "similiar_software_url": "https://matrix.org/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Zoom",
       "similiar_software_url": "https://zoom.us/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Teams",
       "similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Hangouts",
       "similiar_software_url": "https://hangouts.google.com/",
-      "category": "Information Technology"
+      "category": "Telecommunication"
      "title": "Skype",
       "similiar_software_url": "https://www.skype.com/",
-      "category": "Information Technology"
-     "title": "",
-      "similiar_software_url": "",
-      "category": "Information Technology"
+      "category": "Telecommunication"
     }],
     "licence_list": ["AGPL-3.0"],
     "source_code_download": "https://github.com/nextcloud/spreed.git",
