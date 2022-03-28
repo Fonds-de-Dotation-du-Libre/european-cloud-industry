@@ -7,7 +7,7 @@
 		"title": "Netframe.co SAS",
 		"address": " 81, rue Réaumur",
 		"postal_code": "75002",
-		"city": "PARIS",
+		"city": "Paris",
 		"country": "FR",
 		"phone_contact": "+33 (0) 616132041",
 		"mail_contact": "contact@netframe.co",
@@ -28,11 +28,11 @@
 			"title": "Jamespot",
 			"similiar_software_url": "https://www.fr.jamespot.com/",
 			"category": []
-		}, {
+			}, {
 			"title": "Google workspace",
 			"similiar_software_url": "https://workspace.google.com/",
 			"category": []
-    		},{
+    			},{
       			"title": "Miscrosoft Teams",
 			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": []
