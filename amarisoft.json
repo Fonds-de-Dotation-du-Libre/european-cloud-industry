@@ -8,7 +8,7 @@
 		"address": "16-18 Rue Rivay",
 		"postal_code": "92300",
 		"city": "Levallois-Perret",
-		"country": "France",
+		"country": "FR",
 		"phone_contact": [],
 		"mail_contact": "sales@amarisoft.com",
 		"coordinate_list": []
@@ -28,13 +28,9 @@
 			"title": "Nutaq PicoLTE",
 			"similiar_software_url":"https://nutaq.com/fr/",
 			"category": []
-		}, {
+			}, {
 			"title": "Valid8 UE emulator",
-      "similiar_software_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
-			"category": []
-		}, {
-			"title": "Patras 5G Autonomous Edge",
-     	"similiar_software_url":"https://wiki.patras5g.eu/5g-autonomous-edge",
+      			"similiar_software_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
 			"category": []
 		}],
 		"licence_list": [],
@@ -47,8 +43,8 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": []
-	},{
-    "title": "Amari UE Simbox/UE Simbox E",
+		},{
+    		"title": "Amari UE Simbox/UE Simbox E",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/test-measurements/amari-ue-simbox/",
 		"created_year": [],
@@ -58,9 +54,9 @@
 			"title": "ABot",
 			"similiar_software_url":"https://www.rebaca.com/telecom/solutions#",
 			"category": []
-		}, {
+			}, {
 			"title": "dsTest",
-      "similiar_software_url":"https://www.developingsolutions.com/products/about-dstest/",
+      			"similiar_software_url":"https://www.developingsolutions.com/products/about-dstest/",
 			"category": []
 		}],
 		"licence_list": [],
@@ -73,8 +69,8 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": []
-  },{
-    "title": "Small Cell",
+  		},{
+    		"title": "Small Cell",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/network-deployment/",
 		"created_year": [],
@@ -84,9 +80,9 @@
 			"title": "Indoor Small cell 5G network AIR 1279",
 			"similiar_software_url":"https://www.ericsson.com/en/small-cells/indoor-coverage",
 			"category": []
-		}, {
+			}, {
 			"title": "Garuda",
-      "similiar_software_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
+      			"similiar_software_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
 			"category": []
 		}],
 		"licence_list": [],
@@ -99,8 +95,8 @@
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Small_cell",
 		"reference_list": [],
 		"success_case_list": []
-   },{
-    "title": "Macro Cell",
+   		},{
+    		"title": "Macro Cell",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/network-deployment/",
 		"created_year": [],
@@ -110,9 +106,9 @@
 			"title": "Macrocell solutions",
 			"similiar_software_url":"https://www.tessco.com/commercial/solutions/macrocell-solutions",
 			"category": []
-		}, {
+			}, {
 			"title": "Macrocell sites",
-      "similiar_software_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
+     			"similiar_software_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
 			"category": []
 		}],
 		"licence_list": [],
@@ -125,8 +121,8 @@
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Macrocell",
 		"reference_list": [],
 		"success_case_list": [] 
-   },{
-    "title": "LTE access point",
+   	   	},{
+    		"title": "LTE access point",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/network-deployment/",
 		"created_year": [],
@@ -136,9 +132,9 @@
 			"title": "LTE/5G products",
 			"similiar_software_url":"https://mikrotik.com/products/group/lte-5g-products",
 			"category": []
-    },{
-      "title": "LTE",
-      "similar_software_url": "https://www.anritsu.com/en-gb/test-measurement/technologies/lte"
+          	},{
+      		"title": "LTE",
+    	  	"similar_software_url": "https://www.anritsu.com/en-gb/test-measurement/technologies/lte"
 		}],
 		"licence_list": [],
 		"source_code_download": [],
@@ -150,8 +146,8 @@
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Routeur_4G/LTE",
 		"reference_list": [],
 		"success_case_list": []   
-  },{
-    "title": "Private Network",
+  	 	 },{
+   		"title": "Private Network",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/network-deployment/",
 		"created_year": [],
@@ -160,7 +156,7 @@
 		"similar_software_list": [{
 			"title": "Private Networks",
 			"similiar_software_url":"https://www.scaleway.com/en/private-networks/",
-			"category": ""
+			"category": []
 		}],
 		"licence_list": [],
 		"source_code_download": [],
@@ -172,8 +168,8 @@
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Private_network#:~:text=In%20Internet%20networking%2C%20a%20private,define%20private%20IP%20address%20ranges.",
 		"reference_list": [],
 		"success_case_list": [] 
-  },{
-    "title": "DAS",
+	  	},{
+    		"title": "DAS",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/network-deployment/",
 		"created_year": [],
@@ -183,14 +179,14 @@
 			"title": "ION-U",
 			"similiar_software_url":"https://www.commscope.com/product-type/in-building-cellular-systems/distributed-antenna-systems-das/ion-u/",
 			"category": []
-		}, {
+			}, {
 			"title": "idDAS",
-      "similiar_software_url":"https://axellwireless.com/product/iddas/",
+      			"similiar_software_url":"https://axellwireless.com/product/iddas/",
 			"category": []
-    }, {
-      "title": "DAS",
-      "similar_software_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
-      "category": []
+    			}, {
+      			"title": "DAS",
+      			"similar_software_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
+      			"category": []
 		}],
 		"licence_list": [],
 		"source_code_download": [],
@@ -202,8 +198,8 @@
 		"wikipedia_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
 		"reference_list": [],
 		"success_case_list": [] 
-  },{
-    "title": "vRAN",
+  		},{
+    		"title": "vRAN",
 		"logo_url": [],
 		"website_url": "https://www.amarisoft.com/products/network-deployment/",
 		"created_year": [],
@@ -213,9 +209,9 @@
 			"title": "Open vRAN",
 			"similiar_software_url":"https://blogs.cisco.com/sp/open-vran-collaboration-to-accelerate-solution-deployments",
 			"category": []
-		}, {
+			}, {
 			"title": "vRAN",
-      "similiar_software_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
+      			"similiar_software_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
 			"category": []
 		}],
 		"licence_list": [],
