@@ -1,26 +1,26 @@
 {
   "created": "2009",
-  "title": "mariadb",
+  "title": "MariaDB Foundation",
   "type": "corporation",
-  "logo_url": "https://mariadb.com/fr/about-us/logos/",
+  "logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png",
   "location": {
-    "title": "mariadb",
+    "title": "MariaDB Foundation",
     "address": "Tekniikantie 12",
     "postal_code": " 02150",
     "city": "Espo",
     "country": "Finland",
-    "phone_contact": "12 Tekniikantie. Redwood City, CA. United States",
+    "phone_contact": "",
     "mail_contact": "sales-EMEA@mariadb.com",
-    "coordinate_list": []
+    "coordinate_list": ["60.18405117669344", "24.814571784972014"]
   },
-  "subsidiary_location_list": [Basel, Bern, Zurich, the Netherlands],
-  "website_url": "https://mariadb.com/fr/",
+  "subsidiary_location_list": ["CH", "NL"],
+  "website_url": "https://mariadb.com/",
   "founded_year": "2009",
   "kpi_list": [{
     "year": "2021",
-    "staff": "Michael Howard, Amir Ameri, Jon Bakke,Franz Aman, Jags Ramnarayan,Mick Carney,Gregory Dorman, Bill Flynn, Sergei Golubchik,Kurt Haberkamp,Saravana Krishnamurthy,Max Mether,Robbie Mihalyi,Bill Munger,Jim Sears,Magnus Stenberg,Alexey Vorovich,Laura Wang,Michael "Monty" Widenius,Tim Yim",
+    "staff": "319",
     "earnings": " $20.4 million on revenue",
-    "total_assets": "99,161 ",
+    "total_assets": "99161",
     "revenues": "$20.4 million on revenue",
     "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   },{
