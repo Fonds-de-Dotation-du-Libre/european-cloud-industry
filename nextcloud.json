@@ -127,7 +127,7 @@
 		"commercial_support_available": [],
 		"wikipedia_url": [],
 		"reference_list": [],
-		"success_case_list": [],
+		"success_case_list": []
 		},{
     		"title": "Collabora Online",
 		"logo_url": [],
@@ -167,7 +167,7 @@
 			"language": "FR",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
     			},{
-			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online"
+			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
 			"description": "",
 			"image_url": [],
 			"industry": "Education",
