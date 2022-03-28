@@ -59,7 +59,7 @@
     "revenues": "",
     "source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
   }],
-  "solution_list": [{
+  "solution_list": [{}, {}, {}
     "title": "Dynamic Active Record ",
     "logo_url": "https://mariadb.com/",
     "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
@@ -67,11 +67,14 @@
     "description": "The yii2-dynamic-ar extension uses MariaDB dynamic columns to add NoSQL-like documents to Yii 2 Framework's Active Record ORM",
     "category_list": [],
     "similar_software_list": [{
+      "title": "MySQL",
+      "similiar_software_url": "",
+      "category": ""
+    }, {
       "title": "",
       "similiar_software_url": "",
       "category": ""
-      
-      "title": "ocelotgui",
+    }],
     "logo_url": "https://mariadb.com/",
     "website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
     "created_year": "11 years, 2 months ago",
@@ -117,12 +120,30 @@ Software-only Applications Using MySQL Client Libraries (the
     "commercial_support_available": "",
     "wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Licensing",
     "reference_list": [{
-      "title": "",
+      "title": "Walgreens",
       "logo_url": "",
-      "country": "",
+      "country": "US",
       "industry": ""
     }],
     "success_case_list": [{
+      "title": "Samsung",
+      "description": "adasdasdasda",
+      "image_url": "logo url",
+      "industry": "",
+      "customer": "Samung",
+      "country": "KR",
+      "language": "en",
+      "success_case_url": "URL"
+    }, {
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }, {
       "title": "",
       "description": "",
       "image_url": "",
