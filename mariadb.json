@@ -82,17 +82,9 @@
 					}],
 					"licence_list": ["GPL license, version 2."],
 					"source_code_download": "https://mariadb.org/download/?t=mariTdb&p=mariadb&r=10.6.7&os=Linux&cpu=x86_64&pkg=tar_gz&i=systemd&m=bkns",
-					"source_code_profile": ["The show profile and show profiles statements display profiling
-						information that indicates resource usage
-						for statements executed during the course of the current session.Profiling is controlled by the profiling session variable,
-						which has a
-						default value of 0(OFF).Profiling is enabled by setting profiling to 1 or ON:
-					]
-					",
+					"source_code_profile": "The show profile and show profiles statements display profiling information that indicates resource usage for statements executed during the course of the current session. Profiling is controlled by the profiling session variable, which has a default value of 0(OFF). Profiling is enabled by setting profiling to 1 or ON: ",
 					"commercial_support_url": "https://mariadb.com/fr/pricing/",
-					"floss_software": "The MySQL AB Exception for Free/Libre and Open Source
-					Software - only Applications Using MySQL Client Libraries(the "FLOSS Exception").
-					",
+					"floss_software": "The MySQL AB Exception for Free/Libre and Open Source Software - only Applications Using MySQL Client Libraries (the FLOSS Exception).",
 					"commercial_support_open_source_version": "supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL, who forked it due to concerns over its acquisition by Oracle Corporation in 2009.",
 					"commercial_support_available": "",
 					"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Licensing",
