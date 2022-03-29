@@ -88,7 +88,7 @@
 	"source_code_profile": "https://github.com/Kopano-dev/kopano-webapp/blob/master/defaults.php",
 	"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
 	"floss_software": "yes",
-	"commercial_support_open_source_version": "",
+	"commercial_support_open_source_version": "https://www.openhub.net/p/kopano",
 	"commercial_support_available": "",
 	"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
 	"reference_list": [{
