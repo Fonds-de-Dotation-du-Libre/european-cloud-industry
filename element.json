@@ -1,0 +1,99 @@
+{
+  "created": "2016",
+  "title": "matrix",
+  "type": "corporation",
+  "logo_url": "https://element.io/images/logo-mark-primary.svg",
+  "location": {
+    "title": "New Vector Ltd",
+    "address": "14 Turnham Green Terrace",
+    "postal_code": "",
+    "city": "Chiswick",
+    "country": "UK",
+    "phone_contact": "",
+    "mail_contact": "",
+    "coordinate_list": [51.49344113508869, -0.25493948837611313]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "",
+  "founded_year": "",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
