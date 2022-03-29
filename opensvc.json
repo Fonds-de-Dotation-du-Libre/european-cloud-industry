@@ -1,0 +1,82 @@
+{
+	"created": "2022-03-29",
+	"title": "OpenSVC SAS",
+	"type": "",
+	"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
+	"location": {
+		"title": "OpenSVC SAS",
+		"address": " 9 rue du saussaye",
+		"postal_code": "60270",
+		"city": "Gouvieux",
+		"country": "FR",
+		"phone_contact": "+33 9 72 50 98 02",
+		"mail_contact": "support@opensvc.com",
+		"coordinate_list": []
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.opensvc.com/",
+	"founded_year": "2009",
+	"kpi_list": [{
+    "year": "2020",
+    "staff": [],
+    "earnings": "107 286 ",
+    "total_assets": "1 043 246",
+    "revenues": "803 295",
+    "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+  }, {
+    "year": "2019",
+    "staff": [],
+    "earnings": [],
+    "total_assets": "798 979",
+    "revenues": [],
+    "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+  },{
+    "year": "2018",
+    "staff": [],
+    "earnings": "75 735",
+    "total_assets": "912 176",
+    "revenues": "645 229",
+    "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+  },{
+    "year": "2017",
+    "staff": [],
+    "earnings": "154 928",
+    "total_assets": "972 256",
+    "revenues": "768 214",
+    "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+  },{
+    "year": "2016",
+    "staff": [],
+    "earnings": "116 846",
+    "total_assets": "774 039",
+    "revenues": "622 888",
+    "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+  }],
+	"solution_list": [{
+		"title": "OpenSVC",
+		"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
+		"website_url": "https://www.opensvc.com/",
+		"created_year": "2019",
+		"description": "OpenSVC is a Open Source software product and the name of the commercial entity developping and supporting it.",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "rudder",
+			"similiar_software_url":"https://www.rudder.io/",
+			"category": []
+			}, {
+			"title": "ZEVENET",
+      "similiar_software_url":"https://www.zevenet.com/about-us/",
+			"category": []
+		}],
+		"licence_list": "GNU General Public License v2",
+		"source_code_download": "https://github.com/opensvc",
+		"source_code_profile": [],
+		"commercial_support_url": [],
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": [],
+		"reference_list": [],
+		"success_case_list": []
+  }]
+}
