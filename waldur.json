@@ -31,12 +31,21 @@
     "created_year": "",
     "description": "web-based self-service portal. Talks REST to MasterMind.",
     "category_list": "", 
-    "category_list": "",
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list":"",
+    }],
     "similar_software_list": [{
       "title": "",
+      "similiar_software_url": "",
+      "category": "",    
+    "similar_software_list":
+      "title": "",
       "category": ""
-    }],
-      "similar_software_list": [{
+      "similar_software_list":
       "title": "",
       "category": ""
     }],
@@ -53,15 +62,16 @@
       "logo_url": "",
       "country": "",
       "industry": "",
+    }],
     "success_case_list": [{
       "title": "",
-      "description":"",
+      "description": "",
       "image_url": "",
       "industry": "",
       "customer": "",
       "country": "",
       "language": "",
-      "success_case_url": "",
+      "success_case_url": ""
     }]
   }]
 }
