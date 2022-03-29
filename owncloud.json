@@ -1,0 +1,104 @@
+{
+	"created": "2022-03-28",
+	"title": "ownCloud GmbH",
+	"type": "Non-profit",
+	"logo_url": "https://owncloud.com/wp-content/uploads/2020/06/oc-logo-1c-1.svg",
+	"location": {
+		"title": "ownCloud GmbH",
+		"address": "Rathsbergstr. 17",
+		"postal_code": "90411",
+		"city": "Nürnberg",
+		"country": "DE",
+		"phone_contact": "+49 911 14888690",
+		"mail_contact": "info@owncloud.com",
+		"coordinate_list": []
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://owncloud.com/",
+	"founded_year": "2011",
+	"kpi_list": [{
+    "year": "2020",
+    "staff": "50",
+    "earnings": "388,696.27",
+    "total_assets": "4,974,402.66",
+    "revenues": [],
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?16"
+  }, {
+    "year": "2019",
+    "staff": "43",
+    "earnings": "-519,435.07",
+    "total_assets": "4,451,782.44",
+    "revenues": [],
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?16"
+  },{
+    "year": "2018",
+    "staff": "35",
+    "earnings": "-521,392.26",
+    "total_assets": "3,819,996.48",
+    "revenues": [],
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?27"
+  },{
+    "year": "2017",
+    "staff": "35",
+    "earnings": "-1,377,054.41",
+    "total_assets": "4,116,320.50",
+    "revenues": [],
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?33"
+  },{
+    "year": "2016",
+    "staff": [],
+    "earnings": "-788,749.79",
+    "total_assets": "3,585,703.99",
+    "revenues": [],
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?36"
+  }],
+	"solution_list": [{
+		"title": "ownCloud",
+		"logo_url": "https://owncloud.com/wp-content/uploads/2020/06/oc-logo-1c-1.svg",
+		"website_url": "https://owncloud.com/product/",
+		"created_year": [],
+		"description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device. It allows some integrations such as Microsoft, Collabora online, VNC and ONLYOFFICE.",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "Nextcloud",
+			"similiar_software_url":"https://nextcloud.com/",
+			"category": []
+			}, {
+			"title": "Seafile",
+      "similiar_software_url":"https://www.seafile.com/en/home/",
+			"category": []
+		}],
+		"licence_list": ["AGPLv3"],
+		"source_code_download": ["https://github.com/owncloud"],
+		"source_code_profile": ["https://www.openhub.net/p/ownCloud"],
+		"commercial_support_url": ["https://owncloud.com/contact-us/"],
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OwnCloud",
+		"reference_list": [],
+		"success_case_list": []
+		},{
+    "title": "ownCloud.online",
+		"logo_url": "https://owncloud.online/wp-content/themes/ownCloud.online/assets/img/logo-ownCloud-online.svg",
+		"website_url": "https://owncloud.online/",
+		"created_year": [],
+		"description": "Secure cloud storage for your data. Convenient collaboration for your team.",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "Dropbox",
+      "similiar_software_url":"https://www.dropbox.com/",
+			"category": []
+		}],
+		"licence_list": [],
+		"source_code_download": [],
+		"source_code_profile": [],
+		"commercial_support_url": [],
+		"floss_software": [],
+		"commercial_support_open_source_version": [],
+		"commercial_support_available": [],
+		"wikipedia_url": [],
+		"reference_list": [],
+		"success_case_list": [] 
+  }]
+}
