@@ -86,7 +86,7 @@
 					"commercial_support_url": "https://mariadb.com/fr/pricing/",
 					"floss_software": "yes",
 					"commercial_support_open_source_version": "supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL, who forked it due to concerns over its acquisition by Oracle Corporation in 2009.",
-					"commercial_support_available": "",
+					"commercial_support_available": "yes",
 					"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Licensing",
 					"reference_list": [{
 						"title": "Walgreens turns to MariaDB as part of open source push",
