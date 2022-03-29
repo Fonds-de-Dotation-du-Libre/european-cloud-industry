@@ -34,70 +34,56 @@
   }],
   "solution_list": [{
     "title": "Shinken Enterprise",
-    "logo_url": "",
+    "logo_url": "https://www.shinken-enterprise.com/wp-content/uploads/2016/03/logo_shinken200px.png",
     "website_url": "https://www.shinken-enterprise.com/fr/accueil/",
     "created_year": "2009",
-    "description": "At first an open source monitoring solution, Shinken is now an open source monitoring framework, with a higher number of modules, and more importantly a higher level of flexibility, that an all-in-one solution could not provide. Shinken is easy to install and to use; the code is written in Python which means that it is available on different OSs and compatible with Utf8. Flexibility being the main its ain goal, its code remains very generic, modular and independent from other monitoring tools.",
-    "solution_list": [{
+    "description": "At first an open source monitoring solution, Shinken is now an open source monitoring framework, with a higher number of modules, and more importantly a higher level of flexibility, that an all-in-one solution could not provide. Shinken is easy to install and to use; the code is written in Python which means that it is available on different OSs and compatible with Utf8. Flexibility being the main its ain goal, its code remains very generic, modular and independent from other monitoring tools.",https://www.shinken-enterprise.com/wp-content/uploads/2016/03/logo_shinken200px.png
     "title": "Shinken Monitoring",
-    "logo_url": "",
+    "logo_url": "http://www.shinken-monitoring.org/img/LogoFrameworkBlack.png",
     "website_url": "http://www.shinken-monitoring.org/download.php",
     "created_year": "",
     "description": "",
-    "solution_list": [{
     "title": "Shinken Lab",
-    "logo_url": "",
+    "logo_url": "http://shinkenlab.io/theme/img/Logoframeworkblack.png",
     "website_url": "http://shinkenlab.io/",
     "created_year": "",
     "description": "",
-    "solution_list": [{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
+    "title": "Shinken,
+    "logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
+    "website_url": "http://shinken.io/",
     "created_year": "",
     "description": "",
     "category_list": "", 
-    "category_list": "",
     "similar_software_list": [{
       "title": "Nagios",
-      "category": ""
-    }],
-    "similar_software_list": [{
+      "similiar_software_url": "https://www.nagios.org/",
+      "category": "",
       "title": "Opsview Core",
-      "category": ""
-    }],
-   "similar_software_list": [{
+      "similiar_software_url": "https://www.opsview.com/",
+      "category": "",
        "title": "Icinga",
-      "category": ""
-    }],
-    "similar_software_list": [{
-       "title": "Naemonbox",
-      "category": ""
-    }],
-    "similar_software_list": [{
-       "title": "Pymon",
-      "category": ""
-    }],
-      "similar_software_list": [{
+      "similiar_software_url": "https://icinga.com/",
+      "category": "",
        "title": "Mod-Gearman",
-      "category": ""
-    }],"similar_software_list": [{
+      "similiar_software_url": "https://mod-gearman.org/",
+      "category": "",
        "title": "The NOC Project",
-      "category": ""
-    }],"similar_software_list": [{
+      "similiar_software_url": "https://getnoc.com/",
+      "category": "",
        "title": "Webmin",
-      "category": ""
-    }],"similar_software_list": [{
+      "similiar_software_url": "https://www.webmin.com/",
+      "category": "",
        "title": "Check MK",
+      "similiar_software_url": "https://checkmk.com/",
       "category": ""
     }],
     "licence_list": ["GNU Affero General Public License v3.0"],
-    "source_code_download": "http://fsf.org/",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "https://github.com/naparuba/shinken.git",
-    "commercial_support_open_source_version": "https://www.openhub.net/p/shinken",
-    "commercial_support_available": "",
+    "source_code_download": "https://github.com/naparuba/shinken.git",
+    "source_code_profile": "https://www.openhub.net/p/shinken/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.shinken-enterprise.com/fr/tarifs/",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shinken_(software)",
     "reference_list": [{
       "title": "",
