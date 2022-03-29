@@ -1,0 +1,229 @@
+{
+  "created": "2012",
+  "title": "Threema GmbH",
+  "type": "company with limited liability",
+  "logo_url": "https://threema.ch/images/icons/threema-icon.svg",
+  "location": {
+    "title": "threema GmbH",
+    "address": "Churerstrasse 82",
+    "postal_code": "8808",
+    "city": "Pfäffikon SZ",
+    "country": "CH",
+    "phone_contact": "",
+    "mail_contact": "info@threema.ch",
+    "coordinate_list": [47.201575867314375, 8.783466253800766]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://threema.ch/en",
+  "founded_year": "2012",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "threema",
+    "logo_url": "https://threema.ch/images/icons/threema-icon.svg",
+    "website_url": "https://threema.ch/en/home",
+    "created_year": "2012",
+    "description": "Threema is the instant messenger designed to generate as little user data as possible. All communication is end-to-end encrypted, and the app is open source.",
+    "category_list": ["telecommunication"],
+    "similar_software_list": [{
+      "title": "Skype",
+      "similiar_software_url": "https://skype.gmw.cn/",
+      "category": "telecommunication"
+      
+      "title": "hangout",
+      "similiar_software_url": "https://hangouts.google.com/",
+      "category": "telecommunication"
+      
+      "title": "telegram",
+      "similiar_software_url": "https://telegram.org/",
+      "category": "telecommunication"
+      
+      "title": "whatsapp",
+      "similiar_software_url": "https://www.whatsapp.com/",
+      "category": "telecommunication"
+      
+      "title": "threema Work",
+    "logo_url": "https://play-lh.googleusercontent.com/L0_JSfTvPDC0xebfvTXE1jGs5npChXTD0mF80-m8Z6bIWAacu0ramJUmIv0XFqY1tFI=s180-rw",
+    "website_url": "https://threema.ch/en/work",
+    "created_year": "2014",
+    "description": "Threema Work is a messaging app that meets all employee needs, is easy to use, and packed with features. ",
+    "category_list": ["telecommunication"],
+    "similar_software_list": [{
+      "title": "Element",
+      "similiar_software_url": "https://element.io/",
+      "category": "telecommunication"
+      
+      "title": "Imo",
+      "similiar_software_url": "https://imo.im/",
+      "category": "telecommunication"
+      
+      "title": "Tox",
+      "similiar_software_url": "https://tox.chat/",
+      "category": "telecommunication"
+      
+    "title": "threemaOnPrem",
+    "logo_url": "https://threema.ch/images/onprem/threema-onprem-appicon.svg",
+    "website_url": "https://threema.ch/en/home",
+    "created_year": "2012",
+    "description": "Threema OnPrem is the messaging solution for organizations that take data privacy and data security very seriously and make the protection against cybercrime a top priority. ",
+    "category_list": ["telecommunication"],
+    "similar_software_list": [{
+      "title": "Signal",
+      "similiar_software_url": "https://signal.org/en/",
+      "category": "telecommunication"
+      
+      "title": "wire",
+      "similiar_software_url": "https://wire.com/en/",
+      "category": "telecommunication"
+      
+      "title": "threemaEducation",
+    "logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
+    "website_url": "https://threema.ch/en/education",
+    "created_year": "",
+    "description": "Thanks to Threema Education, instant messaging in school is secure and privacy-compliant. Since no personal information is required, it is safe to use Threema Work at any age. The Swiss chat solution offers the highest level of security and data protection, and it is compliant with European data protection laws.",
+    "category_list": ["telecommunication"],
+    "similar_software_list": [{
+      "title": "StealthChat",
+      "similiar_software_url": "https://stealthchat.com/",
+      "category": "telecommunication"
+      
+      "title": "Wickr",
+      "similiar_software_url": "https://wickr.com/",
+      "category": "telecommunication"
+      
+    "title": "threema Broadcast",
+    "logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
+    "website_url": "https://threema.ch/en/broadcast",
+    "created_year": "",
+    "description": "Threema Broadcast is your tool for fast, secure, and targeted one-to-many communication. With the click of a button, you send text/image messages, files, and polls to your entire workforce or to specific departments.",
+    "category_list": ["telecommunication"],
+    "similar_software_list": [{
+      "title": "Nimbuzz",
+      "similiar_software_url": "https://nimbuzz.com/",
+      "category": "telecommunication"
+      
+      "title": "threema Gateway",
+    "logo_url": "https://static.tpsort.com/media/uploads/images/r/b/rbjhyuepmg2divjxgqcenh02cbz4vpleabffbhrmeic5h0et.png",
+    "website_url": "https://gateway.threema.ch/en",
+    "created_year": "",
+    "description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.",
+    "category_list": ["telecommunication"],
+    "similar_software_list": [{
+      "title": "subrosa",
+      "similiar_software_url": "https://subrosabrand.com/",
+      "category": "telecommunication"
+      
+      "title": "google allo",
+      "similiar_software_url": "https://allo.google.com/",
+      "category": "telecommunication"
+      
+      "title": "Ayttm",
+      "similiar_software_url": "http://ayttm.sourceforge.net/",
+      "category": "telecommunication", 
+    }],
+    
+    "licence_list": ["Android: AGPL-3.0-only" ,"iOS: AGPL-3.0-only", "Web: AGPL-3.0-or-later" ,"Protocol: MIT"],
+    "source_code_download": "https://github.com/threema-ch",
+    "source_code_profile": "yes",
+    "commercial_support_url": "https://threema.ch/en/support",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "https://threema.ch/en/open-source",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Threema",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "Instant messaging as part of the modern workplace",
+      "description": "Bosch Group is a leading international technology company and service provider counting around 410,000 employees worldwide",
+      "image_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-bosch.svg",
+      "industry": "Conglomerate",
+      "customer": "Bosch",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://threema.ch/en/work/clients"
+      
+      "title": "Threema Work Integration: Alerting and Fast Information Distribution",
+      "description": "The EDEKA association consists of seven regional companies. The Northern-Bavaria-Saxony-Thuringia group of companies uses Threema Work first and foremost for communication with the retail stores. ",
+      "image_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-edeka.png",
+      "industry": "Supermarket",
+      "customer": "Edeka",
+      "country": ""DE,
+      "language": "EN",
+      "success_case_url": "https://threema.ch/en/work/clients"
+      
+      "title": "Threema Work as official company messenger",
+      "description": "Daimler AG is one of the world’s largest manufacturers of cars and commercial vehicles, its most famous brand being Mercedes-Benz. The long-standing company also offers financing, leasing, fleet management, insurance, and innovative mobility services.",
+      "image_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-daimler.svg",
+      "industry": "automotive",
+      "customer": "Daimler AG",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://threema.ch/en/work/clients"
+      
+      "title": "Reach employees anywhere, anytime",
+      "description": "Rossmann is Germany’s second largest drugstore chain. Outside of Germany, the company also operates in six other European countries (Poland, Hungary, the Czech Republic, Albania, Kosovo, and Turkey), supplying goods to more than 4,000 stores in total. In 2019, Rossmann’s management decided to introduce Threema Work as company messenger.",
+      "image_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-rossmann.svg",
+      "industry": "drugstore",
+      "customer": "Rossmann",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://threema.ch/en/work/clients"
+      
+      "title": "Service reporting and order placement via messenger",
+      "description": "TK Elevator offers service for elevators, escalators, and automatic doors throughout Germany. Thanks to a decentralized organization of the company’s location network, emergency calls can be answered around the clock, and issues are resolved promptly. Across Germany, the Service24 center and service technicians use Threema Work to communicate.",
+      "image_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-tk_elevator.svg",
+      "industry": "engineering",
+      "customer": "TK Elevator",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://threema.ch/en/work/clients"
+      
+      
+    }]
+  }]
+}
