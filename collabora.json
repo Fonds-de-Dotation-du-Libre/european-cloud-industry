@@ -132,70 +132,63 @@
   }],
   "solution_list": [{
     "title": "Collabora Office",
-    "logo_url": "",
+    "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png",
     "website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
     "created_year": "",
     "description": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects.",
-    "solution_list": [{
     "title": "Collabora Online",
-    "logo_url": "",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
     "website_url": "https://www.collaboraoffice.com/collabora-online/",
     "created_year": "",
     "description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
-    "solution_list": [{
     "title": "Collabora Office for Android & iOS",
     "logo_url": "",
     "website_url": "https://www.collaboraoffice.com/solutions/collabora-office-android-ios/",
     "created_year": "",
     "description":" It is the mobile office suite of Collabora Office and allows the editing edit of documents directly on phones and tablets, guarantees privacy and full control of data and documents.",
-    "solution_list": [{
     "title": "Collabora Online Development Edition",
-    "logo_url": "",
+    "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2015/12/code-logo.png",
     "website_url": "https://www.collaboraoffice.com/code/", 
     "category_list": "Information Technology",
     "similar_software_list": [{
+       "title": "LibreOffice",
+       "similiar_software_url": "https://www.libreoffice.org/",
+       "category": "Information Technology"
+    }],
+    "similar_software_list": [{
       "title": "Apache OpenOffice",
+      "similiar_software_url": "https://www.openoffice.org/",
       "category": "Information Technology"
     }],
       "similar_software_list": [{
       "title": "OnlyOffice",
+      "similiar_software_url": "https://www.onlyoffice.com/en/",
       "category": "Information Technology"
-    }],
+    }],	      
       "similar_software_list": [{
       "title": "Calligra",
-      "category": "Information Technology"
-    }],
-   "similar_software_list": [{
-       "title": "Zaizi",
+      "similiar_software_url": "https://calligra.org/",
       "category": "Information Technology"
     }],
     "similar_software_list": [{
-       "title": "Sirius",
-      "category": "Information Technology"
+       "title": "Microsoft Office Suite",
+       "similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
+       "category": "Information Technology"
+    }],
+      "similar_software_list": [{
+       "title": "WPS Office",
+       "similiar_software_url": "https://www.wps.com/",
+       "category": "Information Technology"
     }],
     "licence_list": ["MPL 2.0"],
-    "source_code_download": "https://www.collaboraoffice.com/code/",
+    "source_code_download": "https://github.com/CollaboraOnline/online.git",
     "source_code_profile": "",
     "commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
     "floss_software": "Yes",
-    "commercial_support_open_source_version": "https://collaboraonline.github.io/",
-    "commercial_support_available": "https://www.collaboraoffice.com/become-a-partner/",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Collabora",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description":"",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
