@@ -21,14 +21,14 @@
     "staff": "9",
     "earnings": "130,323.01",
     "total_assets": "332,285.09",
-    "revenues": "",
+    "revenues": [],
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?10"
   },{
     "year": "2016",
     "staff": "12",
     "earnings": "-104,428.42",
     "total_assets": "607,860.35",
-    "revenues": "",
+    "revenues": [],
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?15"
   }],
   "solution_list": [{
@@ -38,11 +38,7 @@
     "created_year": [],
     "description": "The TrustNode, e.g., in its Research Edition, is the enabling platform for this transformation for research labs, R&D, certification and test, network operators and cloud service providers to flexibly customize networks to their needs. ",
     "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
+    "similar_software_list": [],
     "licence_list": [],
     "source_code_download": [],
     "source_code_profile": [],
@@ -61,7 +57,8 @@
       "country": [],
       "language": [],
       "success_case_url": "https://innoroute.com/wp-content/uploads/2018/05/Service_Flyer_InnoRoute_en.pdf"
-    }],
+    }]
+  },{
     "title": "RealTimeHAT",
     "logo_url": "https://innoroute.com/wp-content/uploads/2020/09/EhUD1TIXcAck2QH.jpeg",
     "website_url": "https://innoroute.com/realtimehat/",
