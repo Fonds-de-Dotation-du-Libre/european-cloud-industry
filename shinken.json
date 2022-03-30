@@ -48,7 +48,7 @@
     "website_url": "http://shinkenlab.io/",
     "created_year": "",
     "description": "",
-    "title": "Shinken,
+    "title": "Shinken",
     "logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
     "website_url": "http://shinken.io/",
     "created_year": "",
@@ -85,21 +85,7 @@
     "commercial_support_open_source_version": "Yes",
     "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shinken_(software)",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description":"",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "FR",
-      "language": "FR",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
