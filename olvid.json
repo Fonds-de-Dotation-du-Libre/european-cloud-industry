@@ -22,7 +22,7 @@
     "logo_url": "https://www.olvid.io/assets/img/olvid-logo.png",
     "website_url": "https://www.olvid.io",
     "created_year": "2018",
-    "description": "Olvid is ",
+    "description": "Olvid is an open-source instant messaging application, relying on end-to-end encryption to guarantee the security of the users' data and metadata. Olvid operates without a centralized directory, with its security relying only on the latest cryptography technology, to ensure the integrity, confidentiality and anonymity of communications.guaranteeguarantee",
     "category_list": ["Telecommunication"],
     "similar_software_list": [{
       "title": "Signal",
