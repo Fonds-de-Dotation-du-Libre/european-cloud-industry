@@ -1,0 +1,83 @@
+{
+  "created": "2020-03-30",
+  "title": "InnoRoute GmbH ",
+  "type": "Corporation",
+  "logo_url": "https://innoroute.com/wp-content/uploads/2017/06/Logo_sizedforWebsite.png",
+  "location": {
+    "title": "InnoRoute GmbH",
+    "address": "Marsstr. 14a",
+    "postal_code": "80335",
+    "city": "Munich",
+    "country": "Germany",
+    "phone_contact": "+49 89 87767567",
+    "mail_contact": "info@innoroute.de",
+    "coordinate_list": []
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://innoroute.com/",
+  "founded_year": "2010",
+  "kpi_list": [{
+    "year": "2017",
+    "staff": "9",
+    "earnings": "130,323.01",
+    "total_assets": "332,285.09",
+    "revenues": "",
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?10"
+  },{
+    "year": "2016",
+    "staff": "12",
+    "earnings": "-104,428.42",
+    "total_assets": "607,860.35",
+    "revenues": "",
+    "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?15"
+  }],
+  "solution_list": [{
+    "title": "TrustNode",
+    "logo_url": "https://innoroute.com/wp-content/uploads/2021/11/tn3_klein.png",
+    "website_url": "https://innoroute.com/trustnode_router/",
+    "created_year": [],
+    "description": "The TrustNode, e.g., in its Research Edition, is the enabling platform for this transformation for research labs, R&D, certification and test, network operators and cloud service providers to flexibly customize networks to their needs. ",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": [],
+    "source_code_profile": [],
+    "commercial_support_url": "https://innoroute.com/contact-2/",
+    "floss_software": "no",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": [{
+      "title": "TrustNode network processing platform for research & prototyping",
+      "description": "InnoRoute developed the TrustNode, a powerful, robust network device, based on an Artix ® FPGA and an Atom ® processor. Most of InnoRoute‘s enterprise customers use the TrustNode as a node in industrial or automotive communication networks, especially with a custom Time-Sensitive Networking extension. One customer even designed a custom processor module for the TrustNode. InnoRoute‘s academic customers use it for various purposes, like industrial communication networks, general SDN applications, and 5G mobile fronthaul network prototyping. InnoRoute also provides paid custom extensions to the TrustNode and its FPGA code.",
+      "image_url": [],
+      "industry": [],
+      "customer": [],
+      "country": [],
+      "language": [],
+      "success_case_url": "https://innoroute.com/wp-content/uploads/2018/05/Service_Flyer_InnoRoute_en.pdf"
+    }],
+    "title": "RealTimeHAT",
+    "logo_url": "https://innoroute.com/wp-content/uploads/2020/09/EhUD1TIXcAck2QH.jpeg",
+    "website_url": "https://innoroute.com/realtimehat/",
+    "created_year": [],
+    "description": "The new Real-Time HAT by InnoRoute adds IEEE1588 PTP support in hardware to a Raspberry Pi 4 nestled beneath. Based around a Xilinx Artix-7 FPGA and a handful of gigabit Ethernet PHY devices, the HAT acts as network-passthrough, adding accurate time-stamps to egress (outgoing) packets and stripping time-stamps from the ingress (incoming) side.",
+    "category_list": [],
+    "similar_software_list": [],
+    "licence_list": [" GPL-3.0 License"],
+    "source_code_download": "https://github.com/InnoRoute/RealtimeHAT",
+    "source_code_profile": [],
+    "commercial_support_url": "https://innoroute.com/contact-us/",
+    "floss_software": "no",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+    "reference_list": [],
+    "success_case_list": []
+    }] 
+}
