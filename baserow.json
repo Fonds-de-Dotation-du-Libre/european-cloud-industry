@@ -14,7 +14,7 @@
     "coordinate_list": ["52.36743430655752, 4.90155583321372"]
   },
   "subsidiary_location_list": [],
-  "website_url": "",
+  "website_url": "https://baserow.io/",
   "founded_year": "2019",
   "kpi_list": [],
   "solution_list": [{
@@ -46,21 +46,7 @@
     "commercial_support_open_source_version": "Yes",
     "commercial_support_available": "Yes",
     "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
