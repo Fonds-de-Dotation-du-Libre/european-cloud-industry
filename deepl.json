@@ -51,13 +51,13 @@
     "logo_url": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
     "website_url": "https://www.deepl.com/translator",
     "created_year": "2017",
-    "description": "Free IA-based translator that makes it the most efficient web translator. Available in 26 languages it performs several times  better than its competitors.",
-    "category_list": [],
+    "description": "Free IA-based translator that makes it the most efficient web translator. Available in 26 languages it performs several times better than its competitors.",
+    "category_list": ["Information Technology"],
     "title": "DeepL Pro",
-    "logo_url": "hhttps://static.deepl.com/img/logo/deepl-logo-blue.svg",
+    "logo_url": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
     "website_url": "https://www.deepl.com/pro?cta=header-pro",
     "created_year": "2018",
-    "description": "",
+    "description": "IA-based translator thought for companies, allowing the secured translation of entire documents, customizable to better fit the requirements and vocabulary of each company.",
     "category_list": [],
     "similar_software_list": [{
      	    "title": "Google Translate",
@@ -70,7 +70,7 @@
       "similiar_software_url": "https://www.linguee.com/",
       "category": "Information Technology",
 	    "title": "Systran",
-      "similiar_software_url": "https://www.systran.net/en/translate/",
+      "similiar_software_url": "https://www.systran.net/en/translate/",customizable
       "category": "Information Technology",
 	    "title": "Unbabel",
       "similiar_software_url": "https://unbabel.com/",
@@ -87,21 +87,7 @@
     "commercial_support_open_source_version": "No",
     "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
