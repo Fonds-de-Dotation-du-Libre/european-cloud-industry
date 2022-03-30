@@ -8,10 +8,10 @@
 		"address": "66, rue Marceau – Bâtiment C’",
 		"postal_code": "93100",
 		"city": "Montreuil",
-		"country": "fr",
+		"country": "FR",
 		"phone_contact": "+33 (0)1 48 58 18 01",
 		"mail_contact": "info@jamespot.com",
-		"coordinate_list": ""
+		"coordinate_list": []
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.fr.jamespot.com/",
@@ -23,35 +23,35 @@
 		"total_assets": "4 183 861",
 		"revenues": "3 165 101",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
-	}, {
+		}, {
 		"year": "2019",
 		"staff": "17",
 		"earnings": "292 357",
 		"total_assets": "3 168 957",
 		"revenues": "2 642 058",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
-	}, {
+		}, {
 		"year": "2018",
 		"staff": [],
 		"earnings": "575 849",
 		"total_assets": "2 776 611",
 		"revenues": "2 029 737",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
-	}, {
+		}, {
 		"year": "2017",
 		"staff": "13",
 		"earnings": "343 980",
 		"total_assets": "1 966 824",
 		"revenues": "1 414 382",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
-	}, {
+		}, {
 		"year": "2016",
 		"staff": "13",
 		"earnings": "65 623",
 		"total_assets": "1 531 557",
 		"revenues": "1 159 671",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
-	}],
+		}],
 	"solution_list": [{
 		"title": "Open Agora",
 		"logo_url": [],
@@ -62,11 +62,11 @@
 		"similar_software_list": [{
 			"title": "Google Workspace",
 			"similiar_software_url": "https://workspace.google.com/",
-			"category": ""
-		}, {
+			"category": []
+			}, {
 			"title": "Microsoft Teams",
 			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": ""
+			"category": []
 		}],
 		"licence_list": [],
 		"source_code_download": [],
@@ -83,64 +83,65 @@
 			"image_url": "https://pinkinnov.com/wp-content/uploads/2019/08/logo-pink-innov-v2.jpg",
 			"industry": "Association",
 			"customer": "Pink Innov",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=326UtTSG70M"
-		}, {
+			}, {
 			"title": "Replacement of an outdated solution by Jamespot's communicative platform",
 			"description": "With a growing number of employees and new work approaches Groupe SeLoger used Jamespot's solution to replace their former platform. The solution fits well with their way of collaborate and their agile methodology used to run their projects",
 			"image_url": "https://www.groupeseloger.com/images/logo-seloger-header.png",
 			"industry": "Real Estate",
 			"customer": "Groupe SeLoger",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=Kpp75hVxGPs"
-		}, {
+			}, {
 			"title": "Communication improvement with Jamespot",
 			"description": "They used Jamespot's solution to improve communication with their members instead of emails because of it is flexible and user-friendly.",
 			"image_url": [],
 			"industry": "Association",
 			"customer": "Syndicat des professionnels du pneu",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=c0x6HdewD-I"
-		}, {
+			}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "With a growing membership number in the association, communication through any kind of channel was complex. After a trial with a less-known platform they decided to use Jamespot's solution instead because many features fit their needs",
 			"image_url": "https://franceclusters.fr/wp-content/uploads/2016/02/logo_franceclusters.jpg",
 			"industry": "Association",
 			"customer": "France Clusters",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=Qo-IOWmE5JE"
-		}, {
+			}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They used Jamespot solution to improve their communication which was under the form of a newsletter spread to all members. With the solution they can create work groups and provide interaction between members",
 			"image_url": "https://www.gfii.fr/images/gfii.jpg",
 			"industry": "Association",
 			"customer": "GFII",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=MVjDFbwHyJg"
-		}, {
+			}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They used Jamespot's solution because they needed to centralize in a one app all their communication flows and improve the way communication is spread through the company. With a friendly but professional platform, the solution was a good match for the company culture",
 			"image_url": [],
 			"industry": "Travel",
 			"customer": "MARCO VASCO",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=szUIw-90BbU"
-		}, {
+			}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They launched a project to implement a new multilingual collaborative solution to improve communication, information sharing and collaborative work inside the company. They chose Jamespot's solution because it was the perfect match for the company culture",
 			"image_url": "https://www.unither-pharma.com/wp-content/uploads/2020/07/logo.png",
 			"industry": "Pharmaceutical industry",
 			"customer": "Unither Pharmaceuticals",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=i0HBqDK0chU"
-		}],
+			}]
+		},{
 		"title": "Fast Intranet",
 		"logo_url": [],
 		"website_url": "https://www.fr.jamespot.com/fast-intranet",
@@ -150,15 +151,15 @@
 		"similar_software_list": [{
 			"title": "Microsoft sharePoint",
 			"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
-			"category": ""
-		}, {
+			"category": []
+			}, {
 			"title": "Workvivo",
 			"similiar_software_url": "https://www.workvivo.com/product/",
-			"category": ""
-		}, {
+			"category": []
+			}, {
 			"title": "Workplace from Meta",
 			"similiar_software_url": "https://www.workplace.com/",
-			"category": ""
+			"category": []
 		}],
 		"licence_list": [],
 		"source_code_download": [],
@@ -175,19 +176,20 @@
 			"image_url": [],
 			"industry": "IT consulting & services",
 			"customer": "Groupe Ozitem",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=FoDjU6rZhtE"
-		}, {
+			}, {
 			"title": "Better intranet platform with with Jamespot",
 			"description": "They were introduced to Jamespot because they were looking for some collaborative solutions to organize their work, documents and virtual meetings",
 			"image_url": "https://static.wixstatic.com/media/26d0fa_f409bfea69ca40f0888d564a0f042abc~mv2.png/v1/fill/w_325,h_113,al_c,usm_0.66_1.00_0.01,enc_auto/ias_agora_new_logo.png",
 			"industry": "Consulting",
 			"customer": "Iasagora",
-			"country": "fr",
-			"language": "fr",
+			"country": "FR",
+			"language": "FR",
 			"success_case_url": "https://www.youtube.com/watch?v=8flM_4n_bFM"
-		}],
+			}]
+		},{
 		"title": "Diapazone",
 		"logo_url": [],
 		"website_url": "https://www.fr.jamespot.com/diapazone",
@@ -197,11 +199,11 @@
 		"similar_software_list": [{
 			"title": "Zoom",
 			"similiar_software_url": "https://zoom.us/",
-			"category": ""
-		}, {
+			"category": []
+			}, {
 			"title": "Webex",
 			"similiar_software_url": "https://www.webex.com/fr/index.html",
-			"category": ""
+			"category": []
 		}],
 		"licence_list": [],
 		"source_code_download": [],
@@ -213,7 +215,7 @@
 		"wikipedia_url": [],
 		"reference_list": [],
 		"success_case_list": []
-	}, {
+		}, {
 		"title": "Wedoc",
 		"logo_url": [],
 		"website_url": "https://www.fr.jamespot.com/wedoc",
@@ -223,11 +225,11 @@
 		"similar_software_list": [{
 			"title": "Microsoft Teams",
 			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": ""
-		}, {
+			"category": []
+			}, {
 			"title": "Google workspace (Google Doc)",
 			"similiar_software_url": "https://www.google.com/docs/about/",
-			"category": ""
+			"category": []
 		}],
 		"licence_list": [],
 		"source_code_download": [],
