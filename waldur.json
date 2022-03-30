@@ -17,37 +17,24 @@
 		"coordinate_list": ["58.38491100247013, 26.7213972379871"]
 	},
   "founded_year": "2016",
-  "kpi_list":"" ,
+  "kpi_list":[] ,
   "solution_list": [{
     "title": "Waldur MasterMind",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
+    "logo_url": "https://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/1_0.png",
+    "website_url": "https://waldur.com/",
+    "created_year": "2016",
     "description": " Hybrid cloud orchestrator. Responsible for technical service delivery and connected matters. Exposes REST API for management",
-    "solution_list": [{
-    "title": "Waldur HomePort",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
-    "description": "web-based self-service portal. Talks REST to MasterMind.",
-    "category_list": "", 
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
-    "description": "",
-    "category_list":"",
     }],
     "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": "",    
-    "similar_software_list":
-      "title": "",
-      "category": ""
-      "similar_software_list":
-      "title": "",
-      "category": ""
+      "title": "Virtengine",
+      "similiar_software_url": "https://virtengine.com/",
+      "category": "Information Technology",
+      "title": "Vscaler",
+      "similiar_software_url": "https://www.vscaler.com/",
+      "category": "Information Technology",
+      "title": "OpenStack",
+      "similiar_software_url":"https://www.openstack.org/",
+      "category": "Information Technology"
     }],
     "licence_list": ["MIT"],
     "source_code_download": "https://github.com/waldur/waldur-mastermind.git",
@@ -57,21 +44,7 @@
     "commercial_support_open_source_version": "No",
     "commercial_support_available": "https://waldur.com/pricing/",
     "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": "",
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
