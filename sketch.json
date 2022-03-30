@@ -19,39 +19,35 @@
   "founded_year": "2010",
   "kpi_list": [],
   "solution_list": [{
-    "title": "",
-    "logo_url": "",
+    "title": "Sketch",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png",
     "website_url": "https://www.sketch.com/",
     "created_year": "2010",
-    "description": "A vector graphic editor operating on MacOS to design UIs and UXs in a collaborative way. ", 
-    "category_list": "",
+    "description": "A vector graphic editor operating on MacOS to design UIs and UXs in a collaborative way.", 
+    "category_list": "Information Technology",
     "similar_software_list": [{
       "title": "Figma",
-      "category": ""
+      "similar_software_url": "https://www.figma.com/"
+      "category": "Information Technology",
+      "title": "Lunacy",
+      "similar_software_url": "https://icons8.com/lunacy"
+      "category": "Information Technology",
+      "title": "Adobe XD",
+      "similar_software_url": "https://www.adobe.com/products/xd.html?mv=affiliate&mv2=red"
+      "category": "Information Technology",
+       "title": "Pencil Project",
+      "similar_software_url": "https://pencil.evolus.vn/"
+      "category": "Information Technology",
     }],
-    "licence_list": ["Sketch Subscription "],
+    "licence_list": ["Proprietary"],
     "source_code_download": "https://developer.sketch.com/file-format/",
     "source_code_profile": "",
     "commercial_support_url": "https://www.sketch.com/pricing/",
-    "floss_software": "Yes",
+    "floss_software": "No",
     "commercial_support_open_source_version": "No",
     "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sketch_(software)",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description":"",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "NL",
-      "language": "EN",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
