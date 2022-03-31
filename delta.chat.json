@@ -1,0 +1,104 @@
+{
+	"created": "2004",
+	"title": "Merlinux GmbH",
+	"type": "",
+	"logo_url": "https://delta.chat/assets/logos/delta-chat.svg",
+	"location": {
+		"title": "Delta Chat",
+		"address": "Reichsgrafenstr. 20",
+		"postal_code": "79102 ",
+		"city": "Freiburg",
+		"country": "DE",
+		"phone_contact": "",
+		"mail_contact": "delta@merlinux.eu",
+		"coordinate_list": [47.987475951852325, 7.858072555673697]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://delta.chat/en/",
+	"founded_year": "2017",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "Delta Chat",
+		"logo_url": "https://delta.chat/assets/logos/delta-chat.svg",
+		"website_url": "https://delta.chat/en/download",
+		"created_year": "2017",
+		"description": "Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number.",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "Telegram",
+			"similiar_software_url": "https://telegram.org/",
+			"category": "telecommunication",
+
+			"title": "whatsapp",
+			"similiar_software_url": "https://www.whatsapp.com/",
+			"category": "telecommunication"
+		}],
+
+		"licence_list": ["GPL-3.0-or-later"],
+		"source_code_download": "https://github.com/deltachat/",
+		"source_code_profile": "",
+		"commercial_support_url": "https://support.delta.chat/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "",
+		"wikipedia_url": "https://de.wikipedia.org/wiki/Delta_Chat",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
