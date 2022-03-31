@@ -1,0 +1,57 @@
+{
+  "created": "2022-03-31",
+  "title": "eXo Platform",
+  "type": "Corporation",
+  "logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/05/exo-70x30.png",
+  "location": {
+    "title": "eXo Platform Europe",
+    "address": "7 rue de la Paix",
+    "postal_code": "75002",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "+33182837731",
+    "mail_contact": "https://www.exoplatform.com/contact-us/",
+    "coordinate_list": ["48.86898233653592, 2.330626921910098"]
+  },
+  "subsidiary_location_list": ["US","TN"],
+  "website_url": "https://www.exoplatform.com/",
+  "founded_year": "2003",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GNU AGPL v3.0"],
+    "source_code_download": "https://github.com/exoplatform",
+    "source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.exoplatform.com/product-offer/",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
