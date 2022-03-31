@@ -23,7 +23,7 @@
     "logo_url": "https://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/1_0.png",
     "website_url": "https://waldur.com/",
     "created_year": "2016",
-    "description": " Hybrid cloud orchestrator. Responsible for technical service delivery and connected matters. Exposes REST API for management",
+    "description": " Waldur is an hybrid cloud orchestrator, managing private clouds, public clouds and High Performance Computing Centres. It automates OpenStack and Slurm, has billing, user self-service and support desk.It automates OpenStack and Slurm, has billing, user self-service and support desk.",
     }],
     "similar_software_list": [{
       "title": "Virtengine",
