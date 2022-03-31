@@ -16,49 +16,7 @@
   "subsidiary_location_list": ["HU","DE"],
   "website_url": "https://tresorit.com/fr",
   "founded_year": "2012",
-  "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }],
+  "kpi_list": [],
   "solution_list": [{
     "title": "Tresorit",
     "logo_url": "",
@@ -67,17 +25,26 @@
     "description": "Tresorit is an online cloud storage that uses end-to-end encryption to guarantee the safety of all the data you share and store.",
     "category_list": ["Information Technology"],
     "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
+      "title": "Nextcloud",
+      "similiar_software_url": "https://nextcloud.com/",
+      "category": "Information Technology",
+      "title": "Dropbox",
+      "similiar_software_url": "https://www.dropbox.com/",
+      "category": "Information Technology",
+      "title": "pCloud",
+      "similiar_software_url": "https://www.pcloud.com/fr/eu?ref=8097",
+      "category": "Information Technology",
+      "title": "Cryptomator",
+      "similiar_software_url": "https://cryptomator.org/",
+      "category": "Information Technology"
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "",
     "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "commercial_support_url": "https://tresorit.com/fr/pricing",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tresorit",
     "reference_list": [{
       "title": "",
@@ -86,14 +53,14 @@
       "industry": ""
     }],
     "success_case_list": [{
-      "title": "",
-      "description": "",
+      "title": "Enabling cloud integration: how Tresorit helped to digitize KB Flughafen’s workforce",
+      "description": "Airports handle huge amounts of personal data from passengers, airlines, suppliers and cargo shippers every single day. This makes data security a huge concern to keep information (around operations, transactions and passengers) secure.to keep information (around operations, transactions and passengers) secure.",
       "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "industry": "Aviation and Aerospace",
+      "customer": "Köln Bonn Flughafen",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://tresorit.com/resources/customer-stories/data-security-koln-bonn-airport"
     }]
   }]
 }
