@@ -1,0 +1,227 @@
+{
+	"created": "2018",
+	"title": "fragmentiX Storage Solutions",
+	"type": "corporation",
+	"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/10/fragmentiX_Logo_2304x768.png",
+	"location": {
+		"title": "Fragmentix Storage solutions",
+		"address": "IST PARK, Plöcking 1,",
+		"postal_code": "3400 ",
+		"city": "3400",
+		"country": "AT",
+		"phone_contact": "+43 2243 24203",
+		"mail_contact": "",
+		"coordinate_list": [48.30936320132867, 16.257291]
+	},
+	"subsidiary_location_list": ["CH"],
+	"website_url": "https://www.fragmentix.com/",
+	"founded_year": "2018",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "25",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "4499640.03€",
+		"source_url": "https://www.zoominfo.com/c/fragmentix-storage-solutions-gmbh/470382330"
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+				"title": "Fragmentix One box",
+				"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/10/front-one-png.png",
+				"website_url": "https://www.fragmentix.com/solutions/#",
+				"created_year": "",
+				"description": "The fragmentiX ONE box is the entry model into the fragmentiX secret sharing appliances. It provides enough performance to help SMEs or professionals with the sovereignty over data stored in cloud storages.",
+				"similar_software_list": [{
+							"title": "",
+							"similiar_software_url": "",
+							"category": "",
+
+							"solution_list": [{
+										"title": "fragmentiX THREE box",
+										"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/09/front-hell-png.png",
+										"website_url": "https://www.fragmentix.com/solutions/#",
+										"created_year": "",
+										"description": "Using a stronger industrial hardware a fragmentiX THREE provides enough power to fullfill several storage functions like file services and backup/DR at the same time with still low latency.",
+										"category_list": ["cloud"],
+										"similar_software_list": [{
+													"title": "",
+													"similiar_software_url": "",
+													"category": "",
+
+													"solution_list": [{
+																"title": "Fragmentix four box",
+																"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/09/front-hell-png.png",
+																"website_url": "https://www.fragmentix.com/solutions/#",
+																"created_year": "",
+																"description": "The fragmentiX FOUR is the largest of the non-19-inch rack models within the fragmentiX product range. Equipped with a very powerful CPU and up to 8 network interfaces to the internet or your local storages it enables you to concurrently use your appliance for several tasks like data storage for office users and archiving to cloud storages (etc) at the same time.",
+																"category_list": ["cloud"],
+																"similar_software_list": [{
+																			"title": "",
+																			"similiar_software_url": "",
+																			"category": "",
+
+																			"solution_list": [{
+																						"title": "fragmentiX CLUSTER Node A",
+																						"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/10/cluster_vorne-e1645100220592.png",
+																						"website_url": "https://www.fragmentix.com/solutions/#",
+																						"created_year": "",
+																						"description": "Starting with a single fragmentiX CLUSTER node, the CLUSTER NODE A – you get a high performance industrial grade workhorse for your cybersecurity and digital sovereignty. Each fragmentiX CLUSTER enables you to use up to 8 LAN and up to 8 WAN ports to enable secret sharing for various departments and use cases. Each fragmentiX CLUSTER NODE comes with 5 years mission critical support – executed by our OEM partner DELL Technologies worldwide.",
+																						"category_list": ["cloud"],
+																						"similar_software_list": [{
+																									"title": "",
+																									"similiar_software_url": "",
+																									"category": "",
+
+
+																									"solution_list": [{
+																												"title": "fragmentiX CLUSTER (Nodes A + B)",
+																												"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/08/frX_CLUSTER_1920x690.jpg",
+																												"website_url": "https://www.fragmentix.com/solutions/#",
+																												"created_year": "",
+																												"description": "The fragmentiX CLUSTER System consists of two fault-tolerant cluster nodes: fragmentiX CLUSTER NODE A and fragmentiX CLUSTER NODE B which act as a ‘failover system’.",
+																												"category_list": ["cloud"],
+																												"similar_software_list": [{
+																															"title": "",
+																															"similiar_software_url": "",
+																															"category": "",
+
+																															"solution_list": [{
+																																		"title": "Fragmentix four box",
+																																		"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/09/front-hell-png.png",
+																																		"website_url": "https://www.fragmentix.com/solutions/#",
+																																		"created_year": "",
+																																		"description": "The fragmentiX FOUR is the largest of the non-19-inch rack models within the fragmentiX product range. Equipped with a very powerful CPU and up to 8 network interfaces to the internet or your local storages it enables you to concurrently use your appliance for several tasks like data storage for office users and archiving to cloud storages (etc) at the same time.",
+																																		"category_list": ["cloud"],
+																																		"similar_software_list": [{
+																																					"title": "",
+																																					"similiar_software_url": "",
+																																					"category": "",
+
+																																					"solution_list": [{
+																																								"title": "fragmentiX NANO box",
+																																								"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/10/home.png",
+																																								"website_url": "https://www.fragmentix.com/solutions/#",
+																																								"created_year": "",
+																																								"description": "The fragmentiX NANO acts as a satelite appliance with our fragmentiX CLUSTER appliances. Every fragmentiX CLUSTER administrator can configure an unlimited number of fragmentiX NANO appliances to enable home office and nomadic users to access sensitive data even when at home or in a hotel.",
+																																								"category_list": ["cloud"],
+																																								"similar_software_list": [{
+																																											"title": "",
+																																											"similiar_software_url": "",
+																																											"category": "",
+
+																																											"solution_list": [{
+																																														"title": "fragmentiX HOME box",
+																																														"logo_url": "https://www.fragmentix.com/wp-content/uploads/2021/10/HOME_alphacustomer_series_front.jpg",
+																																														"website_url": "https://www.fragmentix.com/solutions/#",
+																																														"created_year": "",
+																																														"description": "The fragmentiX HOME box allows you to safely store your data in commercial public clouds from your computer or your home network.",
+																																														"category_list": ["cloud"],
+																																														"similar_software_list": [{
+																																																	"title": "",
+																																																	"similiar_software_url": "",
+																																																	"category": "",
+
+																																																	"solution_list": [{
+																																																				"title": "fragmentiX mobile app",
+																																																				"logo_url": "https://www.fragmentix.com/wp-content/uploads/2022/02/logo_mobileapp_01_png.png",
+																																																				"website_url": "https://www.fragmentix.com/solutions/#",
+																																																				"created_year": "",
+																																																				"description": "The fragmentiX mobile app will help protect your data on the go. Compatible with all commerical cloud storage providers, you can save your photos, data and phone backups safely using fragmentiX technology.",
+																																																				"category_list": ["cloud"],
+																																																				"similar_software_list": [{
+																																																					"title": "",
+																																																					"similiar_software_url": "",
+																																																					"category": ""
+
+
+																																																				}],
+																																																				"licence_list": [],
+																																																				"source_code_download": "",
+																																																				"source_code_profile": "",
+																																																				"commercial_support_url": "",
+																																																				"floss_software": "",
+																																																				"commercial_support_open_source_version": "",
+																																																				"commercial_support_available": "",
+																																																				"wikipedia_url": "",
+																																																				"reference_list": [{
+																																																					"title": "",
+																																																					"logo_url": "",
+																																																					"country": "",
+																																																					"industry": ""
+																																																				}],
+																																																				"success_case_list": [{
+																																																							"title": "Qsafe",
+																																																							"description": "The European Union has chosen the QSAFE (Quantum Network System Architecture for Europe) consortium to design the European Quantum Communication Infrastructure.  The QSAFE consortium comprises strong European industry partners such as Deutsche Telekom, Thales, Thales Alenia Space and Telefónica and a well-known research institute such as the AIT Austrian Institute of Technology.",
+																																																							"image_url": "https://www.fragmentix.com/wp-content/uploads/2022/01/QSAFE_logo.png",
+																																																							"industry": "communication",
+																																																							"customer": "EU",
+																																																							"country": "AT",
+																																																							"language": "EN",
+																																																							"success_case_url": "https://www.fragmentix.com/frx-projects/#",
+
+																																																							"success_case_list": [{
+																																																										"title": "OEM PARTNERSHIP BETWEEN DELL TECHNOLOGIES AND FRAGMENTIX STORAGE SOLUTIONS",
+																																																										"description": "In October 2020 the Austrian IT security company fragmentiX Storage Solutions GmbH became a worldwide OEM Solutions partner of Dell Technologies. The fragmentiX CLUSTER Storage Appliances are produced according to fragmentiX specifications at Dell Technologies in Europe. ",
+																																																										"image_url": "",
+																																																										"industry": "computer sciences",
+																																																										"customer": "Dell",
+																																																										"country": "AT",
+																																																										"language": "EN",
+																																																										"success_case_url": "https://www.fragmentix.com/wp-content/uploads/2021/09/fragmentiX_pressrelease_DellOEMpartnership_2020-11-24_EN.pdf",
+
+																																																										"success_case_list": [{
+																																																											"title": "MEDICAL DATA SUCCESSFULLY PROTECTED BY QUANTUM-CRYPTOGRAPHY IN GRAZ",
+																																																											"description": "Sharing sensitive medical data between doctors at different hospitals is essential to improve the quality of diagnosis and treatment and demands special efforts to protect patients’ rights and privacy. Within the framework of the EU project 'OpenQKD', the technical implementation and usability of such a cooperation was proven in the use case 'Medical Data Protection Graz'. By combining the two state of the art technologies fragmentiX CLUSTER and QKD equipment, the setup in Graz provides the highest level of security for the data while maintaining ease of use.",
+																																																											"image_url": "",
+																																																											"industry": "medical",
+																																																											"customer": "OpenQKD",
+																																																											"country": "AT",
+																																																											"language": "EN",
+																																																											"success_case_url": "https://www.fragmentix.com/wp-content/uploads/2021/09/fragmentiX_pressrelease_OpenQKD_2020-12-10_EN.pdf",
+
+																																																											"success_case_list": [{
+																																																												"title": "Partnership between Maxeler Technologies and fragmentiX",
+																																																												"description": "Maxeler Technologies (Maxeler), based in London UK, pioneers Maximum Performance Computing, and fragmentiX Storage Solutions (fragmentiX) based in Klosterneuburg Austria, leaders in protected multi-cloud storage, are partnering to deliver maximum performance and ultra-secure-by-design data storage and computing solutions.",
+																																																												"image_url": "",
+																																																												"industry": "technology",
+																																																												"customer": "Maxeler Technologies",
+																																																												"country": "AT",
+																																																												"language": "EN",
+																																																												"success_case_url": "https://www.fragmentix.com/wp-content/uploads/2021/09/PR_Maxeler_fragmentiX_20210407.pdf"
+																																																											}]
+																																																										}]
+																																																									}
