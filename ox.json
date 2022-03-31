@@ -1,0 +1,196 @@
+{
+	"created": "2005",
+	"title": "OX",
+	"type": "corporation",
+	"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+	"location": {
+		"title": "Open-Xchange",
+		"address": "Hohenzollernring 72",
+		"postal_code": "50672",
+		"city": "Koln",
+		"country": "DE",
+		"phone_contact": "+49 2761 83850",
+		"mail_contact": "",
+		"coordinate_list": [50.94101816789219, 6.941165851460005]
+	},
+	"subsidiary_location_list": ["IT", "NL", "FI"],
+	"website_url": "https://www.open-xchange.com/?hsLang=en",
+	"founded_year": "2005",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "5,680,983.61€",
+		"revenues": "€44 431",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?9"
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "48.773.832,81",
+		"revenues": "43 801 271,69€",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?9"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "43 491 534,96",
+		"revenues": "3 295 043,37€",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?18"
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "49 593 597,54€",
+		"revenues": "3 460 019,00€",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?18"
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "39 586 309,35 €",
+		"revenues": "28 238 280,62 €",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?39"
+	}],
+	"solution_list": [{
+				"title": "OX Dovecot Pro",
+				"logo_url": "https://www.open-xchange.com/hubfs/csm_IMAP-01_003fa58b26.png",
+				"website_url": "https://www.open-xchange.com/products/ox-dovecot-pro/?hsLang=en",
+				"created_year": "",
+				"description": "The world’s market-leading IMAP server, OX Dovecot Pro, delivers dynamic scalability, high performance, efficient utilization of hardware and outstanding support to the world’s largest Telcos and ISP's.",
+				"category_list": ["software"],
+				"similar_software_list": [{
+							"title": "microsoft",
+							"similiar_software_url": "https://www.microsoft.com/fr-fr/",
+							"category": "software",
+
+							"title": "OX PowerDNS Recursor",
+							"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+							"website_url": "https://www.open-xchange.com/products/ox-powerdns-recursor/?hsLang=en",
+							"created_year": "",
+							"description": "With OX PowerDNS Recursor, Internet Service Providers can provide a fast and reliable DNS service, enabling a secure internet experience for subscribers and their personal devices, including laptops, tablets and mobile phones, as well as the many IoT devices that are already in use.",
+							"category_list": ["software"],
+							"similar_software_list": [{
+										"title": "Linux",
+										"similiar_software_url": "https://www.linux.org/",
+										"category": "software",
+
+										"title": "DNSdist",
+										"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+										"website_url": "https://www.open-xchange.com/products/dnsdist/?hsLang=en",
+										"created_year": "",
+										"description": "DNSdist is a unique DNS proxy and load balancer that brings out the best possible performance in any DNS deployment. It optimizes DNS traffic in front of the OX PowerDNS Recursor, and both are normally deployed together to provide an unrivaled feature set for DNS services.",
+										"category_list": ["software"],
+										"similar_software_list": [{
+													"title": "",
+													"similiar_software_url": "",
+													"category": "",
+
+													"title": "OX PowerDNS Cloud Control",
+													"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+													"website_url": "https://www.open-xchange.com/products/ox-powerdns-cloud-control/?hsLang=en",
+													"created_year": "",
+													"description": "Increase scalability, reduce costs and manage your DNS more efficiently. Benefit from DNS containerization, automation, orchestration and lifecycle management, monitoring and alerting, combined in a single interface for configuration and operations.",
+													"category_list": ["cloud"],
+													"similar_software_list": [{
+																"title": "",
+																"similiar_software_url": "",
+																"category": "cloud",
+
+																"title": "OX PowerDNS Authoritative Server",
+																"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+																"website_url": "https://www.open-xchange.com/products/ox-powerdns-authoritative/?hsLang=en",
+																"created_year": "",
+																"description": "The OX PowerDNS Authoritative Server is a versatile authoritative server for hosting domain names. It rapidly responds to recursive nameservers, helping hosters offer a high-performing authoritative service for their domain customers.",
+																"category_list": ["technology"],
+																"similar_software_list": [{
+																			"title": "",
+																			"similiar_software_url": "",
+																			"category": "",
+
+																			"title": "OX Protect for families",
+																			"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+																			"website_url": "https://www.open-xchange.com/products/ox-protect-for-families/?hsLang=en",
+																			"created_year": "",
+																			"description": "Children nowadays not only play with the kids next door – the online world also plays an increasingly important role in their life from a young age and comes with many advantages. However, it also comes with some challenges, including access to inappropriate content such as gambling, violence, cyberbullying and adult content.",
+																			"category_list": ["technology"],
+																			"similar_software_list": [{
+																						"title": "bark",
+																						"similiar_software_url": "https://www.bark.us/",
+																						"category": "technology",
+
+
+																						"title": "Ox Protect for malware",
+																						"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+																						"website_url": "https://www.open-xchange.com/products/ox-protect-for-malware/?hsLang=en",
+																						"created_year": "",
+																						"description": "OX Protect for Malware secures your subscribers’ connected devices in their home network or while they are on the move in your mobile network. Smartphones, tablets and laptops, as well as IoT devices are all protected against malware, phishing and other malicious online threats.",
+																						"category_list": ["software"],
+																						"similar_software_list": [{
+																									"title": "total av",
+																									"similiar_software_url": "https://www.totalav.com/",
+																									"category": "cybersecurity",
+
+																									"title": "scanguard",
+																									"similiar_software_url": "https://www.scanguard.com/",
+																									"category": "cybersecurity",
+
+																									"title": "mcafee",
+																									"similiar_software_url": "https://www.mcafee.com/",
+																									"category": "cybersecurity",
+
+																									"title": "OX Abuse shield",
+																									"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+																									"website_url": "https://www.open-xchange.com/products/ox-abuse-shield/?hsLang=en",
+																									"created_year": "",
+																									"description": "OX Abuse Shield protects against threats in internet-connection authentication systems, including portals, webmail, IMAP and POP, SMTP and any other protocol.",
+																									"category_list": ["cybersecurity"],
+																									"similar_software_list": [{
+																										"title": "",
+																										"similiar_software_url": "",
+																										"category": "",
+
+																										"title": "OX App Suite",
+																										"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
+																										"website_url": "https://www.open-xchange.com/products/ox-app-suite/?hsLang=en",
+																										"created_year": "",
+																										"description": "OX App Suite just got better. Already in use by 150 million users worldwide. Our easy-to-use Small Businesses email and communication tools are now available as part of OX Cloud",
+																										"category_list": ["communication"],
+																										"similar_software_list": [{
+																											"title": "Outlook OST viewer",
+																											"similiar_software_url": "https://www.ostpstviewer.com/free-ost-pst-files-viewer?gclid=CjwKCAjwopWSBhB6EiwAjxmqDfx3WZ6Z300lUmEGSycJmsPp_IYG-noDaHTgY3aFkL-m6RiWNmHhDhoCPNoQAvD_BwE",
+																											"category": "communication"
+																										}],
+																										"licence_list": ["GNU Affero General Public", "GNU AGPL v.3.0"],
+																										"source_code_download": "https://github.com/open-xchange",
+																										"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
+																										"commercial_support_url": "https://www.open-xchange.com/resources/ox-support/commercial-support/?hsLang=en",
+																										"floss_software": "yes",
+																										"commercial_support_open_source_version": "yes",
+																										"commercial_support_available": "yes",
+																										"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
+																										"reference_list": [{
+																											"title": "",
+																											"logo_url": "",
+																											"country": "",
+																											"industry": ""
+																										}],
+																										"success_case_list": [{
+																											"title": "",
+																											"description": "",
+																											"image_url": "",
+																											"industry": "",
+																											"customer": "",
+																											"country": "",
+																											"language": "",
+																											"success_case_url": ""
+																										}]
+																									}]
+																								}
