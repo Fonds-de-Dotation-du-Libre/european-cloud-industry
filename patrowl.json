@@ -1,0 +1,51 @@
+{
+  "created": "2022-03-31",
+  "title": "Patrowl SAS",
+  "type": "Corporation",
+  "logo_url": "https://patrowl.io/wp-content/uploads/2022/01/logo.png",
+  "location": {
+    "title": "Patrowl SAS",
+    "address": "10 Rue de Penthièvre",
+    "postal_code": "75008",
+    "city": "Paris",
+    "country": "France",
+    "phone_contact": [],
+    "mail_contact": " getsupport@patrowl.io",
+    "coordinate_list": []
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://patrowl.io/",
+  "founded_year": "2022",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Patrowl",
+    "logo_url": [],
+    "website_url": "https://patrowl.io/patrowl/",
+    "created_year": [],
+    "description": "Patrowl is an Offensive Security as a Service solution witch allows you to manage your External Security Posture with : Continuous (re)discovery of all your internet exposed (external facing) assets, partially with our External Attack Surface Management (EASM), Continuous identification of all your weaknesses and vulnerabilities with our Pentest as a Service (PTaaS) and our realtime cyber threat monitoring​, Easy remediation from our dashboard with prioritization and contextualization, Control of the remediation with the ability to retest​ with 1 single clic.",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "n8n",
+      "similiar_software_url": "https://n8n.io/",
+      "category": []
+      },{
+      "title": "StackStorm",
+      "similiar_software_url": "https://stackstorm.com/",
+      "category": []
+      },{
+      "title": "jeedom",
+      "similiar_software_url": "https://www.jeedom.com/fr/",
+      "category": []
+      }],
+    "licence_list": [" AGPL-3.0 License"],
+    "source_code_download": "https://github.com/Patrowl/PatrowlManager",
+    "source_code_profile": [],
+    "commercial_support_url": "https://patrowl.io/en/contact/",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "yes",
+    "wikipedia_url": [],
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}
