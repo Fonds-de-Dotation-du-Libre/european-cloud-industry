@@ -28,13 +28,16 @@
     "similar_software_list": [{
       "title": "Figma",
       "similar_software_url": "https://www.figma.com/"
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "Lunacy",
       "similar_software_url": "https://icons8.com/lunacy"
-      "category": "Information Technology",
+      "category": "Information Technology"
+   },{
       "title": "Adobe XD",
       "similar_software_url": "https://www.adobe.com/products/xd.html?mv=affiliate&mv2=red"
-      "category": "Information Technology",
+      "category": "Information Technology"
+   },{
        "title": "Pencil Project",
       "similar_software_url": "https://pencil.evolus.vn/"
       "category": "Information Technology",
