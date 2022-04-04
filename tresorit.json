@@ -27,13 +27,16 @@
     "similar_software_list": [{
       "title": "Nextcloud",
       "similiar_software_url": "https://nextcloud.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+      },{
       "title": "Dropbox",
       "similiar_software_url": "https://www.dropbox.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+      },{
       "title": "pCloud",
       "similiar_software_url": "https://www.pcloud.com/fr/eu?ref=8097",
-      "category": "Information Technology",
+      "category": "Information Technology"
+      },{
       "title": "Cryptomator",
       "similiar_software_url": "https://cryptomator.org/",
       "category": "Information Technology"
