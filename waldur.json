@@ -28,10 +28,12 @@
     "similar_software_list": [{
       "title": "Virtengine",
       "similiar_software_url": "https://virtengine.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+   },{
       "title": "Vscaler",
       "similiar_software_url": "https://www.vscaler.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+  },{
       "title": "OpenStack",
       "similiar_software_url":"https://www.openstack.org/",
       "category": "Information Technology"
