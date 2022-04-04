@@ -1,0 +1,124 @@
+{
+	"created": "16-04-1991",
+	"title": "Ateme SA",
+	"type": "SA",
+	"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
+	"location": {
+		"title": "Ateme",
+		"address": "6 RUE DEWOITINE ",
+		"postal_code": "78140",
+		"city": "VELIZY-VILLACOUBLAY",
+		"country": "FR",
+		"phone_contact": "08 90 10 92 33",
+		"mail_contact": "",
+		"coordinate_list": [48.78323044986587, 2.215849069319226]
+	},
+	"subsidiary_location_list": ["US", "UK", "BR", "AR", "ES", "DE", "AE", "SG", "CN", "KP", "AU"],
+	"website_url": "https://www.ateme.com/",
+	"founded_year": "1991",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "166",
+		"earnings": "-1 355 100€",
+		"total_assets": "66 495 900€",
+		"revenues": "51 620 400€",
+		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
+	}, {
+		"year": "2019",
+		"staff": "141",
+		"earnings": "5 998 000€",
+		"total_assets": "48 061 000€",
+		"revenues": "58 294 000€",
+		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "1 602 800€",
+		"total_assets": "40 038 900€",
+		"revenues": "51 727 600€",
+		"source_url": "https://www.societe.com/bilan/ateme-382231991201812311.html"
+	}, {
+		"year": "2017",
+		"staff": "126",
+		"earnings": "3 788 700€",
+		"total_assets": "35 966 600€",
+		"revenues": "48 423 100€",
+		"source_url": "https://www.societe.com/bilan/ateme-382231991201812311.html"
+	}, {
+		"year": "2016",
+		"staff": "112",
+		"earnings": "1 720 800€",
+		"total_assets": "26 443 200€",
+		"revenues": "37 458 900€",
+		"source_url": "https://www.societe.com/bilan/ateme-382231991201612311.html"
+	}],
+	"solution_list": [{
+		"title": "Atem NEA solution",
+		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
+		"website_url": "https://www.ateme.com/product-video-content-delivery/",
+		"created_year": "",
+		"description": "With Ateme’s NEA solutions you can build a platform for streaming, OTT or IPTV services that captivates your audience with outstanding experiences – while unleashing monetization potential, reducing operational costs, and minimizing your carbon footprint.",
+		"category_list": ["video"],
+
+		"title": "Titan Software Processing",
+		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
+		"website_url": "https://www.ateme.com/product-titan-software/",
+		"created_year": "",
+		"description": "offer your viewers a premium experience on any platform – DTH, DTT, cable-TV, IPTV and OTT. And you do that while saving infrastructure costs and minimizing your carbon footprint.",
+		"category_list": ["video"],
+
+		"title": "Kyrion contribution encoders",
+		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
+		"website_url": "https://www.ateme.com/kyrion-cm5000-the-latest-ateme-encoder-is-out-now/",
+		"created_year": "",
+		"description": "The Kyrion encoder has been designed for contribution over satellite, IP and ASI networks, with advanced features such as ultra-fast-boot, and added value features including ABR output and integrated Automatic Repeat reQuest (ARQ).",
+		"category_list": ["video"],
+
+		"title": "PILOT analytics & orchestration solutions",
+		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
+		"website_url": "https://www.ateme.com/product-network-management-system/",
+		"created_year": "",
+		"description": "With Ateme’s PILOT management and orchestration solutions you simplify your video-delivery operations, create efficiencies, and exploit new revenue opportunities with business intelligence and automation – both on-premises and in the cloud.",
+		"category_list": ["video"],
+
+
+		"licence_list": [],
+		"source_code_download": "https://github.com/ATEME",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.ateme.com/support-services/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Ateme",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Defining Brazil’s standard for digital television: TV3.0",
+			"description": "As part of the ATSC 3.0 task force, Ateme has played a vital role in recommending several ATSC 3.0 technologies to the Brazilian government in recent years. By taking part in this process, Ateme proved that its TITAN Live technology perfectly fits the mature ecosystem, which is ready for VVC deployments, and that it can enable personalization, immersive sound and DAI. ",
+			"image_url": "",
+			"industry": "TV",
+			"customer": "SBTVD",
+			"country": "BR",
+			"language": "EN",
+			"success_case_url": "https://www.ateme.com/defining-brazils-standard-for-digital-television-tv3-0/",
+
+			"title": "Ateme enables Solbox to build a private VOD transcoding farm in the cloud",
+			"description": "Ateme, the leader in video delivery solutions for broadcast, cable TV, DTH, IPTV and OTT, today announces that it has enabled Solbox, the market leader in CDN and cloud computing solutions in Korea, to build a private VOD transcoding farm in the cloud servicing OTT service providers.",
+			"image_url": "",
+			"industry": "TV",
+			"customer": "Solbox",
+			"country": "KP",
+			"language": "EN",
+			"success_case_url": "https://www.ateme.com/press/ateme-enables-solbox-to-build-a-private-vod-transcoding-farm-in-the-cloud/",
+
+
+			"title": "Globecast and Ateme Collaborate to Increase Availability of BISS-CA Worldwide",
+			"description": "Globecast, the global solutions provider for media and content management, and Ateme, the leader in video delivery solutions for broadcast, cable TV, DTH, IPTV and OTT, today announced they have collaborated to add Ateme BISS-CA to Globecast’s armoury of cutting-edge security options. With content security a key concern across the industry, this is an important addition.",
+			"image_url": "",
+			"industry": "",
+			"customer": "Globecast",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.ateme.com/press/globecast-and-ateme-collaborate-to-increase-availability-of-biss-ca-worldwide/"
+		}]
+	}]
+}
