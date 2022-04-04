@@ -27,13 +27,16 @@
     "similar_software_list": [{
       "title": "Adips",
       "similiar_software_url": "https://adips.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+     },{
       "title": "PingOne Fraud",
       "similiar_software_url": "https://www.pingidentity.com/en.html",
-      "category": "Information Technology", 
+      "category": "Information Technology"
+     },{
       "title": "Xage Security",
       "similiar_software_url": "https://xage.com/",
-      "category": "Information Technology", 
+      "category": "Information Technology"
+     },{
       "title": "SaferPass",
       "similiar_software_url": "https://saferpass.com/",
       "category": "Information Technology"
@@ -50,11 +53,13 @@
       "title": "VNClagoon",
       "logo_url": "https://vnclagoon.com/wp-content/uploads/2021/07/lagoon-symbol-color.svg",
       "country": "CG",
-      "industry": "Technology Information",
+      "industry": "Technology Information"
+     },{
       "title": "R3",
       "logo_url": "https://www.r3.com/wp-content/themes/r3/assets/images/logo.svg",
       "country": "US",
-      "industry": "Entreprise Technology",
+      "industry": "Entreprise Technology"
+     },{
       "title": "CV VC",
       "logo_url": "https://uploads-ssl.webflow.com/61e55b2c008bd04ef6f17f30/61efdc47f198aa488f677936_Vector%20(5).svg",
       "country": "CH",
