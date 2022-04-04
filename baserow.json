@@ -28,12 +28,15 @@
        "title": "Airtable",
       "similiar_software_url": "https://www.airtable.com/",
       "category": "Collaborative software"
+    },{
        "title": "NocoDB",
       "similiar_software_url": "https://nocodb.com/",
       "category": "Open source collaborative platform"
+    },{
        "title": "Avocode",
       "similiar_software_url": "https://avocode.com/",
       "category": "Collaborative software"
+    },{
        "title": "Assembla",
       "similiar_software_url": "https://www.assembla.com/home",
       "category": "Source code managment SaaS"
