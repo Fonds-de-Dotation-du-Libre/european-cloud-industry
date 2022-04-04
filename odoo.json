@@ -1,49 +1,28 @@
 {
   "created": "2022-04-04",
-  "title": "Odoo"
-  "type": "Crporation",
+  "title": "Odoo",
+  "type": "Corporation",
   "logo_url": "",
   "location": {
-    "title": "Odoo Office HQ",
+    "title": "Odoo HeadQuarters",
     "address": "Chaussée de Namur 40",
     "postal_code": "1367",
     "city": "Grand-Rosière-Ramillies",
     "country": "BE",
     "phone_contact": "+32 81 81 37 00",
-    "mail_contact": "",
+    "mail_contact": "fp@openerp.com ",
     "coordinate_list": ["50.63537307087549, 4.864376886205374"]
   },
   "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
   "website_url": "https://www.odoo.com/",
   "founded_year": "2005",
   "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
     "year": "2018",
     "staff": "",
     "earnings": "",
     "total_assets": "",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://be.welipro.com/c/odoo-7837149"
   },{
     "year": "2017",
     "staff": "",
@@ -58,6 +37,41 @@
     "total_assets": "",
     "revenues": "",
     "source_url": ""
+  },{
+    "year": "2015",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2014",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2013",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2012",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2011",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
   }],
   "solution_list": [{
     "title": "",
@@ -67,9 +81,33 @@
     "description": "",
     "category_list": [],
     "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
+      "title": "ERPNext",
+      "similiar_software_url": "https://erpnext.com/",
+      "category": "Information Technology"
+     },{
+      "title": "Dolibarr",
+      "similiar_software_url": "https://www.dolibarr.org/",
+      "category": "Information Technology"
+    },{
+      "title": "EspoCRM",
+      "similiar_software_url": "https://www.espocrm.com/",
+      "category": "Information Technology"
+    },{
+      "title": "ZenTao",
+      "similiar_software_url": "https://www.zentao.pm/",
+      "category": "Information Technology"
+    },{
+      "title": "Tryton",
+      "similiar_software_url": "https://www.tryton.org/",
+      "category": "Information Technology"
+    },{
+      "title": "Crust CRM",
+      "similiar_software_url": "https://www.planetcrust.com/solutions/crm/",
+      "category": "Information Technology"
+    },{
+      "title": "Invoice Planehttps://www.invoiceplane.com/https://www.invoiceplane.com/",
+      "similiar_software_url": "https://www.invoiceplane.com/",
+      "category": "Information Technology"
     }],
     "licence_list": ["LGPLv3"],
     "source_code_download": "https://github.com/odoo/odoo.git",
