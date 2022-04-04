@@ -27,22 +27,28 @@
     "similar_software_list": [{
       "title": "Odoo",
       "similiar_software_url": "https://www.odoo.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "Tryton",
       "similiar_software_url": "https://www.tryton.org/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "ERPNext",
       "similiar_software_url": "https://erpnext.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "Akaunting",
       "similiar_software_url": "https://akaunting.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "inoERP",
       "similiar_software_url": "https://github.com/inoerp/inoERP",
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "OrangeHRM",
       "similiar_software_url": "https://www.orangehrm.com/",
-      "category": "Information Technology",
+      "category": "Information Technology"
+    },{
       "title": "ProjeQtOr",
       "similiar_software_url": "https://www.projeqtor.org/en/",
       "category": "Information Technology"
