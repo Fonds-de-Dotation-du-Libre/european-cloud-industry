@@ -1,12 +1,12 @@
 {
-  "created": "2022-03-17",
-  "title": "Shinken",
-  "type": "Corporation",
-  "logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
-  "headquarter_country": "FR",
-  "subsidiary_country_list": [],
-  "website_url": "http://www.shinken-monitoring.org/",
-  "location": {
+	"created": "2022-03-17",
+	"title": "Shinken",
+	"type": "Corporation",
+	"logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
+	"headquarter_country": "FR",
+	"subsidiary_country_list": [],
+	"website_url": "http://www.shinken-monitoring.org/",
+	"location": {
 		"title": "Shinken Solutions",
 		"address": "14 Avenue Descartes",
 		"postal_code": "33370",
@@ -16,79 +16,88 @@
 		"mail_contact": "naparuba@gmail.com",
 		"coordinate_list": [44.85084873330953, -0.49501031654976324]
 	},
-  "founded_year": "2009",
-  "kpi_list": [{
-    "year": "2018",
-    "staff": "10",
-    "earnings": "",
-    "total_assets": "1 162 900 €",
-    "revenues": "477 700 €",
-    "source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
-  },{
-    "year": "2017",
-    "staff": "12",
-    "earnings": "",
-    "total_assets": "1 138 000 €",
-    "revenues": "190 200 €",
-    "source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
-  }],
-  "solution_list": [{
-    "title": "Shinken Enterprise",
-    "logo_url": "https://www.shinken-enterprise.com/wp-content/uploads/2016/03/logo_shinken200px.png",
-    "website_url": "https://www.shinken-enterprise.com/fr/accueil/",
-    "created_year": "2009",
-    "description": "At first an open source monitoring solution, Shinken is now an open source monitoring framework, with a higher number of modules, and more importantly a higher level of flexibility, that an all-in-one solution could not provide. Shinken is easy to install and to use; the code is written in Python which means that it is available on different OSs and compatible with Utf8. Flexibility being the main its main goal, its code remains very generic, modular and independent from other monitoring tools.",
-    "category_list": "Information Technology", 
-    "title": "Shinken Monitoring",
-    "logo_url": "http://www.shinken-monitoring.org/img/LogoFrameworkBlack.png",
-    "website_url": "http://www.shinken-monitoring.org/download.php",
-    "created_year": "",
-    "description": "",
-    "category_list": "Information Technology", 
-    "title": "Shinken Lab",
-    "logo_url": "http://shinkenlab.io/theme/img/Logoframeworkblack.png",
-    "website_url": "http://shinkenlab.io/",
-    "created_year": "",
-    "description": "",
-    "category_list": "Information Technology", 
-    "title": "Shinken",
-    "logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
-    "website_url": "http://shinken.io/",
-    "created_year": "",
-    "description": "",
-    "category_list": "Information Technology", 
-    "similar_software_list": [{
-      "title": "Nagios",
-      "similiar_software_url": "https://www.nagios.org/",
-      "category": "Information Technology",
-      "title": "Opsview Core",
-      "similiar_software_url": "https://www.opsview.com/",
-      "category": "Information Technology",
-       "title": "Icinga",
-      "similiar_software_url": "https://icinga.com/",
-      "category": "Information Technology",
-       "title": "Mod-Gearman",
-      "similiar_software_url": "https://mod-gearman.org/",
-      "category": "Information Technology",
-       "title": "The NOC Project",
-      "similiar_software_url": "https://getnoc.com/",
-      "category": "Information Technology",
-       "title": "Webmin",
-      "similiar_software_url": "https://www.webmin.com/",
-      "category": "Information Technology",
-       "title": "Check MK",
-      "similiar_software_url": "https://checkmk.com/",
-      "category": "Information Technology"
-    }],
-    "licence_list": ["GNU Affero General Public License v3.0"],
-    "source_code_download": "https://github.com/naparuba/shinken.git",
-    "source_code_profile": "https://www.openhub.net/p/shinken/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.shinken-enterprise.com/fr/tarifs/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shinken_(software)",
-    "reference_list": [],
-    "success_case_list": []
-  }]
+	"founded_year": "2009",
+	"kpi_list": [{
+		"year": "2018",
+		"staff": "10",
+		"earnings": "",
+		"total_assets": "1 162 900 €",
+		"revenues": "477 700 €",
+		"source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
+	}, {
+		"year": "2017",
+		"staff": "12",
+		"earnings": "",
+		"total_assets": "1 138 000 €",
+		"revenues": "190 200 €",
+		"source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
+	}],
+	"solution_list": [{
+		"title": "Shinken Enterprise",
+		"logo_url": "https://www.shinken-enterprise.com/wp-content/uploads/2016/03/logo_shinken200px.png",
+		"website_url": "https://www.shinken-enterprise.com/fr/accueil/",
+		"created_year": "2009",
+		"description": "At first an open source monitoring solution, Shinken is now an open source monitoring framework, with a higher number of modules, and more importantly a higher level of flexibility, that an all-in-one solution could not provide. Shinken is easy to install and to use; the code is written in Python which means that it is available on different OSs and compatible with Utf8. Flexibility being the main its main goal, its code remains very generic, modular and independent from other monitoring tools.",
+		"category_list": "Information Technology"
+	}, {
+		"title": "Shinken Monitoring",
+		"logo_url": "http://www.shinken-monitoring.org/img/LogoFrameworkBlack.png",
+		"website_url": "http://www.shinken-monitoring.org/download.php",
+		"created_year": "",
+		"description": "",
+		"category_list": "Information Technology"
+	}, {
+		"title": "Shinken Lab",
+		"logo_url": "http://shinkenlab.io/theme/img/Logoframeworkblack.png",
+		"website_url": "http://shinkenlab.io/",
+		"created_year": "",
+		"description": "",
+		"category_list": "Information Technology"
+	}, {
+		"title": "Shinken",
+		"logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
+		"website_url": "http://shinken.io/",
+		"created_year": "",
+		"description": "",
+		"category_list": "Information Technology",
+		"similar_software_list": [{
+			"title": "Nagios",
+			"similiar_software_url": "https://www.nagios.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "Opsview Core",
+			"similiar_software_url": "https://www.opsview.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Icinga",
+			"similiar_software_url": "https://icinga.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Mod-Gearman",
+			"similiar_software_url": "https://mod-gearman.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "The NOC Project",
+			"similiar_software_url": "https://getnoc.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Webmin",
+			"similiar_software_url": "https://www.webmin.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Check MK",
+			"similiar_software_url": "https://checkmk.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["GNU Affero General Public License v3.0"],
+		"source_code_download": "https://github.com/naparuba/shinken.git",
+		"source_code_profile": "https://www.openhub.net/p/shinken/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.shinken-enterprise.com/fr/tarifs/",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Shinken_(software)",
+		"reference_list": [],
+		"success_case_list": []
+	}]
 }
