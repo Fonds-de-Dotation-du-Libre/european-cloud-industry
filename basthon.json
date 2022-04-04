@@ -1,0 +1,46 @@
+{
+  "created": "2022-04-04",
+  "title": "Basthon",
+  "type": "Other",
+  "logo_url": "https://basthon.fr/theme/assets/img/basthon.svg",
+  "location": {
+    "title": "",
+    "address": "",
+    "postal_code": "18100",
+    "city": "Vierzon",
+    "country": "FR",
+    "phone_contact": "",
+    "mail_contact": "romain.casati@ac-orleans-tours.fr",
+    "coordinate_list": ["47.22907288165811, 2.065086719341902"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://basthon.fr/",
+  "founded_year": "2020",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Basthon Notebook",
+    "logo_url": "",
+    "website_url": "https://notebook.basthon.fr/",
+    "created_year": "2020",
+    "description": "Basthon is a tool used to learn how to program  mostly Python code, but also Javascript, SQL, OCaml, Bash",
+    "category_list": ["Information Technology"]
+  },{
+    "title": "Basthon Console",
+    "logo_url": "",
+    "website_url": "https://console.basthon.fr/",
+    "created_year": "2020",
+    "description": "Basthon is a console-like tool used to learn how to program  mostly Python code, but also Javascript, SQL, OCaml, Bash",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [],
+    "licence_list": ["GNU GPL v3.0"],
+    "source_code_download": "https://framagit.org/basthon/basthon-kernel",
+    "source_code_profile": "No",
+    "commercial_support_url": "No",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "NO",
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}
