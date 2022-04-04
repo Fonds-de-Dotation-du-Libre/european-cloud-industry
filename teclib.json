@@ -1,0 +1,148 @@
+{
+	"created": "23-07-2009",
+	"title": "Teclib Group",
+	"type": "corporation",
+	"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/04/logo-teclib-185x60-3.png",
+	"location": {
+		"title": "Teclib Group",
+		"address": "231 Rue St Honoré",
+		"postal_code": "75001",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "+33 1 79 97 02 78",
+		"mail_contact": "",
+		"coordinate_list": [48.866827098891875, 2.3290391539788384]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.teclib-edition.com/en/",
+	"founded_year": "",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "-2 400€",
+		"total_assets": "6 306 900€",
+		"revenues": "3 791 200€",
+		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "134 600€",
+		"total_assets": "5 423 400€",
+		"revenues": "3 885 062€",
+		"source_url": "https://www.societe.com/bilan/teclib-513893503201712311.html"
+	}],
+	"solution_list": [{
+				"title": "GLP Network",
+				"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
+				"website_url": "https://www.teclib-edition.com/en/software/glpi-network-itsm/",
+				"created_year": "",
+				"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
+				"category_list": ["service desk"],
+				"similar_software_list": [{
+							"title": "spicework service desk",
+							"similiar_software_url": "https://www.spiceworks.com/",
+							"category": "service desk",
+
+							"title": "jira service management",
+							"similiar_software_url": "https://www.atlassian.com/software/jira/service-management",
+							"category": "management",
+
+							"title": "FLYVE MDM",
+							"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
+							"website_url": "https://www.teclib-edition.com/en/software/flyve-mobile-device-management/",
+							"created_year": "",
+							"description": "",
+							"category_list": ["service desk"],
+							"similar_software_list": [{
+										"title": "Hexanode UEM",
+										"similiar_software_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
+										"category": "management",
+
+										"title": "FLYVE MDM",
+										"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
+										"website_url": "https://www.teclib-edition.com/en/software/flyve-mobile-device-management/",
+										"created_year": "",
+										"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
+										"category_list": ["management"],
+										"similar_software_list": [{
+											"title": "Hexanode UEM",
+											"similiar_software_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
+											"category": "management",
+
+											"title": "Kimios DMS",
+											"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
+											"website_url": "https://www.teclib-edition.com/en/software/kimios-document-management-system/",
+											"created_year": "",
+											"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
+											"category_list": ["management"],
+											"similar_software_list": [{
+												"title": "Mayan EDMS",
+												"similiar_software_url": "https://www.mayan-edms.com/",
+												"category": "management",
+
+												"title": "eXo Platform",
+												"similiar_software_url": "https://www.exoplatform.com/",
+												"category": "management",
+
+												"title": "Alfresco Community Edition",
+												"similiar_software_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
+												"category": "management"
+											}],
+											"licence_list": ["Free software GPL v2"],
+											"source_code_download": "https://github.com/TECLIB",
+											"source_code_profile": "https://www.openhub.net/p/glpi-project",
+											"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
+											"floss_software": "yes",
+											"commercial_support_open_source_version": "",
+											"commercial_support_available": "yes",
+											"wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
+											"reference_list": [],
+											"success_case_list": [{
+												"title": "GLPI SUCCESS CASE: MINISTRY OF SCIENCE AND INNOVATION OF SPAIN",
+												"description": "We use GLPI as the main Helpdesk tool for user support and as inventory tracker, extra functionality, as knowledge base, and to have full track of licenses and provider statuses.  ",
+												"image_url": "",
+												"industry": "Sciences",
+												"customer": "Ministry of Sciences and innovation of Spain",
+												"country": "ES",
+												"language": "EN",
+												"success_case_url": "https://www.teclib-edition.com/en/glpi-success-case-ministry-of-science-and-innovation-of-spain/",
+
+												"title": "GLPI success case: CreditLogic",
+												"description": "We needed a simple and intuitive service portal for our clients that was capable of managing multiple clients, SSO and full separation of data, but with excellent features and extensibility.",
+												"image_url": "",
+												"industry": "Software development",
+												"customer": "Ministry of Sciences and innovation of Spain",
+												"country": "IE",
+												"language": "EN",
+												"success_case_url": "https://glpi-project.org/fr/glpi-success-case-creditlogic/"
+											}]
+										}]
+									}
