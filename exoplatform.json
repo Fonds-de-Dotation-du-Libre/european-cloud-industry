@@ -1,90 +1,97 @@
 {
-  "created": "2022-03-31",
-  "title": "eXo Platform",
-  "type": "Corporation",
-  "logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/05/exo-70x30.png",
-  "location": {
-    "title": "eXo Platform Europe",
-    "address": "7 rue de la Paix",
-    "postal_code": "75002",
-    "city": "Paris",
-    "country": "FR",
-    "phone_contact": "+33182837731",
-    "mail_contact": "https://www.exoplatform.com/contact-us/",
-    "coordinate_list": ["48.86898233653592, 2.330626921910098"]
-  },
-  "subsidiary_location_list": ["US","TN"],
-  "website_url": "https://www.exoplatform.com/",
-  "founded_year": "2003",
-  "kpi_list": [],
-  "solution_list": [{
-    "title": "Digital Workplace",
-    "logo_url": "",
-    "website_url": "https://www.exoplatform.com/digital-workplace/",
-    "created_year": "",
-    "description": "A Digital Workplace solution conceived to facilitate collaboration through secured spaces, task managers, documents sharing and editing, communication through videoconference and messaging, making it easier to work from anywhere, and thought to boost productivity,",
-    "category_list": ["Information Technology"],
-    "title": "Company Intranet",
-    "logo_url": "",
-    "website_url": "https://www.exoplatform.com/company-intranet-software/",
-    "created_year": "",
-    "description": "Designed to easily create and publish rich and engaging content and also simplify internal communication from management as well as between collaborators through communities. The functional devices help boost productivity, and connect employees to their projects, colleagues, and company. ",
-    "category_list": ["Information Technology"],
-    "title": "Collaboration Platform",
-    "logo_url": "",
-    "website_url": "https://www.exoplatform.com/digital-collaboration-software/",
-    "created_year": "",
-    "description": "The Collaboration Platform facilitates project management with shared documents, tasks, calendars and notes on private secure workspaces, from any location. It enables internal communities thanks to chat and video-conference in real time and through activity streams, which also promotes multidisciplinarity collaboration and mutual help.",
-    "category_list": ["Information Technology"],
-    "title": "Knowledge Management",
-    "logo_url": "",
-    "website_url": "https://www.exoplatform.com/knowledge-management-software/",
-    "created_year": "",
-    "description": "Solution designed to store documents and other content types in contextual file systems that you can organize to help finding the relevant informations, through results filtering and a powerful unified search. The software enables direct knowledge contributions via articles or notes that the collaborators can browse and share.",
-    "category_list": ["Information Technology"],
-    "title": "Entreprise Social Network",
-    "logo_url": "",
-    "website_url": "https://www.exoplatform.com/enterprise-social-network/",
-    "created_year": "",
-    "description": "The ESN encourages collaborators to interact about work projects but also interests in order for them to grow closer, while making sure the informations are properly distributed. eXo Platform's NSE analyzes the engagement, data and contributions to increase and valorize the communication's efficiency.  ",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "Slack",
-      "similiar_software_url": "https://slack.com/intl/en-gb/",
-      "category": "Information Technology",
-      "title": "Basecamp",
-      "similiar_software_url": "https://basecamp.com/",
-      "category": "Information Technology"
-      "title": "Humhub",
-      "similiar_software_url": "https://www.humhub.com/en",
-      "category": "Information Technology",
-      "title": "Jamespot",
-      "similiar_software_url": "https://www.en.jamespot.com/",
-      "category": "Information Technology"
-    }],
-    "licence_list": ["GNU AGPL v3.0"],
-    "source_code_download": "https://github.com/exoplatform",
-    "source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.exoplatform.com/product-offer/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
-  }]
+	"created": "2022-03-31",
+	"title": "eXo Platform",
+	"type": "Corporation",
+	"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/05/exo-70x30.png",
+	"location": {
+		"title": "eXo Platform Europe",
+		"address": "7 rue de la Paix",
+		"postal_code": "75002",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "+33182837731",
+		"mail_contact": "https://www.exoplatform.com/contact-us/",
+		"coordinate_list": ["48.86898233653592, 2.330626921910098"]
+	},
+	"subsidiary_location_list": ["US", "TN"],
+	"website_url": "https://www.exoplatform.com/",
+	"founded_year": "2003",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Digital Workplace",
+		"logo_url": "",
+		"website_url": "https://www.exoplatform.com/digital-workplace/",
+		"created_year": "",
+		"description": "A Digital Workplace solution conceived to facilitate collaboration through secured spaces, task managers, documents sharing and editing, communication through videoconference and messaging, making it easier to work from anywhere, and thought to boost productivity,",
+		"category_list": ["Information Technology"]
+	}, {
+		"title": "Company Intranet",
+		"logo_url": "",
+		"website_url": "https://www.exoplatform.com/company-intranet-software/",
+		"created_year": "",
+		"description": "Designed to easily create and publish rich and engaging content and also simplify internal communication from management as well as between collaborators through communities. The functional devices help boost productivity, and connect employees to their projects, colleagues, and company. ",
+		"category_list": ["Information Technology"]
+	}, {
+		"title": "Collaboration Platform",
+		"logo_url": "",
+		"website_url": "https://www.exoplatform.com/digital-collaboration-software/",
+		"created_year": "",
+		"description": "The Collaboration Platform facilitates project management with shared documents, tasks, calendars and notes on private secure workspaces, from any location. It enables internal communities thanks to chat and video-conference in real time and through activity streams, which also promotes multidisciplinarity collaboration and mutual help.",
+		"category_list": ["Information Technology"]
+	}, {
+		"title": "Knowledge Management",
+		"logo_url": "",
+		"website_url": "https://www.exoplatform.com/knowledge-management-software/",
+		"created_year": "",
+		"description": "Solution designed to store documents and other content types in contextual file systems that you can organize to help finding the relevant informations, through results filtering and a powerful unified search. The software enables direct knowledge contributions via articles or notes that the collaborators can browse and share.",
+		"category_list": ["Information Technology"]
+	}, {
+		"title": "Entreprise Social Network",
+		"logo_url": "",
+		"website_url": "https://www.exoplatform.com/enterprise-social-network/",
+		"created_year": "",
+		"description": "The ESN encourages collaborators to interact about work projects but also interests in order for them to grow closer, while making sure the informations are properly distributed. eXo Platform's NSE analyzes the engagement, data and contributions to increase and valorize the communication's efficiency.  ",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Slack",
+			"similiar_software_url": "https://slack.com/intl/en-gb/",
+			"category": "Information Technology"
+		}, {
+			"title": "Basecamp",
+			"similiar_software_url": "https://basecamp.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Humhub",
+			"similiar_software_url": "https://www.humhub.com/en",
+			"category": "Information Technology"
+		}, {
+			"title": "Jamespot",
+			"similiar_software_url": "https://www.en.jamespot.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["GNU AGPL v3.0"],
+		"source_code_download": "https://github.com/exoplatform",
+		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
 }
