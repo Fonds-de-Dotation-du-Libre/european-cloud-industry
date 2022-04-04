@@ -1,0 +1,85 @@
+{
+  "created": "2022-04-04",
+  "title": "Normation",
+  "type": "Corporation",
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBowLoYTLpHOKXvhlhH-_zZFOEJzwXWKsvwA&usqp=CAU",
+  "location": {
+    "title": "Normation",
+    "address": "87 rue de Turbigo",
+    "postal_code": "75003",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "+33183622696",
+    "mail_contact": "contact@normation.com",
+    "coordinate_list": ["48.86699801113945, 2.362587290917917"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.rudder.io/",
+  "founded_year": "2010",
+  "kpi_list": [{
+    "year": "2020",
+    "staff": "13",
+    "earnings": "852 500 €",
+    "total_assets": "1 204 600€",
+    "revenues": "711 600 €",
+    "source_url": "https://www.societe.com/bilan/normation-519451686202012311.html"
+  }],
+  "solution_list": [{
+    "title": "Rudder",
+    "logo_url": "https://www.rudder.io/wp-content/uploads/2021/08/logo-rudder-2021.svg",
+    "website_url": "https://www.rudder.io/",
+    "created_year": "2011",
+    "description": "Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Rudder is designed for critical environments where a security breach can mean more than a blip in the sales stats. Built-in features include change requests, audit logs, and strong authentication.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "Ansible",
+      "similiar_software_url": "https://www.ansible.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Puppet",
+      "similiar_software_url": "https://puppet.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Salt",
+      "similiar_software_url": "https://saltproject.io/",
+      "category": "Information Technology"
+    },{
+      "title": "Otter",
+      "similiar_software_url": "https://inedo.com/otter",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["GPL v3.0"],
+    "source_code_download": "https://github.com/cfengine/core.git",
+    "source_code_profile": "https://www.openhub.net/p/cfengine/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.rudder.io/pricing/",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rudder_(software)",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "Configuration and package management for an industrial company",
+      "description": "An automative industrial company needed to select and implement a new solution for configuration and package management. The aim was to standardize the worldwide UNIX/Linux infrastructure and ensure compliance with security and IT policies.",
+      "image_url": "",
+      "industry": "Automotive",
+      "customer": "BMW",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://www.rudder.io/wp-content/uploads/2020/02/Success-Story-M.pdf"
+    },{
+      "title": "Jaguar Networks selects Rudder for the Continuous configuration management of its Stand-alone Servers ",
+      "description": "Jaguar Network had four main goals to improve the quality of their service: the centralization and automation of platform management,the maintenance of internal quality standards over time, having visibility on server compliance and finally obtaining security qualifications such as SecNumCloud, GDPR, PCI-DSS,etc. ",
+      "image_url": "",
+      "industry": "Information Technology",
+      "customer": "Jaguar Network",
+      "country": "FR",
+      "language": "FR",
+      "success_case_url": "https://www.rudder.io/wp-content/uploads/2021/08/Jaguar-Network-Rudder.pdf"
+    }]
+  }]
+}
