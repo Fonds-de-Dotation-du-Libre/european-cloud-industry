@@ -27,34 +27,44 @@
 		"similar_software_list": [{
 			"title": "Jitsi",
 			"similiar_software_url": "https://meet.jit.si/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Mumble",
 			"similiar_software_url": "https://www.mumble.com/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Wire",
 			"similiar_software_url": "https://wire.com/en/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Signal",
 			"similiar_software_url": "https://signal.org/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Big Blue Button",
 			"similiar_software_url": "https://bigbluebutton.org/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Briefing",
 			"similiar_software_url": "https://brie.fi/ng",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Matrix",
 			"similiar_software_url": "https://matrix.org/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Zoom",
 			"similiar_software_url": "https://zoom.us/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Teams",
 			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Hangouts",
 			"similiar_software_url": "https://hangouts.google.com/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
+			},{
 			"title": "Skype",
 			"similiar_software_url": "https://www.skype.com/",
 			"category": "Telecommunication"
