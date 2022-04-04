@@ -136,16 +136,19 @@
     "website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
     "created_year": "",
     "description": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects.",
+    },{
     "title": "Collabora Online",
     "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
     "website_url": "https://www.collaboraoffice.com/collabora-online/",
     "created_year": "",
-    "description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
+    "description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files."
+    },{
     "title": "Collabora Office for Android & iOS",
     "logo_url": "",
     "website_url": "https://www.collaboraoffice.com/solutions/collabora-office-android-ios/",
     "created_year": "",
-    "description":" It is the mobile office suite of Collabora Office and allows the editing edit of documents directly on phones and tablets, guarantees privacy and full control of data and documents.",
+    "description":" It is the mobile office suite of Collabora Office and allows the editing edit of documents directly on phones and tablets, guarantees privacy and full control of data and documents."
+    },{
     "title": "Collabora Online Development Edition",
     "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2015/12/code-logo.png",
     "website_url": "https://www.collaboraoffice.com/code/", 
@@ -154,28 +157,23 @@
        "title": "LibreOffice",
        "similiar_software_url": "https://www.libreoffice.org/",
        "category": "Information Technology"
-    }],
-    "similar_software_list": [{
+    },{
       "title": "Apache OpenOffice",
       "similiar_software_url": "https://www.openoffice.org/",
       "category": "Information Technology"
-    }],
-      "similar_software_list": [{
+    },{
       "title": "OnlyOffice",
       "similiar_software_url": "https://www.onlyoffice.com/en/",
       "category": "Information Technology"
-    }],	      
-      "similar_software_list": [{
+   },{
       "title": "Calligra",
       "similiar_software_url": "https://calligra.org/",
       "category": "Information Technology"
-    }],
-    "similar_software_list": [{
+   },{
        "title": "Microsoft Office Suite",
        "similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
        "category": "Information Technology"
-    }],
-      "similar_software_list": [{
+   },{
        "title": "WPS Office",
        "similiar_software_url": "https://www.wps.com/",
        "category": "Information Technology"
