@@ -1,0 +1,99 @@
+{
+  "created": "2022-04-04",
+  "title": "Odoo"
+  "type": "Crporation",
+  "logo_url": "",
+  "location": {
+    "title": "Odoo Office HQ",
+    "address": "Chaussée de Namur 40",
+    "postal_code": "1367",
+    "city": "Grand-Rosière-Ramillies",
+    "country": "BE",
+    "phone_contact": "+32 81 81 37 00",
+    "mail_contact": "",
+    "coordinate_list": ["50.63537307087549, 4.864376886205374"]
+  },
+  "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
+  "website_url": "https://www.odoo.com/",
+  "founded_year": "2005",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["LGPLv3"],
+    "source_code_download": "https://github.com/odoo/odoo.git",
+    "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.odoo.com/pricing#pl=66&version_id=33&num_users=1&num_iot_boxes=1&hosting=online&odoosh_workers=1&odoosh_storage=1&odoosh_staging=1&implementation_service=self&pack=25&force_country=FR&integrating_partner_id=0&price_by=yearly",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Odoo",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
