@@ -1,0 +1,116 @@
+{
+
+	"created": "2017",
+	"title": "Prestashop",
+	"type": "Freemium",
+	"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
+	"location": {
+		"title": "Prestashop",
+		"address": "4 rue Jules Lefebvre",
+		"postal_code": "75009",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "+33 (0)1 76 23 25 25",
+		"mail_contact": " contact@prestashop.com",
+		"coordinate_list": [48.8807269249733, 2.3275649826945304]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.prestashop.com/en",
+	"founded_year": "2007",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "Prestashop",
+		"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop-colors.svg",
+		"website_url": "https://www.prestashop.com/en/download",
+		"created_year": "2007",
+		"description": "PrestaShop allows ambitious entrepreneurs and companies to create and develop their own ecommerce site. Our open source software unites a global community.",
+		"category_list": ["e-commerce"],
+		"similar_software_list": [{
+			"title": "Ecwid",
+			"similiar_software_url": "https://www.ecwid.com/",
+			"category": "e-commerce",
+
+			"title": "shopify",
+			"similiar_software_url": "https://www.shopify.com/",
+			"category": "e-commerce",
+
+			"title": "woocommerce",
+			"similiar_software_url": "https://woocommerce.com/",
+			"category": "e-commerce",
+
+			"title": "bigcommerce",
+			"similiar_software_url": "https://www.bigcommerce.com/",
+			"category": "e-commerce",
+
+			"title": "nopcommerce",
+			"similiar_software_url": "https://www.nopcommerce.com/en",
+			"category": "e-commerce"
+		}],
+		"licence_list": ["OSL"],
+		"source_code_download": "https://github.com/PrestaShop/PrestaShop",
+		"source_code_profile": "https://www.openhub.net/p/PrestaShop",
+		"commercial_support_url": "https://www.prestashop.com/en/help",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/PrestaShop",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
