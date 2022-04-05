@@ -80,6 +80,13 @@
     "created_year": "2016",
     "description": "A collective that gathers free, open source, ethical and decentralized structures to find alternatives to GAFAM.",
     "category_list": ["Information Technology"]
+     },{
+    "title": "PeerTube",
+    "logo_url": "https://joinpeertube.org/img/brand.png",
+    "website_url": "https://joinpeertube.org/",
+    "created_year": "",
+    "description": "A free, open source, ethical and decentralized video platform.",
+    "category_list": ["Information Technology"]
     }],
     "licence_list": ["CC BY-SA 4.0"],
     "source_code_download": "https://framagit.org/framasoft/framanav.git",
