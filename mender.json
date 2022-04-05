@@ -1,0 +1,124 @@
+{
+	"created": "2015",
+	"title": "Mender",
+	"type": "international organisation",
+	"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
+	"location": {
+		"title": "mender",
+		"address": "Europe Gaustadalléen 21",
+		"postal_code": "0349",
+		"city": "Oslo",
+		"country": "NO",
+		"phone_contact": "+1 650 670-8600",
+		"mail_contact": "contact@mender.io",
+		"coordinate_list": [59.94102273563241, 10.71458941379722]
+	},
+	"subsidiary_location_list": ["US"],
+	"website_url": "https://mender.io/",
+	"founded_year": "2015",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "318",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "55273420.00€",
+		"source_url": "https://www.datanyze.com/companies/mender/459811321"
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "mender open source",
+		"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
+		"website_url": "https://mender.io/plans/features",
+		"created_year": "2016",
+		"description": "Mender enables developers and device makers to adapt to an evolving product landscape by managing and deploying all device software remotely, worldwide.",
+		"category_list": ["IOT"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": "",
+
+			"title": "Particle",
+			"similiar_software_url": "https://www.particle.io/",
+			"category": "IOT",
+
+			"title": "Hologram",
+			"similiar_software_url": "https://www.hologram.io/discover/hardware/global-iot-simcard?utm_source=google&utm_medium=cpc&utm_campaign=branded-country-expansion&gclid=CjwKCAjw0a-SBhBkEiwApljU0n3z7ag5WHFeUxxUQkzqSfwRygr7TqCr_N57YJVLVV3vSZHFSUuQWxoCpPQQAvD_BwE",
+			"category": "IOT",
+
+			"title": "Thingswork",
+			"similiar_software_url": "https://www.ptc.com/en/products/thingworx",
+			"category": "IOT",
+
+			"title": "Google Cloud IOT core",
+			"similiar_software_url": "https://cloud.google.com/iot-core",
+			"category": "IOT"
+		}],
+		"licence_list": ["Apache License v2"],
+		"source_code_download": "https://github.com/mendersoftware",
+		"source_code_profile": "https://www.openhub.net/p/mender",
+		"commercial_support_url": "https://mender.io/contact-us",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "https://en.everybodywiki.com/Mender",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "MacGrogar and Mender",
+			"description": "Mender provides secure and robust OTA updates to help ensure the product security of OnWatch Scout. OTA updates are also used to update the machine learning models that run on the edge computers.The machine learning models need to be transferred, the product security updatesneed to be transferred, and both in a challenging connectivity environment consisting of LTE and Satellite. Mender offers Delta updates (partial updates) and OTA update resumption capabilities to address these needs.",
+			"image_url": "",
+			"industry": "engineering",
+			"customer": "MacGregor",
+			"country": "US",
+			"language": "EN",
+			"success_case_url": "https://mender.io/customers/mender_case_study_macgregor.pdf",
+
+			"title": "Gunnebo and Mender",
+			"description": "GBS investigated several solutions and Mender stood out as the most efficient and cost effective OTA solution option.",
+			"image_url": "",
+			"industry": "security products",
+			"customer": "Gunnebo",
+			"country": "SE",
+			"language": "EN",
+			"success_case_url": "https://mender.io/customers/mender_case_study_gunnebo.pdf"
+		}]
+	}]
+}
