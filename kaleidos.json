@@ -1,0 +1,112 @@
+{
+  "created": "2022-04-05",
+  "title": "Kaleidos",
+  "type": "Corporation",
+  "logo_url": "https://avatars.githubusercontent.com/u/1219587?s=200&v=4",
+  "location": {
+    "title": "Kaleidos Open Source Main Office",
+    "address": "La Botánica 4",
+    "postal_code": "28028",
+    "city": "Madrid",
+    "country": "ES",
+    "phone_contact": "+34913562995",
+    "mail_contact": "hello@kaleidos.net",
+    "coordinate_list": ["40.43618126800605, -3.670895690786414"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://kaleidos.net/",
+  "founded_year": "2011",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Taiga",
+    "logo_url": "https://images.assets-landingi.com/4purx2ZndyLWUPgi/logo_horizontal.png",
+    "website_url": "https://www.taiga.io/",
+    "created_year": "2014",
+    "description": "Taiga is an Open Source project management platform for cross-domain agile teams.",
+    "category_list": ["Information Technology"]
+  },{
+    "title": "Penpot",
+    "logo_url": "https://avatars.githubusercontent.com/u/30179644?s=200&v=4",
+    "website_url": "https://penpot.app/",
+    "created_year": "2016",
+    "description": "The open-source solution for design and prototyping digital products and platforms.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "Trello",
+      "similiar_software_url": "https://trello.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Open Project",
+      "similiar_software_url": "https://www.openproject.org/",
+      "category": "Information Technology"
+    },{
+      "title": "Asana",
+      "similiar_software_url": "https://asana.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Quire",
+      "similiar_software_url": "https://quire.io/",
+      "category": "Information Technology"
+    },{
+      "title": "Wekan",
+      "similiar_software_url": "https://wekan.github.io/",
+      "category": "Information Technology"
+    },{
+      "title": "Kanboard",
+      "similiar_software_url": "https://kanboard.org/",
+      "category": "Information Technology"
+    },{
+      "title": "Redmine",
+      "similiar_software_url": "https://www.redmine.org/",
+      "category": "Information Technology"
+    },{
+      "title": "Pencil Project",
+      "similiar_software_url": "https://pencil.evolus.vn/",
+      "category": "Information Technology"
+    },{
+      "title": "Figma",
+      "similiar_software_url": "https://www.figma.com/",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["MPL 2.0"],
+    "source_code_download": "https://github.com/kaleidos-ventures/taiga-back.git",
+    "source_code_profile": "https://www.openhub.net/p/taigaio/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "Red Hat",
+      "logo_url": "https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo.svg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{ 
+      "title": "Airbus",
+      "logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
+      "country": "FR",
+      "industry": "Aviation & Aerospace"
+    },{ 
+      "title": "Orange",
+      "logo_url": "https://c.woopic.com/logo-orange.png",
+      "country": "FR",
+      "industry": "Telecommunication"
+    },{ 
+      "title": "University of Washington",
+      "logo_url":"https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1200px-University_of_Washington_seal.svg.png",
+      "country": "US",
+      "industry": "Academia & Research"
+    },{ 
+      "title": "HP",
+      "logo_url": "https://brandcentral.hp.com/content/dam/sites/brand-central/elem-logo/images/Logo%20Colors_Black.svg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{ 
+      "title": "TATA",
+      "logo_url": "https://www.tata.com/etc/designs/tata/publish/assets/img/pages/nav/Tata_Logo2.svg",
+      "country": "IN",
+      "industry": "Automotive"
+    }],
+    "success_case_list": []
+  }]
+}
