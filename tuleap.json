@@ -1,0 +1,80 @@
+{
+  "created": "2022-04-05",
+  "title": "Enalean",
+  "type": "Corporation",
+  "logo_url": "https://www.enalean.com/assets/logo-enalean.47fe4ce8.svg",
+  "location": {
+    "title": "Enalean Siège Social",
+    "address": "87 avenue de Chambéry",
+    "postal_code": "73230",
+    "city": "Saint-Alban-Leysse",
+    "country": "FR",
+    "phone_contact": "+33981419616 ",
+    "mail_contact": "contact@enalean.com",
+    "coordinate_list": ["45.573866872895536, 5.9505117547145145"]
+  },
+  "subsidiary_location_list": ["CH"],
+  "website_url": "https://www.enalean.com/",
+  "founded_year": "2010",
+  "kpi_list": [{
+    "year": "2015",
+    "staff": "",
+    "earnings": "779 300 €",
+    "total_assets": "",
+    "revenues": "66 500 €",
+    "source_url": "https://www.societe.com/bilan/enalean-531796621201512311.html"
+  }],
+  "solution_list": [{
+    "title": "Tuleap",
+    "logo_url": "https://www.tuleap.org/wp-content/themes/tuleap-child/assets/img/svg/logo-tuleap-white.svg",
+    "website_url": "https://www.tuleap.org/",
+    "created_year": "2010",
+    "description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "Github",
+      "similiar_software_url": "https://github.com/",
+      "category": "Information Technology"
+    },{
+      "title": "GitLab",
+      "similiar_software_url": "https://about.gitlab.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Gitea",
+      "similiar_software_url": "https://gitea.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Jira",
+      "similiar_software_url": "https://www.atlassian.com/software/jira",
+      "category": "Information Technology"
+    },{
+      "title": "Kanboard",
+      "similiar_software_url": "https://kanboard.org/",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["GPL v.2"],
+    "source_code_download": "https://github.com/Enalean/tuleap.git",
+    "source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.tuleap.org/fr/tarifs/sur-site",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tuleap_(project_management)",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "Aviation and Aerospace",
+      "customer": "Airbus",
+      "country": "FR",
+      "language": "FR",
+      "success_case_url": "https://www.tuleap.org/fr/ressources/temoignages-clients/tuleap-lalm-du-futur-au-coeur-de-la-stategie-devops-dairbus"
+    }]
+  }]
+}
