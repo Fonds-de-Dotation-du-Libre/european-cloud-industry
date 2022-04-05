@@ -1,0 +1,85 @@
+{
+  "created": "2022-04-05",
+  "title": "RCDevs",
+  "type": "Corporation",
+  "logo_url": "https://www.rcdevs.com/wp-content/uploads/logo-Black-Orange-160x73.png",
+  "location": {
+    "title": "RCDevs SA",
+    "address": "1 Boulevard du Jazz",
+    "postal_code": "4370",
+    "city": "Esch-sur-Alzette",
+    "country": "LU",
+    "phone_contact": "+352 26 17 61 21",
+    "mail_contact": "info@rcdevs.com",
+    "coordinate_list": ["49.502436959074835, 5.944859107618239"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.rcdevs.com/",
+  "founded_year": "",
+  "kpi_list": [{
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "4 568 705,92 €",
+    "revenues": "838 814,69 €",
+    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "2 741 166,02 €",
+    "revenues": "134 124,14 €",
+    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1 851 519,63€",
+    "revenues": "378 661,5 €",
+    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "1 348 799,04 €",
+    "revenues": "210 658,34 €",
+    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+  }],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.rcdevs.com/store/",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
