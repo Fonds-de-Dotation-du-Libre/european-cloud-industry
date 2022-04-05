@@ -1,0 +1,160 @@
+{
+	"created": "2008",
+	"title": "mail.ru",
+	"type": "corporation",
+	"logo_url": "https://static.tarantool.io/pub/1.3.54/tarantool/images/logo-full.svg",
+	"location": {
+		"title": "tarantool",
+		"address": "Leningradskiy prospect, 39, build 79, SkyLight",
+		"postal_code": "125167",
+		"city": "Moscow",
+		"country": "RU",
+		"phone_contact": "+74957256357",
+		"mail_contact": "noc@corp.mail.ru",
+		"coordinate_list": [55.79700683101193, 37.5372725406218]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.tarantool.io/en/",
+	"founded_year": "2008",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "tarantool",
+		"logo_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/logo-full.svg",
+		"website_url": "https://www.tarantool.io/en/rtm/",
+		"created_year": "2008",
+		"description": "One of these solutions was designed for a top 5 retailer in Russia. The system handles a workload of more than 2,000 operations per second. The data marts created by the Tarantool team display all the information about customer profiles and actions.",
+		"category_list": ["marketing"],
+		"similar_software_list": [{
+			"title": "Redis",
+			"similiar_software_url": "https://redis.io/",
+			"category": "database management",
+
+			"title": "Aerospike",
+			"similiar_software_url": "https://aerospike.com/?utm_term=aerospike_e&utm_campaign=GS_EMEA_EN_Brand_Exact&utm_source=google&utm_medium=cpc&gclid=CjwKCAjw0a-SBhBkEiwApljU0u1IB93fysnCJMQLhmTRy11serVwm40cMtJt3WWtHlIlA2AlwKPPfBoCTyAQAvD_BwE",
+			"category": "database management",
+
+			"title": "Mongodb",
+			"similiar_software_url": "https://www.mongodb.com/",
+			"category": "database management",
+
+			"title": "MySQL",
+			"similiar_software_url": "https://www.mysql.com/",
+			"category": "database management",
+
+			"title": "Clickhouse",
+			"similiar_software_url": "https://clickhouse.com/",
+			"category": "database management"
+		}],
+		"licence_list": ["Simplified BSD"],
+		"source_code_download": "https://github.com/tarantool/tarantool",
+		"source_code_profile": "https://www.openhub.net/p/tarantool",
+		"commercial_support_url": "https://www.tarantool.io/en/request_support/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Tarantool",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "Combining data from multiple systems in Alfa-Bank's investment business core",
+			"description": "For years, lines of investment business in Alfa-Bank evolved independently. The variety of systems and their heterogeneity were causing problems, as the systems’ codebase became rather obsolete. The systems duplicated each other’s functions; each system had its own data model, although they used the same concepts. Sometimes it affected performance: an analytical query would take half an hour, data got outdated, and the system was on the verge of breaking with a workload of 5,000 transactions per day.",
+			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/alfabank/alfabank-logo.svg",
+			"industry": "investment banking",
+			"customer": "Alfa bank",
+			"country": "RU",
+			"language": "EN",
+			"success_case_url": "https://www.tarantool.io/en/cases/alfabank/",
+
+			"title": "Speeding up MegaFon services with Tarantool",
+			"description": "In 2016, the external audit of the IT landscape in MegaFon has shown that it is necessary to improve fault tolerance and availability of basic structures: billing, ERP, operations and business support systems. Almost all of them use Oracle as the single data storage. This means that at peak loads, the ascending structure may fail, which negatively affected the subscriber service.",
+			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/megafon/megafon-logo.svg",
+			"industry": "telecommunication",
+			"customer": "MegaFon",
+			"country": "RU",
+			"language": "EN",
+			"success_case_url": "https://www.tarantool.io/en/cases/megafon/",
+
+			"title": "Increasing the product catalog's availability and reliability",
+			"description": "Citilink is one of Russia's top online discount stores. Its extensive network of outlets and depots offers a wide variety of products. In 2020, Citilink's sales amounted to 132.7 billion rubles, which makes it the third-largest company in Russia.",
+			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/citilink/logo.png",
+			"industry": "sales",
+			"customer": "Citilink",
+			"country": "RU",
+			"language": "EN",
+			"success_case_url": "https://www.tarantool.io/en/cases/citilink/",
+
+			"title": "Optimizing TCO with reliable Tarantool cache",
+			"description": "Today, the technical team of Wildberries has its own approach to creating reliable distributed systems. Tarantool is ideal for those systems as a universal storage for high-demand data: user profiles, banners, discounts, etc. In total, the company has twelve Tarantool-based microservices.",
+			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/wildberries/wildberries-logo.svg",
+			"industry": "sales",
+			"customer": "Wildberries",
+			"country": "RU",
+			"language": "EN",
+			"success_case_url": "https://www.tarantool.io/en/cases/wildberries/",
+
+			"title": "Tarantool-based PCI DSS compliant payment service",
+			"description": "The cardholder must be able to transfer money by phone number, social network ID, or other details without knowing the recipient’s card number. The companies jointly drafted the terms of reference and ubased the implementation on Tarantool.",
+			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/mastercard/mastercard-logo.svg",
+			"industry": "global payment",
+			"customer": "Mastercard",
+			"country": "RU",
+			"language": "EN",
+			"success_case_url": "https://www.tarantool.io/en/cases/mastercard/",
+
+			"title": "Opening a new sales channel and improving the existing infrastructure",
+			"description": "The new software interface is based on the Tarantool in-memory computing platform, which became the middle layer between Magnit’s information systems and the partners’ external applications. The project is based on Tarantool Data Grid. In this Tarantool implementation, deployment issues are initially solved out-of-the-box, which significantly shortens the project timeline.",
+			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/magnit/logo.png",
+			"industry": "retail",
+			"customer": "Magnit",
+			"country": "RU",
+			"language": "EN",
+			"success_case_url": "https://www.tarantool.io/en/cases/magnit/"
+		}]
+	}]
+}
