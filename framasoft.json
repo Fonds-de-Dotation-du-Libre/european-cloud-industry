@@ -1,0 +1,95 @@
+{
+  "created": "2022-04-05",
+  "title": "Framasoft",
+  "type": "NGO",
+  "logo_url": "https://framasoft.org/img/biglogo-notxt.png",
+  "location": {
+    "title": "Framasoft",
+    "address": "10bis rue Jangot",
+    "postal_code": "69007",
+    "city": "Lyon",
+    "country": "FR",
+    "phone_contact": "",
+    "mail_contact": "https://contact.framasoft.org/",
+    "coordinate_list": ["45.751776645347455, 4.842907453532815"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://framasoft.org/fr/",
+  "founded_year": "2004",
+  "kpi_list": [{
+    "year": "2020",
+    "staff": "10",
+    "earnings": "709 511 €",
+    "total_assets": "",
+    "revenues": "151 452 €",
+    "source_url": "https://soutenir.framasoft.org/sites/default/files/Rapports_FRAMASOFT_2020-Signes.pdf"
+  },{
+    "year": "2019",
+    "staff": "10",
+    "earnings": "573 999 €",
+    "total_assets": "",
+    "revenues": "73 133 €",
+    "source_url": "https://soutenir.framasoft.org/sites/default/files/FRAMASOFT%20-%20Rapport%20G%C3%A9n%C3%A9ral%20%26%20Sp%C3%A9cial%20-%2031-12-2019.pdf"
+  }, {
+    "year": "2018",
+    "staff": "10",
+    "earnings": "475 568 €",
+    "total_assets": "",
+    "revenues": "18 253 €",
+    "source_url": "https://soutenir.framasoft.org/sites/default/files/FRAMASOFT%20-%20Rapport%20G%C3%A9n%C3%A9ral%20%26%20Sp%C3%A9cial%20-%2031.12.2018.pdf"
+  },{
+    "year": "2017",
+    "staff": "10",
+    "earnings": "414 289 €",
+    "total_assets": "",
+    "revenues": "47 957 €",
+    "source_url": "https://soutenir.framasoft.org/sites/default/files/rapport_financier_2017.pdf"
+  },{
+    "year": "2016",
+    "staff": "10",
+    "earnings": "317 645 €",
+    "total_assets": "",
+    "revenues": "57 756 €",
+    "source_url": "https://soutenir.framasoft.org/sites/default/files/rapport_financier_2016.pdf"
+  }],
+  "solution_list": [{
+    "title": "Framasoft",
+    "logo_url": "",
+    "website_url": "https://framasoft.org/en/",
+    "created_year": "",
+    "description": "A network dedicated to globally promoting “free” and particularly free software with many services and innovative projects freely put at the disposal of the general public."
+    "category_list": ["Information Technology"]
+   },{
+    "title": "Dégooglisons Internet",
+    "logo_url": "",
+    "website_url": "https://degooglisons-internet.org/en/",
+    "created_year": "",
+    "description": "Lists of ethical alternatives to GAFAM",
+    "category_list": ["Information Technology"]
+   },{
+    "title": "Framalibre",
+    "logo_url": "",
+    "website_url": "https://framalibre.org/",
+    "created_year": "",
+    "description": "Free directory about free softwares and free culture where every contributor is encouraged to take part, by creating, improving, modifying articles.",
+    "category_list": ["Information Technology"]
+   },{
+    "title": "Chatons",
+    "logo_url": "https://www.chatons.org/sites/default/files/uploads/logo_chatons.png",
+    "website_url": "https://chatons.org/",
+    "created_year": "2016",
+    "description": "A collective that gathers free, open source, ethical and decentralized structures to find alternatives to GAFAM.",
+    "category_list": ["Information Technology"]
+    }],
+    "licence_list": ["CC BY-SA 4.0"],
+    "source_code_download": "https://framagit.org/framasoft/framanav.git",
+    "source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
+    "commercial_support_url": "https://soutenir.framasoft.org/fr/",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Framasoft",
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}
