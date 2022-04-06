@@ -1,0 +1,125 @@
+{
+	"created": "2003",
+	"title": "Wallix",
+	"type": "company",
+	"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
+	"location": {
+		"title": " WALLIX GROUP SA",
+		"address": "250 bis, rue du Faubourg Saint-Honoré",
+		"postal_code": "75008",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "33-153-421281",
+		"mail_contact": "",
+		"coordinate_list": [48.87937043932026, 2.3026977691997543]
+	},
+	"subsidiary_location_list": ["GB"],
+	"website_url": "https://www.wallix.com/",
+	"founded_year": "2003",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "176",
+		"earnings": "38 818 €",
+		"total_assets": "31 118 554€",
+		"revenues": "19839369€",
+		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
+	}, {
+		"year": "2019",
+		"staff": "141",
+		"earnings": "284 129 €",
+		"total_assets": "24 561 856€",
+		"revenues": "15 734 723€",
+		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
+	}, {
+		"year": "2018",
+		"staff": "94",
+		"earnings": "- 701 241 €",
+		"total_assets": "18 754 099€",
+		"revenues": "12 381 287€",
+		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
+	}, {
+		"year": "2017",
+		"staff": "73",
+		"earnings": "648 048 €",
+		"total_assets": "17 294 923€",
+		"revenues": "11 177 692€",
+		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
+	}, {
+		"year": "2016",
+		"staff": "57€",
+		"earnings": "- 289 793€",
+		"total_assets": "12 846 545€",
+		"revenues": "7 032 354€",
+		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
+	}],
+	"solution_list": [{
+				"title": "Digital Transformation",
+				"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
+				"website_url": "https://www.wallix.com/solutions/digital-transformation/",
+				"created_year": "",
+				"description": "Business moves fast and technology moves even faster. Take control of your digital future with secure remote connections for users connecting from anywhere and to anywhere, even the Cloud. Nothing is as fast-paced as development – automate security for fast, efficient DevSecOps and Robotic Process Automation (RPA)",
+				"category_list": ["Information Technology"],
+				"similar_software_list": [{
+							"title": "CyberArk",
+							"similiar_software_url": "https://www.cyberark.com/",
+							"category": "Information Technology",
+
+							"title": "Access security compliance",
+							"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
+							"website_url": "https://www.wallix.com/solutions/audit-compliance/",
+							"created_year": "",
+							"description": "Meet access security compliance challenges head-on with robust, audit-proof technologies to secure your most sensitive IT systems and guarantee data security. Regulations and standards at state, local, and industry levels from GDPR to ISO 27001 to PCI DSS require organizations to respond to IT security compliance measures around access to critical infrastructure and data.",
+							"category_list": ["Information Technology"],
+							"similar_software_list": [{
+										"title": "OneIdentity",
+										"similiar_software_url": "https://www.oneidentity.com/",
+										"category": "Information Technology",
+
+										"title": "Access management",
+										"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
+										"website_url": "https://www.wallix.com/solutions/risk-management-security/",
+										"created_year": "",
+										"description": "Your business relies on IT systems to stay up and running. Ensure your most vulnerable systems are protected from users – both internal and external – to ensure business continuity and productivity.",
+										"category_list": ["Information Technology"],
+										"similar_software_list": [{
+											"title": "Delinea",
+											"similiar_software_url": "https://delinea.com/",
+											"category": "Information Technology",
+
+											"title": "Securing IT-OT",
+											"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
+											"website_url": "https://www.wallix.com/solutions/securing-it-ot",
+											"created_year": "",
+											"description": "the digital transformation is creating new opportunities – and new risks – for the Industry 4.0 era including environmental constraints, artificial intelligence, and the arrival of 5G. As modern information systems and mixed legacy and modern operational technology meet, advanced cybersecurity is needed to protect systems, equipment, and data.",
+											"category_list": [],
+											"similar_software_list": [{
+												"title": "BeyondTrust",
+												"similiar_software_url": "https://www.beyondtrust.com/",
+												"category": "Information Technology"
+											}],
+											"licence_list": [],
+											"source_code_download": "https://github.com/wallix",
+											"source_code_profile": "https://www.openhub.net/p/wallix_redemption",
+											"commercial_support_url": "https://www.wallix.com/support/customer-support",
+											"floss_software": "no",
+											"commercial_support_open_source_version": "",
+											"commercial_support_available": "",
+											"wikipedia_url": "https://fr.wikipedia.org/wiki/Wallix",
+											"reference_list": [{
+												"title": "",
+												"logo_url": "",
+												"country": "",
+												"industry": ""
+											}],
+											"success_case_list": [{
+												"title": "",
+												"description": "",
+												"image_url": "",
+												"industry": "",
+												"customer": "",
+												"country": "",
+												"language": "",
+												"success_case_url": ""
+											}]
+										}]
+									}
