@@ -1,0 +1,107 @@
+{
+	"created": "20-12-2019",
+	"title": "Crowdsec SAS",
+	"type": "Company",
+	"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
+	"location": {
+		"title": "Crowdsec",
+		"address": "20 RUE MAURICE ARNOUX",
+		"postal_code": "92120",
+		"city": "MONTROUGE",
+		"country": "FR",
+		"phone_contact": "",
+		"mail_contact": " info@crowdsec.net",
+		"coordinate_list": [48.82104913153437, 2.3136818115275255]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://crowdsec.net/",
+	"founded_year": "",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "Crowdsec",
+		"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
+		"website_url": "https://crowdsec.net/",
+		"created_year": "2019",
+		"description": "CrowdSec is a free, open-source and collaborative IPS. Analyze behaviors, respond to attacks & share signals across the community",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "Check Point Next Generation Firewalls",
+			"similiar_software_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
+			"category": "",
+
+			"title": "Sumo logic",
+			"similiar_software_url": "https://www.sumologic.com/",
+			"category": "",
+
+			"title": "PfSense",
+			"similiar_software_url": "https://www.pfsense.org/",
+			"category": ""
+		}],
+		"licence_list": ["MIT License"],
+		"source_code_download": "https://github.com/crowdsecurity/crowdsec",
+		"source_code_profile": "",
+		"commercial_support_url": "https://crowdsec.net/contact-crowdsec/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
