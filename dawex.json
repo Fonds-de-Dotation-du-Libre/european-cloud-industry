@@ -11,55 +11,13 @@
     "city": "Lyon",
     "country": "FR",
     "phone_contact": "+33972505670",
-    "mail_contact": "",
+    "mail_contact": "https://www.dawex.com/fr/a-propos/contacts/",
     "coordinate_list": ["45.768881807452125, 4.837626710687799"]
   },
   "subsidiary_location_list": ["CA"],
   "website_url": "https://www.dawex.com/",
   "founded_year": "2015",
-  "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }],
+  "kpi_list": [],
   "solution_list": [{
     "title": "",
     "logo_url": "",
