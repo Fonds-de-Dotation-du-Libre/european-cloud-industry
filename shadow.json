@@ -1,0 +1,45 @@
+{
+  "created": "2022-04-06",
+  "title": "Shadow",
+  "type": "Corporation",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_Shadow_Cloud_Gaming.jpg/280px-Logo_Shadow_Cloud_Gaming.jpg",
+  "location": {
+    "title": "Shadow",
+    "address": " 151 Rue Saint-Denis",
+    "postal_code": "75002",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "+33144502034",
+    "mail_contact": "thomas.beaufils@shadow.tech",
+    "coordinate_list": ["48.86500300434563, 2.3503854922580616"]
+  },
+  "subsidiary_location_list": ["US"],
+  "website_url": "https://shadow.tech/",
+  "founded_year": "2015",
+  "kpi_list": [],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shadow.tech",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
