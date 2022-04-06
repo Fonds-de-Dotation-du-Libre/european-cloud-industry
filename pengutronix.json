@@ -1,0 +1,74 @@
+{
+  "created": "2022-04-06",
+  "title": "Pengutronix",
+  "type": "Other",
+  "logo_url": "https://www.pengutronix.de/static/img/eisscholle-pinguin.svg",
+  "location": {
+    "title": "Pengutronix e.K.",
+    "address": "Steuerwalder Straße 21",
+    "postal_code": "31137",
+    "city": "Hildesheim",
+    "country": "DE",
+    "phone_contact": "+49 51 21 / 20 69 17 - 0",
+    "mail_contact": "ptxdist@pengutronix.de",
+    "coordinate_list": ["52.161413728808895, 9.947292523359001"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.pengutronix.de/en/",
+  "founded_year": "2001",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "PTX Dist",
+    "logo_url": "https://www.ptxdist.org/images/PTXdist_Logo_RGB.svg",
+    "website_url": "https://www.ptxdist.org/index.html",
+    "created_year": "2001",
+    "description": "PTXdist is a build system for firmware images. It is developed by an Open Source Community including Pengutronix since 2001. The configuration system Kconfig, known from the Linux kernel, is used to select and configure each package. The collection of recipes is based on GNU Make and Bash.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    },{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    },{
+    "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    },{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    },{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    },{
+    }],
+    "licence_list": ["GPL-2.0"],
+    "source_code_download": "https://git.pengutronix.de/git/ptxdist",
+    "source_code_profile": "https://www.openhub.net/p/ptxdist/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
