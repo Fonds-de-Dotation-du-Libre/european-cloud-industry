@@ -1,0 +1,137 @@
+{
+	"created": "16-06-2015",
+	"title": "OpenIO",
+	"type": "company",
+	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
+	"location": {
+		"title": "OpenIO",
+		"address": "2 Bis Avenue Antoine Pinay",
+		"postal_code": "59510",
+		"city": "Lille",
+		"country": "FR",
+		"phone_contact": "",
+		"mail_contact": "sales@openio.io",
+		"coordinate_list": [50.64956484289993, 3.197131911593058]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.openio.io/",
+	"founded_year": "2015",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "OpenIO object store",
+		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
+		"website_url": "https://www.openio.io/opensource",
+		"created_year": "2015",
+		"description": "OpenIO Object Storage is open core: the heart of the solution and the object APIs are open source. This guarantees the long-term availability of the solution and gives your engineers the opportunity to delve into our technology at any time, to really understand how it works.",
+		"category_list": ["information technology"],
+		"similar_software_list": [{
+			"title": "Amazon simple Storage Service",
+			"similiar_software_url": "https://aws.amazon.com/s3/",
+			"category": "Information Technology",
+
+			"title": "MinIO",
+			"similiar_software_url": "https://min.io/",
+			"category": "Information Technology",
+
+			"title": "Google Cloud Storage",
+			"similiar_software_url": "https://cloud.google.com/storage",
+			"category": "Information technology",
+
+			"title": "Veeame One",
+			"similiar_software_url": "https://www.veeam.com/virtualization-management-one-solution.html",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["AGPL3", "LGPL3 "],
+		"source_code_download": "https://github.com/open-io",
+		"source_code_profile": "https://www.openio.io/",
+		"commercial_support_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "Customer success story: Relex",
+			"description": "Iikka Niinivaara explains the role of object storage and OpenIO in Relex's infrastructure. How it helped to improve data protection processes while saving time and money.",
+			"image_url": "",
+			"industry": "commerce and retail",
+			"customer": "Relex",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://youtu.be/qM_82_g4XdY",
+
+			"title": "Customer Success story: DailyMotion",
+			"description": "Thomas Gerbier from Dailymotion explains why OpenIO Object Storage is now used as their primary storage solution.",
+			"image_url": "",
+			"industry": "",
+			"customer": "Dailymotion",
+			"country": "GB",
+			"language": "EN",
+			"success_case_url": "https://www.openio.io/resources/customer-success-story-dailymotion",
+
+			"title": "Customer sucess story: ICM",
+			"description": "Object storage for medical images at ICM (Brain & Spine Institute)",
+			"image_url": "",
+			"industry": "medical",
+			"customer": "ICM",
+			"country": "",
+			"language": "EN",
+			"success_case_url": "https://www.openio.io/resources/customer-video-icm",
+
+			"title": "Customer Success Story: Vade Secure",
+			"description": "Frédéric Maussion from Vade Secure illustrates their adoption of OpenIO Objbect Storage, and the benefits of integrating it with native APIs.",
+			"image_url": "",
+			"industry": "Intelligence Artificielle",
+			"customer": "Vade secure",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.openio.io/resources/customer-success-story-vade-secure"
+		}]
+	}]
