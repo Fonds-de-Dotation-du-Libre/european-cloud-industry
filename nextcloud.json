@@ -53,7 +53,7 @@
 			"industry": "Education",
 			"customer": "Centre de gestion informatique de éducation",
 			"country": "LU",
-			"language": "ENG",
+			"language": "en",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CGIE_Luxembourg_HNK_whitepaper.pdf"
 			}, {
 			"title": "Nextcloud for 33K middle school students in France",
@@ -62,7 +62,7 @@
 			"industry": "Digital services",
 			"customer": "SIB",
 			"country": "FR",
-			"language": "FR",
+			"language": "en",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
 			}, {
 			"title": "Germany’s public radio and television deploys Nextcloud",
@@ -71,7 +71,7 @@
 			"industry": " public-law, non-legally capable administrative community",
 			"customer": "IVZ",
 			"country": "DE",
-			"language": "DE",
+			"language": "en",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-IVZ_Web.pdf"
 			}, {
 			"title": "Building a platform for efficient collaboration that is ready for the future",
@@ -80,7 +80,7 @@
 			"industry": ": Semi-public project management organization",
 			"customer": "DEGES",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy_DEGES_Web_22072019.pdf"
 			}, {
 			"title": "Keeping data secure for a globally distributed organization working with politically sensitive data",
@@ -89,7 +89,7 @@
 			"industry": "Education",
 			"customer": "KAS",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-KonradAdenauerStiftung-WebVersion-072018.pdf"
 			}, {
 			"title": "tubCloud migration to Nextcloud 11",
@@ -98,7 +98,7 @@
 			"industry": "Education",
 			"customer": "TU Berlin",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-tubCloud-TUBerlin-WebVersion-072018."
 			}, {
 			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
@@ -107,7 +107,7 @@
 			"industry": "Education",
 			"customer": "North-West University",
 			"country": "SA",
-			"language": "ENG",
+			"language": "en",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
 			}]
 		}, {
@@ -164,7 +164,7 @@
 			"industry": "Digital services",
 			"customer": "SIB",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
     			},{
 			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
@@ -173,7 +173,7 @@
 			"industry": "Education",
 			"customer": "North-West University",
 			"country": "SA",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
    			 }]
   		},{
