@@ -79,7 +79,7 @@
 							"category_list": [],
 							"similar_software_list": [{
 										"title": "wimi",
-										"similiar_software_url": "https://www.wimi-teamwork.com/",
+										"similiar_software_url ": "https: //www.wimi-teamwork.com/",
 										"category": "workplace management",
 
 										"title": "Pydio for Healthcare",
@@ -147,7 +147,6 @@
 																												"title": "MangoApps",
 																												"similiar_software_url": "https://www.mangoapps.com/",
 																												"category": "",
-
 																												"title": "Pydio for Consulting Firms",
 																												"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 																												"website_url": "https://pydio.com/en/solutions/consulting",
@@ -158,7 +157,6 @@
 																													"title": "GoAnywhereMFT",
 																													"similiar_software_url": "https://www.goanywhere.com/",
 																													"category": "",
-
 																													"title": "Pydio for Retail & Consumer Goods",
 																													"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 																													"website_url": "https://pydio.com/en/solutions/pydio-retail-consumer-goods",
@@ -170,6 +168,20 @@
 																														"similiar_software_url": "https://www.filecloud.com/",
 																														"category": ""
 																													}],
+																													"licence_list": ["GNU AGPLv3.0"],
+																													"source_code_download": "https://github.com/pydio",
+																													"source_code_profile": "https://www.openhub.net/p/pydio",
+																													"commercial_support_url": "https://pydio.com/en/pricing/contact",
+																													"floss_software": "yes",
+																													"commercial_support_open_source_version": "",
+																													"commercial_support_available": "",
+																													"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+																													"reference_list": [{
+																														"title": "",
+																														"logo_url": "",
+																														"country": "",
+																														"industry": ""
+																													}],
 																													"success_case_list": [{
 																														"title": "ONLYOFFICE announces partnership and integration with Pydio",
 																														"description": "ONLYOFFICE has officially entered a technical partnership with Pydio, an open-source sharing system for private infrastructures. Now Pydio can accommodate ONLYOFFICE editors for collaborating on documents, sheets and presentations, using the newly released connector/plugin. Read this post to learn what is Pydio and why this integration is important.",
@@ -180,5 +192,4 @@
 																														"language": "EN",
 																														"success_case_url": "https://www.onlyoffice.com/blog/2018/12/onlyoffice-announces-partnership-and-integration-with-pydio/"
 																													}]
-																												}]
-																											}
+																												}]																		}
