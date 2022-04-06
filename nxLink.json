@@ -1,0 +1,99 @@
+{
+  "created": "19-04-2011",
+  "title": "Enyx SA",
+  "type": "company",
+  "logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+  "location": {
+    "title": "Enyx SA",
+    "address": "8 Rue Greneta",
+    "postal_code": "75003",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "01 45 23 13 49",
+    "mail_contact": "",
+    "coordinate_list": [48.866219799580506, 2.352633969319226]
+  },
+  "subsidiary_location_list": ["US", "GB", "HK"],
+  "website_url": "https://www.enyx.com/",
+  "founded_year": "",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "nxLink",
+    "logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+    "website_url": "https://www.enyx.com/nxlink/",
+    "created_year": "",
+    "description": "nxLink is a suite of next-generation network products designed to address performance problems such as latency, link management and bandwidth optimization. Leveraging FPGA technology, nxLink makes networks smarter by performing high level processing while sustaining wire-speed and offering nanosecond scale latency.",
+    "category_list": ["telcommunication"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GPL-3.0"],
+    "source_code_download": "https://github.com/enyx-opensource",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.enyx.com/support/",
+    "floss_software": "no",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
