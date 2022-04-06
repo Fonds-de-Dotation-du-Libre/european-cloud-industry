@@ -1,0 +1,99 @@
+{
+  "created": "2022-04-06",
+  "title": "qbee",
+  "type": "Corporation",
+  "logo_url": "https://qbee.io/assets/images/logos/qbee-logo.png",
+  "location": {
+    "title": "qbee AS",
+    "address": "Rosenholmveien 25",
+    "postal_code": "1414",
+    "city": "Trollåsen",
+    "country": "NO",
+    "phone_contact": "+4722120006",
+    "mail_contact": "sales@qbee.io",
+    "coordinate_list": ["59.822317374904166, 10.788414029553175"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://qbee.io/",
+  "founded_year": "2017",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "https://www.openhub.net/p/qbee/analyses/latest/languages_summary",
+    "commercial_support_url": "https://qbee.io/pricing/",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": "https://qbee.io/blog/category/use-case/"
+    }]
+  }]
+}
