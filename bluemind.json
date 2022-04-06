@@ -53,7 +53,7 @@
       			"industry": "Community",
       			"customer": "The city and the agglomeration of Auxerre",
       			"country": "FR",
-			"language": "FR",
+			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/auxerre-ville-et-agglo/"
    			 },{
       			"title": "The Group Gagneraud migrates 1500 users to the BlueMind solution",
@@ -62,7 +62,7 @@
       			"industry": "Construction",
       			"customer": "Groupe Gagneraud",
       			"country": "FR",
-     			"language": "FR",
+     			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/wp-content/uploads/2016/03/casclient-gagneraud.pdf"
     			},{
       			"title": "Migration project from Lotus Domino to the BlueMind solution concerning more than 1300 user accounts.",
@@ -71,7 +71,7 @@
       			"industry": "Community",
       			"customer": "Mairie de Saint-Ouen",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/mairie-de-saint-ouen/"
     			},{
 			"title": "Migration project of a messaging system based on OpenSource components to BlueMind and ActiveDirectory",
@@ -80,7 +80,7 @@
       			"industry": "Health",
       			"customer": "Centre Hospitalier des Pyrénées",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/centre-hospitalier-des-pyrenees/"
     			},{
 			"title": "Migration from Exchange to BlueMind at S20 Industries",
@@ -89,7 +89,7 @@
       			"industry": "Industry",
       			"customer": "S20 Industries",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/s20-industries/"
     			},{
       			"title": "Migration from Microsoft NT 4.0 to BlueMind at Douarnenez City Hall",
@@ -98,7 +98,7 @@
       			"industry": "Community",
       			"customer": "Mairie de Douarnenez",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/wp-content/uploads/2019/01/Ville-de-Douarnenez.pdf"
     			},{
       			"title": "Migration project from Gosa to the BlueMind solution concerning 350 user accounts.",
@@ -107,7 +107,7 @@
       			"industry": "Community",
       			"customer": "Mairie de Savigny-sur-Orge",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
      		 	"success_case_url": "https://www.bluemind.net/cas-clients/mairie-savigny-sur-orge/"
     			},{
       			"title": "Migration from Zimbra to BlueMind at Usharesoft",
@@ -116,7 +116,7 @@
       			"industry": "Services",
       			"customer": "UShareSoft",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/usharesoft/"
     			}]
   		}]
