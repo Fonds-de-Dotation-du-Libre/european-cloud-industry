@@ -2,7 +2,7 @@
   "created": "2022-04-06",
   "title": "Teltonika IoT Group",
   "type": "Corporation",
-  "logo_url": "",
+  "logo_url": "https://teltonika-iot-group.com/images/branches/iot-white.svg",
   "location": {
     "title": "Teltonika",
     "address": "Geležinio Vilko g. 18A",
@@ -13,7 +13,7 @@
     "mail_contact": "info@teltonika.lt",
     "coordinate_list": [""54.6998347921484, 25.262166007388295"]
   },
-  "subsidiary_location_list": ["ZA","AU","BR","CA","CL","CN","ID","KZ",],
+  "subsidiary_location_list": ["AE","AU","BR","CA","CL","CN","ID","IN","KZ","KE","MY","MA","MX","PK","SG","UA","ZA"],
   "website_url": "https://teltonika-iot-group.com/",
   "founded_year": "1998",
   "kpi_list": [{
