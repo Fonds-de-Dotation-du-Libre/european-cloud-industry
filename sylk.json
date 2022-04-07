@@ -1,0 +1,107 @@
+{
+	"created": "",
+	"title": "AG Project",
+	"type": "corporation",
+	"logo_url": "https://ag-projects.com/images/aglogo.svg",
+	"location": {
+		"title": "AG Project",
+		"address": "Dr. Leijdsstraat 92",
+		"postal_code": "2021",
+		"city": "RK Haarlem",
+		"country": "NL",
+		"phone_contact": "+31 23 545 8104",
+		"mail_contact": "",
+		"coordinate_list": [52.39577287027591, 4.64821424602116]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://sylkserver.com/",
+	"founded_year": "",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "25",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "4,581,100.00€",
+		"source_url": "https://www.zoominfo.com/c/ag-projects-llc/445933980"
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "Sylk suite",
+		"logo_url": "https://sylkserver.com/images/sylk.svg",
+		"website_url": "https://sylkserver.com/",
+		"created_year": "",
+		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
+		"category_list": ["media and entertainement"],
+		"similar_software_list": [{
+			"title": "MSRP",
+			"similiar_software_url": "http://msrprelay.org/",
+			"category": "telecommunication",
+
+			"title": "Sipthor",
+			"similiar_software_url": "https://sipthor.net/index.phtml",
+			"category": "telecommunication",
+
+			"title": "sip2sip",
+			"similiar_software_url": "https://sip2sip.info/",
+			"category": "telecommunication"
+		}],
+		"licence_list": ["GNU General Public License version 3"],
+		"source_code_download": "https://github.com/AGProjects/sylk-mobile",
+		"source_code_profile": "",
+		"commercial_support_url": "https://sylkserver.com/contact/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
