@@ -1,0 +1,112 @@
+{
+  "created": "2022-04-07",
+  "title": "NoMachine",
+  "type": "Corporation",
+  "logo_url": "https://www.nomachine.com/sites/all/themes/frontend/images/shared/abous-us-icon.png",
+  "location": {
+    "title": "NoMachine Luxembourg Headquarters",
+    "address": "21, Rue Philippe II",
+    "postal_code": "L-2340",
+    "city": "Luxembourg",
+    "country": "LU",
+    "phone_contact": "+35226262164",
+    "mail_contact": "https://www.nomachine.com/contact-request",
+    "coordinate_list": ["49.61078110385623, 6.128842828451777"]
+  },
+  "subsidiary_location_list": ["DE","US"],
+  "website_url": "https://www.nomachine.com/",
+  "founded_year": "2002",
+  "kpi_list": [{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "6.219.681,14 €",
+    "revenues": "",
+    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "6.192.463,92 €",
+    "revenues": "",
+    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "5.096.173,69 €",
+    "revenues": "",
+    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "4.122.374,89 €",
+    "revenues": "",
+    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "3.837.492,66 €",
+    "revenues": "",
+    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+  }],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "Remmina",
+      "similiar_software_url": "https://remmina.org/",
+      "category": "Information Technology"
+    },{
+      "title": "mRemoteNG",
+      "similiar_software_url": "https://mremoteng.org/",
+      "category": "Information Technology"
+    },{
+      "title": "DWService",
+      "similiar_software_url": "https://www.dwservice.net/",
+      "category": "Information Technology"
+    },{
+      "title": "Tight VNC",
+      "similiar_software_url": "https://www.tightvnc.com/",
+      "category": "Information Technology"
+    },{
+      "title": "X2Go",
+      "similiar_software_url": "https://wiki.x2go.org/doku.php/start",
+      "category": "Information Technology"
+    },{
+      "title": "AnyDesk",
+      "similiar_software_url": "https://anydesk.com/gb",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://store.nomachine.com/fr/",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/NX_technology",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
