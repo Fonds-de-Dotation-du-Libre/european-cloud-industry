@@ -1,0 +1,107 @@
+{
+	"created": "07-2002",
+	"title": "Dovecot",
+	"type": "Company",
+	"logo_url": "https://www.dovecot.org/wp-content/uploads/2021/09/dovecot_logo.png",
+	"location": {
+		"title": "Dovecot",
+		"address": "Lars Sonckin Kaari 16",
+		"postal_code": "02600",
+		"city": "Espoo, Uusimaa",
+		"country": "FI",
+		"phone_contact": "+358 40 9008553 ",
+		"mail_contact": "",
+		"coordinate_list": []
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.dovecot.org/support/",
+	"founded_year": "",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "31",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "4,596,900.00€",
+		"source_url": "https://www.zoominfo.com/c/dovecot-oy/398264843"
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "Dovecot",
+		"logo_url": "https://www.dovecot.org/wp-content/uploads/2021/09/dovecot_logo.png",
+		"website_url": "https://www.dovecot.org/",
+		"created_year": "",
+		"description": "Dovecot is an open-source IMAP and POP3 server for Unix-like operating systems, written primarily with security in mind. Timo Sirainen originated Dovecot and first released it in July 2002. Dovecot developers primarily aim to produce a lightweight, fast and easy-to-set-up open-source email server.",
+		"category_list": ["information technology"],
+		"similar_software_list": [{
+			"title": "zimbra",
+			"similiar_software_url": "https://zimbra.free.fr/",
+			"category": "telecommunication",
+
+			"title": "Postfix",
+			"similiar_software_url": "https://www.postfix.org/",
+			"category": "telecommunication",
+
+			"title": "Courier Mail Server",
+			"similiar_software_url": "http://www.courier-mta.org/",
+			"category": "telecommunication"
+		}],
+		"licence_list": ["MIT", "LGPLv2"],
+		"source_code_download": "https://github.com/dovecot",
+		"source_code_profile": "https://www.openhub.net/p/dovecot",
+		"commercial_support_url": "https://www.dovecot.org/support/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Dovecot_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
