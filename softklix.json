@@ -1,0 +1,57 @@
+{
+  "created": "2022-04-07",
+  "title": "SoftKlix",
+  "type": "Corporation",
+  "logo_url": "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1249/https://www.softklix.com/wp-content/uploads/2022/04/softklix-pro.png",
+  "location": {
+    "title": "SOFTKLIX",
+    "address": "Ulmenweg 1a",
+    "postal_code": "91785",
+    "city": "Pleinfeld",
+    "country": "DE",
+    "phone_contact": "+4915140138018",
+    "mail_contact": "contact@softklix.com",
+    "coordinate_list": ["49.109455488767956, 10.975622940135937"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.softklix.com/",
+  "founded_year": "2017",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "",
+    "logo_url": "",
+    "website_url": "",
+    "created_year": "",
+    "description": "",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
