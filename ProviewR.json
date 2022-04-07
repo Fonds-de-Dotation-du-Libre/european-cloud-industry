@@ -1,0 +1,99 @@
+{
+  "created": "1978",
+  "title": "SSAB",
+  "type": "corporation",
+  "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
+  "location": {
+    "title": "SSAB AB",
+    "address": "Klarabergsviadukten 70",
+    "postal_code": "D6 Box 70 101 21",
+    "city": "Stockholm",
+    "country": "SE",
+    "phone_contact": "+46 8 45 45 700",
+    "mail_contact": "",
+    "coordinate_list": [59.331269459235685, 18.057021940761906]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
+  "founded_year": "",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "ProviewR",
+    "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
+    "website_url": "http://www.proview.se/v3/index.php/about-proview-leftmenu-27",
+    "created_year": "",
+    "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
+    "category_list": ["information technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GNU/GPL"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
