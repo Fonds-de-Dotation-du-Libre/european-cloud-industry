@@ -1,0 +1,185 @@
+{
+	"created": "01-12-2006",
+	"title": "Alcatel-Lucent SA",
+	"type": "company",
+	"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+	"location": {
+		"title": "ALE International",
+		"address": "32 Avenue Kleber",
+		"postal_code": "92700",
+		"city": "Colombes",
+		"country": "FR",
+		"phone_contact": "+33 1 55 66 70 00",
+		"mail_contact": "contact.france@al-enterprise.com",
+		"coordinate_list": [48.93416414047471, 2.2521112980368065]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.al-enterprise.com/en",
+	"founded_year": "2014",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "3 857",
+		"earnings": "26 416 000 €",
+		"total_assets": "262 167 000€",
+		"revenues": "1 370 898 000€",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
+	}, {
+		"year": "2019",
+		"staff": "4 351",
+		"earnings": "229 998 000 €",
+		"total_assets": "261 646 000€",
+		"revenues": "2 332 775 000€",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
+	}, {
+		"year": "2018",
+		"staff": "4 515",
+		"earnings": "21 978 000 €",
+		"total_assets": "238 102 000€",
+		"revenues": "4 535 314 000€",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
+	}, {
+		"year": "2017",
+		"staff": "4 258",
+		"earnings": "37 803 000€",
+		"total_assets": "213 779 000€",
+		"revenues": "5 844 771 000€",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
+	}, {
+		"year": "2016",
+		"staff": "4 600",
+		"earnings": "- 497 969 000€",
+		"total_assets": "218 308 000€",
+		"revenues": "5 172 734 000€",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
+	}],
+	"solution_list": [{
+				"title": "Rainbow Office powered by RingCentral",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+				"website_url": "https://www.al-enterprise.com/en/rainbow-office",
+				"created_year": "",
+				"description": "Rainbow Office offers secure modern communications on any device. You can collaborate from anywhere – by message, video and phone. Backed by comprehensive services, Rainbow Office is complemented with market leading telephony and networking products from ALE’s portfolio for a complete digital transformation.",
+				"category_list": ["telecommunication"],
+				"similar_software_list": [{
+							"title": "",
+							"similiar_software_url": "",
+							"category": "",
+
+							"title": "ALE Digital Age Communications",
+							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+							"website_url": "https://www.al-enterprise.com/en/solutions/digital-age-communications",
+							"created_year": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+							"description": "ALE Digital Age Communications delivers cost-effective, secure, cloud-based communications solutions to help you stay ahead of the competition. With Digital Age Communications, enterprises successfully transform by connecting people, applications, and objects and address the top business priorities.",
+							"category_list": ["telecommunication"],
+
+							"title": "Business phones",
+							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+							"website_url": "https://www.al-enterprise.com/en/solutions/connected-solutions-and-devices",
+							"created_year": "",
+							"description": "Business phones facilitate call management and hybrid working. Their screens are larger and the sound quality benefits from increased signal processing capabilities. These phones are connected on site or at home. They offer a 'hot-desking' mode for shared offices. Smartphones and computers can be connected to them to take advantage of the exceptional speakerphone mode.",
+							"category_list": ["telecommunication"],
+
+							"title": "CPaas",
+							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+							"website_url": "https://www.al-enterprise.com/en/solutions/communications-platform-as-a-service-cpaas",
+							"created_year": "",
+							"description": "CPaaS solution offers an interoperable eco-system across channels to make your employees more productive and your customers feel nurtured. It bridges communications between humans, objects and processes enabling faster, easier, and more secure digital engagement for your business.",
+							"category_list": ["telecommmunication"],
+
+							"title": "Visual Automated Attendant",
+							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+							"website_url": "https://www.al-enterprise.com/en/products/applications/visual-automated-attendant",
+							"created_year": "",
+							"description": "Visual Automated Attendant is a centralized application that routes calls through interactive menus without the intervention of a receptionist. In addition, this application automatically responds to your customers' most frequent requests using voice recognition and synthesis as well as by querying your databases.",
+							"category_list": ["telecommunication"],
+
+							"title": "Rainbow",
+							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+							"website_url": "https://www.al-enterprise.com/en/rainbow",
+							"created_year": "",
+							"description": "Rainbow is an enterprise-grade, cloud communication platform fully developed in Europe with services delivered from secured data centres across the globe.",
+							"category_list": ["telecommunication"],
+							"similar_software_list": [{
+								"title": "traverfy",
+								"similiar_software_url": "https://travefy.com/",
+								"category": "telecommunication",
+
+								"title": "clientBase",
+								"similiar_software_url": "https://clientbaseonline.trams.com/login/",
+								"category": "telecommunication",
+
+								"title": "PHPtravels",
+								"similiar_software_url": "https://phptravels.com/",
+								"category": "travel and tourism",
+
+								"title": "rezdy",
+								"similiar_software_url": "https://rezdy.com/",
+								"category": "travel and tourism",
+
+								"title": "IOT",
+								"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+								"website_url": "https://www.al-enterprise.com/en/solutions/iot",
+								"created_year": "",
+								"description": "Billions of connected devices are already deployed and this surge in Internet of Things (IoT) is not slowing down any time soon. IoT is changing our lives, the world we live in, and the way we do business. It is increasingly the foundation and enabler for improved customer experiences and optimized digital business processes.",
+								"category_list": ["Information technology"],
+								"licence_list": [],
+								"source_code_download": "https://github.com/alcatel",
+								"source_code_profile": "https://www.openhub.net/p/sce-se",
+								"commercial_support_url": "https://www.al-enterprise.com/en/support",
+								"floss_software": "no",
+								"commercial_support_open_source_version": "",
+								"commercial_support_available": "",
+								"wikipedia_url": "https://en.wikipedia.org/wiki/Alcatel-Lucent_Enterprise",
+								"reference_list": [{
+									"title": "",
+									"logo_url": "",
+									"country": "",
+									"industry": ""
+								}],
+								"success_case_list": [{
+									"title": "Sao Paulo International Airport - GRU Airport",
+									"description": "Sao Paulo International Airport created a more efficient operations system, and better passenger services, by implementing an IP-based voice infrastructure.",
+									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sao-paulo-airport-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151931Z&hash=C11E1708858EF12AF02079D5794C9D64",
+									"industry": "Transportation",
+									"customer": "Sao Paulo International Airport - GRU Airport",
+									"country": "BR",
+									"language": "EN",
+									"success_case_url": "https://www.al-enterprise.com/en/company/customers/sao-paulo-international-airport",
+
+									"title": "UIN Antasari Banjarmasin University",
+									"description": "IoT enabled network and one single communication platform make communication and collaboration more efficient, effective and secure.",
+									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
+									"industry": "Education",
+									"customer": "UIN Antasari Banjarmasin University",
+									"country": "ID",
+									"language": "EN",
+									"success_case_url": "https://www.al-enterprise.com/en/company/customers/uin-antasari-banjarmasin",
+
+									"title": "Hotel Palladia",
+									"description": "The hotel chose to renovate its Wi-Fi network to make it more efficient, fluid, secure and high-capacity",
+									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/image-palladia-logo-successstory-276x188.png?h=141&mh=200&mw=200&w=200&v=1&d=20200821T123047Z&hash=345F0B5CE5F951D4838B18FB323DB8EC",
+									"industry": "Hospitality",
+									"customer": "Hotel Palladia",
+									"country": "FR",
+									"language": "EN",
+									"success_case_url": "https://www.al-enterprise.com/en/company/customers/hotel-palladia",
+
+									"title": "Metropolis and City of Perpignan",
+									"description": "The metropolis and city of Perpignan are implementing a strategic digital transition plan to address the connectivity needs of citizen, visitors and municipal employees",
+									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
+									"industry": "Government",
+									"customer": "Metropolis and City of Perpignan",
+									"country": "FR",
+									"language": "EN",
+									"success_case_url": "https://www.al-enterprise.com/en/company/customers/metropolis-and-city-of-perpignan",
+
+									"title": "Thomas Holt",
+									"description": "Thomas Holt is adopting industry-leading technology to gain a competitive advantage in the aged care market and offer superior quality service to its residents.",
+									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/thomas-holt-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20190712T094030Z&hash=CA08BC5A41D50E265F0A86597C02C778",
+									"industry": "Healthcare",
+									"customer": "Thomas Holt",
+									"country": "AU",
+									"language": "FR",
+									"success_case_url": "https://www.al-enterprise.com/en/company/customers/thomas-holt"
+								}]
+							}]
+						}
