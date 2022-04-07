@@ -1,0 +1,103 @@
+{
+	"created": "1994",
+	"title": "Codesys Group",
+	"type": "Corporation",
+	"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+	"location": {
+		"title": "Codesys Group",
+		"address": "Memminger Str. 151",
+		"postal_code": "87439",
+		"city": "Kempten",
+		"country": "DE",
+		"phone_contact": "+49 831 540310",
+		"mail_contact": "info @codesys.com",
+		"coordinate_list": [47.74729370034747, 10.301062915340387]
+	},
+	"subsidiary_location_list": ["CN", "IT", "US"],
+	"website_url": "https://www.codesys.com/",
+	"founded_year": "1994",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "2.514.362,53€",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?7"
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "2.700.243,16€",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?7"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "6.006.747,22€",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?10"
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "1.714.895,90€",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?26"
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "3.393.631,32€",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?26"
+	}],
+	"solution_list": [{
+				"title": "Codesys",
+				"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+				"website_url": "https://www.codesys.com/",
+				"created_year": "",
+				"description": "is a development environment for programming controller applications according to the international industrial standard IEC 61131-3. The main product of the software suite is the CODESYS Development System, an IEC 61131-3 too",
+				"category_list": ["Automotive"],
+				"similar_software_list": [{
+							"title": "Indusof Web Studio",
+							"similiar_software_url": "https://www.aveva.com/en/products/edge/",
+							"category": "Supervisory Control and Data Acquisition (SCADA)",
+
+							"title": "Cimicity",
+							"similiar_software_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+							"category": "Supervisory Control and Data Acquisition (SCADA)",
+
+							"title": "SIMATIC WinCC",
+							"similiar_software_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
+							"category": "Supervisory Control and Data Acquisition (SCADA)",
+
+							"title": "B-scada",
+							"similiar_software_url": "https://www.iot-inc.com/portfolio_page/b-scada/",
+							"category": "Supervisory Control and Data Acquisition (SCADA)",
+							"licence_list": ["IDE"],
+							"source_code_download": "https://github.com/topics/codesys",
+							"source_code_profile": "",
+							"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+							"floss_software": "no",
+							"commercial_support_open_source_version": "",
+							"commercial_support_available": "",
+							"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS",
+							"reference_list": [{
+								"title": "",
+								"logo_url": "",
+								"country": "",
+								"industry": ""
+							}],
+							"success_case_list": [{
+								"title": "",
+								"description": "",
+								"image_url": "",
+								"industry": "",
+								"customer": "",
+								"country": "",
+								"language": "",
+								"success_case_url": ""
+							}]
+				  }]
+	}
