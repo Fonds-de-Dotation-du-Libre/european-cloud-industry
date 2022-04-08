@@ -46,40 +46,90 @@
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   }],
   "solution_list": [{
-    "title": "",
+    "title": "OpenOTP Authentication Server",
     "logo_url": "",
-    "website_url": "",
+    "website_url": "https://www.rcdevs.com/products/openotp/",
     "created_year": "",
-    "description": "",
-    "category_list": [],
+    "description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
+    "category_list": ["Information Technology"]
+  },{
+    "title": "SpanKey SSH Key Server Management",
+    "logo_url": "",
+    "website_url": "https://www.rcdevs.com/products/spankey/",
+    "created_year": "",
+    "description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
+    "category_list": ["Information Technology"]
+  },{
+    "title": "WebADM Control Center",
+    "logo_url": "",
+    "website_url": "https://www.rcdevs.com/products/webadm/",
+    "created_year": "",
+    "description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
+    "category_list": ["Information Technology"]
     "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
+      "title": "Auth0",
+      "similiar_software_url": "https://auth0.com/key",
+      "category": "Information Technology"
+    },{
+      "title": "Keycloak",
+      "similiar_software_url": "https://www.keycloak.org/",
+      "category": "Information Technology"
+    },{
+      "title": "Amazon Cognito",
+      "similiar_software_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
+      "category": "Information Technology"
+    },{
+      "title": "Spring Security",
+      "similiar_software_url": "https://spring.io/projects/spring-security",
+      "category": "Information Technology"
+    },{
+      "title": "Firebase Authentication",
+      "similiar_software_url": "https://firebase.google.com/",
+      "category": "Information Technology"
+    },{
+      "title": "JSON web Token",
+      "similiar_software_url": "https://jwt.io/",
+      "category": "Information Technology"
     }],
-    "licence_list": [],
-    "source_code_download": "",
+    "licence_list": ["Proprietary"],
+    "source_code_download": "https://www.rcdevs.com/fr/downloads/",
     "source_code_profile": "",
     "commercial_support_url": "https://www.rcdevs.com/store/",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "",
     "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
+      "title": "Oracle",
+      "logo_url": "https://www.rcdevs.com/wp-content/uploads/2019/07/oracle-small-480x298.png",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Orange",
+      "logo_url": "https://www.rcdevs.com/wp-content/uploads/orange.png.webp",
+      "country": "FR",
+      "industry": "Telecommunication"
+    },{
+      "title": "BNP Paribas",
+      "logo_url": "https://www.rcdevs.com/wp-content/uploads/bnp-1.png.webp",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "European Investment Bank",
+      "logo_url": "https://www.rcdevs.com/wp-content/uploads/EIB.png.webp",
+      "country": "UE",
+      "industry": "Banking and Finance"
+    },{
+      "title": "Hyundai",
+      "logo_url": "https://www.hyundai.com/eu/etc.clientlibs/hyundai-wwn3/clientlibs/main/resources/img/hyundai-logo-white.svg",
+      "country": "KR",
+      "industry": "Automotive"
+    },{
+      "title": "Vinci Construction",
+      "logo_url": "https://www.rcdevs.com/wp-content/uploads/vinci1.png.webp",
+      "country": "FR",
+      "industry": "Construction"
     }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "success_case_list": []
   }]
 }
