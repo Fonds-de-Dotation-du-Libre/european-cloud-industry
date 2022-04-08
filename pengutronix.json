@@ -28,23 +28,6 @@
       "title": "",
       "similiar_software_url": "",
       "category": ""
-    },{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    },{
-    "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    },{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    },{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    },{
     }],
     "licence_list": ["GPL-2.0"],
     "source_code_download": "https://git.pengutronix.de/git/ptxdist",
@@ -52,23 +35,9 @@
     "commercial_support_url": "",
     "floss_software": "Yes",
     "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "",
+    "commercial_support_available": "No",
     "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
