@@ -23,63 +23,63 @@
 		"total_assets": "",
 		"revenues": "44780344",
 		"source_url": "https://www.apollo.io/companies/YateBTS/54a11fc969702da425abf901"
-	},{
-    "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }],
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
 	"solution_list": [{
-        "title": "HSS/HLR",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/solutions_and_technology/hss_hlr/",
-        "created_year": "",
-        "description": "Every mobile network, including virtual operators, uses a server that stores subscriber information, current location and SIM details like IMSI (mobile subscriber identity) and authentication keys. This server is called HLR for 2G and 3G networks using the SS7 protocol and HSS for 4G networks using the Diameter protocol for signaling.",
-        "category_list": ["Telecommunication"],
+		"title": "Yate HSS/HLR",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/solutions_and_technology/hss_hlr/",
+		"created_year": "",
+		"description": "Every mobile network, including virtual operators, uses a server that stores subscriber information, current location and SIM details like IMSI (mobile subscriber identity) and authentication keys. This server is called HLR for 2G and 3G networks using the SS7 protocol and HSS for 4G networks using the Diameter protocol for signaling.",
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"licence_list": ["GPL"],
+		"source_code_download": "https://github.com/keepitsimpletech/yate",
+		"source_code_profile": "https://www.openhub.net/p/yate/tags",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
+			"title": "PortaOne",
+			"logo_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/04/portaone.png?fit=250%2C122&ssl=1",
+			"country": "CA",
+			"industry": "Software Development"
 		}],
 		"success_case_list": [{
 			"title": "",
@@ -91,21 +91,117 @@
 			"language": "",
 			"success_case_url": ""
 		}]
-	},{
-        "title": "EPC/VoLTE",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/solutions_and_technology/epc/",
-        "created_year": "",
-        "description": "YateUCNTM is an LTE EPC that implements all of the EPC functions (MME, S-GW, P-GW, PCEF) in a single, hardware-agnostic server, and is easy to scale up or down, according to the operator’s network needs.",
-        "category_list": [],
+	}, {
+		"title": "YateUCN",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/yateucn/",
+		"created_year": "",
+		"description": "The YateUCN is a unified core network solution intended for new LTE networks, for upgrading GSM/GPRS networks to LTE or for extending existing LTE networks.",
+		"category_list": ["Teleommunication"],
 		"similar_software_list": [],
 		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"source_code_download": "https://github.com/ctxis/yate-bts",
+		"source_code_profile": "https://www.openhub.net/p/yate/tags",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "no",
+		"wikipedia_url": "https://wiki.yatebts.com/index.php/YateUCN",
+		"reference_list": [{
+			"title": "PortaOne",
+			"logo_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/04/portaone.png?fit=250%2C122&ssl=1",
+			"country": "CA",
+			"industry": "Software Development"
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "YateUCN5GTM",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/yateucn5g/",
+		"created_year": "",
+		"description": "The YateUCN5G is a unified core network solution intended for new 5G SA / NSA networks combined with LTE networks.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [],
+		"licence_list": [],
+		"source_code_download": "https://github.com/Nuand/YateBTS",
+		"source_code_profile": "https://www.openhub.net/p/yatebts",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://wiki.yatebts.com/index.php/YateUCN",
+		"reference_list": [{
+			"title": "Aradial",
+			"logo_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/02/aradial-logo.jpg?fit=461%2C322&ssl=1",
+			"country": "IT",
+			"industry": "Software Development"
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "YateSMSC",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/yate-smsc-short-message-service-center/",
+		"created_year": "",
+		"description": "YateSMSC it’s a conventional Short Message Service Center with the functions of receiving, forwarding, storing and delivering SMSs in GSM, UMTS, LTE or custom networks. In addition to delivering Subscriber to Subscriber messages it can also implement various Application to Subscriber and Subscriber to Application scenarios.",
+		"category_list": ["telecommunication"],
+		"similar_software_list": [],
+		"licence_list": [],
+		"source_code_download": "https://github.com/Nuand/YateBTS",
+		"source_code_profile": "https://www.openhub.net/p/yatebts",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://wiki.yatebts.com/index.php/YateSMSC",
+		"reference_list": [{
+			"title": "Aradial",
+			"logo_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/02/aradial-logo.jpg?fit=461%2C322&ssl=1",
+			"country": "IT",
+			"industry": "Software development"
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "YateUDMTM",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/yateudm/",
+		"created_year": "",
+		"description": "The YateUDM stores and manages the SIM database for mobile networks. It also manages multiple subscriber identities (from different technologies) in one server, providing seamless services over different networks. It is designed for use in GSM, UMTS, LTE, IMS, WiFi and 5G SA / NSA networks or any other type of network that uses MAP, Diameter or CAPIF for authentication.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [],
+		"licence_list": [],
+		"source_code_download": "https://github.com/Nuand/YateBTS",
+		"source_code_profile": "https://www.openhub.net/p/yatebts",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
@@ -124,27 +220,22 @@
 			"success_case_url": ""
 		}]
 	}, {
-        "title": "YateUCN",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/products/yateucn/",
-        "created_year": "",
-        "description": "The YateUCN is a unified core network solution intended for new LTE networks, for upgrading GSM/GPRS networks to LTE or for extending existing LTE networks.",
-        "category_list": ["Teleommunication"],
+		"title": "LiteCore",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/litecore-private-lte-network/",
+		"created_year": "",
+		"description": "LTE/GSM Core Network for private networks set up easily in hard to reach places.",
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "",
 			"description": "",
@@ -156,27 +247,22 @@
 			"success_case_url": ""
 		}]
 	}, {
-        "title": "GMSC",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/products/yateucn/",
-        "created_year": "",
-        "description": "The YateUCN is a unified core network solution intended for new LTE networks, for upgrading GSM/GPRS networks to LTE or for extending existing LTE networks.",
-        "category_list": ["Telecommunication"],
+		"title": "MiniCore",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/minicore/",
+		"created_year": "",
+		"description": "MiniCore combines our YateHSS/HLR, YateUCN and YateSMSC in a small package. It can be used a second core network for testing.",
+		"category_list": ["telecommunication"],
 		"similar_software_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "",
 			"description": "",
@@ -187,28 +273,23 @@
 			"language": "",
 			"success_case_url": ""
 		}]
-	},{
-        "title": "MVNO",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/solutions_and_technology/mobile_virtual_network_operator/",
-        "created_year": "",
-        "description": "The MVNO’s business depends mostly on the cost-efficiency of its core infrastructure and roaming agreements. This page comes with some preliminary information about our solutions for MVNOs.",
-        "category_list": [],
+	}, {
+		"title": "MiniCore 5G",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/minicore-5g/",
+		"created_year": "",
+		"description": "MiniCore is a Software-defined compact Core Network that can be used as a test 5G network, LTE/IMS or GSM/GPRS Core Network.It combines our YateHSS/HLR (AUSF/UDM), YateUCN (SMF/UPF) and YateNRF in a small package for full functionality of all generation network technologies.",
+		"category_list": ["telecommunication"],
 		"similar_software_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "",
 			"description": "",
@@ -219,28 +300,23 @@
 			"language": "",
 			"success_case_url": ""
 		}]
-	},{
-        "title": "YateUCN5GTM",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/products/yateucn5g/",
-        "created_year": "",
-        "description": "The YateUCN5G is a unified core network solution intended for new 5G SA / NSA networks combined with LTE networks.",
-        "category_list": ["Telecommunication"],
+	}, {
+		"title": "5G SA Lab",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/5g-sa-lab/",
+		"created_year": "",
+		"description": "5G SA Lab it’s a complete 5G network in a desktop package. It includes 5GC core network, 5G gNodeB and 2 5G SA compatible smartphones.",
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "",
 			"description": "",
@@ -251,28 +327,23 @@
 			"language": "",
 			"success_case_url": ""
 		}]
-	},{
-        "title": "YateDRA",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/documentation/core-network-documentation/yatedra-documentation/",
-        "created_year": "",
-        "description": "YateDRA implements a Diameter Routing Agent capable of routing requests based on configurable rules.",
-        "category_list": [],
+	}, {
+		"title": "YateOTA",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/yateota-ota-gateway/",
+		"created_year": "",
+		"description": "YateOTA is a system that provides the functions required to manage SIM configurations using Over-The-Air messages over SMS.",
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "",
 			"description": "",
@@ -283,41 +354,32 @@
 			"language": "",
 			"success_case_url": ""
 		}]
-	},{
-        "title": "YateUDMTM",
-        "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-        "website_url": "https://yatebts.com/products/yateudm/",
-        "created_year": "",
-        "description": "The YateUDM stores and manages the SIM database for mobile networks. It also manages multiple subscriber identities (from different technologies) in one server, providing seamless services over different networks. It is designed for use in GSM, UMTS, LTE, IMS, WiFi and 5G SA / NSA networks or any other type of network that uses MAP, Diameter or CAPIF for authentication.",
-        "category_list": ["Telecommunication"],
-        "similar_software_list": [],
-        "licence_list": ["CodeMeter"],
-        "source_code_download": "https://github.com/Nuand/YateBTS",
-        "source_code_profile": "https://www.openhub.net/p/yatebts",
-        "commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
-        "floss_software": "yes",
-        "commercial_support_open_source_version": "",
-        "commercial_support_available": "",
-        "wikipedia_url": "",
-        "reference_list": [],
-        "success_case_list": [{
-            "title": "Telekabel testimony",
-            "description": "The best of all that I personally like in cooperation with Null Team is that we have learned a lot, so as project manager of the MVNO project and without any doubts I can highly recommend Null Team - Yate solution to any interested MNO or MVNO .",
-            "image_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/08/telekabel.png?w=450&ssl=1",
-            "industry": "TV",
-            "customer": "TELEKABEL",
-            "country": "MK",
-            "language": "EN",
-            "success_case_url": "https://yatebts.com/testimonials/"
-        },{
-            "title": "Atecom testimony",
-            "description": "The best of all that I personally like in cooperation with Null Team is that we have learned a lot, so as project manager of the MVNO project and without any doubts I can highly recommend Null Team - Yate solution to any interested MNO or MVNO .",
-            "image_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/09/altecom-removebg-preview.png?w=200&ssl=1",
-            "industry": "Technology",
-            "customer": "Atecom",
-            "country": "TW",
-            "language": "EN",
-            "success_case_url": "https://yatebts.com/testimonials/"
-        }]
-    }]
+	}, {
+		"title": "2Greet",
+		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
+		"website_url": "https://yatebts.com/products/2greet-volte-ims-alternative/",
+		"created_year": "",
+		"description": "2Greet is a Core Network function that gives Voice service over LTE, 3G or WiFi. The network integration is seamless and it doesn’t need any special configurations.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
 }
