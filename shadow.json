@@ -17,29 +17,27 @@
   "website_url": "https://shadow.tech/",
   "founded_year": "2015",
   "kpi_list": [],
-    "licence_list": [],
+  "solution_list": [{
+    "title": "Shadow",
+    "logo_url": "https://image.status.io/O5rcVj22OLaA.png",
+    "website_url": "https://shadow.tech/en-gb/",
+    "created_year": "2015",
+    "description": "Shadow gives you access to a full-featured high-end PC to run Windows-based applications on the devices you own.",
+    "category_list": ["INformation Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["Proprietary"],
     "source_code_download": "",
     "source_code_profile": "",
-    "commercial_support_url": "",
+    "commercial_support_url": "https://shop.shadow.tech/plans",
     "floss_software": "No",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shadow.tech",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
