@@ -18,48 +18,41 @@
 	},
 	"founded_year": "2009",
 	"kpi_list": [{
+		"year": "2020",
+		"staff": "16",
+		"earnings": "",
+		"total_assets": "1254155",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/SHINKEN-SOLUTIONS-794549543/"
+	}, {
+		"year": "2019",
+		"staff": "11",
+		"earnings": "",
+		"total_assets": "1370105,
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/SHINKEN-SOLUTIONS-794549543/"
+	}, {
 		"year": "2018",
 		"staff": "10",
 		"earnings": "",
-		"total_assets": "1 162 900 €",
-		"revenues": "477 700 €",
+		"total_assets": "1162900",
+		"revenues": "470747",
 		"source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
 	}, {
 		"year": "2017",
 		"staff": "12",
 		"earnings": "",
-		"total_assets": "1 138 000 €",
-		"revenues": "190 200 €",
+		"total_assets": "1138000",
+		"revenues": "190237",
 		"source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
 	}],
-	"solution_list": [{
-		"title": "Shinken Enterprise",
-		"logo_url": "https://www.shinken-enterprise.com/wp-content/uploads/2016/03/logo_shinken200px.png",
-		"website_url": "https://www.shinken-enterprise.com/fr/accueil/",
-		"created_year": "2009",
-		"description": "At first an open source monitoring solution, Shinken is now an open source monitoring framework, with a higher number of modules, and more importantly a higher level of flexibility, that an all-in-one solution could not provide. Shinken is easy to install and to use; the code is written in Python which means that it is available on different OSs and compatible with Utf8. Flexibility being the main its main goal, its code remains very generic, modular and independent from other monitoring tools.",
-		"category_list": "Information Technology"
-	}, {
+	"solution_list": [{		
 		"title": "Shinken Monitoring",
 		"logo_url": "http://www.shinken-monitoring.org/img/LogoFrameworkBlack.png",
 		"website_url": "http://www.shinken-monitoring.org/download.php",
-		"created_year": "",
+		"created_year": "2009",
 		"description": "",
 		"category_list": "Information Technology"
-	}, {
-		"title": "Shinken Lab",
-		"logo_url": "http://shinkenlab.io/theme/img/Logoframeworkblack.png",
-		"website_url": "http://shinkenlab.io/",
-		"created_year": "",
-		"description": "",
-		"category_list": "Information Technology"
-	}, {
-		"title": "Shinken",
-		"logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
-		"website_url": "http://shinken.io/",
-		"created_year": "",
-		"description": "",
-		"category_list": "Information Technology",
 		"similar_software_list": [{
 			"title": "Nagios",
 			"similiar_software_url": "https://www.nagios.org/",
