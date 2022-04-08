@@ -1,5 +1,5 @@
 {
-	"created": "2004",
+	"created": "07-04-2022",
 	"title": "YateBTS",
 	"type": "company",
 	"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
@@ -23,7 +23,42 @@
 		"total_assets": "",
 		"revenues": "44780344",
 		"source_url": "https://www.apollo.io/companies/YateBTS/54a11fc969702da425abf901"
-	}],
+	},{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
 	"solution_list": [{
         "title": "HSS/HLR",
         "logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
