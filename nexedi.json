@@ -2,55 +2,55 @@
 	"created": "2022-03-24",
 	"title": "Nexedi SA",
 	"type": "Corporation",
-	"logo_url": [],
+	"logo_url": "",
 	"location": {
-		"title": "Nexedi",
+		"title": "Nexedi SA",
 		"address": "147 RUE DU BALLON",
 		"postal_code": "59110",
 		"city": "La madeleine",
 		"country": "FR",
 		"phone_contact": "+33 6 29 02 44 25",
 		"mail_contact": "info@nexedi.com",
-		"coordinate_list": []
+		"coordinate_list": "50.64449017329376, 3.077437939381641"
 	},
-	"subsidiary_location_list": [],
+	"subsidiary_location_list": "",
 	"website_url": "https://www.nexedi.com/",
 	"founded_year": "2001",
 	"kpi_list": [{
-    	"year": "2020",
-    	"staff": "27",
-    	"earnings": "234 972",
-    	"total_assets": "6 733 231",
-    	"revenues": "2 444 319",
-    	"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
-  	}, {
-    	"year": "2019",
-   	"staff": "30",
-   	"earnings": "136 970",
-    	"total_assets": "5 238 187",
-    	"revenues": "2 465 664",
-    	"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
-  	},{
-   	"year": "2018",
-    	"staff": "23",
-    	"earnings": "304 409",
-    	"total_assets": "5 489 528",
-    	"revenues": "2 336 718",
-    	"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
-  	},{
-    	"year": "2017",
-    	"staff": "20",
-    	"earnings": "341 478",
-    	"total_assets": "5 098 147",
-    	"revenues": "2 146 776",
-   	"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
-  	},{
-    	"year": "2016",
-    	"staff": "20",
-    	"earnings": "572 158",
-    	"total_assets": "4 527 005",
-    	"revenues": "1 651 903",
-    	"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+    		"year": "2020",
+    		"staff": "27",
+    		"earnings": "234 972",
+    		"total_assets": "6 733 231",
+    		"revenues": "2 444 319",
+    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+  		}, {
+    		"year": "2019",
+   		"staff": "30",
+   		"earnings": "136 970",
+    		"total_assets": "5 238 187",
+    		"revenues": "2 465 664",
+    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+  		},{
+   		"year": "2018",
+    		"staff": "23",
+    		"earnings": "304 409",
+    		"total_assets": "5 489 528",
+    		"revenues": "2 336 718",
+    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+  		},{
+    		"year": "2017",
+    		"staff": "20",
+    		"earnings": "341 478",
+    		"total_assets": "5 098 147",
+    		"revenues": "2 146 776",
+   		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+  		},{
+    		"year": "2016",
+    		"staff": "20",
+    		"earnings": "572 158",
+    		"total_assets": "4 527 005",
+    		"revenues": "1 651 903",
+    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
   	}],
 	"solution_list": [{
 		"title": "ERP5",
@@ -58,29 +58,29 @@
 		"website_url": "https://www.erp5.com/",
 		"created_year": "2002",
 		"description": "ERP5 is an open source ERP based on Python and Zope. It has the particularity of being based on a unified Model to describe its implementation. It was designed to be generic and flexible enough to suit different business areas and maximise economies of scale related to code sharing.",
-		"category_list": [],
+		"category_list": "",
 		"similar_software_list": [{
 			"title": "Odoo",
 			"similiar_software_url": "https://www.odoo.com/fr_FR",
-			"category": []
+			"category": ""
 			}, {
 			"title": "Dolibarr",
 			"similiar_software_url": "https://www.dolibarr.org/",
-			"category": []
+			"category": ""
 			},{
       			"title": "Metasfresh",
       			"similar_software_url": "https://metasfresh.com/en/",
-      			"category": []
+      			"category": ""
    			}],
 		"licence_list": ["General Public License"],
-		"source_code_download": [],
+		"source_code_download": "",
 		"source_code_profile": "https://lab.nexedi.com/nexedi/erp5",
 		"commercial_support_url": "https://www.nexedi.com/service/nexedi-service-erp5/contact",
-		"floss_software": [],
-		"commercial_support_open_source_version": [],
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/ERP5",
-		"reference_list": [],
+		"reference_list": "",
 		"success_case_list": [{
 			"title": "ERP5 Implementation in Aerospace Industry: Integrated Order Management Solution for TerraSAR-X Commercial Service Segment",
 			"description": "Airbus DS Geo GmbH, a 100% subsidiary of Airbus Defence and Space, holds the exclusive commercial exploitation rights for the TerraSAR-X radar earth observation satellite and uses ERP5 as part of the service segment for the commercial distribution of data from the TerraSAR-X Mission . The initial implementation of the ERP5 for the TerraSAR-X Service Segment was realised by Nexedi and Logica and went into production in 2006, after which Nexedi took sole responsibility for managing the system and its technical evolution.",
@@ -88,7 +88,7 @@
 			"industry": "Aerospace",
 			"customer": "Airbus DS Geo Gmbh",
 			"country": "DE",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Airbus.Success.Case"
 			}, {
 			"title": "Complete Coverage ERP Implementation for Japanese Pesticide Producer",
@@ -97,7 +97,7 @@
 			"industry": "Chemical Manufacturing",
 			"customer": "Sankei Chemical",
 			"country": "JP",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Sankei.Success.Case"
 			}, {
 			"title": "Local HTML5 App and central ERP5 to manage supply-production-sales data for 14 companies",
@@ -106,7 +106,7 @@
 			"industry": "Manufacturing",
 			"customer": "GKR international group",
 			"country": "CN",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
 			}, {
 			"title": "Zawee runs its local fashion shops and eCommerce web site with ERP5",
@@ -115,7 +115,7 @@
 			"industry": "Retail",
 			"customer": "Zawee",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Zawee.Success.Case"
 			}, {
 			"title": "Single integrated front and back office solution to power an eBusiness",
@@ -124,7 +124,7 @@
 			"industry": "Warehousing and auxiliary transport services",
 			"customer": "Sanef",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-SanefTolling.Success.Case"
 			}, {
 			"title": "Cloud-based financial management and consolidated OLAP reporting for an international NGO",
@@ -133,7 +133,7 @@
 			"industry": "NGO",
 			"customer": "Aide et Action International",
 			"country": "CH",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-NGO.Success.Case"
 			}, {
 			"title": "Running a Massive Open Online Course with ERP5 for 1500 students for Technische Universität Dresden and Supinfo",
@@ -142,7 +142,7 @@
 			"industry": "Higher Education",
 			"customer": "Technische Universität Dresden and Supinfo",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MOOC.Success.Case"
 			}, {
 			"title": "MMC Rus Success Case",
@@ -151,16 +151,16 @@
 			"industry": "Automobile manufacturing",
 			"customer": "Mitsubishi Motors",
 			"country": "RU",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MMC.Rus.Success.Case"
 			}, {
 			"title": "Flexible Configurable Workflows and Advanced Security for Core Business Processes of a Central Bank",
 			"description": "A Central Bank runs its 64 regulatory workflows with ERP5: currency issuing, monetary circulation and banking transactions. Extensive scalability testing and rule based security management were key technical factors of success. Document orientation of the implementation process helper reducing project management bandwidth and budget. Use of Open Source from system to application through database enabled reactive support of a mission critical application.",
-			"image_url": [],
+			"image_url": "",
 			"industry": "Banking",
 			"customer": "central bank",
-			"country": [],
-			"language": "FR",
+			"country": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Central.Bank.Success.Case"
 			}]
 		}, {
@@ -169,21 +169,21 @@
 		"website_url": "https://slapos.nexedi.com/",
 		"created_year": "2010",
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
-		"category_list": [],
+		"category_list": "",
 		"similar_software_list": [{
 			"title": "YunoHost",
 			"similiar_software_url": "https://yunohost.org/#/",
-			"category": []
+			"category": ""
 	  	}],
 		"licence_list": ["GNU GPL v3"],
-		"source_code_download": [],
-		"source_code_profile": [],
-		"commercial_support_url": [],
-		"floss_software": [],
-		"commercial_support_open_source_version": [],
-		"commercial_support_available": [],
-		"wikipedia_url": [],
-		"reference_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": "",
 		"success_case_list": [{
 			"title": "SlapOS powers TeraLab, Institut Mines Télécom's Big Data Platform",
 			"description": "Within three months, Institut Mines Télécom and Nexedi automated through SlapOS the provisioning and operation of clusters of virtual machines that power Terelab Big Data platform. This project demonstrate how SlapOS hyperconvergent operating system can be used to power a corporate Big Data platform with strict security requirements, under strict time and budget constraints.",
@@ -191,7 +191,7 @@
 			"industry": "Higher Education",
 			"customer": "Institut Mines Télécom",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/slapos-IMT-Documents.Teralab.Success.Case"
 		}]
 		}, {
@@ -200,29 +200,29 @@
 		"website_url": "https://www.wendelin.io/#/?page=home&editable=true",
 		"created_year": "2015",
 		"description": "Wendelin is a big data framework designed for industrial applications based on python, NumPy, Scipy and other NumPy based libraries. It uses at its core the NEO distributed transactional NoSQL database to store petabytes of binary data. Wendelin combines the performance of scikit-learn machine learning with NEO distributed storage in order to provide out-of-core processing of large data sets. Its goal is to bring the best open source, big data engine based on Numpy python technologies and gather a wide community of contributors of new data analytics algorithms.",
-		"category_list": [],
+		"category_list": "",
 		"similar_software_list": [{
 			"title": "Hadoop",
 			"similiar_software_url": "https://hadoop.apache.org/",
-			"category": []
+			"category": ""
   		 }],
 		"licence_list": ["GNU GPL v3"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin",
-		"source_code_profile": [],
-		"commercial_support_url": [],
-		"floss_software": [],
-		"commercial_support_open_source_version": [],
-		"commercial_support_available": [],
-		"wikipedia_url": [],
-		"reference_list": [],
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": "",
 		"success_case_list": [{
 			"title": "WINDELIN - Predictive Maintenance and Optimisation of Wind Turbines using an open-source Big Data Machine Learning Cloud",
 			"description": "WINDELIN is a R & D project developed under Eureka programme using machine learning and big data technologies for anomaly detection and predictive maintenance inside wind turbines.",
-			"image_url": [],
+			"image_url": "",
 			"industry": "R&D",
 			"customer": "Eureka programme",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/P-WIND-WINDELIN.Success.Story"
 		}]
 	}]
