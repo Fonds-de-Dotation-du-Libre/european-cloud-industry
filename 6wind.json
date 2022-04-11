@@ -35,29 +35,8 @@
     "title": "6WINDCloud",
     "logo_url": "https://www.6wind.com/wp-content/uploads/2021/03/6windcloud-logo-light.png.webp",
     "website_url": "https://www.6wind.com/6windcloud-cloud-native/",
-    "created_year": "",
+    "created_year": "2012",
     "description": "6WINDCloud is an innovative disaggregated networking software solution that embraces the Cloud Native architecture to boost your network growth and simplify the network’s operational model while reducing costs and increasing profitability.",
-    "category_list": ["Information Technology"],
-  },{
-    "title": "6WIND SVR",
-    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/virtual-router-icon.png.webp",
-    "website_url": "https://www.6wind.com/vrouter-vsr-solutions/",
-    "created_year": "",
-    "description": "6WIND Virtual Service Router (VSR) is a high-performance and scalable virtualized software router optimized for Communication Service Providers and Enterprises. It is deployed bare-metal, virtualized, or containerized on COTS servers in private and public clouds.",
-    "category_list": ["Information Technology"],
-  },{
-    "title": "6WIND Virtual Accelerator",
-    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/cloud-router-icon.png.webp",
-    "website_url": "https://www.6wind.com/virtual-host-acceleration/",
-    "created_year": "",
-    "description": "6WIND Virtual Accelerator is a host network acceleration software that provides a solution to power the virtual networking infrastructure with the required features, performance and scalability. Used in Network Function Virtualization infrastructure (NFVi), Data Center Virtualization or Network Appliance Virtualization use cases.",
-    "category_list": ["Information Technology"],
-  },{
-    "title": "6WINDGate",
-    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/6windgate-bg.jpg",
-    "website_url": "https://www.6wind.com/6windgate/",
-    "created_year": "",
-    "description": "6WINDGate provides the foundation for next-generation networking applications. Deployed in Tier 1 networks, 6WINDGate delivers the much-needed software solutions that enable OEMs to build networking products for 5G, SD-WAN, and IoT markets. This includes IP backhaul solutions, Unified Threat Management (UTM) products, universal Customer Premises Equipment (uCPE), Radio Access Network (RAN) solutions, and much more.",
     "category_list": ["Information Technology"],
     "similar_software_list": [{
       "title": "",
@@ -82,6 +61,136 @@
       "country": "FI",
       "industry": "Telecommunication"
     },{
+     "success_case_list": [{
+      "title": "Voxology selects 6WIND vRouter to support its expansion",
+      "description": "Voxology Carrier Services, is the infrastructure arm of Voxology, a Communications Platform as a Service (CPaaS) based in Orange County, CA. Voxology provides a suite of voice and messaging services including SIP termination, SIP origination, SMS, toll-free and local phone numbers as well as their next gen Programmable Voice and Messaging API.",
+      "image_url": "",
+      "industry": "Telecommunication",
+      "customer": "Voxology",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://6wind.maglr.com/voxology-success-story/voxology-selects-6wind-vrouter"
+  },{
+    "title": "6WIND SVR",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/virtual-router-icon.png.webp",
+    "website_url": "https://www.6wind.com/vrouter-vsr-solutions/",
+    "created_year": "2017",
+    "description": "6WIND Virtual Service Router (VSR) is a high-performance and scalable virtualized software router optimized for Communication Service Providers and Enterprises. It is deployed bare-metal, virtualized, or containerized on COTS servers in private and public clouds.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+  },{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "Nokia",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/nokia.jpg",
+      "country": "FI",
+      "industry": "Telecommunication"
+    },{
+      "success_case_list": [{
+      "title": "Voxology selects 6WIND vRouter to support its expansion",
+      "description": "Voxology Carrier Services, is the infrastructure arm of Voxology, a Communications Platform as a Service (CPaaS) based in Orange County, CA. Voxology provides a suite of voice and messaging services including SIP termination, SIP origination, SMS, toll-free and local phone numbers as well as their next gen Programmable Voice and Messaging API.",
+      "image_url": "",
+      "industry": "Telecommunication",
+      "customer": "Voxology",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://6wind.maglr.com/voxology-success-story/voxology-selects-6wind-vrouter"
+  },{
+    "title": "6WIND Virtual Accelerator",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/cloud-router-icon.png.webp",
+    "website_url": "https://www.6wind.com/virtual-host-acceleration/",
+    "created_year": "2014",
+    "description": "6WIND Virtual Accelerator is a host network acceleration software that provides a solution to power the virtual networking infrastructure with the required features, performance and scalability. Used in Network Function Virtualization infrastructure (NFVi), Data Center Virtualization or Network Appliance Virtualization use cases.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+  },{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "Nokia",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/nokia.jpg",
+      "country": "FI",
+      "industry": "Telecommunication"
+    },{
+    "success_case_list": [{
+      "title": "Voxology selects 6WIND vRouter to support its expansion",
+      "description": "Voxology Carrier Services, is the infrastructure arm of Voxology, a Communications Platform as a Service (CPaaS) based in Orange County, CA. Voxology provides a suite of voice and messaging services including SIP termination, SIP origination, SMS, toll-free and local phone numbers as well as their next gen Programmable Voice and Messaging API.",
+      "image_url": "",
+      "industry": "Telecommunication",
+      "customer": "Voxology",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://6wind.maglr.com/voxology-success-story/voxology-selects-6wind-vrouter"
+  },{
+    "title": "6WINDGate",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/6windgate-bg.jpg",
+    "website_url": "https://www.6wind.com/6windgate/",
+    "created_year": "",
+    "description": "6WINDGate provides the foundation for next-generation networking applications. Deployed in Tier 1 networks, 6WINDGate delivers the much-needed software solutions that enable OEMs to build networking products for 5G, SD-WAN, and IoT markets. This includes IP backhaul solutions, Unified Threat Management (UTM) products, universal Customer Premises Equipment (uCPE), Radio Access Network (RAN) solutions, and much more.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology",
+      "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+  },{
+      "title": "",
+      "similiar_software_url": "",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "Nokia",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/nokia.jpg",
+      "country": "FI",
+      "industry": "Telecommunication"
+    },{
+      "success_case_list": [{
+      "title": "Voxology selects 6WIND vRouter to support its expansion",
+      "description": "Voxology Carrier Services, is the infrastructure arm of Voxology, a Communications Platform as a Service (CPaaS) based in Orange County, CA. Voxology provides a suite of voice and messaging services including SIP termination, SIP origination, SMS, toll-free and local phone numbers as well as their next gen Programmable Voice and Messaging API.",
+      "image_url": "",
+      "industry": "Telecommunication",
+      "customer": "Voxology",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://6wind.maglr.com/voxology-success-story/voxology-selects-6wind-vrouter",
       "title": "Cisco",
       "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/cisco.jpg",
       "country": "US",
