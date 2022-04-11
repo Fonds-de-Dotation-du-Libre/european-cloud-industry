@@ -25,9 +25,25 @@
     "description": "Shadow gives you access to a full-featured high-end PC to run Windows-based applications on the devices you own.",
     "category_list": ["INformation Technology"],
     "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
+      "title": "GeForce Now",
+      "similiar_software_url": "https://www.nvidia.com/fr-fr/geforce-now/",
+      "category": "Gaming Plateform"
+    },{
+      "title": "Google Stadia",
+      "similiar_software_url": "https://stadia.google.com/",
+      "category": "Gaming Plateform"
+    },{
+      "title": "Vortex",
+      "similiar_software_url": "https://vortex.gg/",
+      "category": "Gaming Plateform"
+    },{
+      "title": "Playstation Now",
+      "similiar_software_url": "https://www.playstation.com/en-us/ps-now/",
+      "category": "Gaming Plateform"
+    },{
+      "title": "Xbox Cloud Gaming",
+      "similiar_software_url": "https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming",
+      "category": "Gaming Plateform"
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "",
