@@ -53,12 +53,12 @@
     "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
   }],
   "solution_list": [{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
+    "title": "NoMachine Software",
+    "logo_url": "https://www.nomachine.com/sites/all/themes/frontend/logo.png",
+    "website_url": "https://www.nomachine.com/",
+    "created_year": "2002",
+    "description": "NoMachine is the network computing company. Our products radically simplify remote connectivity for both consumers and businesses, delivering applications and desktops to any user, over any network. The software's award-winning performance and enterprise-class management tools make it a complete remote access and hosted desktop solution for any organization.",
+    "category_list": ["Information Technology"],
     "similar_software_list": [{
       "title": "Remmina",
       "similiar_software_url": "https://remmina.org/",
@@ -84,12 +84,12 @@
       "similiar_software_url": "https://anydesk.com/gb",
       "category": "Information Technology"
     }],
-    "licence_list": ["Proprietary"],
+    "licence_list": ["Proprietary", "https://www.nomachine.com/licensing"],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://store.nomachine.com/fr/",
     "floss_software": "No",
-    "commercial_support_open_source_version": "Yes",
+    "commercial_support_open_source_version": "No",
     "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/NX_technology",
     "reference_list": [{
@@ -99,14 +99,203 @@
       "industry": ""
     }],
     "success_case_list": [{
-      "title": "",
-      "description": "",
+      "title": "ECI Telecom Case Study",
+      "description": "A leading provider of networking infrastructure for some of the largest carrier and service provider networks, ECI Telecom finally finds session resiliency and high-speed remote access for their 3000 employees through NX.",
       "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "industry": "Telecommunication",
+      "customer": "CI Telecom",
+      "country": "IL",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/ECI-Telecom"
+    },{
+      "title": "CenturyTel Case Study",
+      "description": "This Telco provider swaps snail-speed, unreliable remote access for NoMachine and saves significantly on operations spending with the low cost and high speed of NX. CenturyTel experiences extreme time savings and improves customer service with NoMachine NX.",
+      "image_url": "",
+      "industry": "Telecommunication",
+      "customer": "CenturyTEl",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/CenturyTel"
+    },{
+      "title": "Silicon and Software Systems Case Study",
+      "description": "Worldwide technology provider, S3 provides engineers at design centers around the world with high-performance remote access via NX to necessary applications on Unix servers at 3 locations across the globe. S3 has now deployed three NX Enterprise Servers worldwide in Prague, Dublin, and Cork, giving their employees the ability to connect to these servers via NX and access their RHEL 4.0 or 5.0 desktops and silicon simulator applications from any location, even over a limited bandwidth link.",
+      "image_url": "",
+      "industry": "Information Technology",
+      "customer": "3S - Silicon Software Systems",
+      "country": "IE",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Silicon-and-Software-Systems"
+    },{
+      "title": "Montavista Case Study",
+      "description": "This leading provider of Linux development platforms created an NX-driven test drive solution that enables customers to virtually evaluate MontaVista products at their leisure; the result is shorter customer evaluation time, and a shorter sales cycle for MontaVista.",
+      "image_url": "",
+      "industry": "Information Technology",
+      "customer": "MontaVista",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/MontaVista"
+    },{
+      "title": "Steinhafels Case Study",
+      "description": "The largest furniture and mattress retailer in Wisconsin improves their previously time-consuming customer credit application process with a fast, cost-effective NX-based kiosk. The result is an increase in customer credit applications and sales.",
+      "image_url": "",
+      "industry": "Commerce and Retail",
+      "customer": "Steinhafels",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Steinhafels"
+    },{
+      "title": "Oak Ridge National Laboratory Case Study",
+      "description": "The Department of Energy's largest science and energy lab with the world's most powerful neutron source, Oak Ridge National Laboratory provides researchers around the world remote access to one-of-a-kind scientific resources with NoMachine NX.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "Oak Ridge National Laboratory",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Oak-Ridge-National-Laboratory"
+    },{
+      "title": "Norsk Regnesentral Case Study",
+      "description": "One of the leading Norwegian research organizations, Norsk Regnesentral, provides researchers with access to their mixed Windows and Linux research environment with NoMachine NX. NX's disconnect and resume feature reduces project time and allows research to be performed more efficiently.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "Norsk Regnesentral",
+      "country": "NO",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Norsk-Regnesentral"
+    },{
+      "title": "GN ReSound Corporation Case Study",
+      "description": "A leading global manufacturer of advanced hearing instruments, GN ReSound Corporation improves life for the hearing impaired by giving developers the ability to remotely access their central Linux development environment with NoMachine NX to meet project demands from any location.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "GN ReSound Corporation",
+      "country": "DK",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/GN-ReSound-Corporation"
+    },{
+      "title": "European Synchrotron Radiation Facility Case Study",
+      "description": "Grenoble-based scientific facility, one of the largest synchrotrons in the world, allows for collaboration between 19 European countries, and makes local technology and resources available remotely to scientists worldwide.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "European Synchrotron Radiation Facility",
+      "country": "FR",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/European-Synchrotron-Radiation-Facility"
+    },{
+      "title": "Diamond Light Source Case Study",
+      "description": "A leading UK synchrotron, Diamond offers its wide range of academic researchers and in-house scientists access to its scientific facilities via NoMachine.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "Diamond Light Source",
+      "country": "UK",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Diamond-Light-Source"
+    },{
+      "title": "Argonne National Laboratory Case Study",
+      "description": "The first national laboratory in the U.S. and one of the leading federally funded research and development centers in the country, Argonne National Laboratory, makes their Advanced Photon Source and engineering simulation software available to hundreds of collaborators worldwide with NoMachine NX.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "Argonne National Laboratory",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Argonne-National-Laboratory"
+    },{
+      "title": "University of Technology Sydney Case Study",
+      "description": "NoMachine gives 400+ student researchers and staff remote access to graphic-intensive mathematics, physics, and computational applications located on the university's FEIT High Performance Computing Linux Cluster.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "University of Technology, Sydney",
+      "country": "AU",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/University-Technology-Sydney"
+    },{
+      "title": "University of Limoges Case Study",
+      "description": "A top research university in France, University of Limoges allows over 700 researchers from around the world to remotely access their performance computing cluster with NoMachine, providing session resiliency and mobile connectivity from anywhere.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "University of Limoges",
+      "country": "FR",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/University-Limoges"
+    },{
+      "title": "University of Leicester Case Study",
+      "description": "A world leader in Engineering and Physical Sciences, the University of Leicester provides researchers and students with remote access to high-performance computing clusters from anywhere, delivering fast, interactive access and persistent sessions.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "University of Leicester",
+      "country": "UK",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/University-Leicester"
+    },{
+      "title": "University of Colorado Case Study",
+      "description": "Colorado's premier research university finds NX ideal for delivering a complex, online Web mapping course inexpensively; the high user-friendliness of NX also enables Windows-accustomed students to gracefully switch to a Linux environment.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "University of Colorado",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/University-Colorado"
+    },{
+      "title": "University of Chicago Case Study",
+      "description": "NX exceeded expectations for The Department of Radiology and Cancer Center Research at the University of Chicago in terms of speed, functionality and stability, maintaining its performance even when session numbers were high. The new NX infrastructure will ensure that the department's growing user base will always have up-to-the-minute access to the information they need on demand. UC looked to improve their research process through technology, with the overriding aim to drastically reduce overall expenditure. NoMachine NX fit the description and also provided IT flexibility as an integral part of the solution to support rapid user growth and predict any future spending in terms of NX licensing as well as trim IT costs in general.NX exceeded expectations for The Department of Radiology and Cancer Center Research at the University of Chicago in terms of speed, functionality and stability, maintaining its performance even when session numbers were high. The new NX infrastructure will ensure that the department's growing user base will always have up-to-the-minute access to the information they need on demand. UC looked to improve their research process through technology, with the overriding aim to drastically reduce overall expenditure. NoMachine NX fit the description and also provided IT flexibility as an integral part of the solution to support rapid user growth and predict any future spending in terms of NX licensing as well as trim IT costs in general. Previously, the bulk of their IT budget went into maintaining their legacy desktops. The group spent most of their yearly IT budget in this area alone, with the cost of powering the devices increasing the expense.",
+      "image_url": "",
+      "industry": "Academia and Research",
+      "customer": "University of Chicago",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/University-Chicago"
+    },{
+      "title": "NoPC Case Study",
+      "description": "With the help of NoPC and NoMachine technology, 3,500 secondary schools and 1.2 million children in Tanzania can now get access to hosted computing resources.",
+      "image_url": "",
+      "industry": ["Academia and Research", "Associations and NGOs"],
+      "customer": "NoPC",
+      "country": ["UK","TZ"],
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/NoPC-0"
+    },{
+      "title": "Mosaic Case Study",
+      "description": "Mosaic is a non-profit US charity organization serving more than 3,500 adults and children with development disabilities.This health care industry nonprofit discovers an inexpensive remote access solution that meets HIPAA security requirements through NX.",
+      "image_url": "",
+      "industry": ["Academia and Research", "Associations and NGOs"],
+      "customer": "Mosaic",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Mosaic"
+    },{
+      "title": "Riagg Rijnmond Case Study",
+      "description": "Dutch mental health center, Riagg Rijnmond, cures IT budget woes and reduces their employee desktop budget by migrating from Citrix and Windows to a Linux and open source-based system hosted on NoMachine software.",
+      "image_url": "",
+      "industry": "Health and Life Sciences",
+      "customer": "Riagg Rijnmond",
+      "country": "NL",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Riagg-Rijnmond"
+    },{
+      "title": "Glendale Adventist Medical Center Case Study",
+      "description": "One of the leading medical institutions in Southern California, Glendale Adventist Medical Center uses NoMachine NX to supply patients with advanced personal computing stations bedside in the private rooms of their new patient tower.",
+      "image_url": "",
+      "industry": "Health and Life Sciences",
+      "customer": "Glendale Adventist Medical Center",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Glendale-Adventist-Medical-Center"
+    },{
+      "title": "Fred Hutchinson Cancer Research Center Case Study",
+      "description": "The Fred Hutchinson Cancer Research Center (FHRC) is a nonprofit organization and a world leader in research to understand, treat, and prevent cancer, HIV/AIDS and other life-threatening diseases. NoMachine powering medical research at Fred Hutchinson Cancer Research Center provides scientists with dependable access to HPC & data analysis resources.",
+      "image_url": "",
+      "industry": ["Health and Life Sciences", "Associations and NGOs"],
+      "customer": "Fred Hutchinson Cancer Research Center",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Fred-Hutchinson-Cancer-Research-Center"
+    },{
+      "title": "Schwaebisch Hall Case Study",
+      "description": "A globally recognized migration from an expensive proprietary solution of one of Germany's town councils to Linux. It adopted NX in order to ease the transition and provide cost-effective civil services to its citizens.",
+      "image_url": "",
+      "industry": "Public ADministration and Government",
+      "customer": "Schwaebisch Hall",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://www.nomachine.com/Schwaebisch-Hall" 
     }]
   }]
 }
