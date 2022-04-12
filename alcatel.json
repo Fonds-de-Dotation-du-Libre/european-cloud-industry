@@ -1,5 +1,5 @@
 {
-	"created": "01-12-2006",
+	"created": "07-04-2022",
 	"title": "Alcatel-Lucent SA",
 	"type": "company",
 	"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
@@ -19,167 +19,1400 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "3 857",
-		"earnings": "26 416 000 €",
-		"total_assets": "262 167 000€",
-		"revenues": "1 370 898 000€",
+		"earnings": "26416000",
+		"total_assets": "262167000",
+		"revenues": "1370898000",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2019",
 		"staff": "4 351",
-		"earnings": "229 998 000 €",
-		"total_assets": "261 646 000€",
-		"revenues": "2 332 775 000€",
+		"earnings": "229998000",
+		"total_assets": "261646000",
+		"revenues": "2332775000",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2018",
 		"staff": "4 515",
-		"earnings": "21 978 000 €",
-		"total_assets": "238 102 000€",
-		"revenues": "4 535 314 000€",
+		"earnings": "21978000",
+		"total_assets": "238102000",
+		"revenues": "4535314000",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2017",
 		"staff": "4 258",
-		"earnings": "37 803 000€",
-		"total_assets": "213 779 000€",
-		"revenues": "5 844 771 000€",
+		"earnings": "37803000",
+		"total_assets": "213779000",
+		"revenues": "5844771000",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2016",
 		"staff": "4 600",
-		"earnings": "- 497 969 000€",
-		"total_assets": "218 308 000€",
-		"revenues": "5 172 734 000€",
+		"earnings": "-497969000",
+		"total_assets": "218308000",
+		"revenues": "5172734000",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}],
 	"solution_list": [{
-				"title": "Rainbow Office powered by RingCentral",
+			"title": "OmniPCX Enterprise Communication Server",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/platforms/omnipcx-enterprise-communication-server",
+			"created_year": "",
+			"description": "A flexible enterprise phone platform that delivers reliable, high quality digital age communications to grow your business.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Skype for Busines",
+				"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
+				"category": "Telecommunication"
+			}, {
+				"title": "Cisco Unified Communications Manager",
+				"similiar_software_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "Avaya IP Office",
+				"similiar_software_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
+				"category": "Telecommunication"
+			}, {
+				"title": "Zaker Trading",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
+				"country": "AE",
+				"industry": "Retail"
+			}, {
+				"title": "Gobierno del Estado de Tamaulipas",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
+				"country": "MX",
+				"industry": "Government"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://2nwiki.2n.cz/pages/viewpage.action?pageId=17236010",
+			"reference_list": [{
+				"title": "Sao Paulo International Airport - GRU Airport",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sao-paulo-airport-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151931Z&hash=C11E1708858EF12AF02079D5794C9D64",
+				"country": "BR",
+				"industry": "Transportation"
+			}, {
+				"title": "UIN Antasari Banjarmasin University",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
+				"country": "ID",
+				"industry": "Education"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OpenTouch Enterprise Cloud",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/opentouch-enterprise-cloud-product-image-480x480.png?h=480&w=480&v=1&d=20220327T130135Z&hash=C8E29CDC64F2809D2709D35E86A9EB17",
+			"website_url": "https://www.al-enterprise.com/en/products/platforms/opentouch-enterprise-cloud",
+			"created_year": "",
+			"description": "a powerful suite of communication and collaboration services for small- and mid- to large-sized.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Webex Calling",
+				"similiar_software_url": "https://www.cisco.com/c/en/us/solutions/collaboration/webex-calling/index.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "Microsoft Teams",
+				"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+				"category": "Telecommunication"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "yes",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "SIG Combibloc Obeikan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sig-combibloc-obeikan-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=11A801A3EC37B66FF3C9320D273791B2",
+				"country": "AE",
+				"industry": "Manufacturing"
+			}, {
+				"title": "SMC Electric Supply",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
+				"country": "US",
+				"industry": "Energy & Utilities"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Oxo Connect",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/platforms/oxo-connect",
+			"created_year": "",
+			"description": "OXO Connect is a new generation of robust, connected and converged communication platforms, entirely dedicated to small and medium businesses.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Rainbow",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/rainbow",
+			"created_year": "",
+			"description": "Rainbow business communication solutions offer user friendly collaboration tools from voice to video, that connect people, machines, and processes.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Zoom",
+				"similiar_software_url": "https://zoom.us/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Google Chat",
+				"similiar_software_url": "https://mail.google.com/chat/u/0/",
+				"category": "Telecommunication"
+			}, {
+				"title": "RingCentralMVP",
+				"similiar_software_url": "https://www.ringcentral.com/office/how-it-works.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "Webex",
+				"similiar_software_url": "https://www.webex.com/cloud-calling.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "GoTo",
+				"similiar_software_url": "https://www.goto.com/connect",
+				"category": "Telecommunication"
+			}, {
+				"title": "Tata Communications Unified Communications as a Service",
+				"similiar_software_url": "https://www.tatacommunications.com/solutions/unified-communications/unified-communications-as-a-service/",
+				"category": "Telecommunication"
+			}],
+			"licence_list": ["Proprietary"],
+			"source_code_download": "https://github.com/Rainbow-CPaaS/Rainbow-Node-SDK",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://wikitia.com/wiki/Rainbow_(software)",
+			"reference_list": [{
+				"title": "UIN Antasari Banjarmasin University",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
+				"country": "ID",
+				"industry": "Education"
+			}, {
+				"title": "Metropolis and City of Perpignan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
+				"country": "FR",
+				"industry": "Government"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Rainbow Office",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/rainbow-office",
+			"created_year": "",
+			"description": "Rainbow Office offers secure modern communications on any device. You can collaborate from anywhere – by message, video and phone. Backed by comprehensive services, Rainbow Office is complemented with market leading telephony and networking products from ALE’s portfolio for a complete digital transformation.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Reachify",
+				"similiar_software_url": "https://reachify.io/",
+				"category": "Telecommunication"
+			}, {
+				"title": "UC Performance Management",
+				"similiar_software_url": "https://www.netscout.com/solutions/unified-communications-collaboration",
+				"category": "Telecommunication"
+			}, {
+				"title": "Collaborate Cloud",
+				"similiar_software_url": "http://www.collaboratecloud.com/",
+				"category": "Telecommunication"
+			}],
+			"licence_list": ["Proprietary"],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "DECT Infrastructure",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/platforms/dect-infrastructure",
+			"created_year": "",
+			"description": "These integrated and external antennas form a robust infrastructure for DECT in buildings and outdoors, so your mobile workers are connected everywhere.",
+			"category_list": ["telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniPCX Enterprise Communication Server",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/platforms/omnipcx-enterprise-communication-server",
+			"created_year": "",
+			"description": "A flexible enterprise phone platform that delivers reliable, high quality digital age communications to grow your business.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Skype for Business",
+				"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
+				"category": "Telecommunication"
+			}, {
+				"title": "Cisco Unified Communications Manager",
+				"similiar_software_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "Avaya IP Office",
+				"similiar_software_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
+				"category": "Telecommunication"
+			}, {
+				"title": "NEC SV9000",
+				"similiar_software_url": "https://in.nec.com/en_IN/products/private-network-solutions/products/small-medium-businesses/univerge-sv9000.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "OpenScape Enterprise",
+				"similiar_software_url": "https://unify.com/en/solutions/voice-platforms/openscape-enterprise-express",
+				"category": "Telecommunication"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Metropolis and City of Perpignan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
+				"country": "FR",
+				"industry": "Government"
+			}, {
+				"title": "Medcare",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
+				"country": "AE",
+				"industry": "Healthcare"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Remote Visual Assistance",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/rainbow/remote-visual-assistance",
+			"created_year": "",
+			"description": "Remote Visual Assistance by Alcatel-Lucent Enterprise empowers field service employees to deliver operational excellence and improve customer satisfaction.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniPCX RECORD Suite",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/applications/omnipcx-record-suite",
+			"created_year": "",
+			"description": "Monitor, record and evaluate all employee-customer interactions with call recording, screen capture and real-time listening tools.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "TelStrat Record",
+				"similiar_software_url": "https://www.serenova.com/wp-content/uploads/2019/08/Serenova_TelStratWFO.pdf",
+				"category": "Telecommunication"
+			}, {
+				"title": "VoIP Recording software",
+				"similiar_software_url": "https://www.voip-info.org/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Enghouse Smart Interaction Recording",
+				"similiar_software_url": "https://www.enghousenetworks.com/portfolio/digital-transformation/customer-interaction-management/smart-interaction-recording/",
+				"category": "Telecommunication"
+			}, {
+				"title": "CallN",
+				"similiar_software_url": "https://calln.com/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Zaker Trading",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
+				"country": "AE",
+				"industry": "Retail"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OpenTouch Message Center",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/applications/opentouch-message-center",
+			"created_year": "",
+			"description": "Streamline operations and delight your customers with a complete omnichannel contact center solution that offers email, live chat, social media, phone calls and simplified management.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "SIG Combibloc Obeikan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sig-combibloc-obeikan-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=11A801A3EC37B66FF3C9320D273791B2",
+				"country": "AE",
+				"industry": "Manufacturing"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Soft Panel Manager",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/applications/soft-panel-manager",
+			"created_year": "",
+			"description": "Collect, combine and display business data or contact center statistics in real-time for operational monitoring.",
+			"category_list": ["Information Technology"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Visual Automated Attendant",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/applications/visual-automated-attendant",
+			"created_year": "",
+			"description": "In business, a telephone call is often the first point of contact. Visual Automated Attendant provides a professional image with a virtual receptionist available 24/7, delivering a quality response to your customers.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "ALE Connect",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/applications/ale-connect",
+			"created_year": "",
+			"description": "Streamline operations and delight your customers with a complete omnichannel contact center solution that offers email, live chat, social media, phone calls and simplified management.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "IOT hub",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/services/customization-services/iot-hub",
+			"created_year": "",
+			"description": "The IoT Hub is a secure, resilient and open platform, ready to host new types of IoT protocols. It can build notification-based scenarios and connect to 3rd party applications such as the Rainbow CPaaS Platform, to initiate this new type of conversation.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Wireless Intercom",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/devices/wireless-intercom",
+			"created_year": "",
+			"description": "The Alcatel-Lucent DECT Intercom wireless indoor call box provides exceptional service to customers when they visit your offices, shops, and warehouses, with instant customer service.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Business Phones",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/devices/business-phones",
+			"created_year": "",
+			"description": "Business phones designed for the digital age; connect to the cloud with advanced AI capabilities and make every call memorable.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support/security-advisories",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://www.al-enterprise.com/en/products/devices/business-phones",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Cloud Edition DeskPhones",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/devices/cloud-edition-deskphones",
+			"created_year": "",
+			"description": "SIP deskphones that provide an enterprise grade communication experience using your favorite cloud communication service.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support/security-advisories",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Medcare",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
+				"country": "AE",
+				"industry": "Healthcare"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Conferencing",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/devices/conferencing",
+			"created_year": "",
+			"description": "Enjoy better-quality conference calls on this dedicated IP conference phone, or use your own deskphone, PC or smartphone with our conferencing modules.",
+			"category_list": ["Telcommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support/security-advisories",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+
+		}, {
+			"title": "OmniVista 8770 Network Management System",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/communications-management-security/omnivista-8770-network-management-system",
+			"created_year": "",
+			"description": "A single management interface providing a unified view of OpenTouch and OmniPCX communication networks, including next-generation devices and applications.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Junos Space Network Management Platform",
+				"similiar_software_url": "https://www.juniper.net/us/en/products/sdn-and-orchestration/junos-space-platform.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "SolarWinds",
+				"similiar_software_url": "https://www.solarwinds.com/network-management-software",
+				"category": "Telecommunication"
+			}, {
+				"title": "Cisco Meraki",
+				"similiar_software_url": "https://meraki.cisco.com/",
+				"category": "Telecommunication"
+			}, {
+				"title": "SAS/ACCESS",
+				"similiar_software_url": "https://www.sas.com/en_us/software/access.html",
+				"category": "Telecommunication"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support/security-advisories",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OpenTouch Session Border Controller",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/communications-management-security/opentouch-session-border-controller",
+			"created_year": "",
+			"description": "Protecting your organization from malicious VoIP attacks, SIP denial of service, fraud and eavesdropping, the Alcatel-Lucent OpenTouch Session Border Controller (OpenTouch SBC) addresses the communication security needs of mid-sized and large organizations.",
+			"category_list": ["Information Technology"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support/security-advisories",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+
+		}, {
+			"title": "OmniSwitch",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/switches",
+			"created_year": "",
+			"description": "Now there's even more ways to keep your office, campus and data center networks connected. Faster speeds. PoE. So dive in and discover the right switch for your business.",
+			"category_list": ["Information Technology"],
+			"similar_software_list": [{
+				"title": "Cisco Catalyst Switches",
+				"similiar_software_url": "https://www.cisco.com/c/en/us/products/switches/index.html",
+				"category": "Information Technology"
+			}, {
+				"title": "HPE Networking Switches",
+				"similiar_software_url": "https://www.hpe.com/us/en/networking/switches.html",
+				"category": "Information Technology"
+			}, {
+				"title": "Juniper Networks Switching",
+				"similiar_software_url": "https://www.juniper.net/us/en/products/switches.html",
+				"category": "Information Technology"
+			}, {
+				"title": "Dell EMC Switch",
+				"similiar_software_url": "https://www.dell.com/en-us/dt/networking/index.htm#tab0=0",
+				"category": "Information Technology"
+			}, {
+				"title": "Huawei Ethernet Switch",
+				"similiar_software_url": "https://e.huawei.com/en/products/enterprise-networking/switches",
+				"category": "Information Technology"
+			}, {
+				"title": "Cisco Industrial switching ",
+				"similiar_software_url": "https://www.cisco.com/c/en/us/products/switches/industrial-ethernet-switches/index.html",
+				"category": "Information Technology"
+			}, {
+				"title": "Netgear Unmanaged Switches",
+				"similiar_software_url": "https://www.netgear.com/business/wired/switches/unmanaged/",
+				"category": "Information Technology"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "UIN Antasari Banjarmasin University",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
+				"country": "ID",
+				"industry": "Education"
+			}, {
+				"title": "Hotel Palladia",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/image-palladia-logo-successstory-276x188.png?h=141&mh=200&mw=200&w=200&v=1&d=20200821T123047Z&hash=345F0B5CE5F951D4838B18FB323DB8EC",
+				"country": "FR",
+				"industry": "Hospitality"
+			}, {
+				"title": "Metropolis and City of Perpignan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
+				"country": "FR",
+				"industry": "Government"
+			}, {
+				"title": "SIG Combibloc Obeikan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sig-combibloc-obeikan-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=11A801A3EC37B66FF3C9320D273791B2",
+				"country": "AE",
+				"industry": "Manufacturing"
+			}, {
+				"title": "University of Johannesburg",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/university-of-johannesburg-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151827Z&hash=EA6501409849063BBC3A07F80994A997",
+				"country": "ZA",
+				"industry": "Education"
+			}, {
+				"title": "SMC Electric Supply",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
+				"country": "US",
+				"industry": "Energy & Utilities"
+			}, {
+				"title": "Medcare",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
+				"country": "AE",
+				"industry": "Healthcare"
+			}, {
+				"title": "Zaker Trading",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
+				"country": "AE",
+				"industry": "Retail"
+			}, {
+				"title": "Jumbo Electronics",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-				"website_url": "https://www.al-enterprise.com/en/rainbow-office",
-				"created_year": "",
-				"description": "Rainbow Office offers secure modern communications on any device. You can collaborate from anywhere – by message, video and phone. Backed by comprehensive services, Rainbow Office is complemented with market leading telephony and networking products from ALE’s portfolio for a complete digital transformation.",
-				"category_list": ["telecommunication"],
-				"similar_software_list": [{
-							"title": "",
-							"similiar_software_url": "",
-							"category": "",
-
-							"title": "ALE Digital Age Communications",
-							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-							"website_url": "https://www.al-enterprise.com/en/solutions/digital-age-communications",
-							"created_year": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-							"description": "ALE Digital Age Communications delivers cost-effective, secure, cloud-based communications solutions to help you stay ahead of the competition. With Digital Age Communications, enterprises successfully transform by connecting people, applications, and objects and address the top business priorities.",
-							"category_list": ["telecommunication"],
-
-							"title": "Business phones",
-							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-							"website_url": "https://www.al-enterprise.com/en/solutions/connected-solutions-and-devices",
-							"created_year": "",
-							"description": "Business phones facilitate call management and hybrid working. Their screens are larger and the sound quality benefits from increased signal processing capabilities. These phones are connected on site or at home. They offer a 'hot-desking' mode for shared offices. Smartphones and computers can be connected to them to take advantage of the exceptional speakerphone mode.",
-							"category_list": ["telecommunication"],
-
-							"title": "CPaas",
-							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-							"website_url": "https://www.al-enterprise.com/en/solutions/communications-platform-as-a-service-cpaas",
-							"created_year": "",
-							"description": "CPaaS solution offers an interoperable eco-system across channels to make your employees more productive and your customers feel nurtured. It bridges communications between humans, objects and processes enabling faster, easier, and more secure digital engagement for your business.",
-							"category_list": ["telecommmunication"],
-
-							"title": "Visual Automated Attendant",
-							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-							"website_url": "https://www.al-enterprise.com/en/products/applications/visual-automated-attendant",
-							"created_year": "",
-							"description": "Visual Automated Attendant is a centralized application that routes calls through interactive menus without the intervention of a receptionist. In addition, this application automatically responds to your customers' most frequent requests using voice recognition and synthesis as well as by querying your databases.",
-							"category_list": ["telecommunication"],
-
-							"title": "Rainbow",
-							"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-							"website_url": "https://www.al-enterprise.com/en/rainbow",
-							"created_year": "",
-							"description": "Rainbow is an enterprise-grade, cloud communication platform fully developed in Europe with services delivered from secured data centres across the globe.",
-							"category_list": ["telecommunication"],
-							"similar_software_list": [{
-								"title": "traverfy",
-								"similiar_software_url": "https://travefy.com/",
-								"category": "telecommunication",
-
-								"title": "clientBase",
-								"similiar_software_url": "https://clientbaseonline.trams.com/login/",
-								"category": "telecommunication",
-
-								"title": "PHPtravels",
-								"similiar_software_url": "https://phptravels.com/",
-								"category": "travel and tourism",
-
-								"title": "rezdy",
-								"similiar_software_url": "https://rezdy.com/",
-								"category": "travel and tourism",
-
-								"title": "IOT",
-								"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-								"website_url": "https://www.al-enterprise.com/en/solutions/iot",
-								"created_year": "",
-								"description": "Billions of connected devices are already deployed and this surge in Internet of Things (IoT) is not slowing down any time soon. IoT is changing our lives, the world we live in, and the way we do business. It is increasingly the foundation and enabler for improved customer experiences and optimized digital business processes.",
-								"category_list": ["Information technology"],
-								"licence_list": [],
-								"source_code_download": "https://github.com/alcatel",
-								"source_code_profile": "https://www.openhub.net/p/sce-se",
-								"commercial_support_url": "https://www.al-enterprise.com/en/support",
-								"floss_software": "no",
-								"commercial_support_open_source_version": "",
-								"commercial_support_available": "",
-								"wikipedia_url": "https://en.wikipedia.org/wiki/Alcatel-Lucent_Enterprise",
-								"reference_list": [{
-									"title": "",
-									"logo_url": "",
-									"country": "",
-									"industry": ""
-								}],
-								"success_case_list": [{
-									"title": "Sao Paulo International Airport - GRU Airport",
-									"description": "Sao Paulo International Airport created a more efficient operations system, and better passenger services, by implementing an IP-based voice infrastructure.",
-									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sao-paulo-airport-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151931Z&hash=C11E1708858EF12AF02079D5794C9D64",
-									"industry": "Transportation",
-									"customer": "Sao Paulo International Airport - GRU Airport",
-									"country": "BR",
-									"language": "EN",
-									"success_case_url": "https://www.al-enterprise.com/en/company/customers/sao-paulo-international-airport",
-
-									"title": "UIN Antasari Banjarmasin University",
-									"description": "IoT enabled network and one single communication platform make communication and collaboration more efficient, effective and secure.",
-									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
-									"industry": "Education",
-									"customer": "UIN Antasari Banjarmasin University",
-									"country": "ID",
-									"language": "EN",
-									"success_case_url": "https://www.al-enterprise.com/en/company/customers/uin-antasari-banjarmasin",
-
-									"title": "Hotel Palladia",
-									"description": "The hotel chose to renovate its Wi-Fi network to make it more efficient, fluid, secure and high-capacity",
-									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/image-palladia-logo-successstory-276x188.png?h=141&mh=200&mw=200&w=200&v=1&d=20200821T123047Z&hash=345F0B5CE5F951D4838B18FB323DB8EC",
-									"industry": "Hospitality",
-									"customer": "Hotel Palladia",
-									"country": "FR",
-									"language": "EN",
-									"success_case_url": "https://www.al-enterprise.com/en/company/customers/hotel-palladia",
-
-									"title": "Metropolis and City of Perpignan",
-									"description": "The metropolis and city of Perpignan are implementing a strategic digital transition plan to address the connectivity needs of citizen, visitors and municipal employees",
-									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
-									"industry": "Government",
-									"customer": "Metropolis and City of Perpignan",
-									"country": "FR",
-									"language": "EN",
-									"success_case_url": "https://www.al-enterprise.com/en/company/customers/metropolis-and-city-of-perpignan",
-
-									"title": "Thomas Holt",
-									"description": "Thomas Holt is adopting industry-leading technology to gain a competitive advantage in the aged care market and offer superior quality service to its residents.",
-									"image_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/thomas-holt-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20190712T094030Z&hash=CA08BC5A41D50E265F0A86597C02C778",
-									"industry": "Healthcare",
-									"customer": "Thomas Holt",
-									"country": "AU",
-									"language": "FR",
-									"success_case_url": "https://www.al-enterprise.com/en/company/customers/thomas-holt"
-								}]
-							}]
-						}
+				"country": "AE",
+				"industry": "Retail"
+			}, {
+				"title": "Gobierno del Estado de Tamaulipas",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
+				"country": "MX",
+				"industry": "Government"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniAcess Stellar Access Points",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/support",
+			"created_year": "",
+			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Cisco Meraki Cloud-Managed Indoor Access Points",
+				"similiar_software_url": "https://meraki.cisco.com/products/wi-fi/",
+				"category": "Telecommunication"
+			}, {
+				"title": "EX Switches",
+				"similiar_software_url": "https://www.juniper.net/us/en/products/switches/ex-series.html",
+				"category": "Telecommunication"
+			}, {
+				"title": "Aruba Gateways and Controllers HPE (Aruba)",
+				"similiar_software_url": "https://www.arubanetworks.com/products/wireless/gateways-and-controllers/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Unifi Enterprise AP",
+				"similiar_software_url": "https://unifi-mesh.ui.com/",
+				"category": "Teleommunication"
+			}, {
+				"title": "Huawei Campus Switches",
+				"similiar_software_url": "https://e.huawei.com/en/products/enterprise-networking/switches/campus-switches",
+				"category": "Telecommunication"
+			}, {
+				"title": "FortiGate",
+				"similiar_software_url": "https://www.fortinet.com/products/next-generation-firewall",
+				"category": "Telecommunication"
+			}, {
+				"title": "RUCKUS Wireless Access Points",
+				"similiar_software_url": "https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/",
+				"category": "Telecommunication"
+			}, {
+				"title": "TP-Link Wireless Access Points (Legacy)",
+				"similiar_software_url": "https://www.tp-link.com/fr/press/news/15685/",
+				"category": "Telecommunication"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniAccess Stellar Asset Tracking",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/asset-tracking",
+			"created_year": "",
+			"description": "Asset tracking provides smart connection to assets, so you can locate equipment and people in real-time, optimizing operations and reducing costs.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Sao Paulo International Airport - GRU Airport",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sao-paulo-airport-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151931Z&hash=C11E1708858EF12AF02079D5794C9D64",
+				"country": "BR",
+				"industry": "Transportation"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "BLE Beacon",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/location-based-services/ble-beacons",
+			"created_year": "",
+			"description": "Easy-to-manage battery-powered Bluetooth beacons with iBeacon technology provide a personal, location-based experience for users.",
+			"category_list": ["Information technology"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniAccess Stellar Location-Based Services (LBS)",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/location-based-services",
+			"created_year": "",
+			"description": "The OmniAccess Stellar LBS suite offers three game-changing location features to empower your company, broaden your services, gain insightful analytics and help you make better decisions.",
+			"category_list": ["Consulting and Training"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}, {
+				"title": "Zaker Trading",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
+				"country": "AE",
+				"industry": "Retail"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/products/location-based-services",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Azienda Ospedaliera della provincia di Lodi",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/azienda-ospedaliera-della-provincia-di-lodi-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20220406T150531Z&hash=41A7199965560C3B6FCCE72797BB4349",
+				"country": "IT",
+				"industry": "Healthcare"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniAccess Stellar LBS Management Tools",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/location-based-services/management-tools",
+			"created_year": "",
+			"description": "Two powerful management tools to make the implementation, operation and maintenance of indoor location services easy.",
+			"category_list": ["Information Technology"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Hotel Palladia",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/image-palladia-logo-successstory-276x188.png?h=141&mh=200&mw=200&w=200&v=1&d=20200821T123047Z&hash=345F0B5CE5F951D4838B18FB323DB8EC",
+				"country": "FR",
+				"industry": "Hospitality"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "OmniVista",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/network-management-security/omnivista-2500-network-management-system",
+			"created_year": "",
+			"description": "The Alcatel-Lucent OmniVista® 2500 Network Management System (NMS) provides cohesive management and network-wide visibility, increasing IT efficiency and business agility. It provides a full set of management tools for converged mobile campus. This single platform enables operators to easily provision, manage and maintain a unified Campus Mobile infrastructure with its network elements, alarms, unified access security policies, and virtualization.",
+			"category_list": ["Information Technology"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Fukuoka City",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/fukuoka-city-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T150737Z&hash=1B151467BCFE6F00EDC166466BB5778F",
+				"country": "JP",
+				"industry": "Government"
+			}, {
+				"title": "UIN Antasari Banjarmasin University",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
+				"country": "ID",
+				"industry": "Education"
+			}, {
+				"title": "Azienda Ospedaliera della provincia di Lodi",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/azienda-ospedaliera-della-provincia-di-lodi-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20220406T150531Z&hash=41A7199965560C3B6FCCE72797BB4349",
+				"country": "IT",
+				"industry": "Healthcare"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Ucopia",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/network-management-security/ucopia",
+			"created_year": "",
+			"description": "Ucopia, a European leader in Wi-Fi guest access and Wi-Fi marketing management, helps enterprises unlock the potential of their Wi-Fi network.  Ucopia is fully compatible with all OmniAccess Stellar access points.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "Purple",
+				"similiar_software_url": "https://purple.ai/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Adentro",
+				"similiar_software_url": "http://www.adentro.fr/en/",
+				"category": "Telecommunication"
+			}, {
+				"title": "MyWifiNetworks",
+				"similiar_software_url": "https://www.mywifinetworks.com/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Cloud4wi",
+				"similiar_software_url": "https://splashportal.cloud4wi.com/",
+				"category": "Telecommunication"
+			}, {
+				"title": "Local Mesure",
+				"similiar_software_url": "https://www.localmeasure.com/",
+				"category": "Telecommunication"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Clearpass Policy Management System",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/network-management-security/clearpass-policy-management-system",
+			"created_year": "",
+			"description": "Easily roll out BYOD services and control devices on your enterprise network with powerful network policy management",
+			"category_list": ["Public Administration and Government"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Fukuoka City",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/fukuoka-city-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T150737Z&hash=1B151467BCFE6F00EDC166466BB5778F",
+				"country": "JP",
+				"industry": "Government"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		},
+		{
+			"title": "OmniAcess Wireless Access Points",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/products/wlan",
+			"created_year": "",
+			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",
+			"category_list": ["Telecommunication"],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "yes",
+			"commercial_support_available": "no",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "Zaker Trading",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
+				"country": "AE",
+				"industry": "Retail"
+			}, {
+				"title": "Medcare",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
+				"country": "AE",
+				"industry": "Healthcare"
+			}, {
+				"title": "SMC Electric Supply",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
+				"country": "US",
+				"industry": "Energy & Utilities"
+			}, {
+				"title": "University of Johannesburg",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/university-of-johannesburg-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151827Z&hash=EA6501409849063BBC3A07F80994A997",
+				"country": "ZA",
+				"industry": "Education"
+			}, {
+				"title": "SIG Combibloc Obeikan",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sig-combibloc-obeikan-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=11A801A3EC37B66FF3C9320D273791B2",
+				"country": "AE",
+				"industry": "Manufacturing"
+			}, {
+				"title": "Azienda Ospedaliera della provincia di Lodi",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/azienda-ospedaliera-della-provincia-di-lodi-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20220406T150531Z&hash=41A7199965560C3B6FCCE72797BB4349",
+				"country": "IT",
+				"industry": "Healthcare"
+			}, {
+				"title": "Jumbo Electronics",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+				"country": "AE",
+				"industry": "Retail"
+			}, {
+				"title": "Gobierno del Estado de Tamaulipas",
+				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
+				"country": "MX",
+				"industry": "Government"
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}
+	]
+}
