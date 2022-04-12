@@ -1,7 +1,7 @@
 {
-	"created": "",
+	"created": "07-04-2022",
 	"title": "AG Project",
-	"type": "corporation",
+	"type": "company",
 	"logo_url": "https://ag-projects.com/images/aglogo.svg",
 	"location": {
 		"title": "AG Project",
@@ -21,7 +21,7 @@
 		"staff": "25",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "4,581,100.00€",
+		"revenues": "458110000",
 		"source_url": "https://www.zoominfo.com/c/ag-projects-llc/445933980"
 	}, {
 		"year": "2020",
@@ -65,27 +65,27 @@
 		"website_url": "https://sylkserver.com/",
 		"created_year": "",
 		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
-		"category_list": ["media and entertainement"],
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [{
 			"title": "MSRP",
 			"similiar_software_url": "http://msrprelay.org/",
-			"category": "telecommunication",
-
+			"category": "Telecommunication"
+		}, {
 			"title": "Sipthor",
 			"similiar_software_url": "https://sipthor.net/index.phtml",
-			"category": "telecommunication",
-
+			"category": "Telecommunication"
+		}, {
 			"title": "sip2sip",
 			"similiar_software_url": "https://sip2sip.info/",
-			"category": "telecommunication"
+			"category": "Telecommunication"
 		}],
 		"licence_list": ["GNU General Public License version 3"],
 		"source_code_download": "https://github.com/AGProjects/sylk-mobile",
 		"source_code_profile": "",
 		"commercial_support_url": "https://sylkserver.com/contact/",
 		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
