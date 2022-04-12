@@ -1,0 +1,115 @@
+{
+  "created": "2022-03-15",
+	"title": "DeepL",
+	"type": "Corporation",
+	"logo_url": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
+	"headquarter_country": "DE",
+	"subsidiary_country_list": [],
+	"website_url": "https://www.deepl.com/translator",
+	"location": {
+		"title": "DeepL SE",
+		"address": "Maarweg 165",
+		"postal_code": "50825",
+		"city": "Köln",
+		"country": "DE",
+		"phone_contact": "",
+		"mail_contact": "open-source@deepl.com",
+		"coordinate_list": [50.94576123377641, 6.897691577615885]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.deepl.com/translator",
+  "founded_year": "2017",
+  "kpi_list": [{
+    "year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "21579422",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?11"
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "16969363",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?20"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "14025004",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?17"
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "4830110",
+		"revenues": "",
+		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?14"
+  }],
+  "solution_list": [{
+    "title": "DeepL Translator",
+		"logo_url": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
+		"website_url": "https://www.deepl.com/translator",
+		"created_year": "2017",
+		"description": "Free IA-based translator that makes it the most efficient web translator. Available in 26 languages it performs several times better than its competitors.",
+		"category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "Google Translate",
+			"similiar_software_url": "https://translate.google.com",
+			"category": "Information Technology"
+		},{
+			"title": "Reverso",
+			"similiar_software_url": "https://www.reverso.net/text-translation",
+			"category": "Information Technology"
+		},{
+			"title": "Linguee",
+			"similiar_software_url": "https://www.linguee.com/",
+			"category": "Information Technology"
+    },{
+			"title": "Systran",
+			"similiar_software_url": "https://www.systran.net/en/translate/",
+			"category": "Information Technology"
+		},{
+			"title": "Unbabel",
+			"similiar_software_url": "https://unbabel.com/",
+			"category": "Information Technology"
+		},{
+			"title": "Catapult",
+			"similiar_software_url": "https://taia.io/catapult/",
+			"category": "Information Technology"
+    }],
+    "licence_list": ["MIT"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
+    "reference_list": [],
+    "success_case_list": [],
+    "solution_list": [{
+    "title": "DeepL Pro",
+		"logo_url": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
+		"website_url": "https://www.deepl.com/pro?cta=header-pro",
+		"created_year": "2018",
+		"description": "IA-based translator thought for companies, allowing the secured translation of entire documents, customizable to better fit the requirements and vocabulary of each company.",
+		"category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "Memoq",
+      "similiar_software_url": "https://www.memoq.com/",
+      "category": "Information Technology"
+    }],
+    "licence_list": ["MIT"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.deepl.com/fr/pro?cta=header-prices/",
+    "floss_software": "",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
+    "reference_list": [],
+    "success_case_list": []
+}
