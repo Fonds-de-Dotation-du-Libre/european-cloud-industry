@@ -1,0 +1,139 @@
+{
+  "created": "2022-04-12",
+  "title": "XWiki SAS",
+  "type": "Other",
+  "logo_url": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
+  "location": {
+    "title": "XWiki SAS",
+    "address": "15 Rue des Halles",
+    "postal_code": "75001",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "+33 1 45 42 40 90",
+    "mail_contact": "contact@xwiki.com",
+    "coordinate_list": "48.86035200342366, 2.346190001868085"
+  },
+  "subsidiary_location_list": "",
+  "website_url": "https://xwiki.com/fr/",
+  "founded_year": "",
+  "kpi_list": [{
+    "year": "2020",
+    "staff": "",
+    "earnings": "- 152 658 ",
+    "total_assets": "2 677 696",
+    "revenues": "1 261 675",
+    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+  }, {
+    "year": "2019",
+    "staff": "13",
+    "earnings": "-18 074",
+    "total_assets": "2 790 687",
+    "revenues": "1 559 579	",
+    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+  },{
+    "year": "2018",
+    "staff": "16",
+    "earnings": "275 713",
+    "total_assets": "2 302 493",
+    "revenues": "1 630 338",
+    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+  },{
+    "year": "2017",
+    "staff": "15",
+    "earnings": "-53 801 ",
+    "total_assets": "2 107 642",
+    "revenues": "1 245 643",
+    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+  },{
+    "year": "2016",
+    "staff": "16",
+    "earnings": "- 268 222",
+    "total_assets": "2 447 998",
+    "revenues": "920 401",
+    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+  }],
+  "solution_list": [{
+    "title": "XWiki",
+    "logo_url": "https://www.xwiki.org/xwiki/bin/download/XWikiOrg/UI/Theme-Main/logo.png?rev=1.1",
+    "website_url": "https://www.xwiki.org/xwiki/bin/view/Main/",
+    "created_year": "2004",
+    "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. XWiki is an enterprise wiki. It includes WYSIWYG editing, OpenDocument based document import/export, semantic annotations and tagging, and advanced permissions management.",
+    "category_list": "",
+    "similar_software_list": [{
+      "title": "Confluence",
+      "similiar_software_url": "https://www.atlassian.com/software/confluence",
+      "category": ""
+    },{
+      "title": "MediaWiki",
+      "similiar_software_url": "https://www.mediawiki.org/wiki/MediaWiki",
+      "category": ""
+    },{
+      "title": "Sharepoint",
+      "similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+      "category": ""
+    }],
+    "licence_list": ["LGPL-2.1 License"],
+    "source_code_download": "https://github.com/xwiki/xwiki-platform",
+    "source_code_profile": "https://www.openhub.net/p/xwiki",
+    "commercial_support_url": "https://www.xwiki.org/xwiki/bin/view/Main/Support#HProfessionalSupport",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/XWiki",
+    "reference_list": [],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    },{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    },{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  },{
+    "title": "Cryptpad",
+    "logo_url": "https://cryptpad.fr/customize/CryptPad_logo.svg?",
+    "website_url": "https://cryptpad.fr/index.html",
+    "created_year": "",
+    "description": "CryptPad is built to enable collaboration. Changes to documents are synchronized in real time. Since all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.",
+    "category_list": "",
+    "similar_software_list": [{
+      "title": "LibreOffice",
+      "similiar_software_url": "https://www.libreoffice.org/",
+      "category": ""
+    },{
+      "title": "Simplenote",
+      "similiar_software_url": "https://simplenote.com/",
+      "category": ""
+    }],
+    "licence_list": [" AGPL-3.0 License"],
+    "source_code_download": "https://github.com/xwiki-labs/cryptpad",
+    "source_code_profile": "https://www.openhub.net/p/cryptpad",
+    "commercial_support_url": "https://cryptpad.fr/support/#tickets",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "",
+    "reference_list":"",
+    "success_case_list": ""
+  }]
+}
