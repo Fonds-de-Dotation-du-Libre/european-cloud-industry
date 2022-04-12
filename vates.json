@@ -1,7 +1,7 @@
 {
   "created": "2022-04-08",
   "title": "Vates",
-  "type": "",
+  "type": "Other",
   "logo_url": "https://vates.fr/img/bg-img/logovates.png",
   "location": {
     "title": "Vates",
@@ -11,27 +11,27 @@
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "",
-    "coordinate_list": []
+    "coordinate_list": ["45.18926731267973, 5.709716628656718"]
   },
   "subsidiary_location_list": [],
   "website_url": "https://vates.fr/",
   "founded_year": "2012",
-  "kpi_list": [],
+  "kpi_list": "",
   "solution_list": [{
     "title": "XCP-ng",
     "logo_url": "https://vates.fr/img/bg-img/xcp-ng.png",
     "website_url": "https://xcp-ng.org/",
     "created_year": "2018",
     "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
-    "category_list": [],
+    "category_list": "",
     "similar_software_list": [{
       "title": "VM Ware",
       "similiar_software_url": "https://www.virtualbox.org/",
-      "category": []
+      "category": ""
     },{
       "title": "Proxmox Virtual Environment",
       "similiar_software_url": "https://www.proxmox.com/en/proxmox-ve",
-      "category": []
+      "category": ""
       }],
     "licence_list": ["GNU version 2"],
     "source_code_download": "https://github.com/orgs/xcp-ng/repositories",
@@ -52,14 +52,14 @@
       "country": "US",
       "industry": "web hosting"
       }],
-      "success_case_list": []
+      "success_case_list": ""
     },{
     "title": "Xen Orchestra",
     "logo_url": "https://xen-orchestra.com/assets/logo.png",
     "website_url": "https://xen-orchestra.com/#!/xo-home",
-    "created_year": [],
+    "created_year": "",
     "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
-    "category_list": [],
+    "category_list": "",
     "similar_software_list": [{
       "title": "Vagrant",
       "similiar_software_url": "https://www.vagrantup.com/",
@@ -72,7 +72,7 @@
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
+    "wikipedia_url": "",
     "reference_list": [{
       "title": "Citrix Systems",
       "logo_url": "https://www.citrix.com/content/dam/citrix61/en_us/images/logos/citrix/citrix-logo-black.png",
@@ -80,7 +80,7 @@
       "industry": "Cloud computing"
       },{
       "title": "ASWAT Telecom",
-      "logo_url": [],
+      "logo_url": "",
       "country": "AE",
       "industry": "Cloud computing"
       },{
@@ -89,6 +89,6 @@
       "country": "US",
       "industry": "web hosting"
       }],
-      "success_case_list": []
+      "success_case_list": ""
   }]
 }
