@@ -1,37 +1,37 @@
 {
   "created": "2022-04-07",
-  "title": "Signal18",
-  "type": "",
+  "title": "Signal18 Cloud",
+  "type": "Other",
   "logo_url": "https://signal18.io/images/5/f/e/4/c/5fe4ca1ec7f359a16d3a2d6e4fcbe86f76a87980-signal18-logo-transparent.png",
   "location": {
-    "title": "Signal18",
-    "address": "10 VLA Saint Michel",
+    "title": "Signal18 Cloud",
+    "address": "10 Villa Saint Michel",
     "postal_code": "75018",
     "city": "Paris",
     "country": "FR",
-    "phone_contact": [],
-    "mail_contact": [],
-    "coordinate_list": []
+    "phone_contact": "",
+    "mail_contact": "",
+    "coordinate_list": "48.89012449908694, 2.3272950692689407"
   },
-  "subsidiary_location_list": [],
+  "subsidiary_location_list": "",
   "website_url": "https://signal18.io/",
-  "founded_year": [],
-  "kpi_list": [],
+  "founded_year": "2019",
+  "kpi_list": "",
   "solution_list": [{
     "title": "Replication Manager",
-    "logo_url": [],
+    "logo_url": "",
     "website_url": "https://signal18.io/products/srm",
     "created_year": "2019",
     "description": "REPLICATION MANAGER is an orchestrator for high availability on top of MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies. Including topology detection and topology monitoring, enabling on-demand slave to master promotion (also known as switchover), or electing a new master on failure detection (also known as failover). It enforces best practices to get at a minimum up to zero loss in most failure cases.",
-    "category_list": [],
+    "category_list": "",
     "similar_software_list": [{
       "title": "OneTrust",
       "similiar_software_url": "https://www.onetrust.com/",
-      "category": []
+      "category": ""
     },{
       "title": "Diligent",
       "similiar_software_url": "https://www.diligent.com/",
-      "category": []
+      "category": ""
     }],
     "licence_list": ["GPL"],
     "source_code_download": "https://github.com/signal18/replication-manager",
@@ -40,8 +40,8 @@
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": [],
-    "reference_list": [],
-    "success_case_list": []
+    "wikipedia_url": "",
+    "reference_list": "",
+    "success_case_list": ""
   }]
 }
