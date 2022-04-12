@@ -1,5 +1,5 @@
 {
-	"created": "07-2002",
+	"created": "07-04-2022",
 	"title": "Dovecot",
 	"type": "Company",
 	"logo_url": "https://www.dovecot.org/wp-content/uploads/2021/09/dovecot_logo.png",
@@ -11,17 +11,17 @@
 		"country": "FI",
 		"phone_contact": "+358 40 9008553 ",
 		"mail_contact": "",
-		"coordinate_list": []
+		"coordinate_list": [60.212209921539156, 24.817430111962587]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://www.dovecot.org/support/",
-	"founded_year": "",
+	"website_url": "https://www.dovecot.org/",
+	"founded_year": "2002",
 	"kpi_list": [{
 		"year": "2021",
 		"staff": "31",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "4,596,900.00€",
+		"revenues": "459690000",
 		"source_url": "https://www.zoominfo.com/c/dovecot-oy/398264843"
 	}, {
 		"year": "2020",
@@ -69,12 +69,12 @@
 		"similar_software_list": [{
 			"title": "zimbra",
 			"similiar_software_url": "https://zimbra.free.fr/",
-			"category": "telecommunication",
-
+			"category": "telecommunication"
+		},{
 			"title": "Postfix",
 			"similiar_software_url": "https://www.postfix.org/",
-			"category": "telecommunication",
-
+			"category": "telecommunication"
+		},{
 			"title": "Courier Mail Server",
 			"similiar_software_url": "http://www.courier-mta.org/",
 			"category": "telecommunication"
@@ -84,8 +84,8 @@
 		"source_code_profile": "https://www.openhub.net/p/dovecot",
 		"commercial_support_url": "https://www.dovecot.org/support/",
 		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Dovecot_(software)",
 		"reference_list": [{
 			"title": "",
