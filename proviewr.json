@@ -1,5 +1,5 @@
 {
-  "created": "1978",
+  "created": "07-04-2022",
   "title": "SSAB",
   "type": "corporation",
   "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
@@ -15,7 +15,7 @@
   },
   "subsidiary_location_list": [],
   "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
-  "founded_year": "",
+  "founded_year": "1978",
   "kpi_list": [{
     "year": "2021",
     "staff": "",
