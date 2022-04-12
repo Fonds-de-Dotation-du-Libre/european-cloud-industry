@@ -15,71 +15,43 @@
   },
   "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
   "website_url": "https://www.odoo.com/",
-  "founded_year": "2005",
+  "founded_year": "2002",
   "kpi_list": [{
+    "year": "2020",
+    "staff": "",
+    "earnings": "140822",
+    "total_assets": "",
+    "revenues": "43871968",
+    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
+  },{
+    "year": "2019",
+    "staff": "",
+    "earnings": "422478",
+    "total_assets": "",
+    "revenues": "29772268",
+    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
+  },{
     "year": "2018",
     "staff": "",
-    "earnings": "",
+    "earnings": "-328269",
     "total_assets": "",
-    "revenues": "",
-    "source_url": "https://be.welipro.com/c/odoo-7837149"
+    "revenues": "20157092",
+    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "",
+    "earnings": "194682",
     "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2015",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2014",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2013",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2012",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2011",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
+    "revenues": "13595391",
+    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
   }],
   "solution_list": [{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
+    "title": "Odoo Software",
+    "logo_url": "https://www.odoo.com/documentation/15.0/_static/img/logos/odoo_logo.svg",
+    "website_url": "https://www.odoo.com/",
+    "created_year": "2002",
+    "description": "Odoo is a suite of open source business apps that cover all companies' needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.",
+    "category_list": ["Information Technology"],
     "similar_software_list": [{
       "title": "ERPNext",
       "similiar_software_url": "https://erpnext.com/",
@@ -124,6 +96,107 @@
       "industry": ""
     }],
     "success_case_list": [{
+      "title": "Intero Technologies: From User to Partner",
+      "description": "Intero Technologies is a German software company focused on creating smart software solutions for smart teams to drive business success. Odoo provides them with full service agency: consulting, implementation, hosting, migration, training, support and app development since 2010.",
+      "image_url": "https://www.intero-technologies.de/web/image/website/1/logo/Intero%20Technologies?unique=bbb4872",
+      "industry": "Information Technology",
+      "customer": "Intero Technologies",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/intero-technologies-from-user-to-partner-850#blog_content"
+    },{
+      "title": "Steersman Company takes business management by the horns",
+      "description": "Partnering with Odoo since 2015, Steersman Company find in them the flexible ERP solution, both functional and adaptable.",
+      "image_url": "https://ib.steersman.works/Qzg3z7exhCQLVI5g2F79-zlyrYPjw1LcESOG3zJE/steersman-logo-gradient-svg.svg",
+      "industry": "Business Solutions",
+      "customer": "Steersman Company",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/steersman-company-takes-business-management-by-the-horns-764"
+    },{
+      "title": "bloopark: Letting Go of Old Methods",
+      "description": "Bloopark is a German software company that works with Odoo since 2014. Bloopark’s expertise lies within the design, implementation and migration of Odoo. They are knowledgeable in agility, high quality, being dynamic and IoT.",
+      "image_url": "https://www.bloopark.de/theme_bloopark/static/src/img/bloopark-logo-black.png",
+      "industry": "Infoarmation Technology",
+      "customer": "bloopark",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/bloopark-letting-go-of-old-methods-736"
+    },{
+      "title": "Becoming a successful partner in a new market? Port Cities Vietnam became a certified Silver partner in just 7 months",
+      "description": "Port Cities implementation in Vietnam in 2018 required a suitable ERP system to connect them with businesses and has since evolved with the use of new modules: document management, Internet of Things, etc. Since then Port Cities in Vietnam has been working to raise awareness about smart business management applications and helping Vietnamese companies grow by automating their business processes.",
+      "image_url": "https://portcities.net/web/image/website/1/logo/Port%20Cities%20-%20the%20biggest%20Odoo%20partner%20in%20the%20world.?unique=8ce149d",
+      "industry": ["Business","Transport"],
+      "customer": "Port Cities",
+      "country": "HK",
+      "language": "EN",
+      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/becoming-a-successful-partner-in-a-new-market-port-cities-vietnam-became-a-certified-silver-partner-in-just-7-months-542"
+    },{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    },{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
       "title": "",
       "description": "",
       "image_url": "",
