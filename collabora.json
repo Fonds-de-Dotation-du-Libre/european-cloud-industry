@@ -18,143 +18,50 @@
 	},
   "founded_year": "2005",
   "kpi_list": [{
-    "year": "2021",
-    "staff": "117",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
     "year": "2020",
     "staff": "26",
     "earnings": "",
-    "total_assets": "£5,337,332",
+    "total_assets": "5337332",
     "revenues": "",
     "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   }, {
     "year": "2019",
     "staff": "23",
     "earnings": "",
-    "total_assets": "£4,624,715",
+    "total_assets": "4624715",
     "revenues": "",
     "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   },{
     "year": "2018",
     "staff": "21",
     "earnings": "",
-    "total_assets": "£ 4,065,455",
+    "total_assets": "4065455",
     "revenues": "",
     "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   },{
     "year": "2017",
     "staff": "23",
     "earnings": "",
-    "total_assets": "£2,778,094",
+    "total_assets": "2778094",
     "revenues": "",
     "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   },{
     "year": "2016",
     "staff": "23",
     "earnings": "",
-    "total_assets": "£2,211,750",
+    "total_assets": "2211150",
     "revenues": "",
     "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
-  },{
-    "year": "2015",
-    "staff": "26",
-    "earnings": "",
-    "total_assets": "£1,355,316",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
-  },{
-    "year": "2014",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£1,730,246",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
-  },{
-    "year": "2013",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£4,834,341",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history" 
-  },{
-    "year": "2012",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£1,788,088",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history" 
-  },{
-    "year": "2011",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£2,286,241",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
- },{
-    "year": "2010",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£1,786,003",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
- },{
-    "year": "2009",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£985,820",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
- },{
-    "year": "2008",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£616,421",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
- },{
-    "year": "2007",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£250,910",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"  
- },{
-    "year": "2006",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "£108,113",
-    "revenues": "",
-    "source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
   }],
-  "solution_list": [{
+    "solution_list": [{
     "title": "Collabora Office",
     "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png",
     "website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
-    "created_year": "",
+    "created_year": "2013",
     "description": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects.",
-    },{
-    "title": "Collabora Online",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
-    "website_url": "https://www.collaboraoffice.com/collabora-online/",
-    "created_year": "",
-    "description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files."
-    },{
-    "title": "Collabora Office for Android & iOS",
-    "logo_url": "",
-    "website_url": "https://www.collaboraoffice.com/solutions/collabora-office-android-ios/",
-    "created_year": "",
-    "description":" It is the mobile office suite of Collabora Office and allows the editing edit of documents directly on phones and tablets, guarantees privacy and full control of data and documents."
-    },{
-    "title": "Collabora Online Development Edition",
-    "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2015/12/code-logo.png",
-    "website_url": "https://www.collaboraoffice.com/code/", 
-    "category_list": "Information Technology",
+    "category_list": ["Information Technology"],
     "similar_software_list": [{
-       "title": "LibreOffice",
+      "title": "LibreOffice",
        "similiar_software_url": "https://www.libreoffice.org/",
        "category": "Information Technology"
     },{
@@ -179,6 +86,58 @@
        "category": "Information Technology"
     }],
     "licence_list": ["MPL 2.0"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
+    "floss_software": "No",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Collabora",
+    "reference_list": [{
+      "title": "Adfinis",
+      "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2018/12/Adfinis_Blue-small.png",
+      "country": "CH",
+      "industry": "Information Technology"
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }],
+    "solution_list": [{
+    "title": "Collabora Online",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
+    "website_url": "https://www.collaboraoffice.com/collabora-online/",
+    "created_year": "2016",
+    "description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "LibreOffice",
+       "similiar_software_url": "https://www.libreoffice.org/",
+       "category": "Information Technology"
+    },{
+      "title": "Google Docs",
+      "similiar_software_url": "https://www.docs.google.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Apache OpenOffice",
+      "similiar_software_url": "https://www.openoffice.org/",
+      "category": "Information Technology"
+   },{
+       "title": "Microsoft Office Suite",
+       "similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
+       "category": "Information Technology"
+   },{
+       "title": "WPS Office",
+       "similiar_software_url": "https://www.wps.com/",
+       "category": "Information Technology"
+    }],
+    "licence_list": ["MPL 2.0"],
     "source_code_download": "https://github.com/CollaboraOnline/online.git",
     "source_code_profile": "",
     "commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
@@ -186,7 +145,75 @@
     "commercial_support_open_source_version": "Yes",
     "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Collabora",
-    "reference_list": [],
-    "success_case_list": []
+    "reference_list": [{
+      "title": "D-Wave Systems",
+      "logo_url": "https://www.dwavesys.com/media/j31olsrx/d-wave.svg",
+      "country": "CA",
+      "industry": "Information Technology"
+    },{
+      "title": "Surf Net",
+      "logo_url": "https://www.surf.nl/themes/surf/logo.svg",
+      "country": "NL",
+      "industry": "Information Technology"
+    },{
+      "title": "Technische Universität Berlin",
+      "logo_url": "https://www.tu.berlin/typo3conf/ext/tub_base_package/Resources/Public/Images/Logos/tu-berlin-logo.svg",
+      "country": "DE",
+      "industry": "Academia and Research"
+    },{
+      "title": "Evangelisch-Lutherische Kirche in Bayern",
+      "logo_url": "https://evangelisch.bayern-evangelisch.de/img/system/logo-elkb.svg",
+      "country": "DE",
+      "industry": "Association and NGOs"
+    },{
+      "title": "EKBO – VNC",
+      "logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2019/09/ekboLogo.png",
+      "country": "DE",
+      "industry": "Association and NGOs"
+    },{
+      "title": "CERN",
+      "logo_url": "https://home.cern/sites/default/files/logo/cern-logo.png",
+      "country": ["CH","FR"],
+      "industry": "Academia and Research"
+    },{
+      "title": "European Pirate Party",
+      "logo_url": "https://european-pirateparty.eu/wp-content/uploads/2017/10/cropped-Logo_European_Pirate_Party.svg_-2.png",
+      "country": "BE",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Dutch Ministry of Defence",
+      "logo_url": "https://english.defensie.nl/binaries/content/gallery/defence/channel-afbeeldingen/logos/logo-def-eng.svg",
+      "country": "NL",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "datamate",
+      "logo_url": "https://www.datamate.org/wp-content/uploads/2017/05/logo-100x100.png",
+      "country": "DE",
+      "industry": "Information Technology"
+    },{
+      "title": "South Eastern Health and Social Care Trust",
+      "logo_url": "https://setrust.hscni.net/wp-content/uploads/2019/10/set_logo_500x120.png",
+      "country": "GB",
+      "industry": "Health and Life Sciences"
+    },{
+      "title": "Arawa",
+      "logo_url": "https://www.arawa.fr/wp-content/uploads/2016/02/logo_web.png.webp",
+      "country": "FR",
+      "industry": "Information Technology"
+    },{
+      "title": "Australian Council for Trade Unions",
+      "logo_url": "https://www.actu.org.au/Content/images/australian-council-of-trade-unions_actu_logo.svg",
+      "country": "AU",
+      "industry": "Public Administration and Government"
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
   }]
-}
+    }
