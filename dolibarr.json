@@ -22,7 +22,7 @@
     "logo_url": "https://www.dolibarr.org/medias/image/www.dolibarr.org/images/dolibarr_logo_white.svg",
     "website_url": "https://www.dolibarr.org/",
     "created_year": "2002",
-    "description": "Dolibarr ERP and CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software, written in PHP, and designed for small and medium businesses (SMEs), foundations and freelancers. It can be installed and used as a standalone application, or online on a shared or dedicated server to use it from anywhere.  Working on all platforms (Windows, Mac, Linux, Mobile), Dolibarr system is also available as SaaS application on ready to use Cloud services.",
+    "description": "Dolibarr ERP and CRM is a software package created to manage a company's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software, written in PHP, and designed for small and medium businesses (SMEs), foundations and freelancers. It can be installed and used as a standalone application, or online on a shared or dedicated server to use it from anywhere.  Working on all platforms (Windows, Mac, Linux, Mobile), Dolibarr system is also available as SaaS application on ready to use Cloud services.",
     "category_list": ["Information Technology"],
     "similar_software_list": [{
       "title": "Odoo",
