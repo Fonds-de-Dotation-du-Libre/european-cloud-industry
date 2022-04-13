@@ -96,84 +96,64 @@
       "success_case_url": "https://tresorit.com/resources/customer-stories/data-security-koln-bonn-airport"
     }],
     "success_case_list": [{
-      "title": "Enabling secure collaboration: how Tresorit helped Viessmann regain control of their processes",
+      "title": "HR, uninterrupted: a start-up’s journey to success and safety",
+      "description": "A French payroll and HR management SaaS with clients all over EUrope, PayFit needed a maximum secured way to collect, save and manage the sensitive data of their customers while being able to work from anywhere. Tresorit and-to-end encryption, as well as its secured file sharing on its own cloud proved to be the most efficient solution for the Fintech company and their over 3000 customers.",
+      "image_url": "https://www.datocms-assets.com/50397/1640774984-payfitlogo.svg",
+      "industry": "Banking and Finance",
+      "customer": "PayFit",
+      "country": "FR",
+      "language": "EN",
+      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-management-for-payfit"
+    }],
+    "success_case_list": [{
+      "title": "Security services streamlined thanks to Tresorit's fully compliant collaboration tool",
+      "description": "The Hungarian High Tech Security Services needed a solution to ensure the secure storage and sharing of highly confidential data for their numerous clients that respond to critical incidents and crisis. Therefore, Tresorit appeared to be the most satisfying provider for White Hat IT Security thanks to its encrypted storage and file sharing with multi-factor authentication for highly sensitive data, TISAX and GDPR compliant.",
+      "image_url": "https://whitehat.eu/wp-content/uploads/2021/10/wh_IT_long.png",
+      "industry": "Information Technology",
+      "customer": "White Hat IT Security",
+      "country": "HU",
+      "language": "EN",
+      "success_case_url": "https://tresorit.com/resources/customer-stories/encrypted-cloud-collaboration-white-hat"
+    }],
+    "success_case_list": [{
+      "title": "100 years of women working for peace and equality",
       "description": "",
-      "image_url": "",
-      "industry": "Manufacturing",
-      "customer": "Viesmann",
+      "image_url": "https://i0.wp.com/www.wilpf.org/wp-content/uploads/2021/06/WILPF_Logo_Long_1.png?resize=2048%2C761&ssl=1",
+      "industry": "Association and NGOs",
+      "customer": "Women's International League for Peace and Freedom",
+      "country": "CH",
+      "language": "EN",
+      "success_case_url": "https://tresorit.com/resources/customer-stories/wilpf"
+    }],
+    "success_case_list": [{
+      "title": "Reliability and security: It doesn’t have to be an either-or choice when going serverless",
+      "description": "",
+      "image_url": "https://www.logivations.com/img_general/new-images/logivations_logo.svg",
+      "industry": "Logistics",
+      "customer": "Logivation",
       "country": "DE",
       "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-exchange-viessmann"
+      "success_case_url": "https://tresorit.com/resources/customer-stories/benefits-of-moving-to-the-cloud"
     }],
     "success_case_list": [{
-      "title": "",
+      "title": "A matter of life and death: the importance of secure data sharing in healthcare",
       "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/crib/crib-logo.04da6206.svg",
+      "industry": "Health and Life Sciences",
+      "customer": "Cardiovascular Research Institute Basel",
+      "country": "CH",
+      "language": "EN",
+      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-and-data-sharing-in-healthcare"
     }],
     "success_case_list": [{
-      "title": "",
+      "title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
       "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/raiffeisen-mitte/logo.70ddf5d7.jpg",
+      "industry": "Agriculture and FOod",
+      "customer": "Niedersachsen Mitte eG ",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-sharing-for-raiffeisen-mitte"
     }],
     "success_case_list": [{
       "title": "",
