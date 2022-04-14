@@ -10,7 +10,7 @@
     "city": "Luxembourg",
     "country": "LU",
     "phone_contact": "+35224788444",
-    "mail_contact": "info@circl.lu",
+    "mail_contact": ["info@circl.lu","info@misp-project.org"]
     "coordinate_list": ["49.605120083910705, 6.135144238635261"]
   },
   "subsidiary_location_list": [],
@@ -40,7 +40,7 @@
     "floss_software": "Yes",
     "commercial_support_open_source_version": "Yes",
     "commercial_support_available": "No",
-    "wikipedia_url": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malware_Information_Sharing_Platform",
     "reference_list": [],
     "success_case_list": []
   }]
