@@ -1,5 +1,5 @@
 {
-	"created": "16-06-2015",
+	"created": "14-04-2022",
 	"title": "OpenIO",
 	"type": "company",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
@@ -69,16 +69,16 @@
 		"similar_software_list": [{
 			"title": "Amazon simple Storage Service",
 			"similiar_software_url": "https://aws.amazon.com/s3/",
-			"category": "Information Technology",
-
+			"category": "Information Technology"
+		}, {
 			"title": "MinIO",
 			"similiar_software_url": "https://min.io/",
-			"category": "Information Technology",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Google Cloud Storage",
 			"similiar_software_url": "https://cloud.google.com/storage",
-			"category": "Information technology",
-
+			"category": "Information technology"
+		}, {
 			"title": "Veeame One",
 			"similiar_software_url": "https://www.veeam.com/virtualization-management-one-solution.html",
 			"category": "Information Technology"
@@ -92,46 +92,35 @@
 		"commercial_support_available": "",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
+			"title": "Relex",
+			"logo_url": "https://www.relexsolutions.com/fr-temp/wp-content/uploads/sites/6/2020/06/relex-logo-rgb.png",
+			"country": "FR",
+			"industry": "Commerce and Retail"
+		}, {
+			"title": "DailyMotion",
+			"logo_url": "data:image/png;base64,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",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "ICM",
+			"logo_url": "https://www.rhu-betpsy.fr/cache/media/images/logos/icm/s%2C200%2C214-bd733b.png",
+			"country": "FR",
+			"industry": "Health and Life Science"
+		}, {
+			"title": "Vade Secure",
+			"logo_url": "https://www.vadesecure.com/hubfs/raw_assets/public/Vade%20Secure%202021%20-%20Theme/images/branding/logo-white.svg",
+			"country": "FR",
+			"industry": "Information Technology"
 		}],
 		"success_case_list": [{
-			"title": "Customer success story: Relex",
-			"description": "Iikka Niinivaara explains the role of object storage and OpenIO in Relex's infrastructure. How it helped to improve data protection processes while saving time and money.",
-			"image_url": "",
-			"industry": "commerce and retail",
-			"customer": "Relex",
-			"country": "FR",
-			"language": "EN",
-			"success_case_url": "https://youtu.be/qM_82_g4XdY",
-
-			"title": "Customer Success story: DailyMotion",
-			"description": "Thomas Gerbier from Dailymotion explains why OpenIO Object Storage is now used as their primary storage solution.",
+			"title": "",
+			"description": "",
 			"image_url": "",
 			"industry": "",
-			"customer": "Dailymotion",
-			"country": "GB",
-			"language": "EN",
-			"success_case_url": "https://www.openio.io/resources/customer-success-story-dailymotion",
-
-			"title": "Customer sucess story: ICM",
-			"description": "Object storage for medical images at ICM (Brain & Spine Institute)",
-			"image_url": "",
-			"industry": "medical",
-			"customer": "ICM",
+			"customer": "",
 			"country": "",
-			"language": "EN",
-			"success_case_url": "https://www.openio.io/resources/customer-video-icm",
-
-			"title": "Customer Success Story: Vade Secure",
-			"description": "Frédéric Maussion from Vade Secure illustrates their adoption of OpenIO Objbect Storage, and the benefits of integrating it with native APIs.",
-			"image_url": "",
-			"industry": "Intelligence Artificielle",
-			"customer": "Vade secure",
-			"country": "FR",
-			"language": "EN",
-			"success_case_url": "https://www.openio.io/resources/customer-success-story-vade-secure"
+			"language": "",
+			"success_case_url": ""
 		}]
 	}]
+}
