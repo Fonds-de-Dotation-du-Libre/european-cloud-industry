@@ -50,6 +50,15 @@
     "commercial_support_available": "Yes",
     "wikipedia_url": "",
     "reference_list": [],
-    "success_case_list": []
+    "success_case_list": [{
+      "title": "Passbolt Case Study",
+      "description": "An early adopter of Passbolt, the German technology company bitExpert needed a secure way to hold all of their passwords (root passwords, services like PostgreSQL, MysSQL, and external use and the passwords provided by their clients as well).",
+      "image_url": "https://www.bitexpert.de/themes/bitexpert/images/base/bitExpert_logo.svg",
+      "industry": "Information Technology",
+      "customer": "bitExpert",
+      "country": "DE",
+      "language": "EN",
+    }]
+      "success_case_url": "https://blog.passbolt.com/passbolt-case-study-96b6d0d689c4"
   }]
 }
