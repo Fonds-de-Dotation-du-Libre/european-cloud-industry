@@ -1,0 +1,197 @@
+{
+	"created": "06-04-2022",
+	"title": "Enyx SA",
+	"type": "corporation",
+	"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+	"location": {
+		"title": "Enyx SA",
+		"address": "8 Rue Greneta",
+		"postal_code": "75003",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "01 45 23 13 49",
+		"mail_contact": "",
+		"coordinate_list": [48.866219799580506, 2.352633969319226]
+	},
+	"subsidiary_location_list": ["US", "GB", "HK"],
+	"website_url": "https://www.enyx.com/",
+	"founded_year": "2011",
+	"kpi_list": [{
+		"year": "2021",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "",
+		"revenues": "",
+		"source_url": ""
+	}],
+	"solution_list": [{
+		"title": "nxLink",
+		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+		"website_url": "https://www.enyx.com/nxlink/",
+		"created_year": "",
+		"description": "nxLink is a suite of next-generation network products designed to address performance problems such as latency, link management and bandwidth optimization. Leveraging FPGA technology, nxLink makes networks smarter by performing high level processing while sustaining wire-speed and offering nanosecond scale latency.",
+		"category_list": ["Telcommunication"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://github.com/enyx-opensource",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.enyx.com/support/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}]
+	}, {
+		"title": "nxAccess",
+		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+		"website_url": "https://www.enyx.com/nxaccess/",
+		"created_year": "",
+		"description": "nxAccess is a trading engine with an FPGA algo sandbox allowing users to preload orders in hardware, receive market data then trigger & update those orders before sending to the trading venue – with the speed and performance of hardware assisted by the flexibility of software.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "SolidWorks",
+			"similiar_software_url": "https://www.solidworks.com/fr",
+			"category": "Information Technology"
+		}, {
+			"title": "Fusion 360",
+			"similiar_software_url": "https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription",
+			"category": "Information Technology"
+		}, {
+			"title": "OnShape",
+			"similiar_software_url": "https://www.onshape.com/en/",
+			"category": "Information Technology"
+		}]
+	}, {
+		"title": "nxFeed",
+		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+		"website_url": "https://www.enyx.com/nxfeed/",
+		"created_year": "",
+		"description": "nxFeed is a feed handler which streamlines market data application development by processing data feeds on FPGA and making them available to applications via a simple, normalized API.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://github.com/enyx-opensource",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.enyx.com/support/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}]
+	}, {
+		"title": "nxFramework",
+		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+		"website_url": "https://www.enyx.com/nxframework/",
+		"created_year": "",
+		"description": "The Enyx Development Framework (nxFramework) is a hardware and software development environment designed to efficiently build and maintain ultra-low latency FPGA applications for the financial industry.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://github.com/enyx-opensource",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.enyx.com/support/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}]
+	}, {
+		"title": "Enyx IP Cores for FPGA developers",
+		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
+		"website_url": "https://www.enyx.com/ip-cores/",
+		"created_year": "",
+		"description": "",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://github.com/enyx-opensource",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.enyx.com/support/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
