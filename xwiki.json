@@ -28,7 +28,7 @@
     "staff": "13",
     "earnings": "-18 074",
     "total_assets": "2 790 687",
-    "revenues": "1 559 579	",
+    "revenues": "1 559 579",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2018",
@@ -80,34 +80,94 @@
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/XWiki",
-    "reference_list": [],
+    "reference_list": [{
+      "title": "Amazon",
+      "logo_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg",
+      "country": "FR",
+      "industry": "Online retail"
+    },{
+      "title": "Easy Vista",
+      "logo_url": "https://xwiki.com/fr/download/societe/references/easyvista/easyvista.jpg",
+      "country": "FR",
+      "industry": "IT services"
+    },{
+      "title": "Open Source Initiative",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/300px-Opensource.svg.png",
+      "country": "US",
+      "industry": "Software"
+    }],
     "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Successful xwiki implementation",
+      "description": "As collaborative needs were becoming more and more numerous, the integration of a wiki was considered. Indeed, Naval Group wanted to use a wiki to capitalize and share knowledge. A wiki farm (named WIKEO) was set up by the IT department and integrated into the collaborative platform during 2011.",
+      "image_url": "https://xwiki.com/fr/download/societe/references/naval-group/naval-group.jpg",
+      "industry": "Defence & Energy",
+      "customer": "Naval Group",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/naval-group"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Successful xwiki implementation",
+      "description": "The merger between Numericable and SFR (now SFR-Altice) at the end of 2014 resulted in more than 12,000 employees being brought together within a single group. One of the challenges in this type of merger is to provide a common and simultaneous level of information to all employees of the group, regardless of the company they belong to. The selection of the most suitable solution for this project was made in September 2014 based on three major axes: autonomy, cost and speed of execution. XWiki adapted the standard XWiki Enterprise platform to the colors of the new group. The engine and its components were installed on SFR-Altice's internal servers. A cluster was also set up in order to face the potentially important load of visits on the intranet.",
+      "image_url": "https://xwiki.com/fr/download/societe/references/sfr-altice/sfr-altice.png",
+      "industry": "Telecom",
+      "customer": "SFR ALTICE",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/sfr-altice"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Successful xwiki implementation",
+      "description": "The EasyVista Research and Development team was looking for a tool to implement internally to avoid email exchanges. The need to centralize the information in a computer tool was then felt. To meet the various needs of EasyVista, 3 wikis were set up. A development wiki serving as a collaboration tool for the R&D teams, a wiki for the management of the CMC and a wiki for the online version of the product documentation",
+      "image_url": "https://xwiki.com/fr/download/societe/references/easyvista/easyvista.jpg",
+      "industry": "IT services",
+      "customer": "Easy Vista",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/easyvista"
+    },{
+      "title": "Successful xwiki implementation",
+      "description": "Amazon selected XWiki after testing and evaluating other wiki solutions found on the wikimatrix.org website including TWiki and Confluence. Amazon consulted the XWiki SAS team for advice and architectural expertise in building custom components in XWiki. Amazon found XWiki's source code to be well organized and of very high quality. Its modular structure allowed Amazon engineers to build custom solutions such as integrating the XWiki platform with Amazon Web Services (AWS) like EC2, S3 and RDS.",
+      "image_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg",
+      "industry": "Online retail",
+      "customer": "Amazon",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg"
+    },{
+      "title": "Successful xwiki implementation",
+      "description": "The FOPH team wanted a new site intended primarily for its members and institutional partners, integrating a new resource center. For this one, formerly based on IBM Lotus Notes, the interest was to integrate all the existing documents in XWiki. Thanks to an efficient rights system and a pleasant visual, collaboration on these documents became easy. Moreover, thanks to the power of XWiki and an advanced search functionality, a user can easily search for private or public documents present in the site's resource center.",
+      "image_url": "https://xwiki.com/fr/download/societe/references/foph/foph.jpg",
+      "industry": "Public sector",
+      "customer": "Fédération nationale des Offices Publics de l’Habitat",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/foph"
+    },{
+      "title": "Successful xwiki implementation",
+      "description": "Meetic uses XWiki as an internal knowledge base for its customer service employees. Meetic chose XWiki to easily push information to its 150+ customer service employees, who are spread across Europe. Using XWiki, internal contributors can publish articles about new features implemented for Meetic's platform, knowledge base articles documenting common use cases as well as warnings when a specific service is not working as expected.",
+      "image_url": "https://xwiki.com/fr/download/societe/references/meetic/meetic.jpg",
+      "industry": "Social Media",
+      "customer": "Meetic",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/meetic"
+    },{
+      "title": "Successful xwiki implementation",
+      "description": "XWiki answers a very strong need for mutualization on the part of the FNAB, insofar as the latter is an independent entity and has territorial structures scattered throughout France. FNAB decided to use a collaborative space such as XWiki to archive, manage and make available the knowledge of each knowledge of each collaborator, but also the internal and external processes of the internal and external processes of the federation. This desire follows the difficulty that the latest collaborators encountered This desire follows the difficulty previously encountered by the latest collaborators when they tried to obtain this knowledge, which was essential to their successful integration into the federation.",
+      "image_url": "https://xwiki.com/fr/download/societe/references/fnab/fnab.jpg",
+      "industry": "Public sector",
+      "customer": "Fédération Nationale de l’Agriculture Biologique",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/fnab"
+    },{
+      "title": "Successful xwiki implementation",
+      "description": "Le Centre national de la fonction publique territorial manages the training of all the agents of the territorial public service. As part of its policy of putting resources online, CNFPT has launched the WikiTerritorial, a site dedicated to putting knowledge and news on territorial topics online. ",
+      "image_url": "https://xwiki.com/fr/download/societe/references/cnfpt/cnfpt.jpg",
+      "industry": "Public sector",
+      "customer": "Centre national de la fonction publique territoriale",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://xwiki.com/fr/societe/references/cnfpt"
     }]
   },{
     "title": "Cryptpad",
