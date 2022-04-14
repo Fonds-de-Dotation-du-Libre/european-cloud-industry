@@ -88,8 +88,8 @@
 		"source_code_profile": "https://www.openio.io/",
 		"commercial_support_url": "",
 		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "no",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
 		"reference_list": [{
 			"title": "Relex",
