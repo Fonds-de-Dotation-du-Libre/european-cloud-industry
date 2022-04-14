@@ -1,7 +1,7 @@
 {
-	"created": "16-05-2018",
+	"created": "07-04-2022",
 	"title": "Pydio",
-	"type": "company",
+	"type": "corporation",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"location": {
 		"title": "Pydio Cells",
@@ -60,136 +60,365 @@
 		"source_url": ""
 	}],
 	"solution_list": [{
-				"title": "Pydio for Manufacturing",
-				"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-				"website_url": "https://pydio.com/en/solutions/manufacturing",
-				"created_year": "",
-				"description": "Manufacturers rely on a huge number of processes, documentation, and technical notes. Embed Pydio Cells as a cornerstone inside your existing workflow to streamline and securitize document sharing and collaboration. ",
-				"category_list": [],
-				"similar_software_list": [{
-							"title": "Imagen",
-							"similiar_software_url": "https://imagen.io/about/",
-							"category": "workplace management",
+		"title": "Pydio for Manufacturing",
+		"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+		"website_url": "https://pydio.com/en/solutions/manufacturing",
+		"created_year": "",
+		"description": "Manufacturers rely on a huge number of processes, documentation, and technical notes. Embed Pydio Cells as a cornerstone inside your existing workflow to streamline and securitize document sharing and collaboration. ",
+		"category_list": ["Manufacturing"],
+		"similar_software_list": [{
+			"title": "Imagen",
+			"similiar_software_url": "https://imagen.io/about/",
+			"category": "workplace management"
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "no",
+	"commercial_support_available": "no",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+}]	
+	},{
+	"title": "Pydio for Architecture & Construction Industry",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-architecture-construction-industry",
+	"created_year": "",
+	"description": "Use Pydio to upload, share and collaborate on large files. In your business, you need to exchange and collaborate on huge CAD files and manage piles of documents (field reports, specifications, RFIs, RFPs, etc..).",
+	"category_list": ["Construction"],
+	"similar_software_list": [{
+		"title": "wimi",
+		"similiar_software_url ": "https: //www.wimi-teamwork.com/",
+		"category": "Construction",
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{
+	"title": "Pydio for Healthcare",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-hospitals-and-healthcare-institutions",
+	"created_year": "",
+	"description": "Use Pydio as the cornerstone for file-sharing and collaboration in your existing workflow. Healthcare organizations need to centralize, secure, and manage patient data (test results, radiography images, lab protocols, etc…)",
+	"category_list": ["Health and Life Sciences"],
+	"similar_software_list": [{		
+		"title": "oneHub",
+		"similiar_software_url": "https://www.onehub.com/",
+		"category": "Information Technology"
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{
+	"title": "Pydio for Legal Services",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-legal-services",
+	"created_year": "",
+	"description": "Pydio Cells provides streamlined, secure, self-hosted document sharing and collaboration adapted for the needs of the legal services sector, so you don’t have to choose between teamwork and security.",
+	"category_list": ["Information Technology"],
+	"similar_software_list": [{
+		"title": "moveit",
+		"similiar_software_url": "https://www.ipswitch.com/moveit",
+		"category": "Information Technology"
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{
+	"title": "Pydio for Financial Services",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-financial-services",
+	"created_year": "",
+	"description": "Pydio Cells lets you build your own secure document repository for confidential data in hours. Pydio is built for security from the ground up and perfectly balances granular security and admin capabilities with end-user ease-of-use.",
+	"category_list": ["Banking and Finance],
+	"similar_software_list": [{
+		"title": "globalscape EFT",
+		"similiar_software_url": "https://www.globalscape.com/eft",
+		"category": "Information Technology"
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{		  
+	"title": "Pydio for Government & Public Sector",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-government-public-sector",
+	"created_year": "",
+	"description": "Use Pydio as your cross-department and inter-agency file-sharing platform. You are a government agency and you need to collaborate and share internally but also with other departments and agencies, partners, subcontractors, stakeholders, and the public.",
+	"category_list": ["Public Administration and government"],
+	"similar_software_list": [{
+		"title": "FileInvite",
+		"similiar_software_url": "https://www.fileinvite.com/",
+		"category": ""
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{
+	"title": "Pydio for Media & Communication agencies",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-media-communication-agencies",
+	"created_year": "",
+	"description": "Share documents and collaborate with your teams, clients and subcontractors using your own branded platform. Your business is project-oriented. ",
+	"category_list": ["Media and Communication"],
+	"similar_software_list": [{
+		"title": "OnBoard",
+		"similiar_software_url": "https://www.onboardmeetings.com/",
+		"category": ""
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{
+		"title": "Pydio for Education & Academic Institutions",
+		"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+		"website_url": "https://pydio.com/en/solutions/pydio-education-and-academic-institutions",
+		"created_year": "",
+		"description": "Pydio provides a secured file sharing solution for sensitive staff and researcher data and an open, public cloud solution for students day-to-day collaboration.",
+		"category_list": ["Academia and research"],
+		"similar_software_list": [{
+			"title": "MangoApps",
+			"similiar_software_url": "https://www.mangoapps.com/",
+			"category": ""
+		}]
+		"licence_list": ["GNU AGPLv3.0"],
+		"source_code_download": "https://github.com/pydio",
+		"source_code_profile": "https://www.openhub.net/p/pydio",
+		"commercial_support_url": "https://pydio.com/en/pricing/contact",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+			}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+}]
+},{
+	"title": "Pydio for Consulting Firms",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/consulting",
+	"created_year": "",
+	"description": "Pydio Cells helps you create, collaborate and share documents and files with your clients seamlessly and securely while keeping full control and ownership of your files.",
+	"category_list": ["Consulting and Training"],
+	"similar_software_list": [{
+		"title": "GoAnywhereMFT",
+		"similiar_software_url": "https://www.goanywhere.com/",
+		"category": ""
+	}]
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": "yes",
+	"commercial_support_open_source_version": "",
+	"commercial_support_available": "",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+}]
+},{
+	"title": "Pydio for Retail & Consumer Goods",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-retail-consumer-goods",
+	"created_year": "",
+	"description": "Streamline your document sharing and collaboration workflows across all channels. Make it easy for central headquarters to collaborate with distribution, local shops, suppliers, and subcontractors. Instantly share files across all locations to smooth out workflows with your sales points.",
+	"category_list": ["Commerce and Retail],
+	"similar_software_list": [{
+		"title": "FileCloud",
+		"similiar_software_url": "https://www.filecloud.com/",
+		"category": ""
+		}],
 
-							"title": "Pydio for Architecture & Construction Industry",
-							"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-							"website_url": "https://pydio.com/en/solutions/pydio-architecture-construction-industry",
-							"created_year": "",
-							"description": "Use Pydio to upload, share and collaborate on large files. In your business, you need to exchange and collaborate on huge CAD files and manage piles of documents (field reports, specifications, RFIs, RFPs, etc..).",
-							"category_list": [],
-							"similar_software_list": [{
-										"title": "wimi",
-										"similiar_software_url ": "https: //www.wimi-teamwork.com/",
-										"category": "workplace management",
-
-										"title": "Pydio for Healthcare",
-										"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-										"website_url": "https://pydio.com/en/solutions/pydio-hospitals-and-healthcare-institutions",
-										"created_year": "",
-										"description": "Use Pydio as the cornerstone for file-sharing and collaboration in your existing workflow. Healthcare organizations need to centralize, secure, and manage patient data (test results, radiography images, lab protocols, etc…)",
-										"category_list": [],
-										"similar_software_list": [{
-													"title": "oneHub",
-													"similiar_software_url": "https://www.onehub.com/",
-													"category": "",
-
-													"title": "Pydio for Legal Services",
-													"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-													"website_url": "https://pydio.com/en/solutions/pydio-legal-services",
-													"created_year": "",
-													"description": "Pydio Cells provides streamlined, secure, self-hosted document sharing and collaboration adapted for the needs of the legal services sector, so you don’t have to choose between teamwork and security.",
-													"category_list": [],
-													"similar_software_list": [{
-																"title": "moveit",
-																"similiar_software_url": "https://www.ipswitch.com/moveit",
-																"category": "",
-
-																"title": "Pydio for Financial Services",
-																"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-																"website_url": "https://pydio.com/en/solutions/pydio-financial-services",
-																"created_year": "",
-																"description": "Pydio Cells lets you build your own secure document repository for confidential data in hours. Pydio is built for security from the ground up and perfectly balances granular security and admin capabilities with end-user ease-of-use.",
-																"category_list": [],
-																"similar_software_list": [{
-																			"title": "globalscape EFT",
-																			"similiar_software_url": "https://www.globalscape.com/eft",
-																			"category": "",
-
-																			"title": "Pydio for Government & Public Sector",
-																			"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-																			"website_url": "https://pydio.com/en/solutions/pydio-government-public-sector",
-																			"created_year": "",
-																			"description": "Use Pydio as your cross-department and inter-agency file-sharing platform. You are a government agency and you need to collaborate and share internally but also with other departments and agencies, partners, subcontractors, stakeholders, and the public.",
-																			"category_list": [],
-																			"similar_software_list": [{
-																						"title": "FileInvite",
-																						"similiar_software_url": "https://www.fileinvite.com/",
-																						"category": "",
-
-																						"title": "Pydio for Media & Communication agencies",
-																						"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-																						"website_url": "https://pydio.com/en/solutions/pydio-media-communication-agencies",
-																						"created_year": "",
-																						"description": "Share documents and collaborate with your teams, clients and subcontractors using your own branded platform. Your business is project-oriented. ",
-																						"category_list": [],
-																						"similar_software_list": [{
-																									"title": "OnBoard",
-																									"similiar_software_url": "https://www.onboardmeetings.com/",
-																									"category": "",
-
-																									"title": "Pydio for Education & Academic Institutions",
-																									"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-																									"website_url": "https://pydio.com/en/solutions/pydio-education-and-academic-institutions",
-																									"created_year": "",
-																									"description": "Pydio provides a secured file sharing solution for sensitive staff and researcher data and an open, public cloud solution for students day-to-day collaboration.",
-																									"category_list": [],
-																									"similar_software_list": [{
-																												"title": "MangoApps",
-																												"similiar_software_url": "https://www.mangoapps.com/",
-																												"category": "",
-																												"title": "Pydio for Consulting Firms",
-																												"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-																												"website_url": "https://pydio.com/en/solutions/consulting",
-																												"created_year": "",
-																												"description": "Pydio Cells helps you create, collaborate and share documents and files with your clients seamlessly and securely while keeping full control and ownership of your files.",
-																												"category_list": [],
-																												"similar_software_list": [{
-																													"title": "GoAnywhereMFT",
-																													"similiar_software_url": "https://www.goanywhere.com/",
-																													"category": "",
-																													"title": "Pydio for Retail & Consumer Goods",
-																													"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-																													"website_url": "https://pydio.com/en/solutions/pydio-retail-consumer-goods",
-																													"created_year": "",
-																													"description": "Streamline your document sharing and collaboration workflows across all channels. Make it easy for central headquarters to collaborate with distribution, local shops, suppliers, and subcontractors. Instantly share files across all locations to smooth out workflows with your sales points.",
-																													"category_list": [],
-																													"similar_software_list": [{
-																														"title": "FileCloud",
-																														"similiar_software_url": "https://www.filecloud.com/",
-																														"category": ""
-																													}],
-																													"licence_list": ["GNU AGPLv3.0"],
-																													"source_code_download": "https://github.com/pydio",
-																													"source_code_profile": "https://www.openhub.net/p/pydio",
-																													"commercial_support_url": "https://pydio.com/en/pricing/contact",
-																													"floss_software": "yes",
-																													"commercial_support_open_source_version": "",
-																													"commercial_support_available": "",
-																													"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
-																													"reference_list": [{
-																														"title": "",
-																														"logo_url": "",
-																														"country": "",
-																														"industry": ""
-																													}],
-																													"success_case_list": [{
-																														"title": "ONLYOFFICE announces partnership and integration with Pydio",
-																														"description": "ONLYOFFICE has officially entered a technical partnership with Pydio, an open-source sharing system for private infrastructures. Now Pydio can accommodate ONLYOFFICE editors for collaborating on documents, sheets and presentations, using the newly released connector/plugin. Read this post to learn what is Pydio and why this integration is important.",
-																														"image_url": "https://www.onlyoffice.com/blog/wp-content/uploads/2018/12/onlyoffice_pydio_integration.png",
-																														"industry": "",
-																														"customer": "ONLYOFFICE",
-																														"country": "",
-																														"language": "EN",
-																														"success_case_url": "https://www.onlyoffice.com/blog/2018/12/onlyoffice-announces-partnership-and-integration-with-pydio/"
-																													}]
-																												}]																		}
+"licence_list": ["GNU AGPLv3.0"],
+"source_code_download": "https://github.com/pydio",
+"source_code_profile": "https://www.openhub.net/p/pydio",
+"commercial_support_url": "https://pydio.com/en/pricing/contact",
+"floss_software": "yes",
+"commercial_support_open_source_version": "",
+"commercial_support_available": "",
+"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+"reference_list": [{
+	"title": "",
+	"logo_url": "",
+	"country": "",
+	"industry": ""
+	}],
+"success_case_list": [{
+	"title": "",
+	"description": "",
+	"image_url": "",
+	"industry": "",
+	"customer": "",
+	"country": "",
+	"language": "",
+	"success_case_url": ""
+}]
+}]
+}
