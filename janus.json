@@ -1,5 +1,5 @@
 {
-	"created": "2009",
+	"created": "07-04-2022",
 	"title": "Meetecho",
 	"type": "company",
 	"logo_url": "https://www.meetecho.com/en/img/meetecho.png",
@@ -21,7 +21,7 @@
 		"staff": "8",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "915,400.00€",
+		"revenues": "91540000",
 		"source_url": "https://rocketreach.co/meetecho-s-r-l-profile_b5dfb935f42e48ea"
 	}, {
 		"year": "2020",
@@ -65,31 +65,31 @@
 		"website_url": "https://janus.conf.meetecho.com/",
 		"created_year": "2014",
 		"description": "Janus is a WebRTC Server developed by Meetecho conceived to be a general purpose one. As such, it doesn't provide any functionality per se other than implementing the means to set up a WebRTC media communication with a browser, exchanging JSON messages with it, and relaying RTP/RTCP and messages between browsers and the server-side application logic they're attached to",
-		"category_list": [],
+		"category_list": ["Information Technology"],
 		"similar_software_list": [{
 			"title": "NetSuite",
 			"similiar_software_url": "https://www.netsuite.com/portal/home.shtml",
-			"category": "Project based ERP",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Sage Intaact",
 			"similiar_software_url": "https://www.sageintacct.com/",
-			"category": "Project based ERP",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Acumatica",
 			"similiar_software_url": "https://www.acumatica.com/",
-			"category": "Project based ERP",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Deltek Vantagepoint",
 			"similiar_software_url": "https://www.deltek.com/en-gb/products/vantagepoint",
-			"category": "Project based ERP"
+			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU General Public License Version 3"],
 		"source_code_download": "https://github.com/meetecho/janus-gateway",
 		"source_code_profile": "https://www.openhub.net/p/janus-gateway",
 		"commercial_support_url": "https://janus.conf.meetecho.com/support.html",
 		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "https://wiki.opensourceecology.org/wiki/Janus",
 		"reference_list": [{
 			"title": "",
