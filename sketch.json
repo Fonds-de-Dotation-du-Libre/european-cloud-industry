@@ -51,6 +51,32 @@
     "commercial_support_available": "Yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sketch_(software)",
     "reference_list": [],
-    "success_case_list": ["https://www.sketch.com/blog/made-with-sketch/"]
-  }]
+    "success_case_list": [{
+      "title": "Universal language: how Yannick Lung uses Sketch for his intricate icon designs ",
+      "description": "A German icon designer, Yannick Lung uses Sketch from start to finish to design new icons thanks to its simplicity, and flexibility to use.",
+      "image_url": "https://yannicklung.com/files/images/me.svg",
+      "industry": "Media and Entertainment",
+      "customer": "Yannick Lung",
+      "country": "DE",
+      "language": "EN",
+      "success_case_url": "https://www.sketch.com/blog/2021/09/30/how-yannick-lung-uses-sketch-for-his-intricate-icon-designs/"
+    },{
+      "title": "I, Robot: How Mark Jardine of Tapbots designs award-winning apps with Sketch",
+      "description": "For Mark Jardine, UI Designer at Tapbots, Sketch is the perfect solution for his designs, thanks to its intuitivity to use and all the possibility it allows in terms of creativity.",
+      "image_url": "https://tapbots.com/img/header_bg.jpg",
+      "industry": "Information Technology",
+      "customer": "Tapbots",
+      "country": "US",
+      "language": "EN",
+      "success_case_url": "https://www.sketch.com/blog/2021/04/06/how-mark-jardine-of-tapbots-designs-award-winning-apps-with-sketch/"
+    },{
+      "title": "Keeping it real: How Nikola Lazarevic creates photorealistic objects in Sketch",
+      "description": "Nikola Lazarevic is a visual designer who specializes in photorealistic images, recreating everyday objects digitally using Sketch, over the more common Photoshop, because of its vector tool that is easy to control and allows to switch between vector. The ability to export his finish work rapidly is also one of the important points for Nikola Lazarevic.",
+      "image_url": "",
+      "industry": ["Information Technology","Media and Entertainment"]
+      "customer": "Simplicity LLC",
+      "country": "RS",
+      "language": "EN",
+      "success_case_url": "https://www.sketch.com/blog/2020/12/21/keeping-it-real-nikola-lazarevic-on-photorealistic-design-in-sketch/"
+    }]
 }
