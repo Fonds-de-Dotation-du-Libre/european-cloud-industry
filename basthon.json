@@ -18,20 +18,17 @@
   "founded_year": "2020",
   "kpi_list": [],
   "solution_list": [{
-    "title": "Basthon Notebook",
-    "logo_url": "",
-    "website_url": "https://notebook.basthon.fr/",
-    "created_year": "2020",
-    "description": "Basthon is a tool used to learn how to program  mostly Python code, but also Javascript, SQL, OCaml, Bash",
-    "category_list": ["Information Technology"]
-  },{
     "title": "Basthon Console",
     "logo_url": "",
     "website_url": "https://console.basthon.fr/",
     "created_year": "2020",
     "description": "Basthon is a console-like tool used to learn how to program  mostly Python code, but also Javascript, SQL, OCaml, Bash",
     "category_list": ["Information Technology"],
-    "similar_software_list": [],
+    "similar_software_list": [{
+      "title": "CodeSkulptor 3",
+      "similiar_software_url": "https://py3.codeskulptor.org/",
+      "category": "Information Technology"
+    }],
     "licence_list": ["GNU GPL v3.0"],
     "source_code_download": "https://framagit.org/basthon/basthon-kernel",
     "source_code_profile": "No",
