@@ -1,5 +1,5 @@
 {
-	"created": "09-06-2000",
+	"created": "07-04-2022",
 	"title": "Bird Internet Routine daemon",
 	"type": "University project",
 	"logo_url": "http://www.bgpexpert.com/images/bird.png",
@@ -69,16 +69,16 @@
 		"similar_software_list": [{
 			"title": "FRRouting",
 			"similiar_software_url": "https://frrouting.org/",
-			"category": "Information Technology ",
-
+			"category": "Information Technology "
+		},{
 			"title": "Quagga",
 			"similiar_software_url": "https://www.quagga.net/",
-			"category": "Information Technology",
-
+			"category": "Information Technology"
+		},{
 			"title": "FreeRouter",
 			"similiar_software_url": "https://freerouting.org/",
-			"category": "Information Technology",
-
+			"category": "Information Technology"
+		},{
 			"title": "Xorp",
 			"similiar_software_url": "http://xorp.com/",
 			"category": "Information Technology"
@@ -88,8 +88,8 @@
 		"source_code_profile": "https://gitlab.nic.cz/labs/bird",
 		"commercial_support_url": "https://bird.network.cz/?support",
 		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Bird_Internet_routing_daemon",
 		"reference_list": [{
 			"title": "",
