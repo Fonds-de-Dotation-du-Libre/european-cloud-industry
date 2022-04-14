@@ -1,5 +1,5 @@
 {
-	"created": "20-12-2019",
+	"created": "07-04-2022",
 	"title": "Crowdsec SAS",
 	"type": "Company",
 	"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
@@ -15,7 +15,7 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://crowdsec.net/",
-	"founded_year": "",
+	"founded_year": "2019",
 	"kpi_list": [{
 		"year": "2021",
 		"staff": "",
@@ -65,28 +65,28 @@
 		"website_url": "https://crowdsec.net/",
 		"created_year": "2019",
 		"description": "CrowdSec is a free, open-source and collaborative IPS. Analyze behaviors, respond to attacks & share signals across the community",
-		"category_list": [],
+		"category_list": ["Information Technology"],
 		"similar_software_list": [{
 			"title": "Check Point Next Generation Firewalls",
 			"similiar_software_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
-			"category": "",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Sumo logic",
 			"similiar_software_url": "https://www.sumologic.com/",
-			"category": "",
-
+			"category": "Information Technology"
+		}, {
 			"title": "PfSense",
 			"similiar_software_url": "https://www.pfsense.org/",
-			"category": ""
+			"category": "Information Technology"
 		}],
 		"licence_list": ["MIT License"],
 		"source_code_download": "https://github.com/crowdsecurity/crowdsec",
 		"source_code_profile": "",
 		"commercial_support_url": "https://crowdsec.net/contact-crowdsec/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.everybodywiki.com/CrowdSec",
 		"reference_list": [{
 			"title": "",
 			"logo_url": "",
