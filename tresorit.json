@@ -1,158 +1,153 @@
 {
-  "created": "2022-03-30",
-  "title": "Tresorit",
-  "type": "Corporation",
-  "logo_url": "https://tresorit.com/blog/content/images/2020/12/tresorit-logo-400x400px-2.png",
-  "location": {
-    "title": "Tresorit AG",
-    "address": "Franklinstrasse 27",
-    "postal_code": "8050",
-    "city": "Zurich",
-    "country": "CH",
-    "phone_contact": "",
-    "mail_contact": "",
-    "coordinate_list": ["47.409659765790934, 8.543620563704717"]
-  },
-  "subsidiary_location_list": ["HU","DE"],
-  "website_url": "https://tresorit.com/fr",
-  "founded_year": "2012",
-  "kpi_list": [],
-  "solution_list": [{
-    "title": "Tresorit",
-    "logo_url": "https://tresorit.com/blog/assets/images/header/logo.svg?v=9bb52a92d5",
-    "website_url": "https://tresorit.com/",
-    "created_year": "2012",
-    "description": "Tresorit is an online cloud storage that uses end-to-end encryption to guarantee the safety of all the data you share and store.",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "Nextcloud",
-      "similiar_software_url": "https://nextcloud.com/",
-      "category": "Information Technology"
-      },{
-      "title": "Dropbox",
-      "similiar_software_url": "https://www.dropbox.com/",
-      "category": "Information Technology"
-      },{
-      "title": "pCloud",
-      "similiar_software_url": "https://www.pcloud.com/fr/eu?ref=8097",
-      "category": "Information Technology"
-      },{
-      "title": "Cryptomator",
-      "similiar_software_url": "https://cryptomator.org/",
-      "category": "Information Technology"
-    }],
-    "licence_list": ["Proprietary"],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "https://tresorit.com/fr/pricing",
-    "floss_software": "No",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tresorit",
-    "reference_list": [{
-      "title": "Deutsche Telekom IT Solutions",
-      "logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/43382d3e1fc299a39257fd1c36dd5d03/dc167/deutsche-telekom.webp",
-      "country": "DE",
-      "industry": "Telecommunication"
-    },{
-      "title": "Marks and Clerk",
-      "logo_url": "https://www.marks-clerk.com/media/lrtlzzjs/marks-clerk-logo-white.svg",
-      "country": "GB",
-      "industry": "Consulting and Training"
-    },{
-      "title": "Deutsches Rotes Kreuz",
-      "logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/ef8d3add64363d99ef31f9bcd46a7f91/german-red-cross.svg",
-      "country": "DE",
-      "industry": "Association and NGOs"
-    },{
-      "title": "D-Orbit",
-      "logo_url": "https://static.wixstatic.com/media/64a0e4_fb570b3572674acbb304f06d2918b058~mv2_d_1775_1204_s_2.png/v1/crop/x_10,y_0,w_1765,h_1121/fill/w_170,h_108,al_c,usm_0.66_1.00_0.01,enc_auto/Negativo-RGB-transparent.png",
-      "country": "IT",
-      "industry": "Aviation and Aerospace"
-    },{
-      "title": "Public International Law & Policy Group",
-      "logo_url": "https://images.squarespace-cdn.com/content/v1/5900b58e1b631bffa367167e/1564063874712-S62R7II9Q26QJTZLVJSB/2018-08-17.jpg?format=1500w",
-      "country": "US",
-      "industry": "Consulting and Training"
-    },{
-      "title": "Icon Films",
-      "logo_url": "https://iconfilms.co.uk/wp-content/uploads/2021/11/social.png",
-      "country": "GB",
-      "industry": "Media and Entertainment"
-    },{
-      "title": "Riot Studios",
-      "logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/dec2562f5501b955a15ff5759dd3ba53/riot-studios.svg",
-      "country": "US",
-      "industry": "Media and Entertainment",
-    }],
-    "success_case_list": [{
-      "title": "Enabling cloud integration: how Tresorit helped to digitize KB Flughafen’s workforce",
-      "description": "Airports handle huge amounts of personal data from passengers, airlines, suppliers and cargo shippers every single day. This makes data security a huge concern to keep information (around operations, transactions and passengers) secure.to keep information (around operations, transactions and passengers) secure.",
-      "image_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/61601453732c349963f73eda99f9f758/dc167/flughafen.webp",
-      "industry": "Aviation and Aerospace",
-      "customer": "Köln Bonn Flughafen",
-      "country": "DE",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/data-security-koln-bonn-airport"
-    }],
-    "success_case_list": [{
-      "title": "HR, uninterrupted: a start-up’s journey to success and safety",
-      "description": "A French payroll and HR management SaaS with clients all over EUrope, PayFit needed a maximum secured way to collect, save and manage the sensitive data of their customers while being able to work from anywhere. Tresorit and-to-end encryption, as well as its secured file sharing on its own cloud proved to be the most efficient solution for the Fintech company and their over 3000 customers.",
-      "image_url": "https://www.datocms-assets.com/50397/1640774984-payfitlogo.svg",
-      "industry": "Banking and Finance",
-      "customer": "PayFit",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-management-for-payfit"
-    }],
-    "success_case_list": [{
-      "title": "Security services streamlined thanks to Tresorit's fully compliant collaboration tool",
-      "description": "The Hungarian High Tech Security Services needed a solution to ensure the secure storage and sharing of highly confidential data for their numerous clients that respond to critical incidents and crisis. Therefore, Tresorit appeared to be the most satisfying provider for White Hat IT Security thanks to its encrypted storage and file sharing with multi-factor authentication for highly sensitive data, TISAX and GDPR compliant.",
-      "image_url": "https://whitehat.eu/wp-content/uploads/2021/10/wh_IT_long.png",
-      "industry": "Information Technology",
-      "customer": "White Hat IT Security",
-      "country": "HU",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/encrypted-cloud-collaboration-white-hat"
-    }],
-    "success_case_list": [{
-      "title": "100 years of women working for peace and equality",
-      "description": "",
-      "image_url": "https://i0.wp.com/www.wilpf.org/wp-content/uploads/2021/06/WILPF_Logo_Long_1.png?resize=2048%2C761&ssl=1",
-      "industry": "Association and NGOs",
-      "customer": "Women's International League for Peace and Freedom",
-      "country": "CH",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/wilpf"
-    }],
-    "success_case_list": [{
-      "title": "Reliability and security: It doesn’t have to be an either-or choice when going serverless",
-      "description": "",
-      "image_url": "https://www.logivations.com/img_general/new-images/logivations_logo.svg",
-      "industry": "Logistics",
-      "customer": "Logivation",
-      "country": "DE",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/benefits-of-moving-to-the-cloud"
-    }],
-    "success_case_list": [{
-      "title": "A matter of life and death: the importance of secure data sharing in healthcare",
-      "description": "",
-      "image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/crib/crib-logo.04da6206.svg",
-      "industry": "Health and Life Sciences",
-      "customer": "Cardiovascular Research Institute Basel",
-      "country": "CH",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-and-data-sharing-in-healthcare"
-    }],
-    "success_case_list": [{
-      "title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
-      "description": "",
-      "image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/raiffeisen-mitte/logo.70ddf5d7.jpg",
-      "industry": "Agriculture and FOod",
-      "customer": "Niedersachsen Mitte eG ",
-      "country": "DE",
-      "language": "EN",
-      "success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-sharing-for-raiffeisen-mitte"
-    }]
+	"created": "2022-03-30",
+	"title": "Tresorit",
+	"type": "Corporation",
+	"logo_url": "https://tresorit.com/blog/content/images/2020/12/tresorit-logo-400x400px-2.png",
+	"location": {
+		"title": "Tresorit AG",
+		"address": "Franklinstrasse 27",
+		"postal_code": "8050",
+		"city": "Zurich",
+		"country": "CH",
+		"phone_contact": "",
+		"mail_contact": "",
+		"coordinate_list": ["47.409659765790934, 8.543620563704717"]
+	},
+	"subsidiary_location_list": ["HU", "DE"],
+	"website_url": "https://tresorit.com/fr",
+	"founded_year": "2012",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Tresorit",
+		"logo_url": "https://tresorit.com/blog/assets/images/header/logo.svg?v=9bb52a92d5",
+		"website_url": "https://tresorit.com/",
+		"created_year": "2012",
+		"description": "Tresorit is an online cloud storage that uses end-to-end encryption to guarantee the safety of all the data you share and store.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Nextcloud",
+			"similiar_software_url": "https://nextcloud.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Dropbox",
+			"similiar_software_url": "https://www.dropbox.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "pCloud",
+			"similiar_software_url": "https://www.pcloud.com/fr/eu?ref=8097",
+			"category": "Information Technology"
+		}, {
+			"title": "Cryptomator",
+			"similiar_software_url": "https://cryptomator.org/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://tresorit.com/fr/pricing",
+		"floss_software": "No",
+		"commercial_support_open_source_version": "No",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Tresorit",
+		"reference_list": [{
+			"title": "Deutsche Telekom IT Solutions",
+			"logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/43382d3e1fc299a39257fd1c36dd5d03/dc167/deutsche-telekom.webp",
+			"country": "DE",
+			"industry": "Telecommunication"
+		}, {
+			"title": "Marks and Clerk",
+			"logo_url": "https://www.marks-clerk.com/media/lrtlzzjs/marks-clerk-logo-white.svg",
+			"country": "GB",
+			"industry": "Consulting and Training"
+		}, {
+			"title": "Deutsches Rotes Kreuz",
+			"logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/ef8d3add64363d99ef31f9bcd46a7f91/german-red-cross.svg",
+			"country": "DE",
+			"industry": "Association and NGOs"
+		}, {
+			"title": "D-Orbit",
+			"logo_url": "https://static.wixstatic.com/media/64a0e4_fb570b3572674acbb304f06d2918b058~mv2_d_1775_1204_s_2.png/v1/crop/x_10,y_0,w_1765,h_1121/fill/w_170,h_108,al_c,usm_0.66_1.00_0.01,enc_auto/Negativo-RGB-transparent.png",
+			"country": "IT",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "Public International Law & Policy Group",
+			"logo_url": "https://images.squarespace-cdn.com/content/v1/5900b58e1b631bffa367167e/1564063874712-S62R7II9Q26QJTZLVJSB/2018-08-17.jpg?format=1500w",
+			"country": "US",
+			"industry": "Consulting and Training"
+		}, {
+			"title": "Icon Films",
+			"logo_url": "https://iconfilms.co.uk/wp-content/uploads/2021/11/social.png",
+			"country": "GB",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "Riot Studios",
+			"logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/dec2562f5501b955a15ff5759dd3ba53/riot-studios.svg",
+			"country": "US",
+			"industry": "Media and Entertainment"
+		}],
+		"success_case_list": [{
+			"title": "Enabling cloud integration: how Tresorit helped to digitize KB Flughafen’s workforce",
+			"description": "Airports handle huge amounts of personal data from passengers, airlines, suppliers and cargo shippers every single day. This makes data security a huge concern to keep information (around operations, transactions and passengers) secure.to keep information (around operations, transactions and passengers) secure.",
+			"image_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/61601453732c349963f73eda99f9f758/dc167/flughafen.webp",
+			"industry": "Aviation and Aerospace",
+			"customer": "Köln Bonn Flughafen",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/data-security-koln-bonn-airport"
+		}, {
+			"title": "HR, uninterrupted: a start-up’s journey to success and safety",
+			"description": "A French payroll and HR management SaaS with clients all over EUrope, PayFit needed a maximum secured way to collect, save and manage the sensitive data of their customers while being able to work from anywhere. Tresorit and-to-end encryption, as well as its secured file sharing on its own cloud proved to be the most efficient solution for the Fintech company and their over 3000 customers.",
+			"image_url": "https://www.datocms-assets.com/50397/1640774984-payfitlogo.svg",
+			"industry": "Banking and Finance",
+			"customer": "PayFit",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-management-for-payfit"
+		}, {
+			"title": "Security services streamlined thanks to Tresorit's fully compliant collaboration tool",
+			"description": "The Hungarian High Tech Security Services needed a solution to ensure the secure storage and sharing of highly confidential data for their numerous clients that respond to critical incidents and crisis. Therefore, Tresorit appeared to be the most satisfying provider for White Hat IT Security thanks to its encrypted storage and file sharing with multi-factor authentication for highly sensitive data, TISAX and GDPR compliant.",
+			"image_url": "https://whitehat.eu/wp-content/uploads/2021/10/wh_IT_long.png",
+			"industry": "Information Technology",
+			"customer": "White Hat IT Security",
+			"country": "HU",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/encrypted-cloud-collaboration-white-hat"
+		}, {
+			"title": "100 years of women working for peace and equality",
+			"description": "",
+			"image_url": "https://i0.wp.com/www.wilpf.org/wp-content/uploads/2021/06/WILPF_Logo_Long_1.png?resize=2048%2C761&ssl=1",
+			"industry": "Association and NGOs",
+			"customer": "Women's International League for Peace and Freedom",
+			"country": "CH",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/wilpf"
+		}, {
+			"title": "Reliability and security: It doesn’t have to be an either-or choice when going serverless",
+			"description": "",
+			"image_url": "https://www.logivations.com/img_general/new-images/logivations_logo.svg",
+			"industry": "Logistics",
+			"customer": "Logivation",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/benefits-of-moving-to-the-cloud"
+		}, {
+			"title": "A matter of life and death: the importance of secure data sharing in healthcare",
+			"description": "",
+			"image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/crib/crib-logo.04da6206.svg",
+			"industry": "Health and Life Sciences",
+			"customer": "Cardiovascular Research Institute Basel",
+			"country": "CH",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-and-data-sharing-in-healthcare"
+		}, {
+			"title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
+			"description": "",
+			"image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/raiffeisen-mitte/logo.70ddf5d7.jpg",
+			"industry": "Agriculture and FOod",
+			"customer": "Niedersachsen Mitte eG ",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-sharing-for-raiffeisen-mitte"
+		}]
+	}]
 }
