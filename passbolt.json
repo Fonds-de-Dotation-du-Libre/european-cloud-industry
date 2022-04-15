@@ -1,64 +1,64 @@
 {
-  "created": "2022-04-05",
-  "title": "Passbolt",
-  "type": "Corporation",
-  "logo_url": "https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
-  "location": {
-    "title": "Passbolt SA",
-    "address": "9 Avenue des Hauts-Fourneaux",
-    "postal_code": "L-4362",
-    "city": "Esch-sur-Alzette",
-    "country": "LU",
-    "phone_contact": "",
-    "mail_contact": "contact@passbolt.com",
-    "coordinate_list": ["49.50252478819146, 5.949424391571699"]
-  },
-  "subsidiary_location_list": [],
-  "website_url": "https://www.passbolt.com/",
-  "founded_year": "2016",
-  "kpi_list": [],
-  "solution_list": [{
-    "title": "Passbolt",
-    "logo_url":"https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
-    "website_url": "https://passbolt.com/",
-    "created_year": "2016",
-    "description": "Passbolt is an API-centric, privacy-focused and developer-first, free and open source password manager that allows team members to store and share credentials securely.",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "KeePass",
-      "similiar_software_url": "https://keepass.info/",
-      "category": "Password Manager"
-    },{
-      "title": "Bitwarden",
-      "similiar_software_url": "https://bitwarden.com/",
-      "category": "Password Manager"
-    },{
-      "title": "1Password",
-      "similiar_software_url": "https://1password.com/",
-      "category": "Password Manager"
-    },{
-      "title": "LastPass",
-      "similiar_software_url": "https://www.lastpass.com/",
-      "category": "Password Manager"
-    }],
-    "licence_list": ["AGPL v3.0"],
-    "source_code_download": "https://github.com/passbolt/passbolt_api.git",
-    "source_code_profile": "https://www.openhub.net/p/passbolt/analyses/latest/languages_summary",
-    "commercial_support_url": "https://signup.passbolt.com/pricing/pro",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": [{
-      "title": "Passbolt Case Study",
-      "description": "An early adopter of Passbolt, the German technology company bitExpert needed a secure way to hold all of their passwords (root passwords, services like PostgreSQL, MysSQL, and external use and the passwords provided by their clients as well).",
-      "image_url": "https://www.bitexpert.de/themes/bitexpert/images/base/bitExpert_logo.svg",
-      "industry": "Information Technology",
-      "customer": "bitExpert",
-      "country": "DE",
-      "language": "EN",
-    }]
-      "success_case_url": "https://blog.passbolt.com/passbolt-case-study-96b6d0d689c4"
-  }]
+	"created": "2022-04-05",
+	"title": "Passbolt",
+	"type": "Corporation",
+	"logo_url": "https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
+	"location": {
+		"title": "Passbolt SA",
+		"address": "9 Avenue des Hauts-Fourneaux",
+		"postal_code": "L-4362",
+		"city": "Esch-sur-Alzette",
+		"country": "LU",
+		"phone_contact": "",
+		"mail_contact": "contact@passbolt.com",
+		"coordinate_list": ["49.50252478819146, 5.949424391571699"]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.passbolt.com/",
+	"founded_year": "2016",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Passbolt",
+		"logo_url": "https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
+		"website_url": "https://passbolt.com/",
+		"created_year": "2016",
+		"description": "Passbolt is an API-centric, privacy-focused and developer-first, free and open source password manager that allows team members to store and share credentials securely.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "KeePass",
+			"similiar_software_url": "https://keepass.info/",
+			"category": "Password Manager"
+		}, {
+			"title": "Bitwarden",
+			"similiar_software_url": "https://bitwarden.com/",
+			"category": "Password Manager"
+		}, {
+			"title": "1Password",
+			"similiar_software_url": "https://1password.com/",
+			"category": "Password Manager"
+		}, {
+			"title": "LastPass",
+			"similiar_software_url": "https://www.lastpass.com/",
+			"category": "Password Manager"
+		}],
+		"licence_list": ["AGPL v3.0"],
+		"source_code_download": "https://github.com/passbolt/passbolt_api.git",
+		"source_code_profile": "https://www.openhub.net/p/passbolt/analyses/latest/languages_summary",
+		"commercial_support_url": "https://signup.passbolt.com/pricing/pro",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Passbolt Case Study",
+			"description": "An early adopter of Passbolt, the German technology company bitExpert needed a secure way to hold all of their passwords (root passwords, services like PostgreSQL, MysSQL, and external use and the passwords provided by their clients as well).",
+			"image_url": "https://www.bitexpert.de/themes/bitexpert/images/base/bitExpert_logo.svg",
+			"industry": "Information Technology",
+			"customer": "bitExpert",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://blog.passbolt.com/passbolt-case-study-96b6d0d689c4"
+		}]
+	}]
 }
