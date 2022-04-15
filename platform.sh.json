@@ -1,0 +1,139 @@
+{
+  "created": "2022-04-14",
+  "title": "Paltform.sh SAS",
+  "type": "Corporation",
+  "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
+  "location": {
+    "title": "Platform.sh SAS",
+    "address": "131 Boulevard de Sébastopol",
+    "postal_code": "75002",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "+33 (0) 1 40 09 30 00",
+    "mail_contact": "",
+    "coordinate_list": ["48.86850099779175, 2.3532601674151876"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://platform.sh/",
+  "founded_year": "2010",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Platform.sh",
+    "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
+    "website_url": "https://platform.sh/",
+    "created_year": "",
+    "description": "The cloud PaaS to develop, deploy, host and secure websites and apps",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "OpenShift",
+      "similiar_software_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+      "category": ""
+    },{
+      "title": "OpenStack",
+      "similiar_software_url": "https://www.openstack.org/",
+      "category": ""
+    },{
+      "title": "Microsoft Azure",
+      "similiar_software_url": "https://azure.microsoft.com/fr-fr/",
+      "category": ""
+    }],
+    "licence_list": [" CC-BY-SA-4.0 License"],
+    "source_code_download": "https://github.com/platformsh/platformsh-docs",
+    "source_code_profile": "",
+    "commercial_support_url": "https://docs.platform.sh/overview/get-support.html",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "yes",
+    "commercial_support_available": "yes",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Platform.sh#cite_note-5",
+    "reference_list": [{
+      "title": "WONDROUS",
+      "logo_url": "https://platform.sh/images/customers/bw/wondrous-logo.png",
+      "country": "CH",
+      "industry": "TI services"
+    },{
+      "title": "Burst",
+      "logo_url": "https://platform.sh/images/customers/bw/burst-bw.png",
+      "country": "NL",
+      "industry": "Media and Information Services"
+    },{
+      "title": "Perfetti Van Melle",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Perfetti_Van_Melle_logo.svg/375px-Perfetti_Van_Melle_logo.svg.png",
+      "country": "IT",
+      "industry": "Confectionery"
+    },{
+      "title": "University of Missouri",
+      "logo_url": "https://platform.sh/images/customers/color/university_of_missouri-logo.svg",
+      "country": "US",
+      "industry": "High education"
+    },{
+      "title": "Oxbow Labs",
+      "logo_url": "https://platform.sh/images/customers/color/oxbow-labs.svg",
+      "country": "US",
+      "industry": "Advertising"
+    }],
+    "success_case_list": [{
+      "title": "Fast and easy for the online B2B marketplace leader",
+      "description": "To facilitate and speed up the development and deployment of the Uppler platform. A PaaS that supports multiple deployments with no extra working time. Significant time savings, providing a streamlined experience for all Uppler customers.",
+      "image_url": "https://platform.sh/customers/stories/onboarding-customers-10x-faster-platform-sh/images/uppler-logo.png",
+      "industry": "E-Commerce Fashion Marketplace",
+      "customer": "Uppler",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://www.uppler.com/"
+    },{
+      "title": "Truth Initiative successfully delivers vaping prevention messages to young adults thanks to its scalable site capacity",
+      "description": "Truth Initiative's Chief Information and Cyber Security Officer Derrick Butts  went in search of a platform provider that would enable Truth Initiative to scale up site capacity easily and quickly at the launch of a campaign to support the continuous evolution and delivery of the anti-nicotine messaging at scale.",
+      "image_url": "https://platform.sh/customers/stories/truth-initiative-delivers-vaping-prevention-message-to-young-adults-thanks-to-scalable-site-capacity/images/ti-logo.jpg",
+      "industry": "Public health",
+      "customer": "Truth Initiative",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://platform.sh/customers/stories/truth-initiative-delivers-vaping-prevention-message-to-young-adults-thanks-to-scalable-site-capacity/"
+    },{
+      "title": "Athletic eyewear retailer SportRx hits peak performance with Platform.sh",
+      "description": "To find a scalable solution, including modern development and automated deployments, to meet a 40% annual growth goal SportRx asked Platform.sh to help them put their best foot forward. Platform.sh delivererd a secure, scalable, agile solution, with triple redundancy and high memory to support ecommerce needs on Magento",
+      "image_url": "https://platform.sh/customers/stories/athletic-eyewear-retailer-sportrx-hits-peak-performance-with-platformsh/images/sportrx-logo.svg",
+      "industry": "Eyewear retail",
+      "customer": "SportRx",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://platform.sh/customers/stories/athletic-eyewear-retailer-sportrx-hits-peak-performance-with-platformsh/"
+    },{
+      "title": "BoardSpot SaaS solution frees nonprofit boards to focus on good works",
+      "description": "Oxbow’s spinoff company, BoardSpot, fulfills the vision of all nonprofits: to realize the full potential of their boards through access to information and collaboration. To bring the vision to life, the BoardSpot team recognized early on that they’d need to develop the nonprofit board portal with a new set of tools and with features powerful enough to support the needs of enterprise-scale nonprofits, yet intuitive enough for volunteer board members to feel comfortable immediately. Built with Platform.sh and delivered as a Software-as-a-Service (SaaS), BoardSpot complements Oxbow’s work and enables an expanded service offering to nonprofits looking for a suite of robust online solutions.",
+      "image_url": "https://platform.sh/customers/stories/boardspot-saas-solution-frees-nonprofit-boards-to-focus-on-good-works/images/boardspot-logo_horizontal_color_white-bg_1200.png",
+      "industry": "Internet Publishing",
+      "customer": "Boardspot",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://platform.sh/customers/stories/boardspot-saas-solution-frees-nonprofit-boards-to-focus-on-good-works/"
+    },{
+      "title": "Pixelant + Platform.sh",
+      "description": "Over time, the Pixelant team found itself spending more time managing infrastructure than building new features. Cloudnet, Pixelant’s managed hosting provider, imposed a heavy infrastructure modification process that required Pixelant to contact the provider every time they wanted to implement even minor changes; this approach significantly slowed the team’s dev workflow. Eventually, Pixelant founder Robert Lindh began to look for a more flexible solution. And he chose Platform.sh.To support its growth goals and enhance efficiencies, Pixelant adopted Platform.sh in 2018. The platform helps to streamline workflow, refocus development skills on new client features, experiences, and solutions",
+      "image_url": "https://www.pixelant.net/fileadmin/_processed_/c/2/csm_logo_black_1c0d9dbc84.png",
+      "industry": "IT services",
+      "customer": "Pixelant",
+      "country": "SE",
+      "language": "en",
+      "success_case_url": "https://platform.sh/customers/stories/pixelant-and-platformsh/"
+    },{
+      "title": "University of Missouri + Platform.sh",
+      "description": "For Mizzou’s marketing and Central IT teams, adopting and implementing standards, security, and compliance policies across their web properties meant that everyone would (over time) use the same kinds of tools, (including content management systems) and processes. Based on these criteria UM IT team chose Platform.sh. They adopted Platform.sh to implement the cloud rollout while adhering to the university’s security and compliance mandates.",
+      "image_url": "https://platform.sh/customers/stories/university-of-missouri+platform.sh/images/MU_StackedMU_black_100px.svg",
+      "industry": "Higher education",
+      "customer": "University of Missouri",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://platform.sh/customers/stories/university-of-missouri+platform.sh/"
+    },{
+      "title": "UNICEF Switzerland and Liechtenstein + Platform.sh",
+      "description": "To eliminate limited, time-consuming testing processes that impeded development workflow they adopted Platform.sh to gain the flexibility to test and deploy new services faster",
+      "image_url": "https://platform.sh/customers/stories/unicef-switzerland-and-liechtenstein+platform.sh/images/unicef-logo.png",
+      "industry": "Humanatarian and development aid",
+      "customer": "UNICEF",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://platform.sh/customers/stories/unicef-switzerland-and-liechtenstein+platform.sh/"
+    }]
+  }]
+}
