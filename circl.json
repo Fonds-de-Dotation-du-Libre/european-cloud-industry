@@ -10,7 +10,7 @@
     "city": "Luxembourg",
     "country": "LU",
     "phone_contact": "+35224788444",
-    "mail_contact": ["info@circl.lu","info@misp-project.org"]
+    "mail_contact": ["info@circl.lu","info@misp-project.org"],
     "coordinate_list": ["49.605120083910705, 6.135144238635261"]
   },
   "subsidiary_location_list": [],
