@@ -1,5 +1,5 @@
 {
-	"created": "1961",
+	"created": "07-04-2022",
 	"title": "Rittal",
 	"type": "corporation",
 	"logo_url": "https://www.rittal.com/imf/none/80_1157/",
@@ -13,199 +13,643 @@
 		"mail_contact": "info@rittal.de",
 		"coordinate_list": [50.676101753433535, 8.313399626934414]
 	},
-	"subsidiary_location_list": [],
+	"subsidiary_location_list": ["AL", "AT", "BY", "BE", "BA", "BG", "HR", "CZ", "DK", "EE", "FI", "FR", "GR", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MK", "ME", "NL", "NO", "PL", "PT", "RO", "RU", "RS", "SK", "SI", "ES", "SE", "TR", "UA", "GB", "AU", "CN", "IN", "ID", "JP", "KZ", "MY", "NZ", "PH", "SG", "KR", "TW", "TH", "VN", "CA", "US", "CR", "SV", "GT", "HN", "NI", "TT", "AR", "BO", "BR", "CL", "CO", "PE", "VE", "IL", "NG", "ZA", "AE"],
 	"website_url": "https://www.rittal.com/com-en/",
 	"founded_year": "1961",
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "277.687.238,21€",
+		"total_assets": "27768723821",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?6"
 	}, {
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "238.238,6€",
+		"total_assets": "2382386",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?6"
 	}, {
 		"year": "2018",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "261.126.423,97",
+		"total_assets": "26112642397",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?27"
 	}, {
 		"year": "2017",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "434.379,9€",
+		"total_assets": "4343799",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?27"
 	}, {
 		"year": "2016",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "387.893,7€",
+		"total_assets": "3878937",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?37"
 	}],
 	"solution_list": [{
-				"title": "OCP Open Compute Project",
-				"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-				"website_url": "https://www.rittal.com/it-solutions/en/solution/ocp-open-compute-project/",
-				"created_year": "",
-				"description": "The OCP rack offers the best possible packing density and space utilisation, because the 21 standard and 600 mm width ensure optimum rack utilisation.Special OCP servers are used in the racks, operating with an electrical supply voltage of 12 V / 48 V DC(direct current) and mechanically optimised for insertion in the 21 rack.",
-				"category_list": [],
-				"similar_software_list": [{
-							"title": "Sketchup",
-							"similiar_software_url": "",
-							"category": "",
-
-							"title": "Network Solutions",
-							"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-							"website_url": "https://www.rittal.com/it-solutions/en/solution/network-solutions/",
-							"created_year": "",
-							"description": "Network and server racks represent the backbone and basis of any IT installation – from single rack applications to a fully configured data center",
-							"category_list": [],
-							"similar_software_list": [{
-										"title": "",
-										"similiar_software_url": "",
-										"category": "",
-
-										"title": "Edger Data Center",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/edge-data-center/",
-										"created_year": "",
-										"description": "The digital transformation signifies a radical change and the production world will never be the same again. Industry 4.0 and mobile data offer new possibilities, because sensors, actuators, equipment and robots are networked so as to communicate with the central production control system and also with each other.",
-										"category_list": [],
-
-										"title": "Dcaas",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/dcaas/",
-										"created_year": "",
-										"description": "The DCaaS model provides varying design scope for services depending on the cloud provider. Rittal and its partner iNNOVO Cloud offer flexible infrastructure and cloud solutions in the form of “IT as a Service” models.",
-										"category_list": [],
-
-										"title": "IT cooling",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/it-cooling/",
-										"created_year": "",
-										"description": "Climate control concepts from Rittal cover the full spectrum of applications, from cooling a single rack through to entire data centers.",
-										"category_list": [],
-
-										"title": "Data Center Container",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/data-center-container/",
-										"created_year": "",
-										"description": "Growing data volumes and escalating requirements often lead to space problems in existing IT environments. Container solutions suitable for outdoor siting are one possible solution for this kind of Big data applications.",
-										"category_list": [],
-
-										"title": "Modular data center",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/modular-data-center/",
-										"created_year": "",
-										"description": "Predefined RiMatrix S individual modules are the revolutionary alternative to individual data center construction. These standardised modules are supplied fully functional off-she-shelf with just one item number.",
-										"category_list": [],
-
-										"title": "Cloud solutions",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/cloud-solutions/",
-										"created_year": "",
-										"description": "Rittal and its partner German Edge Cloud offer flexible infrastructure and cloud solutions in the form of “IT as a Service” models. These services are based on the RiMatrix BCC (Balanced Cloud Center) platform, with components such as racks, cooling and power supply already included in the predefined modules.",
-										"category_list": [],
-
-										"title": "IT security",
-										"logo_url": "https://www.rittal.com/imf/none/80_1157/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"created_year": "",
-										"description": "IT security begins with protection from physical threats, which could destroy the entire IT infrastructure and threaten a company’s very existence, especially in the Industry 4.0 era.",
-										"category_list": [],
-
-										"title": "Rittal and Edge",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "",
-										"created_year": "",
-										"description": "Industry 4.0, automated financial transactions, mobile streaming, and autonomous driving are all producing data that requires super-fast processing, extreme safeguarding, and uninterrupted availability.",
-										"category_list": [],
-
-										"title": "Robust and Turn key ready",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/robust-and-turn-key-ready/",
-										"created_year": "",
-										"description": "Rittal‘s Secure Edge Data Center is a highly standardized and turn-key-ready complete solution data center for industrial use. ",
-
-										"title": "Secure environment for confidential data",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/secure-environment-for-confidential-data/",
-										"created_year": "",
-										"description": "The Rittal Micro Data Center Level E with iNNOVO Managed Service offers a secure environment for IT solutions and protects from physical risks like breaks-ins or fire. This is essential for confidential data. ",
-										"category_list": [],
-
-
-										"title": "Scalable and Turn-key Ready",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/scalable-and-turn-key-ready/",
-										"created_year": "",
-										"description": "Lowest latency can be achieved with the Rittal SMDC solution with distributed infrastructure systems. The scalable edge solution includes the IT rack, cooling, power distributions and security, fire detection and extinguishing, and monitoring.",
-										"category_list": [],
-
-										"title": "Open Standards for an Open Future",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/open-standards-for-an-open-future/",
-										"created_year": "",
-										"description": "Responsible for about 3% of global electricity consumption, worldwide, data centers are one of the fastest growing energy users. The Facebook group Open Compute Project (OCP) and its partners aims to optimize energy consumption of large IT infrastructures and increase the scalability of IT systems through the use of standardized modules.",
-										"category_list": [],
-
-										"title": "Highly Scalable and Energy Efficient",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/highly-scalable-and-energy-efficient/",
-										"created_year": "",
-										"description": "In cooperation with iNNOVO, Rittal offers an edge solution that is scalable to the needs of the applications, and that provides data almost in real time: the RiMatrix Edge Data Center in High Availability Room (HVR).",
-										"category_list": [],
-
-										"title": "Decentralized Networked IT Structure",
-										"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-										"website_url": "https://www.rittal.com/it-solutions/en/solution/decentralized-networked-it-structure/",
-										"created_year": "",
-										"description": "Chain stores, for example, can benefit from an edge data center for onsite computing in an hierarchical, networked system. In regional warehouses, so-called “spine data centers” function as concentrators that communicate with the corporate private cloud data center.",
-										"category_list": [],
-										"similar_software_list": [{
-											"title": "",
-											"similiar_software_url": "",
-											"category": "",
-
-											"title": "Automated and Secure Processes",
-											"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
-											"website_url": "https://www.rittal.com/it-solutions/en/solution/automated-and-secure-processes/",
-											"created_year": "",
-											"description": "Rittal Ethereum Blockchain as a Service is a complete solution that is delivered as a turn-key-ready Managed Service in a container. It is the result of a close cooperation between iNNOVO Cloud as an infrastructure provider, Chainlabs as the blockchain operator on the application level, and the Frankfurt School of Finance as scientific advisor. With iNNOVO Cloud EBaaS, new business models, especially for financial services, but also for IoT, Industry 4.0, healthcare, retail or government, can be securely and precisely realized. Existing IT platforms can be used for adding customer-specific blockchain applications. Proprietary smart contract processes can be executed more quickly and carried out more closely to the real location.",
-
-											"licence_list": ["RiZone"],
-											"source_code_download": "",
-											"source_code_profile": "",
-											"commercial_support_url": "",
-											"floss_software": "no",
-											"commercial_support_open_source_version": "",
-											"commercial_support_available": "",
-											"wikipedia_url": "https://en.wikipedia.org/wiki/Rittal",
-											"reference_list": [{
-												"title": "",
-												"logo_url": "",
-												"country": "",
-												"industry": ""
-											}],
-											"success_case_list": [{
-												"title": "",
-												"description": "",
-												"image_url": "",
-												"industry": "",
-												"customer": "",
-												"country": "",
-												"language": "",
-												"success_case_url": ""
-											}]
-										}]
-									}
+		"title": "OCP Open Compute Project",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/ocp-open-compute-project/",
+		"created_year": "",
+		"description": "The OCP rack offers the best possible packing density and space utilisation, because the 21 standard and 600 mm width ensure optimum rack utilisation.Special OCP servers are used in the racks, operating with an electrical supply voltage of 12 V / 48 V DC(direct current) and mechanically optimised for insertion in the 21 rack.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/service/serviceleistungen_2.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Rittal",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Network Solutions",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/network-solutions/",
+		"created_year": "",
+		"description": "Network and server racks represent the backbone and basis of any IT installation – from single rack applications to a fully configured data center",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Let's encrypt",
+			"similiar_software_url": "https://letsencrypt.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "BlueHost",
+			"similiar_software_url": "https://www.bluehost.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "ZeroSSL",
+			"similiar_software_url": "https://zerossl.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/service/serviceleistungen_2.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Rittal",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Edger Data Center",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/edge-data-center/",
+		"created_year": "",
+		"description": "The digital transformation signifies a radical change and the production world will never be the same again. Industry 4.0 and mobile data offer new possibilities, because sensors, actuators, equipment and robots are networked so as to communicate with the central production control system and also with each other.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Dcaas",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/dcaas/",
+		"created_year": "",
+		"description": "The DCaaS model provides varying design scope for services depending on the cloud provider. Rittal and its partner iNNOVO Cloud offer flexible infrastructure and cloud solutions in the form of “IT as a Service” models.",
+		"category_list": ["Information Technology"],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "IT cooling",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/it-cooling/",
+		"created_year": "",
+		"description": "Climate control concepts from Rittal cover the full spectrum of applications, from cooling a single rack through to entire data centers.",
+		"category_list": ["Information Technology"],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Data Center Container",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/data-center-container/",
+		"created_year": "",
+		"description": "Growing data volumes and escalating requirements often lead to space problems in existing IT environments. Container solutions suitable for outdoor siting are one possible solution for this kind of Big data applications.",
+		"category_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Modular data center",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/modular-data-center/",
+		"created_year": "",
+		"description": "Predefined RiMatrix S individual modules are the revolutionary alternative to individual data center construction. These standardised modules are supplied fully functional off-she-shelf with just one item number.",
+		"category_list": ["Information Technology"],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Cloud solutions",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/cloud-solutions/",
+		"created_year": "",
+		"description": "Rittal and its partner German Edge Cloud offer flexible infrastructure and cloud solutions in the form of “IT as a Service” models. These services are based on the RiMatrix BCC (Balanced Cloud Center) platform, with components such as racks, cooling and power supply already included in the predefined modules.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}],
+		"title": "IT security",
+		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"created_year": "",
+		"description": "IT security begins with protection from physical threats, which could destroy the entire IT infrastructure and threaten a company’s very existence, especially in the Industry 4.0 era.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Rittal and Edge",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "",
+		"created_year": "",
+		"description": "Industry 4.0, automated financial transactions, mobile streaming, and autonomous driving are all producing data that requires super-fast processing, extreme safeguarding, and uninterrupted availability.",
+		"category_list": ["Banking and Finance"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Robust and Turn key ready",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/robust-and-turn-key-ready/",
+		"created_year": "",
+		"description": "Rittal‘s Secure Edge Data Center is a highly standardized and turn-key-ready complete solution data center for industrial use. ",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Secure environment for confidential data",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/secure-environment-for-confidential-data/",
+		"created_year": "",
+		"description": "The Rittal Micro Data Center Level E with iNNOVO Managed Service offers a secure environment for IT solutions and protects from physical risks like breaks-ins or fire. This is essential for confidential data. ",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Scalable and Turn-key Ready",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/scalable-and-turn-key-ready/",
+		"created_year": "",
+		"description": "Lowest latency can be achieved with the Rittal SMDC solution with distributed infrastructure systems. The scalable edge solution includes the IT rack, cooling, power distributions and security, fire detection and extinguishing, and monitoring.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Open Standards for an Open Future",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/open-standards-for-an-open-future/",
+		"created_year": "",
+		"description": "Responsible for about 3% of global electricity consumption, worldwide, data centers are one of the fastest growing energy users. The Facebook group Open Compute Project (OCP) and its partners aims to optimize energy consumption of large IT infrastructures and increase the scalability of IT systems through the use of standardized modules.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Highly Scalable and Energy Efficient",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/highly-scalable-and-energy-efficient/",
+		"created_year": "",
+		"description": "In cooperation with iNNOVO, Rittal offers an edge solution that is scalable to the needs of the applications, and that provides data almost in real time: the RiMatrix Edge Data Center in High Availability Room (HVR).",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Decentralized Networked IT Structure",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/decentralized-networked-it-structure/",
+		"created_year": "",
+		"description": "Rittal supports companies in the creation of this hierarchic, networked data center architecture. The edge data center includes rack, cooling power supply and security, fire detection and extinguishing, as well as monitoring and IP protection. The iNNOVO Cloud adds suitable Managed Services that are designed according to each customer’s needs.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Automated and Secure Processes",
+		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
+		"website_url": "https://www.rittal.com/it-solutions/en/solution/automated-and-secure-processes/",
+		"created_year": "",
+		"description": "Rittal Ethereum Blockchain as a Service is a complete solution that is delivered as a turn-key-ready Managed Service in a container. It is the result of a close cooperation between iNNOVO Cloud as an infrastructure provider, Chainlabs as the blockchain operator on the application level, and the Frankfurt School of Finance as scientific advisor. With iNNOVO Cloud EBaaS, new business models, especially for financial services, but also for IoT, Industry 4.0, healthcare, retail or government, can be securely and precisely realized. Existing IT platforms can be used for adding customer-specific blockchain applications. Proprietary smart contract processes can be executed more quickly and carried out more closely to the real location.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.rittal.com/fr-fr/content/fr/support/support_1.jsp",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Rittal",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
