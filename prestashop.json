@@ -1,6 +1,6 @@
 {
 
-	"created": "2017",
+	"created": "05-04-2022",
 	"title": "Prestashop",
 	"type": "Freemium",
 	"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
@@ -66,27 +66,27 @@
 		"website_url": "https://www.prestashop.com/en/download",
 		"created_year": "2007",
 		"description": "PrestaShop allows ambitious entrepreneurs and companies to create and develop their own ecommerce site. Our open source software unites a global community.",
-		"category_list": ["e-commerce"],
+		"category_list": ["Commerce and Retail"],
 		"similar_software_list": [{
 			"title": "Ecwid",
 			"similiar_software_url": "https://www.ecwid.com/",
-			"category": "e-commerce",
-
+			"category": "Commerce and Retail"
+		}, {
 			"title": "shopify",
 			"similiar_software_url": "https://www.shopify.com/",
-			"category": "e-commerce",
-
+			"category": "Commerce and Retail"
+		}, {
 			"title": "woocommerce",
 			"similiar_software_url": "https://woocommerce.com/",
-			"category": "e-commerce",
-
+			"category": "Commerce and Retail"
+		}, {
 			"title": "bigcommerce",
 			"similiar_software_url": "https://www.bigcommerce.com/",
-			"category": "e-commerce",
-
+			"category": "Commerce and Retail"
+		}, {
 			"title": "nopcommerce",
 			"similiar_software_url": "https://www.nopcommerce.com/en",
-			"category": "e-commerce"
+			"category": "Commerce and Retail"
 		}],
 		"licence_list": ["OSL"],
 		"source_code_download": "https://github.com/PrestaShop/PrestaShop",
