@@ -1,287 +1,256 @@
-{"created": "2022-04-05",
-  "title": "Framasoft",
-  "type": "NGO",
-  "logo_url": "https://framasoft.org/img/biglogo-notxt.png",
-  "location": {
-    "title": "Framasoft",
-    "address": "10bis rue Jangot",
-    "postal_code": "69007",
-    "city": "Lyon",
-    "country": "FR",
-    "phone_contact": "",
-    "mail_contact": "https://contact.framasoft.org/",
-    "coordinate_list": ["45.751776645347455, 4.842907453532815"]
- },
-  "subsidiary_location_list": [],
-  "website_url": "https://framasoft.org/fr/",
-  "founded_year": "2004",
-  "kpi_list": [{
-    "year": "2020",
-    "staff": "10",
-    "earnings": "709511",
-    "total_assets": "",
-    "revenues": "151452",
-    "source_url": "https://soutenir.framasoft.org/sites/default/files/Rapports_FRAMASOFT_2020-Signes.pdf"
-  },{
-    "year": "2019",
-    "staff": "10",
-    "earnings": "573999",
-    "total_assets": "",
-    "revenues": "73133",
-    "source_url": "https://soutenir.framasoft.org/sites/default/files/FRAMASOFT%20-%20Rapport%20G%C3%A9n%C3%A9ral%20%26%20Sp%C3%A9cial%20-%2031-12-2019.pdf"
-  },{
-    "year": "2018",
-    "staff": "10",
-    "earnings": "475568",
-    "total_assets": "",
-    "revenues": "18253",
-    "source_url": "https://soutenir.framasoft.org/sites/default/files/FRAMASOFT%20-%20Rapport%20G%C3%A9n%C3%A9ral%20%26%20Sp%C3%A9cial%20-%2031.12.2018.pdf"
-  },{
-    "year": "2017",
-    "staff": "10",
-    "earnings": "414289",
-    "total_assets": "",
-    "revenues": "47957",
-    "source_url": "https://soutenir.framasoft.org/sites/default/files/rapport_financier_2017.pdf"
-  },{
-    "year": "2016",
-    "staff": "10",
-    "earnings": "317645",
-    "total_assets": "",
-    "revenues": "57756",
-    "source_url": "https://soutenir.framasoft.org/sites/default/files/rapport_financier_2016.pdf"
-  }],
-  "solution_list": [{
-    "title": "Framasoft",
-    "logo_url": "https://framasoft.org/img/biglogo-notxt.png",
-    "website_url": "https://framasoft.org/en/",
-    "created_year": "",
-    "description": "A network dedicated to globally promoting “free” and particularly free software with many services and innovative projects freely put at the disposal of the general public."
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": ["CC BY-SA 4.0"],
-    "source_code_download": "https://framagit.org/framasoft/framanav.git",
-    "source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
-    "commercial_support_url": "https://soutenir.framasoft.org/fr/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Framasoft",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
-  "solution_list": [{
-    "title": "Framagenda",
-    "logo_url": "",
-    "website_url": "https://framagenda.org/login",
-    "created_year": "2005",
-    "description": "Framagenda is an online agenda based on Nextcloud; It allows you to create and share multiple calendars, schedule appointments and tasks and keep contacts easily accessible from anywhere.",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": ["AGPL-3.0"],
-    "source_code_download": "https://github.com/nextcloud/calendar.git",
-    "source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
-    "commercial_support_url": "https://soutenir.framasoft.org/fr/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Framasoft",
-    "reference_list": [],
-    "success_case_list": [],
-    "solution_list": [{
-    "title": "Framapad",
-    "logo_url": "https://framapad.org/abc/img/icons/pad.svg",
-    "website_url": "https://framapad.org/abc/en/",
-    "created_year": "2004",
-    "description": "A pad is an online collaborative text editor. The contributions of each user are indicated by a colour code, appear on the screen in real time and are recorded as they are typed.",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "LibreOffice - Writer",
-      "similiar_software_url": "https://www.libreoffice.org/discover/writer/",
-      "category": "Information Technology"
-    },{
-      "title": "Nuclino",
-      "similiar_software_url": "https://www.nuclino.com/",
-      "category": "Information Technology"
-    },{
-      "title": "Etherpad",
-      "similiar_software_url": "https://etherpad.org/",
-      "category": "Information Technology"
-    },{
-      "title": "Twake",
-      "similiar_software_url": "https://twake.app/https://twake.app/",
-      "category": "Information Technology"
-    },{
-      "title": "HackMD",
-      "similiar_software_url": "https://hackmd.io/",
-      "category": "Information Technology"
-    },{
-      "title": "WPS Office",
-      "similiar_software_url": "https://www.wps.com/",
-      "category": "Information Technology"
-    }],
-    "licence_list": ["Apache 2.0"],
-    "source_code_download": "https://github.com/framasoft/framapad.git",
-    "source_code_profile": "https://www.openhub.net/p/etherpad_lite/analyses/latest/languages_summary",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": [],
-  "solution_list": [{
-    "title": "Framadate",
-    "logo_url": "https://framadate.org/abc/img/icons/date.svg",
-    "website_url": "https://framadate.org/abc/fr/",
-    "created_year": "2005",
-    "description": "Framadate is an online service for planning an appointment or making a decision quickly and easily. No registration is required.",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "Doodle",
-      "similiar_software_url": "https://doodle.com/",
-      "category": "Information Technology"
-    },{
-      "title": "Rally",
-      "similiar_software_url": "https://rallly.co/",
-      "category": "Information Technology"
-    },{
-      "title": "FullCalendar",
-      "similiar_software_url": "https://fullcalendar.io/",
-      "category": "Information Technology"
-    },{
-      "title": "Timegrid",
-      "similiar_software_url": "https://github.com/timegridio/timegrid",
-      "category": "Information Technology"
-    },{
-      "title": ""jawanndenn,
-      "similiar_software_url": "https://jawanndenn.de/",
-      "category": "Information Technology"
-    },{
-      "title": "Dudle",
-      "similiar_software_url": "https://dudle.inf.tu-dresden.de/",
-      "category": "Information Technology"
-    },{
-      "title": "Xoyondo",
-      "similiar_software_url": "https://xoyondo.com/",
-      "category": "Information Technology"
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
- "solution_list": [{
-    "title": "Framindmap",
-    "logo_url": "",
-    "website_url": "https://framindmap.org/c/login",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [],
-    "licence_list": ["AGPLv3.0"],
-    "source_code_download": "https://github.com/framasoft/framindmap.git",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
- "solution_list": [{
-    "title": "Peertube",
-    "logo_url":"https://joinpeertube.org/img/brand.png"
-    "website_url": "https://joinpeertube.org/",
-    "created_year": "2018",
-    "description": "PeerTube is a free, open-source, decentralized video platform",
-    "category_list": ["Information Technology","Media and Entertainment"],
-    "similar_software_list": [{
-      "title": "Youtube",
-      "similiar_software_url": "https://www.youtube.com/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "WebTorrent",
-      "similiar_software_url": "https://webtorrent.io/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "Vimeo",
-      "similiar_software_url": "https://vimeo.com/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "Dailymotion",
-      "similiar_software_url": "https://www.dailymotion.com/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "LBRY",
-      "similiar_software_url": "https://lbry.com/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "Odysee",
-      "similiar_software_url": "https://odysee.com/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "Twitch",
-      "similiar_software_url": "https://www.twitch.tv/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "DTube",
-      "similiar_software_url": "https://d.tube/",
-      "category": ["Information Technology","Media and Entertainment"],
-    },{
-      "title": "VidLii",
-      "similiar_software_url": "https://www.vidlii.com/",
-      "category": ["Information Technology","Media and Entertainment"]
-    }],
-    "licence_list": ["AGPLv3.0"],
-    "source_code_download": "https://github.com/Chocobozzz/PeerTube.git",
-    "source_code_profile": "https://www.openhub.net/p/PeerTube/analyses/latest/languages_summary",
-    "commercial_support_url": "https://framasoft.org/fr/#soutenir",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/PeerTube",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
-  }]
+{
+	"created": "2022-04-05",
+	"title": "Framasoft",
+	"type": "NGO",
+	"logo_url": "https://framasoft.org/img/biglogo-notxt.png",
+	"location": {
+		"title": "Framasoft",
+		"address": "10bis rue Jangot",
+		"postal_code": "69007",
+		"city": "Lyon",
+		"country": "FR",
+		"phone_contact": "",
+		"mail_contact": "https://contact.framasoft.org/",
+		"coordinate_list": ["45.751776645347455, 4.842907453532815"]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://framasoft.org/fr/",
+	"founded_year": "2004",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "10",
+		"earnings": "709511",
+		"total_assets": "",
+		"revenues": "151452",
+		"source_url": "https://soutenir.framasoft.org/sites/default/files/Rapports_FRAMASOFT_2020-Signes.pdf"
+	}, {
+		"year": "2019",
+		"staff": "10",
+		"earnings": "573999",
+		"total_assets": "",
+		"revenues": "73133",
+		"source_url": "https://soutenir.framasoft.org/sites/default/files/FRAMASOFT%20-%20Rapport%20G%C3%A9n%C3%A9ral%20%26%20Sp%C3%A9cial%20-%2031-12-2019.pdf"
+	}, {
+		"year": "2018",
+		"staff": "10",
+		"earnings": "475568",
+		"total_assets": "",
+		"revenues": "18253",
+		"source_url": "https://soutenir.framasoft.org/sites/default/files/FRAMASOFT%20-%20Rapport%20G%C3%A9n%C3%A9ral%20%26%20Sp%C3%A9cial%20-%2031.12.2018.pdf"
+	}, {
+		"year": "2017",
+		"staff": "10",
+		"earnings": "414289",
+		"total_assets": "",
+		"revenues": "47957",
+		"source_url": "https://soutenir.framasoft.org/sites/default/files/rapport_financier_2017.pdf"
+	}, {
+		"year": "2016",
+		"staff": "10",
+		"earnings": "317645",
+		"total_assets": "",
+		"revenues": "57756",
+		"source_url": "https://soutenir.framasoft.org/sites/default/files/rapport_financier_2016.pdf"
+	}],
+	"solution_list": [{
+		"title": "Framasoft",
+		"logo_url": "https://framasoft.org/img/biglogo-notxt.png",
+		"website_url": "https://framasoft.org/en/",
+		"created_year": "",
+		"description": "A network dedicated to globally promoting “free” and particularly free software with many services and innovative projects freely put at the disposal of the general public.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [],
+		"licence_list": ["CC BY-SA 4.0"],
+		"source_code_download": "https://framagit.org/framasoft/framanav.git",
+		"source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
+		"commercial_support_url": "https://soutenir.framasoft.org/fr/",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Framasoft",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Framagenda",
+		"logo_url": "",
+		"website_url": "https://framagenda.org/login",
+		"created_year": "2005",
+		"description": "Framagenda is an online agenda based on Nextcloud; It allows you to create and share multiple calendars, schedule appointments and tasks and keep contacts easily accessible from anywhere.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": ["AGPL-3.0"],
+		"source_code_download": "https://github.com/nextcloud/calendar.git",
+		"source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
+		"commercial_support_url": "https://soutenir.framasoft.org/fr/",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Framasoft",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Framapad",
+		"logo_url": "https://framapad.org/abc/img/icons/pad.svg",
+		"website_url": "https://framapad.org/abc/en/",
+		"created_year": "2004",
+		"description": "A pad is an online collaborative text editor. The contributions of each user are indicated by a colour code, appear on the screen in real time and are recorded as they are typed.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "LibreOffice - Writer",
+			"similiar_software_url": "https://www.libreoffice.org/discover/writer/",
+			"category": "Information Technology"
+		}, {
+			"title": "Nuclino",
+			"similiar_software_url": "https://www.nuclino.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Etherpad",
+			"similiar_software_url": "https://etherpad.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "Twake",
+			"similiar_software_url": "https://twake.app/https://twake.app/",
+			"category": "Information Technology"
+		}, {
+			"title": "HackMD",
+			"similiar_software_url": "https://hackmd.io/",
+			"category": "Information Technology"
+		}, {
+			"title": "WPS Office",
+			"similiar_software_url": "https://www.wps.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["Apache 2.0"],
+		"source_code_download": "https://github.com/framasoft/framapad.git",
+		"source_code_profile": "https://www.openhub.net/p/etherpad_lite/analyses/latest/languages_summary",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Framadate",
+		"logo_url": "https://framadate.org/abc/img/icons/date.svg",
+		"website_url": "https://framadate.org/abc/fr/",
+		"created_year": "2005",
+		"description": "Framadate is an online service for planning an appointment or making a decision quickly and easily. No registration is required.",
+		"category_list": [],
+		"similar_software_list": [{
+			"title": "Doodle",
+			"similiar_software_url": "https://doodle.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Rally",
+			"similiar_software_url": "https://rallly.co/",
+			"category": "Information Technology"
+		}, {
+			"title": "FullCalendar",
+			"similiar_software_url": "https://fullcalendar.io/",
+			"category": "Information Technology"
+		}, {
+			"title": "Timegrid",
+			"similiar_software_url": "https://github.com/timegridio/timegrid",
+			"category": "Information Technology"
+		}, {
+			"title": "jawanndenn",
+			"similiar_software_url": "https://jawanndenn.de/",
+			"category": "Information Technology"
+		}, {
+			"title": "Dudle",
+			"similiar_software_url": "https://dudle.inf.tu-dresden.de/",
+			"category": "Information Technology"
+		}, {
+			"title": "Xoyondo",
+			"similiar_software_url": "https://xoyondo.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Framindmap",
+		"logo_url": "",
+		"website_url": "https://framindmap.org/c/login",
+		"created_year": "",
+		"description": "",
+		"category_list": [],
+		"similar_software_list": [],
+		"licence_list": ["AGPLv3.0"],
+		"source_code_download": "https://github.com/framasoft/framindmap.git",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Peertube",
+		"logo_url": "https://joinpeertube.org/img/brand.png",
+		"website_url": "https://joinpeertube.org/",
+		"created_year": "2018",
+		"description": "PeerTube is a free, open-source, decentralized video platform",
+		"category_list": ["Information Technology", "Media and Entertainment"],
+		"similar_software_list": [{
+			"title": "Youtube",
+			"similiar_software_url": "https://www.youtube.com/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "WebTorrent",
+			"similiar_software_url": "https://webtorrent.io/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "Vimeo",
+			"similiar_software_url": "https://vimeo.com/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "Dailymotion",
+			"similiar_software_url": "https://www.dailymotion.com/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "LBRY",
+			"similiar_software_url": "https://lbry.com/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "Odysee",
+			"similiar_software_url": "https://odysee.com/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "Twitch",
+			"similiar_software_url": "https://www.twitch.tv/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "DTube",
+			"similiar_software_url": "https://d.tube/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}, {
+			"title": "VidLii",
+			"similiar_software_url": "https://www.vidlii.com/",
+			"category": ["Information Technology", "Media and Entertainment"]
+		}],
+		"licence_list": ["AGPLv3.0"],
+		"source_code_download": "https://github.com/Chocobozzz/PeerTube.git",
+		"source_code_profile": "https://www.openhub.net/p/PeerTube/analyses/latest/languages_summary",
+		"commercial_support_url": "https://framasoft.org/fr/#soutenir",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/PeerTube",
+		"reference_list": [],
+		"success_case_list": []
+	}]
 }
