@@ -18,41 +18,27 @@
 	},
   "founded_year": "2016",
   "kpi_list": [{
-    "year": "2021",
-    "staff": "9",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
-  },{
     "year": "2020",
     "staff": "9",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "1 870 600 €",
-    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
+    "earnings": "703270",
+    "total_assets": "1094494",
+    "revenues": "1870645",
+    "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
   }, {
     "year": "2019",
     "staff": "9",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "1 531 400 €",
-    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
+    "earnings": "415850",
+    "total_assets": "591225",
+    "revenues": "1531379",
+    "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
   },{
     "year": "2018",
     "staff": "8",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "1 159 500 €",
-    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html"
-  },{
-    "year": "2017",
-    "staff": "6",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "541 600 €",
-    "source_url": "https://www.societe.com/bilan/worteks-824429708202012311.html" 
-  },{
+    "earnings": "363411",
+    "total_assets": "375374",
+    "revenues": "1159508",
+    "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+  }],
   "solution_list": [{
     "title": "W'Sweet",
     "logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
