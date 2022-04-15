@@ -28,7 +28,7 @@
 		"year": "2019",
 		"staff": "11",
 		"earnings": "",
-		"total_assets": "1370105,
+		"total_assets": "1370105",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/SHINKEN-SOLUTIONS-794549543/"
 	}, {
@@ -52,7 +52,7 @@
 		"website_url": "http://www.shinken-monitoring.org/download.php",
 		"created_year": "2009",
 		"description": "",
-		"category_list": "Information Technology"
+		"category_list": "Information Technology",
 		"similar_software_list": [{
 			"title": "Nagios",
 			"similiar_software_url": "https://www.nagios.org/",
