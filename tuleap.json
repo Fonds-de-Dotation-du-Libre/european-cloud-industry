@@ -1,206 +1,206 @@
 {
-  "created": "2022-04-05",
-  "title": "Enalean",
-  "type": "Corporation",
-  "logo_url": "https://www.enalean.com/assets/logo-enalean.47fe4ce8.svg",
-  "location": {
-    "title": "Enalean Siège Social",
-    "address": "87 avenue de Chambéry",
-    "postal_code": "73230",
-    "city": "Saint-Alban-Leysse",
-    "country": "FR",
-    "phone_contact": "+33981419616 ",
-    "mail_contact": "contact@enalean.com",
-    "coordinate_list": ["45.573866872895536, 5.9505117547145145"]
-  },
-  "subsidiary_location_list": ["CH"],
-  "website_url": "https://www.enalean.com/",
-  "founded_year": "2010",
-  "kpi_list": [{
-    "year": "2015",
-    "staff": "",
-    "earnings": "779300",
-    "total_assets": "",
-    "revenues": "66500",
-    "source_url": "https://www.societe.com/bilan/enalean-531796621201512311.html"
-  }],
-  "solution_list": [{
-    "title": "Tuleap",
-    "logo_url": "https://www.tuleap.org/wp-content/themes/tuleap-child/assets/img/svg/logo-tuleap-white.svg",
-    "website_url": "https://www.tuleap.org/",
-    "created_year": "2010",
-    "description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "Github",
-      "similiar_software_url": "https://github.com/",
-      "category": "Information Technology"
-    },{
-      "title": "GitLab",
-      "similiar_software_url": "https://about.gitlab.com/",
-      "category": "Information Technology"
-    },{
-      "title": "Gitea",
-      "similiar_software_url": "https://gitea.com/",
-      "category": "Information Technology"
-    },{
-      "title": "Jira",
-      "similiar_software_url": "https://www.atlassian.com/software/jira",
-      "category": "Information Technology"
-    },{
-      "title": "Kanboard",
-      "similiar_software_url": "https://kanboard.org/",
-      "category": "Information Technology"
-    }],
-    "licence_list": ["GPL v.2"],
-    "source_code_download": "https://github.com/Enalean/tuleap.git",
-    "source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.tuleap.org/fr/tarifs/sur-site",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tuleap_(project_management)",
-    "reference_list": [{
-      "title": "Orange",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-orange.png",
-      "country": "FR",
-      "industry": "Telecommunication"
-    },{
-      "title": "CEA - Commissariat à l'énergie atomique et aux énergies alternatives",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-cea.png",
-      "country": "FR",
-      "industry": "Defense", "Public Administration and Government"
-    },{
-      "title": "Socomec",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-socomec-1.png",
-      "country": "FR",
-      "industry": "Energy and Utilities"
-    },{
-      "title": "Megmeet",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-megmeet-1.png",
-      "country": "CN",
-      "industry": "ELectrical Engineering"
-    },{
-      "title": "Rhode & Schwarz",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-rohde-schwarz-1.png",
-      "country": "DE",
-      "industry": "Electronics"
-    },{
-      "title": "ACMS",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2019/10/logo-acms.png",
-      "country": "FR",
-      "industry": "Health and Medical"
-    },{
-      "title": "Portuguese Agency for Administrative Modernization ",
-      "logo_url": "https://www.ama.gov.pt/image/layout_set_logo?img_id=184351&t=1649396857882",
-      "country": "PT",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Indian Department of Information Technology",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-indian-dept-information-technology.png",
-      "country": "IN",
-      "industry": "Public Administration and Government", "Information Technology"
-    },{
-      "title": "Capsys",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-capsys.png",
-      "country": "FR",
-      "industry": "Automotive", "Electronic Industry"
-    },{
-      "title": "PA.COTTE",
-      "logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-pa.cotte-dark-1.png",
-      "country": "FR",
-      "industry": "Information Technology"
-    }],
-    "success_case_list": [{
-      "title": "The new era of ALM in Airbus with Tuleap",
-      "description": "Since 2015, Airbus has performed a huge change in its mindset. They tend to become more and more digitalized, therefore obviously relying more and more on Open Source. To support this new way of working, building an agile environment was required: a goal they finally reached thanks to Tuleap, the Open-Source Application Lifecycle Management (ALM) software.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2021/01/use-case-airbus-3.png",
-      "industry": "Aviation and Aerospace",
-      "customer": "Airbus Group",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/the-new-era-of-alm-in-airbus-with-tuleap"
-    },{
-      "title": "TThe French Defense Procurement Agency (DGA) launches its agile transformation with an innovative Digital Workplace",
-      "description": "The Information Systems Department of the Directorate General of Armaments of the French government has launched a major agile digital transformation project to digitize daily work tools, modernize project management in a more agile mode and increase collaboration among teams. Tuleap is the basis of this new Digital Workplace.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2021/05/use-case-sleepinnov.png",
-      "industry": "Defense", "Public Administration and Government",
-      "customer": "DGA IT department",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/the-french-dga-launches-its-agile-digital-transformation"
-    },{
-      "title": "How does Sleepinnov Technology ensure its compliance to ISO 13485 and IEC 62304 standards for medical device software with Tuleap?",
-      "description": "SleepInnov Technology is a high-tech company that develops medical devices for the diagnosis and monitoring of patients with respiratory complications (sleep apnea, obstructive pulmonary disease, etc.). Their products are intended for healthcare professionals, commercialized in France and internationally. Thanks to Tuleap, SleepInnov has set up processes to ensure traceability and consistency at each step of the development of its medical devices.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2021/05/use-case-sleepinnov.png",
-      "industry": "Health and Life Sciences",
-      "customer": "SleepInnov Technology",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/sleepinnov-techno-achieving-iso-medical-device-compliance"
-    },{
-      "title": "Thales develops an integrated environment with full traceability for defense projects",
-      "description": "Thales Group is a French multinational company that designs, builds electrical systems, and provides services for several markets such as aerospace, transport, and security. Thales is the world leader in cybersecurity and operates throughout the global industry. Thanks to Tuleap, Thales implemented processes to guarantee strong traceability and strict confidentiality throughout the projects.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/HP-use-case-thales-1024x640.png",
-      "industry": "Defense",
-      "customer": "Thales",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/thales-develops-an-integrated-environment-with-full-traceability-for-defense-projects"
-    },{
-      "title": "STMicroelectronics gains full control over complex software systems application lifecycle",
-      "description": "STMicroelectronics is now part of the world’s leaders in both the semiconductor and the industrial applications industries. To be competitive, the manufacturer had to master the entire software production chain delivery. With Tuleap, STMicroelectronics has established processes to ensure end-to-end traceability, as well as improved internal and external collaboration to manage projects.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2022/01/use-case-st.png",
-      "industry": "Information Technology",
-      "customer": "STMicroelectronics",
-      "country": "CH",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/stmicroelectronics-controls-complex-software-application-lifecycle"
-    },{
-      "title": "Vignal Group optimizes its Quality Management System to ensure compliance with IATF software standards with Tuleap",
-      "description": "Vignal Group is a global player specialized in innovative lighting as well as safety products and systems for major manufacturers of commercial and off-roads vehicles. Operating over 3 continents (America, Asia and Europe) with more than 600 employees. Vignal Group currently has 6 production sites and develops more than 20 product lines. Thanks to Tuleap, Vignal Group has achieved its objective of full traceability while allowing teams to gain in productivity.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2021/09/use-case-vignal-1024x640.png",
-      "industry": "Automotive",
-      "customer": "Vignal Group",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/vignal-group-optimizes-its-quality-management-system-to-ensure-compliance-with-iatf-software-standards-with-tuleap"
-    },{
-      "title": "Sodern implements a future-proof environment for long-term software projects",
-      "description": "As a subsidiary of the European leader in access to space ArianeGroup, Sodern’s core business is the series production of star trackers that enable satellites to orient themselves precisely in space. To consolidate its position as a world leader in optronics and neutron technology,  Sodern had to be able to effectively control projects, track defects and manage source code. The company choose Tuleap for its capabilities as well its Open Source aspect.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-sodern.png",
-      "industry": "Aviation and Aerospace",
-      "customer": "Sodern (ArianeGroup) ",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/sodern-quality-open-source-keys-future-proof-alm"
-    },{
-      "title": "JTEKT achieves Compliance in the Automotive Industry: ISO 26262 and ASPICE with Tuleap",
-      "description": "JTEKT Corporation is a Japanese international company, created by the merger of Koyo and Toyoda, two subsidiaries of Toyota. The organization is a manufacturer in different areas such as automotive, aerospace, wind power generation and more. But it is above all one of the world leaders in the electric power steering market, supplying major manufacturers like BMW and Daimler. Thanks to Tuleap, JTEKT is now able to meet ASPICE requirements while enabling teams to gain productivity.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-jtekt.png",
-      "industry": "Automotive",
-      "customer": "JTEKT",
-      "country": "JP",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/jtekt-achieving-automotive-spice"
-    },{
-      "title": "The UGA merged its IT departments and succeeded in its agile transformation, from values to tools",
-      "description": "The « Université Grenoble Alpes » (UGA) is a renowned university of France that attracts 55.000 students per year and 6.000 staff members. The need of merging different IT departments was also the opportunity to launch an agile transformation, from values to tools. Within a few months, the UGA Information Systems Division (ISD) has succeeded in changing the operating procedures for their software development projects. Precisely, the agile tool Tuleap has enabled the ISD to effectively implement agile approaches and methods.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2020/04/logo-UGA-1024x628.png",
-      "industry": "Academia and Research",
-      "customer": "Université Grenoble Alpes",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/the-uga-merges-its-it-departments-and-succeeds-in-its-agile-transformation-from-values-to-tools"
-    },{
-      "title": "3 French ministries built an app to manage large volumes of data with Scrum of Scrum",
-      "description": "Three French Ministries – The Ministry of the Armed Forces, the Ministry for Europe and Foreign Affairs and the Ministry of Culture – associated to take up the challenge of developing a digital archiving to manage large volumes of data through the Vitam Program. Thanks to Tuleap, teams have implemented processes that ensure complete traceability throughout the projects and improved customer satisfaction.",
-      "image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-vitam-1024x582.png",
-      "industry": "Public Administration and Gvernment",
-      "customer": "VITAM Program (French Government)",
-      "country": "FR",
-      "language": "EN",
-      "success_case_url": "https://www.tuleap.org/resources/success-stories/3-french-ministries-are-developing-an-app-to-manage-large-volumes-of-data-with-scrum-of-scrum"
-    }]
-  }]
+	"created": "2022-04-05",
+	"title": "Enalean",
+	"type": "Corporation",
+	"logo_url": "https://www.enalean.com/assets/logo-enalean.47fe4ce8.svg",
+	"location": {
+		"title": "Enalean Siège Social",
+		"address": "87 avenue de Chambéry",
+		"postal_code": "73230",
+		"city": "Saint-Alban-Leysse",
+		"country": "FR",
+		"phone_contact": "+33981419616 ",
+		"mail_contact": "contact@enalean.com",
+		"coordinate_list": ["45.573866872895536, 5.9505117547145145"]
+	},
+	"subsidiary_location_list": ["CH"],
+	"website_url": "https://www.enalean.com/",
+	"founded_year": "2010",
+	"kpi_list": [{
+		"year": "2015",
+		"staff": "",
+		"earnings": "779300",
+		"total_assets": "",
+		"revenues": "66500",
+		"source_url": "https://www.societe.com/bilan/enalean-531796621201512311.html"
+	}],
+	"solution_list": [{
+		"title": "Tuleap",
+		"logo_url": "https://www.tuleap.org/wp-content/themes/tuleap-child/assets/img/svg/logo-tuleap-white.svg",
+		"website_url": "https://www.tuleap.org/",
+		"created_year": "2010",
+		"description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Github",
+			"similiar_software_url": "https://github.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "GitLab",
+			"similiar_software_url": "https://about.gitlab.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Gitea",
+			"similiar_software_url": "https://gitea.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Jira",
+			"similiar_software_url": "https://www.atlassian.com/software/jira",
+			"category": "Information Technology"
+		}, {
+			"title": "Kanboard",
+			"similiar_software_url": "https://kanboard.org/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["GPL v.2"],
+		"source_code_download": "https://github.com/Enalean/tuleap.git",
+		"source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.tuleap.org/fr/tarifs/sur-site",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Tuleap_(project_management)",
+		"reference_list": [{
+			"title": "Orange",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-orange.png",
+			"country": "FR",
+			"industry": "Telecommunication"
+		}, {
+			"title": "CEA - Commissariat à l'énergie atomique et aux énergies alternatives",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-cea.png",
+			"country": "FR",
+			"industry": ["Defense", "Public Administration and Government"]
+		}, {
+			"title": "Socomec",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-socomec-1.png",
+			"country": "FR",
+			"industry": "Energy and Utilities"
+		}, {
+			"title": "Megmeet",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-megmeet-1.png",
+			"country": "CN",
+			"industry": "ELectrical Engineering"
+		}, {
+			"title": "Rhode & Schwarz",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-rohde-schwarz-1.png",
+			"country": "DE",
+			"industry": "Electronics"
+		}, {
+			"title": "ACMS",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/10/logo-acms.png",
+			"country": "FR",
+			"industry": "Health and Medical"
+		}, {
+			"title": "Portuguese Agency for Administrative Modernization ",
+			"logo_url": "https://www.ama.gov.pt/image/layout_set_logo?img_id=184351&t=1649396857882",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Indian Department of Information Technology",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-indian-dept-information-technology.png",
+			"country": "IN",
+			"industry": ["Public Administration and Government", "Information Technology"]
+		}, {
+			"title": "Capsys",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-capsys.png",
+			"country": "FR",
+			"industry": ["Automotive", "Electronic Industry"]
+		}, {
+			"title": "PA.COTTE",
+			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-pa.cotte-dark-1.png",
+			"country": "FR",
+			"industry": "Information Technology"
+		}],
+		"success_case_list": [{
+			"title": "The new era of ALM in Airbus with Tuleap",
+			"description": "Since 2015, Airbus has performed a huge change in its mindset. They tend to become more and more digitalized, therefore obviously relying more and more on Open Source. To support this new way of working, building an agile environment was required: a goal they finally reached thanks to Tuleap, the Open-Source Application Lifecycle Management (ALM) software.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2021/01/use-case-airbus-3.png",
+			"industry": "Aviation and Aerospace",
+			"customer": "Airbus Group",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-new-era-of-alm-in-airbus-with-tuleap"
+		}, {
+			"title": "TThe French Defense Procurement Agency (DGA) launches its agile transformation with an innovative Digital Workplace",
+			"description": "The Information Systems Department of the Directorate General of Armaments of the French government has launched a major agile digital transformation project to digitize daily work tools, modernize project management in a more agile mode and increase collaboration among teams. Tuleap is the basis of this new Digital Workplace.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2021/05/use-case-sleepinnov.png",
+			"industry": ["Defense", "Public Administration and Government"],
+			"customer": "DGA IT department",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-french-dga-launches-its-agile-digital-transformation"
+		}, {
+			"title": "How does Sleepinnov Technology ensure its compliance to ISO 13485 and IEC 62304 standards for medical device software with Tuleap?",
+			"description": "SleepInnov Technology is a high-tech company that develops medical devices for the diagnosis and monitoring of patients with respiratory complications (sleep apnea, obstructive pulmonary disease, etc.). Their products are intended for healthcare professionals, commercialized in France and internationally. Thanks to Tuleap, SleepInnov has set up processes to ensure traceability and consistency at each step of the development of its medical devices.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2021/05/use-case-sleepinnov.png",
+			"industry": "Health and Life Sciences",
+			"customer": "SleepInnov Technology",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/sleepinnov-techno-achieving-iso-medical-device-compliance"
+		}, {
+			"title": "Thales develops an integrated environment with full traceability for defense projects",
+			"description": "Thales Group is a French multinational company that designs, builds electrical systems, and provides services for several markets such as aerospace, transport, and security. Thales is the world leader in cybersecurity and operates throughout the global industry. Thanks to Tuleap, Thales implemented processes to guarantee strong traceability and strict confidentiality throughout the projects.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/HP-use-case-thales-1024x640.png",
+			"industry": "Defense",
+			"customer": "Thales",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/thales-develops-an-integrated-environment-with-full-traceability-for-defense-projects"
+		}, {
+			"title": "STMicroelectronics gains full control over complex software systems application lifecycle",
+			"description": "STMicroelectronics is now part of the world’s leaders in both the semiconductor and the industrial applications industries. To be competitive, the manufacturer had to master the entire software production chain delivery. With Tuleap, STMicroelectronics has established processes to ensure end-to-end traceability, as well as improved internal and external collaboration to manage projects.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2022/01/use-case-st.png",
+			"industry": "Information Technology",
+			"customer": "STMicroelectronics",
+			"country": "CH",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/stmicroelectronics-controls-complex-software-application-lifecycle"
+		}, {
+			"title": "Vignal Group optimizes its Quality Management System to ensure compliance with IATF software standards with Tuleap",
+			"description": "Vignal Group is a global player specialized in innovative lighting as well as safety products and systems for major manufacturers of commercial and off-roads vehicles. Operating over 3 continents (America, Asia and Europe) with more than 600 employees. Vignal Group currently has 6 production sites and develops more than 20 product lines. Thanks to Tuleap, Vignal Group has achieved its objective of full traceability while allowing teams to gain in productivity.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2021/09/use-case-vignal-1024x640.png",
+			"industry": "Automotive",
+			"customer": "Vignal Group",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/vignal-group-optimizes-its-quality-management-system-to-ensure-compliance-with-iatf-software-standards-with-tuleap"
+		}, {
+			"title": "Sodern implements a future-proof environment for long-term software projects",
+			"description": "As a subsidiary of the European leader in access to space ArianeGroup, Sodern’s core business is the series production of star trackers that enable satellites to orient themselves precisely in space. To consolidate its position as a world leader in optronics and neutron technology,  Sodern had to be able to effectively control projects, track defects and manage source code. The company choose Tuleap for its capabilities as well its Open Source aspect.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-sodern.png",
+			"industry": "Aviation and Aerospace",
+			"customer": "Sodern (ArianeGroup) ",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/sodern-quality-open-source-keys-future-proof-alm"
+		}, {
+			"title": "JTEKT achieves Compliance in the Automotive Industry: ISO 26262 and ASPICE with Tuleap",
+			"description": "JTEKT Corporation is a Japanese international company, created by the merger of Koyo and Toyoda, two subsidiaries of Toyota. The organization is a manufacturer in different areas such as automotive, aerospace, wind power generation and more. But it is above all one of the world leaders in the electric power steering market, supplying major manufacturers like BMW and Daimler. Thanks to Tuleap, JTEKT is now able to meet ASPICE requirements while enabling teams to gain productivity.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-jtekt.png",
+			"industry": "Automotive",
+			"customer": "JTEKT",
+			"country": "JP",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/jtekt-achieving-automotive-spice"
+		}, {
+			"title": "The UGA merged its IT departments and succeeded in its agile transformation, from values to tools",
+			"description": "The « Université Grenoble Alpes » (UGA) is a renowned university of France that attracts 55.000 students per year and 6.000 staff members. The need of merging different IT departments was also the opportunity to launch an agile transformation, from values to tools. Within a few months, the UGA Information Systems Division (ISD) has succeeded in changing the operating procedures for their software development projects. Precisely, the agile tool Tuleap has enabled the ISD to effectively implement agile approaches and methods.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2020/04/logo-UGA-1024x628.png",
+			"industry": "Academia and Research",
+			"customer": "Université Grenoble Alpes",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-uga-merges-its-it-departments-and-succeeds-in-its-agile-transformation-from-values-to-tools"
+		}, {
+			"title": "3 French ministries built an app to manage large volumes of data with Scrum of Scrum",
+			"description": "Three French Ministries – The Ministry of the Armed Forces, the Ministry for Europe and Foreign Affairs and the Ministry of Culture – associated to take up the challenge of developing a digital archiving to manage large volumes of data through the Vitam Program. Thanks to Tuleap, teams have implemented processes that ensure complete traceability throughout the projects and improved customer satisfaction.",
+			"image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-vitam-1024x582.png",
+			"industry": "Public Administration and Gvernment",
+			"customer": "VITAM Program (French Government)",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://www.tuleap.org/resources/success-stories/3-french-ministries-are-developing-an-app-to-manage-large-volumes-of-data-with-scrum-of-scrum"
+		}]
+	}]
 }
