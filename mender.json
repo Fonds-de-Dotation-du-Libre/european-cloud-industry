@@ -60,65 +60,72 @@
 		"source_url": ""
 	}],
 	"solution_list": [{
-		"title": "mender open source",
+		"title": "Mender",
 		"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
 		"website_url": "https://mender.io/plans/features",
 		"created_year": "2016",
 		"description": "Mender enables developers and device makers to adapt to an evolving product landscape by managing and deploying all device software remotely, worldwide.",
-		"category_list": ["IOT"],
+		"category_list": ["Information Technology"],
 		"similar_software_list": [{
-			"title": "",
-			"similiar_software_url": "",
-			"category": "",
-
 			"title": "Particle",
 			"similiar_software_url": "https://www.particle.io/",
-			"category": "IOT",
-
+			"category": "Information Technology"
+		},{
 			"title": "Hologram",
 			"similiar_software_url": "https://www.hologram.io/discover/hardware/global-iot-simcard?utm_source=google&utm_medium=cpc&utm_campaign=branded-country-expansion&gclid=CjwKCAjw0a-SBhBkEiwApljU0n3z7ag5WHFeUxxUQkzqSfwRygr7TqCr_N57YJVLVV3vSZHFSUuQWxoCpPQQAvD_BwE",
-			"category": "IOT",
-
+			"category": "Information Technology",
+		},{
 			"title": "Thingswork",
 			"similiar_software_url": "https://www.ptc.com/en/products/thingworx",
-			"category": "IOT",
-
+			"category": "Information Technology",
+		},{
 			"title": "Google Cloud IOT core",
 			"similiar_software_url": "https://cloud.google.com/iot-core",
-			"category": "IOT"
+			"category": "Information Technology"
 		}],
 		"licence_list": ["Apache License v2"],
 		"source_code_download": "https://github.com/mendersoftware",
 		"source_code_profile": "https://www.openhub.net/p/mender",
 		"commercial_support_url": "https://mender.io/contact-us",
 		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.everybodywiki.com/Mender",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
+		"title": "Airbus Commercial Aircraft",
+			"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
+			"country": "FR",
+			"industry": "aeronautics"
+		},{
+			"title": "Alz.ai",
+			"logo_url": "https://alz-knox-prod-1.s3.amazonaws.com/img/logo_full.svg?AWSAccessKeyId=AKIAS6R4YICTPWVNYZG2&Signature=dq1KIhfTXlxravcY7i27rqktsdM%3D&Expires=1650358817",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Ather energy",
+			"logo_url": "https://www.atherenergy.com/images/common/logo-circle.png",
+			"country": "IN",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Avast",
+			"logo_url": "https://static3.avast.com/10002295/web/i/v2/components/logos/avast-logos/avast-logo-default.svg",
+			"country": "CZ",
+			"industry": "Information Technology"
+		},{
+			"title": "Bench Sentry",
+			"logo_url": "https://cdn.shopify.com/s/files/1/0051/3949/7078/files/BenchSentryGenie_Logo_FLAT_Oct2021_Web_WhiteText_250x.png?v=1635540910",
+			"country": "US",
+			"industry": "Banking and Finance"
 		}],
 		"success_case_list": [{
-			"title": "MacGrogar and Mender",
-			"description": "Mender provides secure and robust OTA updates to help ensure the product security of OnWatch Scout. OTA updates are also used to update the machine learning models that run on the edge computers.The machine learning models need to be transferred, the product security updatesneed to be transferred, and both in a challenging connectivity environment consisting of LTE and Satellite. Mender offers Delta updates (partial updates) and OTA update resumption capabilities to address these needs.",
+			"title": "",
+			"description": "",
 			"image_url": "",
-			"industry": "engineering",
-			"customer": "MacGregor",
-			"country": "US",
-			"language": "EN",
-			"success_case_url": "https://mender.io/customers/mender_case_study_macgregor.pdf",
-
-			"title": "Gunnebo and Mender",
-			"description": "GBS investigated several solutions and Mender stood out as the most efficient and cost effective OTA solution option.",
-			"image_url": "",
-			"industry": "security products",
-			"customer": "Gunnebo",
-			"country": "SE",
-			"language": "EN",
-			"success_case_url": "https://mender.io/customers/mender_case_study_gunnebo.pdf"
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
 		}]
 	}]
 }
