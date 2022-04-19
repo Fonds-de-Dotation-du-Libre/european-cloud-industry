@@ -1,10 +1,10 @@
 {
-	"created": "2008",
-	"title": "mail.ru",
-	"type": "corporation",
+	"created": "05-04-2022",
+	"title": "Mail.ru Group",
+	"type": "Company",
 	"logo_url": "https://static.tarantool.io/pub/1.3.54/tarantool/images/logo-full.svg",
 	"location": {
-		"title": "tarantool",
+		"title": "Tarantool",
 		"address": "Leningradskiy prospect, 39, build 79, SkyLight",
 		"postal_code": "125167",
 		"city": "Moscow",
@@ -60,101 +60,203 @@
 		"source_url": ""
 	}],
 	"solution_list": [{
-		"title": "tarantool",
-		"logo_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/logo-full.svg",
-		"website_url": "https://www.tarantool.io/en/rtm/",
-		"created_year": "2008",
-		"description": "One of these solutions was designed for a top 5 retailer in Russia. The system handles a workload of more than 2,000 operations per second. The data marts created by the Tarantool team display all the information about customer profiles and actions.",
-		"category_list": ["marketing"],
-		"similar_software_list": [{
-			"title": "Redis",
-			"similiar_software_url": "https://redis.io/",
-			"category": "database management",
-
-			"title": "Aerospike",
-			"similiar_software_url": "https://aerospike.com/?utm_term=aerospike_e&utm_campaign=GS_EMEA_EN_Brand_Exact&utm_source=google&utm_medium=cpc&gclid=CjwKCAjw0a-SBhBkEiwApljU0u1IB93fysnCJMQLhmTRy11serVwm40cMtJt3WWtHlIlA2AlwKPPfBoCTyAQAvD_BwE",
-			"category": "database management",
-
-			"title": "Mongodb",
-			"similiar_software_url": "https://www.mongodb.com/",
-			"category": "database management",
-
-			"title": "MySQL",
-			"similiar_software_url": "https://www.mysql.com/",
-			"category": "database management",
-
-			"title": "Clickhouse",
-			"similiar_software_url": "https://clickhouse.com/",
-			"category": "database management"
-		}],
-		"licence_list": ["Simplified BSD"],
-		"source_code_download": "https://github.com/tarantool/tarantool",
-		"source_code_profile": "https://www.openhub.net/p/tarantool",
-		"commercial_support_url": "https://www.tarantool.io/en/request_support/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Tarantool",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "Combining data from multiple systems in Alfa-Bank's investment business core",
-			"description": "For years, lines of investment business in Alfa-Bank evolved independently. The variety of systems and their heterogeneity were causing problems, as the systems’ codebase became rather obsolete. The systems duplicated each other’s functions; each system had its own data model, although they used the same concepts. Sometimes it affected performance: an analytical query would take half an hour, data got outdated, and the system was on the verge of breaking with a workload of 5,000 transactions per day.",
-			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/alfabank/alfabank-logo.svg",
-			"industry": "investment banking",
-			"customer": "Alfa bank",
-			"country": "RU",
-			"language": "EN",
-			"success_case_url": "https://www.tarantool.io/en/cases/alfabank/",
-
-			"title": "Speeding up MegaFon services with Tarantool",
-			"description": "In 2016, the external audit of the IT landscape in MegaFon has shown that it is necessary to improve fault tolerance and availability of basic structures: billing, ERP, operations and business support systems. Almost all of them use Oracle as the single data storage. This means that at peak loads, the ascending structure may fail, which negatively affected the subscriber service.",
-			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/megafon/megafon-logo.svg",
-			"industry": "telecommunication",
-			"customer": "MegaFon",
-			"country": "RU",
-			"language": "EN",
-			"success_case_url": "https://www.tarantool.io/en/cases/megafon/",
-
-			"title": "Increasing the product catalog's availability and reliability",
-			"description": "Citilink is one of Russia's top online discount stores. Its extensive network of outlets and depots offers a wide variety of products. In 2020, Citilink's sales amounted to 132.7 billion rubles, which makes it the third-largest company in Russia.",
-			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/citilink/logo.png",
-			"industry": "sales",
-			"customer": "Citilink",
-			"country": "RU",
-			"language": "EN",
-			"success_case_url": "https://www.tarantool.io/en/cases/citilink/",
-
-			"title": "Optimizing TCO with reliable Tarantool cache",
-			"description": "Today, the technical team of Wildberries has its own approach to creating reliable distributed systems. Tarantool is ideal for those systems as a universal storage for high-demand data: user profiles, banners, discounts, etc. In total, the company has twelve Tarantool-based microservices.",
-			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/wildberries/wildberries-logo.svg",
-			"industry": "sales",
-			"customer": "Wildberries",
-			"country": "RU",
-			"language": "EN",
-			"success_case_url": "https://www.tarantool.io/en/cases/wildberries/",
-
-			"title": "Tarantool-based PCI DSS compliant payment service",
-			"description": "The cardholder must be able to transfer money by phone number, social network ID, or other details without knowing the recipient’s card number. The companies jointly drafted the terms of reference and ubased the implementation on Tarantool.",
-			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/mastercard/mastercard-logo.svg",
-			"industry": "global payment",
-			"customer": "Mastercard",
-			"country": "RU",
-			"language": "EN",
-			"success_case_url": "https://www.tarantool.io/en/cases/mastercard/",
-
-			"title": "Opening a new sales channel and improving the existing infrastructure",
-			"description": "The new software interface is based on the Tarantool in-memory computing platform, which became the middle layer between Magnit’s information systems and the partners’ external applications. The project is based on Tarantool Data Grid. In this Tarantool implementation, deployment issues are initially solved out-of-the-box, which significantly shortens the project timeline.",
-			"image_url": "https://static.tarantool.io/pub/1.3.55/tarantool/images/cases/magnit/logo.png",
-			"industry": "retail",
-			"customer": "Magnit",
-			"country": "RU",
-			"language": "EN",
-			"success_case_url": "https://www.tarantool.io/en/cases/magnit/"
-		}]
+    "title": "Tarantool Community Edition",
+    "logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/community/community-intro.png",
+    "website_url": "https://www.tarantool.io/en/developers/",
+    "created_year": "",
+    "description": "Tarantool keeps all the data in random-access memory (RAM). Solutions of this class are fast, but they often lack data persistence. Tarantool helps overcome these problems. Try Tarantool to see how fast, flexible, and scalable it is.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/tarantool",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.tarantool.io/en/request_support/",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "no",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarantool",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+	},{
+	"title": "Tarantool Enterprise Edition",
+    "logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/logo-full.svg",
+    "website_url": "https://www.tarantool.io/en/product/enterprise/",
+    "created_year": "",
+    "description": "Tarantool has been helping companies all over the world build smart caches, data marts, and golden client profiles, while saving server capacity.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/tarantool",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.tarantool.io/en/request_support/",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "no",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarantool",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "Speeding up MegaFon services with Tarantool",
+      "description": "Tarantool is used as a high-performance solution in the MegaFon real-time marketing (RTM) project. The project is designed to personalize the approach to each client and respond to events in real time. Several Tarantool storefronts solve the issue of fast access to data. RTM marts retrieve and process about 1.5TB of data.",
+      "image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/megafon/megafon-logo.svg",
+      "industry": "Telecommunication",
+      "customer": "MegaFon",
+      "country": "RU",
+      "language": "EN",
+      "success_case_url": "https://www.tarantool.io/en/cases/megafon/"
+  }]
+},{
+	"title": "Catridge",
+    "logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cartridge/main-img.png",
+    "website_url": "https://www.tarantool.io/en/cartridge/",
+    "created_year": "",
+    "description": "Cartridge is a framework for scaling Tarantool databases. With Cartridge, you can create multiple copies on different servers or split your data among several Tarantool nodes. Cartridge allows you to bring Tarantool instances together into configurable clusters.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/tarantool",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.tarantool.io/en/request_support/",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "no",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+	}]
+    },{
+	"title": "Tarantool Data Grid",
+    "logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/logo-full.svg",
+    "website_url": "https://www.tarantool.io/en/datagrid/",
+    "created_year": "",
+    "description": "Information about customers is often stored in different systems: separate services are responsible for orders, personal data, accrued bonuses, etc. The more of these services are accumulated in a project, the more pressing the challenge of linking the data becomes. Creating links between all the systems is time-consuming, complicated, and unreliable. Tarantool Data Grid allows you to collect data from different systems and convert it to a unified format. It can also serve as a data mart, that is, pass the data directly to applications.",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.tarantool.io/en/request_support/",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "no",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "Combining data from multiple systems in Alfa-Bank's investment business core",
+      "description": "We deployed the IB-Core solution in Alfa-Bank. This is an investment banking core based on Tarantool Data Grid. The heart of the system is a cluster of 40+ Tarantool instances deployed in two data centers.",
+      "image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/alfabank/alfabank-logo.svg",
+      "industry": "Finance",
+      "customer": "Alpha-Bank",
+      "country": "GR",
+      "language": "EN",
+      "success_case_url": "https://www.tarantool.io/en/cases/alfabank/"
+    },{
+		"title": "Opening a new sales channel and improving the existing infrastructure",
+      "description": "The new software interface is based on the Tarantool in-memory computing platform, which became the middle layer between Magnit’s information systems and the partners’ external applications. The project is based on Tarantool Data Grid. In this Tarantool implementation, deployment issues are initially solved out-of-the-box, which significantly shortens the project timeline.",
+      "image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/magnit/logo.png",
+      "industry": "Retail and Commerce",
+      "customer": "Magnit",
+      "country": "RU",
+      "language": "EN",
+      "success_case_url": "https://www.tarantool.io/en/cases/magnit/"
+	},{
+		"title": "Speeding up Gazprombank’s internal systems by a factor of 50 with Tarantool",
+      "description": "In mid-2019, Gazprombank launched a project to develop and implement a system based on Tarantool Data Grid. The solution caches data from different banking information systems and ensures the desired performance.",
+      "image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/gpb/logo.png",
+      "industry": "Finance",
+      "customer": "Gazprombank",
+      "country": "RU",
+      "language": "EN",
+      "success_case_url": "https://www.tarantool.io/en/cases/gpb/"
+	}]
+	},{
+	"title": "Tarantool CDC",
+    "logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cdc/intro.png",
+    "website_url": "https://www.tarantool.io/en/cdc/",
+    "created_year": "",
+    "description": "IT solutions based on trending international technologies are expensive in terms of licensing and data integration tools. Tarantool Change Data Capture is a replicator that pulls data from the underlying DBMS. It acts as a replication client and creates no load on the database. Tarantool CDC can help you organize a message broker pipeline, build a cache, or create data marts. With Tarantool CDC, you no longer need licenses for additional products, such as Oracle GoldenGate for Big Data. In this way, you can reduce the maintenance costs of real-time collection and processing of data stored in Oracle, PostgreSQL, MySQL, and other relational DBMSs.",
+    "category_list": ["Information Technology"],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/tarantool",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.tarantool.io/en/request_support/",
+    "floss_software": "yes",
+    "commercial_support_open_source_version": "no",
+    "commercial_support_available": "no",
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+	}]
 	}]
 }
+	
