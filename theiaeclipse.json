@@ -1,10 +1,10 @@
 {
 	"created": "2016",
 	"title": "Typefox Gmbh",
-	"type": "Gmbh",
+	"type": "Company",
 	"logo_url": "data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCAxNTYuNiAzOS40IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGU+LnN0MHtmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtmaWxsOiMwMDVjODV9PC9zdHlsZT48cGF0aCBjbGFzcz0ic3QwIiBkPSJNMy44IDI0LjhjLTIuNC00LjctMi41LTktMS0xMi43QzQuNSA3LjggOC40IDQuMiAxMy4xIDEuM2wuNy0uNHY2LjNjMi42IDAgNC44LjYgNy4xIDEuMSAzLjQuOCA2LjIgMS43IDkuNSAxLjIgMi44LS40LTMuNSA1LjYtMTIuMiA3LjQtNS42IDEuMi04LjUgNC4zLTkuNCA3LjctLjUgMS44LS4zIDMuNy40IDUuNC43IDEuNiAxLjkgMi45IDMuNSAzLjYgMi4xLjkgNC44LjggOC0xIDEuMiAwIDIuNC0uMiAzLjYtLjRsLjUtLjEtLjMuMmMtNSA0LTkuNCA0LjUtMTIuNiAzLjEtMi0uOS0zLjUtMi42LTQuNC00LjYtLjktMi4xLTEuMS00LjQtLjUtNi42IDEtNCA0LjMtNy43IDEwLjgtOS4xIDEuOC0uNCAzLjgtLjggNS42LTEuNiAxLjQtLjUgMi42LTEuMiAzLjgtMi4xLTEuNiAwLTMuMy0uNC01LjMtLjktMi44LS43LTYuMS0xLjUtOS42LTEuMmgtLjVWNC41Yy0zLjUgMi40LTYuMiA1LjQtNy40IDguOC0uOSAyLjctLjkgNS42LjIgOC44LS4yLjQtLjMuOS0uNCAxLjNsLS4zIDEuOC0uMS0uNHoiLz48cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTMuOSAxMS4ybDEuNS0xLjUgMiAxLjd6TTkuNyAyNi43YzUuMSAyLjQgOS43IDEuOSAxNC4xLjEgNC40LTEuOCA4LjYtNS4xIDEyLjYtOC4zIDEuMy0xIDIuNS0xLjkgMy43LTIuOWwtNi41IDIgMy4yLTcuNi0uNS4xYy0xLjEgMS0yLjEgMi4xLTMgMy4zLTEuNiAyLjEtMyA0LjctNC4zIDcuOC0uOS42LTEuOCAxLjEtMi43IDEuNiAxLjUtNC4yIDMuMi03LjYgNS4yLTEwLjMgMi4yLTMgNC42LTUuMiA3LjQtNi40IDIuOC0xLjMgNS44LTEuNCA5LjEtLjcgMS44LjQgMTMuMyA2LjEgMTAuMiA1LjktNi43LTIuNS0xMy4zIDIuNy0yMCA3LjlsLS43LjVjLTQuMSAzLjItOC40IDYuNi0xMyA4LjUtNC43IDItOS42IDIuNS0xNS4xLjFsLS4yLS4xVjI4YzAtLjItLjEtLjQtLjEtLjYgMC0uMiAwLS40LS4xLS43VjI2bC43Ljd6Ii8+PHBhdGggZD0iTTY5LjcgMjMuNGgxLjFWMTAuMmg1LjF2LTFINjQuNnYxaDUuMXYxMy4yem0xNS42LTEwLjFsLTIuNSA1LjktMS4yIDIuOS0xLjItMi45LTIuMy01LjlINzdsNCA5LjktMS45IDQuM2gxLjFsNi4xLTE0LjJoLTF6bTkuOSA5LjNjLTIuMyAwLTQuMS0xLjgtNC4xLTQuMnMxLjctNC4yIDQuMS00LjJjMi4zIDAgNC4xIDEuNCA0LjEgNC4ycy0xLjggNC4yLTQuMSA0LjJ6bS00LjEgNXYtNi41Yy44IDEuNyAyLjQgMi41IDQuMSAyLjUgMi44IDAgNS4xLTEuOCA1LjEtNS4yIDAtMy4yLTIuMi01LjEtNC45LTUuMi0xLjkgMC0zLjUgMS00LjMgMi41di0yLjRoLTF2MTQuMmwxIC4xem0xOC00LjFjMS42IDAgMy40LS43IDQuMy0xLjlsLS43LS42Yy0uOCAxLTIuMyAxLjUtMy42IDEuNS0yLjEgMC0zLjktMS40LTQuMS0zLjdoOWMuNC0zLjktMi4xLTUuNi01LTUuNnMtNS4xIDIuMi01LjEgNS4yYy4xIDMuMiAyLjQgNS4xIDUuMiA1LjF6TTEwNSAxOGMuMi0yLjUgMi0zLjkgNC4xLTMuOSAyLjQgMCA0IDEuNCA0LjEgMy45SDEwNXptMTYgNS40di01LjNoNy4xdi0yLjVIMTIxdi0zLjloNy41VjkuMWgtMTAuMnYxNC4ybDIuNy4xem0xNS4zLTEwLjJjLTMuMiAwLTUuMiAyLjQtNS4yIDUuMnMxLjkgNS4yIDUuMiA1LjJjMy4yIDAgNS4yLTIuMyA1LjItNS4ycy0yLjEtNS4yLTUuMi01LjJ6bTAgMi4yYzEuNyAwIDIuNyAxLjUgMi43IDNzLS45IDIuOS0yLjcgMi45LTIuNy0xLjQtMi43LTIuOS45LTMgMi43LTN6bTEyLjQgMS4zbC0yLTMuNGgtM3YuMWwzLjMgNC45LTMuNSA1di4xaDNsMi4yLTMuNCAyLjIgMy40aDN2LS4xbC0zLjUtNSAzLjMtNC45di0uMWgtM2wtMiAzLjR6IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbD0iIzIzMTkxNiIvPjwvc3ZnPg==",
 	"location": {
-		"title": "Theia Eclipse",
+		"title": "Typefox Gmbh",
 		"address": "Am Germaniahafen 1",
 		"postal_code": "24143",
 		"city": "Kiel",
@@ -20,35 +20,35 @@
 		"year": "2020",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "707.517,47€",
+		"total_assets": "70751747",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?6"
 	}, {
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "494.078,14€",
+		"total_assets": "49407814",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?6"
 	}, {
 		"year": "2018",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "607.508,40€",
+		"total_assets": "60750840",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?25"
 	}, {
 		"year": "2017",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "719.788,10€",
+		"total_assets": "71978810",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?22"
 	}, {
 		"year": "2016",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "376.754,14€",
+		"total_assets": "37675414",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?22"
 	}],
@@ -58,32 +58,172 @@
 		"website_url": "https://theia-ide.org/",
 		"created_year": "2017",
 		"description": "Eclipse Theia is a framework for building a fully customized, single-source IDE that runs in web browsers and as a native desktop application. It combines the design ideas and ecosystem from the Microsoft Visual Studio Code IDE with the flexibility and customization capabilities from the Eclipse IDE so it offers the best of both worlds. Plus, it runs in a browser.",
-		"category_list": ["IDE"],
+		"category_list": ["Information Technology"],
 		"similar_software_list": [{
 			"title": "Visual Studio Code",
 			"similiar_software_url": "https://code.visualstudio.com/",
-			"category": "computer software industry",
-
+			"category": "computer software industry"
+		}, {
 			"title": "VSCodium",
 			"similiar_software_url": "https://vscodium.com/",
-			"category": "",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Dodicad",
 			"similiar_software_url": "http://codiad.com/",
-			"category": "IDE",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Atheos IDE",
 			"similiar_software_url": "https://www.atheos.io/",
-			"category": "IDE"
+			"category": "Information Technology"
 		}],
 		"licence_list": ["Eclipse Public License 2.0 (EPL2)", " GNU General Public License, version 2 (GPLv2)", "classpath exception"],
 		"source_code_download": "https://github.com/eclipse-theia/theia",
 		"source_code_profile": "",
 		"commercial_support_url": "https://theia-ide.org/support/",
 		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Eclipse_Theia",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "VS Code",
+		"logo_url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxtYXNrIGlkPSJtYXNrMCIgbWFzay10eXBlPSJhbHBoYSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTcwLjkxMTkgOTkuMzE3MUM3Mi40ODY5IDk5LjkzMDcgNzQuMjgyOCA5OS44OTE0IDc1Ljg3MjUgOTkuMTI2NEw5Ni40NjA4IDg5LjIxOTdDOTguNjI0MiA4OC4xNzg3IDEwMCA4NS45ODkyIDEwMCA4My41ODcyVjE2LjQxMzNDMTAwIDE0LjAxMTMgOTguNjI0MyAxMS44MjE4IDk2LjQ2MDkgMTAuNzgwOEw3NS44NzI1IDAuODczNzU2QzczLjc4NjIgLTAuMTMwMTI5IDcxLjM0NDYgMC4xMTU3NiA2OS41MTM1IDEuNDQ2OTVDNjkuMjUyIDEuNjM3MTEgNjkuMDAyOCAxLjg0OTQzIDY4Ljc2OSAyLjA4MzQxTDI5LjM1NTEgMzguMDQxNUwxMi4xODcyIDI1LjAwOTZDMTAuNTg5IDIzLjc5NjUgOC4zNTM2MyAyMy44OTU5IDYuODY5MzMgMjUuMjQ2MUwxLjM2MzAzIDMwLjI1NDlDLTAuNDUyNTUyIDMxLjkwNjQgLTAuNDU0NjMzIDM0Ljc2MjcgMS4zNTg1MyAzNi40MTdMMTYuMjQ3MSA1MC4wMDAxTDEuMzU4NTMgNjMuNTgzMkMtMC40NTQ2MzMgNjUuMjM3NCAtMC40NTI1NTIgNjguMDkzOCAxLjM2MzAzIDY5Ljc0NTNMNi44NjkzMyA3NC43NTQxQzguMzUzNjMgNzYuMTA0MyAxMC41ODkgNzYuMjAzNyAxMi4xODcyIDc0Ljk5MDVMMjkuMzU1MSA2MS45NTg3TDY4Ljc2OSA5Ny45MTY3QzY5LjM5MjUgOTguNTQwNiA3MC4xMjQ2IDk5LjAxMDQgNzAuOTExOSA5OS4zMTcxWk03NS4wMTUyIDI3LjI5ODlMNDUuMTA5MSA1MC4wMDAxTDc1LjAxNTIgNzIuNzAxMlYyNy4yOTg5WiIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2swKSI+CjxwYXRoIGQ9Ik05Ni40NjE0IDEwLjc5NjJMNzUuODU2OSAwLjg3NTU0MkM3My40NzE5IC0wLjI3Mjc3MyA3MC42MjE3IDAuMjExNjExIDY4Ljc1IDIuMDgzMzNMMS4yOTg1OCA2My41ODMyQy0wLjUxNTY5MyA2NS4yMzczIC0wLjUxMzYwNyA2OC4wOTM3IDEuMzAzMDggNjkuNzQ1Mkw2LjgxMjcyIDc0Ljc1NEM4LjI5NzkzIDc2LjEwNDIgMTAuNTM0NyA3Ni4yMDM2IDEyLjEzMzggNzQuOTkwNUw5My4zNjA5IDEzLjM2OTlDOTYuMDg2IDExLjMwMjYgMTAwIDEzLjI0NjIgMTAwIDE2LjY2NjdWMTYuNDI3NUMxMDAgMTQuMDI2NSA5OC42MjQ2IDExLjgzNzggOTYuNDYxNCAxMC43OTYyWiIgZmlsbD0iIzAwNjVBOSIvPgo8ZyBmaWx0ZXI9InVybCgjZmlsdGVyMF9kKSI+CjxwYXRoIGQ9Ik05Ni40NjE0IDg5LjIwMzhMNzUuODU2OSA5OS4xMjQ1QzczLjQ3MTkgMTAwLjI3MyA3MC42MjE3IDk5Ljc4ODQgNjguNzUgOTcuOTE2N0wxLjI5ODU4IDM2LjQxNjlDLTAuNTE1NjkzIDM0Ljc2MjcgLTAuNTEzNjA3IDMxLjkwNjMgMS4zMDMwOCAzMC4yNTQ4TDYuODEyNzIgMjUuMjQ2QzguMjk3OTMgMjMuODk1OCAxMC41MzQ3IDIzLjc5NjQgMTIuMTMzOCAyNS4wMDk1TDkzLjM2MDkgODYuNjMwMUM5Ni4wODYgODguNjk3NCAxMDAgODYuNzUzOCAxMDAgODMuMzMzNFY4My41NzI2QzEwMCA4NS45NzM1IDk4LjYyNDYgODguMTYyMiA5Ni40NjE0IDg5LjIwMzhaIiBmaWxsPSIjMDA3QUNDIi8+CjwvZz4KPGcgZmlsdGVyPSJ1cmwoI2ZpbHRlcjFfZCkiPgo8cGF0aCBkPSJNNzUuODU3OCA5OS4xMjYzQzczLjQ3MjEgMTAwLjI3NCA3MC42MjE5IDk5Ljc4ODUgNjguNzUgOTcuOTE2NkM3MS4wNTY0IDEwMC4yMjMgNzUgOTguNTg5NSA3NSA5NS4zMjc4VjQuNjcyMTNDNzUgMS40MTAzOSA3MS4wNTY0IC0wLjIyMzEwNiA2OC43NSAyLjA4MzI5QzcwLjYyMTkgMC4yMTE0MDIgNzMuNDcyMSAtMC4yNzM2NjYgNzUuODU3OCAwLjg3MzYzM0w5Ni40NTg3IDEwLjc4MDdDOTguNjIzNCAxMS44MjE3IDEwMCAxNC4wMTEyIDEwMCAxNi40MTMyVjgzLjU4NzFDMTAwIDg1Ljk4OTEgOTguNjIzNCA4OC4xNzg2IDk2LjQ1ODYgODkuMjE5Nkw3NS44NTc4IDk5LjEyNjNaIiBmaWxsPSIjMUY5Q0YwIi8+CjwvZz4KPGcgc3R5bGU9Im1peC1ibGVuZC1tb2RlOm92ZXJsYXkiIG9wYWNpdHk9IjAuMjUiPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTcwLjg1MTEgOTkuMzE3MUM3Mi40MjYxIDk5LjkzMDYgNzQuMjIyMSA5OS44OTEzIDc1LjgxMTcgOTkuMTI2NEw5Ni40IDg5LjIxOTdDOTguNTYzNCA4OC4xNzg3IDk5LjkzOTIgODUuOTg5MiA5OS45MzkyIDgzLjU4NzFWMTYuNDEzM0M5OS45MzkyIDE0LjAxMTIgOTguNTYzNSAxMS44MjE3IDk2LjQwMDEgMTAuNzgwN0w3NS44MTE3IDAuODczNjk1QzczLjcyNTUgLTAuMTMwMTkgNzEuMjgzOCAwLjExNTY5OSA2OS40NTI3IDEuNDQ2ODhDNjkuMTkxMiAxLjYzNzA1IDY4Ljk0MiAxLjg0OTM3IDY4LjcwODIgMi4wODMzNUwyOS4yOTQzIDM4LjA0MTRMMTIuMTI2NCAyNS4wMDk2QzEwLjUyODMgMjMuNzk2NCA4LjI5Mjg1IDIzLjg5NTkgNi44MDg1NSAyNS4yNDZMMS4zMDIyNSAzMC4yNTQ4Qy0wLjUxMzMzNCAzMS45MDY0IC0wLjUxNTQxNSAzNC43NjI3IDEuMjk3NzUgMzYuNDE2OUwxNi4xODYzIDUwTDEuMjk3NzUgNjMuNTgzMkMtMC41MTU0MTUgNjUuMjM3NCAtMC41MTMzMzQgNjguMDkzNyAxLjMwMjI1IDY5Ljc0NTJMNi44MDg1NSA3NC43NTRDOC4yOTI4NSA3Ni4xMDQyIDEwLjUyODMgNzYuMjAzNiAxMi4xMjY0IDc0Ljk5MDVMMjkuMjk0MyA2MS45NTg2TDY4LjcwODIgOTcuOTE2N0M2OS4zMzE3IDk4LjU0MDUgNzAuMDYzOCA5OS4wMTA0IDcwLjg1MTEgOTkuMzE3MVpNNzQuOTU0NCAyNy4yOTg5TDQ1LjA0ODMgNTBMNzQuOTU0NCA3Mi43MDEyVjI3LjI5ODlaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXIpIi8+CjwvZz4KPC9nPgo8ZGVmcz4KPGZpbHRlciBpZD0iZmlsdGVyMF9kIiB4PSItOC4zOTQxMSIgeT0iMTUuODI5MSIgd2lkdGg9IjExNi43MjciIGhlaWdodD0iOTIuMjQ1NiIgZmlsdGVyVW5pdHM9InVzZXJTcGFjZU9uVXNlIiBjb2xvci1pbnRlcnBvbGF0aW9uLWZpbHRlcnM9InNSR0IiPgo8ZmVGbG9vZCBmbG9vZC1vcGFjaXR5PSIwIiByZXN1bHQ9IkJhY2tncm91bmRJbWFnZUZpeCIvPgo8ZmVDb2xvck1hdHJpeCBpbj0iU291cmNlQWxwaGEiIHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAxMjcgMCIvPgo8ZmVPZmZzZXQvPgo8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI0LjE2NjY3Ii8+CjxmZUNvbG9yTWF0cml4IHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwLjI1IDAiLz4KPGZlQmxlbmQgbW9kZT0ib3ZlcmxheSIgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93Ii8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93IiByZXN1bHQ9InNoYXBlIi8+CjwvZmlsdGVyPgo8ZmlsdGVyIGlkPSJmaWx0ZXIxX2QiIHg9IjYwLjQxNjciIHk9Ii04LjA3NTU4IiB3aWR0aD0iNDcuOTE2NyIgaGVpZ2h0PSIxMTYuMTUxIiBmaWx0ZXJVbml0cz0idXNlclNwYWNlT25Vc2UiIGNvbG9yLWludGVycG9sYXRpb24tZmlsdGVycz0ic1JHQiI+CjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8+CjxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VBbHBoYSIgdHlwZT0ibWF0cml4IiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDEyNyAwIi8+CjxmZU9mZnNldC8+CjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQuMTY2NjciLz4KPGZlQ29sb3JNYXRyaXggdHlwZT0ibWF0cml4IiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAuMjUgMCIvPgo8ZmVCbGVuZCBtb2RlPSJvdmVybGF5IiBpbjI9IkJhY2tncm91bmRJbWFnZUZpeCIgcmVzdWx0PSJlZmZlY3QxX2Ryb3BTaGFkb3ciLz4KPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJlZmZlY3QxX2Ryb3BTaGFkb3ciIHJlc3VsdD0ic2hhcGUiLz4KPC9maWx0ZXI+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhciIgeDE9IjQ5LjkzOTIiIHkxPSIwLjI1NzgxMiIgeDI9IjQ5LjkzOTIiIHkyPSI5OS43NDIzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IndoaXRlIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0id2hpdGUiIHN0b3Atb3BhY2l0eT0iMCIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=",
+		"website_url": "https://code.visualstudio.com/",
+		"created_year": "",
+		"description": "VS Code is very popular as day-to-day development platform and offers an extension API that has been adopted to create a myriad of useful extensions. We can support you to build custom VS Code extensions for the specific needs of your engineers.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Atom",
+			"similiar_software_url": "https://atom.io/",
+			"category": "Information Technology"
+		}, {
+			"title": "Notepad ++",
+			"similiar_software_url": "https://notepad-plus-plus.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "SublimeText",
+			"similiar_software_url": "https://www.sublimetext.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "VSCodium",
+			"similiar_software_url": "https://vscodium.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Vim",
+			"similiar_software_url": "https://www.vim.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "IntellijIdea",
+			"similiar_software_url": "https://www.jetbrains.com/idea/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["MIT License"],
+		"source_code_download": "https://github.com/microsoft/vscode",
+		"source_code_profile": "https://www.openhub.net/p/VSCode-Tips-Tricks",
+		"commercial_support_url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ed4cd8c-9a98-405f-966b-38ab1b0c24a3&redirect_uri=https%3A%2F%2Fsupport.serviceshub.microsoft.com%2F&resource=9ed4cd8c-9a98-405f-966b-38ab1b0c24a3&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DVO04k1tpkG_U0aM9NMeJxzLa0mulpnsL44WVXJ1CioVwv8e7CSuKA7ZDFEEKRDqkCMd4HobddliAmAcTMogF_3A9vUhcC1qlUVfl-uW8GqknP5YO-brXUxbjG45u8IJ2jp2xJiuSFz_W4Pdhd8KfZ9f2Hk9e_68MfpCdZsVOSwgAdEg5wcs_cebBv-CdlTEuz_tl7DgpqHFpsdz4oHqKAbZCaG1Tk0hJ1eHv5G1iguF6u38NEtajxx8bQsUQNFVQ3vT7F44V6UKQ9aULkr5i4A&response_mode=form_post&nonce=637859557764757690.MWNmYTBhMWMtOGFmOS00MTQxLTg3OGEtNzUyODE1ZGUxOGQ2NDY0MGMwN2UtY2E2MC00YzFkLTk5NWQtM2ExZWFmMGIzNTg1&instance_aware=true&x-client-SKU=ID_NET472&x-client-ver=6.15.0.0",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Visual_Studio_Code",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Eclipse RCP",
+		"logo_url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDExMCAxMDMiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLC0yLjg0MjE3ZS0xNCwtNC4wNjIpIj4KICAgICAgICA8cGF0aCBkPSJNMTA3LjMxLDY5LjI3M0wxMy4zMSw2OS4yNzNDMTUuNTI3LDc2Ljg3OCAxOS42NDEsODMuNjk1IDI1LjY2NCw4OS43MThDMzUuMjY2LDk5LjMyMiA0Ni44MTIsMTA0LjExNiA2MC4zMTQsMTA0LjExNkM2My4wMTMsMTA0LjExNiA2NS42MjgsMTAzLjkxNSA2OC4xNjgsMTAzLjUzMkM3OC4zMzgsMTAxLjk5NyA4Ny4yNDIsOTcuMzk5IDk0Ljg3MSw4OS43MThDMTAwLjkzMyw4My42OTcgMTA1LjA3Niw3Ni44NzggMTA3LjMxLDY5LjI3M1oiIHN0eWxlPSJmaWxsOnJnYig0NCwzNCw4NSk7ZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLC0yLjg0MjE3ZS0xNCwtNC4wNjIpIj4KICAgICAgICA8cGF0aCBkPSJNMjAuODIxLDQ2LjUzMUwxMi4wNzQsNDYuNTMxQzExLjc0OCw0OC40ODIgMTEuNTM1LDUwLjQ1MSAxMS40MzcsNTIuNDI3TDEwOS4xOTQsNTIuNDI3QzEwOS4wOTYsNTAuNDUxIDEwOC44ODIsNDguNDgyIDEwOC41NTMsNDYuNTMxTTExLjQzNyw1Ny45MDJDMTEuNTM2LDU5LjkxNSAxMS43NTMsNjEuODc3IDEyLjA3NCw2My43OThMMTA4LjU1NSw2My43OThDMTA4Ljg3Nyw2MS44NzcgMTA5LjA5Nyw1OS45MTUgMTA5LjE5Nyw1Ny45MDIiIHN0eWxlPSJmaWxsOnJnYig0NCwzNCw4NSk7ZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLC0yLjg0MjE3ZS0xNCwtNC4wNjIpIj4KICAgICAgICA8cGF0aCBkPSJNMTA3LjMxMiw0MS4wNTVDMTA1LjA4LDMzLjQyOSAxMDAuOTM2LDI2LjU4MSA5NC44NzEsMjAuNTE1Qzg3LjI2MiwxMi45MDcgNzguMzgzLDguMzQxIDY4LjI0Niw2LjgwNUM2NS42MjEsNi40MDggNjIuOTY5LDYuMjEgNjAuMzE0LDYuMjEyQzQ2LjgxMiw2LjIxMiAzNS4yNjUsMTAuOTgxIDI1LjY2NCwyMC41MTVDMTkuNjM5LDI2LjU4MSAxNS41MjMsMzMuNDI5IDEzLjMwNyw0MS4wNTUiIHN0eWxlPSJmaWxsOnJnYig0NCwzNCw4NSk7ZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLC0yLjg0MjE3ZS0xNCwtNC4wNjIpIj4KICAgICAgICA8cGF0aCBkPSJNOC41Myw1NS4xNjZDOC41MywyOS4zNDIgMjcuOTI1LDcuODg1IDUzLjE1Niw0LjExMUM1Mi41Myw0LjA4OCA1MS45MDEsNC4wNjIgNTEuMjY5LDQuMDYyQzIyLjk1NSw0LjA2MiAwLDI2Ljk0MyAwLDU1LjE2NkMwLDgzLjM5IDIyLjk1NCwxMDYuMjY5IDUxLjI2OSwxMDYuMjY5QzUxLjkwMywxMDYuMjY5IDUyLjUzMiwxMDYuMjQ2IDUzLjE2LDEwNi4yMjJDMjcuOTI1LDEwMi40NDggOC41Myw4MC45OTEgOC41Myw1NS4xNjZaIiBzdHlsZT0iZmlsbDpyZ2IoMjQ3LDE0OCwzMCk7ZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLC0yLjg0MjE3ZS0xNCwtNC4wNjIpIj4KICAgICAgICA8cGF0aCBkPSJNOTMuNTgzLDUyLjQyNkM5My40MjMsNTAuNDM0IDkzLjA4NCw0OC40NjEgOTIuNTcxLDQ2LjUzTDI4LjA2MSw0Ni41M0MyNy41NDcsNDguNDYxIDI3LjIwOCw1MC40MzQgMjcuMDQ4LDUyLjQyNkw5My41ODMsNTIuNDI2WiIgc3R5bGU9ImZpbGw6dXJsKCNfTGluZWFyMSk7ZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwxLC0yLjg0MjE3ZS0xNCwtNC4wNjIpIj4KICAgICAgICA8cGF0aCBkPSJNOTMuNTgzLDU3LjkwMkwyNy4wNDksNTcuOTAyQzI3LjIwOCw1OS44OTQgMjcuNTQ3LDYxLjg2NyAyOC4wNjEsNjMuNzk4TDkyLjU3Miw2My43OThDOTMuMDg1LDYxLjg2NyA5My40MjQsNTkuODk0IDkzLjU4Myw1Ny45MDJaIiBzdHlsZT0iZmlsbDp1cmwoI19MaW5lYXIyKTtmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAgIDwvZz4KICAgIDxnIHRyYW5zZm9ybT0ibWF0cml4KDEsMCwwLDEsLTIuODQyMTdlLTE0LC00LjA2MikiPgogICAgICAgIDxwYXRoIGQ9Ik02MC4zMTYsODguNTU0QzczLjcxMyw4OC41NTQgODUuMjYxLDgwLjY2MSA5MC41NzksNjkuMjczTDMwLjA1Myw2OS4yNzNDMzUuMzcxLDgwLjY2MSA0Ni45MTksODguNTU0IDYwLjMxNiw4OC41NTRaIiBzdHlsZT0iZmlsbDp1cmwoI19MaW5lYXIzKTtmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAgIDwvZz4KICAgIDxnIHRyYW5zZm9ybT0ibWF0cml4KDEsMCwwLDEsLTIuODQyMTdlLTE0LC00LjA2MikiPgogICAgICAgIDxwYXRoIGQ9Ik0xMS40Miw1Ny45MDJMMTA5LjEyOCw1Ny45MDJDMTA5LjE3NCw1Ny4wMzEgMTA5LjIsNTYuMTU0IDEwOS4yLDU1LjI3QzEwOS4yLDU0LjMxNSAxMDkuMTY1LDUzLjM2OSAxMDkuMTExLDUyLjQyNUwxMS40MzcsNTIuNDI1QzExLjM4Myw1My4zNjcgMTEuMzQ4LDU0LjMxNSAxMS4zNDgsNTUuMjdDMTEuMzQ4LDU2LjE1NCAxMS4zNzQsNTcuMDMxIDExLjQyLDU3LjkwMlpNMjkuODU4LDQxLjA1NUwxMy4zMDYsNDEuMDU1QzEyLjc2Miw0Mi44MzggMTIuNDExLDQ0LjY2NyAxMi4wNzQsNDYuNTMyTDEwOC4yNDQsNDYuNTMyQzEwNy45MTEsNDQuNjgyIDEwNy40NzIsNDIuODU0IDEwNi45MjgsNDEuMDU1TTEwOC41NDIsNjMuNzk3TDEyLjA3Myw2My43OTdDMTIuNDAxLDY1LjY2IDEyLjc3NCw2Ny40ODggMTMuMzA5LDY5LjI3M0wxMDcuMjQ4LDY5LjI3M0MxMDcuNzg1LDY3LjQ3NCAxMDguMjE3LDY1LjY0NiAxMDguNTQyLDYzLjc5N1oiIHN0eWxlPSJmaWxsOndoaXRlO2ZpbGwtcnVsZTpub256ZXJvOyIvPgogICAgPC9nPgogICAgPGRlZnM+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IGlkPSJfTGluZWFyMSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDQuNTA4ODRlLTE1LC03My42MzUsNzMuNjM1LDQuNTA4ODRlLTE1LDYwLjMxNSwxMTAuNzYxKSI+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoNzEsNTUsMTM2KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMC4zIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoNzEsNTUsMTM2KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMC44NyIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDQ0LDM0LDg1KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDQ0LDM0LDg1KTtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IGlkPSJfTGluZWFyMiIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDQuNTA4ODRlLTE1LC03My42MzUsNzMuNjM1LDQuNTA4ODRlLTE1LDYwLjMxNiwxMTAuNzYyKSI+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoNzEsNTUsMTM2KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMC4zIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoNzEsNTUsMTM2KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMC44NyIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDQ0LDM0LDg1KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDQ0LDM0LDg1KTtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IGlkPSJfTGluZWFyMyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDQuNTA4NDhlLTE1LC03My42MjksNzMuNjI5LDQuNTA4NDhlLTE1LDYwLjMxNiwxMTAuNzU5KSI+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoNzEsNTUsMTM2KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMC4zIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoNzEsNTUsMTM2KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMC44NiIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDQ0LDM0LDg1KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDQ0LDM0LDg1KTtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+Cjwvc3ZnPgo=",
+		"website_url": "https://wiki.eclipse.org/Rich_Client_Platform",
+		"created_year": "",
+		"description": "an established foundation for Java-based applications. It has a rich ecosystem of tools and frameworks that can be loaded as plug-ins. We can support you to integrate language support for your DSLs in Eclipse-based tools, along with backing features like diagrams and additional views.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
 		"commercial_support_open_source_version": "",
 		"commercial_support_available": "",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Eclipse_Theia",
+		"wikipedia_url": "https://wiki.eclipse.org/Rich_Client_Platform#Case_Studies",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Open VSX",
+		"logo_url": "https://www.typefox.io/static/open-vsx-icon-2ae59926f7f15ec7572ec1a3c12fc9e3.png",
+		"website_url": "https://open-vsx.org/",
+		"created_year": "",
+		"description": "Eclipse Open VSX is a registry for VS Code extensions that is free to be installed in public or private networks. We can support you to set up Open VSX to distribute extensions within your organization.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "VSCodium",
+			"similiar_software_url": "https://vscodium.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Visual Studio Code",
+			"similiar_software_url": "https://code.visualstudio.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "SonarCube",
+			"similiar_software_url": "https://www.sonarqube.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "RustAnalyzer",
+			"similiar_software_url": "https://rust-analyzer.github.io/",
+			"category": "Information Technology"
+		}],
+		"licence_list": [],
+		"source_code_download": "https://github.com/open-vsx",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
 			"logo_url": "",
