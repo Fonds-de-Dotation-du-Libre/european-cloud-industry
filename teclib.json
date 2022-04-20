@@ -1,5 +1,5 @@
 {
-	"created": "23-07-2009",
+	"created": "04-04-2022",
 	"title": "Teclib Group",
 	"type": "corporation",
 	"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/04/logo-teclib-185x60-3.png",
@@ -15,7 +15,7 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.teclib-edition.com/en/",
-	"founded_year": "",
+	"founded_year": "2009",
 	"kpi_list": [{
 		"year": "2021",
 		"staff": "",
@@ -47,102 +47,208 @@
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "-2 400€",
-		"total_assets": "6 306 900€",
-		"revenues": "3 791 200€",
+		"earnings": "-2 400",
+		"total_assets": "6 306 900",
+		"revenues": "3 791 200",
 		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
 	}, {
 		"year": "2016",
 		"staff": "",
-		"earnings": "134 600€",
-		"total_assets": "5 423 400€",
-		"revenues": "3 885 062€",
+		"earnings": "134 600",
+		"total_assets": "5 423 400",
+		"revenues": "3 885 062",
 		"source_url": "https://www.societe.com/bilan/teclib-513893503201712311.html"
 	}],
 	"solution_list": [{
-				"title": "GLP Network",
-				"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
-				"website_url": "https://www.teclib-edition.com/en/software/glpi-network-itsm/",
-				"created_year": "",
-				"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
-				"category_list": ["service desk"],
-				"similar_software_list": [{
-							"title": "spicework service desk",
-							"similiar_software_url": "https://www.spiceworks.com/",
-							"category": "service desk",
-
-							"title": "jira service management",
-							"similiar_software_url": "https://www.atlassian.com/software/jira/service-management",
-							"category": "management",
-
-							"title": "FLYVE MDM",
-							"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
-							"website_url": "https://www.teclib-edition.com/en/software/flyve-mobile-device-management/",
-							"created_year": "",
-							"description": "",
-							"category_list": ["service desk"],
-							"similar_software_list": [{
-										"title": "Hexanode UEM",
-										"similiar_software_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
-										"category": "management",
-
-										"title": "FLYVE MDM",
-										"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
-										"website_url": "https://www.teclib-edition.com/en/software/flyve-mobile-device-management/",
-										"created_year": "",
-										"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
-										"category_list": ["management"],
-										"similar_software_list": [{
-											"title": "Hexanode UEM",
-											"similiar_software_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
-											"category": "management",
-
-											"title": "Kimios DMS",
-											"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
-											"website_url": "https://www.teclib-edition.com/en/software/kimios-document-management-system/",
-											"created_year": "",
-											"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
-											"category_list": ["management"],
-											"similar_software_list": [{
-												"title": "Mayan EDMS",
-												"similiar_software_url": "https://www.mayan-edms.com/",
-												"category": "management",
-
-												"title": "eXo Platform",
-												"similiar_software_url": "https://www.exoplatform.com/",
-												"category": "management",
-
-												"title": "Alfresco Community Edition",
-												"similiar_software_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
-												"category": "management"
-											}],
-											"licence_list": ["Free software GPL v2"],
-											"source_code_download": "https://github.com/TECLIB",
-											"source_code_profile": "https://www.openhub.net/p/glpi-project",
-											"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
-											"floss_software": "yes",
-											"commercial_support_open_source_version": "",
-											"commercial_support_available": "yes",
-											"wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
-											"reference_list": [],
-											"success_case_list": [{
-												"title": "GLPI SUCCESS CASE: MINISTRY OF SCIENCE AND INNOVATION OF SPAIN",
-												"description": "We use GLPI as the main Helpdesk tool for user support and as inventory tracker, extra functionality, as knowledge base, and to have full track of licenses and provider statuses.  ",
-												"image_url": "",
-												"industry": "Sciences",
-												"customer": "Ministry of Sciences and innovation of Spain",
-												"country": "ES",
-												"language": "EN",
-												"success_case_url": "https://www.teclib-edition.com/en/glpi-success-case-ministry-of-science-and-innovation-of-spain/",
-
-												"title": "GLPI success case: CreditLogic",
-												"description": "We needed a simple and intuitive service portal for our clients that was capable of managing multiple clients, SSO and full separation of data, but with excellent features and extensibility.",
-												"image_url": "",
-												"industry": "Software development",
-												"customer": "Ministry of Sciences and innovation of Spain",
-												"country": "IE",
-												"language": "EN",
-												"success_case_url": "https://glpi-project.org/fr/glpi-success-case-creditlogic/"
-											}]
-										}]
-									}
+		"title": "GLP Network",
+		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
+		"website_url": "https://www.teclib-edition.com/en/software/glpi-network-itsm/",
+		"created_year": "",
+		"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "spicework service desk",
+			"similiar_software_url": "https://www.spiceworks.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "jira service management",
+			"similiar_software_url": "https://www.atlassian.com/software/jira/service-management",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["Free software GPL v2"],
+		"source_code_download": "https://github.com/TECLIB",
+		"source_code_profile": "https://www.openhub.net/p/glpi-project",
+		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "GLPI SUCCESS CASE: MINISTRY OF SCIENCE AND INNOVATION OF SPAIN",
+			"description": "We use GLPI as the main Helpdesk tool for user support and as inventory tracker, extra functionality, as knowledge base, and to have full track of licenses and provider statuses.  ",
+			"image_url": "",
+			"industry": "Health and Life Sciences",
+			"customer": "Ministry of Sciences and innovation of Spain",
+			"country": "ES",
+			"language": "EN",
+			"success_case_url": "https://www.teclib-edition.com/en/glpi-success-case-ministry-of-science-and-innovation-of-spain/"
+		}, {
+			"title": "GLPI success case: CreditLogic",
+			"description": "We needed a simple and intuitive service portal for our clients that was capable of managing multiple clients, SSO and full separation of data, but with excellent features and extensibility.",
+			"image_url": "",
+			"industry": "Software development",
+			"customer": "Ministry of Sciences and innovation of Spain",
+			"country": "IE",
+			"language": "EN",
+			"success_case_url": "https://glpi-project.org/fr/glpi-success-case-creditlogic/"
+		}]
+	}, {
+		"title": "FLYVE MDM",
+		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
+		"website_url": "https://www.teclib-edition.com/en/software/flyve-mobile-device-management/",
+		"created_year": "",
+		"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Hexanode UEM",
+			"similiar_software_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
+			"category": "Information Technology"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Kimios DMS",
+		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
+		"website_url": "https://www.teclib-edition.com/en/software/kimios-document-management-system/",
+		"created_year": "",
+		"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "Mayan EDMS",
+			"similiar_software_url": "https://www.mayan-edms.com/",
+			"category": ""
+		}, {
+			"title": "eXo Platform",
+			"similiar_software_url": "https://www.exoplatform.com/",
+			"category": ""
+		}, {
+			"title": "Alfresco Community Edition",
+			"similiar_software_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
+			"category": ""
+		}],
+		"licence_list": ["Free software GPL v2"],
+		"source_code_download": "https://github.com/TECLIB",
+		"source_code_profile": "https://www.openhub.net/p/glpi-project",
+		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Secure Access",
+		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2021/03/logo_SA_transparent_backgroud.png",
+		"website_url": "https://www.serenit.fr/",
+		"created_year": "",
+		"description": "Secure Access, a SAAS telecommuting solution, is a secure clientless remote desktop access gateway capable of managing several hundred simultaneous connections. Supports standard protocols such as VNC, RDP, and SSH. We call it clientless because no plugins or client software is required.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Limpid",
+		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/09/limpid.png",
+		"website_url": "https://www.flyve-mdm.com/",
+		"created_year": "",
+		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
