@@ -1,5 +1,5 @@
 {
-	"created": "2013",
+	"created": "01-0462022",
 	"title": "Whaller",
 	"type": "corporation",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whaller_logo_simple.png/1200px-Whaller_logo_simple.png",
@@ -19,22 +19,22 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "11",
-		"earnings": "39 671€",
-		"total_assets": "1 068 959€",
+		"earnings": "39 671",
+		"total_assets": "1 068 959",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": "2019",
 		"staff": "",
-		"earnings": "- 179 286 €",
-		"total_assets": "1 003 326€",
+		"earnings": "- 179 286 ",
+		"total_assets": "1 003 326",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "- 452 444 €",
-		"total_assets": "644 587€",
+		"earnings": "- 452 444 ",
+		"total_assets": "644 587",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
@@ -53,24 +53,24 @@
 		"source_url": ""
 	}],
 	"solution_list": [{
-		"title": "whaller",
+		"title": "Whaller",
 		"logo_url": "https://whaller.com/images/homepage/stands-out/visuel-sphere-unifiees.png",
 		"website_url": "https://whaller.com/en/product",
 		"created_year": "2013",
 		"description": "Whaller gives organizations everything they need to accelerate their digital transformation, without sacrificing cybersecurity. Whaller is ideal for both small teams and very large networks.",
-		"category_list": ["communication and collaboration"],
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [{
-			"title": "axero",
+			"title": "Axero",
 			"similiar_software_url": "https://axerosolutions.com/",
-			"category": "communication and collaboration",
-
-			"title": "monday",
+			"category": "Telecommunication",
+		},{
+			"title": "Monday",
 			"similiar_software_url": "https://monday.com/",
-			"category": "communication and collaboration",
-
-			"title": "somepage",
+			"category": "Telecommunication",
+		},{
+			"title": "Somepage",
 			"similiar_software_url": "https://samepage.io/login?r=https%3A%2F%2Fsamepage.io%2Fapp%2F",
-			"category": "communication and collaboration"
+			"category": "Telecommunication"
 		}],
 		"licence_list": ["GNU General Public License v3.0"],
 		"source_code_download": "https://github.com/whaler/whaler",
