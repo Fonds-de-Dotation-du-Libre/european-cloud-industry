@@ -1,8 +1,8 @@
 {
   "created": "2022-04-06",
-  "title": "Threefold Tech",
+  "title": "Threefold",
   "type": "Associations and NGOs",
-  "logo_url": "https://www.threefold.tech/assets/static/tft_logo.d25c033.5564300f20611d911b4e26840c45bac3.svg",
+  "logo_url": "https://threefold.io/assets/static/tft_color_logo.3e8a41b.7b655c36cc78de99d8ef9da582b8cc8c.svg",
   "location": {
     "title": "Threefold Tech",
     "address": "Antwerpse Steenweg 19",
@@ -14,20 +14,44 @@
     "coordinate_list": ["51.0929571239287, 3.8217512755767316"]
   },
   "subsidiary_location_list": [],
-  "website_url": "https://threefold.tech/",
+  "website_url": "https://threefold.io/",
   "founded_year": "2018",
   "kpi_list": [],
   "solution_list": [{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
-    "created_year": "",
+    "title": "Threefold Tech",
+    "logo_url": "https://threefold.tech/assets/static/tft_logo.d25c033.5564300f20611d911b4e26840c45bac3.svg",
+    "website_url": "https://threefold.tech/",
+    "created_year": "2018",
     "description": "",
-    "category_list": [],
+    "category_list": ["Information Technology"],
     "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
+      "title": "Akash",
+      "similiar_software_url": "https://akash.network/",
+      "category": "Information Technology"
+    },{
+      "title": "Dfinity",
+      "similiar_software_url": "https://dfinity.org/",
+      "category": "Information Technology"
+    },{
+      "title": "Golem",
+      "similiar_software_url": "https://www.golem.network/",
+      "category": "Information Technology"
+    },{
+      "title": "Syntropy",
+      "similiar_software_url": "https://www.syntropynet.com/",
+      "category": "Information Technology"
+    },{
+      "title": "Siacoin",
+      "similiar_software_url": "https://sia.tech/",
+      "category": "Information Technology"
+    },{
+      "title": "Filecoin",
+      "similiar_software_url": "https://filecoin.io/",
+      "category": "Information Technology"
+    },{
+      "title": "Helium",
+      "similiar_software_url": "https://www.helium.com/",
+      "category": "Information Technology"
     }],
     "licence_list": ["Apache-2.0"],
     "source_code_download": "https://github.com/threefoldtech/home.git",
