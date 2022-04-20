@@ -20,29 +20,29 @@
     "year": "2019",
     "staff": "",
     "earnings": "",
-    "total_assets": "4 568 705,92 €",
-    "revenues": "838 814,69 €",
+    "total_assets": "4568705",
+    "revenues": "838814",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
     "year": "2018",
     "staff": "",
     "earnings": "",
-    "total_assets": "2 741 166,02 €",
-    "revenues": "134 124,14 €",
+    "total_assets": "2741166",
+    "revenues": "134124",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
     "year": "2017",
     "staff": "",
     "earnings": "",
-    "total_assets": "1 851 519,63€",
-    "revenues": "378 661,5 €",
+    "total_assets": "1851519",
+    "revenues": "378661",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
     "year": "2016",
     "staff": "",
     "earnings": "",
-    "total_assets": "1 348 799,04 €",
-    "revenues": "210 658,34 €",
+    "total_assets": "1348799",
+    "revenues": "210658",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   }],
   "solution_list": [{
@@ -65,7 +65,7 @@
     "website_url": "https://www.rcdevs.com/products/webadm/",
     "created_year": "",
     "description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
-    "category_list": ["Information Technology"]
+    "category_list": ["Information Technology"],
     "similar_software_list": [{
       "title": "Auth0",
       "similiar_software_url": "https://auth0.com/key",
