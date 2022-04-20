@@ -1,7 +1,7 @@
 {
-	"created": "01-04-2003",
-	"title": "Halys",
-	"type": "SAS",
+	"created": "07-04-2022",
+	"title": "Halys SAS",
+	"type": "Company",
 	"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 	"location": {
 		"title": "Halys",
@@ -65,22 +65,69 @@
 		"website_url": "https://www.halys.fr/solutions?lang=en",
 		"created_year": "",
 		"description": "Halys' PMR solution enable to acces to a private and autonomous 4G/ 5G networks everywhere, using and accessing to applications and MCS (Mission Criticial Solutions).",
-		"category_list": ["telecommunication"],
-
+		"category_list": ["Telecommunication"],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.halys.fr/contact",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	},{
 		"title": "Halys MNO / MVNO",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 		"website_url": "https://www.halys.fr/test-nos-offres",
 		"created_year": "2006",
 		"description": "Solutions 3G / 4G / 5G for voice, text and date. From two to many million people",
-		"category_list": ["IOT"],
-
+		"category_list": ["Information Technology"],
+				"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.halys.fr/contact",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	},{
 		"title": "Halys MNO / MVNO",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 		"website_url": "https://www.halys.fr/test-nos-offres",
 		"created_year": "2006",
 		"description": "Solutions 3G / 4G / 5G for voice, text and date. From two to many million people",
-		"category_list": ["IOT"],
-
+		"category_list": ["Information Technology"],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
