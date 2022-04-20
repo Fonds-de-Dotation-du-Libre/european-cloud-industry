@@ -1,5 +1,5 @@
 {
-	"created": "1991",
+	"created": "04-04-2022",
 	"title": "Olimex Ltd",
 	"type": "company",
 	"logo_url": "https://www.olimex.com/_layout/images/logo.png",
@@ -27,7 +27,7 @@
 		"year": "2020",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "231515.08€",
+		"total_assets": "23151508",
 		"revenues": "",
 		"source_url": "https://uk.globaldatabase.com/company/olimex-ltd"
 	}, {
@@ -65,15 +65,15 @@
 		"website_url": "https://www.olimex.com/wiki/OLinuXino#What_is_OLinuXino.3F",
 		"created_year": "2016",
 		"description": "OLinuXino are series of powerful Linux-enabled Open Source Software and Open Source Hardware Open Source Hardware boards, designed and manufactured by Olimex LTD in Plovdiv, Bulgaria. The boards from the OLinuXino family can be manufactured with components suitable for operation in either industrial (-40+85)C or commercial (0-70)C temerpature range. Different OLinuXino boards use processors from different manufacturers - Allwinner, Freescale, Rockchip and so on.",
-		"category_list": ["computer sciences"],
+		"category_list": ["Information Technology"],
 		"similar_software_list": [{
 			"title": "Raspberry Pi",
 			"similiar_software_url": "https://www.raspberrypi.org/",
-			"category": "computer sciences",
-
+			"category": "Information Technology"
+		}, {
 			"title": "Orange Pi",
 			"similiar_software_url": "http://www.orangepi.org/",
-			"category": "computer sciences"
+			"category": "Information Technology"
 		}],
 		"licence_list": ["GPL"],
 		"source_code_download": "",
@@ -83,6 +83,78 @@
 		"commercial_support_open_source_version": "",
 		"commercial_support_available": "",
 		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "OLIMEX System-on-Module (SOM)",
+		"logo_url": "https://www.olimex.com/_layout/images/logo.png",
+		"website_url": "https://www.olimex.com/Products/SOM/",
+		"created_year": "",
+		"description": "OLIMEX System-on-Module (SOM) boards are powerful Linux-capable boards. They follow a low cost modular design which allows rapid product development. Each of these boards has two parts - the main part which nests the processor, the memory and the power control unit and the peripheral part which contains the USB ports, the video output and most of the connectors. SOM designs are targeted at customers who want to apply custom modifications and own solutions based on a specific processor without having to deal with multi layer PCBs with controlled impedance and BGA assembly. This makes it possible to create simple boards (that might be manufactured by your local board manufacturer) containing only the peripherals you need with the dimensions and shape suitable for your specific solution.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "https://github.com/OLIMEX/SOM",
+		"source_code_profile": "",
+		"commercial_support_url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Support+Question&to=support@olimex.com",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page#System_On_Module_.28SOM.29_Linux-enabled_boards",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Duino",
+		"logo_url": "https://www.olimex.com/_layout/images/logo.png",
+		"website_url": "https://www.olimex.com/Products/Duino/open-source-hardware",
+		"created_year": "",
+		"description": "Arduino is an open-source electronics prototyping platform, designed to make the process of using electronics in multidisciplinary projects more accessible. The hardware consists of a simple open hardware design for the Arduino board with an Atmel AVR processor and on-board I/O support. The software consists of a standard programming language and the boot loader that runs on the board.",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "https://github.com/ecto/duino",
+		"source_code_profile": "",
+		"commercial_support_url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Support+Question&to=support@olimex.com",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page#Duino",
 		"reference_list": [{
 			"title": "",
 			"logo_url": "",
