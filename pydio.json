@@ -70,7 +70,7 @@
 			"title": "Imagen",
 			"similiar_software_url": "https://imagen.io/about/",
 			"category": "workplace management"
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -105,8 +105,8 @@
 	"similar_software_list": [{
 		"title": "wimi",
 		"similiar_software_url ": "https: //www.wimi-teamwork.com/",
-		"category": "Construction",
-	}]
+		"category": "Construction"
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -142,7 +142,7 @@
 		"title": "oneHub",
 		"similiar_software_url": "https://www.onehub.com/",
 		"category": "Information Technology"
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -178,7 +178,7 @@
 		"title": "moveit",
 		"similiar_software_url": "https://www.ipswitch.com/moveit",
 		"category": "Information Technology"
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -209,12 +209,12 @@
 	"website_url": "https://pydio.com/en/solutions/pydio-financial-services",
 	"created_year": "",
 	"description": "Pydio Cells lets you build your own secure document repository for confidential data in hours. Pydio is built for security from the ground up and perfectly balances granular security and admin capabilities with end-user ease-of-use.",
-	"category_list": ["Banking and Finance],
+	"category_list": ["Banking and Finance"],
 	"similar_software_list": [{
 		"title": "globalscape EFT",
 		"similiar_software_url": "https://www.globalscape.com/eft",
 		"category": "Information Technology"
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -250,7 +250,7 @@
 		"title": "FileInvite",
 		"similiar_software_url": "https://www.fileinvite.com/",
 		"category": ""
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -286,7 +286,7 @@
 		"title": "OnBoard",
 		"similiar_software_url": "https://www.onboardmeetings.com/",
 		"category": ""
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -322,7 +322,7 @@
 			"title": "MangoApps",
 			"similiar_software_url": "https://www.mangoapps.com/",
 			"category": ""
-		}]
+		}],
 		"licence_list": ["GNU AGPLv3.0"],
 		"source_code_download": "https://github.com/pydio",
 		"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -358,7 +358,7 @@
 		"title": "GoAnywhereMFT",
 		"similiar_software_url": "https://www.goanywhere.com/",
 		"category": ""
-	}]
+	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
 	"source_code_profile": "https://www.openhub.net/p/pydio",
@@ -389,7 +389,7 @@
 	"website_url": "https://pydio.com/en/solutions/pydio-retail-consumer-goods",
 	"created_year": "",
 	"description": "Streamline your document sharing and collaboration workflows across all channels. Make it easy for central headquarters to collaborate with distribution, local shops, suppliers, and subcontractors. Instantly share files across all locations to smooth out workflows with your sales points.",
-	"category_list": ["Commerce and Retail],
+	"category_list": ["Commerce and Retail"],
 	"similar_software_list": [{
 		"title": "FileCloud",
 		"similiar_software_url": "https://www.filecloud.com/",
