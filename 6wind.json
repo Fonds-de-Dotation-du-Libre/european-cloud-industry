@@ -1,127 +1,79 @@
 {
-	"created": "2022-04-07",
-	"title": "6Wind",
+	"created": "2022-03-23",
+	"title": "Worteks",
 	"type": "Corporation",
-	"logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/6wind-logo-colours.png",
+	"logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
 	"location": {
-		"title": "6 Wind Head Quarters",
-		"address": "3 Avenue des Prés  - Immeuble Le Carré",
-		"postal_code": "78180",
-		"city": "Montigny-Le-Bretonneux",
+		"title": "Worteks Siège Social ",
+		"address": "7 rue Diderot",
+		"postal_code": "92000",
+		"city": "Nanterre",
 		"country": "FR",
-		"phone_contact": "+33139309210",
-		"mail_contact": "support@6wind.com",
-		"coordinate_list": ["48.787507260358254, 2.0462472094440325"]
+		"phone_contact": "+33184208647",
+		"mail_contact": "info@worteks.com",
+		"coordinate_list": ["48.887029190768544, 2.2098383478066896"]
 	},
-	"subsidiary_location_list": ["US"],
-	"website_url": "https://www.6wind.com/",
-	"founded_year": "2000",
+	"subsidiary_location_list": [],
+	"website_url": "https://www.worteks.com/",
+	"founded_year": "2016",
 	"kpi_list": [{
 		"year": "2020",
-		"staff": "34",
-		"earnings": "",
-		"total_assets": "7382055",
-		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/6-WIND-432424356/"
+		"staff": "9",
+		"earnings": "703270",
+		"total_assets": "1094494",
+		"revenues": "1870645",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+	}, {
+		"year": "2019",
+		"staff": "9",
+		"earnings": "415850",
+		"total_assets": "591225",
+		"revenues": "1531379",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+	}, {
+		"year": "2018",
+		"staff": "8",
+		"earnings": "363411",
+		"total_assets": "375374",
+		"revenues": "1159508",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}],
 	"solution_list": [{
-		"title": "6WINDCloud",
-		"logo_url": "https://www.6wind.com/wp-content/uploads/2021/03/6windcloud-logo-light.png.webp",
-		"website_url": "https://www.6wind.com/6windcloud-cloud-native/",
-		"created_year": "2012",
-		"description": "6WINDCloud is an innovative disaggregated networking software solution that embraces the Cloud Native architecture to boost your network growth and simplify the network’s operational model while reducing costs and increasing profitability.",
+		"title": "LemonLDAP::NG",
+		"logo_url": "https://www.lemonldap-ng.org/images/logo_llng_600px.png",
+		"website_url": "https://www.lemonldap-ng.org/",
+		"created_year": "2019",
+		"description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
 		"category_list": ["Information Technology"],
 		"similar_software_list": [{
-			"title": "",
-			"similiar_software_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "6WIND SVR",
-		"logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/virtual-router-icon.png.webp",
-		"website_url": "https://www.6wind.com/vrouter-vsr-solutions/",
-		"created_year": "2017",
-		"description": "6WIND Virtual Service Router (VSR) is a high-performance and scalable virtualized software router optimized for Communication Service Providers and Enterprises. It is deployed bare-metal, virtualized, or containerized on COTS servers in private and public clouds.",
-		"category_list": ["Information Technology"],
-		"similar_software_list": [{
-			"title": "Amazon Web Services",
-			"similiar_software_url": "https://aws.amazon.com/",
+			"title": "Keycloak",
+			"similiar_software_url": "https://www.keycloak.org/",
 			"category": "Information Technology"
 		}, {
-			"title": "Microsoft Azure",
-			"similiar_software_url": "https://azure.microsoft.com/en-us/",
+			"title": "CAS",
+			"similiar_software_url": "https://github.com/apereo/cas.git",
 			"category": "Information Technology"
 		}, {
-			"title": "Google Cloud Platform",
-			"similiar_software_url": "https://cloud.google.com/",
+			"title": "Ory",
+			"similiar_software_url": "https://www.ory.sh/",
 			"category": "Information Technology"
 		}, {
-			"title": "Digital Ocean",
-			"similiar_software_url": "https://www.digitalocean.com/",
+			"title": "Shibboleth",
+			"similiar_software_url": "https://www.shibboleth.net/",
 			"category": "Information Technology"
 		}, {
-			"title": "OpenStack",
-			"similiar_software_url": "https://www.openstack.org/",
-			"category": "Information Technology"
-		}, {
-			"title": "Linode",
-			"similiar_software_url": "https://www.linode.com/",
+			"title": "10 Duke",
+			"similiar_software_url": "https://www.10duke.com/products/identity-provider/",
 			"category": "Information Technology"
 		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "Voxology selects 6WIND vRouter to support its expansion",
-			"description": "Voxology Carrier Services, is the infrastructure arm of Voxology, a Communications Platform as a Service (CPaaS) based in Orange County, CA. Voxology provides a suite of voice and messaging services including SIP termination, SIP origination, SMS, toll-free and local phone numbers as well as their next gen Programmable Voice and Messaging API.",
-			"image_url": "",
-			"industry": "Telecommunication",
-			"customer": "Voxology",
-			"country": "US",
-			"language": "EN",
-			"success_case_url": "https://6wind.maglr.com/voxology-success-story/voxology-selects-6wind-vrouter"
-		}]
-	}, {
-		"title": "6WIND Virtual Accelerator",
-		"logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/cloud-router-icon.png.webp",
-		"website_url": "https://www.6wind.com/virtual-host-acceleration/",
-		"created_year": "2014",
-		"description": "6WIND Virtual Accelerator is a host network acceleration software that provides a solution to power the virtual networking infrastructure with the required features, performance and scalability. Used in Network Function Virtualization infrastructure (NFVi), Data Center Virtualization or Network Appliance Virtualization use cases.",
-		"category_list": ["Information Technology"],
-		"similar_software_list": [{
-			"title": "",
-			"similiar_software_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
+		"source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.lemonldap-ng.org/professionalservices.html",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
 		"reference_list": [{
 			"title": "",
 			"logo_url": "",
@@ -137,72 +89,257 @@
 			"country": "",
 			"language": "",
 			"success_case_url": ""
-		}]
-	}, {
-		"title": "6WINDGate",
-		"logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/6windgate-bg.jpg",
-		"website_url": "https://www.6wind.com/6windgate/",
-		"created_year": "",
-		"description": "6WINDGate provides the foundation for next-generation networking applications. Deployed in Tier 1 networks, 6WINDGate delivers the much-needed software solutions that enable OEMs to build networking products for 5G, SD-WAN, and IoT markets. This includes IP backhaul solutions, Unified Threat Management (UTM) products, universal Customer Premises Equipment (uCPE), Radio Access Network (RAN) solutions, and much more.",
-		"category_list": ["Information Technology"],
-		"similar_software_list": [{
-			"title": "Google Kubernetes Engine",
-			"similiar_software_url": "https://cloud.google.com/kubernetes-engine/",
-			"category": "Information Technology"
 		}],
-
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "Open Systems",
-			"logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/open-system-logo-400x309.png",
-			"country": "CH",
-			"industry": "Information Technology"
-		}, {
-			"title": "China Mobile",
-			"logo_url": "https://www.chinamobileltd.com/en/images/global/logo.svg",
-			"country": "CN",
-			"industry": "Telecommunication"
-		}, {
-			"title": "Marlink",
-			"logo_url": "https://marlink.com/wp-content/themes/marlink/assets/images/logo-marlink.svg",
-			"country": "FR",
-			"industry": "Telecommunications"
-		}, {
-			"title": "Telenor",
-			"logo_url": "https://www.6wind.com/wp-content/uploads/2021/05/Telenor-logo-vector-400x400.png",
-			"country": "NO",
-			"industry": "Telecommunication"
-		}, {
-			"title": "Netscout",
-			"logo_url": "https://www.netscout.com/themes/custom/netscout/images/NS_LOGO_COL_POS_RGB.svg",
-			"country": "US",
-			"industry": "Telecommunication"
-		}],
-		"success_case_list": [{
-			"title": "Togglebox achieves high performance and integration cost effectively and efficiently",
-			"description": "Togglebox, a brand of TekTonic based in Pennsylvania, USA, has a  mission to provide high performance, highly customizable cloud  hosting for those seeking the highest level of customer service, and  performance, without overpaying for cutting edge server technology. The need for a solution to support over 1 million routes  and large number of ARP entries",
-			"image_url": "",
-			"industry": "Information Technology",
-			"customer": "Togglebox",
-			"country": "US",
-			"language": "EN",
-			"success_case_url": "https://6wind.maglr.com/togglebox-success-story/togglebox-a-success-story"
-		}, {
-			"title": "WiTCOM deploys open multi- vendor solution to power Smart City Initiative",
-			"description": "WiTCOM needed a secure open platform powering Edge Cloud for IoT, video and next-gen services, and achieved this challenge with 6WIND, ADVA, Advantech and Dell Technologies.",
-			"image_url": "",
-			"industry": "Telecommunication",
-			"customer": "WiTCOM",
-			"country": "DE",
-			"language": "EN",
-			"success_case_url": "https://6wind.maglr.com/witcom-success-story/witcom-a-success-story"
+		"solution_list": [{
+			"title": "LDAP Tool box",
+			"logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
+			"website_url": "https://www.ltb-project.org/",
+			"created_year": "2008",
+			"description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
+			"category_list": ["Information Technology"],
+			"similar_software_list": [{
+				"title": "pwm-project",
+				"similiar_software_url": "https://github.com/pwm-project/pwm.git",
+				"category": "Information Technology"
+			}, {
+				"title": "PassCore",
+				"similiar_software_url": "https://github.com/unosquare/passcore.git",
+				"category": "Information Technology"
+			}, {
+				"title": "ADReset",
+				"similiar_software_url": "https://github.com/mprahl/ADReset.git",
+				"category": "Information Technology"
+			}, {
+				"title": "JiJi Self Service Password",
+				"similiar_software_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+				"category": "Information Technology"
+			}],
+			"licence_list": ["GPL-3.0"],
+			"source_code_download": "https://github.com/ltb-project/self-service-password.git",
+			"source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
+			"commercial_support_url": "",
+			"floss_software": "Yes",
+			"commercial_support_open_source_version": "Yes",
+			"commercial_support_available": "",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}],
+			"solution_list": [{
+				"title": "LDAP Synchronization Connector Project",
+				"logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
+				"website_url": "https://www.lsc-project.org/start",
+				"created_year": "2018",
+				"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
+				"category_list": ["Information Technology"],
+				"similar_software_list": [],
+				"licence_list": ["GPL-3.0"],
+				"source_code_download": "https://github.com/lsc-project/lsc.git",
+				"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
+				"commercial_support_url": "",
+				"floss_software": "Yes",
+				"commercial_support_open_source_version": "Yes",
+				"commercial_support_available": "",
+				"wikipedia_url": "",
+				"reference_list": [{
+					"title": "",
+					"logo_url": "",
+					"country": "",
+					"industry": ""
+				}],
+				"success_case_list": [{
+					"title": "",
+					"description": "",
+					"image_url": "",
+					"industry": "",
+					"customer": "",
+					"country": "",
+					"language": "",
+					"success_case_url": ""
+				}],
+				"solution_list": [{
+					"title": "W'Sweet",
+					"logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
+					"website_url": "https://www.wsweet.org/",
+					"created_year": "",
+					"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
+					"category_list": "Information Technology",
+					"similar_software_list": [{
+						"title": "pwm-project",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					}, {
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology",
+						"licence_list": [""],
+						"source_code_download": "",
+						"source_code_profile": "",
+						"commercial_support_url": "",
+						"floss_software": "Yes",
+						"commercial_support_open_source_version": "Yes",
+						"commercial_support_available": "",
+						"wikipedia_url": "",
+						"reference_list": [{
+							"title": "",
+							"logo_url": "",
+							"country": "",
+							"industry": ""
+						}],
+						"success_case_list": [{
+							"title": "",
+							"description": "",
+							"image_url": "",
+							"industry": "",
+							"customer": "",
+							"country": "",
+							"language": "",
+							"success_case_url": ""
+						}],
+						"title": "W'Opla",
+						"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+						"website_url": "https://www.worteks.com/edition/wopla/",
+						"created_year": "",
+						"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
+						"category_list": "Information Technology",
+						"similar_software_list": [{
+							"title": "",
+							"similiar_software_url": "",
+							"category": "Information Technology"
+						}, {
+							"title": "",
+							"similiar_software_url": "",
+							"category": "Information Technology"
+						}],
+						"licence_list": [""],
+						"source_code_download": "",
+						"source_code_profile": "",
+						"commercial_support_url": "",
+						"floss_software": "Yes",
+						"commercial_support_open_source_version": "Yes",
+						"commercial_support_available": "",
+						"wikipedia_url": "",
+						"reference_list": [{
+							"title": "",
+							"logo_url": "",
+							"country": "",
+							"industry": ""
+						}],
+						"success_case_list": [{
+							"title": "",
+							"description": "",
+							"image_url": "",
+							"industry": "",
+							"customer": "",
+							"country": "",
+							"language": "",
+							"success_case_url": ""
+						}],
+						"title": "W'IDaaS",
+						"logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
+						"website_url": "https://www.worteks.com/edition/widaas/",
+						"created_year": "",
+						"description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
+						"category_list": "Information Technology",
+						"similar_software_list": [{
+							"title": "",
+							"similiar_software_url": "",
+							"category": "Information Technology"
+						}, {
+							"title": "",
+							"similiar_software_url": "",
+							"category": "Information Technology"
+						}],
+						"licence_list": ["GPL-3.0"],
+						"source_code_download": "",
+						"source_code_profile": "",
+						"commercial_support_url": "",
+						"floss_software": "Yes",
+						"commercial_support_open_source_version": "Yes",
+						"commercial_support_available": "",
+						"wikipedia_url": "",
+						"reference_list": [{
+							"title": "Red Hat",
+							"logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+							"country": "US",
+							"industry": "Information Technology"
+						}, {
+							"title": "Auchan",
+							"logo_url": "https://www.auchan.fr/content-renderer/sav_2022.3.2-1/images/auchan-logo-desktop.svg",
+							"country": "FR",
+							"industry": "Commerce and Retail"
+						}, {
+							"title": "Airbus",
+							"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
+							"country": "FR",
+							"industry": "Aviation and Aerospace"
+						}, {
+							"title": "Alstom",
+							"logo_url": "https://www.alstom.com/sites/alstom.com/files/styles/560w/public/2019/07/11/Alstom_mobility_by_nature_2019.jpg?itok=icP1Tbnd",
+							"country": "FR",
+							"industry": "Transport"
+						}, {
+							"title": "Amadeus",
+							"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amadeus_%28CRS%29_Logo.svg/2560px-Amadeus_%28CRS%29_Logo.svg.png",
+							"country": "ES",
+							"industry": "Travel and Tourism"
+						}, {
+							"title": "Société Générale",
+							"logo_url": "https://www.societegenerale.com/sites/default/files/logo-societe-generale.png",
+							"country": "FR",
+							"industry": "Banking and Finance"
+						}, {
+							"title": "Atos",
+							"logo_url": "https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.png",
+							"country": "FR",
+							"industry": "Information Technology"
+						}, {
+							"title": "Assistance Publique des Hôpitaux de Paris",
+							"logo_url": "https://gestions-hospitalieres.fr/wp-content/uploads/2016/10/logo-aphp.jpg",
+							"country": "FR",
+							"industry": "Health and Life Sciences"
+						}, {
+							"title": "Université Paris Dauphine",
+							"logo_url": "https://dauphine.psl.eu/typo3conf/ext/dauphine/Resources/Public/assets/img/logo/logo_white.svg",
+							"country": "FR",
+							"industry": "Academia and Research"
+						}, {
+							"title": "Orange",
+							"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+							"country": "FR",
+							"industry": "Telecommunication"
+						}, {
+							"title": "Institut Pasteur",
+							"logo_url": "https://www.pasteur.fr/sites/default/files/institut-pasteur-logo-2020.png",
+							"country": "FR",
+							"industry": "Health and Life Sciences"
+						}],
+						"success_case_list": [{
+							"title": "",
+							"description": "",
+							"image_url": "",
+							"industry": "",
+							"customer": "",
+							"country": "",
+							"language": "",
+							"success_case_url": ""
+						}]
+					}]
+				}]
+			}]
 		}]
 	}]
 }
