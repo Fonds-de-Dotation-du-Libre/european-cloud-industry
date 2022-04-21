@@ -37,20 +37,6 @@
 		"total_assets": "644 587",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
 	}],
 	"solution_list": [{
 		"title": "Whaller",
@@ -62,11 +48,11 @@
 		"similar_software_list": [{
 			"title": "Axero",
 			"similiar_software_url": "https://axerosolutions.com/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
 		},{
 			"title": "Monday",
 			"similiar_software_url": "https://monday.com/",
-			"category": "Telecommunication",
+			"category": "Telecommunication"
 		},{
 			"title": "Somepage",
 			"similiar_software_url": "https://samepage.io/login?r=https%3A%2F%2Fsamepage.io%2Fapp%2F",
