@@ -1,312 +1,314 @@
 {
-  "created": "2022-04-06",
-  "title": "Teltonika IoT Group",
-  "type": "Corporation",
-  "logo_url": "https://teltonika-iot-group.com/images/branches/iot-white.svg",
-  "location": {
-    "title": "Teltonika",
-    "address": "Geležinio Vilko g. 18A",
-    "postal_code": "LT-08104",
-    "city": "Vilnius",
-    "country": "LT",
-    "phone_contact": "+37052127472",
-    "mail_contact": "info@teltonika.lt",
-    "coordinate_list": ["54.6998347921484, 25.262166007388295"]
-  },
-  "subsidiary_location_list": ["AE","AU","BR","CA","CL","CN","ID","IN","KZ","KE","MY","MA","MX","PK","SG","UA","ZA"],
-  "website_url": "https://teltonika-iot-group.com/",
-  "founded_year": "1998",
-  "kpi_list": [{
-    "year": "2020",
-    "staff": "",
-    "earnings": "11572401",
-    "total_assets": "46386659",
-    "revenues": "102107018",
-    "source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "11044100",
-    "total_assets": "22777620",
-    "revenues": "79228742",
-    "source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "8339170",
-    "total_assets": "18679925",
-    "revenues": "55058610",
-    "source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "4949594",
-    "total_assets": "14635081",
-    "revenues": "50563540",
-    "source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "1351526",
-    "total_assets": "13418206",
-    "revenues": "37373296",
-    "source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
-  }],
-  "solution_list": [{
-    "title": "Teltonika Telematics",
-    "logo_url": "https://teltonika-gps.com/img/teltonika_logo.9f7d7d79b96df41a30e04acb1e22cf0af9913eae0f9e7dca37bf3e67032a2392.svg",
-    "website_url": "https://teltonika-gps.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": ["Information Technology"],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "Fishing Boats tracking with IP67 RATING GPS DevicesFISHING BOATS TRACKING WITH IP67 RATING GPS DEVICES",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": "https://teltonika-gps.com/industries/use-cases/fishing-boats-tracking-with-ip67-rating-gps-devices/"
-    }],
-    "solution_list": [{
-    "title": "Teltonika Networks",
-    "logo_url": "https://teltonika-networks.com/img/slug.4544fdcdc3ad20c6a25e9ab51aee54e1cd425249cfe767405dc6a16f9be56160.svg",
-    "website_url": "https://teltonika-networks.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-
-  "solution_list": [{
-    "title": "Teltonika Mobility",
-    "logo_url": "https://teltonika-mobility.com/img/slug-full.8bdb0d0e544480b0cb4d3ed041fb58419c5b73d79098b21aebb112eac91075c2.svg",
-    "website_url": "https://teltonika-mobility.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    
-  "solution_list": [{
-    "title": "Teltonika Telemedic",
-    "logo_url": "",
-    "website_url": "https://teltonika-telemedic.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-
-  "solution_list": [{
-    "title": "Teltonika Electronics Manufacturing Services",
-    "logo_url": "https://teltonika-ems.com/images/branches/ems-white.svg",
-    "website_url": "https://teltonika-ems.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-    
-  "solution_list": [{
-    "title": "Teltonika High-Tech Hill",
-    "logo_url": "https://teltonika-high-tech-hill.com/images/branches/thth-white.svg",
-    "website_url": "https://teltonika-high-tech-hill.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }],
-
-  "solution_list": [{
-    "title": "Teltonika Energy",
-    "logo_url": "https://teltonika-energy.com/images/branches/energy-white.svg",
-    "website_url": "https://teltonika-energy.com/",
-    "created_year": "",
-    "description": "",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similiar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+	"created": "2022-04-06",
+	"title": "Teltonika IoT Group",
+	"type": "Corporation",
+	"logo_url": "https://teltonika-iot-group.com/images/branches/iot-white.svg",
+	"location": {
+		"title": "Teltonika",
+		"address": "Geležinio Vilko g. 18A",
+		"postal_code": "LT-08104",
+		"city": "Vilnius",
+		"country": "LT",
+		"phone_contact": "+37052127472",
+		"mail_contact": "info@teltonika.lt",
+		"coordinate_list": ["54.6998347921484, 25.262166007388295"]
+	},
+	"subsidiary_location_list": ["AE", "AU", "BR", "CA", "CL", "CN", "ID", "IN", "KZ", "KE", "MY", "MA", "MX", "PK", "SG", "UA", "ZA"],
+	"website_url": "https://teltonika-iot-group.com/",
+	"founded_year": "1998",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "",
+		"earnings": "11572401",
+		"total_assets": "46386659",
+		"revenues": "102107018",
+		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "11044100",
+		"total_assets": "22777620",
+		"revenues": "79228742",
+		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "8339170",
+		"total_assets": "18679925",
+		"revenues": "55058610",
+		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "4949594",
+		"total_assets": "14635081",
+		"revenues": "50563540",
+		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "1351526",
+		"total_assets": "13418206",
+		"revenues": "37373296",
+		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
+	}],
+	"solution_list": [{
+		"title": "Teltonika Telematics",
+		"logo_url": "https://teltonika-gps.com/img/teltonika_logo.9f7d7d79b96df41a30e04acb1e22cf0af9913eae0f9e7dca37bf3e67032a2392.svg",
+		"website_url": "https://teltonika-gps.com/",
+		"created_year": "",
+		"description": "",
+		"category_list": ["Information Technology"],
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "Fishing Boats tracking with IP67 RATING GPS DevicesFISHING BOATS TRACKING WITH IP67 RATING GPS DEVICES",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": "https://teltonika-gps.com/industries/use-cases/fishing-boats-tracking-with-ip67-rating-gps-devices/"
+		}],
+		"solution_list": [{
+			"title": "Teltonika Networks",
+			"logo_url": "https://teltonika-networks.com/img/slug.4544fdcdc3ad20c6a25e9ab51aee54e1cd425249cfe767405dc6a16f9be56160.svg",
+			"website_url": "https://teltonika-networks.com/",
+			"created_year": "",
+			"description": "",
+			"category_list": [],
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "",
+			"floss_software": "",
+			"commercial_support_open_source_version": "",
+			"commercial_support_available": "",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}],
+			"solution_list": [{
+				"title": "Teltonika Mobility",
+				"logo_url": "https://teltonika-mobility.com/img/slug-full.8bdb0d0e544480b0cb4d3ed041fb58419c5b73d79098b21aebb112eac91075c2.svg",
+				"website_url": "https://teltonika-mobility.com/",
+				"created_year": "",
+				"description": "",
+				"category_list": [],
+				"similar_software_list": [{
+					"title": "",
+					"similiar_software_url": "",
+					"category": ""
+				}],
+				"licence_list": [],
+				"source_code_download": "",
+				"source_code_profile": "",
+				"commercial_support_url": "",
+				"floss_software": "",
+				"commercial_support_open_source_version": "",
+				"commercial_support_available": "",
+				"wikipedia_url": "",
+				"reference_list": [{
+					"title": "",
+					"logo_url": "",
+					"country": "",
+					"industry": ""
+				}],
+				"success_case_list": [{
+					"title": "",
+					"description": "",
+					"image_url": "",
+					"industry": "",
+					"customer": "",
+					"country": "",
+					"language": "",
+					"success_case_url": ""
+				}],
+				"solution_list": [{
+					"title": "Teltonika Telemedic",
+					"logo_url": "",
+					"website_url": "https://teltonika-telemedic.com/",
+					"created_year": "",
+					"description": "",
+					"category_list": [],
+					"similar_software_list": [{
+						"title": "",
+						"similiar_software_url": "",
+						"category": ""
+					}],
+					"licence_list": [],
+					"source_code_download": "",
+					"source_code_profile": "",
+					"commercial_support_url": "",
+					"floss_software": "",
+					"commercial_support_open_source_version": "",
+					"commercial_support_available": "",
+					"wikipedia_url": "",
+					"reference_list": [{
+						"title": "",
+						"logo_url": "",
+						"country": "",
+						"industry": ""
+					}],
+					"success_case_list": [{
+						"title": "",
+						"description": "",
+						"image_url": "",
+						"industry": "",
+						"customer": "",
+						"country": "",
+						"language": "",
+						"success_case_url": ""
+					}],
+					"solution_list": [{
+						"title": "Teltonika Electronics Manufacturing Services",
+						"logo_url": "https://teltonika-ems.com/images/branches/ems-white.svg",
+						"website_url": "https://teltonika-ems.com/",
+						"created_year": "",
+						"description": "",
+						"category_list": [],
+						"similar_software_list": [{
+							"title": "",
+							"similiar_software_url": "",
+							"category": ""
+						}],
+						"licence_list": [],
+						"source_code_download": "",
+						"source_code_profile": "",
+						"commercial_support_url": "",
+						"floss_software": "",
+						"commercial_support_open_source_version": "",
+						"commercial_support_available": "",
+						"wikipedia_url": "",
+						"reference_list": [{
+							"title": "",
+							"logo_url": "",
+							"country": "",
+							"industry": ""
+						}],
+						"success_case_list": [{
+							"title": "",
+							"description": "",
+							"image_url": "",
+							"industry": "",
+							"customer": "",
+							"country": "",
+							"language": "",
+							"success_case_url": ""
+						}],
+						"solution_list": [{
+							"title": "Teltonika High-Tech Hill",
+							"logo_url": "https://teltonika-high-tech-hill.com/images/branches/thth-white.svg",
+							"website_url": "https://teltonika-high-tech-hill.com/",
+							"created_year": "",
+							"description": "",
+							"category_list": [],
+							"similar_software_list": [{
+								"title": "",
+								"similiar_software_url": "",
+								"category": ""
+							}],
+							"licence_list": [],
+							"source_code_download": "",
+							"source_code_profile": "",
+							"commercial_support_url": "",
+							"floss_software": "",
+							"commercial_support_open_source_version": "",
+							"commercial_support_available": "",
+							"wikipedia_url": "",
+							"reference_list": [{
+								"title": "",
+								"logo_url": "",
+								"country": "",
+								"industry": ""
+							}],
+							"success_case_list": [{
+								"title": "",
+								"description": "",
+								"image_url": "",
+								"industry": "",
+								"customer": "",
+								"country": "",
+								"language": "",
+								"success_case_url": ""
+							}],
+							"solution_list": [{
+								"title": "Teltonika Energy",
+								"logo_url": "https://teltonika-energy.com/images/branches/energy-white.svg",
+								"website_url": "https://teltonika-energy.com/",
+								"created_year": "",
+								"description": "",
+								"category_list": [],
+								"similar_software_list": [{
+									"title": "",
+									"similiar_software_url": "",
+									"category": ""
+								}],
+								"licence_list": [],
+								"source_code_download": "",
+								"source_code_profile": "",
+								"commercial_support_url": "",
+								"floss_software": "",
+								"commercial_support_open_source_version": "",
+								"commercial_support_available": "",
+								"wikipedia_url": "",
+								"reference_list": [{
+									"title": "",
+									"logo_url": "",
+									"country": "",
+									"industry": ""
+								}],
+								"success_case_list": [{
+									"title": "",
+									"description": "",
+									"image_url": "",
+									"industry": "",
+									"customer": "",
+									"country": "",
+									"language": "",
+									"success_case_url": ""
+								}]
+							}]
+						}]
+					}]
+				}]
+			}]
+		}]
+	}]
 }
