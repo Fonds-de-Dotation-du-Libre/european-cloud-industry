@@ -1,7 +1,7 @@
 {
-	"created": "2004",
+	"created": "01-04-2022",
 	"title": "Merlinux GmbH",
-	"type": "",
+	"type": "Company",
 	"logo_url": "https://delta.chat/assets/logos/delta-chat.svg",
 	"location": {
 		"title": "Delta Chat",
@@ -65,17 +65,16 @@
 		"website_url": "https://delta.chat/en/download",
 		"created_year": "2017",
 		"description": "Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number.",
-		"category_list": [],
+		"category_list": ["Telecommunication"],
 		"similar_software_list": [{
 			"title": "Telegram",
 			"similiar_software_url": "https://telegram.org/",
-			"category": "telecommunication",
-
-			"title": "whatsapp",
+			"category": "telecommunication"
+		},{
+			"title": "Whatsapp",
 			"similiar_software_url": "https://www.whatsapp.com/",
 			"category": "telecommunication"
 		}],
-
 		"licence_list": ["GPL-3.0-or-later"],
 		"source_code_download": "https://github.com/deltachat/",
 		"source_code_profile": "https://www.openhub.net/p/Delta-Chat",
