@@ -1,5 +1,5 @@
 {
-	"created": "2016",
+	"created": "29-04-2022",
 	"title": "Kopano",
 	"type": "Company",
 	"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
@@ -8,12 +8,12 @@
 		"address": "Elektronicaweg 18",
 		"postal_code": "2628 ",
 		"city": "Delft",
-		"country": "The Netherlands",
+		"country": "NL",
 		"phone_contact": "+31 15 7504712",
 		"mail_contact": "info@kopano.com",
 		"coordinate_list": [51.99644625005202, 4.384954469312656]
 	},
-	"subsidiary_location_list": ["De"],
+	"subsidiary_location_list": ["DE"],
 	"website_url": "https://kopano.com/",
 	"founded_year": "2016",
 	"kpi_list": [{
@@ -21,7 +21,7 @@
 		"staff": "33",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "5468100€",
+		"revenues": "5468100",
 		"source_url": "https://rocketreach.co/kopano-bv-profile_b56311dcf9784204"
 	}, {
 		"year": "2020",
@@ -59,37 +59,61 @@
 		"revenues": "",
 		"source_url": ""
 	}],
-	"solution_list": ["Kopano Groupware", "kopano meet"],
-	"title": "Kopano Groupware",
-	"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
-	"website_url": "https://kopano.com/products/groupware/",
-	"created_year": "2020",
-	"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
-	"category_list": [],
-	"similar_software_list": [{
-		"title": "Microsoft 365",
-		"similiar_software_url": "https://www.office.com/",
-		"category": ""
+	"solution_list": [{
+		"title": "Kopano Groupware",
+		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
+		"website_url": "https://kopano.com/products/groupware/",
+		"created_year": "2020",
+		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "Microsoft 365",
+			"similiar_software_url": "https://www.office.com/",
+			"category": "Telecommunication"
+	}],	
+	"licence_list": ["AGPL3 AGPL version 3.0"],
+	"source_code_download": "https://github.com/Kopano-dev",
+	"source_code_profile": "https://www.openhub.net/p/kopano",
+	"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
+	"floss_software": "no",
+	"commercial_support_open_source_version": "no",
+	"commercial_support_available": "no",
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
 	}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+	}]
+	},{
 	"title": "Kopano meet",
 	"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 	"website_url": "https://kopano.com/products/meet/",
 	"created_year": "2019",
 	"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
-	"category_list": [],
+	"category_list": ["Telecommunication"],
 	"similar_software_list": [{
 		"title": "Rocket.Chat",
 		"similiar_software_url": "https://rocket.chat/",
-		"category": ""
+		"category": "Telecommunication""
 	}],
-
 	"licence_list": ["AGPL3 AGPL version 3.0"],
 	"source_code_download": "https://github.com/Kopano-dev",
-	"source_code_profile": "https://github.com/Kopano-dev/kopano-webapp/blob/master/defaults.php",
+	"source_code_profile": "https://www.openhub.net/p/kopano",
 	"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
 	"floss_software": "yes",
-	"commercial_support_open_source_version": "https://www.openhub.net/p/kopano",
-	"commercial_support_available": "",
+	"commercial_support_open_source_version": "no",
+	"commercial_support_available": "yes",
 	"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
 	"reference_list": [{
 		"title": "",
