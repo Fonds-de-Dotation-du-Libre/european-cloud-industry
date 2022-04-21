@@ -1,7 +1,7 @@
 {
-	"created": "2016",
+	"created": "01-04-2022",
 	"title": "matrix",
-	"type": "corporation",
+	"type": "Company",
 	"logo_url": "https://element.io/images/logo-mark-primary.svg",
 	"location": {
 		"title": "New Vector Ltd",
@@ -27,14 +27,14 @@
 		"year": "2020",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "73688.12€",
+		"total_assets": "73688.12",
 		"revenues": "",
 		"source_url": ""
 	}, {
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "11156.33€",
+		"total_assets": "11156.33",
 		"revenues": "",
 		"source_url": ""
 	}, {
@@ -60,149 +60,213 @@
 		"source_url": ""
 	}],
 	"solution_list": [{
-				"title": "element",
-				"logo_url": "https://element.io/images/logo-mark-primary.svg",
-				"website_url": "https://element.io/personal",
-				"created_year": "2016",
-				"description": "Element lets you choose where your messages are stored, putting you in control of your data",
-				"category_list": ["telecommunication"],
-				"similar_software_list": [{
-							"title": "whatsapp",
-							"similiar_software_url": "https://www.whatsapp.com/",
-							"category": "telecommunication",
+		"title": "element",
+		"logo_url": "https://element.io/images/logo-mark-primary.svg",
+		"website_url": "https://element.io/personal",
+		"created_year": "2016",
+		"description": "Element lets you choose where your messages are stored, putting you in control of your data",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "Whatsapp",
+			"similiar_software_url": "https://www.whatsapp.com/",
+			"category": "Telecommunication"
+		}, {
+			"title": "Signal",
+			"similiar_software_url": "https://signal.org/en/",
+			"category": "Telecommunication"
+		}, {
+			"title": "Telegram",
+			"similiar_software_url": "https://telegram.org/",
+			"category": "Telecommunication"
+		}],
+		"licence_list": ["Apache License v2.0"],
+		"source_code_download": "https://github.com/vector-im",
+		"source_code_profile": "",
+		"commercial_support_url": "https://element.io/help",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "France embraces Matrix to build Tchap.",
+			"description": "Recent years have seen a step-change in French politics. An unprecedented modernisation agenda has created new ways of working for government officials and civil servants.",
+			"image_url": "https://element.io/images/tchap-hero-012x-p-800.jpeg",
+			"industry": "telecommunication",
+			"customer": "The French Government",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://element.io/case-studies/tchap"
+		}, {
+			"title": "Safe, inclusive communications for the University of Innsbruck",
+			"description": "Keen to support its vibrant learning culture, the university wanted to introduce a real time messaging system. “Email was proving slow and cumbersome, particularly for those operating from smartphones and tablets. Meanwhile unmanaged consumer-grade messaging apps created a fractured community, spread across siloed apps, and risked sensitive data,” says Katharina Köhle, Project Manager, IT Services.",
+			"image_url": "https://element.io/images/Inn-hero-01.png",
+			"industry": "Telecommunication",
+			"customer": "The University of Innsbruck",
+			"country": "AT",
+			"language": "EN",
+			"success_case_url": "https://element.io/case-studies/university-of-innsbruck"
+		}, {
+			"title": "The Bundeswehr builds on Matrix",
+			"description": "Simple real time communication via messaging services - popularised by consumer offerings such as WhatsApp, Signal and Telegram – is a challenge in the public sector, especially when it comes to national security.",
+			"image_url": "https://element.io/images/BWI-messenger-bundeswehr-p-800.jpeg",
+			"industry": "Army",
+			"customer": "Bundeswehr",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://element.io/case-studies/bundeswehr"
+		}, {
+			"title": "Handmade Seattle uses Element Matrix Services as pop-up hallways, water coolers and coffee shops",
+			"description": "The first Handmade Seattle, in 2019, was an in-person event to bring together leading experts on game engines, kernels, drivers, compilers and other systems programming. It hosted 300 people - mainly from the Seattle area and the states -who were able to share their expertise, technical insights and enthusiasm.",
+			"image_url": "https://element.io/images/HMS-hero-01.png",
+			"industry": "Information Technology",
+			"customer": "Handmade Seattle",
+			"country": "US",
+			"language": "EN",
+			"success_case_url": "https://element.io/case-studies/handmade-seattle"
+		}]
+	}, {
+		"title": "element One",
+		"logo_url": "https://element.io/images/logo-mark-primary.svg",
+		"website_url": "https://element.io/element-one",
+		"created_year": "2016",
+		"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "Wire",
+			"similiar_software_url": "https://wire.com/en/",
+			"category": "Telecommunication"
+		}]
+	}, {
+		"title": "element Home",
+		"logo_url": "https://element.io/images/logo-mark-primary.svg",
+		"website_url": "https://element.io/element-home",
+		"created_year": "2016",
+		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "Microsoft Teams",
+			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"category": "Telecommunication"
+		}],
+		"licence_list": ["Apache License v2.0"],
+		"source_code_download": "https://github.com/vector-im",
+		"source_code_profile": "",
+		"commercial_support_url": "https://element.io/help",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "element Enterprise",
+		"logo_url": "https://element.io/images/logo-mark-primary.svg",
+		"website_url": "https://element.io/enterprise-collaboration",
+		"created_year": "2016",
+		"description": "Element is a completely new type of collaboration. As universal as email. End-to-end encryption for messages, and with full voice and video. On-premise or in the cloud. And that's just for starters.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "rundeck",
+			"similiar_software_url": "https://www.rundeck.com/",
+			"category": "Telecommunication"
+		}, {
+			"title": "JAMS Enterprise Job Scheduler",
+			"similiar_software_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
+			"category": "Telecommunication"
+		}],
 
-							"title": "signal",
-							"similiar_software_url": "https://signal.org/en/",
-							"category": "telecommunication",
+		"licence_list": ["Apache License v2.0"],
+		"source_code_download": "https://github.com/vector-im",
+		"source_code_profile": "",
+		"commercial_support_url": "https://element.io/help",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "element App Store",
+		"logo_url": "https://element.io/images/logo-mark-primary.svg",
+		"website_url": "https://element.io/element-matrix-store",
+		"created_year": "2016",
+		"description": "Improve team productivity with our bridges, bots and widgets",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "weavy",
+			"similiar_software_url": "https://www.weavy.com/",
+			"category": "Telecommunication"
+		}]
+	}, {
+		"title": "element Matrix services",
+		"logo_url": "https://element.io/images/logo-mark-primary.svg",
+		"website_url": "https://element.io/matrix-services",
+		"created_year": "2016",
+		"description": "Element Matrix Services (EMS) is a robust and reliable hosting service for fast, secure real time communication.",
+		"category_list": ["Telecommunication"],
+		"similar_software_list": [{
+			"title": "ConnectWiseControl",
+			"similiar_software_url": "https://control.connectwise.com/",
+			"category": "Telecommunication"
+		}],
 
-							"title": "telegram",
-							"similiar_software_url": "https://telegram.org/",
-							"category": "telecommunication",
-
-							"title": "element One",
-							"logo_url": "https://element.io/images/logo-mark-primary.svg",
-							"website_url": "https://element.io/element-one",
-							"created_year": "2016",
-							"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",
-							"category_list": ["telecommunication"],
-							"similar_software_list": [{
-										"title": "Wire",
-										"similiar_software_url": "https://wire.com/en/",
-										"category": "telecommunication",
-
-
-										"title": "element Home",
-										"logo_url": "https://element.io/images/logo-mark-primary.svg",
-										"website_url": "https://element.io/element-home",
-										"created_year": "2016",
-										"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
-										"category_list": ["telecommunication"],
-										"similar_software_list": [{
-													"title": "Microsoft teams",
-													"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-													"category": "telecommunication",
-
-													"title": "element Home",
-													"logo_url": "https://element.io/images/logo-mark-primary.svg",
-													"website_url": "https://element.io/element-home",
-													"created_year": "2016",
-													"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
-													"category_list": ["telecommunication"],
-													"similar_software_list": [{
-																"title": "Microsoft teams",
-																"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-																"category": "telecommunication",
-
-																"title": "element Enterprise",
-																"logo_url": "https://element.io/images/logo-mark-primary.svg",
-																"website_url": "https://element.io/enterprise-collaboration",
-																"created_year": "2016",
-																"description": "Element is a completely new type of collaboration. As universal as email. End-to-end encryption for messages, and with full voice and video. On-premise or in the cloud. And that's just for starters.",
-																"category_list": ["telecommunication"],
-																"similar_software_list": [{
-																			"title": "rundeck",
-																			"similiar_software_url": "https://www.rundeck.com/",
-																			"category": "telecommunication",
-
-																			"title": "JAMS Enterprise Job Scheduler",
-																			"similiar_software_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
-																			"category": "telecommunication",
-
-
-																			"title": "element App Store",
-																			"logo_url": "https://element.io/images/logo-mark-primary.svg",
-																			"website_url": "https://element.io/element-matrix-store",
-																			"created_year": "2016",
-																			"description": "Improve team productivity with our bridges, bots and widgets",
-																			"category_list": ["telecommunication"],
-																			"similar_software_list": [{
-																				"title": "weavy",
-																				"similiar_software_url": "https://www.weavy.com/",
-																				"category": "telecommunication",
-
-
-																				"title": "element Matrix services",
-																				"logo_url": "https://element.io/images/logo-mark-primary.svg",
-																				"website_url": "https://element.io/matrix-services",
-																				"created_year": "2016",
-																				"description": "Element Matrix Services (EMS) is a robust and reliable hosting service for fast, secure real time communication.",
-																				"category_list": ["telecommunication"],
-																				"similar_software_list": [{
-																					"title": "ConnectWiseControl",
-																					"similiar_software_url": "https://control.connectwise.com/",
-																					"category": "telecommunication"
-
-																				}],
-																				"licence_list": ["Apache License v2.0"],
-																				"source_code_download": "https://github.com/vector-im",
-																				"source_code_profile": "",
-																				"commercial_support_url": "https://element.io/help",
-																				"floss_software": "yes",
-																				"commercial_support_open_source_version": "yes",
-																				"commercial_support_available": "yes",
-																				"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
-																				"reference_list": [{
-																					"title": "",
-																					"logo_url": "",
-																					"country": "",
-																					"industry": ""
-																				}],
-																				"success_case_list": [{
-																					"title": "France embraces Matrix to build Tchap.",
-																					"description": "Recent years have seen a step-change in French politics. An unprecedented modernisation agenda has created new ways of working for government officials and civil servants.",
-																					"image_url": "https://element.io/images/tchap-hero-012x-p-800.jpeg",
-																					"industry": "telecommunication",
-																					"customer": "The French Government",
-																					"country": "FR",
-																					"language": "EN",
-																					"success_case_url": "https://element.io/case-studies/tchap",
-
-																					"title": "Safe, inclusive communications for the University of Innsbruck",
-																					"description": "Keen to support its vibrant learning culture, the university wanted to introduce a real time messaging system. “Email was proving slow and cumbersome, particularly for those operating from smartphones and tablets. Meanwhile unmanaged consumer-grade messaging apps created a fractured community, spread across siloed apps, and risked sensitive data,” says Katharina Köhle, Project Manager, IT Services.",
-																					"image_url": "https://element.io/images/Inn-hero-01.png",
-																					"industry": "Telecommunication",
-																					"customer": "The University of Innsbruck",
-																					"country": "AT",
-																					"language": "EN",
-																					"success_case_url": "https://element.io/case-studies/university-of-innsbruck",
-
-																					"title": "The Bundeswehr builds on Matrix",
-																					"description": "Simple real time communication via messaging services - popularised by consumer offerings such as WhatsApp, Signal and Telegram – is a challenge in the public sector, especially when it comes to national security.",
-																					"image_url": "https://element.io/images/BWI-messenger-bundeswehr-p-800.jpeg",
-																					"industry": "army",
-																					"customer": "Bundeswehr",
-																					"country": "DE",
-																					"language": "EN",
-																					"success_case_url": "https://element.io/case-studies/bundeswehr",
-
-																					"title": "Handmade Seattle uses Element Matrix Services as pop-up hallways, water coolers and coffee shops",
-																					"description": "The first Handmade Seattle, in 2019, was an in-person event to bring together leading experts on game engines, kernels, drivers, compilers and other systems programming. It hosted 300 people - mainly from the Seattle area and the states -who were able to share their expertise, technical insights and enthusiasm.",
-																					"image_url": "https://element.io/images/HMS-hero-01.png",
-																					"industry": "IT",
-																					"customer": "Handmade Seattle",
-																					"country": "US",
-																					"language": "EN",
-																					"success_case_url": "https://element.io/case-studies/handmade-seattle"
-																				}]
-																			}]
-																		}
+		"licence_list": ["Apache License v2.0"],
+		"source_code_download": "https://github.com/vector-im",
+		"source_code_profile": "",
+		"commercial_support_url": "https://element.io/help",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}]
+}
