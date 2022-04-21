@@ -30,34 +30,6 @@
 		"total_assets": "",
 		"revenues": "",
 		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
 	}],
 	"solution_list": [{
 		"title": "Mender",
@@ -73,11 +45,11 @@
 		},{
 			"title": "Hologram",
 			"similiar_software_url": "https://www.hologram.io/discover/hardware/global-iot-simcard?utm_source=google&utm_medium=cpc&utm_campaign=branded-country-expansion&gclid=CjwKCAjw0a-SBhBkEiwApljU0n3z7ag5WHFeUxxUQkzqSfwRygr7TqCr_N57YJVLVV3vSZHFSUuQWxoCpPQQAvD_BwE",
-			"category": "Information Technology",
+			"category": "Information Technology"
 		},{
 			"title": "Thingswork",
 			"similiar_software_url": "https://www.ptc.com/en/products/thingworx",
-			"category": "Information Technology",
+			"category": "Information Technology"
 		},{
 			"title": "Google Cloud IOT core",
 			"similiar_software_url": "https://cloud.google.com/iot-core",
