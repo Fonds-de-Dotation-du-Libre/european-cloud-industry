@@ -1,152 +1,279 @@
    {
-	"created": "2008",
-	"title": "Kalray",
-	"type": "corporation",
-	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-	"location": {
-		"title": "Kalray S.A.",
-		"address": "180 avenue de l’Europe",
-		"postal_code": "38330",
-		"city": "Montbonnot",
-		"country": "FR",
-		"phone_contact": "+33 (0) 4 76 18 90 71",
-		"mail_contact": "",
-		"coordinate_list": [45.21319846448985, 5.806683692042323]
-	},
-	"subsidiary_location_list": [],
-	"website_url": "https://www.kalrayinc.com/",
-	"founded_year": "2008",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "86",
-		"earnings": "",
-		"total_assets": "47 641 000€",
-		"revenues": "",
-		"source_url": "https://www.societe.com/bilan/kalray-507620557202012311.html"
-	}, {
-		"year": "2019",
-		"staff": "74",
-		"earnings": "",
-		"total_assets": "41 221 000€",
-		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
-	}, {
-		"year": "2018",
-		"staff": "64",
-		"earnings": "",
-		"total_assets": "50 220 000€",
-		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
-	}, {
-		"year": "2017",
-		"staff": "56",
-		"earnings": "",
-		"total_assets": "17 481 837€",
-		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
-	}, {
-		"year": "2016",
-		"staff": "56",
-		"earnings": "",
-		"total_assets": "15 131 669€",
-		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
-	}],
-	"solution_list": [{
-				"title": "Kalray MPPA® Manycore",
-				"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-				"website_url": "https://www.kalrayinc.com/products/mppa-technology",
-				"created_year": "",
-				"description": "The overall architecture of the Kalray 3rd generation of MPPA® processor aka Coolidge™ is based on a “Massively Parallel Processor Array” architecture, which is characterized by the association of computing clusters connected to each other, to the external memory and to the I/O interfaces via two independent interconnects.",
-				"category_list": [],
-				"similar_software_list": [{
-							"title": "NVME FLASH ARRAY",
-							"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-							"website_url": "https://www.kalrayinc.com/products/nvme-flash-array",
-							"created_year": "",
-							"description": "Kalray Flashbox™ is the first disaggregated NVMe storage array that has been designed from the ground up to leverage the full potential of NVMe flash devices at massive scale, while ensuring the lowest storage Total Cost of Ownership (TCO).",
-							"category_list": [],
-							"similar_software_list": [{
-										"title": "",
-										"similiar_software_url": "",
-										"category": "",
-
-										"title": "Kalray Cards",
-										"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-										"website_url": "https://en.wikipedia.org/wiki/Kalray",
-										"created_year": "",
-										"description": "Based on its MPPA® processor, Kalray’s has developed a K200™ family of data‐centric acceleration cards offering an unprecedented level of performance and programmability, a game changer solutions in terms of performance per Watt and per dollar.",
-										"category_list": [],
-										"similar_software_list": [{
-											"title": "",
-											"similiar_software_url": "",
-											"category": "",
-
-											"title": "Kalray's MPPA® Processors",
-											"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-											"website_url": "https://www.kalrayinc.com/products/processors-many-core",
-											"created_year": "",
-											"description": "Taking full advantage of Kalray’s patented MPPA® (Massively Parallel Processor Array) architecture, Coolidge™ is a scalable 80-core processor designed for intelligent data processing. It offers a unique alternative to GPU, ASIC or FPGA, bringing unique value to multiple applications from Data Centers, to the Edge and in Embedded systems.",
-											"category_list": [],
-
-
-											"title": "MPPA®-DEV4 ",
-											"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-											"website_url": "https://www.kalrayinc.com/development-platform",
-											"created_year": "",
-											"description": "The MPPA®-DEV4 includes all of the hardware and software needed for the development of your applications on the MPPA® Coolidge processor such as Deep Learning, Computer Vision, and Mathematical Algorithms.",
-											"category_list": [],
-
-											"title": "AccessCore®",
-											"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
-											"website_url": "https://www.kalrayinc.com/products/software",
-											"created_year": "",
-											"description": "AccessCore® provides all required tools to quickly develop, debug, and optimize, high-performance applications, using open standards for Kalray MPPA® processors.",
-											"category_list": [],
-											"similar_software_list": [{
-												"title": "",
-												"similiar_software_url": "",
-												"category": ""
-											}],
-											"licence_list": [],
-											"source_code_download": "https://github.com/kalray",
-											"source_code_profile": "",
-											"commercial_support_url": "",
-											"floss_software": "no",
-											"commercial_support_open_source_version": "",
-											"commercial_support_available": "yes",
-											"wikipedia_url": "https://en.wikipedia.org/wiki/Kalray",
-											"reference_list": [{
-												"title": "",
-												"logo_url": "",
-												"country": "",
-												"industry": ""
-											}],
-											"success_case_list": [{
-												"title": "EasyMile and Kalray Strengthen Development Platform Collaboration",
-												"description": " Autonomous technology provider EasyMile and intelligent processors supplier Kalray have deepened their relationship with the signature of a Memorandum of Understanding (MoU) formalizing their relationship to develop intelligent systems.",
-												"image_url": "",
-												"industry": "Autonomous vehicules",
-												"customer": "EasyMile",
-												"country": "FR",
-												"language": "EN",
-												"success_case_url": "https://www.kalrayinc.com/press-release/easymile-and-kalray-strengthen-development-platform-collaboration",
-
-												"title": "Wistron and Kalray announce FURIO1200™ Storage Appliance",
-												"description": "Wistron, a leader in ICT (Information and communications technology) products, and Kalray (Euronext Growth Paris: ALKAL), a leading provider in new generation of processors specialized in Intelligent Data Processing from Cloud to Edge, announce the availability of FURIO1200™, a 24-Flash-Drive NVMe-oF based storage node appliance, integrating Kalray’s NVMe-oF K200™ smart storage adapter, powered by its MPPA® Coolidge™ intelligent processor, and Wistron LYMMA chassis. FURIO1200™ is a new type of hyper-fast disaggregated storage solution delivering ultra-high throughput and reliability. ",
-												"image_url": "information and communication",
-												"industry": "Autonomous vehicules",
-												"customer": "Wistron",
-												"country": "FR",
-												"language": "EN",
-												"success_case_url": "https://www.kalrayinc.com/press-release/easymile-and-kalray-strengthen-development-platform-collaboration"
-											}]
-										}]
-									}
+   	"created": "01-04-2022",
+   	"title": "Kalray",
+   	"type": "corporation",
+   	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   	"location": {
+   		"title": "Kalray S.A.",
+   		"address": "180 avenue de l’Europe",
+   		"postal_code": "38330",
+   		"city": "Montbonnot",
+   		"country": "FR",
+   		"phone_contact": "+33 (0) 4 76 18 90 71",
+   		"mail_contact": "",
+   		"coordinate_list": [45.21319846448985, 5.806683692042323]
+   	},
+   	"subsidiary_location_list": [],
+   	"website_url": "https://www.kalrayinc.com/",
+   	"founded_year": "2008",
+   	"kpi_list": [{
+   		"year": "2021",
+   		"staff": "",
+   		"earnings": "",
+   		"total_assets": "",
+   		"revenues": "",
+   		"source_url": ""
+   	}, {
+   		"year": "2020",
+   		"staff": "86",
+   		"earnings": "",
+   		"total_assets": "47 641 000",
+   		"revenues": "",
+   		"source_url": "https://www.societe.com/bilan/kalray-507620557202012311.html"
+   	}, {
+   		"year": "2019",
+   		"staff": "74",
+   		"earnings": "",
+   		"total_assets": "41 221 000",
+   		"revenues": "",
+   		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
+   	}, {
+   		"year": "2018",
+   		"staff": "64",
+   		"earnings": "",
+   		"total_assets": "50 220 000",
+   		"revenues": "",
+   		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
+   	}, {
+   		"year": "2017",
+   		"staff": "56",
+   		"earnings": "",
+   		"total_assets": "17 481 837",
+   		"revenues": "",
+   		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
+   	}, {
+   		"year": "2016",
+   		"staff": "56",
+   		"earnings": "",
+   		"total_assets": "15 131 669",
+   		"revenues": "",
+   		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
+   	}],
+   	"solution_list": [{
+   		"title": "Kalray MPPA® Manycore",
+   		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   		"website_url": "https://www.kalrayinc.com/products/mppa-technology",
+   		"created_year": "",
+   		"description": "The overall architecture of the Kalray 3rd generation of MPPA® processor aka Coolidge™ is based on a “Massively Parallel Processor Array” architecture, which is characterized by the association of computing clusters connected to each other, to the external memory and to the I/O interfaces via two independent interconnects.",
+   		"category_list": ["Information Technology"],
+   		"similar_software_list": [{
+   			"title": "",
+   			"similiar_software_url": "",
+   			"category": ""
+   		}],
+   		"licence_list": [],
+   		"source_code_download": "https://github.com/kalray",
+   		"source_code_profile": "",
+   		"commercial_support_url": "https://lounge.kalrayinc.com/hc/en-us/restricted?return_to=https%3A%2F%2Flounge.kalrayinc.com%2Fhc%2Fen-us",
+   		"floss_software": "no",
+   		"commercial_support_open_source_version": "no",
+   		"commercial_support_available": "no",
+   		"wikipedia_url": "https://en.wikipedia.org/wiki/Kalray",
+   		"reference_list": [{
+   			"title": "",
+   			"logo_url": "",
+   			"country": "",
+   			"industry": ""
+   		}],
+   		"success_case_list": [{
+   			"title": "",
+   			"description": "",
+   			"image_url": "",
+   			"industry": "",
+   			"customer": "",
+   			"country": "",
+   			"language": "",
+   			"success_case_url": ""
+   		}]
+   	}, {
+   		"title": "NVME FLASH ARRAY",
+   		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   		"website_url": "https://www.kalrayinc.com/products/nvme-flash-array",
+   		"created_year": "",
+   		"description": "Kalray Flashbox™ is the first disaggregated NVMe storage array that has been designed from the ground up to leverage the full potential of NVMe flash devices at massive scale, while ensuring the lowest storage Total Cost of Ownership (TCO).",
+   		"category_list": [],
+   		"similar_software_list": [{
+   			"title": "",
+   			"similiar_software_url": "",
+   			"category": ""
+   		}],
+   		"licence_list": [],
+   		"source_code_download": "https://github.com/kalray",
+   		"source_code_profile": "",
+   		"commercial_support_url": "",
+   		"floss_software": "",
+   		"commercial_support_open_source_version": "",
+   		"commercial_support_available": "",
+   		"wikipedia_url": "",
+   		"reference_list": [{
+   			"title": "",
+   			"logo_url": "",
+   			"country": "",
+   			"industry": ""
+   		}],
+   		"success_case_list": [{
+   			"title": "",
+   			"description": "",
+   			"image_url": "",
+   			"industry": "",
+   			"customer": "",
+   			"country": "",
+   			"language": "",
+   			"success_case_url": ""
+   		}]
+   	}, {
+   		"title": "Kalray Cards",
+   		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   		"website_url": "https://www.kalrayinc.com/products/cards",
+   		"created_year": "",
+   		"description": "Based on its MPPA® processor, Kalray’s has developed a K200™ family of data‐centric acceleration cards offering an unprecedented level of performance and programmability, a game changer solutions in terms of performance per Watt and per dollar.",
+   		"category_list": [],
+   		"similar_software_list": [{
+   			"title": "",
+   			"similiar_software_url": "",
+   			"category": ""
+   		}],
+   		"licence_list": [],
+   		"source_code_download": "https://github.com/kalray",
+   		"source_code_profile": "",
+   		"commercial_support_url": "",
+   		"floss_software": "",
+   		"commercial_support_open_source_version": "",
+   		"commercial_support_available": "",
+   		"wikipedia_url": "https://en.wikipedia.org/wiki/Kalray",
+   		"reference_list": [{
+   			"title": "",
+   			"logo_url": "",
+   			"country": "",
+   			"industry": ""
+   		}],
+   		"success_case_list": [{
+   			"title": "",
+   			"description": "",
+   			"image_url": "",
+   			"industry": "",
+   			"customer": "",
+   			"country": "",
+   			"language": "",
+   			"success_case_url": ""
+   		}]
+   	}, {
+   		"title": "Kalray's MPPA® Processors",
+   		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   		"website_url": "https://www.kalrayinc.com/products/processors-many-core",
+   		"created_year": "",
+   		"description": "Taking full advantage of Kalray’s patented MPPA® (Massively Parallel Processor Array) architecture, Coolidge™ is a scalable 80-core processor designed for intelligent data processing. It offers a unique alternative to GPU, ASIC or FPGA, bringing unique value to multiple applications from Data Centers, to the Edge and in Embedded systems.",
+   		"category_list": [],
+   		"similar_software_list": [{
+   			"title": "",
+   			"similiar_software_url": "",
+   			"category": ""
+   		}],
+   		"licence_list": [],
+   		"source_code_download": "https://github.com/kalray",
+   		"source_code_profile": "",
+   		"commercial_support_url": "",
+   		"floss_software": "",
+   		"commercial_support_open_source_version": "",
+   		"commercial_support_available": "",
+   		"wikipedia_url": "",
+   		"reference_list": [{
+   			"title": "",
+   			"logo_url": "",
+   			"country": "",
+   			"industry": ""
+   		}],
+   		"success_case_list": [{
+   			"title": "",
+   			"description": "",
+   			"image_url": "",
+   			"industry": "",
+   			"customer": "",
+   			"country": "",
+   			"language": "",
+   			"success_case_url": ""
+   		}]
+   	}, {
+   		"title": "MPPA®-DEV4 ",
+   		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   		"website_url": "https://www.kalrayinc.com/development-platform",
+   		"created_year": "",
+   		"description": "The MPPA®-DEV4 includes all of the hardware and software needed for the development of your applications on the MPPA® Coolidge processor such as Deep Learning, Computer Vision, and Mathematical Algorithms.",
+   		"category_list": [],
+   		"similar_software_list": [{
+   			"title": "",
+   			"similiar_software_url": "",
+   			"category": ""
+   		}],
+   		"licence_list": [],
+   		"source_code_download": "https://github.com/kalray",
+   		"source_code_profile": "",
+   		"commercial_support_url": "",
+   		"floss_software": "",
+   		"commercial_support_open_source_version": "",
+   		"commercial_support_available": "",
+   		"wikipedia_url": "",
+   		"reference_list": [{
+   			"title": "",
+   			"logo_url": "",
+   			"country": "",
+   			"industry": ""
+   		}],
+   		"success_case_list": [{
+   			"title": "",
+   			"description": "",
+   			"image_url": "",
+   			"industry": "",
+   			"customer": "",
+   			"country": "",
+   			"language": "",
+   			"success_case_url": ""
+   		}]
+   	}, {
+   		"title": "AccessCore®",
+   		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
+   		"website_url": "https://www.kalrayinc.com/products/software",
+   		"created_year": "",
+   		"description": "AccessCore® provides all required tools to quickly develop, debug, and optimize, high-performance applications, using open standards for Kalray MPPA® processors.",
+   		"category_list": [],
+   		"similar_software_list": [{
+   			"title": "",
+   			"similiar_software_url": "",
+   			"category": ""
+   		}],
+   		"licence_list": [],
+   		"source_code_download": "https://github.com/kalray",
+   		"source_code_profile": "",
+   		"commercial_support_url": "",
+   		"floss_software": "no",
+   		"commercial_support_open_source_version": "",
+   		"commercial_support_available": "yes",
+   		"wikipedia_url": "https://en.wikipedia.org/wiki/Kalray",
+   		"reference_list": [{
+   			"title": "",
+   			"logo_url": "",
+   			"country": "",
+   			"industry": ""
+   		}],
+   		"success_case_list": [{
+   			"title": "",
+   			"description": "",
+   			"image_url": "",
+   			"industry": "",
+   			"customer": "",
+   			"country": "",
+   			"language": "",
+   			"success_case_url": ""
+   		}]
+   	}]
+   }
