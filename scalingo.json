@@ -77,86 +77,68 @@
       "language": "fr",
       "success_case_url": "https://scalingo.com/customers/le-wagon"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Help grow tens of startups thanks to Scalingo",
+      "description": "At the beginning of Dernier Cri, they started using VPS at Digital Ocean and Rackspace. Isolation with one VPS per client and Docker to help with system administration but it wasn't enough. Between the recurring problems of builds, the sometimes forgotten backups or the lack of recovery plan pushed Robin to look for a better solution. The choice went to Heroku. Technically the experience was very satisfying but the human side was much less so. They decided to choose Scalingo the support being a real asset.",
+      "image_url": "https://www.datocms-assets.com/36416/1632646981-logo-derniercri.svg",
+      "industry": "web development",
+      "customer": "Dernier Cri",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://scalingo.com/customers/derniercri"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Running a 15M€ E-commerce platform on Scalingo",
+      "description": "Clément Joubert, CTO of HomeCinéSolutions, is in charge of the application created with Ruby on Rails in 2006 and also serving as ERP. This application was hosted on dedicated managed servers and Clément encountered problems such as communication with the outsourcing company was sub-optimal and the dedicated server that were under-utilized in no-high traffic peaks period. That's why in 2017 Clément started testing other services and his choice went to Scalingo because it offered the possibility of being hosted on a high-availability platform at the same price, with in particular multi-node clusters for Redis and PostgreSQL, which gave the technical team peace of mind and allowed them to make updates without any downtime. And also because of the reactive support that has corrected the performance problems detected during some specific scale-up tests.",
+      "image_url": "https://www.datocms-assets.com/36416/1634720856-homecinesolutionlogo.svg",
+      "industry": "Retail",
+      "customer": "HomeCinéSolutions",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://scalingo.com/customers/homecinesolutions"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Saving developers time by reducing Ops intervention",
+      "description": "CucumberStudio is a collaborative continuous testing platform dedicated to Agile and DevOps teams. It fosters collaboration between business and tech teams through its native support for BDD (Behavior-Driven Development). Cucumber Team have opted for CucumberStudio to be hosted on a “Platform as a Service” in order to save time. By using Scalingo, they can concentrate their time and efforts on producing code, which is their real added value.",
+      "image_url": "https://www.datocms-assets.com/36416/1634652950-cucumberstudiologo.svg",
+      "industry": "web development",
+      "customer": "Cucumber",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://scalingo.com/customers/cucumberstudio"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Running Germany's largest online donation platform on Scalingo",
+      "description": "betterplace.me is a new donation platform that we launched on Scalingo in 2018. betterplace.me makes it easy for individuals - and initiatives who aren't part of a larger organization - to collect donations as well. They wanted to migrate a few of their applications off Heroku in preparation for the GDPR. Scalingo was the only European “drop-in” replacement that just worked. They also appreciated the personal contact with the team which quickly reacted if there was trouble.",
+      "image_url": "https://www.datocms-assets.com/36416/1634650343-betterplace-logo.svg",
+      "industry": "Humanitarian aid",
+      "customer": "Betterplace.org",
+      "country": "DE",
+      "language": "de",
+      "success_case_url": "https://scalingo.com/customers/betterplace"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "Building the biggest European electromobility platform with Scalingo",
+      "description": "Chargemap is a community database gathering charging stations for electric vehicles (EV). The technical infrastructure of Chargemap has changed a lot in the past 7-8 years. Because their business has also changed a lot they had to adapt and create new softwares continuously so they did not want to spend hours configuring servers anymore. They did not want to manage security updates by ourselves. They did not want to wait several hours / days before a simple nginx update. They wanted to be free to migrate quickly from one supplier to another if needed. In short, they wanted flexibility, scalability, performance, stability, and most importantly: they wanted to be able to focus on their real job. Scalingo was the ideal partner to help in this change process. From the beginning what were seducing was the speed with which they have been deploying new versions and new applications.",
+      "image_url": "https://www.datocms-assets.com/36416/1634651136-chargemaplogo.svg",
+      "industry": "IT services",
+      "customer": "Chargemap",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://scalingo.com/customers/chargemap"
     },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "title": "The SaaS ERP for wine estates hosted on Scalingo",
+      "description": "Baqio is the first Enterprise Resource Planning (ERP) web application dedicated to wine estate owners and wine merchants. It allows to manage stock, products catalogue, customers database (CRM). It's an ERP dedicated to the specifities of the wine world and not as an afterthought of an existing ERP.  They used Scalingo to launch Baqio because they can scale resources very precisely depending on the needs of application, without touching a server nor having deep system administration skills. On Scalingo, Baqio team run a staging app and a production app. If they want to do a Ruby version upgrade for example, they just have to modify a file and push it to the staging app to test its behavior. It is an incredible comfort compared to previous solution Heroku.",
+      "image_url": "https://www.datocms-assets.com/36416/1634650335-baqiologo.svg",
+      "industry": "software",
+      "customer": "Baqio",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://scalingo.com/customers/baqio"
     },{
-      "title": "",
+      "title": "Building an IoT Platform for the Smart City on Scalingo",
       "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    },{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
+      "image_url": "https://www.datocms-assets.com/36416/1634652783-moraballogo.svg",
+      "industry": "Manufacturing",
+      "customer": "Monrabal",
+      "country": "ES",
+      "language": "es",
+      "success_case_url": "https://scalingo.com/customers/monrabal"
     }]
   }]
 }
