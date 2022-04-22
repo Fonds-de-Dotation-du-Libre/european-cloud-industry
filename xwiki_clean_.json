@@ -1,7 +1,7 @@
 {
   "created": "2022-04-12",
   "title": "XWiki SAS",
-  "type": "Other",
+  "type": "Corportation",
   "logo_url": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
   "location": {
     "title": "XWiki SAS",
@@ -11,11 +11,11 @@
     "country": "FR",
     "phone_contact": "+33 1 45 42 40 90",
     "mail_contact": "contact@xwiki.com",
-    "coordinate_list": "48.86035200342366, 2.346190001868085"
+    "coordinate_list": [48.86035200342366, 2.346190001868085]
   },
-  "subsidiary_location_list": "",
-  "website_url": "https://xwiki.com/fr/",
-  "founded_year": "",
+  "subsidiary_location_list": [],
+  "website_url": "https://xwiki.com/",
+  "founded_year": "2004",
   "kpi_list": [{
     "year": "2020",
     "staff": "",
@@ -26,30 +26,30 @@
   }, {
     "year": "2019",
     "staff": "13",
-    "earnings": "-18 074",
-    "total_assets": "2 790 687",
-    "revenues": "1 559 579",
+    "earnings": "-18074",
+    "total_assets": "2790687",
+    "revenues": "1559579",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2018",
     "staff": "16",
-    "earnings": "275 713",
-    "total_assets": "2 302 493",
-    "revenues": "1 630 338",
+    "earnings": "275713",
+    "total_assets": "2302493",
+    "revenues": "1630338",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2017",
     "staff": "15",
-    "earnings": "-53 801 ",
-    "total_assets": "2 107 642",
-    "revenues": "1 245 643",
+    "earnings": "-53801 ",
+    "total_assets": "2107642",
+    "revenues": "1245643",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2016",
     "staff": "16",
-    "earnings": "- 268 222",
-    "total_assets": "2 447 998",
-    "revenues": "920 401",
+    "earnings": "- 268222",
+    "total_assets": "2447998",
+    "revenues": "920401",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   }],
   "solution_list": [{
@@ -59,42 +59,72 @@
     "created_year": "2004",
     "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. XWiki is an enterprise wiki. It includes WYSIWYG editing, OpenDocument based document import/export, semantic annotations and tagging, and advanced permissions management.",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Confluence",
-      "similiar_software_url": "https://www.atlassian.com/software/confluence",
+      "similiar_solution_url": "https://www.atlassian.com/software/confluence",
       "category": ""
     },{
       "title": "MediaWiki",
-      "similiar_software_url": "https://www.mediawiki.org/wiki/MediaWiki",
+      "similiar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
       "category": ""
     },{
       "title": "Sharepoint",
-      "similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+      "similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
       "category": ""
     }],
     "licence_list": ["LGPL-2.1 License"],
-    "source_code_download": "https://github.com/xwiki/xwiki-platform",
-    "source_code_profile": "https://www.openhub.net/p/xwiki",
+    "source_code_download": "https://www.xwiki.org/xwiki/bin/view/Download/",
+    "source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.xwiki.org/xwiki/bin/view/Main/Support#HProfessionalSupport",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/XWiki",
     "reference_list": [{
+      "title": "EMC2",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    },{
+      "title": "Chronopost International",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    },{
+      "title": "Meetic",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    },{
+      "title": "DCNS",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    },{
+      "title": "Fidelia",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    },{
+      "title": "Cap Gemini",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    },{
       "title": "Amazon",
       "logo_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg",
       "country": "FR",
-      "industry": "Online retail"
+      "industry": "Commerce and Retail"
     },{
       "title": "Easy Vista",
       "logo_url": "https://xwiki.com/fr/download/societe/references/easyvista/easyvista.jpg",
       "country": "FR",
-      "industry": "IT services"
+      "industry": "Information Technologies"
     },{
       "title": "Open Source Initiative",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/300px-Opensource.svg.png",
       "country": "US",
-      "industry": "Software"
+      "industry": "Information Technologies"
     }],
     "success_case_list": [{
       "title": "Successful xwiki implementation",
