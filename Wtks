@@ -153,9 +153,25 @@
 				"description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
 				"category_list": ["Information Technology"],
 				"similar_software_list": [{
-					"title": "",
-					"similiar_software_url": "",
-					"category": ""
+					"title": "Keycloak",
+					"similiar_software_url": "https://www.keycloak.org/",
+					"category": "Information Technology"
+					},{
+					"title": "CAS",
+					"similiar_software_url": "https://github.com/apereo/cas",
+					"category": "Information Technology"
+					},{
+					"title": "Ory",
+					"similiar_software_url": "https://www.ory.sh/",
+					"category": "Information Technology"
+					},{
+					"title": "Shibboleth",
+					"similiar_software_url": "https://www.shibboleth.net/",
+					"category": "Information Technology"
+					},{
+					"title": "10 Duke",
+					"similiar_software_url": "https://www.10duke.com/products/identity-provider/",
+					"category": "Information Technology"
 				}],
 				"licence_list": ["GPL-3.0"],
 				"source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
@@ -189,9 +205,25 @@
 					"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials.",
 					"category_list": ["Information Technology"],
 					"similar_software_list": [{
+						"title": "pmw-project",
+						"similiar_software_url": "https://github.com/pwm-project/pwm",
+						"category": "Information Technology"
+						},{
+						"title": "PassCore",
+						"similiar_software_url": "https://github.com/unosquare/passcore",
+						"category": "Information Technology"
+						},{
+						"title": "ADReset",
+						"similiar_software_url": "https://github.com/mprahl/ADReset",
+						"category": "Information Technology"
+						},{
+						"title": "JiJi Self Service Password",
+						"similiar_software_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+						"category": "Information Technology"
+						},{
 						"title": "",
 						"similiar_software_url": "",
-						"category": ""
+						"category": "Information Technology"
 					}],
 					"licence_list": ["BSD-2-Clause"],
 					"source_code_download": "https://github.com/lsc-project/lsc.git",
@@ -228,6 +260,11 @@
 							"title": "",
 							"similiar_software_url": "",
 							"category": ""
+							},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+						},{
 						}],
 						"licence_list": ["GNU General Public License v3.0"],
 						"source_code_download": "https://github.com/ltb-project/self-service-password.git",
@@ -264,6 +301,59 @@
 								"title": "",
 								"similiar_software_url": "",
 								"category": ""
+								},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					},{
+					},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					},{
+					},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					},{
+					},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					},{
+					},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+				},{
+						"title": "",
+						"similiar_software_url": "",
+						"category": "Information Technology"
+					},{
 							}],
 							"licence_list": ["MIT License"],
 							"source_code_download": "https://github.com/Worteks/bbb-ansible.git",
