@@ -1,0 +1,372 @@
+{
+	"created": "2022-03-23",
+	"title": "Wortkes",
+	"type": "Corporation",
+	"logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
+	"location": {
+		"title": "Worteks",
+		"address": "7 rue Diderot",
+		"postal_code": "92000",
+		"city": "Nanterre",
+		"country": "FR",
+		"phone_contact": "+33184208647",
+		"mail_contact": "info@worteks.com",
+		"coordinate_list": ["48.887029190768544, 2.2098383478066896"]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.worteks.com/",
+	"founded_year": "2016",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "9",
+		"earnings": "703270",
+		"total_assets": "1094494",
+		"revenues": "1870645",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+	}, {
+		"year": "2019",
+		"staff": "9",
+		"earnings": "415850",
+		"total_assets": "591225",
+		"revenues": "1531379",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+	}, {
+		"year": "2018",
+		"staff": "8",
+		"earnings": "363411",
+		"total_assets": "375374",
+		"revenues": "1159508",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+	}],
+	"solution_list": [{
+		"title": "W'Sweet",
+		"logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
+		"website_url": "https://www.wsweet.org/",
+		"created_year": "",
+		"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
+		"category_list": "Information Technology",
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}],
+		"title": "W'Opla",
+		"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+		"website_url": "https://www.worteks.com/edition/wopla/",
+		"created_year": "",
+		"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
+		"category_list": "Information Technology",
+		"similar_software_list": [{
+			"title": "",
+			"similiar_software_url": "",
+			"category": ""
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}],
+		"solution_list": [{
+			"title": "W'Opla",
+			"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+			"website_url": "https://www.worteks.com/edition/wopla/",
+			"created_year": "",
+			"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
+			"category_list": "Information Technology",
+			"similar_software_list": [{
+				"title": "",
+				"similiar_software_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "",
+			"floss_software": "",
+			"commercial_support_open_source_version": "",
+			"commercial_support_available": "",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}],
+			"solution_list": [{
+				"title": "LemonLDAP::NG",
+				"logo_url": "https://www.lemonldap-ng.org/images/logo_llng_600px.png",
+				"website_url": "https://www.lemonldap-ng.org/",
+				"created_year": "2004",
+				"description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
+				"category_list": ["Information Technology"],
+				"similar_software_list": [{
+					"title": "",
+					"similiar_software_url": "",
+					"category": ""
+				}],
+				"licence_list": ["GPL-3.0"],
+				"source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
+				"source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
+				"commercial_support_url": "",
+				"floss_software": "Yes",
+				"commercial_support_open_source_version": "Yes",
+				"commercial_support_available": "No",
+				"wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
+				"reference_list": [{
+					"title": "",
+					"logo_url": "",
+					"country": "",
+					"industry": ""
+				}],
+				"success_case_list": [{
+					"title": "",
+					"description": "",
+					"image_url": "",
+					"industry": "",
+					"customer": "",
+					"country": "",
+					"language": "",
+					"success_case_url": ""
+				}],
+				"solution_list": [{
+					"title": "LSC - LDAP Synchronization Connector",
+					"logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
+					"website_url": "https://www.lsc-project.org/start",
+					"created_year": "2008",
+					"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials.",
+					"category_list": ["Information Technology"],
+					"similar_software_list": [{
+						"title": "",
+						"similiar_software_url": "",
+						"category": ""
+					}],
+					"licence_list": ["BSD-2-Clause"],
+					"source_code_download": "https://github.com/lsc-project/lsc.git",
+					"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
+					"commercial_support_url": "",
+					"floss_software": "Yes",
+					"commercial_support_open_source_version": "No",
+					"commercial_support_available": "No",
+					"wikipedia_url": "",
+					"reference_list": [{
+						"title": "",
+						"logo_url": "",
+						"country": "",
+						"industry": ""
+					}],
+					"success_case_list": [{
+						"title": "",
+						"description": "",
+						"image_url": "",
+						"industry": "",
+						"customer": "",
+						"country": "",
+						"language": "",
+						"success_case_url": ""
+					}],
+					"solution_list": [{
+						"title": "LTB - LDAP Tool Box",
+						"logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
+						"website_url": "https://www.ltb-project.org/",
+						"created_year": "2009",
+						"description": "",
+						"category_list": ["Information Technology"],
+						"similar_software_list": [{
+							"title": "",
+							"similiar_software_url": "",
+							"category": ""
+						}],
+						"licence_list": ["GNU General Public License v3.0"],
+						"source_code_download": "https://github.com/ltb-project/self-service-password.git",
+						"source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
+						"commercial_support_url": "",
+						"floss_software": "Yes",
+						"commercial_support_open_source_version": "No",
+						"commercial_support_available": "No",
+						"wikipedia_url": "",
+						"reference_list": [{
+							"title": "",
+							"logo_url": "",
+							"country": "",
+							"industry": ""
+						}],
+						"success_case_list": [{
+							"title": "",
+							"description": "",
+							"image_url": "",
+							"industry": "",
+							"customer": "",
+							"country": "",
+							"language": "",
+							"success_case_url": ""
+						}],
+						"solution_list": [{
+							"title": "Big Blue Button Ansible",
+							"logo_url": "https://docs.bigbluebutton.org/images/logo.png",
+							"website_url": "https://bigbluebutton.org/",
+							"created_year": "2007",
+							"description": "BigBlueButton is an open-source web conferencing platform.",
+							"category_list": ["Information Technology"],
+							"similar_software_list": [{
+								"title": "",
+								"similiar_software_url": "",
+								"category": ""
+							}],
+							"licence_list": ["MIT License"],
+							"source_code_download": "https://github.com/Worteks/bbb-ansible.git",
+							"source_code_profile": "https://www.openhub.net/p/bigbluebutton/analyses/latest/languages_summary",
+							"commercial_support_url": "",
+							"floss_software": "Yes",
+							"commercial_support_open_source_version": "",
+							"commercial_support_available": "",
+							"wikipedia_url": "https://en.wikipedia.org/wiki/BigBlueButton",
+							"reference_list": [{
+								"title": "",
+								"logo_url": "",
+								"country": "",
+								"industry": ""
+							}],
+							"success_case_list": [{
+								"title": "",
+								"description": "",
+								"image_url": "",
+								"industry": "",
+								"customer": "",
+								"country": "",
+								"language": "",
+								"success_case_url": ""
+							}],
+							"solution_list": [{
+								"title": "BigBlueButton Conference Streaming Platform",
+								"logo_url": "https://docs.bigbluebutton.org/images/logo.png",
+								"website_url": "https://bigbluebutton.org/",
+								"created_year": "2007",
+								"description": "BigBlueButton is an open-source web conferencing platform.",
+								"category_list": ["Information Technology"],
+								"similar_software_list": [{
+									"title": "",
+									"similiar_software_url": "",
+									"category": ""
+								}],
+								"licence_list": ["MIT License"],
+								"source_code_download": "https://github.com/Worteks/bbb-ansible.git",
+								"source_code_profile": "https://www.openhub.net/p/bigbluebutton/analyses/latest/languages_summary",
+								"commercial_support_url": "",
+								"floss_software": "Yes",
+								"commercial_support_open_source_version": "",
+								"commercial_support_available": "",
+								"wikipedia_url": "https://en.wikipedia.org/wiki/BigBlueButton",
+								"reference_list": [{
+									"title": "",
+									"logo_url": "",
+									"country": "",
+									"industry": ""
+								}],
+								"success_case_list": [{
+									"title": "",
+									"description": "",
+									"image_url": "",
+									"industry": "",
+									"customer": "",
+									"country": "",
+									"language": "",
+									"success_case_url": ""
+								}],
+								"solution_list": [{
+									"title": "FusionIAM",
+									"logo_url": "https://fusioniam.org/images/fusioniam_logo_text_dragon_circle_white_border.png",
+									"website_url": "https://fusioniam.org/",
+									"created_year": "",
+									"description": "The goal of the FusionIAM Community is to put together open source software used to build a global IAM (Identity and Access Management) solution. Most of the time all the softwares present in the FusionIAM community are well know separately but never in the context of a global IAM solution. FusionIAM project will provide an easy way to deploy and configure the whole stack: LDAP directory, Management interface, White pages, Web Services, Authentication portal, Access control, Synchronization connectorThe goal of the FusionIAM Community is to put together open source software used to build a global IAM (Identity and Access Management) solution.",
+									"category_list": ["Information Technology"],
+									"similar_software_list": [{
+										"title": "",
+										"similiar_software_url": "",
+										"category": ""
+									}],
+									"licence_list": ["MIT License"],
+									"source_code_download": "https://gitlab.ow2.org/fusioniam/fusioniam.git",
+									"source_code_profile": "https://www.openhub.net/p/bigbluebutton/analyses/latest/languages_summary",
+									"commercial_support_url": "",
+									"floss_software": "Yes",
+									"commercial_support_open_source_version": "",
+									"commercial_support_available": "",
+									"wikipedia_url": "https://en.wikipedia.org/wiki/BigBlueButton",
+									"reference_list": [{
+										"title": "",
+										"logo_url": "",
+										"country": "",
+										"industry": ""
+									}],
+									"success_case_list": [{
+										"title": "",
+										"description": "",
+										"image_url": "",
+										"industry": "",
+										"customer": "",
+										"country": "",
+										"language": "",
+										"success_case_url": ""
+									}]
+								}]
+							}]
+						}]
+					}]
+				}]
+			}]
+		}]
+	}]
+}
