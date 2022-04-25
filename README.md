@@ -23,20 +23,29 @@
 - Transport
 - Travel and Tourism
 
-# Solution Categories
+# Solution Categories - software
 
-- Communication
-- Communication:Telephony
-- Communication:Radio access network
+- Storage and database
+- Compute virtualisation
+- Desktop virtualisation
+- vRan (radio network virtualisation)
+- Operation management (OSS/BSS)
+- Service lifecycle automation
+- Networking
+- Identity
+- Cybersecurity
+- Application
+- Workspace
+- Developer (IDE, etc)
+- Communication (phone, video)
+- IOT and industrial (PLC, etc.)
+- Big Data hub
 
+# Solution Categories - hardware
 
-- Communication (email, chat, videoconferencing, etc.)
-- Database (SQL, NoSQL, etc.)
-- Application (ERP, CRM, e-commerce, project management, etc.)
-- Analytics (big data, machine learning, data visualisation, etc.)
-- Developer (text editor, IDE, frameworks)
-- Gis (map editor, map visualisation)
-- Desktop (desktop operating system, desktop web browser, desktop VM, etc.)
-- Mobile (mobile operating system, mobile web browser, mobile VM, etc.)
-- Middleware (ESP, ETL, ELT, etc.)
-- Infrastructure (public cloud, private cloud, software defined network, hyperconverged OS, IOT management)
+- Servers
+- Switches
+- Rack
+- Cooling
+- CPU
+- Radio base station
