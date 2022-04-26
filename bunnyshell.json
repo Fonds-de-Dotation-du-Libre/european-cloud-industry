@@ -1,0 +1,47 @@
+{
+  "created": "2022-04-22",
+  "title": "Bunnyshell S.R.L",
+  "type": "other",
+  "logo_url": "https://www.bunnyshell.com/images/bunnyshell_logo.svg",
+  "location": {
+    "title": "Bunnyshell S.R.L",
+    "address": "42 Calea Bucuresti, N3A, apt. 7",
+    "postal_code": "130135",
+    "city": "Targovista",
+    "country": "RO",
+    "phone_contact": "+40 (0) 754 712 350",
+    "mail_contact": "hello@bunnyshell.com",
+    "coordinate_list": ["44.91579758182935, 25.481466150732675"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.bunnyshell.com/",
+  "founded_year": "2018",
+  "kpi_list": "",
+  "solution_list": [{
+    "title": "Bunnyshell",
+    "logo_url": "https://www.bunnyshell.com/images/bunnyshell_logo.svg",
+    "website_url": "https://www.bunnyshell.com/",
+    "created_year": "",
+    "description": "Bunnyshell is an Environments as a Service platform that makes it incredibly easy to create and manage full-stack environments for development, staging and production so your team can deliver software faster and focus on building great products. ",
+    "category_list": [],
+    "similar_software_list": [{
+      "title": "Cloudways",
+      "similiar_software_url": "https://www.cloudways.com/en/",
+      "category": ""
+    },{
+      "title": "Amazon CloudWatch",
+      "similiar_software_url": "https://aws.amazon.com/fr/cloudwatch/",
+      "category": ""
+    }],
+    "licence_list": [""],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
+    "reference_list": [""],
+    "success_case_list": [""]
+  }]
+}
