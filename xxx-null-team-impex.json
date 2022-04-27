@@ -57,6 +57,7 @@
 		"logo_url": "http://yate.ro/images/yate_logo.png",
 		"website_url": "http://yate.ro/",
 		"created_year": "2004",
+		"solution_type": "Software",
 		"description": "Yate (Yet Another Telephony Engine) is free and open source communications software with support for video, voice and instant messaging. It is an extensible PBX under the GPL-2.0-only license. It is written in C++ with a modular design, allowing the use of scripting languages like Perl, Python and PHP to create external functionality.",
 		"category_list": ["vRan"],
 		"similar_solution_list": [],
@@ -75,6 +76,7 @@
 		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
 		"website_url": "https://yatebts.com/",
 		"created_year": "2014",
+		"solution_type": "Software",
 		"description": "YateBTS is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both GSM/GPRS SS7 MAP and LTE IMS core networks integrated in our YateUCN unified core network server. YateBTS offers a unique approach, different from that of traditional radio access networks, with increased flexibility, scalability and is easily upgradable with new features.",
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
