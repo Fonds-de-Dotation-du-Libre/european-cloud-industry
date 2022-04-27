@@ -65,10 +65,11 @@
     "website_url": "",
     "created_year": "",
     "description": "",
+    "solution_type": "",
     "category_list": [],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": [],
