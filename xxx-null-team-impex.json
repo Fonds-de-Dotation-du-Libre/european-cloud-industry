@@ -79,7 +79,7 @@
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
 		      "title": "OpenBTS",
-		      "similiar_solution_url": "https://openbts.org/"
+		      "similiar_solution_url": "https://openbts.org/",
 		      "category": "Communication:Radio access network"
 		}],
 		"licence_list": ["GPL v2"],
@@ -165,7 +165,7 @@
 		"floss_software": "no",
 		"commercial_support_open_source_version": "no",
 		"commercial_support_available": "yes",
-		"wikipedia_url": ",
+		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Aradial",
 			"logo_url": "https://i0.wp.com/yatebts.com/wp-content/uploads/2020/02/aradial-logo.jpg",
