@@ -80,7 +80,7 @@
 		"similar_solution_list": [{
 		      "title": "OpenBTS",
 		      "similiar_solution_url": "https://openbts.org/",
-		      "category": "Communication:Radio access network"
+		      "category": "vRan"
 		}],
 		"licence_list": ["GPL v2"],
 		"source_code_download": "https://yatebts.com/open_source/#svn",
@@ -118,7 +118,7 @@
 		"similar_solution_list": [{
       			"title": "SlapOS: Converged Edge/SDR NMS - Nexedi",
       			"similiar_solution_url": "https://slapos.nexedi.com/NXD-Document.Press.Release.SlapOS.NMS.Multistack.Showcase.MWC.2019",
-     			"category": "Telecommunication"
+     			"category": "vRan"
     		}],
 		"licence_list": ["GPL"],
 		"source_code_download": "",
