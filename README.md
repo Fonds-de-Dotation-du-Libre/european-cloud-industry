@@ -11,6 +11,7 @@
 - Construction
 - Consulting and Training
 - Defense
+- Education
 - Energy and Utilities
 - Health and Life Sciences
 - Housing
