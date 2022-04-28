@@ -82,59 +82,174 @@
     "commercial_support_available": "yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/XWiki",
     "reference_list": [{
-      "title": "EMC2",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
+      "title": "Socomore",
+      "logo_url": "https://xwiki.com/en/download/company/references/socomore/socomore.jpg",
+      "country": "FR",
+      "industry": "Transport"
     },{
-      "title": "Chronopost International",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
+      "title": "HLS",
+      "logo_url": "https://xwiki.com/en/download/company/references/hls/hls.jpg",
+      "country": "CH",
+      "industry": "Public Administration and Government"
     },{
-      "title": "Meetic",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
+      "title": "Brabantia",
+      "logo_url": "https://xwiki.com/en/download/company/references/brabantia/brabantia.jpg",
+      "country": "DK",
+      "industry": "Retail and Commerce"
     },{
-      "title": "DCNS",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
+      "title": "Aelia",
+      "logo_url": "https://xwiki.com/en/download/company/references/aelia/aelia.jpg",
+      "country": "FR",
+      "industry": "Retail and Commerce"
     },{
-      "title": "Fidelia",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
+      "title": "Curriki",
+      "logo_url": "https://xwiki.com/en/download/company/references/curriki/curriki.jpg",
+      "country": "US",
+      "industry": "Associations and NGOs"
+    },{
+      "title": "Planète Sankoré",
+      "logo_url": "https://xwiki.com/en/download/company/references/planete-sankore/sankore.jpg",
+      "country": "fr",
+      "industry": "Associations and NGOs"
+    },{
+      "title": "USH",
+      "logo_url": "https://xwiki.com/en/download/company/references/ush/ush.jpg",
+      "country": "fr",
+      "industry": "Housing"
+    },{
+      "title": "Spie Batingnoles",
+      "logo_url": "https://xwiki.com/en/download/company/references/spie-batignolles/spie-batignolles.jpg",
+      "country": "FR",
+      "industry": "Construction"
+    },{
+      "title": "Noiv",
+      "logo_url": "https://xwiki.com/en/download/company/references/noiv/noiv.jpg",
+      "country": "DK",
+      "industry": "Information Technology"
+    },{
+      "title": "INRA",
+      "logo_url": "https://xwiki.com/en/download/company/references/inra/inra.png",
+      "country": "FR",
+      "industry": "Academia and Research"
+    },{
+      "title": "AFP",
+      "logo_url": "https://xwiki.com/en/download/company/references/afp/afp.jpg",
+      "country": "FR",
+      "industry": "Media and Entertainment"
+    },{
+      "title": "Vulco",
+      "logo_url": "https://xwiki.com/en/download/company/references/vulco/vulco.jpg",
+      "country": "FR",
+      "industry": "Automotive"
+    },{
+      "title": "IWA",
+      "logo_url": "https://xwiki.com/en/download/company/references/iwa/iwa-publishing.jpg",
+      "country": "UK",
+      "industry": "Associations and NGOs"
     },{
       "title": "Cap Gemini",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    },{
-      "title": "Amazon",
-      "logo_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg",
+      "logo_url": "https://xwiki.com/en/download/company/references/capgemini/capgemini.jpg",
       "country": "FR",
-      "industry": "Commerce and Retail"
+      "industry": "Banking and Finance"
     },{
-      "title": "Easy Vista",
-      "logo_url": "https://xwiki.com/fr/download/societe/references/easyvista/easyvista.jpg",
+      "title": "EDF",
+      "logo_url": "https://xwiki.com/en/download/company/references/edf/edf.jpg",
       "country": "FR",
-      "industry": "Information Technologies"
+      "industry": "Energy and Utilities"
     },{
-      "title": "Open Source Initiative",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/300px-Opensource.svg.png",
-      "country": "US",
-      "industry": "Information Technologies"
+      "title": "Voyage Privée",
+      "logo_url": "https://xwiki.com/en/download/company/references/voyage-prive/voyage-prive.jpg",
+      "country": "FR",
+      "industry": "Travel and Tourism"
+    },{
+      "title": "Expert et Finance",
+      "logo_url": "https://xwiki.com/en/download/company/references/expert-et-finance/expert-finance.jpg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "EMC2",
+      "logo_url": "https://xwiki.com/en/download/company/references/emc/emc.jpg",
+      "country": "FR",
+      "industry": "Information Technology"
+    },{
+      "title": "INSEE",
+      "logo_url": "https://xwiki.com/en/download/company/references/insee/insee.jpg",
+      "country": "FR",
+      "industry": "Academia and Research"
+    },{
+      "title": "Energisa",
+      "logo_url": "https://xwiki.com/en/download/company/references/energisa/energisa.jpg",
+      "country": "BR",
+      "industry": "Energy and Utilities"
+    },{
+      "title": "Crédit Mutuel Arkea",
+      "logo_url": "https://xwiki.com/en/download/company/references/credit-mutuel-arkea/credit-mutuel-arkea.jpg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
+      "title": "Premier League",
+      "logo_url": "https://xwiki.com/en/download/company/references/premier-league/premier-league.jpg",
+      "country": "UK",
+      "industry": "Media and Entertainment"
+    },{
+      "title": "OW2",
+      "logo_url": "https://xwiki.com/en/download/company/references/ow2/ow2.jpg",
+      "country": "FR",
+      "industry": "Associations and NGOs"
     }],
     "success_case_list": [{
+      "title": "Chronopost International - Bridging the gap with XWiki - enabling communication between sales representatives, IT, legal department, and local agencies",
+      "description": "Chronopost International is using XWiki in order to improve the communication between its sales representatives, its IT & legal department and its local agencies. New customer requests are logged into XWiki, where sales representatives fill the business information related to the request. Employees from the agencies and the IT department can use comments to discuss the request and answer regarding its doability. Sales people quickly receive actionable information that they can in turn communicate to their prospects and customers.",
+      "image_url": "https://xwiki.com/en/download/company/references/chronopost-international/chronopost.jpg",
+      "industry": "Transport",
+      "customer": "Chronopost International",
+      "country": "FR",
+      "language": "en",
+      "success_case_url": "https://xwiki.com/en/company/references/chronopost-international"
+    },{
+      "title": "Fidelia Assistance - Capitalizing and enriching internal knowledge with Wikidelia",
+      "description": "FIDELIA Assistance, part of the COVEA Group (MAAF, MMA, GMF) and leader in its sector in France (aid and assistance operations), chose XWiki in order to create a document repository. The repository is named Wikidélia and it allows FIDELIA assistance to make centralized, reliable, updated and collectively enriched information available to all its employees (over 1100).",
+      "image_url": "https://xwiki.com/en/download/company/references/fidelia-assistance/fidelia-assistance.jpg",
+      "industry": "Insurance",
+      "customer": "Fidelia",
+      "country": "FR",
+      "language": "en",
+      "success_case_url": "https://xwiki.com/en/company/references/fidelia-assistance"
+    },{
+      "title": "Lenovo - Facilitating collaboration for over 7000 users by migrating to a custom knowledge base in under 30 days",
+      "description": "The Lenovo team was searching for a tool to migrate and accommodate the contents of its Premier support partner network knowledge base. We were aware from day one that it won't be an easy project, mainly because of the short time frame for the implementation and the complex needs.",
+      "image_url": "https://xwiki.com/en/download/company/references/Lenovo/Lenovo.jpg",
+      "industry": "Information Technology",
+      "customer": "Lenovo",
+      "country": "CN",
+      "language": "en",
+      "success_case_url": "https://xwiki.com/en/company/references/Lenovo"
+    },{
+      "title": "CHC - Improving children/youth health services across Canada through an online sharing knowledge community",
+      "description": "CHC (former CAPHC) Knowledge Exchange Network is an interactive online community focused on sharing and growing knowledge in child health service delivery. Users can see at a glance the latest pages that have been added and modified. The solution promotes the exchanges and discussions between the various stakeholders in the health field.",
+      "image_url": "https://xwiki.com/en/download/company/references/caphc/caphc.jpg",
+      "industry": "Insurance",
+      "customer": "CHC",
+      "country": "CA",
+      "language": "en",
+      "success_case_url": "https://xwiki.com/en/company/references/caphc"
+    },{
+      "title": "AFCEN (Association française pour les règles de conception, de construction et de surveillance en exploitation des matériels des chaudières électro-nucléaires) - Using XWiki to create collaborative workspaces and centralize data used by experts worldwide",
+      "description": "The company Oxand was looking for a collaborative tool as part of their offer for their partners. They have chosen the XWiki solution to meet their expectations. As part of this project, XWiki serves to support the editorial standards developed by more than 400 global experts working together. The developed tool also allows to send those standards in a PDF format.",
+      "image_url": "https://xwiki.com/en/download/company/references/afcen/afcen.jpg",
+      "industry": "Energy and Utilities",
+      "customer": "AFCEN",
+      "country": "FR",
+      "language": "en",
+      "success_case_url": "https://xwiki.com/en/company/references/afcen"
+    },{
       "title": "Naval Group - Scaling with custom applications - better security and timely information sharing covering business-specific issues",
       "description": "Naval Group selected XWiki Enterprise for its ability to launch new wiki sites very quickly as well as its application creation capabilities. The solution was also integrated with Naval Group's single sign-on and its Liferay-based portal. XWiki had to meet their stringent security criteria in order to be implemented.",
       "image_url": "https://xwiki.com/fr/download/societe/references/naval-group/naval-group.jpg",
-      "industry": "Defence",
+      "industry": "Defense",
       "customer": "Naval Group",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/naval-group"
     },{
       "title": "SFR Altice - Scaling with XWiki - an accessible and secure intranet for over 12,000 users",
@@ -143,7 +258,7 @@
       "industry": "Telecommunication",
       "customer": "SFR ALTICE",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/sfr-altice"
     },{
       "title": "Easy Vista - Reducing silos and improving internal communication with a bi-lingual Knowledge Base solution",
@@ -152,7 +267,7 @@
       "industry": "IT services",
       "customer": "Easy Vista",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/easyvista"
     },{
       "title": "Amazon - Empowering collaboration and knowledge sharing for over 20,000 users",
@@ -161,7 +276,7 @@
       "industry": "Commerce and Retail",
       "customer": "Amazon",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg"
     },{
       "title": "FOPH - Website redesign with a customized approach - structuring/transforming digital content into a reliable resource center",
@@ -170,7 +285,7 @@
       "industry": "Public Administration and Government",
       "customer": "FOPH - Fédération nationale des Offices Publics de l’Habitat",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/foph"
     },{
       "title": "Meetic - Building an intranet for everyone - easy updating, best practices sharing, and always to date information",
@@ -179,7 +294,7 @@
       "industry": "Social Media",
       "customer": "Meetic",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/meetic"
     },{
       "title": "FNAB - Building a shared knowledge federation with XWiki - improved internal work and external collaboration",
@@ -188,7 +303,7 @@
       "industry": "Public Administration and Government",
       "customer": "Fédération Nationale de l’Agriculture Biologique",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/fnab"
     },{
       "title": "CNFPT - Building and launching WikiTerritorial with XWiki-all-in-one spaces for knowledge, articles, news",
@@ -197,7 +312,7 @@
       "industry": "Public Administration and Government",
       "customer": "CNFPT - Centre national de la fonction publique territoriale",
       "country": "FR",
-      "language": "fr",
+      "language": "en",
       "success_case_url": "https://xwiki.com/fr/societe/references/cnfpt"
     }]
   },{
