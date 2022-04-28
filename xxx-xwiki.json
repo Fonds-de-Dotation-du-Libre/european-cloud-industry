@@ -19,37 +19,37 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "",
-    "earnings": "- 152 658 ",
-    "total_assets": "2 677 696",
-    "revenues": "1 261 675",
+    "earnings": "-152658€",
+    "total_assets": "2677696€",
+    "revenues": "1261675€",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   }, {
     "year": "2019",
     "staff": "13",
-    "earnings": "-18074",
-    "total_assets": "2790687",
-    "revenues": "1559579",
+    "earnings": "-18074€",
+    "total_assets": "2790687€",
+    "revenues": "1559579€",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2018",
     "staff": "16",
-    "earnings": "275713",
-    "total_assets": "2302493",
-    "revenues": "1630338",
+    "earnings": "275713€",
+    "total_assets": "2302493€",
+    "revenues": "1630338€",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2017",
     "staff": "15",
-    "earnings": "-53801 ",
-    "total_assets": "2107642",
-    "revenues": "1245643",
+    "earnings": "-53801€",
+    "total_assets": "2107642€",
+    "revenues": "1245643€",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   },{
     "year": "2016",
     "staff": "16",
-    "earnings": "- 268222",
-    "total_assets": "2447998",
-    "revenues": "920401",
+    "earnings": "-268222€",
+    "total_assets": "2447998€",
+    "revenues": "920401€",
     "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
   }],
   "solution_list": [{
