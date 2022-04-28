@@ -14,7 +14,7 @@
 - Education
 - Energy and Utilities
 - Health and Life Sciences
-- Housing
+- Housing and Real Estate
 - Insurance
 - Information Technology
 - Manufacturing
