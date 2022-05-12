@@ -24,9 +24,9 @@
     "created_year": "2001",
     "description": "PTXdist is a build system for firmware images. It is developed by an Open Source Community including Pengutronix since 2001. The configuration system Kconfig, known from the Linux kernel, is used to select and configure each package. The collection of recipes is based on GNU Make and Bash.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": ["GPL-2.0"],
