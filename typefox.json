@@ -59,21 +59,21 @@
 		"created_year": "2017",
 		"description": "Eclipse Theia is a framework for building a fully customized, single-source IDE that runs in web browsers and as a native desktop application. It combines the design ideas and ecosystem from the Microsoft Visual Studio Code IDE with the flexibility and customization capabilities from the Eclipse IDE so it offers the best of both worlds. Plus, it runs in a browser.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Visual Studio Code",
-			"similiar_software_url": "https://code.visualstudio.com/",
-			"category": "computer software industry"
+			"similiar_solution_url": "https://code.visualstudio.com/",
+			"category": "computer solution industry"
 		}, {
 			"title": "VSCodium",
-			"similiar_software_url": "https://vscodium.com/",
+			"similiar_solution_url": "https://vscodium.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Dodicad",
-			"similiar_software_url": "http://codiad.com/",
+			"similiar_solution_url": "http://codiad.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Atheos IDE",
-			"similiar_software_url": "https://www.atheos.io/",
+			"similiar_solution_url": "https://www.atheos.io/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["Eclipse Public License 2.0 (EPL2)", " GNU General Public License, version 2 (GPLv2)", "classpath exception"],
@@ -107,29 +107,29 @@
 		"created_year": "",
 		"description": "VS Code is very popular as day-to-day development platform and offers an extension API that has been adopted to create a myriad of useful extensions. We can support you to build custom VS Code extensions for the specific needs of your engineers.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Atom",
-			"similiar_software_url": "https://atom.io/",
+			"similiar_solution_url": "https://atom.io/",
 			"category": "Information Technology"
 		}, {
 			"title": "Notepad ++",
-			"similiar_software_url": "https://notepad-plus-plus.org/",
+			"similiar_solution_url": "https://notepad-plus-plus.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "SublimeText",
-			"similiar_software_url": "https://www.sublimetext.com/",
+			"similiar_solution_url": "https://www.sublimetext.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "VSCodium",
-			"similiar_software_url": "https://vscodium.com/",
+			"similiar_solution_url": "https://vscodium.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Vim",
-			"similiar_software_url": "https://www.vim.org/",
+			"similiar_solution_url": "https://www.vim.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "IntellijIdea",
-			"similiar_software_url": "https://www.jetbrains.com/idea/",
+			"similiar_solution_url": "https://www.jetbrains.com/idea/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["MIT License"],
@@ -163,9 +163,9 @@
 		"created_year": "",
 		"description": "an established foundation for Java-based applications. It has a rich ecosystem of tools and frameworks that can be loaded as plug-ins. We can support you to integrate language support for your DSLs in Eclipse-based tools, along with backing features like diagrams and additional views.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -199,21 +199,21 @@
 		"created_year": "",
 		"description": "Eclipse Open VSX is a registry for VS Code extensions that is free to be installed in public or private networks. We can support you to set up Open VSX to distribute extensions within your organization.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "VSCodium",
-			"similiar_software_url": "https://vscodium.com/",
+			"similiar_solution_url": "https://vscodium.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Visual Studio Code",
-			"similiar_software_url": "https://code.visualstudio.com/",
+			"similiar_solution_url": "https://code.visualstudio.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "SonarCube",
-			"similiar_software_url": "https://www.sonarqube.org/",
+			"similiar_solution_url": "https://www.sonarqube.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "RustAnalyzer",
-			"similiar_software_url": "https://rust-analyzer.github.io/",
+			"similiar_solution_url": "https://rust-analyzer.github.io/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
