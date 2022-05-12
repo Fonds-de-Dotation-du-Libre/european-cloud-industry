@@ -19,23 +19,23 @@
   "kpi_list": [{
     "year": "2018",
     "staff": "",
-    "earnings": "-83907",
-    "total_assets": "38264",
-    "revenues": "19382",
+    "earnings": "-83907€",
+    "total_assets": "38264€",
+    "revenues": "19382€",
     "source_url": "https://www.verif.com/bilans-gratuits/L8RMEDIA-450389903/"
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "-124722",
-    "total_assets": "24463",
-    "revenues": "35824",
+    "earnings": "-124722€",
+    "total_assets": "24463€",
+    "revenues": "35824€",
     "source_url": "https://www.verif.com/bilans-gratuits/L8RMEDIA-450389903/"
   },{
     "year": "2016",
     "staff": "",
-    "earnings": "-49458",
-    "total_assets": "45786",
-    "revenues": "45306",
+    "earnings": "-49458€",
+    "total_assets": "45786€",
+    "revenues": "45306€",
     "source_url": "https://www.verif.com/bilans-gratuits/L8RMEDIA-450389903/"
   }],
   "solution_list": [{
