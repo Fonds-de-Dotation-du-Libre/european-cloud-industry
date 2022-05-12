@@ -65,9 +65,9 @@
 		"website_url": "https://www.fragmentix.com/solutions/#",
 		"created_year": "",
 		"description": "The fragmentiX ONE box is the entry model into the fragmentiX secret sharing appliances. It provides enough performance to help SMEs or professionals with the sovereignty over data stored in cloud storages.",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -101,9 +101,9 @@
 		"created_year": "",
 		"description": "Using a stronger industrial hardware a fragmentiX THREE provides enough power to fullfill several storage functions like file services and backup/DR at the same time with still low latency.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -137,9 +137,9 @@
 		"created_year": "",
 		"description": "The fragmentiX FOUR is the largest of the non-19-inch rack models within the fragmentiX product range. Equipped with a very powerful CPU and up to 8 network interfaces to the internet or your local storages it enables you to concurrently use your appliance for several tasks like data storage for office users and archiving to cloud storages (etc) at the same time.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -173,9 +173,9 @@
 		"created_year": "",
 		"description": "Starting with a single fragmentiX CLUSTER node, the CLUSTER NODE A – you get a high performance industrial grade workhorse for your cybersecurity and digital sovereignty. Each fragmentiX CLUSTER enables you to use up to 8 LAN and up to 8 WAN ports to enable secret sharing for various departments and use cases. Each fragmentiX CLUSTER NODE comes with 5 years mission critical support – executed by our OEM partner DELL Technologies worldwide.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -209,9 +209,9 @@
 		"created_year": "",
 		"description": "The fragmentiX CLUSTER System consists of two fault-tolerant cluster nodes: fragmentiX CLUSTER NODE A and fragmentiX CLUSTER NODE B which act as a ‘failover system’.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -245,9 +245,9 @@
 		"created_year": "",
 		"description": "The fragmentiX FOUR is the largest of the non-19-inch rack models within the fragmentiX product range. Equipped with a very powerful CPU and up to 8 network interfaces to the internet or your local storages it enables you to concurrently use your appliance for several tasks like data storage for office users and archiving to cloud storages (etc) at the same time.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -281,9 +281,9 @@
 		"created_year": "",
 		"description": "The fragmentiX NANO acts as a satelite appliance with our fragmentiX CLUSTER appliances. Every fragmentiX CLUSTER administrator can configure an unlimited number of fragmentiX NANO appliances to enable home office and nomadic users to access sensitive data even when at home or in a hotel.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -317,9 +317,9 @@
 		"created_year": "",
 		"description": "The fragmentiX HOME box allows you to safely store your data in commercial public clouds from your computer or your home network.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -353,9 +353,9 @@
 		"created_year": "",
 		"description": "The fragmentiX mobile app will help protect your data on the go. Compatible with all commerical cloud storage providers, you can save your photos, data and phone backups safely using fragmentiX technology.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
