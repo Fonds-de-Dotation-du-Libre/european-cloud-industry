@@ -38,21 +38,21 @@
 		"created_year": "2016",
 		"description": "Mender enables developers and device makers to adapt to an evolving product landscape by managing and deploying all device software remotely, worldwide.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Particle",
-			"similiar_software_url": "https://www.particle.io/",
+			"similiar_solution_url": "https://www.particle.io/",
 			"category": "Information Technology"
 		},{
 			"title": "Hologram",
-			"similiar_software_url": "https://www.hologram.io/discover/hardware/global-iot-simcard?utm_source=google&utm_medium=cpc&utm_campaign=branded-country-expansion&gclid=CjwKCAjw0a-SBhBkEiwApljU0n3z7ag5WHFeUxxUQkzqSfwRygr7TqCr_N57YJVLVV3vSZHFSUuQWxoCpPQQAvD_BwE",
+			"similiar_solution_url": "https://www.hologram.io/discover/hardware/global-iot-simcard?utm_source=google&utm_medium=cpc&utm_campaign=branded-country-expansion&gclid=CjwKCAjw0a-SBhBkEiwApljU0n3z7ag5WHFeUxxUQkzqSfwRygr7TqCr_N57YJVLVV3vSZHFSUuQWxoCpPQQAvD_BwE",
 			"category": "Information Technology"
 		},{
 			"title": "Thingswork",
-			"similiar_software_url": "https://www.ptc.com/en/products/thingworx",
+			"similiar_solution_url": "https://www.ptc.com/en/products/thingworx",
 			"category": "Information Technology"
 		},{
 			"title": "Google Cloud IOT core",
-			"similiar_software_url": "https://cloud.google.com/iot-core",
+			"similiar_solution_url": "https://cloud.google.com/iot-core",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["Apache License v2"],
