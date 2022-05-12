@@ -24,17 +24,17 @@
 		"created_year": "",
 		"description": "Hub integrates the three key Nextcloud products Files, Talk and Groupware into a single platform, optimizing the flow of collaboration. Eliminate the confusing hodgepodge of different SaaS tools and the compliance, security, cost and productivity issues that come with it and standardize on a single solution with Nextcloud Hub.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Cryptpad",
-			"similiar_software_url": "https://cryptpad.fr/",
+			"similiar_solution_url": "https://cryptpad.fr/",
 			"category": ""
 			}, {
 			"title": "Google workspace",
-			"similiar_software_url": "https://workspace.google.com/",
+			"similiar_solution_url": "https://workspace.google.com/",
 			"category": ""
 			}, {
 			"title": "Microsoft 365",
-			"similar_software_url": "https://www.microsoft.com/en/microsoft-365",
+			"similar_solution_url": "https://www.microsoft.com/en/microsoft-365",
 			"category": ""
 		}],
 		"licence_list": ["General Public License v3.0"],
@@ -117,7 +117,7 @@
 		"created_year": "",
 		"description": " The Sendent Outlook Add-in enables Nextcloud customers to easily and securely send files, folders or upload links to others from within Microsoft Outlook.The Add-in can replace attachments, automatically uploading files to Nextcloud and insert a secure link in the email. It also makes it easy for users to provide others with a secure file upload link.",
 		"category_list": "",
-		"similar_software_list": "",
+		"similar_solution_list": "",
 		"licence_list": "",
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -135,17 +135,17 @@
 		"created_year": "2016",
 		"description": "Collabora Online is a powerful LibreOffice-based online office suite with collaborative editing, which supports all major document, spreadsheet and presentation file formats and works in all modern browsers.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "LibreOffice",
-			"similiar_software_url": "https://www.libreoffice.org/",
+			"similiar_solution_url": "https://www.libreoffice.org/",
 			"category": ""
 			}, {
 			"title": "Google Docs",
-			"similiar_software_url": "https://workspace.google.com/products/docs/",
+			"similiar_solution_url": "https://workspace.google.com/products/docs/",
 			"category": ""
 			}, {
 			"title": "Open Office",
-			"similar_software_url": "https://www.openoffice.org/",
+			"similar_solution_url": "https://www.openoffice.org/",
 			"category": ""
 		}],
 		"licence_list": ["MPL-2.0"],
@@ -183,17 +183,17 @@
 		"created_year": "",
 		"description": "ONLYOFFICE integration in Nextcloud empowers your users to collaborate on office documents with team members in real time. Compatibility with Microsoft Office formats means perfect documents, every time.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
      			"title": "LibreOffice",
-			"similiar_software_url": "https://www.libreoffice.org/",
+			"similiar_solution_url": "https://www.libreoffice.org/",
 			"category": ""
 			}, {
 			"title": "Google Docs",
-			"similiar_software_url": "https://workspace.google.com/products/docs/",
+			"similiar_solution_url": "https://workspace.google.com/products/docs/",
 			"category": ""
 			}, {
 			"title": "Open Office",
-			"similar_software_url": "https://www.openoffice.org/",
+			"similar_solution_url": "https://www.openoffice.org/",
 			"category": ""
 		}],
 		"licence_list": ["GNU AGPL v.3"],
