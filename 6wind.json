@@ -45,25 +45,25 @@
 		"created_year": "2019",
 		"description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Keycloak",
-			"similiar_software_url": "https://www.keycloak.org/",
+			"similiar_solution_url": "https://www.keycloak.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "CAS",
-			"similiar_software_url": "https://github.com/apereo/cas.git",
+			"similiar_solution_url": "https://github.com/apereo/cas.git",
 			"category": "Information Technology"
 		}, {
 			"title": "Ory",
-			"similiar_software_url": "https://www.ory.sh/",
+			"similiar_solution_url": "https://www.ory.sh/",
 			"category": "Information Technology"
 		}, {
 			"title": "Shibboleth",
-			"similiar_software_url": "https://www.shibboleth.net/",
+			"similiar_solution_url": "https://www.shibboleth.net/",
 			"category": "Information Technology"
 		}, {
 			"title": "10 Duke",
-			"similiar_software_url": "https://www.10duke.com/products/identity-provider/",
+			"similiar_solution_url": "https://www.10duke.com/products/identity-provider/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GPL-3.0"],
@@ -97,21 +97,21 @@
 			"created_year": "2008",
 			"description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "pwm-project",
-				"similiar_software_url": "https://github.com/pwm-project/pwm.git",
+				"similiar_solution_url": "https://github.com/pwm-project/pwm.git",
 				"category": "Information Technology"
 			}, {
 				"title": "PassCore",
-				"similiar_software_url": "https://github.com/unosquare/passcore.git",
+				"similiar_solution_url": "https://github.com/unosquare/passcore.git",
 				"category": "Information Technology"
 			}, {
 				"title": "ADReset",
-				"similiar_software_url": "https://github.com/mprahl/ADReset.git",
+				"similiar_solution_url": "https://github.com/mprahl/ADReset.git",
 				"category": "Information Technology"
 			}, {
 				"title": "JiJi Self Service Password",
-				"similiar_software_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+				"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
 				"category": "Information Technology"
 			}],
 			"licence_list": ["GPL-3.0"],
@@ -145,7 +145,7 @@
 				"created_year": "2018",
 				"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
 				"category_list": ["Information Technology"],
-				"similar_software_list": [],
+				"similar_solution_list": [],
 				"licence_list": ["GPL-3.0"],
 				"source_code_download": "https://github.com/lsc-project/lsc.git",
 				"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
@@ -177,13 +177,13 @@
 					"created_year": "",
 					"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
 					"category_list": "Information Technology",
-					"similar_software_list": [{
+					"similar_solution_list": [{
 						"title": "pwm-project",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 					}, {
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology",
 						"licence_list": [""],
 						"source_code_download": "",
@@ -215,13 +215,13 @@
 						"created_year": "",
 						"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
 						"category_list": "Information Technology",
-						"similar_software_list": [{
+						"similar_solution_list": [{
 							"title": "",
-							"similiar_software_url": "",
+							"similiar_solution_url": "",
 							"category": "Information Technology"
 						}, {
 							"title": "",
-							"similiar_software_url": "",
+							"similiar_solution_url": "",
 							"category": "Information Technology"
 						}],
 						"licence_list": [""],
@@ -254,13 +254,13 @@
 						"created_year": "",
 						"description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
 						"category_list": "Information Technology",
-						"similar_software_list": [{
+						"similar_solution_list": [{
 							"title": "",
-							"similiar_software_url": "",
+							"similiar_solution_url": "",
 							"category": "Information Technology"
 						}, {
 							"title": "",
-							"similiar_software_url": "",
+							"similiar_solution_url": "",
 							"category": "Information Technology"
 						}],
 						"licence_list": ["GPL-3.0"],
