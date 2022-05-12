@@ -31,21 +31,21 @@
     "created_year": "2011",
     "description": "Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Rudder is designed for critical environments where a security breach can mean more than a blip in the sales stats. Built-in features include change requests, audit logs, and strong authentication.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Ansible",
-      "similiar_software_url": "https://www.ansible.com/",
+      "similiar_solution_url": "https://www.ansible.com/",
       "category": "Information Technology"
     },{
       "title": "Puppet",
-      "similiar_software_url": "https://puppet.com/",
+      "similiar_solution_url": "https://puppet.com/",
       "category": "Information Technology"
     },{
       "title": "Salt",
-      "similiar_software_url": "https://saltproject.io/",
+      "similiar_solution_url": "https://saltproject.io/",
       "category": "Information Technology"
     },{
       "title": "Otter",
-      "similiar_software_url": "https://inedo.com/otter",
+      "similiar_solution_url": "https://inedo.com/otter",
       "category": "Information Technology"
     }],
     "licence_list": ["GPL v3.0"],
