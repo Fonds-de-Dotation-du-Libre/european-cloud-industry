@@ -24,49 +24,49 @@
 		"created_year": "2016",
 		"description": "Spreedbox is a private and secure cloud server for office collaboration, calendar management, video conferencing and document exchange without having to store data on external servers, therefore regaining control over one's data.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Jitsi",
-			"similiar_software_url": "https://meet.jit.si/",
+			"similiar_solution_url": "https://meet.jit.si/",
 			"category": "Telecommunication"
 			},{
 			"title": "Mumble",
-			"similiar_software_url": "https://www.mumble.com/",
+			"similiar_solution_url": "https://www.mumble.com/",
 			"category": "Telecommunication"
 			},{
 			"title": "Wire",
-			"similiar_software_url": "https://wire.com/en/",
+			"similiar_solution_url": "https://wire.com/en/",
 			"category": "Telecommunication"
 			},{
 			"title": "Signal",
-			"similiar_software_url": "https://signal.org/",
+			"similiar_solution_url": "https://signal.org/",
 			"category": "Telecommunication"
 			},{
 			"title": "Big Blue Button",
-			"similiar_software_url": "https://bigbluebutton.org/",
+			"similiar_solution_url": "https://bigbluebutton.org/",
 			"category": "Telecommunication"
 			},{
 			"title": "Briefing",
-			"similiar_software_url": "https://brie.fi/ng",
+			"similiar_solution_url": "https://brie.fi/ng",
 			"category": "Telecommunication"
 			},{
 			"title": "Matrix",
-			"similiar_software_url": "https://matrix.org/",
+			"similiar_solution_url": "https://matrix.org/",
 			"category": "Telecommunication"
 			},{
 			"title": "Zoom",
-			"similiar_software_url": "https://zoom.us/",
+			"similiar_solution_url": "https://zoom.us/",
 			"category": "Telecommunication"
 			},{
 			"title": "Teams",
-			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
+			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
 			"category": "Telecommunication"
 			},{
 			"title": "Hangouts",
-			"similiar_software_url": "https://hangouts.google.com/",
+			"similiar_solution_url": "https://hangouts.google.com/",
 			"category": "Telecommunication"
 			},{
 			"title": "Skype",
-			"similiar_software_url": "https://www.skype.com/",
+			"similiar_solution_url": "https://www.skype.com/",
 			"category": "Telecommunication"
 		}],
 		"licence_list": ["AGPL-3.0"],
