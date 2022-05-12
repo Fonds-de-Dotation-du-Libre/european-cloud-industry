@@ -24,21 +24,21 @@
     "created_year": "2017",
     "description": "Vereign is a company that provides a network for a verified and self-managed identity service. Customers' Personal Critical Infrastructure- identity, data, and communication- are secured thanks to Blockchain, decentralization, and self-sovereign identity.  ",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Adips",
-      "similiar_software_url": "https://adips.com/",
+      "similiar_solution_url": "https://adips.com/",
       "category": "Information Technology"
      },{
       "title": "PingOne Fraud",
-      "similiar_software_url": "https://www.pingidentity.com/en.html",
+      "similiar_solution_url": "https://www.pingidentity.com/en.html",
       "category": "Information Technology"
      },{
       "title": "Xage Security",
-      "similiar_software_url": "https://xage.com/",
+      "similiar_solution_url": "https://xage.com/",
       "category": "Information Technology"
      },{
       "title": "SaferPass",
-      "similiar_software_url": "https://saferpass.com/",
+      "similiar_solution_url": "https://saferpass.com/",
       "category": "Information Technology"
     }],
     "licence_list": ["BSD 2-Clause"],
