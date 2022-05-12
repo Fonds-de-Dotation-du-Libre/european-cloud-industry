@@ -71,20 +71,91 @@
 		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
-			"title": "",
+			"title": "Centrale Supélec",
 			"logo_url": "",
-			"country": "",
-			"industry": ""
+			"country": "FR",
+			"industry": "Academia and Research"
+		},{
+			"title": "SciencePo",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Academia and Research"
+		},{
+			"title": "EcolePolytechnique",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Academia and Research"
+		},{
+			"title": "Université Paris Saclay",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Academia and Research"
+		},{
+			"title": "Centrale Supélec",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Academia and Research"
+		},{
+			"title": "TEN-NIS",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Passerelles et Compétences",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Foundation UN AVENIR ensemble",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Espérance Banlieues",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "LEGEBAD",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "CAPITAL SANTE",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Centre Hopsitalier des Pays de Marlaix",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "La Martiniquaise",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Commerce and Retail"
+		},{
+			"title": "McDonalds",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Commerce and Retail"
+		},{
+			"title": "Carrefour Market",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Commerce and Retail"
+		},{
+			"title": "Laboratoire Initiatives",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Education"
+		},{
+			"title": "BNP Paribas",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Banking and Finance"
 		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}]
 }
