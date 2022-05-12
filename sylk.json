@@ -66,17 +66,17 @@
 		"created_year": "",
 		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "MSRP",
-			"similiar_software_url": "http://msrprelay.org/",
+			"similiar_solution_url": "http://msrprelay.org/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Sipthor",
-			"similiar_software_url": "https://sipthor.net/index.phtml",
+			"similiar_solution_url": "https://sipthor.net/index.phtml",
 			"category": "Telecommunication"
 		}, {
 			"title": "sip2sip",
-			"similiar_software_url": "https://sip2sip.info/",
+			"similiar_solution_url": "https://sip2sip.info/",
 			"category": "Telecommunication"
 		}],
 		"licence_list": ["GNU General Public License version 3"],
