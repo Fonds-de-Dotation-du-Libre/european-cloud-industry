@@ -66,21 +66,21 @@
 		"created_year": "2012",
 		"description": "Threema is the instant messenger designed to generate as little user data as possible. All communication is end-to-end encrypted, and the app is open source.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Skype",
-			"similiar_software_url": "https://skype.gmw.cn/",
+			"similiar_solution_url": "https://skype.gmw.cn/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Hangout",
-			"similiar_software_url": "https://hangouts.google.com/",
+			"similiar_solution_url": "https://hangouts.google.com/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Telegram",
-			"similiar_software_url": "https://telegram.org/",
+			"similiar_solution_url": "https://telegram.org/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Whatsapp",
-			"similiar_software_url": "https://www.whatsapp.com/",
+			"similiar_solution_url": "https://www.whatsapp.com/",
 			"category": "Telecommunication"
 		}],
 
@@ -105,17 +105,17 @@
 		"created_year": "2014",
 		"description": "Threema Work is a messaging app that meets all employee needs, is easy to use, and packed with features. ",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Element",
-			"similiar_software_url": "https://element.io/",
+			"similiar_solution_url": "https://element.io/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Imo",
-			"similiar_software_url": "https://imo.im/",
+			"similiar_solution_url": "https://imo.im/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Tox",
-			"similiar_software_url": "https://tox.chat/",
+			"similiar_solution_url": "https://tox.chat/",
 			"category": "telecommunication"
 		}],
 		"licence_list": [],
@@ -169,13 +169,13 @@
 		"created_year": "2012",
 		"description": "Threema OnPrem is the messaging solution for organizations that take data privacy and data security very seriously and make the protection against cybercrime a top priority. ",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Signal",
-			"similiar_software_url": "https://signal.org/en/",
+			"similiar_solution_url": "https://signal.org/en/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Wire",
-			"similiar_software_url": "https://wire.com/en/",
+			"similiar_solution_url": "https://wire.com/en/",
 			"category": "Telecommunication"
 		}]
 	}, {
@@ -185,13 +185,13 @@
 		"created_year": "",
 		"description": "Thanks to Threema Education, instant messaging in school is secure and privacy-compliant. Since no personal information is required, it is safe to use Threema Work at any age. The Swiss chat solution offers the highest level of security and data protection, and it is compliant with European data protection laws.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "StealthChat",
-			"similiar_software_url": "https://stealthchat.com/",
+			"similiar_solution_url": "https://stealthchat.com/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Wickr",
-			"similiar_software_url": "https://wickr.com/",
+			"similiar_solution_url": "https://wickr.com/",
 			"category": "Telecommunication"
 		}],
 		"licence_list": [],
@@ -215,9 +215,9 @@
 		"created_year": "",
 		"description": "Threema Broadcast is your tool for fast, secure, and targeted one-to-many communication. With the click of a button, you send text/image messages, files, and polls to your entire workforce or to specific departments.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Nimbuzz",
-			"similiar_software_url": "https://nimbuzz.com/",
+			"similiar_solution_url": "https://nimbuzz.com/",
 			"category": "Telecommunication"
 		}],
 		"licence_list": [],
@@ -251,17 +251,17 @@
 		"created_year": "",
 		"description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Subrosa",
-			"similiar_software_url": "https://subrosabrand.com/",
+			"similiar_solution_url": "https://subrosabrand.com/",
 			"category": "Telecommunication"
 		}, {
 			"title": "google allo",
-			"similiar_software_url": "https://allo.google.com/",
+			"similiar_solution_url": "https://allo.google.com/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Ayttm",
-			"similiar_software_url": "http://ayttm.sourceforge.net/",
+			"similiar_solution_url": "http://ayttm.sourceforge.net/",
 			"category": "Telecommunication"
 		}],
 		"licence_list": [],
