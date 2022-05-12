@@ -122,9 +122,9 @@
 		"created_year": "",
 		"description": "In converged, next generation networks and while migrating from static to dynamic services, the need of monitoring and automation is increasing. Whether in Optical transport, Routing and switching, NFV or Software Defined layers, management is an essential element of the delivered solutions.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": ["Proprietary"],
