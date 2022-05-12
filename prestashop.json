@@ -67,25 +67,25 @@
 		"created_year": "2007",
 		"description": "PrestaShop allows ambitious entrepreneurs and companies to create and develop their own ecommerce site. Our open source software unites a global community.",
 		"category_list": ["Commerce and Retail"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Ecwid",
-			"similiar_software_url": "https://www.ecwid.com/",
+			"similiar_solution_url": "https://www.ecwid.com/",
 			"category": "Commerce and Retail"
 		}, {
 			"title": "shopify",
-			"similiar_software_url": "https://www.shopify.com/",
+			"similiar_solution_url": "https://www.shopify.com/",
 			"category": "Commerce and Retail"
 		}, {
 			"title": "woocommerce",
-			"similiar_software_url": "https://woocommerce.com/",
+			"similiar_solution_url": "https://woocommerce.com/",
 			"category": "Commerce and Retail"
 		}, {
 			"title": "bigcommerce",
-			"similiar_software_url": "https://www.bigcommerce.com/",
+			"similiar_solution_url": "https://www.bigcommerce.com/",
 			"category": "Commerce and Retail"
 		}, {
 			"title": "nopcommerce",
-			"similiar_software_url": "https://www.nopcommerce.com/en",
+			"similiar_solution_url": "https://www.nopcommerce.com/en",
 			"category": "Commerce and Retail"
 		}],
 		"licence_list": ["OSL"],
