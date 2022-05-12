@@ -24,28 +24,28 @@
 		"created_year": "2018",
 		"description": "Olvid is an open-source instant messaging application, relying on end-to-end encryption to guarantee the security of the users' data and metadata. Olvid operates without a centralized directory, with its security relying only on the latest cryptography technology, to ensure the integrity, confidentiality and anonymity of communications.guaranteeguarantee",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Signal",
-			"similiar_software_url": "https://signal.org/",
+			"similiar_solution_url": "https://signal.org/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Telegram",
-			"similiar_software_url": "https://telegram.org/",
+			"similiar_solution_url": "https://telegram.org/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Wire",
-			"similiar_software_url": "https://wire.com/en/",
+			"similiar_solution_url": "https://wire.com/en/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Element",
-			"similiar_software_url": "https://element.io/",
+			"similiar_solution_url": "https://element.io/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Jitsi",
-			"similiar_software_url": "https://jitsi.org/",
+			"similiar_solution_url": "https://jitsi.org/",
 			"category": "Telecommunication"
 		}],
-		"licence_list": [" AGPLv3"],
+		"licence_list": ["AGPLv3"],
 		"source_code_download": "https://github.com/olvid-io/olvid-android.git",
 		"source_code_profile": "Java",
 		"commercial_support_url": "https://www.olvid.io/enterprise/fr/",
