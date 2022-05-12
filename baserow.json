@@ -24,21 +24,21 @@
     "created_year": "2019",
     "description": "Baserow is an open-source online database tool. The interface is a spreadsheet so users can create a database without any technical experience. This no-code platform allows fast and easy creation of databeses and also make it simple to create plugins without leaving your browser or having technical knowledge.",
     "category_list": [],
-    "similar_software_list": [{
+    "similar_solution_list": [{
        "title": "Airtable",
-      "similiar_software_url": "https://www.airtable.com/",
+      "similiar_solution_url": "https://www.airtable.com/",
       "category": "Collaborative software"
     },{
        "title": "NocoDB",
-      "similiar_software_url": "https://nocodb.com/",
+      "similiar_solution_url": "https://nocodb.com/",
       "category": "Open source collaborative platform"
     },{
        "title": "Avocode",
-      "similiar_software_url": "https://avocode.com/",
+      "similiar_solution_url": "https://avocode.com/",
       "category": "Collaborative software"
     },{
        "title": "Assembla",
-      "similiar_software_url": "https://www.assembla.com/home",
+      "similiar_solution_url": "https://www.assembla.com/home",
       "category": "Source code managment SaaS"
     }],
     "licence_list": ["MIT"],
