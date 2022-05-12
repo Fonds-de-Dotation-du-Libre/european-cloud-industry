@@ -66,29 +66,29 @@
     "created_year": "",
     "description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Auth0",
-      "similiar_software_url": "https://auth0.com/key",
+      "similiar_solution_url": "https://auth0.com/key",
       "category": "Information Technology"
     },{
       "title": "Keycloak",
-      "similiar_software_url": "https://www.keycloak.org/",
+      "similiar_solution_url": "https://www.keycloak.org/",
       "category": "Information Technology"
     },{
       "title": "Amazon Cognito",
-      "similiar_software_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
+      "similiar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
       "category": "Information Technology"
     },{
       "title": "Spring Security",
-      "similiar_software_url": "https://spring.io/projects/spring-security",
+      "similiar_solution_url": "https://spring.io/projects/spring-security",
       "category": "Information Technology"
     },{
       "title": "Firebase Authentication",
-      "similiar_software_url": "https://firebase.google.com/",
+      "similiar_solution_url": "https://firebase.google.com/",
       "category": "Information Technology"
     },{
       "title": "JSON web Token",
-      "similiar_software_url": "https://jwt.io/",
+      "similiar_solution_url": "https://jwt.io/",
       "category": "Information Technology"
     }],
     "licence_list": ["Proprietary"],
