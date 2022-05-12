@@ -24,9 +24,9 @@
     "created_year": "",
     "description": "Submer’s MicroPod is the perfect Immersion Cooling solution for Edge applications, colocation datacenters, telcos and cloud computing. Thanks to its compact, modular, plug-and-play, datacenter-in-a-box configuration, the MicroPod allows for fast deployment in any location, including direct sunlight and an easy plug-and-play installation with an unrivalled energy footprint anywhere on the globe.",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "ICEraQ",
-      "similiar_software_url": "https://www.grcooling.com/iceraq/",
+      "similiar_solution_url": "https://www.grcooling.com/iceraq/",
       "category": ""
     }],
     "licence_list": "",
@@ -46,7 +46,7 @@
     "created_year": "",
     "description": "the SmartPod is the very first commercially available OCP compatible Immersion Cooling system, that conforms to both standard server formats and to Open Compute Project (OCP) specifications for high-performance, supercomputing, hyperscale infrastructures, research and colocation",
     "category_list": "",
-    "similar_software_list": "",
+    "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
     "source_code_profile": "",
@@ -64,9 +64,9 @@
     "created_year": "",
     "description": "The MegaPod has been purpose-built to address the main pain points faced by our challenged industry. Deliver large amounts of sustainable compute capacity and ease site selection. No other technology can deliver this level of density and leverage dry-cooling infrastructure anywhere on the Globe. No other technology can deliver >95% of the IT energy captured in the form or warm water for heat reuse. Think out of the box by leveraging Immersion Cooling in a bigger box: The MegaPod.",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "ICEtank",
-      "similiar_software_url": "https://www.grcooling.com/icetank/",
+      "similiar_solution_url": "https://www.grcooling.com/icetank/",
       "category": ""
     }],
     "licence_list": "",
@@ -86,7 +86,7 @@
     "created_year": "",
     "description": "a synthetic fluid tailor-made for immersion cooling. It provides great benefits for hardware, humans, the planet.",
     "category_list": "",
-    "similar_software_list": "",
+    "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
     "source_code_profile": "",
