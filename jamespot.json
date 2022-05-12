@@ -59,13 +59,13 @@
 		"created_year": "",
 		"description": "Open Agora centralizes all of your organization's internal communication on a single, customizable, secure and easy-to-use platform. Information is structured in dedicated groups or discussions and is accessible in real time from anywhere.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Google Workspace",
-			"similiar_software_url": "https://workspace.google.com/",
+			"similiar_solution_url": "https://workspace.google.com/",
 			"category": ""
 			}, {
 			"title": "Microsoft Teams",
-			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -148,17 +148,17 @@
 		"created_year": "",
 		"description": "Fast Intranet gives meaning to your internal communication by providing simplified access to information (news, reference documents, key figures ...) and information systems of your organization (HRIS, GED, CRM ...)",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Microsoft sharePoint",
-			"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
 			"category": ""
 			}, {
 			"title": "Workvivo",
-			"similiar_software_url": "https://www.workvivo.com/product/",
+			"similiar_solution_url": "https://www.workvivo.com/product/",
 			"category": ""
 			}, {
 			"title": "Workplace from Meta",
-			"similiar_software_url": "https://www.workplace.com/",
+			"similiar_solution_url": "https://www.workplace.com/",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -196,13 +196,13 @@
 		"created_year": "",
 		"description": "Diapazone gathers a set of applications allowing you to prepare and animate your meetings in an efficient way, whatever your objectives (team meetings, brainstorms, etc).",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Zoom",
-			"similiar_software_url": "https://zoom.us/",
+			"similiar_solution_url": "https://zoom.us/",
 			"category": ""
 			}, {
 			"title": "Webex",
-			"similiar_software_url": "https://www.webex.com/fr/index.html",
+			"similiar_solution_url": "https://www.webex.com/fr/index.html",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -222,13 +222,13 @@
 		"created_year": "",
 		"description": "Wedoc organizes the creation of your documents: edit several times and in real time, store your document in folders and find it easily by typing a keyword. It's as easy as pie",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Microsoft Teams",
-			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": ""
 			}, {
 			"title": "Google workspace (Google Doc)",
-			"similiar_software_url": "https://www.google.com/docs/about/",
+			"similiar_solution_url": "https://www.google.com/docs/about/",
 			"category": ""
 		}],
 		"licence_list": "",
