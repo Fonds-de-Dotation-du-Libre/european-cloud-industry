@@ -52,13 +52,13 @@
     "created_year": "2013",
     "description": "Warp 10 is one of the most advanced time series platform, ensuring a seamless experience with existing data ecosystems. It addresses challenges posed by the data produced by consumer IoT devices. SenX, the company leading the Warp 10 development, invested heavily in the research and development of a high performance storage engine and an advanced analytics environment, both specifically crafted for time series augmented by location data (Geo Time Series).",
     "category_list": "",
-    "similar_software_list": [{
-      "title": "Minitab Statistical Software",
-      "similiar_software_url": "https://www.minitab.com/en-us/products/minitab/",
+    "similar_solution_list": [{
+      "title": "Minitab Statistical Solution",
+      "similiar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
       "category": ""
     },{
       "title": "Azure Time Series Insights",
-      "similar_software_url": "https://azure.microsoft.com/en-us/services/time-series-insights/#product-overview",
+      "similar_solution_url": "https://azure.microsoft.com/en-us/services/time-series-insights/#product-overview",
       "category": ""
     }],
     "licence_list": ["Apache-2.0 License"],
