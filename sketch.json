@@ -25,21 +25,21 @@
 		"created_year": "2010",
 		"description": "A vector graphic editor operating on MacOS to design UIs and UXs in a collaborative way.",
 		"category_list": "Information Technology",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Figma",
-			"similar_software_url": "https://www.figma.com/",
+			"similar_solution_url": "https://www.figma.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Lunacy",
-			"similar_software_url": "https://icons8.com/lunacy",
+			"similar_solution_url": "https://icons8.com/lunacy",
 			"category": "Information Technology"
 		}, {
 			"title": "Adobe XD",
-			"similar_software_url": "https://www.adobe.com/products/xd.html?mv=affiliate&mv2=red",
+			"similar_solution_url": "https://www.adobe.com/products/xd.html?mv=affiliate&mv2=red",
 			"category": "Information Technology"
 		}, {
 			"title": "Pencil Project",
-			"similar_software_url": "https://pencil.evolus.vn/",
+			"similar_solution_url": "https://pencil.evolus.vn/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["Proprietary"],
