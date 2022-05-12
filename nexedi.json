@@ -59,17 +59,17 @@
 		"created_year": "2002",
 		"description": "ERP5 is an open source ERP based on Python and Zope. It has the particularity of being based on a unified Model to describe its implementation. It was designed to be generic and flexible enough to suit different business areas and maximise economies of scale related to code sharing.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Odoo",
-			"similiar_software_url": "https://www.odoo.com/fr_FR",
+			"similiar_solution_url": "https://www.odoo.com/fr_FR",
 			"category": ""
 			}, {
 			"title": "Dolibarr",
-			"similiar_software_url": "https://www.dolibarr.org/",
+			"similiar_solution_url": "https://www.dolibarr.org/",
 			"category": ""
 			},{
       			"title": "Metasfresh",
-      			"similar_software_url": "https://metasfresh.com/en/",
+      			"similar_solution_url": "https://metasfresh.com/en/",
       			"category": ""
    			}],
 		"licence_list": ["General Public License"],
@@ -170,9 +170,9 @@
 		"created_year": "2010",
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "YunoHost",
-			"similiar_software_url": "https://yunohost.org/#/",
+			"similiar_solution_url": "https://yunohost.org/#/",
 			"category": ""
 	  	}],
 		"licence_list": ["GNU GPL v3"],
@@ -201,9 +201,9 @@
 		"created_year": "2015",
 		"description": "Wendelin is a big data framework designed for industrial applications based on python, NumPy, Scipy and other NumPy based libraries. It uses at its core the NEO distributed transactional NoSQL database to store petabytes of binary data. Wendelin combines the performance of scikit-learn machine learning with NEO distributed storage in order to provide out-of-core processing of large data sets. Its goal is to bring the best open source, big data engine based on Numpy python technologies and gather a wide community of contributors of new data analytics algorithms.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Hadoop",
-			"similiar_software_url": "https://hadoop.apache.org/",
+			"similiar_solution_url": "https://hadoop.apache.org/",
 			"category": ""
   		 }],
 		"licence_list": ["GNU GPL v3"],
