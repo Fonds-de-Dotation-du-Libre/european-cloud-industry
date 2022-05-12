@@ -59,17 +59,17 @@
 			"created_year": "",
 			"description": "A flexible enterprise phone platform that delivers reliable, high quality digital age communications to grow your business.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Skype for Busines",
-				"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
+				"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
 				"category": "Telecommunication"
 			}, {
 				"title": "Cisco Unified Communications Manager",
-				"similiar_software_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
+				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "Avaya IP Office",
-				"similiar_software_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
+				"similiar_solution_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
 				"category": "Telecommunication"
 			}, {
 				"title": "Zaker Trading",
@@ -118,13 +118,13 @@
 			"created_year": "",
 			"description": "a powerful suite of communication and collaboration services for small- and mid- to large-sized.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Webex Calling",
-				"similiar_software_url": "https://www.cisco.com/c/en/us/solutions/collaboration/webex-calling/index.html",
+				"similiar_solution_url": "https://www.cisco.com/c/en/us/solutions/collaboration/webex-calling/index.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "Microsoft Teams",
-				"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+				"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
 				"category": "Telecommunication"
 			}],
 			"licence_list": [],
@@ -163,9 +163,9 @@
 			"created_year": "",
 			"description": "OXO Connect is a new generation of robust, connected and converged communication platforms, entirely dedicated to small and medium businesses.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -199,29 +199,29 @@
 			"created_year": "",
 			"description": "Rainbow business communication solutions offer user friendly collaboration tools from voice to video, that connect people, machines, and processes.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Zoom",
-				"similiar_software_url": "https://zoom.us/",
+				"similiar_solution_url": "https://zoom.us/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Google Chat",
-				"similiar_software_url": "https://mail.google.com/chat/u/0/",
+				"similiar_solution_url": "https://mail.google.com/chat/u/0/",
 				"category": "Telecommunication"
 			}, {
 				"title": "RingCentralMVP",
-				"similiar_software_url": "https://www.ringcentral.com/office/how-it-works.html",
+				"similiar_solution_url": "https://www.ringcentral.com/office/how-it-works.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "Webex",
-				"similiar_software_url": "https://www.webex.com/cloud-calling.html",
+				"similiar_solution_url": "https://www.webex.com/cloud-calling.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "GoTo",
-				"similiar_software_url": "https://www.goto.com/connect",
+				"similiar_solution_url": "https://www.goto.com/connect",
 				"category": "Telecommunication"
 			}, {
 				"title": "Tata Communications Unified Communications as a Service",
-				"similiar_software_url": "https://www.tatacommunications.com/solutions/unified-communications/unified-communications-as-a-service/",
+				"similiar_solution_url": "https://www.tatacommunications.com/solutions/unified-communications/unified-communications-as-a-service/",
 				"category": "Telecommunication"
 			}],
 			"licence_list": ["Proprietary"],
@@ -260,17 +260,17 @@
 			"created_year": "",
 			"description": "Rainbow Office offers secure modern communications on any device. You can collaborate from anywhere – by message, video and phone. Backed by comprehensive services, Rainbow Office is complemented with market leading telephony and networking products from ALE’s portfolio for a complete digital transformation.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Reachify",
-				"similiar_software_url": "https://reachify.io/",
+				"similiar_solution_url": "https://reachify.io/",
 				"category": "Telecommunication"
 			}, {
 				"title": "UC Performance Management",
-				"similiar_software_url": "https://www.netscout.com/solutions/unified-communications-collaboration",
+				"similiar_solution_url": "https://www.netscout.com/solutions/unified-communications-collaboration",
 				"category": "Telecommunication"
 			}, {
 				"title": "Collaborate Cloud",
-				"similiar_software_url": "http://www.collaboratecloud.com/",
+				"similiar_solution_url": "http://www.collaboratecloud.com/",
 				"category": "Telecommunication"
 			}],
 			"licence_list": ["Proprietary"],
@@ -304,9 +304,9 @@
 			"created_year": "",
 			"description": "These integrated and external antennas form a robust infrastructure for DECT in buildings and outdoors, so your mobile workers are connected everywhere.",
 			"category_list": ["telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -340,25 +340,25 @@
 			"created_year": "",
 			"description": "A flexible enterprise phone platform that delivers reliable, high quality digital age communications to grow your business.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Skype for Business",
-				"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
+				"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
 				"category": "Telecommunication"
 			}, {
 				"title": "Cisco Unified Communications Manager",
-				"similiar_software_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
+				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "Avaya IP Office",
-				"similiar_software_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
+				"similiar_solution_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
 				"category": "Telecommunication"
 			}, {
 				"title": "NEC SV9000",
-				"similiar_software_url": "https://in.nec.com/en_IN/products/private-network-solutions/products/small-medium-businesses/univerge-sv9000.html",
+				"similiar_solution_url": "https://in.nec.com/en_IN/products/private-network-solutions/products/small-medium-businesses/univerge-sv9000.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "OpenScape Enterprise",
-				"similiar_software_url": "https://unify.com/en/solutions/voice-platforms/openscape-enterprise-express",
+				"similiar_solution_url": "https://unify.com/en/solutions/voice-platforms/openscape-enterprise-express",
 				"category": "Telecommunication"
 			}],
 			"licence_list": [],
@@ -397,9 +397,9 @@
 			"created_year": "",
 			"description": "Remote Visual Assistance by Alcatel-Lucent Enterprise empowers field service employees to deliver operational excellence and improve customer satisfaction.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -433,21 +433,21 @@
 			"created_year": "",
 			"description": "Monitor, record and evaluate all employee-customer interactions with call recording, screen capture and real-time listening tools.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "TelStrat Record",
-				"similiar_software_url": "https://www.serenova.com/wp-content/uploads/2019/08/Serenova_TelStratWFO.pdf",
+				"similiar_solution_url": "https://www.serenova.com/wp-content/uploads/2019/08/Serenova_TelStratWFO.pdf",
 				"category": "Telecommunication"
 			}, {
 				"title": "VoIP Recording software",
-				"similiar_software_url": "https://www.voip-info.org/",
+				"similiar_solution_url": "https://www.voip-info.org/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Enghouse Smart Interaction Recording",
-				"similiar_software_url": "https://www.enghousenetworks.com/portfolio/digital-transformation/customer-interaction-management/smart-interaction-recording/",
+				"similiar_solution_url": "https://www.enghousenetworks.com/portfolio/digital-transformation/customer-interaction-management/smart-interaction-recording/",
 				"category": "Telecommunication"
 			}, {
 				"title": "CallN",
-				"similiar_software_url": "https://calln.com/",
+				"similiar_solution_url": "https://calln.com/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Zaker Trading",
@@ -486,9 +486,9 @@
 			"created_year": "",
 			"description": "Streamline operations and delight your customers with a complete omnichannel contact center solution that offers email, live chat, social media, phone calls and simplified management.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -522,9 +522,9 @@
 			"created_year": "",
 			"description": "Collect, combine and display business data or contact center statistics in real-time for operational monitoring.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -558,9 +558,9 @@
 			"created_year": "",
 			"description": "In business, a telephone call is often the first point of contact. Visual Automated Attendant provides a professional image with a virtual receptionist available 24/7, delivering a quality response to your customers.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -594,9 +594,9 @@
 			"created_year": "",
 			"description": "Streamline operations and delight your customers with a complete omnichannel contact center solution that offers email, live chat, social media, phone calls and simplified management.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -632,7 +632,7 @@
 			"category_list": ["Telecommunication"],
 			"similar_software_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -666,9 +666,9 @@
 			"created_year": "",
 			"description": "The Alcatel-Lucent DECT Intercom wireless indoor call box provides exceptional service to customers when they visit your offices, shops, and warehouses, with instant customer service.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -702,9 +702,9 @@
 			"created_year": "",
 			"description": "Business phones designed for the digital age; connect to the cloud with advanced AI capabilities and make every call memorable.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -738,9 +738,9 @@
 			"created_year": "",
 			"description": "SIP deskphones that provide an enterprise grade communication experience using your favorite cloud communication service.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -774,9 +774,9 @@
 			"created_year": "",
 			"description": "Enjoy better-quality conference calls on this dedicated IP conference phone, or use your own deskphone, PC or smartphone with our conferencing modules.",
 			"category_list": ["Telcommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -811,21 +811,21 @@
 			"created_year": "",
 			"description": "A single management interface providing a unified view of OpenTouch and OmniPCX communication networks, including next-generation devices and applications.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Junos Space Network Management Platform",
-				"similiar_software_url": "https://www.juniper.net/us/en/products/sdn-and-orchestration/junos-space-platform.html",
+				"similiar_solution_url": "https://www.juniper.net/us/en/products/sdn-and-orchestration/junos-space-platform.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "SolarWinds",
-				"similiar_software_url": "https://www.solarwinds.com/network-management-software",
+				"similiar_solution_url": "https://www.solarwinds.com/network-management-software",
 				"category": "Telecommunication"
 			}, {
 				"title": "Cisco Meraki",
-				"similiar_software_url": "https://meraki.cisco.com/",
+				"similiar_solution_url": "https://meraki.cisco.com/",
 				"category": "Telecommunication"
 			}, {
 				"title": "SAS/ACCESS",
-				"similiar_software_url": "https://www.sas.com/en_us/software/access.html",
+				"similiar_solution_url": "https://www.sas.com/en_us/software/access.html",
 				"category": "Telecommunication"
 			}],
 			"licence_list": [],
@@ -859,9 +859,9 @@
 			"created_year": "",
 			"description": "Protecting your organization from malicious VoIP attacks, SIP denial of service, fraud and eavesdropping, the Alcatel-Lucent OpenTouch Session Border Controller (OpenTouch SBC) addresses the communication security needs of mid-sized and large organizations.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -896,33 +896,33 @@
 			"created_year": "",
 			"description": "Now there's even more ways to keep your office, campus and data center networks connected. Faster speeds. PoE. So dive in and discover the right switch for your business.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Cisco Catalyst Switches",
-				"similiar_software_url": "https://www.cisco.com/c/en/us/products/switches/index.html",
+				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/switches/index.html",
 				"category": "Information Technology"
 			}, {
 				"title": "HPE Networking Switches",
-				"similiar_software_url": "https://www.hpe.com/us/en/networking/switches.html",
+				"similiar_solution_url": "https://www.hpe.com/us/en/networking/switches.html",
 				"category": "Information Technology"
 			}, {
 				"title": "Juniper Networks Switching",
-				"similiar_software_url": "https://www.juniper.net/us/en/products/switches.html",
+				"similiar_solution_url": "https://www.juniper.net/us/en/products/switches.html",
 				"category": "Information Technology"
 			}, {
 				"title": "Dell EMC Switch",
-				"similiar_software_url": "https://www.dell.com/en-us/dt/networking/index.htm#tab0=0",
+				"similiar_solution_url": "https://www.dell.com/en-us/dt/networking/index.htm#tab0=0",
 				"category": "Information Technology"
 			}, {
 				"title": "Huawei Ethernet Switch",
-				"similiar_software_url": "https://e.huawei.com/en/products/enterprise-networking/switches",
+				"similiar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches",
 				"category": "Information Technology"
 			}, {
 				"title": "Cisco Industrial switching ",
-				"similiar_software_url": "https://www.cisco.com/c/en/us/products/switches/industrial-ethernet-switches/index.html",
+				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/switches/industrial-ethernet-switches/index.html",
 				"category": "Information Technology"
 			}, {
 				"title": "Netgear Unmanaged Switches",
-				"similiar_software_url": "https://www.netgear.com/business/wired/switches/unmanaged/",
+				"similiar_solution_url": "https://www.netgear.com/business/wired/switches/unmanaged/",
 				"category": "Information Technology"
 			}],
 			"licence_list": [],
@@ -1001,37 +1001,37 @@
 			"created_year": "",
 			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Cisco Meraki Cloud-Managed Indoor Access Points",
-				"similiar_software_url": "https://meraki.cisco.com/products/wi-fi/",
+				"similiar_solution_url": "https://meraki.cisco.com/products/wi-fi/",
 				"category": "Telecommunication"
 			}, {
 				"title": "EX Switches",
-				"similiar_software_url": "https://www.juniper.net/us/en/products/switches/ex-series.html",
+				"similiar_solution_url": "https://www.juniper.net/us/en/products/switches/ex-series.html",
 				"category": "Telecommunication"
 			}, {
 				"title": "Aruba Gateways and Controllers HPE (Aruba)",
-				"similiar_software_url": "https://www.arubanetworks.com/products/wireless/gateways-and-controllers/",
+				"similiar_solution_url": "https://www.arubanetworks.com/products/wireless/gateways-and-controllers/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Unifi Enterprise AP",
-				"similiar_software_url": "https://unifi-mesh.ui.com/",
+				"similiar_solution_url": "https://unifi-mesh.ui.com/",
 				"category": "Teleommunication"
 			}, {
 				"title": "Huawei Campus Switches",
-				"similiar_software_url": "https://e.huawei.com/en/products/enterprise-networking/switches/campus-switches",
+				"similiar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches/campus-switches",
 				"category": "Telecommunication"
 			}, {
 				"title": "FortiGate",
-				"similiar_software_url": "https://www.fortinet.com/products/next-generation-firewall",
+				"similiar_solution_url": "https://www.fortinet.com/products/next-generation-firewall",
 				"category": "Telecommunication"
 			}, {
 				"title": "RUCKUS Wireless Access Points",
-				"similiar_software_url": "https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/",
+				"similiar_solution_url": "https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/",
 				"category": "Telecommunication"
 			}, {
 				"title": "TP-Link Wireless Access Points (Legacy)",
-				"similiar_software_url": "https://www.tp-link.com/fr/press/news/15685/",
+				"similiar_solution_url": "https://www.tp-link.com/fr/press/news/15685/",
 				"category": "Telecommunication"
 			}],
 			"licence_list": [],
@@ -1065,9 +1065,9 @@
 			"created_year": "",
 			"description": "Asset tracking provides smart connection to assets, so you can locate equipment and people in real-time, optimizing operations and reducing costs.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -1101,9 +1101,9 @@
 			"created_year": "",
 			"description": "Easy-to-manage battery-powered Bluetooth beacons with iBeacon technology provide a personal, location-based experience for users.",
 			"category_list": ["Information technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -1137,9 +1137,9 @@
 			"created_year": "",
 			"description": "The OmniAccess Stellar LBS suite offers three game-changing location features to empower your company, broaden your services, gain insightful analytics and help you make better decisions.",
 			"category_list": ["Consulting and Training"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}, {
 				"title": "Zaker Trading",
@@ -1178,9 +1178,9 @@
 			"created_year": "",
 			"description": "Two powerful management tools to make the implementation, operation and maintenance of indoor location services easy.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -1214,9 +1214,9 @@
 			"created_year": "",
 			"description": "The Alcatel-Lucent OmniVista® 2500 Network Management System (NMS) provides cohesive management and network-wide visibility, increasing IT efficiency and business agility. It provides a full set of management tools for converged mobile campus. This single platform enables operators to easily provision, manage and maintain a unified Campus Mobile infrastructure with its network elements, alarms, unified access security policies, and virtualization.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -1260,25 +1260,25 @@
 			"created_year": "",
 			"description": "Ucopia, a European leader in Wi-Fi guest access and Wi-Fi marketing management, helps enterprises unlock the potential of their Wi-Fi network.  Ucopia is fully compatible with all OmniAccess Stellar access points.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Purple",
-				"similiar_software_url": "https://purple.ai/",
+				"similiar_solution_url": "https://purple.ai/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Adentro",
-				"similiar_software_url": "http://www.adentro.fr/en/",
+				"similiar_solution_url": "http://www.adentro.fr/en/",
 				"category": "Telecommunication"
 			}, {
 				"title": "MyWifiNetworks",
-				"similiar_software_url": "https://www.mywifinetworks.com/",
+				"similiar_solution_url": "https://www.mywifinetworks.com/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Cloud4wi",
-				"similiar_software_url": "https://splashportal.cloud4wi.com/",
+				"similiar_solution_url": "https://splashportal.cloud4wi.com/",
 				"category": "Telecommunication"
 			}, {
 				"title": "Local Mesure",
-				"similiar_software_url": "https://www.localmeasure.com/",
+				"similiar_solution_url": "https://www.localmeasure.com/",
 				"category": "Telecommunication"
 			}],
 			"licence_list": [],
@@ -1312,9 +1312,9 @@
 			"created_year": "",
 			"description": "Easily roll out BYOD services and control devices on your enterprise network with powerful network policy management",
 			"category_list": ["Public Administration and Government"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -1349,9 +1349,9 @@
 			"created_year": "",
 			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",
 			"category_list": ["Telecommunication"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
