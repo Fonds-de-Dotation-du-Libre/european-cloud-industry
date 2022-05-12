@@ -24,33 +24,33 @@
     "created_year": "2018",
     "description": "",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Akash",
-      "similiar_software_url": "https://akash.network/",
+      "similiar_solution_url": "https://akash.network/",
       "category": "Information Technology"
     },{
       "title": "Dfinity",
-      "similiar_software_url": "https://dfinity.org/",
+      "similiar_solution_url": "https://dfinity.org/",
       "category": "Information Technology"
     },{
       "title": "Golem",
-      "similiar_software_url": "https://www.golem.network/",
+      "similiar_solution_url": "https://www.golem.network/",
       "category": "Information Technology"
     },{
       "title": "Syntropy",
-      "similiar_software_url": "https://www.syntropynet.com/",
+      "similiar_solution_url": "https://www.syntropynet.com/",
       "category": "Information Technology"
     },{
       "title": "Siacoin",
-      "similiar_software_url": "https://sia.tech/",
+      "similiar_solution_url": "https://sia.tech/",
       "category": "Information Technology"
     },{
       "title": "Filecoin",
-      "similiar_software_url": "https://filecoin.io/",
+      "similiar_solution_url": "https://filecoin.io/",
       "category": "Information Technology"
     },{
       "title": "Helium",
-      "similiar_software_url": "https://www.helium.com/",
+      "similiar_solution_url": "https://www.helium.com/",
       "category": "Information Technology"
     }],
     "licence_list": ["Apache-2.0"],
