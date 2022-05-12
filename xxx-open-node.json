@@ -19,45 +19,45 @@
   "founded_year": "2011",
   "kpi_list":[{
     "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
+    "staff": "3",
+    "earnings": "332247€",
+    "total_assets": "720383€",
+    "revenues": "572007€",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   },{
     "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
+    "staff": "4",
+    "earnings": "62014€",
+    "total_assets": "461289€",
+    "revenues": "385114€",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
     "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
+    "staff": "3",
+    "earnings": "172355€",
+    "total_assets": "431737€",
+    "revenues": "379895€",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
     "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
+    "staff": "4",
+    "earnings": "75452€",
+    "total_assets": "326941€",
+    "revenues": "208285€",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
     "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
+    "staff": "3",
+    "earnings": "-45016€",
+    "total_assets": "270188€",
+    "revenues": "61935€",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   },{
     "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
+    "staff": "1",
+    "earnings": "101238€",
+    "total_assets": "327922€",
+    "revenues": "290539€",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }],
   "solution_list": [{
