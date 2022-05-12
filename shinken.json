@@ -53,33 +53,33 @@
 		"created_year": "2009",
 		"description": "",
 		"category_list": "Information Technology",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Nagios",
-			"similiar_software_url": "https://www.nagios.org/",
+			"similiar_solution_url": "https://www.nagios.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "Opsview Core",
-			"similiar_software_url": "https://www.opsview.com/",
+			"similiar_solution_url": "https://www.opsview.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Icinga",
-			"similiar_software_url": "https://icinga.com/",
+			"similiar_solution_url": "https://icinga.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Mod-Gearman",
-			"similiar_software_url": "https://mod-gearman.org/",
+			"similiar_solution_url": "https://mod-gearman.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "The NOC Project",
-			"similiar_software_url": "https://getnoc.com/",
+			"similiar_solution_url": "https://getnoc.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Webmin",
-			"similiar_software_url": "https://www.webmin.com/",
+			"similiar_solution_url": "https://www.webmin.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Check MK",
-			"similiar_software_url": "https://checkmk.com/",
+			"similiar_solution_url": "https://checkmk.com/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU Affero General Public License v3.0"],
