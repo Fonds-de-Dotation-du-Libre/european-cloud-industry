@@ -24,17 +24,17 @@
 		"created_year": "",
 		"description": "Netframe.co develops Netframe, an All-in-One Workplace for everybody to help communication and people getting organised in their projects, organisations or entreprises through new generation documentation and workflow",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Jamespot",
-			"similiar_software_url": "https://www.fr.jamespot.com/",
+			"similiar_solution_url": "https://www.fr.jamespot.com/",
 			"category": ""
 			}, {
 			"title": "Google workspace",
-			"similiar_software_url": "https://workspace.google.com/",
+			"similiar_solution_url": "https://workspace.google.com/",
 			"category": ""
     			},{
       			"title": "Miscrosoft Teams",
-			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": ""
 		}],
 		"licence_list": "",
