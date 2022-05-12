@@ -66,9 +66,9 @@
 		"created_year": "2020",
 		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Microsoft 365",
-			"similiar_software_url": "https://www.office.com/",
+			"similiar_solution_url": "https://www.office.com/",
 			"category": "Telecommunication"
 	}],	
 	"licence_list": ["AGPL3 AGPL version 3.0"],
@@ -102,9 +102,9 @@
 	"created_year": "2019",
 	"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
 	"category_list": ["Telecommunication"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "Rocket.Chat",
-		"similiar_software_url": "https://rocket.chat/",
+		"similiar_solution_url": "https://rocket.chat/",
 		"category": "Telecommunication""
 	}],
 	"licence_list": ["AGPL3 AGPL version 3.0"],
