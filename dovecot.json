@@ -66,17 +66,17 @@
 		"created_year": "",
 		"description": "Dovecot is an open-source IMAP and POP3 server for Unix-like operating systems, written primarily with security in mind. Timo Sirainen originated Dovecot and first released it in July 2002. Dovecot developers primarily aim to produce a lightweight, fast and easy-to-set-up open-source email server.",
 		"category_list": ["information technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "zimbra",
-			"similiar_software_url": "https://zimbra.free.fr/",
+			"similiar_solution_url": "https://zimbra.free.fr/",
 			"category": "telecommunication"
 		},{
 			"title": "Postfix",
-			"similiar_software_url": "https://www.postfix.org/",
+			"similiar_solution_url": "https://www.postfix.org/",
 			"category": "telecommunication"
 		},{
 			"title": "Courier Mail Server",
-			"similiar_software_url": "http://www.courier-mta.org/",
+			"similiar_solution_url": "http://www.courier-mta.org/",
 			"category": "telecommunication"
 		}],
 		"licence_list": ["MIT", "LGPLv2"],
