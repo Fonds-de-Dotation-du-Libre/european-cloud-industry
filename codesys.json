@@ -59,9 +59,9 @@
 		"created_year": "",
 		"description": "CODESYS is the leading software platform for IEC 61131-3 compliant project engineering. The development system combines classic programming of controller applications with the capabilities of professional software development for automation devices in the environment of Industry 4.0/IIoT (Industrial Internet of Things).",
 		"category_list": ["Engineering"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -95,9 +95,9 @@
 		"created_year": "",
 		"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",
 		"category_list": ["Automotive"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": ["Single Device License"],
@@ -131,9 +131,9 @@
 		"created_year": "",
 		"description": "For the administration of compatible devices, an industry 4.0 platform is available, which allows, for example, the storage of projects in source and binary code via web browser and their download to connected devices. The platform is hosted in a public cloud. ",
 		"category_list": ["Automotive"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -177,17 +177,17 @@
 		"created_year": "",
 		"description": "An integrated editor helps the user create complex visualization masks directly in the programming system CODESYS and animate them based on application variables. To simplify the procedure, integrated visualization elements are available. ",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Indusof Web Studio",
-			"similiar_software_url": "https://www.aveva.com/en/products/edge/",
+			"similiar_solution_url": "https://www.aveva.com/en/products/edge/",
 			"category": "Information Technology"
 		}, {
 			"title": "Cimicity",
-			"similiar_software_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+			"similiar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
 			"category": "Information Technology"
 		}, {
 			"title": "SIMATIC WinCC",
-			"similiar_software_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
+			"similiar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -221,9 +221,9 @@
 		"created_year": "",
 		"description": "CODESYS provides seamlessly integrated configurators for a wide variety of fieldbus systems for configuring the process image of controllers:",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -257,16 +257,16 @@
 		"created_year": "",
 		"description": "For the exchange of data with other devices in control networks, CODESYS can seamlessly integrate and use communication protocols. These include proprietary protocols, standardized protocols in automation technology, such as OPC and OPC UA, standard protocols for serial and Ethernet interfaces as well as standard protocols of web technology, such as MQTT or https. The latter are also offered in the form of encapsulated libraries for simplified access to public clouds from AWS or Microsoft (Azure).",
 		"category_list": ["Communication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
+		"floss_solution": "no",
 		"commercial_support_open_source_version": "no",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Communication",
@@ -293,9 +293,9 @@
 		"created_year": "",
 		"description": "Logic control and motion integrated in one single IEC 61131-3 system: Development kit for everything from basic motion applications to advanced CNC and robotic controllers.",
 		"category_list": ["Automotive"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -329,9 +329,9 @@
 		"created_year": "",
 		"description": "Integrated Safety Software certified according to DIN 61508 - suitable solutions for all SIL2 and SIL3 application areas",
 		"category_list": ["Automotive"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -365,9 +365,9 @@
 		"created_year": "",
 		"description": "Training, consulting and development directly from the manufacturer of CODESYS.",
 		"category_list": [],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
