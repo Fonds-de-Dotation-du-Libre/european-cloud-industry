@@ -66,9 +66,9 @@
     "created_year": "",
     "description": "Tarantool keeps all the data in random-access memory (RAM). Solutions of this class are fast, but they often lack data persistence. Tarantool helps overcome these problems. Try Tarantool to see how fast, flexible, and scalable it is.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": [],
@@ -102,9 +102,9 @@
     "created_year": "",
     "description": "Tarantool has been helping companies all over the world build smart caches, data marts, and golden client profiles, while saving server capacity.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": [],
@@ -138,9 +138,9 @@
     "created_year": "",
     "description": "Cartridge is a framework for scaling Tarantool databases. With Cartridge, you can create multiple copies on different servers or split your data among several Tarantool nodes. Cartridge allows you to bring Tarantool instances together into configurable clusters.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": [],
@@ -174,9 +174,9 @@
     "created_year": "",
     "description": "Information about customers is often stored in different systems: separate services are responsible for orders, personal data, accrued bonuses, etc. The more of these services are accumulated in a project, the more pressing the challenge of linking the data becomes. Creating links between all the systems is time-consuming, complicated, and unreliable. Tarantool Data Grid allows you to collect data from different systems and convert it to a unified format. It can also serve as a data mart, that is, pass the data directly to applications.",
     "category_list": [],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": [],
@@ -228,9 +228,9 @@
     "created_year": "",
     "description": "IT solutions based on trending international technologies are expensive in terms of licensing and data integration tools. Tarantool Change Data Capture is a replicator that pulls data from the underlying DBMS. It acts as a replication client and creates no load on the database. Tarantool CDC can help you organize a message broker pipeline, build a cache, or create data marts. With Tarantool CDC, you no longer need licenses for additional products, such as Oracle GoldenGate for Big Data. In this way, you can reduce the maintenance costs of real-time collection and processing of data stored in Oracle, PostgreSQL, MySQL, and other relational DBMSs.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": [],
