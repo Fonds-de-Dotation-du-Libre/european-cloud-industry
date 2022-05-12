@@ -24,17 +24,17 @@
     "created_year": "",
     "description": "The cloud PaaS to develop, deploy, host and secure websites and apps",
     "category_list": [],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "OpenShift",
-      "similiar_software_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+      "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
       "category": ""
     },{
       "title": "OpenStack",
-      "similiar_software_url": "https://www.openstack.org/",
+      "similiar_solution_url": "https://www.openstack.org/",
       "category": ""
     },{
       "title": "Microsoft Azure",
-      "similiar_software_url": "https://azure.microsoft.com/fr-fr/",
+      "similiar_solution_url": "https://azure.microsoft.com/fr-fr/",
       "category": ""
     }],
     "licence_list": [" CC-BY-SA-4.0 License"],
