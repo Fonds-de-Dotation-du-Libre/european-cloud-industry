@@ -66,9 +66,9 @@
 		"created_year": "",
 		"description": "The world’s market-leading IMAP server, OX Dovecot Pro, delivers dynamic scalability, high performance, efficient utilization of hardware and outstanding support to the world’s largest Telcos and ISP's.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Microsoft",
-			"similiar_software_url": "https://www.microsoft.com/fr-fr/",
+			"similiar_solution_url": "https://www.microsoft.com/fr-fr/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -102,9 +102,9 @@
 		"created_year": "",
 		"description": "With OX PowerDNS Recursor, Internet Service Providers can provide a fast and reliable DNS service, enabling a secure internet experience for subscribers and their personal devices, including laptops, tablets and mobile phones, as well as the many IoT devices that are already in use.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Linux",
-			"similiar_software_url": "https://www.linux.org/",
+			"similiar_solution_url": "https://www.linux.org/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -138,9 +138,9 @@
 		"created_year": "",
 		"description": "DNSdist is a unique DNS proxy and load balancer that brings out the best possible performance in any DNS deployment. It optimizes DNS traffic in front of the OX PowerDNS Recursor, and both are normally deployed together to provide an unrivaled feature set for DNS services.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -174,9 +174,9 @@
 		"created_year": "",
 		"description": "Increase scalability, reduce costs and manage your DNS more efficiently. Benefit from DNS containerization, automation, orchestration and lifecycle management, monitoring and alerting, combined in a single interface for configuration and operations.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -210,9 +210,9 @@
 		"created_year": "",
 		"description": "The OX PowerDNS Authoritative Server is a versatile authoritative server for hosting domain names. It rapidly responds to recursive nameservers, helping hosters offer a high-performing authoritative service for their domain customers.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -246,9 +246,9 @@
 		"created_year": "",
 		"description": "Children nowadays not only play with the kids next door – the online world also plays an increasingly important role in their life from a young age and comes with many advantages. However, it also comes with some challenges, including access to inappropriate content such as gambling, violence, cyberbullying and adult content.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "bark",
-			"similiar_software_url": "https://www.bark.us/",
+			"similiar_solution_url": "https://www.bark.us/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -282,17 +282,17 @@
 		"created_year": "",
 		"description": "OX Protect for Malware secures your subscribers’ connected devices in their home network or while they are on the move in your mobile network. Smartphones, tablets and laptops, as well as IoT devices are all protected against malware, phishing and other malicious online threats.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Total Av",
-			"similiar_software_url": "https://www.totalav.com/",
+			"similiar_solution_url": "https://www.totalav.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Scanguard",
-			"similiar_software_url": "https://www.scanguard.com/",
+			"similiar_solution_url": "https://www.scanguard.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Mcafee",
-			"similiar_software_url": "https://www.mcafee.com/",
+			"similiar_solution_url": "https://www.mcafee.com/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -326,9 +326,9 @@
 		"created_year": "",
 		"description": "OX Abuse Shield protects against threats in internet-connection authentication systems, including portals, webmail, IMAP and POP, SMTP and any other protocol.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -362,9 +362,9 @@
 		"created_year": "",
 		"description": "OX App Suite just got better. Already in use by 150 million users worldwide. Our easy-to-use Small Businesses email and communication tools are now available as part of OX Cloud",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Outlook OST viewer",
-			"similiar_software_url": "https://www.ostpstviewer.com/free-ost-pst-files-viewer?gclid=CjwKCAjwopWSBhB6EiwAjxmqDfx3WZ6Z300lUmEGSycJmsPp_IYG-noDaHTgY3aFkL-m6RiWNmHhDhoCPNoQAvD_BwE",
+			"similiar_solution_url": "https://www.ostpstviewer.com/free-ost-pst-files-viewer?gclid=CjwKCAjwopWSBhB6EiwAjxmqDfx3WZ6Z300lUmEGSycJmsPp_IYG-noDaHTgY3aFkL-m6RiWNmHhDhoCPNoQAvD_BwE",
 			"category": "Telecommunication"
 		}],
 		"licence_list": ["GNU Affero General Public License (AGPLv3)", "GNU General Public License, version 2"],
