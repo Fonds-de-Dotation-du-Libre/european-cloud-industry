@@ -66,9 +66,9 @@
 		"created_year": "",
 		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
 		"category_list": ["Manufacturing"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -102,13 +102,13 @@
 		"created_year": "",
 		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
 		"category_list": ["Manufacturing"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "eero Home WiFi System",
-			"similiar_software_url": "https://eero.com/",
+			"similiar_solution_url": "https://eero.com/",
 			"category": "Manufacturing"
 		}, {
 			"title": "Asus RT-AC5300",
-			"similiar_software_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
+			"similiar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
 			"category": "Media and Entertainment"
 		}],
 		"licence_list": ["MIT"],
@@ -142,9 +142,9 @@
 		"created_year": "",
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
 		"category_list": ["Manufacturing"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "OpenWRT",
-			"similiar_software_url": "https://openwrt.org/",
+			"similiar_solution_url": "https://openwrt.org/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -178,9 +178,9 @@
 		"created_year": "",
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
 		"category_list": ["Manufacturing"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": ["GNU General Public License v2.0"],
