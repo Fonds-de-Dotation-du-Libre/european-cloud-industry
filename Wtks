@@ -45,9 +45,9 @@
 		"created_year": "",
 		"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
 		"category_list": "Information Technology",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -80,9 +80,9 @@
 		"created_year": "",
 		"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
 		"category_list": "Information Technology",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -116,9 +116,9 @@
 			"created_year": "",
 			"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
 			"category_list": "Information Technology",
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "",
-				"similiar_software_url": "",
+				"similiar_solution_url": "",
 				"category": ""
 			}],
 			"licence_list": [],
@@ -152,25 +152,25 @@
 				"created_year": "2004",
 				"description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
 				"category_list": ["Information Technology"],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "Keycloak",
-					"similiar_software_url": "https://www.keycloak.org/",
+					"similiar_solution_url": "https://www.keycloak.org/",
 					"category": "Information Technology"
 					},{
 					"title": "CAS",
-					"similiar_software_url": "https://github.com/apereo/cas",
+					"similiar_solution_url": "https://github.com/apereo/cas",
 					"category": "Information Technology"
 					},{
 					"title": "Ory",
-					"similiar_software_url": "https://www.ory.sh/",
+					"similiar_solution_url": "https://www.ory.sh/",
 					"category": "Information Technology"
 					},{
 					"title": "Shibboleth",
-					"similiar_software_url": "https://www.shibboleth.net/",
+					"similiar_solution_url": "https://www.shibboleth.net/",
 					"category": "Information Technology"
 					},{
 					"title": "10 Duke",
-					"similiar_software_url": "https://www.10duke.com/products/identity-provider/",
+					"similiar_solution_url": "https://www.10duke.com/products/identity-provider/",
 					"category": "Information Technology"
 				}],
 				"licence_list": ["GPL-3.0"],
@@ -204,25 +204,25 @@
 					"created_year": "2008",
 					"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials.",
 					"category_list": ["Information Technology"],
-					"similar_software_list": [{
+					"similar_solution_list": [{
 						"title": "pmw-project",
-						"similiar_software_url": "https://github.com/pwm-project/pwm",
+						"similiar_solution_url": "https://github.com/pwm-project/pwm",
 						"category": "Information Technology"
 						},{
 						"title": "PassCore",
-						"similiar_software_url": "https://github.com/unosquare/passcore",
+						"similiar_solution_url": "https://github.com/unosquare/passcore",
 						"category": "Information Technology"
 						},{
 						"title": "ADReset",
-						"similiar_software_url": "https://github.com/mprahl/ADReset",
+						"similiar_solution_url": "https://github.com/mprahl/ADReset",
 						"category": "Information Technology"
 						},{
 						"title": "JiJi Self Service Password",
-						"similiar_software_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+						"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
 						"category": "Information Technology"
 						},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 					}],
 					"licence_list": ["BSD-2-Clause"],
@@ -256,13 +256,13 @@
 						"created_year": "2009",
 						"description": "",
 						"category_list": ["Information Technology"],
-						"similar_software_list": [{
+						"similar_solution_list": [{
 							"title": "",
-							"similiar_software_url": "",
+							"similiar_solution_url": "",
 							"category": ""
 							},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 						},{
 						}],
@@ -297,61 +297,61 @@
 							"created_year": "2007",
 							"description": "BigBlueButton is an open-source web conferencing platform.",
 							"category_list": ["Information Technology"],
-							"similar_software_list": [{
+							"similar_solution_list": [{
 								"title": "",
-								"similiar_software_url": "",
+								"similiar_solution_url": "",
 								"category": ""
 								},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 						},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 					},{
 					},{
 						"title": "",
-						"similiar_software_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_software_url": "",
-						"category": "Information Technology"
-					},{
-					},{
-						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 						},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 					},{
 					},{
 						"title": "",
-						"similiar_software_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_software_url": "",
-						"category": "Information Technology"
-					},{
-					},{
-						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 						},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
+						"category": "Information Technology"
+					},{
+					},{
+						"title": "",
+						"similiar_solution_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_solution_url": "",
+						"category": "Information Technology"
+					},{
+					},{
+						"title": "",
+						"similiar_solution_url": "",
+						"category": "Information Technology"
+						},{
+						"title": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 					},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 				},{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": "Information Technology"
 					},{
 							}],
@@ -386,9 +386,9 @@
 								"created_year": "2007",
 								"description": "BigBlueButton is an open-source web conferencing platform.",
 								"category_list": ["Information Technology"],
-								"similar_software_list": [{
+								"similar_solution_list": [{
 									"title": "",
-									"similiar_software_url": "",
+									"similiar_solution_url": "",
 									"category": ""
 								}],
 								"licence_list": ["MIT License"],
@@ -422,9 +422,9 @@
 									"created_year": "",
 									"description": "The goal of the FusionIAM Community is to put together open source software used to build a global IAM (Identity and Access Management) solution. Most of the time all the softwares present in the FusionIAM community are well know separately but never in the context of a global IAM solution. FusionIAM project will provide an easy way to deploy and configure the whole stack: LDAP directory, Management interface, White pages, Web Services, Authentication portal, Access control, Synchronization connectorThe goal of the FusionIAM Community is to put together open source software used to build a global IAM (Identity and Access Management) solution.",
 									"category_list": ["Information Technology"],
-									"similar_software_list": [{
+									"similar_solution_list": [{
 										"title": "",
-										"similiar_software_url": "",
+										"similiar_solution_url": "",
 										"category": ""
 									}],
 									"licence_list": ["MIT License"],
