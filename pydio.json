@@ -66,9 +66,9 @@
 		"created_year": "",
 		"description": "Manufacturers rely on a huge number of processes, documentation, and technical notes. Embed Pydio Cells as a cornerstone inside your existing workflow to streamline and securitize document sharing and collaboration. ",
 		"category_list": ["Manufacturing"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Imagen",
-			"similiar_software_url": "https://imagen.io/about/",
+			"similiar_solution_url": "https://imagen.io/about/",
 			"category": "workplace management"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -102,9 +102,9 @@
 	"created_year": "",
 	"description": "Use Pydio to upload, share and collaborate on large files. In your business, you need to exchange and collaborate on huge CAD files and manage piles of documents (field reports, specifications, RFIs, RFPs, etc..).",
 	"category_list": ["Construction"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "wimi",
-		"similiar_software_url ": "https: //www.wimi-teamwork.com/",
+		"similiar_solution_url ": "https: //www.wimi-teamwork.com/",
 		"category": "Construction"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -138,9 +138,9 @@
 	"created_year": "",
 	"description": "Use Pydio as the cornerstone for file-sharing and collaboration in your existing workflow. Healthcare organizations need to centralize, secure, and manage patient data (test results, radiography images, lab protocols, etc…)",
 	"category_list": ["Health and Life Sciences"],
-	"similar_software_list": [{		
+	"similar_solution_list": [{		
 		"title": "oneHub",
-		"similiar_software_url": "https://www.onehub.com/",
+		"similiar_solution_url": "https://www.onehub.com/",
 		"category": "Information Technology"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -174,9 +174,9 @@
 	"created_year": "",
 	"description": "Pydio Cells provides streamlined, secure, self-hosted document sharing and collaboration adapted for the needs of the legal services sector, so you don’t have to choose between teamwork and security.",
 	"category_list": ["Information Technology"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "moveit",
-		"similiar_software_url": "https://www.ipswitch.com/moveit",
+		"similiar_solution_url": "https://www.ipswitch.com/moveit",
 		"category": "Information Technology"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -210,9 +210,9 @@
 	"created_year": "",
 	"description": "Pydio Cells lets you build your own secure document repository for confidential data in hours. Pydio is built for security from the ground up and perfectly balances granular security and admin capabilities with end-user ease-of-use.",
 	"category_list": ["Banking and Finance"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "globalscape EFT",
-		"similiar_software_url": "https://www.globalscape.com/eft",
+		"similiar_solution_url": "https://www.globalscape.com/eft",
 		"category": "Information Technology"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -246,9 +246,9 @@
 	"created_year": "",
 	"description": "Use Pydio as your cross-department and inter-agency file-sharing platform. You are a government agency and you need to collaborate and share internally but also with other departments and agencies, partners, subcontractors, stakeholders, and the public.",
 	"category_list": ["Public Administration and government"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "FileInvite",
-		"similiar_software_url": "https://www.fileinvite.com/",
+		"similiar_solution_url": "https://www.fileinvite.com/",
 		"category": ""
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -282,9 +282,9 @@
 	"created_year": "",
 	"description": "Share documents and collaborate with your teams, clients and subcontractors using your own branded platform. Your business is project-oriented. ",
 	"category_list": ["Media and Communication"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "OnBoard",
-		"similiar_software_url": "https://www.onboardmeetings.com/",
+		"similiar_solution_url": "https://www.onboardmeetings.com/",
 		"category": ""
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -318,9 +318,9 @@
 		"created_year": "",
 		"description": "Pydio provides a secured file sharing solution for sensitive staff and researcher data and an open, public cloud solution for students day-to-day collaboration.",
 		"category_list": ["Academia and research"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "MangoApps",
-			"similiar_software_url": "https://www.mangoapps.com/",
+			"similiar_solution_url": "https://www.mangoapps.com/",
 			"category": ""
 		}],
 		"licence_list": ["GNU AGPLv3.0"],
@@ -354,9 +354,9 @@
 	"created_year": "",
 	"description": "Pydio Cells helps you create, collaborate and share documents and files with your clients seamlessly and securely while keeping full control and ownership of your files.",
 	"category_list": ["Consulting and Training"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "GoAnywhereMFT",
-		"similiar_software_url": "https://www.goanywhere.com/",
+		"similiar_solution_url": "https://www.goanywhere.com/",
 		"category": ""
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
@@ -390,9 +390,9 @@
 	"created_year": "",
 	"description": "Streamline your document sharing and collaboration workflows across all channels. Make it easy for central headquarters to collaborate with distribution, local shops, suppliers, and subcontractors. Instantly share files across all locations to smooth out workflows with your sales points.",
 	"category_list": ["Commerce and Retail"],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "FileCloud",
-		"similiar_software_url": "https://www.filecloud.com/",
+		"similiar_solution_url": "https://www.filecloud.com/",
 		"category": ""
 		}],
 
