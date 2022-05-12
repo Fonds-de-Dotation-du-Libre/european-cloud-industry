@@ -52,21 +52,21 @@
 		"created_year": "",
 		"description": "The ESN encourages collaborators to interact about work projects but also interests in order for them to grow closer, while making sure the informations are properly distributed. eXo Platform's NSE analyzes the engagement, data and contributions to increase and valorize the communication's efficiency.  ",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Slack",
-			"similiar_software_url": "https://slack.com/intl/en-gb/",
+			"similiar_solution_url": "https://slack.com/intl/en-gb/",
 			"category": "Information Technology"
 		}, {
 			"title": "Basecamp",
-			"similiar_software_url": "https://basecamp.com/",
+			"similiar_solution_url": "https://basecamp.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Humhub",
-			"similiar_software_url": "https://www.humhub.com/en",
+			"similiar_solution_url": "https://www.humhub.com/en",
 			"category": "Information Technology"
 		}, {
 			"title": "Jamespot",
-			"similiar_software_url": "https://www.en.jamespot.com/",
+			"similiar_solution_url": "https://www.en.jamespot.com/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU AGPL v3.0"],
