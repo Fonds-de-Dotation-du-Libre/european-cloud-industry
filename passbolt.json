@@ -24,21 +24,21 @@
 		"created_year": "2016",
 		"description": "Passbolt is an API-centric, privacy-focused and developer-first, free and open source password manager that allows team members to store and share credentials securely.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "KeePass",
-			"similiar_software_url": "https://keepass.info/",
+			"similiar_solution_url": "https://keepass.info/",
 			"category": "Password Manager"
 		}, {
 			"title": "Bitwarden",
-			"similiar_software_url": "https://bitwarden.com/",
+			"similiar_solution_url": "https://bitwarden.com/",
 			"category": "Password Manager"
 		}, {
 			"title": "1Password",
-			"similiar_software_url": "https://1password.com/",
+			"similiar_solution_url": "https://1password.com/",
 			"category": "Password Manager"
 		}, {
 			"title": "LastPass",
-			"similiar_software_url": "https://www.lastpass.com/",
+			"similiar_solution_url": "https://www.lastpass.com/",
 			"category": "Password Manager"
 		}],
 		"licence_list": ["AGPL v3.0"],
