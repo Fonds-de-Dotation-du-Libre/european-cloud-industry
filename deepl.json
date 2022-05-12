@@ -53,29 +53,29 @@
 		"created_year": "2017",
 		"description": "Free IA-based translator that makes it the most efficient web translator. Available in 26 languages it performs several times better than its competitors.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solutions_list": [{
 			"title": "Google Translate",
-			"similiar_software_url": "https://translate.google.com",
+			"similiar_solutio_url": "https://translate.google.com",
 			"category": "Information Technology"
 		}, {
 			"title": "Reverso",
-			"similiar_software_url": "https://www.reverso.net/text-translation",
+			"similiar_solution_url": "https://www.reverso.net/text-translation",
 			"category": "Information Technology"
 		}, {
 			"title": "Linguee",
-			"similiar_software_url": "https://www.linguee.com/",
+			"similiar_solution_url": "https://www.linguee.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Systran",
-			"similiar_software_url": "https://www.systran.net/en/translate/",
+			"similiar_solution_url": "https://www.systran.net/en/translate/",
 			"category": "Information Technology"
 		}, {
 			"title": "Unbabel",
-			"similiar_software_url": "https://unbabel.com/",
+			"similiar_solution_url": "https://unbabel.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Catapult",
-			"similiar_software_url": "https://taia.io/catapult/",
+			"similiar_solution_url": "https://taia.io/catapult/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["MIT"],
@@ -95,9 +95,9 @@
 			"created_year": "2018",
 			"description": "IA-based translator thought for companies, allowing the secured translation of entire documents, customizable to better fit the requirements and vocabulary of each company.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Memoq",
-				"similiar_software_url": "https://www.memoq.com/",
+				"similiar_solution_url": "https://www.memoq.com/",
 				"category": "Information Technology"
 			}],
 			"licence_list": ["MIT"],
