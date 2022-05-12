@@ -24,13 +24,13 @@
     "created_year": "2019",
     "description": "REPLICATION MANAGER is an orchestrator for high availability on top of MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies. Including topology detection and topology monitoring, enabling on-demand slave to master promotion (also known as switchover), or electing a new master on failure detection (also known as failover). It enforces best practices to get at a minimum up to zero loss in most failure cases.",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "OneTrust",
-      "similiar_software_url": "https://www.onetrust.com/",
+      "similiar_solution_url": "https://www.onetrust.com/",
       "category": ""
     },{
       "title": "Diligent",
-      "similiar_software_url": "https://www.diligent.com/",
+      "similiar_solution_url": "https://www.diligent.com/",
       "category": ""
     }],
     "licence_list": ["GPL"],
