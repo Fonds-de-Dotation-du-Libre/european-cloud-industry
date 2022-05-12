@@ -31,25 +31,25 @@
 		"created_year": "2010",
 		"description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Github",
-			"similiar_software_url": "https://github.com/",
+			"similiar_solution_url": "https://github.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "GitLab",
-			"similiar_software_url": "https://about.gitlab.com/",
+			"similiar_solution_url": "https://about.gitlab.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Gitea",
-			"similiar_software_url": "https://gitea.com/",
+			"similiar_solution_url": "https://gitea.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Jira",
-			"similiar_software_url": "https://www.atlassian.com/software/jira",
+			"similiar_solution_url": "https://www.atlassian.com/software/jira",
 			"category": "Information Technology"
 		}, {
 			"title": "Kanboard",
-			"similiar_software_url": "https://kanboard.org/",
+			"similiar_solution_url": "https://kanboard.org/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GPL v.2"],
