@@ -66,21 +66,21 @@
 		"created_year": "2015",
 		"description": "OpenIO Object Storage is open core: the heart of the solution and the object APIs are open source. This guarantees the long-term availability of the solution and gives your engineers the opportunity to delve into our technology at any time, to really understand how it works.",
 		"category_list": ["information technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Amazon simple Storage Service",
-			"similiar_software_url": "https://aws.amazon.com/s3/",
+			"similiar_solution_url": "https://aws.amazon.com/s3/",
 			"category": "Information Technology"
 		}, {
 			"title": "MinIO",
-			"similiar_software_url": "https://min.io/",
+			"similiar_solution_url": "https://min.io/",
 			"category": "Information Technology"
 		}, {
 			"title": "Google Cloud Storage",
-			"similiar_software_url": "https://cloud.google.com/storage",
+			"similiar_solution_url": "https://cloud.google.com/storage",
 			"category": "Information technology"
 		}, {
 			"title": "Veeame One",
-			"similiar_software_url": "https://www.veeam.com/virtualization-management-one-solution.html",
+			"similiar_solution_url": "https://www.veeam.com/virtualization-management-one-solution.html",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["AGPL3", "LGPL3 "],
