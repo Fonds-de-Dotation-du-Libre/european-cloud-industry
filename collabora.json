@@ -116,25 +116,25 @@
 		"created_year": "2016",
 		"description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "LibreOffice",
-			"similiar_software_url": "https://www.libreoffice.org/",
+			"similiar_solution_url": "https://www.libreoffice.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "Google Docs",
-			"similiar_software_url": "https://www.docs.google.com/",
+			"similiar_solution_url": "https://www.docs.google.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Apache OpenOffice",
-			"similiar_software_url": "https://www.openoffice.org/",
+			"similiar_solution_url": "https://www.openoffice.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "Microsoft Office Suite",
-			"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
+			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
 			"category": "Information Technology"
 		}, {
 			"title": "WPS Office",
-			"similiar_software_url": "https://www.wps.com/",
+			"similiar_solution_url": "https://www.wps.com/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["MPL 2.0"],
