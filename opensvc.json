@@ -59,13 +59,13 @@
 		"created_year": "2019",
 		"description": "OpenSVC is a Open Source software product and the name of the commercial entity developping and supporting it.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "rudder",
-			"similiar_software_url":"https://www.rudder.io/",
+			"similiar_solution_url":"https://www.rudder.io/",
 			"category": ""
 			}, {
 			"title": "ZEVENET",
-      			"similiar_software_url":"https://www.zevenet.com/about-us/",
+      			"similiar_solution_url":"https://www.zevenet.com/about-us/",
 			"category": ""
 		}],
 		"licence_list": "GNU General Public License v2",
