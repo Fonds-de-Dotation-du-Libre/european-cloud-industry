@@ -32,13 +32,13 @@
     "created_year": "2013",
     "description": "MirageOS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Remprun",
-      "similiar_software_url": "https://github.com/rumpkernel/rumprun.git",
+      "similiar_solution_url": "https://github.com/rumpkernel/rumprun.git",
       "category": "Information Technology"
     },{
       "title": "OSv",
-      "similiar_software_url": "http://osv.io/",
+      "similiar_solution_url": "http://osv.io/",
       "category": "Information Technology"
     }],
     "licence_list": ["LGPLv2","ISC"],
