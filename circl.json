@@ -24,13 +24,13 @@
     "created_year": "2011",
     "description": " MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "HELK",
-      "similiar_software_url": "https://thehelk.com/intro.html",
+      "similiar_solution_url": "https://thehelk.com/intro.html",
       "category": "Information Technology"
     },{
       "title": "sqhunter",
-      "similiar_software_url": "https://github.com/0x4D31/sqhunter.git",
+      "similiar_solution_url": "https://github.com/0x4D31/sqhunter.git",
       "category": "Information Technology"
     }],
     "licence_list": ["AGPL v3.0"],
