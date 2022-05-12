@@ -24,17 +24,17 @@
     "created_year": "",
     "description": "LizardFS – Software Defined Storage is a distributed, scalable, fault-tolerant, and highly available file system. It allows combining disk space located on several servers into a single namespace visible on Unix-like and Windows systems in the same way as other file systems.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solutioj_list": [{
       "title": "SeaweedFS",
-      "similiar_software_url": "https://github.com/chrislusf/seaweedfs",
+      "similiar_solution_url": "https://github.com/chrislusf/seaweedfs",
       "category": "Information Technology"
     },{
       "title": "Ceph",
-      "similiar_software_url": "https://ceph.com/en/",
+      "similiar_solution_url": "https://ceph.com/en/",
       "category": "Information Technology"
     },{
       "title": "XtreemFS",
-      "similiar_software_url": "http://www.xtreemfs.org/",
+      "similiar_solution_url": "http://www.xtreemfs.org/",
       "category": "Information Technology"  
     }],
     "licence_list": ["GPL-v3.0"],
