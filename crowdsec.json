@@ -66,17 +66,17 @@
 		"created_year": "2019",
 		"description": "CrowdSec is a free, open-source and collaborative IPS. Analyze behaviors, respond to attacks & share signals across the community",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Check Point Next Generation Firewalls",
-			"similiar_software_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
+			"similiar_solution_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
 			"category": "Information Technology"
 		}, {
 			"title": "Sumo logic",
-			"similiar_software_url": "https://www.sumologic.com/",
+			"similiar_solution_url": "https://www.sumologic.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "PfSense",
-			"similiar_software_url": "https://www.pfsense.org/",
+			"similiar_solution_url": "https://www.pfsense.org/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["MIT License"],
