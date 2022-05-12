@@ -38,21 +38,21 @@
 		"created_year": "",
 		"description": "Facilitate the secure sharing of data and the provision of data-related services to build data partnerships, foster innovation and stimulate value creation.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Crunchbase",
-			"similiar_software_url": "https://www.crunchbase.com/",
+			"similiar_solution_url": "https://www.crunchbase.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "PartnerLinQ",
-			"similiar_software_url": "https://www.partnerlinq.net/",
+			"similiar_solution_url": "https://www.partnerlinq.net/",
 			"category": "Information Technology"
 		}, {
 			"title": "Weld",
-			"similiar_software_url": "https://weld.app/",
+			"similiar_solution_url": "https://weld.app/",
 			"category": "Information Technology"
 		}, {
 			"title": "Explorium",
-			"similiar_software_url": "https://www.explorium.ai/",
+			"similiar_solution_url": "https://www.explorium.ai/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["Proprietary"],
