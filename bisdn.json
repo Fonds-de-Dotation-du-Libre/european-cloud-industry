@@ -59,9 +59,9 @@
 		"created_year": "",
 		"description": "The open source operating system for whitebox switches. Turns your switch into an SDN switch with an Open Flow interface, or – alternatively- you can have the SDN controller directly on the switch. ",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -95,9 +95,9 @@
 		"created_year": "",
 		"description": "We have built a virtual Broadband Remote Access Server (vBRAS) prototype, based on the CUPS approach (Control User Plane Separation). ",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -131,9 +131,9 @@
 		"created_year": "",
 		"description": "In our capacity as Certified Integration Partner (CIP) for Tibit Communications, we have set up a lab in Berlin. Here we are showcasing the interoperability of the pluggable OLTs (Optical Line Terminals) with various switch platforms and with ONUs (Optical Network Units)",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -167,9 +167,9 @@
 		"created_year": "",
 		"description": "We address the challenges of enhanced packet processing on non-ASIC environments and generic compute platforms with our eXtensible DataPath Daemon (xdpd) – a datapath framework that supports various packet processing platforms.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -203,9 +203,9 @@
 		"created_year": "",
 		"description": "For those working on solutions in OpenFlow,  our Revised OpenFlow Library (rofl) facilitates the development of controllers and datapath elements. Roflcommon is a C++ library offering a generic OpenFlow endpoint. Rofl-datapath is an ASNI-C implementation of an OpenFlow pipeline.  It is easily portable to multiple compute and switching platforms, including ARM, MIPS and FPGA.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
