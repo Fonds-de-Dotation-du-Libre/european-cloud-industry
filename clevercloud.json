@@ -66,29 +66,29 @@
 		"created_year": "",
 		"description": "A fully managed Elastic stack cluster in platinum version, with monitoring, backups and migration tools.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Solr",
-			"similiar_software_url": "https://solr.apache.org/",
+			"similiar_solution_url": "https://solr.apache.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "InfluxDB",
-			"similiar_software_url": "https://www.influxdata.com/",
+			"similiar_solution_url": "https://www.influxdata.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "TypeSense",
-			"similiar_software_url": "https://typesense.org/",
+			"similiar_solution_url": "https://typesense.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "Algolia",
-			"similiar_software_url": "https://www.algolia.com/",
+			"similiar_solution_url": "https://www.algolia.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Sphinx",
-			"similiar_software_url": "http://www.sphinxsearch.com/",
+			"similiar_solution_url": "http://www.sphinxsearch.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Amazon Cloud Search",
-			"similiar_software_url": "https://aws.amazon.com/fr/cloudsearch/",
+			"similiar_solution_url": "https://aws.amazon.com/fr/cloudsearch/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["licence Apache 2.0"],
@@ -122,21 +122,21 @@
 		"created_year": "",
 		"description": "A fully cloud managed MongoDB hosting, with monitoring, backups and migration tools.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Hostwinds",
-			"similiar_software_url": "https://www.hostwinds.com/",
+			"similiar_solution_url": "https://www.hostwinds.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "InterServer",
-			"similiar_software_url": "https://www.interserver.net/",
+			"similiar_solution_url": "https://www.interserver.net/",
 			"category": "Information Technology"
 		}, {
 			"title": "Kamatera",
-			"similiar_software_url": "https://www.kamatera.com/",
+			"similiar_solution_url": "https://www.kamatera.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "LiquidWeb",
-			"similiar_software_url": "LiquidWeb.com",
+			"similiar_solution_url": "LiquidWeb.com",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -170,9 +170,9 @@
 		"created_year": "A fully managed MySQL service, with monitoring, backups and migration tools.",
 		"description": "",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Microsoft Azure",
-			"similiar_software_url": "https://azure.microsoft.com/fr-fr/",
+			"similiar_solution_url": "https://azure.microsoft.com/fr-fr/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -206,9 +206,9 @@
 		"created_year": "",
 		"description": "Deploy PostgreSQL applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -242,9 +242,9 @@
 		"created_year": "",
 		"description": "A fully managed Redis service, with monitoring, backups and migration tools.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -278,9 +278,9 @@
 		"created_year": "",
 		"description": "An object storage service that is performant, economic and easy to use.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -314,9 +314,9 @@
 		"created_year": "",
 		"description": "This is Apache Pulsar on demand: a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API. Clever Cloud provides and manages a Pulsar instance for you, so you don't have to spend time on backups, upgrades or deployment.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -350,9 +350,9 @@
 		"created_year": "",
 		"description": "Deploy your Docker applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -386,9 +386,9 @@
 		"created_year": "",
 		"description": "Deploy your Golang applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -422,9 +422,9 @@
 		"created_year": "",
 		"description": "Deploy your Haskell applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -458,9 +458,9 @@
 		"created_year": "",
 		"description": "Host your Java Application Hassle Free",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -494,9 +494,9 @@
 		"created_year": "",
 		"description": "Deploy your Node.JS applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -530,9 +530,9 @@
 		"created_year": "",
 		"description": "Deploy your PHP Apps on a Resilient PaaS",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -566,9 +566,9 @@
 		"created_year": "",
 		"description": "Deploy your Python applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -602,9 +602,9 @@
 		"created_year": "",
 		"description": "Deploy your Ruby applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -638,9 +638,9 @@
 		"created_year": "",
 		"description": "Deploy your Rust applications",
 		"category_list": ["Information Techology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -674,9 +674,9 @@
 		"created_year": "",
 		"description": "Deploy your Scala applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -710,9 +710,9 @@
 		"created_year": "",
 		"description": "Deploy your .NET applications",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
