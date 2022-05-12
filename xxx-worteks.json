@@ -57,60 +57,315 @@
     "commercial_support_available": "Yes",
     "wikipedia_url": "",
     "reference_list": [{
-      "title": "Red Hat",
+      "title": "ACMS",
       "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
-      "country": "US",
-      "industry": "Information Technology"
-},{
-      "title": "Auchan",
-      "logo_url": "https://www.auchan.fr/content-renderer/sav_2022.3.2-1/images/auchan-logo-desktop.svg",
       "country": "FR",
-      "industry": "Commerce and Retail"
-},{
+      "industry": ""
+    },{
+      "title": "CDC Habitat",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Housing and Real Estate"
+    },{
+      "title": "Agirc-Arrco",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
       "title": "Airbus",
       "logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
       "country": "FR",
       "industry": "Aviation and Aerospace"
-},{
+    },{
      "title": "Alstom",
       "logo_url": "https://www.alstom.com/sites/alstom.com/files/styles/560w/public/2019/07/11/Alstom_mobility_by_nature_2019.jpg?itok=icP1Tbnd",
       "country": "FR",
       "industry": "Transport"
-},{
+    },{
+      "title": "Altice",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Telecommunication"
+    },{
       "title": "Amadeus",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amadeus_%28CRS%29_Logo.svg/2560px-Amadeus_%28CRS%29_Logo.svg.png",
       "country": "ES",
       "industry": "Travel and Tourism"
-},{
-      "title": "Société Générale",
-      "logo_url": "https://www.societegenerale.com/sites/default/files/logo-societe-generale.png",
+    },{
+      "title": "ANFR",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
       "country": "FR",
-      "industry": "Banking and Finance"
-},{
-      "title": "Atos",
-      "logo_url": "https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.png",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Agence du Numérique en Sante",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
       "country": "FR",
-      "industry": "Information Technology"
-},{
+      "industry": "Public Administration and Government"
+    },{
       "title": "Assistance Publique des Hôpitaux de Paris",
       "logo_url": "https://gestions-hospitalieres.fr/wp-content/uploads/2016/10/logo-aphp.jpg",
       "country": "FR",
       "industry": "Health and Life Sciences"
-},{
-      "title": "Université Paris Dauphine",
-      "logo_url": "https://dauphine.psl.eu/typo3conf/ext/dauphine/Resources/Public/assets/img/logo/logo_white.svg",
+    },{
+      "title": "Arval",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "Atos",
+      "logo_url": "https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.png",
+      "country": "FR",
+      "industry": "Information Technology"
+    },{
+      "title": "Auchan",
+      "logo_url": "https://www.auchan.fr/content-renderer/sav_2022.3.2-1/images/auchan-logo-desktop.svg",
+      "country": "FR",
+      "industry": "Commerce and Retail"
+    },{
+      "title": "Aviva",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
+      "title": "Axa",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
+      "title": "Banque de France",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "BIS",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "CH",
+      "industry": "Banking and Finance"
+    },{
+      "title": "BNP Paribas",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "BNP Paribas Learning Solutions",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "Groupe BPCE",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": ""
+    },{
+      "title": "BPI France",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "BRED-Banque Populaire",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "Bruxelles Formation",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "BE",
+      "industry": "Education"
+    },{
+      "title": "Campus Condorcet",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
       "country": "FR",
       "industry": "Academia and Research"
-},{
-      "title": "Orange",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+    },{
+      "title": "Cap Gemini",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
       "country": "FR",
-      "industry": "Telecommunication"
-},{
+      "industry": "Consulting and Training"
+    },{
+      "title": "Chronopost",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Transport"
+    },{
+      "title": "Clermont Auvergne Métropole",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Allocations Familales",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Ameli",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
+      "title": "CNES",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Aviation and Aerospace"
+    },{
+      "title": "CSTB",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Construction"
+    },{
+      "title": "Cité Internationale Universitaire de Paris",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Academia and Research"
+    },{
+      "title": "Finances Publiques",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Douanes & Droits Indirects",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "EDF",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Energy and Utilities"
+    },{
+      "title": "Enedis",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Energy and Utilities"
+    },{
+      "title": "Europcar",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Transport"
+    },{
+      "title": "Fédération des Entreprises Romandes (Genève)",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "CH",
+      "industry": "Associations and NGOs"
+    },{
       "title": "Institut Pasteur",
       "logo_url": "https://www.pasteur.fr/sites/default/files/institut-pasteur-logo-2020.png",
       "country": "FR",
       "industry": "Health and Life Sciences"
+    },{
+      "title": "MACIF",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
+      "title": "Ville de Marseille",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Ministère de l'Économie des Finances et de la Rélance",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Ministère des Armées",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Ministère de l'Intérieur",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Ministère de l'Agriculture et de l'Alimentation",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Ministère de l'Éducation nationale de la jeunesse et des sports",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Montpellier Métropole",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Nates Métropole",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Nevers",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Orange",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+      "country": "FR",
+      "industry": "Telecommunication"
+    },{
+      "title": "Red Hat",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Région Normandie",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Métropole Rennes",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Société Générale",
+      "logo_url": "https://www.societegenerale.com/sites/default/files/logo-societe-generale.png",
+      "country": "FR",
+      "industry": "Banking and Finance"
+    },{
+      "title": "Sopra-Steria",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Construction"
+    },{
+      "title": "SPB",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Insurance"
+    },{
+      "title": "Thales",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Defense"
+    },{
+      "title": "The Open Group",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Université Paris Dauphine",
+      "logo_url": "https://dauphine.psl.eu/typo3conf/ext/dauphine/Resources/Public/assets/img/logo/logo_white.svg",
+      "country": "FR",
+      "industry": "Academia and Research"
+    },{
+      "title": "Université de Lille",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Academia and Research"
+    },{
+      "title": "Villeurbanne",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Public Administration and Government"
+    },{
+      "title": "Wikimedia France ",
+      "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+      "country": "FR",
+      "industry": "Information Technology"
     }],
     "success_case_list": []
  },{
@@ -172,8 +427,7 @@
     "commercial_support_open_source_version": "No",
     "commercial_support_available": "No",
     "wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
-    "reference_list": [],
-    "success_case_list": [{
+    "reference_list": [{
       "title": "Abuledu",
       "logo_url": "https://lemonldap-ng.org/images/logos/logo_abuledu.png",
       "country": "FR",
@@ -303,6 +557,7 @@
       "logo_url": "https://lemonldap-ng.org/images/logos/logo_villeurbanne.png",
       "country": "FR",
       "industry": "Public Administration and Government"
-    }]
+    }],
+    "success_case_list": []
   }]
 }
