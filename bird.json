@@ -66,21 +66,21 @@
 		"created_year": "2000",
 		"description": "The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "FRRouting",
-			"similiar_software_url": "https://frrouting.org/",
+			"similiar_solution_url": "https://frrouting.org/",
 			"category": "Information Technology "
 		},{
 			"title": "Quagga",
-			"similiar_software_url": "https://www.quagga.net/",
+			"similiar_solution_url": "https://www.quagga.net/",
 			"category": "Information Technology"
 		},{
 			"title": "FreeRouter",
-			"similiar_software_url": "https://freerouting.org/",
+			"similiar_solution_url": "https://freerouting.org/",
 			"category": "Information Technology"
 		},{
 			"title": "Xorp",
-			"similiar_software_url": "http://xorp.com/",
+			"similiar_solution_url": "http://xorp.com/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU General Public License"],
