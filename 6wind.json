@@ -19,23 +19,23 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "9",
-		"earnings": "703270",
-		"total_assets": "1094494",
-		"revenues": "1870645",
+		"earnings": "703270€",
+		"total_assets": "1094494€",
+		"revenues": "1870645€",
 		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}, {
 		"year": "2019",
 		"staff": "9",
-		"earnings": "415850",
-		"total_assets": "591225",
-		"revenues": "1531379",
+		"earnings": "415850€",
+		"total_assets": "591225€",
+		"revenues": "1531379€",
 		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}, {
 		"year": "2018",
 		"staff": "8",
-		"earnings": "363411",
-		"total_assets": "375374",
-		"revenues": "1159508",
+		"earnings": "363411€",
+		"total_assets": "375374€",
+		"revenues": "1159508€",
 		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}],
 	"solution_list": [{
