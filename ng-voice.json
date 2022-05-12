@@ -24,17 +24,17 @@
     "created_year": "",
     "description": "the virtualized and cloud-native IMS core is the first 100% containerized and Kubernetes-based fully-fledged IMS solution, allowing deployment on bare metal (private), public, and hybrid cloud environments",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Cloud IMS",
-      "similiar_software_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
+      "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
       "category": ""
     },{
       "title": "IMS",
-      "similiar_software_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
+      "similiar_solution_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
       "category": ""
     },{
       "title": "Cloud-native IMS",
-      "similiar_software_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
+      "similiar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
       "category": ""
     }],
     "licence_list": "",
@@ -54,13 +54,13 @@
     "created_year": "",
     "description": "The PCRF dynamically allocates and manages bandwidth requirements for various use-cases. ng-voice’s version is currently only a light-weight PCRF, fulfilling the necessary functions to provide a VoLTE service",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Service-Aware Policy Controller (SAPC)",
-      "similiar_software_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-unified-data-management-and-policy/policy-control/service-aware-policy-controller",
+      "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-unified-data-management-and-policy/policy-control/service-aware-policy-controller",
       "category": ""
        },{
       "title": "Nokia Policy Controller",
-      "similiar_software_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
+      "similiar_solution_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
       "category": ""
     }],
     "licence_list": "",
@@ -80,7 +80,7 @@
     "created_year": "",
     "description": "Our application servers provide the full range of supplementary services.",
     "category_list": "",
-    "similar_software_list": "",
+    "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
     "source_code_profile": "",
