@@ -1,19 +1,19 @@
 {
   "created": "2022-04-08",
   "title": "Vates",
-  "type": "Other",
+  "type": "Corporation",
   "logo_url": "https://vates.fr/img/bg-img/logovates.png",
   "location": {
-    "title": "Vates",
+    "title": "Vates SAS",
     "address": "17 rue Aimé Berey",
     "postal_code": "38000",
     "city": "Grenoble",
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "",
-    "coordinate_list": ["45.18926731267973, 5.709716628656718"]
+    "coordinate_list": [45.18926731267973, 5.709716628656718]
   },
-  "subsidiary_location_list": "",
+  "subsidiary_location_list": [],
   "website_url": "https://vates.fr/",
   "founded_year": "2012",
   "kpi_list": [{
@@ -65,72 +65,81 @@
     "website_url": "https://xcp-ng.org/",
     "created_year": "2018",
     "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
-    "category_list": "",
+    "category_list": ["Service lifecycle automation", "Storage and database"],
     "similar_solution_list": [{
       "title": "VM Ware",
       "similiar_solution_url": "https://www.virtualbox.org/",
-      "category": ""
+      "category": "Service lifecycle automation"
     },{
       "title": "Proxmox Virtual Environment",
-      "similiar_solution_url": "https://www.proxmox.com/en/proxmox-ve",
-      "category": ""
-      }],
-    "licence_list": ["GNU version 2"],
-    "source_code_download": "https://github.com/orgs/xcp-ng/repositories",
-    "source_code_profile": "https://www.openhub.net/p/xenserver",
-    "commercial_support_url": "https://xcp-ng.com/",
+      "similiar_solution_url": "https://www.proxmox.com/",
+      "category": "Service lifecycle automation"
+    },{
+      "title": "SlapOS",
+      "similiar_solution_url": "https://slapos.nexedi.com/",
+      "category": "Service lifecycle automation"
+    }],
+    "licence_list": ["GPL v2"],
+    "source_code_download": "https://github.com/xcp-ng/xcp",
+    "source_code_profile": "",
+    "commercial_support_url": "https://xcp-ng.com/service.html",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/XCP-ng",
-    "reference_list": [{
-      "title": "Laptop Pitstop",
-      "logo_url": "https://www.laptop-pitstop.net/wp-content/uploads/2018/05/logo-Website.png",
-      "country": "UK",
-      "industry": "Computer repair service"
-      },{
-      "title": "HostingAdvice",
-      "logo_url": "https://www.hostingadvice.com/images/themes/ha-desktop/images/logos/ha-logo-2x.png?width=308&height=38",
-      "country": "US",
-      "industry": "web hosting"
-      }],
-      "success_case_list": ""
-    },{
+    "reference_list": [],
+     "success_case_list": []
+  },{
     "title": "Xen Orchestra",
     "logo_url": "https://xen-orchestra.com/assets/logo.png",
     "website_url": "https://xen-orchestra.com/#!/xo-home",
     "created_year": "",
     "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
-    "category_list": "",
+    "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
       "title": "Vagrant",
       "similiar_solution_url": "https://www.vagrantup.com/",
       "category": ""
     }],
-    "licence_list": ["AGPL3"],
+    "licence_list": ["GPL v3+"],
     "source_code_download": "https://github.com/vatesfr/xen-orchestra/",
-    "source_code_profile": "https://www.openhub.net/p/xen-orchestra",
+    "source_code_profile": "https://www.openhub.net/p/xen-orchestra/analyses/latest/languages_summary",
     "commercial_support_url": "https://xen-orchestra.com/#!/xo-features/support",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
     "wikipedia_url": "",
     "reference_list": [{
-      "title": "Citrix Systems",
-      "logo_url": "https://www.citrix.com/content/dam/citrix61/en_us/images/logos/citrix/citrix-logo-black.png",
+      "title": "TSystems",
+      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/t-systems-small.png",
+      "country": "DE",
+      "industry": "Telecommunication"
+    },{
+      "title": "Boku",
+      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/bokulogo-small.png",
       "country": "US",
-      "industry": "Cloud computing"
-      },{
-      "title": "ASWAT Telecom",
-      "logo_url": "",
-      "country": "AE",
-      "industry": "Cloud computing"
-      },{
-      "title": "HostingAdvice",
-      "logo_url": "https://www.hostingadvice.com/images/themes/ha-desktop/images/logos/ha-logo-2x.png?width=308&height=38",
+      "industry": "Banking and Finance"
+    },{
+      "title": "CGI",
+      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/cgi-small.png",
+      "country": "CA",
+      "industry": "Consulting and Training"
+    },{
+      "title": "Upwork",
+      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/upwork-small.png",
       "country": "US",
-      "industry": "web hosting"
-      }],
-      "success_case_list": ""
+      "industry": "Information Technology"
+    },{
+      "title": "USGS",
+      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/usgs-small.png",
+      "country": "US",
+      "industry": "Academia and Research"
+    },{
+      "title": "Valve",
+      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/valve-small.png",
+      "country": "US",
+      "industry": "Media and Entertainment"
+    }],
+    "success_case_list": []
   }]
 }
