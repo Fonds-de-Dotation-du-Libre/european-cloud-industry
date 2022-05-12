@@ -155,7 +155,42 @@
 			"logo_url": "",
 			"country": "FR",
 			"industry": "Banking and Finance"
-		}],
+		},{
+			"title": "Ministère des armées",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Ministère de l'éducation nationale, de l'enseignement supérieur et de la Recherche",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Pôle Emploi",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "France TV",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		},{
+			"title": "TENNIS Comité Hauts de Seine",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Club de sport, Coeur du Sport",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "FFBAD",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		}]
 		"success_case_list": []
 	}]
 }
