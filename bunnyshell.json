@@ -24,13 +24,13 @@
     "created_year": "",
     "description": "Bunnyshell is an Environments as a Service platform that makes it incredibly easy to create and manage full-stack environments for development, staging and production so your team can deliver software faster and focus on building great products. ",
     "category_list": [],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Cloudways",
-      "similiar_software_url": "https://www.cloudways.com/en/",
+      "similiar_solution_url": "https://www.cloudways.com/en/",
       "category": ""
     },{
       "title": "Amazon CloudWatch",
-      "similiar_software_url": "https://aws.amazon.com/fr/cloudwatch/",
+      "similiar_solution_url": "https://aws.amazon.com/fr/cloudwatch/",
       "category": ""
     }],
     "licence_list": [""],
