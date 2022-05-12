@@ -24,13 +24,13 @@
 		"created_year": "",
 		"description": "AMARI Callbox is the ideal solution for testing 5G NSA and SA, LTE, LTE-M and NB-IoT devices.  It acts as a 3GPP compliant eNB/gNB and EPC/5GC allowing functional and performance testing. ",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Nutaq PicoLTE",
-			"similiar_software_url":"https://nutaq.com/fr/",
+			"similiar_solution_url":"https://nutaq.com/fr/",
 			"category": ""
 			}, {
 			"title": "Valid8 UE emulator",
-      			"similiar_software_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
+      			"similiar_solution_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -50,13 +50,13 @@
 		"created_year": "",
 		"description": "AMARI UE Simbox is an ideal solution to support functional and performance testing of LTE eNodeB, 5G NR gNodeB in NSA or SA mode as well as LTE and 5G core networks. The major enhancement for AMARI Simbox E Series compared to AMARI UE Simbox Series is the support of 100 MHz cells.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "ABot",
-			"similiar_software_url":"https://www.rebaca.com/telecom/solutions#",
+			"similiar_solution_url":"https://www.rebaca.com/telecom/solutions#",
 			"category": ""
 			}, {
 			"title": "dsTest",
-      			"similiar_software_url":"https://www.developingsolutions.com/products/about-dstest/",
+      			"similiar_solution_url":"https://www.developingsolutions.com/products/about-dstest/",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -76,13 +76,13 @@
 		"created_year": "",
 		"description": "An Amarisoft based 4G, NB-IoT or 5G small cell is simply a Radio Front End added to a mother board running our software! Get advanced features and unmatched number of scheduled UEs on a compact form factor",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Indoor Small cell 5G network AIR 1279",
-			"similiar_software_url":"https://www.ericsson.com/en/small-cells/indoor-coverage",
+			"similiar_solution_url":"https://www.ericsson.com/en/small-cells/indoor-coverage",
 			"category": ""
 			}, {
 			"title": "Garuda",
-      			"similiar_software_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
+      			"similiar_solution_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -102,13 +102,13 @@
 		"created_year": "",
 		"description": "Cost effective, multi-sector and carrier grade Base Band Unit (BBU) and Remote Radio Head (RRH) supporting TDD and FDD, achieving 400 Mbps per Sector thanks to MIMO4x4 technology and 256QAM modulation.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Macrocell solutions",
-			"similiar_software_url":"https://www.tessco.com/commercial/solutions/macrocell-solutions",
+			"similiar_solution_url":"https://www.tessco.com/commercial/solutions/macrocell-solutions",
 			"category": ""
 			}, {
 			"title": "Macrocell sites",
-     			"similiar_software_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
+     			"similiar_solution_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -128,13 +128,13 @@
 		"created_year": "",
 		"description": "Amarisoft based Base Station can also run a local compact EPC and 5G Core. Deploying in a few minutes a node acting as an LTE or 5G access point.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "LTE/5G products",
-			"similiar_software_url":"https://mikrotik.com/products/group/lte-5g-products",
+			"similiar_solution_url":"https://mikrotik.com/products/group/lte-5g-products",
 			"category": ""
           		},{
       			"title": "LTE",
-    	  		"similar_software_url": "https://www.anritsu.com/en-gb/test-measurement/technologies/lte"
+    	  		"similar_solution_url": "https://www.anritsu.com/en-gb/test-measurement/technologies/lte"
 			}],
 		"licence_list": "",
 		"source_code_download": "",
@@ -153,9 +153,9 @@
 		"created_year": "",
 		"description": "Partner’s private networks can fit Entreprise and Mission Critical requirement with the agility of software based solution.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Private Networks",
-			"similiar_software_url":"https://www.scaleway.com/en/private-networks/",
+			"similiar_solution_url":"https://www.scaleway.com/en/private-networks/",
 			"category": ""
 		}],
 		"licence_list": "",
@@ -175,17 +175,17 @@
 		"created_year": "",
 		"description": "Adding a multi carrier eNodeB or gNodeB to a DAS system allows a simple S1 or N2 connection to the core network",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "ION-U",
-			"similiar_software_url":"https://www.commscope.com/product-type/in-building-cellular-systems/distributed-antenna-systems-das/ion-u/",
+			"similiar_solution_url":"https://www.commscope.com/product-type/in-building-cellular-systems/distributed-antenna-systems-das/ion-u/",
 			"category": ""
 			}, {
 			"title": "idDAS",
-      			"similiar_software_url":"https://axellwireless.com/product/iddas/",
+      			"similiar_solution_url":"https://axellwireless.com/product/iddas/",
 			"category": ""
     			}, {
       			"title": "DAS",
-      			"similar_software_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
+      			"similar_solution_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
       			"category": ""
 		}],
 		"licence_list": "",
@@ -205,13 +205,13 @@
 		"created_year": "",
 		"description": "Our expertise on RAN software allows us to provide one of the most advanced 4G and 5G vRAN solution in the industry",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Open vRAN",
-			"similiar_software_url":"https://blogs.cisco.com/sp/open-vran-collaboration-to-accelerate-solution-deployments",
+			"similiar_solution_url":"https://blogs.cisco.com/sp/open-vran-collaboration-to-accelerate-solution-deployments",
 			"category": ""
 			}, {
 			"title": "vRAN",
-      			"similiar_software_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
+      			"similiar_solution_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
 			"category": ""
 		}],
 		"licence_list": "",
