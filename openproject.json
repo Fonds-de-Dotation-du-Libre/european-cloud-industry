@@ -109,53 +109,53 @@
 		"description": "The product Roadmap communicates what you are building and why you are working on this, providing an overview across multiple projects, a visual timeline to witness the progress, analyzes statuses, priorities assignments to only provide informations to authorized users.",
 		"category_list": ["Information Technology"]
 	}],
-	"similar_software_list": [{
+	"similar_solution_list": [{
 		"title": "Monday.com",
-		"similiar_software_url": "https://monday.com/",
+		"similiar_solution_url": "https://monday.com/",
 		"category": "Information Technology"
 	}, {
 		"title": "Trello",
-		"similiar_software_url": "https://trello.com/home",
+		"similiar_solution_url": "https://trello.com/home",
 		"category": "Information Technology"
 	}, {
 		"title": "Project Manager",
-		"similiar_software_url": "https://www.projectmanager.com/",
+		"similiar_solution_url": "https://www.projectmanager.com/",
 		"category": "Information Technology"
 	}, {
 		"title": "Basecamp",
-		"similiar_software_url": "https://basecamp.com/",
+		"similiar_solution_url": "https://basecamp.com/",
 		"category": "Information Technology"
 	}, {
 		"title": "Redmine",
-		"similiar_software_url": "https://www.redmine.org/",
+		"similiar_solution_url": "https://www.redmine.org/",
 		"category": "Information Technology"
 	}, {
 		"title": "Asana",
-		"similiar_software_url": "https://asana.com/",
+		"similiar_solution_url": "https://asana.com/",
 		"category": "Information Technology"
 	}, {
 		"title": "ZenTao",
-		"similiar_software_url": "https://www.zentao.pm/",
+		"similiar_solution_url": "https://www.zentao.pm/",
 		"category": "Information Technology"
 	}, {
 		"title": "Campr",
-		"similiar_software_url": "https://campr.biz/",
+		"similiar_solution_url": "https://campr.biz/",
 		"category": "Information Technology"
 	}, {
 		"title": "Roadmap Planner",
-		"similiar_software_url": "https://www.roadmap-planner.io/",
+		"similiar_solution_url": "https://www.roadmap-planner.io/",
 		"category": "Information Technology"
 	}, {
 		"title": "Jira",
-		"similiar_software_url": "https://www.atlassian.com/software/jira",
+		"similiar_solution_url": "https://www.atlassian.com/software/jira",
 		"category": "Information Technology"
 	}, {
 		"title": "Wrike",
-		"similiar_software_url": "https://www.wrike.com/vm/",
+		"similiar_solution_url": "https://www.wrike.com/vm/",
 		"category": "Information Technology"
 	}, {
 		"title": "TeamGantt",
-		"similiar_software_url": "https://www.teamgantt.com/",
+		"similiar_solution_url": "https://www.teamgantt.com/",
 		"category": "Information Technology"
 	}],
 	"licence_list": ["GPLv3"],
