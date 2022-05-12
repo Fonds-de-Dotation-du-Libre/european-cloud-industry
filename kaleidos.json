@@ -24,29 +24,29 @@
 		"created_year": "2014",
 		"description": "Taiga is an Open Source project management platform for cross-domain agile teams.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Open Project",
-			"similiar_software_url": "https://www.openproject.org/",
+			"similiar_solution_url": "https://www.openproject.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "Asana",
-			"similiar_software_url": "https://asana.com/",
+			"similiar_solution_url": "https://asana.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "Quire",
-			"similiar_software_url": "https://quire.io/",
+			"similiar_solution_url": "https://quire.io/",
 			"category": "Information Technology"
 		}, {
 			"title": "Wekan",
-			"similiar_software_url": "https://wekan.github.io/",
+			"similiar_solution_url": "https://wekan.github.io/",
 			"category": "Information Technology"
 		}, {
 			"title": "Kanboard",
-			"similiar_software_url": "https://kanboard.org/",
+			"similiar_solution_url": "https://kanboard.org/",
 			"category": "Information Technology"
 		}, {
 			"title": "Redmine",
-			"similiar_software_url": "https://www.redmine.org/",
+			"similiar_solution_url": "https://www.redmine.org/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["MPL 2.0"],
@@ -76,17 +76,17 @@
 			"created_year": "2016",
 			"description": "The open-source solution for design and prototyping digital products and platforms.",
 			"category_list": ["Information Technology"],
-			"similar_software_list": [{
+			"similar_solution_list": [{
 				"title": "Diagrams.net",
-				"similiar_software_url": "https://www.diagrams.net/",
+				"similiar_solution_url": "https://www.diagrams.net/",
 				"category": "Information Technology"
 			}, {
 				"title": "Pencil Project",
-				"similiar_software_url": "https://pencil.evolus.vn/",
+				"similiar_solution_url": "https://pencil.evolus.vn/",
 				"category": "Information Technology"
 			}, {
 				"title": "Figma",
-				"similiar_software_url": "https://www.figma.com/",
+				"similiar_solution_url": "https://www.figma.com/",
 				"category": "Information Technology"
 			}],
 			"licence_list": ["MPL 2.0"],
