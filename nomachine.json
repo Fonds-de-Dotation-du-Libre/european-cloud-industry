@@ -59,29 +59,29 @@
     "created_year": "2002",
     "description": "NoMachine is the network computing company. Our products radically simplify remote connectivity for both consumers and businesses, delivering applications and desktops to any user, over any network. The software's award-winning performance and enterprise-class management tools make it a complete remote access and hosted desktop solution for any organization.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Remmina",
-      "similiar_software_url": "https://remmina.org/",
+      "similiar_solution_url": "https://remmina.org/",
       "category": "Information Technology"
     },{
       "title": "mRemoteNG",
-      "similiar_software_url": "https://mremoteng.org/",
+      "similiar_solution_url": "https://mremoteng.org/",
       "category": "Information Technology"
     },{
       "title": "DWService",
-      "similiar_software_url": "https://www.dwservice.net/",
+      "similiar_solution_url": "https://www.dwservice.net/",
       "category": "Information Technology"
     },{
       "title": "Tight VNC",
-      "similiar_software_url": "https://www.tightvnc.com/",
+      "similiar_solution_url": "https://www.tightvnc.com/",
       "category": "Information Technology"
     },{
       "title": "X2Go",
-      "similiar_software_url": "https://wiki.x2go.org/doku.php/start",
+      "similiar_solution_url": "https://wiki.x2go.org/doku.php/start",
       "category": "Information Technology"
     },{
       "title": "AnyDesk",
-      "similiar_software_url": "https://anydesk.com/gb",
+      "similiar_solution_url": "https://anydesk.com/gb",
       "category": "Information Technology"
     }],
     "licence_list": ["Proprietary", "https://www.nomachine.com/licensing"],
