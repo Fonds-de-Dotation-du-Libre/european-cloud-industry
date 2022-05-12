@@ -66,13 +66,13 @@
 		"created_year": "",
 		"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "spicework service desk",
-			"similiar_software_url": "https://www.spiceworks.com/",
+			"similiar_solution_url": "https://www.spiceworks.com/",
 			"category": "Information Technology"
 		}, {
 			"title": "jira service management",
-			"similiar_software_url": "https://www.atlassian.com/software/jira/service-management",
+			"similiar_solution_url": "https://www.atlassian.com/software/jira/service-management",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["Free software GPL v2"],
@@ -110,9 +110,9 @@
 		"created_year": "",
 		"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Hexanode UEM",
-			"similiar_software_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
+			"similiar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
 			"category": "Information Technology"
 		}],
 		"licence_list": [],
@@ -146,17 +146,17 @@
 		"created_year": "",
 		"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Mayan EDMS",
-			"similiar_software_url": "https://www.mayan-edms.com/",
+			"similiar_solution_url": "https://www.mayan-edms.com/",
 			"category": ""
 		}, {
 			"title": "eXo Platform",
-			"similiar_software_url": "https://www.exoplatform.com/",
+			"similiar_solution_url": "https://www.exoplatform.com/",
 			"category": ""
 		}, {
 			"title": "Alfresco Community Edition",
-			"similiar_software_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
+			"similiar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
 			"category": ""
 		}],
 		"licence_list": ["Free software GPL v2"],
@@ -185,9 +185,9 @@
 		"created_year": "",
 		"description": "Secure Access, a SAAS telecommuting solution, is a secure clientless remote desktop access gateway capable of managing several hundred simultaneous connections. Supports standard protocols such as VNC, RDP, and SSH. We call it clientless because no plugins or client software is required.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
@@ -221,9 +221,9 @@
 		"created_year": "",
 		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}],
 		"licence_list": [],
