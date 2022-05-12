@@ -24,13 +24,13 @@
     "created_year": "",
     "description": "ONLYOFFICE Docs is a powerful online editor for text documents, spreadsheets, and presentations for the platform you use",
     "category_list": [""],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "MS Office online",
-      "similiar_software_url": "https://docs.google.com/document/u/0/",
+      "similiar_solution_url": "https://docs.google.com/document/u/0/",
       "category": ""
     },{
       "title": "Google docs",
-      "similiar_software_url": "https://workspace.google.com/products/docs/",
+      "similiar_solution_url": "https://workspace.google.com/products/docs/",
       "category": ""
     }],
     "licence_list": ["GNU AGPL v.3"],
@@ -86,9 +86,9 @@
     "created_year": "",
     "description": "Bundle of web apps for an efficient team management and online collaboration",
     "category_list": [""],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Zoho",
-      "similiar_software_url": "https://www.zoho.com/fr/crm/?utm_medium=cpc&utm_campaign=Z-CRM&utm_content=CRM&utm_source=capterra",
+      "similiar_solution_url": "https://www.zoho.com/fr/crm/?utm_medium=cpc&utm_campaign=Z-CRM&utm_content=CRM&utm_source=capterra",
       "category": ""
     }],
     "licence_list": ["GNU AGPL v3"],
