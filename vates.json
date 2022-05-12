@@ -24,13 +24,13 @@
     "created_year": "2018",
     "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "VM Ware",
-      "similiar_software_url": "https://www.virtualbox.org/",
+      "similiar_solution_url": "https://www.virtualbox.org/",
       "category": ""
     },{
       "title": "Proxmox Virtual Environment",
-      "similiar_software_url": "https://www.proxmox.com/en/proxmox-ve",
+      "similiar_solution_url": "https://www.proxmox.com/en/proxmox-ve",
       "category": ""
       }],
     "licence_list": ["GNU version 2"],
@@ -60,9 +60,9 @@
     "created_year": "",
     "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
     "category_list": "",
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Vagrant",
-      "similiar_software_url": "https://www.vagrantup.com/",
+      "similiar_solution_url": "https://www.vagrantup.com/",
       "category": ""
     }],
     "licence_list": ["AGPL3"],
