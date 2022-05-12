@@ -59,9 +59,9 @@
 				"created_year": "",
 				"description": "digital workplace / Secure open source collaboration platform to improve organizational efficiency",
 				"category_list": [],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "Trello",
-					"similiar_software_url": "https://trello.com/en",
+					"similiar_solution_url": "https://trello.com/en",
 					"category": ""
 				}],
 				"licence_list": ["open source license"],
@@ -95,9 +95,9 @@
 				"created_year": "",
 				"description": "file sharing / Secure open source enterprise file sharing",
 				"category_list": [],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "NextCloud",
-					"similiar_software_url": "https://nextcloud.com/",
+					"similiar_solution_url": "https://nextcloud.com/",
 					"category": ""
 				}],
 				"licence_list": ["open source license"],
@@ -131,9 +131,9 @@
 				"created_year": "",
 				"description": "voice assistant / Secure end-to-end open source voice platform",
 				"category_list": [],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "Open assistant",
-					"similiar_software_url": "https://www.sitelike.org/similar/openassistant.org/",
+					"similiar_solution_url": "https://www.sitelike.org/similar/openassistant.org/",
 					"category": ""
 				}],
 				"licence_list": ["open source license"],
@@ -167,9 +167,9 @@
 				"created_year": "",
 				"description": "LinID is a software package for identity and access management and identity federation. LinID is LDAP compatible and supports WebSSO via the open source LemonLDAP::NG.",
 				"category_list": ["Information Technology"],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "",
-					"similiar_software_url": "",
+					"similiar_solution_url": "",
 					"category": ""
 				}],
 				"licence_list": ["open source license"],
@@ -203,9 +203,9 @@
 				"created_year": "",
 				"description": "We support IT departments in the governance of their open source software catalog",
 				"category_list": ["Information Technology"],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "",
-					"similiar_software_url": "",
+					"similiar_solution_url": "",
 					"category": ""
 				}],
 				"licence_list": ["open source license"],
@@ -239,9 +239,9 @@
 				"created_year": "",
 				"description": "a universal software unit that allows you to contract with LINAGORA for all our services, whether consulting, expertise and OSSA, our software insurance model or training.",
 				"category_list": ["Information Technology"],
-				"similar_software_list": [{
+				"similar_solution_list": [{
 					"title": "",
-					"similiar_software_url": "",
+					"similiar_solution_url": "",
 					"category": ""
 				}],
 				"licence_list": ["open source license"],
@@ -265,9 +265,9 @@
 					"created_year": "",
 					"description": "To accompany you at each step of your actions of adoption and sharing of Open Source technologies, for the construction of a strategy of controlled use.",
 					"category_list": [],
-					"similar_software_list": [{
+					"similar_solution_list": [{
 						"title": "",
-						"similiar_software_url": "",
+						"similiar_solution_url": "",
 						"category": ""
 					}],
 					"licence_list": ["open source license"],
