@@ -67,29 +67,29 @@
     "description": "UCS@school is an identity and authorization management system optimized for the educational sector to centrally manage users, services, applications, and digital media. Important basic services such as the provision of WLAN, authentication, printing or file storage are integrated. Other solutions such as e-learning, file sharing or e-mail can simply be connected to the management system.",
     "category_list": ["Information Technology", "Academia and Research"]
   },{
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "Manjaro Linux",
-      "similiar_software_url": "https://manjaro.org/",
+      "similiar_solution_url": "https://manjaro.org/",
       "category": "Information Technology"
     },{
       "title": "Fedora",
-      "similiar_software_url": "https://getfedora.org/",
+      "similiar_solution_url": "https://getfedora.org/",
       "category": "Information Technology"
     },{
       "title": "Pop!_OS",
-      "similiar_software_url": "https://pop.system76.com/",
+      "similiar_solution_url": "https://pop.system76.com/",
       "category": "Information Technology"
     },{
       "title": "openSUSE",
-      "similiar_software_url": "https://www.opensuse.org/",
+      "similiar_solution_url": "https://www.opensuse.org/",
       "category": "Information Technology"
     },{
       "title": "YunoHost",
-      "similiar_software_url": "https://yunohost.org/#/",
+      "similiar_solution_url": "https://yunohost.org/#/",
       "category": "Information Technology"
     },{
       "title": "Solus",
-      "similiar_software_url": "https://getsol.us/home/",
+      "similiar_solution_url": "https://getsol.us/home/",
       "category": "Information Technology"
     }],
     "licence_list": ["AGPL v3.0"],
