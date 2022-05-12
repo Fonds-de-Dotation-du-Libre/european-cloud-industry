@@ -66,17 +66,17 @@
 		"created_year": "2016",
 		"description": "Element lets you choose where your messages are stored, putting you in control of your data",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Whatsapp",
-			"similiar_software_url": "https://www.whatsapp.com/",
+			"similiar_solution_url": "https://www.whatsapp.com/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Signal",
-			"similiar_software_url": "https://signal.org/en/",
+			"similiar_solution_url": "https://signal.org/en/",
 			"category": "Telecommunication"
 		}, {
 			"title": "Telegram",
-			"similiar_software_url": "https://telegram.org/",
+			"similiar_solution_url": "https://telegram.org/",
 			"category": "Telecommunication"
 		}],
 		"licence_list": ["Apache License v2.0"],
@@ -137,9 +137,9 @@
 		"created_year": "2016",
 		"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Wire",
-			"similiar_software_url": "https://wire.com/en/",
+			"similiar_solution_url": "https://wire.com/en/",
 			"category": "Telecommunication"
 		}]
 	}, {
@@ -149,9 +149,9 @@
 		"created_year": "2016",
 		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Microsoft Teams",
-			"similiar_software_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Telecommunication"
 		}],
 		"licence_list": ["Apache License v2.0"],
@@ -185,13 +185,13 @@
 		"created_year": "2016",
 		"description": "Element is a completely new type of collaboration. As universal as email. End-to-end encryption for messages, and with full voice and video. On-premise or in the cloud. And that's just for starters.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "rundeck",
-			"similiar_software_url": "https://www.rundeck.com/",
+			"similiar_solution_url": "https://www.rundeck.com/",
 			"category": "Telecommunication"
 		}, {
 			"title": "JAMS Enterprise Job Scheduler",
-			"similiar_software_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
+			"similiar_solution_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
 			"category": "Telecommunication"
 		}],
 
@@ -226,9 +226,9 @@
 		"created_year": "2016",
 		"description": "Improve team productivity with our bridges, bots and widgets",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "weavy",
-			"similiar_software_url": "https://www.weavy.com/",
+			"similiar_solution_url": "https://www.weavy.com/",
 			"category": "Telecommunication"
 		}]
 	}, {
@@ -238,9 +238,9 @@
 		"created_year": "2016",
 		"description": "Element Matrix Services (EMS) is a robust and reliable hosting service for fast, secure real time communication.",
 		"category_list": ["Telecommunication"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "ConnectWiseControl",
-			"similiar_software_url": "https://control.connectwise.com/",
+			"similiar_solution_url": "https://control.connectwise.com/",
 			"category": "Telecommunication"
 		}],
 
