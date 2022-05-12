@@ -66,9 +66,9 @@
 		"created_year": "",
 		"description": "The PowerDNS Authoritative Server is the only solution that enables authoritative DNS service from all major databases, including but not limited to MySQL, PostgreSQL, SQLite3, Sybase, Microsoft SQL Server, LDAP and plain text files.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "",
-			"similiar_software_url": "",
+			"similiar_solution_url": "",
 			"category": ""
 		}]
 	}, {
@@ -78,9 +78,9 @@
 		"created_year": "",
 		"description": "dnsdist is a highly DNS-, DoS- and abuse-aware loadbalancer. Its goal in life is to route traffic to the best server, delivering top performance to legitimate users while shunting or blocking abusive traffic.",
 		"category_list": ["Information Technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Google Cloud DNS",
-			"similiar_software_url": "https://cloud.google.com/dns",
+			"similiar_solution_url": "https://cloud.google.com/dns",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU General Public License v2"],
@@ -114,9 +114,9 @@
 		"created_year": "",
 		"description": "The PowerDNS Recursor is a high-end, high-performance resolving name server which powers the DNS resolution of at least a hundred million subscribers. Utilizing multiple processors and supporting the same powerful scripting ability of the Authoritative Server, the Recursor delivers top performance while retaining the flexibility modern DNS deployments require.",
 		"category_list": ["information technology"],
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "CoreDNS",
-			"similiar_software_url": "https://coredns.io/",
+			"similiar_solution_url": "https://coredns.io/",
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU General Public License v2"],
