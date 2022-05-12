@@ -66,9 +66,9 @@
     "created_year": "",
     "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "",
-      "similiar_software_url": "",
+      "similiar_solution_url": "",
       "category": ""
     }],
     "licence_list": ["GNU/GPL"],
