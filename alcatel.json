@@ -18,38 +18,38 @@
 	"founded_year": "2014",
 	"kpi_list": [{
 		"year": "2020",
-		"staff": "3 857",
-		"earnings": "26416000",
-		"total_assets": "262167000",
-		"revenues": "1370898000",
+		"staff": "3 857€",
+		"earnings": "26416000€",
+		"total_assets": "262167000€",
+		"revenues": "1370898000€",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2019",
 		"staff": "4 351",
-		"earnings": "229998000",
-		"total_assets": "261646000",
-		"revenues": "2332775000",
+		"earnings": "229998000€",
+		"total_assets": "261646000€",
+		"revenues": "2332775000€",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2018",
 		"staff": "4 515",
-		"earnings": "21978000",
-		"total_assets": "238102000",
-		"revenues": "4535314000",
+		"earnings": "21978000€",
+		"total_assets": "238102000€",
+		"revenues": "4535314000€",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2017",
 		"staff": "4 258",
-		"earnings": "37803000",
-		"total_assets": "213779000",
-		"revenues": "5844771000",
+		"earnings": "37803000€",
+		"total_assets": "213779000€",
+		"revenues": "5844771000€",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}, {
 		"year": "2016",
 		"staff": "4 600",
-		"earnings": "-497969000",
-		"total_assets": "218308000",
-		"revenues": "5172734000",
+		"earnings": "-497969000€",
+		"total_assets": "218308000€",
+		"revenues": "5172734000€",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALCATEL-LUCENT-INTERNATIONAL-493378939/"
 	}],
 	"solution_list": [{
