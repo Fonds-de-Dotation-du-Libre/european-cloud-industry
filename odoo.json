@@ -52,33 +52,33 @@
     "created_year": "2002",
     "description": "Odoo is a suite of open source business apps that cover all companies' needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.",
     "category_list": ["Information Technology"],
-    "similar_software_list": [{
+    "similar_solution_list": [{
       "title": "ERPNext",
-      "similiar_software_url": "https://erpnext.com/",
+      "similiar_solution_url": "https://erpnext.com/",
       "category": "Information Technology"
      },{
       "title": "Dolibarr",
-      "similiar_software_url": "https://www.dolibarr.org/",
+      "similiar_solution_url": "https://www.dolibarr.org/",
       "category": "Information Technology"
     },{
       "title": "EspoCRM",
-      "similiar_software_url": "https://www.espocrm.com/",
+      "similiar_solution_url": "https://www.espocrm.com/",
       "category": "Information Technology"
     },{
       "title": "ZenTao",
-      "similiar_software_url": "https://www.zentao.pm/",
+      "similiar_solution_url": "https://www.zentao.pm/",
       "category": "Information Technology"
     },{
       "title": "Tryton",
-      "similiar_software_url": "https://www.tryton.org/",
+      "similiar_solution_url": "https://www.tryton.org/",
       "category": "Information Technology"
     },{
       "title": "Crust CRM",
-      "similiar_software_url": "https://www.planetcrust.com/solutions/crm/",
+      "similiar_solution_url": "https://www.planetcrust.com/solutions/crm/",
       "category": "Information Technology"
     },{
       "title": "Invoice Planehttps://www.invoiceplane.com/https://www.invoiceplane.com/",
-      "similiar_software_url": "https://www.invoiceplane.com/",
+      "similiar_solution_url": "https://www.invoiceplane.com/",
       "category": "Information Technology"
     }],
     "licence_list": ["LGPLv3"],
