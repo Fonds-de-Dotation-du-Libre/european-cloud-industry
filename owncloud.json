@@ -59,13 +59,13 @@
 		"created_year": "",
 		"description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device. It allows some integrations such as Microsoft, Collabora online, VNC and ONLYOFFICE.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Nextcloud",
-			"similiar_software_url":"https://nextcloud.com/",
+			"similiar_solution_url":"https://nextcloud.com/",
 			"category": ""
 			}, {
 			"title": "Seafile",
-      			"similiar_software_url":"https://www.seafile.com/en/home/",
+      			"similiar_solution_url":"https://www.seafile.com/en/home/",
 			"category": ""
 		}],
 		"licence_list": ["AGPLv3"],
@@ -85,9 +85,9 @@
 		"created_year": "",
 		"description": "Secure cloud storage for your data. Convenient collaboration for your team.",
 		"category_list": "",
-		"similar_software_list": [{
+		"similar_solution_list": [{
 			"title": "Dropbox",
-      			"similiar_software_url":"https://www.dropbox.com/",
+      			"similiar_solution_url":"https://www.dropbox.com/",
 			"category": ""
 		}],
 		"licence_list": "",
