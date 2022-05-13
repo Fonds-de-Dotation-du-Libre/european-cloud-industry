@@ -19,30 +19,30 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "",
-    "earnings": "- 295 818",
-    "total_assets": "2 016 385",
-    "revenues": "476 678",
+    "earnings": "- 295 818€",
+    "total_assets": "2 016 385€",
+    "revenues": "476 678€",
     "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
   }, {
     "year": "2019",
     "staff": "",
-    "earnings": "265 748",
-    "total_assets": "2 112 440",
-    "revenues": "684 400",
+    "earnings": "265 748€",
+    "total_assets": "2 112 440€",
+    "revenues": "684 400€",
     "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
   },{
     "year": "2018",
     "staff": "",
-    "earnings": "- 153 526",
-    "total_assets": "1 527 215",
-    "revenues": "687 133",
+    "earnings": "- 153 526€",
+    "total_assets": "1 527 215€",
+    "revenues": "687 133€",
     "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "127 356",
-    "total_assets": "1 485 954",
-    "revenues": "745 713",
+    "earnings": "127 356€",
+    "total_assets": "1 485 954€",
+    "revenues": "745 713€",
     "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
   }],
   "solution_list": [{
