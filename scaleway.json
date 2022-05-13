@@ -19,37 +19,37 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "311",
-    "earnings": "-1 424 430",
-    "total_assets": "84 570 606",
-    "revenues": "81 972 577",
+    "earnings": "-1 424 430€",
+    "total_assets": "84 570 606€",
+    "revenues": "81 972 577€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALEWAY-433115904/"
   }, {
     "year": "2019",
     "staff": "245",
-    "earnings": "-3 115 433",
-    "total_assets": "88 113 139",
-    "revenues": "76 542 759",
+    "earnings": "-3 115 433€",
+    "total_assets": "88 113 139€",
+    "revenues": "76 542 759€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALEWAY-433115904/"
   },{
     "year": "2018",
     "staff": "217",
-    "earnings": "1 695 511",
-    "total_assets": "118 155 355",
-    "revenues": "71 794 537",
+    "earnings": "1 695 511€",
+    "total_assets": "118 155 355€",
+    "revenues": "71 794 537€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALEWAY-433115904/"
   },{
     "year": "2017",
     "staff": "122",
-    "earnings": "3 339 659",
-    "total_assets": "117 857 661",
-    "revenues": "60 105 530",
+    "earnings": "3 339 659€",
+    "total_assets": "117 857 661€",
+    "revenues": "60 105 530€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALEWAY-433115904/"
   },{
     "year": "2016",
     "staff": "104",
-    "earnings": "3 683 612",
-    "total_assets": "93 515 030",
-    "revenues": "50 654 021",
+    "earnings": "3 683 612€",
+    "total_assets": "93 515 030€",
+    "revenues": "50 654 021€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALEWAY-433115904/"
   }],
   "solution_list": [{
