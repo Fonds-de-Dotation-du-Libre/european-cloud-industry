@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "30",
-		"earnings": "335 376",
-		"total_assets": "4 183 861",
-		"revenues": "3 165 101",
+		"earnings": "335 376€",
+		"total_assets": "4 183 861€",
+		"revenues": "3 165 101€",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
 		}, {
 		"year": "2019",
 		"staff": "17",
-		"earnings": "292 357",
-		"total_assets": "3 168 957",
-		"revenues": "2 642 058",
+		"earnings": "292 357€",
+		"total_assets": "3 168 957€",
+		"revenues": "2 642 058€",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
 		}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "575 849",
-		"total_assets": "2 776 611",
-		"revenues": "2 029 737",
+		"earnings": "575 849€",
+		"total_assets": "2 776 611€",
+		"revenues": "2 029 737€",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
 		}, {
 		"year": "2017",
 		"staff": "13",
-		"earnings": "343 980",
-		"total_assets": "1 966 824",
-		"revenues": "1 414 382",
+		"earnings": "343 980€",
+		"total_assets": "1 966 824€",
+		"revenues": "1 414 382€",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
 		}, {
 		"year": "2016",
 		"staff": "13",
-		"earnings": "65 623",
-		"total_assets": "1 531 557",
-		"revenues": "1 159 671",
+		"earnings": "65 623€",
+		"total_assets": "1 531 557€",
+		"revenues": "1 159 671€",
 		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
 		}],
 	"solution_list": [{
