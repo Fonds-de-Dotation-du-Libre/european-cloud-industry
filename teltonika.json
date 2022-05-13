@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "",
-		"earnings": "11572401",
-		"total_assets": "46386659",
-		"revenues": "102107018",
+		"earnings": "11572401€",
+		"total_assets": "46386659€",
+		"revenues": "102107018€",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2019",
 		"staff": "",
-		"earnings": "11044100",
-		"total_assets": "22777620",
-		"revenues": "79228742",
+		"earnings": "11044100€",
+		"total_assets": "22777620€",
+		"revenues": "79228742€",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "8339170",
-		"total_assets": "18679925",
-		"revenues": "55058610",
+		"earnings": "8339170€",
+		"total_assets": "18679925€",
+		"revenues": "55058610€",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "4949594",
-		"total_assets": "14635081",
-		"revenues": "50563540",
+		"earnings": "4949594€",
+		"total_assets": "14635081€",
+		"revenues": "50563540€",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2016",
 		"staff": "",
-		"earnings": "1351526",
-		"total_assets": "13418206",
-		"revenues": "37373296",
+		"earnings": "1351526€",
+		"total_assets": "13418206€",
+		"revenues": "37373296€",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}],
 	"solution_list": [{
