@@ -19,36 +19,36 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "50",
-    		"earnings": "388,696.27",
-   		"total_assets": "4,974,402.66",
+    		"earnings": "388 696 27€",
+   		"total_assets": "4 974 402 66€",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?16"
  		}, {
    		"year": "2019",
     		"staff": "43",
-    		"earnings": "-519,435.07",
-    		"total_assets": "4,451,782.44",
+    		"earnings": "-519 435 07",
+    		"total_assets": "4 451 782 44€",
 		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?16"
   		},{
     		"year": "2018",
     		"staff": "35",
-    		"earnings": "-521,392.26",
-    		"total_assets": "3,819,996.48",
+    		"earnings": "-521 392 26",
+    		"total_assets": "3 819 996 48€",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?27"
 	  	},{
     		"year": "2017",
     		"staff": "35",
-    		"earnings": "-1,377,054.41",
-    		"total_assets": "4,116,320.50",
+    		"earnings": "-1 377 054 41€",
+    		"total_assets": "4 116 320 50€",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?33"
   		},{
    		"year": "2016",
 	    	"staff": "",
-    		"earnings": "-788,749.79",
-    		"total_assets": "3,585,703.99",
+    		"earnings": "-788 749 79€",
+    		"total_assets": "3 585 703 99€",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?36"
   		}],
