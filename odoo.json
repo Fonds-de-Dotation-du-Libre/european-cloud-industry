@@ -19,30 +19,30 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "",
-    "earnings": "140822",
+    "earnings": "140822€",
     "total_assets": "",
-    "revenues": "43871968",
+    "revenues": "43871968€",
     "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
   },{
     "year": "2019",
     "staff": "",
-    "earnings": "422478",
+    "earnings": "422478€",
     "total_assets": "",
-    "revenues": "29772268",
+    "revenues": "29772268€",
     "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
   },{
     "year": "2018",
     "staff": "",
-    "earnings": "-328269",
+    "earnings": "-328269€",
     "total_assets": "",
-    "revenues": "20157092",
+    "revenues": "20157092€",
     "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "194682",
+    "earnings": "194682€",
     "total_assets": "",
-    "revenues": "13595391",
+    "revenues": "13595391€",
     "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
   }],
   "solution_list": [{
