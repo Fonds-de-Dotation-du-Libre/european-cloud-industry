@@ -19,16 +19,16 @@
   "kpi_list": [{
     "year": "2017",
     "staff": "",
-    "earnings": "-9 942",
-    "total_assets": "62 173",
-    "revenues": "134 767",
+    "earnings": "-9 942€",
+    "total_assets": "62 173€",
+    "revenues": "134 767€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALINGO-808665483/"
   },{
     "year": "2016",
     "staff": "",
-    "earnings": "21 527",
-    "total_assets": "49 142",
-    "revenues": "68 194",
+    "earnings": "21 527€",
+    "total_assets": "49 142€",
+    "revenues": "68 194€",
     "source_url": "https://www.verif.com/bilans-gratuits/SCALINGO-808665483/"
   }],
   "solution_list": [{
