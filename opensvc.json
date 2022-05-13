@@ -19,37 +19,37 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "",
-    		"earnings": "107 286 ",
-    		"total_assets": "1 043 246",
-    		"revenues": "803 295",
+    		"earnings": "107 286€",
+    		"total_assets": "1 043 246€",
+    		"revenues": "803 295€",
     		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
   		}, {
     		"year": "2019",
     		"staff": "",
     		"earnings": "",
-    		"total_assets": "798 979",
+    		"total_assets": "798 979€",
     		"revenues": "",
     		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
   		},{
    	 	"year": "2018",
     		"staff": "",
-    		"earnings": "75 735",
-    		"total_assets": "912 176",
-    		"revenues": "645 229",
+    		"earnings": "75 735€",
+    		"total_assets": "912 176€",
+    		"revenues": "645 229€",
     		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
   		},{
     		"year": "2017",
     		"staff": "",
-    		"earnings": "154 928",
-    		"total_assets": "972 256",
-    		"revenues": "768 214",
+    		"earnings": "154 928€",
+    		"total_assets": "972 256€",
+    		"revenues": "768 214€",
     		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
   		},{
     		"year": "2016",
     		"staff": "",
-    		"earnings": "116 846",
-    		"total_assets": "774 039",
-    		"revenues": "622 888",
+    		"earnings": "116 846€",
+    		"total_assets": "774 039€",
+    		"revenues": "622 888€",
    		 "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
   		}],
 	"solution_list": [{
