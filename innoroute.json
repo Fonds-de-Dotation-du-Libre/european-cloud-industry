@@ -19,15 +19,15 @@
   "kpi_list": [{
     "year": "2017",
     "staff": "9",
-    "earnings": "130,323.01",
-    "total_assets": "332,285.09",
+    "earnings": "130,323.01€",
+    "total_assets": "332,285.09€",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?10"
   },{
     "year": "2016",
     "staff": "12",
-    "earnings": "-104,428.42",
-    "total_assets": "607,860.35",
+    "earnings": "-104,428.42€",
+    "total_assets": "607,860.35€",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?15"
   }],
