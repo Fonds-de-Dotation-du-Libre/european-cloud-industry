@@ -19,9 +19,9 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "13",
-    "earnings": "852500",
-    "total_assets": "1204600",
-    "revenues": "711600",
+    "earnings": "852500€",
+    "total_assets": "1204600€",
+    "revenues": "711600€",
     "source_url": "https://www.societe.com/bilan/normation-519451686202012311.html"
   }],
   "solution_list": [{
