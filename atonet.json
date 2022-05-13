@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "",
-		"earnings": "2 800",
-		"total_assets": "219 200",
-		"revenues": "238 600",
+		"earnings": "2 800€",
+		"total_assets": "219 200€",
+		"revenues": "238 600€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225202009302.html"
 	}, {
 		"year": "2019",
 		"staff": "",
-		"earnings": "14 800",
-		"total_assets": "213 000",
-		"revenues": "232 800",
+		"earnings": "14 800€",
+		"total_assets": "213 000€",
+		"revenues": "232 800€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225202009302.html"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "14 000",
-		"total_assets": "110 100",
-		"revenues": "218 300",
+		"earnings": "14 000€",
+		"total_assets": "110 100€",
+		"revenues": "218 300€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201909302.html"
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "12 600",
-		"total_assets": "98 000",
-		"revenues": "206 700",
+		"earnings": "12 600€",
+		"total_assets": "98 000€",
+		"revenues": "206 700€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201809302.html"
 	}, {
 		"year": "2016",
 		"staff": "",
-		"earnings": "4 200",
-		"total_assets": "90 200",
-		"revenues": "188 100",
+		"earnings": "4 200€",
+		"total_assets": "90 200€",
+		"revenues": "188 100€",
 		"source_url": ""
 	}],
 	"solution_list": [{
