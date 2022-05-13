@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "134",
-		"earnings": "1 673 500",
-		"total_assets": "56 304 200",
-		"revenues": "35 454 800",
+		"earnings": "1 673 500€",
+		"total_assets": "56 304 200€",
+		"revenues": "35 454 800€",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493202012311.html"
 	}, {
 		"year": "2019",
 		"staff": "124",
-		"earnings": "-377 200",
-		"total_assets": "48 640 700",
-		"revenues": "29 653 600",
+		"earnings": "-377 200€",
+		"total_assets": "48 640 700€",
+		"revenues": "29 653 600€",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493202012311.html"
 	}, {
 		"year": "2018",
 		"staff": "123",
-		"earnings": "-837 100",
-		"total_assets": "33 268 600",
-		"revenues": "25 117 400",
+		"earnings": "-837 100€",
+		"total_assets": "33 268 600€",
+		"revenues": "25 117 400€",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493201812311.html"
 	}, {
 		"year": "2017",
 		"staff": "103",
-		"earnings": "-70 300",
-		"total_assets": "36 566 300",
-		"revenues": "25 550 500",
+		"earnings": "-70 300€",
+		"total_assets": "36 566 300€",
+		"revenues": "25 550 500€",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493201812311.html"
 	}, {
 		"year": "2016",
 		"staff": "81",
-		"earnings": "6 164 200",
-		"total_assets": "42 728 500",
-		"revenues": "24 874 700",
+		"earnings": "6 164 200€",
+		"total_assets": "42 728 500€",
+		"revenues": "24 874 700€",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493201612311.html"
 	}],
 	"solution_list": [{
