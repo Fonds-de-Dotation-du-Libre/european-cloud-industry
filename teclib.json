@@ -47,16 +47,16 @@
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "-2 400",
-		"total_assets": "6 306 900",
-		"revenues": "3 791 200",
+		"earnings": "-2 400€",
+		"total_assets": "6 306 900€",
+		"revenues": "3 791 200€",
 		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
 	}, {
 		"year": "2016",
 		"staff": "",
-		"earnings": "134 600",
-		"total_assets": "5 423 400",
-		"revenues": "3 885 062",
+		"earnings": "134 600€",
+		"total_assets": "5 423 400€",
+		"revenues": "3 885 062€",
 		"source_url": "https://www.societe.com/bilan/teclib-513893503201712311.html"
 	}],
 	"solution_list": [{
