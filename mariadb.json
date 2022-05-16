@@ -11,7 +11,7 @@
 		"country": "FI",
 		"phone_contact": "+33 1 82 88 37 38",
 		"mail_contact": "sales-EMEA@mariadb.com",
-		"coordinate_list": ["60.18405117669344", "24.814571784972014"]
+		"coordinate_list": [60.18405117669344, 24.814571784972014]
 	},
 	"subsidiary_location_list": ["CH", "NL"],
 	"website_url": "https://mariadb.com/",
@@ -21,7 +21,7 @@
 		"staff": "319",
 		"earnings": "",
 		"total_assets": "99161€",
-		"revenues": "36 700 000€",
+		"revenues": "36700000€",
 		"source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
 	}, {
 		"year": "2020",
@@ -47,8 +47,8 @@
 	}, {}, {
 		"year": "2017",
 		"staff": "319",
-		"earnings": " 12 060 000€",
-		"total_assets": "161 947€",
+		"earnings": " 12060000€",
+		"total_assets": "161947€",
 		"revenues": "",
 		"source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
 	}, {
@@ -64,16 +64,18 @@
 		"logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_blue-transparent.png",
 		"website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
 		"created_year": "2009",
+		"solution type": "software",
 		"description": "MariaDB Community Server is the open source relational database loved by developers all over the world. Created by MySQL’s original developers, MariaDB is compatible with MySQL and guaranteed to stay open source forever. MariaDB powers some of the world’s most popular websites such as Wikipedia and WordPress.com. It is also the core engine behind banking, social media, mobile and e-commerce sites worldwide.",
-		"category_list": ["Information Technology"],
+		"solution type": "software"
+		"category_list": ["Freeware"],
 		"similar_solution_list": [{
 			"title": "PostgreSQL",
 			"similiar_solution_url": "https://www.postgresql.org/",
-			"category": "Information Technology"
+			"category": "Freeware"
 		}, {
 			"title": "MySQL",
 			"similiar_solution_url": "https://www.mysql.com/fr/",
-			"category": "Information Technology"
+			"category": "Freeware"
 		}],
 		"licence_list": ["GNU Public License v2"],
 		"source_code_download": "https://github.com/MariaDB/server",
@@ -113,16 +115,17 @@
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/products/enterprise/components/",
 		"created_year": "",
+		"solution type": "software",
 		"description": "MariaDB Enterprise Server is an enhanced, hardened and secured version of MariaDB Community Server created to provide customers with enterprise reliability, stability and long-term support as well as greater operational efficiency when it comes to managing large database deployments for business- and mission-critical applications.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Database Management System"],
 		"similar_solution_list": [{
 			"title": "MongoDB",
 			"similiar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
-			"category": "Information Technology"
+			"category": "database management system"
 		}, {
 			"title": "Microsoft SQL Server",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads",
-			"category": "Information Technology"
+			"category": "satabase management system"
 		}],
 		"licence_list": [],
 		"source_code_download": "https://github.com/MariaDB",
@@ -151,7 +154,7 @@
 			"title": "Red Hat Builds Enterprise Applications with MariaDB ",
 			"description": "Red Hat, one of the most successful and respected open source corporations in the world, offers enterprise IT solutions through its comprehensive portfolio of products and services. ",
 			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/redhat-gray2-300x180.png.webp",
-			"industry": "Information Technology",
+			"industry": "Application Software",
 			"customer": "Red Hat",
 			"country": "US",
 			"language": "EN",
@@ -171,6 +174,7 @@
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/docs/features/mariadb-enterprise-columnstore/",
 		"created_year": "",
+		"solution type": "software",
 		"description": "MariaDB ColumnStore extends MariaDB Enterprise Server with distributed, columnar storage and massively parallel processing (MPP), transforming it into a standalone or distributed data warehouse for interactive, ad hoc analytics on billions of rows without the need to create indexes – and with standard SQL.",
 		"category_list": ["Information Technology"],
 		"similar_solution_list": [{
@@ -207,6 +211,7 @@
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/products/enterprise/xpand/",
 		"created_year": "",
+		"solution type": "software",
 		"description": "MariaDB Xpand is a distributed SQL database for businesses who need to run web, mobile and IoT applications at a scale beyond that which standard relational databases are capable of reaching. It was built with a singular, unrelenting focus on scaling SQL to unimaginable levels without sacrificing the relational data model and ACID transactions. It’s a database for every business in the digital era, from digitally native disruptors to industry titans undergoing digital transformation.",
 		"category_list": ["Information Technology"],
 		"similar_solution_list": [{
@@ -244,7 +249,8 @@
 		"website_url": "https://mariadb.com/docs/whats-new/whats-new-in-maxscale-6/",
 		"created_year": "",
 		"description": "MariaDB MaxScale is an advanced database proxy for MariaDB Enterprise Server, providing it with enterprise high availability, scalability, security and integration services while at the same time abstracting away the underlying database infrastructure to simplify application development and database administration.",
-		"category_list": ["Information Technology"],
+		"solution type":"software",
+		"category_list": ["databse management system"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -279,8 +285,10 @@
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/products/skysql/",
 		"created_year": "",
+		"solution type": "software",
 		"description": "SkySQL is the first and only database-as-a-service (DBaaS) to bring the full power of MariaDB Enterprise to the cloud, combining powerful features and world-class support with unrivaled ease of use and groundbreaking innovation. Built for mission-critical applications and enterprise governance, SkySQL augments automation with the human expertise and experience needed to support and manage mission-critical deployments in the cloud – whether it’s a single development database or thousands of production databases.",
-		"category_list": ["Information Technology"],
+		"solution type": "software"
+		"category_list": ["Database software"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
