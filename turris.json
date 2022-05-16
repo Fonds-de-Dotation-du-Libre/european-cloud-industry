@@ -1,7 +1,7 @@
 {
 	"created": "07 - 04 - 2022 ",
 	"title": "CZ.nic",
-	"type": "Voluntary association",
+	"type": "Association",
 	"logo_url": "https://www.nic.cz/static/www.nic.cz/images/logo_cs.png",
 	"location": {
 		"title": "Cz.nic",
@@ -16,49 +16,7 @@
 	"subsidiary_location_list": [],
 	"website_url": "https://www.nic.cz/page/357/kontakt/",
 	"founded_year": "1998",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Turris Mox",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
@@ -79,22 +37,8 @@
 		"commercial_support_open_source_version": "yes",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "https://doc.turris.cz/doc/en/howto/mox/start",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Turris Omnia",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
