@@ -81,10 +81,25 @@
 		"commercial_support_available": "no",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
+			"title": "Limerick City Council",
+			"logo_url": "https://www.omnis-systems.com/images/stories/images/zarafa/references/Limerick.gif",
+			"country": "IE",
+			"industry": "Public Administration and Government"
+		},{
+			"title": " Municipality of Ede - Holland",
+			"logo_url": "https://www.omnis-systems.com/images/stories/images/zarafa/references/Ede-logo.jpg",
+			"country": "NL",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Dulcesol",
+			"logo_url": "https://www.omnis-systems.com/images/stories/images/zarafa/references/Dulcesol_logo_150px.JPG",
+			"country": "ES",
+			"industry": "Agriculture and Food"
+		},{
+			"title": "Iterakt Contour",
+			"logo_url": "https://www.omnis-systems.com/images/stories/images/zarafa/references/logo-interaktcontour.png",
+			"country": "NL",
+			"industry": "Health and Life Sciences"
 		}],
 		"success_case_list": [{
 			"title": "",
