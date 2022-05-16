@@ -11,7 +11,7 @@
     "country": "BE",
     "phone_contact": "+3293242092",
     "mail_contact": "info@threefold.tech",
-    "coordinate_list": ["51.0929571239287, 3.8217512755767316"]
+    "coordinate_list": [51.0929571239287, 3.8217512755767316]
   },
   "subsidiary_location_list": [],
   "website_url": "https://threefold.io/",
@@ -23,11 +23,11 @@
     "website_url": "https://threefold.tech/",
     "created_year": "2018",
     "description": "",
-    "category_list": ["Information Technology"],
+    "category_list": ["Storage and Database","Cybersecurity"],
     "similar_solution_list": [{
       "title": "Akash",
       "similiar_solution_url": "https://akash.network/",
-      "category": "Information Technology"
+      "category": ["Storage and Database", "Compute Virtualisation"]
     },{
       "title": "Dfinity",
       "similiar_solution_url": "https://dfinity.org/",
