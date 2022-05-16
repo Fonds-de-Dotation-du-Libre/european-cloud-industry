@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "",
-		"earnings": "605 784 €",
+		"earnings": "605784€",
 		"total_assets": "",
-		"revenues": "10 681 262€",
+		"revenues": "10681262€",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": "2019",
 		"staff": "85",
-		"earnings": "1 099 751€",
+		"earnings": "1099751€",
 		"total_assets": "",
-		"revenues": "12 197 070€",
+		"revenues": "12197070€",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": "2018",
 		"staff": "88",
-		"earnings": "731 732 €",
+		"earnings": "731732€",
 		"total_assets": "",
-		"revenues": "9 640 991€",
+		"revenues": "9640991€",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "583 699€",
+		"earnings": "583699€",
 		"total_assets": "",
-		"revenues": "8 612 908€",
+		"revenues": "8612908€",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": "2016",
 		"staff": "81",
-		"earnings": "829 521€",
+		"earnings": "829521€",
 		"total_assets": "",
-		"revenues": "8 812 298€",
+		"revenues": "8812298€",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}],
 	"solution_list": [{
@@ -58,11 +58,11 @@
 				"website_url": "https://www.linagora.com/en/products/twake/",
 				"created_year": "",
 				"description": "digital workplace / Secure open source collaboration platform to improve organizational efficiency",
-				"category_list": [],
+				"category_list": ["workplace"],
 				"similar_solution_list": [{
 					"title": "Trello",
 					"similiar_solution_url": "https://trello.com/en",
-					"category": ""
+					"category": "workplace"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
@@ -94,11 +94,11 @@
 				"website_url": "https://www.linagora.com/en/products/linshare/",
 				"created_year": "",
 				"description": "file sharing / Secure open source enterprise file sharing",
-				"category_list": [],
+				"category_list": ["Workplace"],
 				"similar_solution_list": [{
 					"title": "NextCloud",
 					"similiar_solution_url": "https://nextcloud.com/",
-					"category": ""
+					"category": "Workplace"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
@@ -130,11 +130,11 @@
 				"website_url": "https://www.linagora.com/en/products/linto/",
 				"created_year": "",
 				"description": "voice assistant / Secure end-to-end open source voice platform",
-				"category_list": [],
+				"category_list": ["workplace"],
 				"similar_solution_list": [{
 					"title": "Open assistant",
 					"similiar_solution_url": "https://www.sitelike.org/similar/openassistant.org/",
-					"category": ""
+					"category": "Workplace"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
@@ -166,7 +166,7 @@
 				"website_url": "https://linid.org/en/",
 				"created_year": "",
 				"description": "LinID is a software package for identity and access management and identity federation. LinID is LDAP compatible and supports WebSSO via the open source LemonLDAP::NG.",
-				"category_list": ["Information Technology"],
+				"category_list": ["Operation Management"],
 				"similar_solution_list": [{
 					"title": "",
 					"similiar_solution_url": "",
@@ -202,7 +202,7 @@
 				"website_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linagora-logo.png",
 				"created_year": "",
 				"description": "We support IT departments in the governance of their open source software catalog",
-				"category_list": ["Information Technology"],
+				"category_list": ["Operation Management"],
 				"similar_solution_list": [{
 					"title": "",
 					"similiar_solution_url": "",
@@ -237,6 +237,7 @@
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://www.linagora.com/en/ossa-support/lux-model/",
 				"created_year": "",
+				"solution type": "software",
 				"description": "a universal software unit that allows you to contract with LINAGORA for all our services, whether consulting, expertise and OSSA, our software insurance model or training.",
 				"category_list": ["Information Technology"],
 				"similar_solution_list": [{
@@ -262,9 +263,10 @@
 					"title": "LCS: LINAGORA Consulting Services",
 					"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 					"website_url": "https://www.linagora.com/en/professional-services/linagora-consulting-services/",
+					"solution type": "software", 
 					"created_year": "",
 					"description": "To accompany you at each step of your actions of adoption and sharing of Open Source technologies, for the construction of a strategy of controlled use.",
-					"category_list": [],
+					"category_list": ["Operation Management"],
 					"similar_solution_list": [{
 						"title": "",
 						"similiar_solution_url": "",
