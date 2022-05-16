@@ -66,71 +66,73 @@
 		"solution type": "software",
 		"created_year": "2020",
 		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft 365",
 			"similiar_solution_url": "https://www.office.com/",
-			"category": "Telecommunication"
-	}],	
-	"licence_list": ["AGPL3 AGPL version 3.0"],
-	"source_code_download": "https://github.com/Kopano-dev",
-	"source_code_profile": "https://www.openhub.net/p/kopano",
-	"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
-	"floss_software": "no",
-	"commercial_support_open_source_version": "no",
-	"commercial_support_available": "no",
-	"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
-	"reference_list": [{
-		"title": "",
-		"logo_url": "",
-		"country": "",
-		"industry": ""
-	}],
-	"success_case_list": [{
-		"title": "",
-		"description": "",
-		"image_url": "",
-		"industry": "",
-		"customer": "",
-		"country": "",
-		"language": "",
-		"success_case_url": ""
+			"category": "workspace"
+		}],
+		"licence_list": ["AGPL3 AGPL version 3.0"],
+		"source_code_download": "https://github.com/Kopano-dev",
+		"source_code_profile": "https://www.openhub.net/p/kopano",
+		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "no",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
+	}, {
+		"title": "Kopano meet",
+		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
+		"website_url": "https://kopano.com/products/meet/",
+		"created_year": "2019",
+		"solution type": "software",
+		"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
+		"category_list": ["communication"],
+		"similar_solution_list": [{
+			"title": "Rocket.Chat",
+			"similiar_solution_url": "https://rocket.chat/",
+			"category": "communication"
+		}],
+		"licence_list": ["AGPL3 AGPL version 3.0"],
+		"source_code_download": "https://github.com/Kopano-dev",
+		"source_code_profile": "https://www.openhub.net/p/kopano",
+		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
 	}]
-	},{
-	"title": "Kopano meet",
-	"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
-	"website_url": "https://kopano.com/products/meet/",
-	"created_year": "2019",
-	"solution type": "software",
-	"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
-	"category_list": ["Telecommunication"],
-	"similar_solution_list": [{
-		"title": "Rocket.Chat",
-		"similiar_solution_url": "https://rocket.chat/",
-		"category": "Telecommunication""
-	}],
-	"licence_list": ["AGPL3 AGPL version 3.0"],
-	"source_code_download": "https://github.com/Kopano-dev",
-	"source_code_profile": "https://www.openhub.net/p/kopano",
-	"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
-	"floss_software": "yes",
-	"commercial_support_open_source_version": "no",
-	"commercial_support_available": "yes",
-	"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
-	"reference_list": [{
-		"title": "",
-		"logo_url": "",
-		"country": "",
-		"industry": ""
-	}],
-	"success_case_list": [{
-		"title": "",
-		"description": "",
-		"image_url": "",
-		"industry": "",
-		"customer": "",
-		"country": "",
-		"language": "",
-		"success_case_url": ""
-	}]
+
 }
