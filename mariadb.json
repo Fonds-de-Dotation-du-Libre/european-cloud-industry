@@ -67,15 +67,15 @@
 		"solution type": "software",
 		"description": "MariaDB Community Server is the open source relational database loved by developers all over the world. Created by MySQL’s original developers, MariaDB is compatible with MySQL and guaranteed to stay open source forever. MariaDB powers some of the world’s most popular websites such as Wikipedia and WordPress.com. It is also the core engine behind banking, social media, mobile and e-commerce sites worldwide.",
 		"solution type": "software"
-		"category_list": ["Freeware"],
+		"category_list": ["storage and database"],
 		"similar_solution_list": [{
 			"title": "PostgreSQL",
 			"similiar_solution_url": "https://www.postgresql.org/",
-			"category": "Freeware"
+			"category": "storage and database"
 		}, {
 			"title": "MySQL",
 			"similiar_solution_url": "https://www.mysql.com/fr/",
-			"category": "Freeware"
+			"category": "storage and database"
 		}],
 		"licence_list": ["GNU Public License v2"],
 		"source_code_download": "https://github.com/MariaDB/server",
@@ -117,15 +117,15 @@
 		"created_year": "",
 		"solution type": "software",
 		"description": "MariaDB Enterprise Server is an enhanced, hardened and secured version of MariaDB Community Server created to provide customers with enterprise reliability, stability and long-term support as well as greater operational efficiency when it comes to managing large database deployments for business- and mission-critical applications.",
-		"category_list": ["Database Management System"],
+		"category_list": ["storage and database"],
 		"similar_solution_list": [{
 			"title": "MongoDB",
 			"similiar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
-			"category": "database management system"
+			"category": "storage and databse"
 		}, {
 			"title": "Microsoft SQL Server",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads",
-			"category": "satabase management system"
+			"category": "storage and database"
 		}],
 		"licence_list": [],
 		"source_code_download": "https://github.com/MariaDB",
@@ -154,7 +154,7 @@
 			"title": "Red Hat Builds Enterprise Applications with MariaDB ",
 			"description": "Red Hat, one of the most successful and respected open source corporations in the world, offers enterprise IT solutions through its comprehensive portfolio of products and services. ",
 			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/redhat-gray2-300x180.png.webp",
-			"industry": "Application Software",
+			"industry": "Information Technology",
 			"customer": "Red Hat",
 			"country": "US",
 			"language": "EN",
@@ -176,7 +176,7 @@
 		"created_year": "",
 		"solution type": "software",
 		"description": "MariaDB ColumnStore extends MariaDB Enterprise Server with distributed, columnar storage and massively parallel processing (MPP), transforming it into a standalone or distributed data warehouse for interactive, ad hoc analytics on billions of rows without the need to create indexes – and with standard SQL.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Storage and Database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -213,7 +213,7 @@
 		"created_year": "",
 		"solution type": "software",
 		"description": "MariaDB Xpand is a distributed SQL database for businesses who need to run web, mobile and IoT applications at a scale beyond that which standard relational databases are capable of reaching. It was built with a singular, unrelenting focus on scaling SQL to unimaginable levels without sacrificing the relational data model and ACID transactions. It’s a database for every business in the digital era, from digitally native disruptors to industry titans undergoing digital transformation.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Storage and Database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -237,7 +237,7 @@
 			"title": "Samsung",
 			"description": "SAMSUNG CLOUD OPERATION TEAM AUTHENTICATES 10 BILLION+ REQUESTS DAILY WITH MARIADB XPAND; CUTS COSTS BY 50%",
 			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/03/samsung-customer-300x180.png.webp",
-			"industry": "Cellphone development",
+			"industry": "Telecommunication",
 			"customer": "Samsung",
 			"country": "KR",
 			"language": "EN",
@@ -250,7 +250,7 @@
 		"created_year": "",
 		"description": "MariaDB MaxScale is an advanced database proxy for MariaDB Enterprise Server, providing it with enterprise high availability, scalability, security and integration services while at the same time abstracting away the underlying database infrastructure to simplify application development and database administration.",
 		"solution type":"software",
-		"category_list": ["databse management system"],
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -288,7 +288,7 @@
 		"solution type": "software",
 		"description": "SkySQL is the first and only database-as-a-service (DBaaS) to bring the full power of MariaDB Enterprise to the cloud, combining powerful features and world-class support with unrivaled ease of use and groundbreaking innovation. Built for mission-critical applications and enterprise governance, SkySQL augments automation with the human expertise and experience needed to support and manage mission-critical deployments in the cloud – whether it’s a single development database or thousands of production databases.",
 		"solution type": "software"
-		"category_list": ["Database software"],
+		"category_list": ["storage and database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
