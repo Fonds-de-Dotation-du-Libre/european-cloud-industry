@@ -27,14 +27,14 @@
 		"year": "2020",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "73688.12€",
+		"total_assets": "7368812€",
 		"revenues": "",
 		"source_url": ""
 	}, {
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "11156.33€",
+		"total_assets": "1115633€",
 		"revenues": "",
 		"source_url": ""
 	}, {
@@ -64,20 +64,21 @@
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/personal",
 		"created_year": "2016",
+		"Solution type": "Software",
 		"description": "Element lets you choose where your messages are stored, putting you in control of your data",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Whatsapp",
 			"similiar_solution_url": "https://www.whatsapp.com/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/en/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "Telegram",
 			"similiar_solution_url": "https://telegram.org/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}],
 		"licence_list": ["Apache License v2.0"],
 		"source_code_download": "https://github.com/vector-im",
@@ -97,7 +98,7 @@
 			"title": "France embraces Matrix to build Tchap.",
 			"description": "Recent years have seen a step-change in French politics. An unprecedented modernisation agenda has created new ways of working for government officials and civil servants.",
 			"image_url": "https://element.io/images/tchap-hero-012x-p-800.jpeg",
-			"industry": "telecommunication",
+			"industry": "Telecommunication",
 			"customer": "The French Government",
 			"country": "FR",
 			"language": "EN",
@@ -115,7 +116,7 @@
 			"title": "The Bundeswehr builds on Matrix",
 			"description": "Simple real time communication via messaging services - popularised by consumer offerings such as WhatsApp, Signal and Telegram – is a challenge in the public sector, especially when it comes to national security.",
 			"image_url": "https://element.io/images/BWI-messenger-bundeswehr-p-800.jpeg",
-			"industry": "Army",
+			"industry": "Defense",
 			"customer": "Bundeswehr",
 			"country": "DE",
 			"language": "EN",
@@ -183,16 +184,17 @@
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/enterprise-collaboration",
 		"created_year": "2016",
+		"Solution type": "Software",
 		"description": "Element is a completely new type of collaboration. As universal as email. End-to-end encryption for messages, and with full voice and video. On-premise or in the cloud. And that's just for starters.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "rundeck",
 			"similiar_solution_url": "https://www.rundeck.com/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "JAMS Enterprise Job Scheduler",
 			"similiar_solution_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}],
 
 		"licence_list": ["Apache License v2.0"],
@@ -225,23 +227,25 @@
 		"website_url": "https://element.io/element-matrix-store",
 		"created_year": "2016",
 		"description": "Improve team productivity with our bridges, bots and widgets",
-		"category_list": ["Telecommunication"],
+		"Solution type": "Software",
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "weavy",
 			"similiar_solution_url": "https://www.weavy.com/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}]
 	}, {
 		"title": "element Matrix services",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/matrix-services",
 		"created_year": "2016",
+		"Solution type": "Software",
 		"description": "Element Matrix Services (EMS) is a robust and reliable hosting service for fast, secure real time communication.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "ConnectWiseControl",
 			"similiar_solution_url": "https://control.connectwise.com/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}],
 
 		"licence_list": ["Apache License v2.0"],
