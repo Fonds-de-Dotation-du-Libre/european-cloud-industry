@@ -11,7 +11,7 @@
 		"country": "FR",
 		"phone_contact": "+33981419616 ",
 		"mail_contact": "contact@enalean.com",
-		"coordinate_list": ["45.573866872895536, 5.9505117547145145"]
+		"coordinate_list": [45.573866872895536, 5.9505117547145145]
 	},
 	"subsidiary_location_list": ["CH"],
 	"website_url": "https://www.enalean.com/",
@@ -30,7 +30,7 @@
 		"website_url": "https://www.tuleap.org/",
 		"created_year": "2010",
 		"description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
 			"title": "Github",
 			"similiar_solution_url": "https://github.com/",
