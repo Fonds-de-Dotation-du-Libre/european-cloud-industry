@@ -11,7 +11,7 @@
 		"country": "CH",
 		"phone_contact": "",
 		"mail_contact": "",
-		"coordinate_list": ["47.409659765790934, 8.543620563704717"]
+		"coordinate_list": [47.409659765790934, 8.543620563704717]
 	},
 	"subsidiary_location_list": ["HU", "DE"],
 	"website_url": "https://tresorit.com/fr",
@@ -23,23 +23,23 @@
 		"website_url": "https://tresorit.com/",
 		"created_year": "2012",
 		"description": "Tresorit is an online cloud storage that uses end-to-end encryption to guarantee the safety of all the data you share and store.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Storage and database", "Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Nextcloud",
 			"similiar_solution_url": "https://nextcloud.com/",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}, {
 			"title": "Dropbox",
 			"similiar_solution_url": "https://www.dropbox.com/",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}, {
 			"title": "pCloud",
 			"similiar_solution_url": "https://www.pcloud.com/fr/eu?ref=8097",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}, {
 			"title": "Cryptomator",
 			"similiar_solution_url": "https://cryptomator.org/",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
