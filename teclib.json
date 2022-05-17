@@ -9,7 +9,7 @@
 		"postal_code": "75001",
 		"city": "Paris",
 		"country": "FR",
-		"phone_contact": "+33 1 79 97 02 78",
+		"phone_contact": "+33179970278",
 		"mail_contact": "",
 		"coordinate_list": [48.866827098891875, 2.3290391539788384]
 	},
@@ -17,53 +17,25 @@
 	"website_url": "https://www.teclib-edition.com/en/",
 	"founded_year": "2009",
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
 		"year": "2017",
-		"staff": "",
-		"earnings": "-2 400€",
-		"total_assets": "6 306 900€",
-		"revenues": "3 791 200€",
+		"staff": "49",
+		"earnings": "-2400€",
+		"total_assets": "6306900€",
+		"revenues": "3791200€",
 		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
 	}, {
 		"year": "2016",
-		"staff": "",
-		"earnings": "134 600€",
-		"total_assets": "5 423 400€",
-		"revenues": "3 885 062€",
+		"staff": "54",
+		"earnings": "134600€",
+		"total_assets": "5423400€",
+		"revenues": "3885062€",
 		"source_url": "https://www.societe.com/bilan/teclib-513893503201712311.html"
 	}],
 	"solution_list": [{
-		"title": "GLP Network",
+		"title": "GLPI Network",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
-		"website_url": "https://www.teclib-edition.com/en/software/glpi-network-itsm/",
-		"created_year": "",
+		"website_url": "https://www.glpi-network.cloud/home.php?l=en",
+		"created_year": "2004",
 		"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
 		"category_list": ["Information Technology"],
 		"similar_solution_list": [{
@@ -76,8 +48,8 @@
 			"category": "Information Technology"
 		}],
 		"licence_list": ["Free software GPL v2"],
-		"source_code_download": "https://github.com/TECLIB",
-		"source_code_profile": "https://www.openhub.net/p/glpi-project",
+		"source_code_download": "https://github.com/glpi-project/glpi.git",
+		"source_code_profile": "https://www.openhub.net/p/glpi-project/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
 		"floss_software": "yes",
 		"commercial_support_open_source_version": "",
@@ -106,8 +78,8 @@
 	}, {
 		"title": "FLYVE MDM",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
-		"website_url": "https://www.teclib-edition.com/en/software/flyve-mobile-device-management/",
-		"created_year": "",
+		"website_url": "https://www.flyve-mdm.com/",
+		"created_year": "2016",
 		"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
 		"category_list": ["Information Technology"],
 		"similar_solution_list": [{
@@ -115,9 +87,9 @@
 			"similiar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
 			"category": "Information Technology"
 		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
+		"licence_list": ["LGPL v3.0"],
+		"source_code_download": "https://github.com/flyve-mdm/glpi-plugin.git",
+		"source_code_profile": "https://www.openhub.net/p/flyve-mdm/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
 		"floss_software": "yes",
 		"commercial_support_open_source_version": "yes",
@@ -142,26 +114,26 @@
 	}, {
 		"title": "Kimios DMS",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
-		"website_url": "https://www.teclib-edition.com/en/software/kimios-document-management-system/",
-		"created_year": "",
+		"website_url": "https://www.kimios.com/",
+		"created_year": "2013",
 		"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Mayan EDMS",
 			"similiar_solution_url": "https://www.mayan-edms.com/",
-			"category": ""
+			"category": "Workspace"
 		}, {
 			"title": "eXo Platform",
 			"similiar_solution_url": "https://www.exoplatform.com/",
-			"category": ""
+			"category": "Workspace"
 		}, {
 			"title": "Alfresco Community Edition",
 			"similiar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
-			"category": ""
+			"category": "Workspace"
 		}],
-		"licence_list": ["Free software GPL v2"],
-		"source_code_download": "https://github.com/TECLIB",
-		"source_code_profile": "https://www.openhub.net/p/glpi-project",
+		"licence_list": ["Affero GPL v2"],
+		"source_code_download": "https://github.com/kimios/kimios.git",
+		"source_code_profile": "https://www.openhub.net/p/kimios/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
 		"floss_software": "yes",
 		"commercial_support_open_source_version": "yes",
@@ -179,12 +151,12 @@
 			"success_case_url": ""
 		}]
 	}, {
-		"title": "Secure Access",
-		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2021/03/logo_SA_transparent_backgroud.png",
-		"website_url": "https://www.serenit.fr/",
+		"title": "Limpid",
+		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/09/limpid.png",
+		"website_url": "https://www.flyve-mdm.com/",
 		"created_year": "",
-		"description": "Secure Access, a SAAS telecommuting solution, is a secure clientless remote desktop access gateway capable of managing several hundred simultaneous connections. Supports standard protocols such as VNC, RDP, and SSH. We call it clientless because no plugins or client software is required.",
-		"category_list": ["Telecommunication"],
+		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
+		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -214,13 +186,13 @@
 			"language": "",
 			"success_case_url": ""
 		}]
-	}, {
-		"title": "Limpid",
-		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/09/limpid.png",
-		"website_url": "https://www.flyve-mdm.com/",
+		}, {
+		"title": "Secure Access",
+		"logo_url": "https://www.serenit.fr/wp-content/uploads/2021/12/Logo-secure-access-solution-de-teletravail.png",
+		"website_url": "https://www.serenit.fr/secure-access-solution-de-teletravail/",
 		"created_year": "",
-		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
-		"category_list": ["Information Technology"],
+		"description": "Secure Access is SaaS for remote work, that can be used through a web browser. It can handle simultaneously several hundreds connections and works with VNC, RDP and SSH protocols. It requires no software nor plugin installation. ",
+		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
