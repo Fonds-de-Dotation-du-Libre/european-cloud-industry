@@ -21,7 +21,7 @@
 		"staff": "318",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "55273420.00€",
+		"revenues": "5527342000€",
 		"source_url": "https://www.datanyze.com/companies/mender/459811321"
 	}, {
 		"year": "2020",
@@ -37,23 +37,23 @@
 		"website_url": "https://mender.io/plans/features",
 		"created_year": "2016",
 		"description": "Mender enables developers and device makers to adapt to an evolving product landscape by managing and deploying all device software remotely, worldwide.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developers"],
 		"similar_solution_list": [{
 			"title": "Particle",
 			"similiar_solution_url": "https://www.particle.io/",
-			"category": "Information Technology"
+			"category": "Developers"
 		},{
 			"title": "Hologram",
 			"similiar_solution_url": "https://www.hologram.io/discover/hardware/global-iot-simcard?utm_source=google&utm_medium=cpc&utm_campaign=branded-country-expansion&gclid=CjwKCAjw0a-SBhBkEiwApljU0n3z7ag5WHFeUxxUQkzqSfwRygr7TqCr_N57YJVLVV3vSZHFSUuQWxoCpPQQAvD_BwE",
-			"category": "Information Technology"
+			"category": "Developers"
 		},{
 			"title": "Thingswork",
 			"similiar_solution_url": "https://www.ptc.com/en/products/thingworx",
-			"category": "Information Technology"
+			"category": "Developers"
 		},{
 			"title": "Google Cloud IOT core",
 			"similiar_solution_url": "https://cloud.google.com/iot-core",
-			"category": "Information Technology"
+			"category": "Developers"
 		}],
 		"licence_list": ["Apache License v2"],
 		"source_code_download": "https://github.com/mendersoftware",
@@ -67,7 +67,7 @@
 		"title": "Airbus Commercial Aircraft",
 			"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
 			"country": "FR",
-			"industry": "aeronautics"
+			"industry": "Aeronautics"
 		},{
 			"title": "Alz.ai",
 			"logo_url": "https://alz-knox-prod-1.s3.amazonaws.com/img/logo_full.svg?AWSAccessKeyId=AKIAS6R4YICTPWVNYZG2&Signature=dq1KIhfTXlxravcY7i27rqktsdM%3D&Expires=1650358817",
