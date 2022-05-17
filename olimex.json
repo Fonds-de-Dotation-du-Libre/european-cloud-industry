@@ -64,16 +64,17 @@
 		"logo_url": "https://www.olimex.com/_layout/images/logo.png",
 		"website_url": "https://www.olimex.com/wiki/OLinuXino#What_is_OLinuXino.3F",
 		"created_year": "2016",
+		"Solution list": "Hardware",
 		"description": "OLinuXino are series of powerful Linux-enabled Open Source Software and Open Source Hardware Open Source Hardware boards, designed and manufactured by Olimex LTD in Plovdiv, Bulgaria. The boards from the OLinuXino family can be manufactured with components suitable for operation in either industrial (-40+85)C or commercial (0-70)C temerpature range. Different OLinuXino boards use processors from different manufacturers - Allwinner, Freescale, Rockchip and so on.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Servers"],
 		"similar_solution_list": [{
 			"title": "Raspberry Pi",
 			"similiar_solution_url": "https://www.raspberrypi.org/",
-			"category": "Information Technology"
+			"category": "Servers"
 		}, {
 			"title": "Orange Pi",
 			"similiar_solution_url": "http://www.orangepi.org/",
-			"category": "Information Technology"
+			"category": "Servers"
 		}],
 		"licence_list": ["GPL"],
 		"source_code_download": "",
@@ -104,8 +105,9 @@
 		"logo_url": "https://www.olimex.com/_layout/images/logo.png",
 		"website_url": "https://www.olimex.com/Products/SOM/",
 		"created_year": "",
+		"Solution list": "Hardware",
 		"description": "OLIMEX System-on-Module (SOM) boards are powerful Linux-capable boards. They follow a low cost modular design which allows rapid product development. Each of these boards has two parts - the main part which nests the processor, the memory and the power control unit and the peripheral part which contains the USB ports, the video output and most of the connectors. SOM designs are targeted at customers who want to apply custom modifications and own solutions based on a specific processor without having to deal with multi layer PCBs with controlled impedance and BGA assembly. This makes it possible to create simple boards (that might be manufactured by your local board manufacturer) containing only the peripherals you need with the dimensions and shape suitable for your specific solution.",
-		"category_list": ["Information Technology"],
+		"category_list": ["CPU"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -141,7 +143,8 @@
 		"website_url": "https://www.olimex.com/Products/Duino/open-source-hardware",
 		"created_year": "",
 		"description": "Arduino is an open-source electronics prototyping platform, designed to make the process of using electronics in multidisciplinary projects more accessible. The hardware consists of a simple open hardware design for the Arduino board with an Atmel AVR processor and on-board I/O support. The software consists of a standard programming language and the boot loader that runs on the board.",
-		"category_list": ["Information Technology"],
+		"Solution type": "Hardware",
+		"category_list": ["CPU"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
