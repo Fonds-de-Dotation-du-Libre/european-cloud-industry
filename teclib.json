@@ -36,16 +36,17 @@
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
 		"website_url": "https://www.glpi-network.cloud/home.php?l=en",
 		"created_year": "2004",
+		"Solution type": "Software"
 		"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "spicework service desk",
 			"similiar_solution_url": "https://www.spiceworks.com/",
-			"category": "Information Technology"
+			"category": "Networking"
 		}, {
 			"title": "jira service management",
 			"similiar_solution_url": "https://www.atlassian.com/software/jira/service-management",
-			"category": "Information Technology"
+			"category": "Networking"
 		}],
 		"licence_list": ["Free software GPL v2"],
 		"source_code_download": "https://github.com/glpi-project/glpi.git",
@@ -80,12 +81,13 @@
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
 		"website_url": "https://www.flyve-mdm.com/",
 		"created_year": "2016",
+		"Solution type": "Software",
 		"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
-		"category_list": ["Information Technology"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Hexanode UEM",
 			"similiar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
-			"category": "Information Technology"
+			"category": "Networking"
 		}],
 		"licence_list": ["LGPL v3.0"],
 		"source_code_download": "https://github.com/flyve-mdm/glpi-plugin.git",
@@ -116,6 +118,7 @@
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
 		"website_url": "https://www.kimios.com/",
 		"created_year": "2013",
+		"Solution type": "Software",
 		"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
@@ -191,6 +194,7 @@
 		"logo_url": "https://www.serenit.fr/wp-content/uploads/2021/12/Logo-secure-access-solution-de-teletravail.png",
 		"website_url": "https://www.serenit.fr/secure-access-solution-de-teletravail/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "Secure Access is SaaS for remote work, that can be used through a web browser. It can handle simultaneously several hundreds connections and works with VNC, RDP and SSH protocols. It requires no software nor plugin installation. ",
 		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
