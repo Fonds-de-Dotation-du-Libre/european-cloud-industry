@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "166",
-		"earnings": "-1 355 100€",
-		"total_assets": "66 495 900€",
-		"revenues": "51 620 400€",
+		"earnings": "-1355100€",
+		"total_assets": "66495900€",
+		"revenues": "51620400€",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
 	}, {
 		"year": "2019",
 		"staff": "141",
-		"earnings": "5 998 000€",
-		"total_assets": "48 061 000€",
-		"revenues": "58 294 000€",
+		"earnings": "5998000€",
+		"total_assets": "48061000€",
+		"revenues": "58294000€",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "1 602 800€",
-		"total_assets": "40 038 900€",
-		"revenues": "51 727 600€",
+		"earnings": "1602800€",
+		"total_assets": "40038900€",
+		"revenues": "51727600€",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201812311.html"
 	}, {
 		"year": "2017",
 		"staff": "126",
-		"earnings": "3 788 700€",
-		"total_assets": "35 966 600€",
-		"revenues": "48 423 100€",
+		"earnings": "3788700€",
+		"total_assets": "35966600€",
+		"revenues": "48423100€",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201812311.html"
 	}, {
 		"year": "2016",
 		"staff": "112",
-		"earnings": "1 720 800€",
-		"total_assets": "26 443 200€",
-		"revenues": "37 458 900€",
+		"earnings": "1720800€",
+		"total_assets": "26443200€",
+		"revenues": "37458900€",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201612311.html"
 	}],
 	"solution_list": [{
@@ -58,7 +58,7 @@
 		"website_url": "https://www.ateme.com/product-video-content-delivery/",
 		"created_year": "",
 		"description": "With Ateme’s NEA solutions you can build a platform for streaming, OTT or IPTV services that captivates your audience with outstanding experiences – while unleashing monetization potential, reducing operational costs, and minimizing your carbon footprint.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Servers"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -93,8 +93,9 @@
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-titan-software/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "offer your viewers a premium experience on any platform – DTH, DTT, cable-TV, IPTV and OTT. And you do that while saving infrastructure costs and minimizing your carbon footprint.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Servers"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -129,8 +130,9 @@
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/kyrion-cm5000-the-latest-ateme-encoder-is-out-now/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "The Kyrion encoder has been designed for contribution over satellite, IP and ASI networks, with advanced features such as ultra-fast-boot, and added value features including ABR output and integrated Automatic Repeat reQuest (ARQ).",
-		"category_list": ["Information Technology"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -165,8 +167,9 @@
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-network-management-system/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "With Ateme’s PILOT management and orchestration solutions you simplify your video-delivery operations, create efficiencies, and exploit new revenue opportunities with business intelligence and automation – both on-premises and in the cloud.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
       "title": "",
       "similiar_solution_url": "",
