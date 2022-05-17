@@ -11,7 +11,7 @@
 		"country": "LT",
 		"phone_contact": "+37052127472",
 		"mail_contact": "info@teltonika.lt",
-		"coordinate_list": ["54.6998347921484, 25.262166007388295"]
+		"coordinate_list": [54.6998347921484, 25.262166007388295]
 	},
 	"subsidiary_location_list": ["AE", "AU", "BR", "CA", "CL", "CN", "ID", "IN", "KZ", "KE", "MY", "MA", "MX", "PK", "SG", "UA", "ZA"],
 	"website_url": "https://teltonika-iot-group.com/",
