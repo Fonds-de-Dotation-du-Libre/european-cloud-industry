@@ -27,35 +27,35 @@
    		"year": "2020",
    		"staff": "86",
    		"earnings": "",
-   		"total_assets": "47 641 000€",
+   		"total_assets": "47641000€",
    		"revenues": "",
    		"source_url": "https://www.societe.com/bilan/kalray-507620557202012311.html"
    	}, {
    		"year": "2019",
    		"staff": "74",
    		"earnings": "",
-   		"total_assets": "41 221 000€",
+   		"total_assets": "41221000€",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}, {
    		"year": "2018",
    		"staff": "64",
    		"earnings": "",
-   		"total_assets": "50 220 000€",
+   		"total_assets": "50220000€",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}, {
    		"year": "2017",
    		"staff": "56",
    		"earnings": "",
-   		"total_assets": "17 481 837€",
+   		"total_assets": "17481837€",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}, {
    		"year": "2016",
    		"staff": "56",
    		"earnings": "",
-   		"total_assets": "15 131 669€",
+   		"total_assets": "15131669€",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}],
@@ -64,8 +64,9 @@
    		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
    		"website_url": "https://www.kalrayinc.com/products/mppa-technology",
    		"created_year": "",
-   		"description": "The overall architecture of the Kalray 3rd generation of MPPA® processor aka Coolidge™ is based on a “Massively Parallel Processor Array” architecture, which is characterized by the association of computing clusters connected to each other, to the external memory and to the I/O interfaces via two independent interconnects.",
-   		"category_list": ["Information Technology"],
+   		"Solution type": "Hardware",
+         "description": "The overall architecture of the Kalray 3rd generation of MPPA® processor aka Coolidge™ is based on a “Massively Parallel Processor Array” architecture, which is characterized by the association of computing clusters connected to each other, to the external memory and to the I/O interfaces via two independent interconnects.",
+   		"category_list": ["CPU"],
    		"similar_solution_list": [{
    			"title": "",
    			"similiar_solution_url": "",
@@ -100,8 +101,9 @@
    		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
    		"website_url": "https://www.kalrayinc.com/products/nvme-flash-array",
    		"created_year": "",
-   		"description": "Kalray Flashbox™ is the first disaggregated NVMe storage array that has been designed from the ground up to leverage the full potential of NVMe flash devices at massive scale, while ensuring the lowest storage Total Cost of Ownership (TCO).",
-   		"category_list": [],
+   		"Solution type": "Software",
+         "description": "Kalray Flashbox™ is the first disaggregated NVMe storage array that has been designed from the ground up to leverage the full potential of NVMe flash devices at massive scale, while ensuring the lowest storage Total Cost of Ownership (TCO).",
+   		"category_list": ["Storage and Database"],
    		"similar_solution_list": [{
    			"title": "",
    			"similiar_solution_url": "",
@@ -136,8 +138,9 @@
    		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
    		"website_url": "https://www.kalrayinc.com/products/cards",
    		"created_year": "",
-   		"description": "Based on its MPPA® processor, Kalray’s has developed a K200™ family of data‐centric acceleration cards offering an unprecedented level of performance and programmability, a game changer solutions in terms of performance per Watt and per dollar.",
-   		"category_list": [],
+   		"Solution type": "hardware",
+         "description": "Based on its MPPA® processor, Kalray’s has developed a K200™ family of data‐centric acceleration cards offering an unprecedented level of performance and programmability, a game changer solutions in terms of performance per Watt and per dollar.",
+   		"category_list": ["CPU"],
    		"similar_solution_list": [{
    			"title": "",
    			"similiar_solution_url": "",
@@ -172,8 +175,9 @@
    		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
    		"website_url": "https://www.kalrayinc.com/products/processors-many-core",
    		"created_year": "",
-   		"description": "Taking full advantage of Kalray’s patented MPPA® (Massively Parallel Processor Array) architecture, Coolidge™ is a scalable 80-core processor designed for intelligent data processing. It offers a unique alternative to GPU, ASIC or FPGA, bringing unique value to multiple applications from Data Centers, to the Edge and in Embedded systems.",
-   		"category_list": [],
+   		"Solution list": "Hardware",
+         "description": "Taking full advantage of Kalray’s patented MPPA® (Massively Parallel Processor Array) architecture, Coolidge™ is a scalable 80-core processor designed for intelligent data processing. It offers a unique alternative to GPU, ASIC or FPGA, bringing unique value to multiple applications from Data Centers, to the Edge and in Embedded systems.",
+   		"category_list": ["CPU"],
    		"similar_solution_list": [{
    			"title": "",
    			"similiar_solution_url": "",
@@ -208,8 +212,9 @@
    		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
    		"website_url": "https://www.kalrayinc.com/development-platform",
    		"created_year": "",
-   		"description": "The MPPA®-DEV4 includes all of the hardware and software needed for the development of your applications on the MPPA® Coolidge processor such as Deep Learning, Computer Vision, and Mathematical Algorithms.",
-   		"category_list": [],
+   		"Solution type": "Hardware",
+         "description": "The MPPA®-DEV4 includes all of the hardware and software needed for the development of your applications on the MPPA® Coolidge processor such as Deep Learning, Computer Vision, and Mathematical Algorithms.",
+   		"category_list": ["CPU"],
    		"similar_solution_list": [{
    			"title": "",
    			"similiar_solution_url": "",
@@ -244,8 +249,9 @@
    		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo-KALRAY.png/1200px-Logo-KALRAY.png",
    		"website_url": "https://www.kalrayinc.com/products/software",
    		"created_year": "",
-   		"description": "AccessCore® provides all required tools to quickly develop, debug, and optimize, high-performance applications, using open standards for Kalray MPPA® processors.",
-   		"category_list": [],
+   		"Solution type": "Hardware",
+         "description": "AccessCore® provides all required tools to quickly develop, debug, and optimize, high-performance applications, using open standards for Kalray MPPA® processors.",
+   		"category_list": ["CPU"],
    		"similar_solution_list": [{
    			"title": "",
    			"similiar_solution_url": "",
