@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "",
-		"earnings": "2 800€",
-		"total_assets": "219 200€",
-		"revenues": "238 600€",
+		"earnings": "2800€",
+		"total_assets": "219200€",
+		"revenues": "238600€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225202009302.html"
 	}, {
 		"year": "2019",
 		"staff": "",
-		"earnings": "14 800€",
-		"total_assets": "213 000€",
-		"revenues": "232 800€",
+		"earnings": "14800€",
+		"total_assets": "213000€",
+		"revenues": "232800€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225202009302.html"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "14 000€",
-		"total_assets": "110 100€",
-		"revenues": "218 300€",
+		"earnings": "14000€",
+		"total_assets": "110100€",
+		"revenues": "218300€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201909302.html"
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "12 600€",
-		"total_assets": "98 000€",
-		"revenues": "206 700€",
+		"earnings": "12600€",
+		"total_assets": "98000€",
+		"revenues": "206700€",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201809302.html"
 	}, {
 		"year": "2016",
 		"staff": "",
-		"earnings": "4 200€",
-		"total_assets": "90 200€",
-		"revenues": "188 100€",
+		"earnings": "4200€",
+		"total_assets": "90200€",
+		"revenues": "188100€",
 		"source_url": ""
 	}],
 	"solution_list": [{
@@ -57,8 +57,9 @@
 		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg?id=59f77d8c9d1924201ef3",
 		"website_url": "https://athonet.com/products/athonet-epc/",
 		"created_year": "2006",
+		"Solution type": "Software",
 		"description": "Athonet EPC is a carrier-grade core that has been deployed in the field for more than 15 years, with over 700,00 active private SIMs and 1000 licensed installations. The Athonet EPC is certified to work with radio access networks (RAN) from many of the top vendors and innovative new companies.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Handprint",
 			"similiar_solution_url": "https://handprint.tech/",
@@ -93,8 +94,9 @@
 		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg?id=59f77d8c9d1924201ef3",
 		"website_url": "https://athonet.com/products/athonet-5g-sa/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "The Athonet 5G Core is the evolution of the world’s most proven private mobile core and is built on the track-record and field-deployment experience of our LTE mobile core.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -129,8 +131,9 @@
 		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg?id=59f77d8c9d1924201ef3",
 		"website_url": "https://athonet.com/products/athonet-tactical-solution-cube/",
 		"created_year": "",
+		"Solution type": "Hardware",
 		"description": "The Tactical Cube is a compact portable solution that includes a radio (RAN) and mobile core. The mobile core is hosted on off-the-shelf servers or on Athonet EX-BOX server providing IP65 protection while the radio acts as a base transceiver station with IP65 protection.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Radio base station"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -165,8 +168,9 @@
 		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg?id=59f77d8c9d1924201ef3",
 		"website_url": "https://athonet.com/products/athonet-ims/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "Athonet IMS (IP Multimedia Subsystem) provides native voice and video services to LTE or 5G terminals and integration with mission critical push-to-talk applications or with enterprise IP-PBX and phone systems.",
-		"category_list": ["multimedia"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -201,8 +205,9 @@
 		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg?id=59f77d8c9d1924201ef3",
 		"website_url": "https://athonet.com/products/athonet-tactical-solution-backpack/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "A full-featured, standalone LTE and 5G network solution that is trusted and field-proven for secure, tactical and rapid deployment.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Networking"],
 		"licence_list": [],
 		"source_code_download": "https://github.com/athonet-open",
 		"source_code_profile": "",
