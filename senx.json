@@ -11,7 +11,7 @@
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "contact@senx.io",
-    "coordinate_list": ["48.44201144215278, -4.414527459584225"]
+    "coordinate_list": [48.44201144215278, -4.414527459584225]
   },
   "subsidiary_location_list": "",
   "website_url": "https://senx.io/",
@@ -19,31 +19,31 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "",
-    "earnings": "- 295 818€",
-    "total_assets": "2 016 385€",
-    "revenues": "476 678€",
-    "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
+    "earnings": "-295818€",
+    "total_assets": "2016385€",
+    "revenues": "476678€",
+    "source_url": "https://www.verif.com/"
   }, {
     "year": "2019",
     "staff": "",
-    "earnings": "265 748€",
-    "total_assets": "2 112 440€",
-    "revenues": "684 400€",
-    "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
+    "earnings": "265748€",
+    "total_assets": "2112440€",
+    "revenues": "684400€",
+    "source_url": "https://www.verif.com/"
   },{
     "year": "2018",
     "staff": "",
-    "earnings": "- 153 526€",
-    "total_assets": "1 527 215€",
-    "revenues": "687 133€",
-    "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
+    "earnings": "-153526€",
+    "total_assets": "1527215€",
+    "revenues": "687133€",
+    "source_url": "https://www.verif.com/"
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "127 356€",
-    "total_assets": "1 485 954€",
-    "revenues": "745 713€",
-    "source_url": "https://www.verif.com/bilans-gratuits/SENX-792556201/"
+    "earnings": "127356€",
+    "total_assets": "1485954€",
+    "revenues": "745713€",
+    "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
     "title": "Warp 10",
@@ -51,15 +51,15 @@
     "website_url": "https://www.warp10.io/content/01_About",
     "created_year": "2013",
     "description": "Warp 10 is one of the most advanced time series platform, ensuring a seamless experience with existing data ecosystems. It addresses challenges posed by the data produced by consumer IoT devices. SenX, the company leading the Warp 10 development, invested heavily in the research and development of a high performance storage engine and an advanced analytics environment, both specifically crafted for time series augmented by location data (Geo Time Series).",
-    "category_list": "",
+    "category_list": ["Storage and Database","IOT and Industrial"]
     "similar_solution_list": [{
       "title": "Minitab Statistical Solution",
       "similiar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
-      "category": ""
+      "category": "Storage and database"
     },{
       "title": "Azure Time Series Insights",
       "similar_solution_url": "https://azure.microsoft.com/en-us/services/time-series-insights/#product-overview",
-      "category": ""
+      "category": "Storage and database"
     }],
     "licence_list": ["Apache-2.0 License"],
     "source_code_download": "https://github.com/senx/warp10-platform",
