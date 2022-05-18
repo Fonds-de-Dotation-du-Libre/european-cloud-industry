@@ -208,7 +208,7 @@
 		"created_year": "",
 		"description": "Climate control concepts from Rittal cover the full spectrum of applications, from cooling a single rack through to entire data centers.",
 		"Solution type": "Hardware",
-		"category_list": ["Cooling"],
+		"category_list": ["Cooling", "rack"],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -239,7 +239,7 @@
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/data-center-container/",
 		"created_year": "",
 		"description": "Growing data volumes and escalating requirements often lead to space problems in existing IT environments. Container solutions suitable for outdoor siting are one possible solution for this kind of Big data applications.",
-		"Solution type": "Hardware", 
+		"Solution type": "Hardware",
 		"category_list": ["Servers"],
 		"licence_list": [],
 		"source_code_download": "",
@@ -271,7 +271,7 @@
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/modular-data-center/",
 		"created_year": "",
 		"description": "Predefined RiMatrix S individual modules are the revolutionary alternative to individual data center construction. These standardised modules are supplied fully functional off-she-shelf with just one item number.",
-		"Solution type": "Hardware
+		"Solution type": "Hardware",
 		"category_list": ["Server"],
 		"licence_list": [],
 		"source_code_download": "",
@@ -302,9 +302,9 @@
 		"logo_url": "https://www.rittal.com/imf/none/80_1157/",
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/cloud-solutions/",
 		"created_year": "",
-		"Solution type": "Software",
+		"Solution type": "Hardware",
 		"description": "Rittal and its partner German Edge Cloud offer flexible infrastructure and cloud solutions in the form of “IT as a Service” models. These services are based on the RiMatrix BCC (Balanced Cloud Center) platform, with components such as racks, cooling and power supply already included in the predefined modules.",
-		"category_list": ["Developer"],
+		"category_list": ["Cooling", "Rack"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -635,7 +635,7 @@
 		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/automated-and-secure-processes/",
 		"created_year": "",
-		"Solution type": "Software"
+		"Solution type": "Software",
 		"description": "Rittal Ethereum Blockchain as a Service is a complete solution that is delivered as a turn-key-ready Managed Service in a container. It is the result of a close cooperation between iNNOVO Cloud as an infrastructure provider, Chainlabs as the blockchain operator on the application level, and the Frankfurt School of Finance as scientific advisor. With iNNOVO Cloud EBaaS, new business models, especially for financial services, but also for IoT, Industry 4.0, healthcare, retail or government, can be securely and precisely realized. Existing IT platforms can be used for adding customer-specific blockchain applications. Proprietary smart contract processes can be executed more quickly and carried out more closely to the real location.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
