@@ -487,7 +487,7 @@
 		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/scalable-and-turn-key-ready/",
 		"created_year": "",
-		"Solution type": "Software",
+		"Solution type": "Hardware",
 		"description": "Lowest latency can be achieved with the Rittal SMDC solution with distributed infrastructure systems. The scalable edge solution includes the IT rack, cooling, power distributions and security, fire detection and extinguishing, and monitoring.",
 		"category_list": ["Cooling"],
 		"similar_solution_list": [{
@@ -561,7 +561,7 @@
 		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/highly-scalable-and-energy-efficient/",
 		"created_year": "",
-		"Solution type": "Software",
+		"Solution type": "Hardware",
 		"description": "In cooperation with iNNOVO, Rittal offers an edge solution that is scalable to the needs of the applications, and that provides data almost in real time: the RiMatrix Edge Data Center in High Availability Room (HVR).",
 		"category_list": ["Cooling"],
 		"similar_solution_list": [{
@@ -598,7 +598,7 @@
 		"logo_url": "https://www.rittal.com/it-solutions/en/solution/it-security/",
 		"website_url": "https://www.rittal.com/it-solutions/en/solution/decentralized-networked-it-structure/",
 		"created_year": "",
-		"Solution type": "Software",
+		"Solution type": "Hardware",
 		"description": "Rittal supports companies in the creation of this hierarchic, networked data center architecture. The edge data center includes rack, cooling power supply and security, fire detection and extinguishing, as well as monitoring and IP protection. The iNNOVO Cloud adds suitable Managed Services that are designed according to each customer’s needs.",
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
@@ -637,7 +637,7 @@
 		"created_year": "",
 		"Solution type": "Software"
 		"description": "Rittal Ethereum Blockchain as a Service is a complete solution that is delivered as a turn-key-ready Managed Service in a container. It is the result of a close cooperation between iNNOVO Cloud as an infrastructure provider, Chainlabs as the blockchain operator on the application level, and the Frankfurt School of Finance as scientific advisor. With iNNOVO Cloud EBaaS, new business models, especially for financial services, but also for IoT, Industry 4.0, healthcare, retail or government, can be securely and precisely realized. Existing IT platforms can be used for adding customer-specific blockchain applications. Proprietary smart contract processes can be executed more quickly and carried out more closely to the real location.",
-		"category_list": ["Storage and database"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
