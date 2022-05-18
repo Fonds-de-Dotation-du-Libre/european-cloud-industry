@@ -70,7 +70,7 @@
 		"similar_solution_list": [{
 			"title": "Imagen",
 			"similiar_solution_url": "https://imagen.io/about/",
-			"category": "workplace management"
+			"category": "workspace"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
@@ -107,7 +107,7 @@
 	"similar_solution_list": [{
 		"title": "wimi",
 		"similiar_solution_url ": "https: //www.wimi-teamwork.com/",
-		"category": "Construction"
+		"category": "Workspace"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
@@ -144,7 +144,7 @@
 	"similar_solution_list": [{		
 		"title": "oneHub",
 		"similiar_solution_url": "https://www.onehub.com/",
-		"category": "Information Technology"
+		"category": "Workspace"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
@@ -181,7 +181,7 @@
 	"similar_solution_list": [{
 		"title": "moveit",
 		"similiar_solution_url": "https://www.ipswitch.com/moveit",
-		"category": "Information Technology"
+		"category": "Workspace"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
@@ -366,7 +366,7 @@
 	"similar_solution_list": [{
 		"title": "GoAnywhereMFT",
 		"similiar_solution_url": "https://www.goanywhere.com/",
-		"category": ""
+		"category": "Workspace"
 	}],
 	"licence_list": ["GNU AGPLv3.0"],
 	"source_code_download": "https://github.com/pydio",
