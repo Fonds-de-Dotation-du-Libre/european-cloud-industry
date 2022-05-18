@@ -11,30 +11,30 @@
     "country": "NO",
     "phone_contact": "+4722120006",
     "mail_contact": "sales@qbee.io",
-    "coordinate_list": ["59.822317374904166, 10.788414029553175"]
+    "coordinate_list": [59.822317374904166, 10.788414029553175]
   },
   "subsidiary_location_list": [],
   "website_url": "https://qbee.io/",
   "founded_year": "2017",
   "kpi_list": [],
   "solution_list": [{
-    "title": "",
-    "logo_url": "",
-    "website_url": "",
+    "title": "IoT Device Management",
+    "logo_url": "https://qbee.io/wp-content/uploads/2022/02/features_icon_linux_automisation.png",
+    "website_url": "https://qbee.io/iot-configuration-management/",
     "created_year": "",
-    "description": "",
-    "category_list": [],
+    "description": "IoT configuration management for Linux, with built-in automations to handle all needs (passwords, updates, NTP servers, forewall, etc.) and can be accessed through a Rest API",
+    "category_list": ["IoT and INdustrial"],
     "similar_solution_list": [{
       "title": "",
       "similiar_solution_url": "",
       "category": ""
     }],
-    "licence_list": [],
-    "source_code_download": "",
+    "licence_list": ["Apache License 2.0"],
+    "source_code_download": "https://github.com/qbee-io/software-management-action.git",
     "source_code_profile": "https://www.openhub.net/p/qbee/analyses/latest/languages_summary",
     "commercial_support_url": "https://qbee.io/pricing/",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
+    "floss_software": "Yes",
+    "commercial_support_open_source_version": "Yes",
     "commercial_support_available": "Yes",
     "wikipedia_url": "",
     "reference_list": [{
@@ -44,14 +44,23 @@
       "industry": ""
     }],
     "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": "https://qbee.io/blog/category/use-case/"
+      "title": "Device Management helps agriculture robot to reduce herbicides by 95%",
+      "description": "Development of an autonomous agricultural robot equipped with an high precison GPS, that only drops herbicide where it detects weeds, reducing by up to 95% the use of herbicides",
+      "image_url": "https://qbee.io/wp-content/uploads/2022/03/Kilter-Side-credit-Anders-Brevik-Kilterlogo-1-768x513.jpg",
+      "industry": "Agriculture and Food",
+      "customer": "Kilter AS",
+      "country": "NO",
+      "language": "EN",
+      "success_case_url": "https://qbee.io/use-case/device-management-helps-agriculture-robot-to-reduce-herbicides-by-95-2/"
+    },{
+      "title": "Innovative asset monitoring solution – LISI AEROSPACE",
+      "description": "This use case study describes how an innovative asset monitoring solution was implemented with qbee.io. The outcome was a faster, more reliable and cost effective solution for production asset monitoring in an industry 4.0 context. It also handles remote access and continuous updates of the application software in a CI/CD flow.",
+      "image_url": "https://qbee.io/wp-content/uploads/2022/03/fillet-roll-1-768x424.webp",
+      "industry": "Aviation and Aerospace",
+      "customer": "Lisi AEROSPACE",
+      "country": "GB",
+      "language": "EN",
+      "success_case_url": "https://qbee.io/use-case/innovative-asset-monitoring-solution-lisi-aerospace-2/"
     }]
   }]
 }
