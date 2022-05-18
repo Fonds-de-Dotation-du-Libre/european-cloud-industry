@@ -64,8 +64,9 @@
 		"logo_url": "https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head_wht.png",
 		"website_url": "https://www.greenbone.net/en/products/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "They consist of the Greenbone Operating System (GOS) on which the Greenbone Enterprise Feed is installed, a scan service, the web interface and, in the case of the hardware appliances, a special hardware. The scan service uses vulnerability tests (VTs) to detect existing vulnerabilities on the inspected network.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -100,20 +101,21 @@
 		"logo_url": "https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head_wht.png",
 		"website_url": "https://www.greenbone.net/en/products/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "It scans your IT infrastructure for security gaps in only a few steps and then delivers a report containing all found vulnerabilities, sorted by severity.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Orca Security",
 			"similiar_solution_url": "https://orca.security/",
-			"category": "Information Technology"
+			"category": "Cybersecurity"
 		}, {
 			"title": "Acunetix",
 			"similiar_solution_url": "https://www.acunetix.com/",
-			"category": "Information Technology"
+			"category": "Cybersecurity"
 		}, {
 			"title": "Invicti",
 			"similiar_solution_url": "https://www.invicti.com/",
-			"category": "Information Technology"
+			"category": "Cybersecurity"
 		}],
 		"licence_list": ["ODbLv1"],
 		"source_code_download": "https://github.com/greenbone",
