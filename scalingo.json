@@ -2,16 +2,16 @@
   "created": "2022-04-15",
   "title": "Scalingo SAS",
   "type": "Other",
-  "logo_url": "https://drive.google.com/drive/folders/1cRfRcmPXWmLXMqXNW29w3wq8_qxDUpjF",
+  "logo_url": "https://www.datocms-assets.com/36416/1640774309-transparent-scalingo-logo.png?fm=jpg&max-w=680",
   "location": {
     "title": "Scalingo SAS",
-    "address": "15 avenue du Rhin",
-    "postal_code": "67100",
+    "address": "3 place de Hagueneau",
+    "postal_code": "67000",
     "city": "Strasbourg",
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "sales@scalingo.com",
-    "coordinate_list": ["48.573213954599254, 7.7609180962400925"]
+    "coordinate_list": [48.573213954599254, 7.7609180962400925]
   },
   "subsidiary_location_list": [],
   "website_url": "https://scalingo.com/",
@@ -19,36 +19,44 @@
   "kpi_list": [{
     "year": "2017",
     "staff": "",
-    "earnings": "-9 942€",
-    "total_assets": "62 173€",
-    "revenues": "134 767€",
-    "source_url": "https://www.verif.com/bilans-gratuits/SCALINGO-808665483/"
+    "earnings": "-9942€",
+    "total_assets": "62173€",
+    "revenues": "134767€",
+    "source_url": "https://www.verif.com/"
   },{
     "year": "2016",
     "staff": "",
-    "earnings": "21 527€",
-    "total_assets": "49 142€",
-    "revenues": "68 194€",
-    "source_url": "https://www.verif.com/bilans-gratuits/SCALINGO-808665483/"
+    "earnings": "21527€",
+    "total_assets": "49142€",
+    "revenues": "68194€",
+    "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
     "title": "Scalingo",
-    "logo_url": "",
+    "logo_url": "https://www.datocms-assets.com/36416/1640774309-transparent-scalingo-logo.png?fm=jpg&max-w=680",
     "website_url": "https://scalingo.com/runtimes",
-    "created_year": "",
+    "created_year": "2015",
     "description": "Scalingo is a France-based hosting company providing web developers with production-ready application hosting services. Its services have served more than 300 teams and hosted more than 2500 applications from more than 17 countries worldwide. Its hosting services are backed by a Tier III data center located in Paris, France. The Scalingo website is available in two languages: English and French.",
-    "category_list": [],
+    "category_list": ["Application"],
     "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
+      "title": "OpenShift",
+      "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+      "category": "Application"
+    },{
+      "title": "Heroku",
+      "similiar_solution_url": "https://www.heroku.com/",
+      "category": "Application"
+    },{
+      "title": "Clever Cloud,
+      "similiar_solution_url": "https://www.clever-cloud.com/",
+      "category": "Application"
     }],
-    "licence_list": [""],
-    "source_code_download": "https://github.com/Scalingo",
+    "licence_list": ["Proprietary"],
+    "source_code_download": "https://github.com/Scalingo/documentation.git",
     "source_code_profile": "",
     "commercial_support_url": "https://scalingo.com/contact",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
+    "floss_software": "no",
+    "commercial_support_open_source_version": "no",
     "commercial_support_available": "yes",
     "wikipedia_url": "",
     "reference_list": [{
