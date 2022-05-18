@@ -9,9 +9,9 @@
 		"postal_code": "D-70192",
 		"city": "Stuttgart",
 		"country": "DE",
-		"phone_contact": "+49 711 25 24 28 66",
+		"phone_contact": "+4971125242866",
 		"mail_contact": "support@spreed.com",
-		"coordinate_list": ["48.78727972352557, 9.154593940842148"]
+		"coordinate_list": [48.78727972352557, 9.154593940842148]
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.spreed.eu/",
@@ -27,47 +27,47 @@
 		"similar_solution_list": [{
 			"title": "Jitsi",
 			"similiar_solution_url": "https://meet.jit.si/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Mumble",
 			"similiar_solution_url": "https://www.mumble.com/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Big Blue Button",
 			"similiar_solution_url": "https://bigbluebutton.org/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Briefing",
 			"similiar_solution_url": "https://brie.fi/ng",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Matrix",
 			"similiar_solution_url": "https://matrix.org/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Zoom",
 			"similiar_solution_url": "https://zoom.us/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
-			"category": "Telecommunication"
-			},{
+			"category": "Communication (phone, video)"
+			},{	
 			"title": "Hangouts",
 			"similiar_solution_url": "https://hangouts.google.com/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 			},{
 			"title": "Skype",
 			"similiar_solution_url": "https://www.skype.com/",
-			"category": "Telecommunication"
+			"category": "Communication (phone, video)"
 		}],
 		"licence_list": ["AGPL-3.0"],
 		"source_code_download": "https://github.com/nextcloud/spreed.git",
