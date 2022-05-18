@@ -1,11 +1,11 @@
 {
 	"created": "2022-03-18",
 	"title": "Sketch",
+	"subsidiary_country_list": [],
+	"website_url": "https://www.sketch.com/",
 	"type": "Corporation",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png",
 	"headquarter_country": "NL",
-	"subsidiary_country_list": [],
-	"website_url": "https://www.sketch.com/",
 	"location": {
 		"title": "Sketch BV",
 		"address": "Flight Forum 40, Ground floor, 5657 DB Eindhoven,",
@@ -28,19 +28,19 @@
 		"similar_solution_list": [{
 			"title": "Figma",
 			"similar_solution_url": "https://www.figma.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Lunacy",
 			"similar_solution_url": "https://icons8.com/lunacy",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Adobe XD",
 			"similar_solution_url": "https://www.adobe.com/products/xd.html?mv=affiliate&mv2=red",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Pencil Project",
 			"similar_solution_url": "https://pencil.evolus.vn/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "https://developer.sketch.com/file-format/",
