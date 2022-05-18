@@ -64,13 +64,13 @@
 		"logo_url": "https://www.open-xchange.com/hubfs/csm_IMAP-01_003fa58b26.png",
 		"website_url": "https://www.open-xchange.com/products/ox-dovecot-pro/?hsLang=en",
 		"created_year": "",
-		"solution type": "Software",
+		"solution type": "Hardware",
 		"description": "The world’s market-leading IMAP server, OX Dovecot Pro, delivers dynamic scalability, high performance, efficient utilization of hardware and outstanding support to the world’s largest Telcos and ISP's.",
-		"category_list": ["Developer"],
+		"category_list": ["Server"],
 		"similar_solution_list": [{
-			"title": "Microsoft",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/",
-			"category": "Developer"
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
 		}],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
@@ -103,11 +103,11 @@
 		"created_year": "",
 		"Solution type": "Software",
 		"description": "With OX PowerDNS Recursor, Internet Service Providers can provide a fast and reliable DNS service, enabling a secure internet experience for subscribers and their personal devices, including laptops, tablets and mobile phones, as well as the many IoT devices that are already in use.",
-		"category_list": ["Developer"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
-			"title": "Linux",
-			"similiar_solution_url": "https://www.linux.org/",
-			"category": "Information Technology"
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
 		}],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
