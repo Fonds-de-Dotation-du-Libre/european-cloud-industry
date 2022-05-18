@@ -9,55 +9,48 @@
     "postal_code": "D6 Box 70 101 21",
     "city": "Stockholm",
     "country": "SE",
-    "phone_contact": "+46 8 45 45 700",
+    "phone_contact": "+4684545ssab700",
     "mail_contact": "",
     "coordinate_list": [59.331269459235685, 18.057021940761906]
   },
-  "subsidiary_location_list": [],
+  "subsidiary_location_list": ["FI","US"],
   "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
   "founded_year": "1978",
   "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
     "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "staff": "13974",
+    "earnings": "6223515€",
+    "total_assets": "8432308€",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   }, {
     "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "staff": "14514",
+    "earnings": "7282730€",
+    "total_assets": "8949408€",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
     "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "staff": "15223",
+    "earnings": "7135784€",
+    "total_assets": "8804873€",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
     "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "staff": "14925",
+    "earnings": "6290051€",
+    "total_assets": "8327820€",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
     "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
+    "staff": "14980",
+    "earnings": "5270735€",
+    "total_assets": "8657428€",
     "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   }],
   "solution_list": [{
     "title": "ProviewR",
@@ -72,7 +65,7 @@
       "category": ""
     }],
     "licence_list": ["GNU/GPL"],
-    "source_code_download": "",
+    "source_code_download": "https://sourceforge.net/projects/proview/files/proview/",
     "source_code_profile": "",
     "commercial_support_url": "",
     "floss_software": "yes",
