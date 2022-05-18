@@ -11,7 +11,7 @@
     "country": "FR",
     "phone_contact": "+33144502034",
     "mail_contact": "thomas.beaufils@shadow.tech",
-    "coordinate_list": ["48.86500300434563, 2.3503854922580616"]
+    "coordinate_list": [48.86500300434563, 2.3503854922580616]
   },
   "subsidiary_location_list": ["US"],
   "website_url": "https://shadow.tech/",
@@ -23,7 +23,7 @@
     "website_url": "https://shadow.tech/en-gb/",
     "created_year": "2015",
     "description": "Shadow gives you access to a full-featured high-end PC to run Windows-based applications on the devices you own.",
-    "category_list": ["INformation Technology"],
+    "category_list": ["Information Technology"],
     "similar_solution_list": [{
       "title": "GeForce Now",
       "similiar_solution_url": "https://www.nvidia.com/fr-fr/geforce-now/",
@@ -57,3 +57,4 @@
     "success_case_list": []
   }]
 }
+Operation management (OSS/BSS)
