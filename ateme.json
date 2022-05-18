@@ -57,8 +57,9 @@
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-video-content-delivery/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "With Ateme’s NEA solutions you can build a platform for streaming, OTT or IPTV services that captivates your audience with outstanding experiences – while unleashing monetization potential, reducing operational costs, and minimizing your carbon footprint.",
-		"category_list": ["Servers"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -95,7 +96,7 @@
 		"created_year": "",
 		"Solution type": "Software",
 		"description": "offer your viewers a premium experience on any platform – DTH, DTT, cable-TV, IPTV and OTT. And you do that while saving infrastructure costs and minimizing your carbon footprint.",
-		"category_list": ["Servers"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -130,9 +131,9 @@
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/kyrion-cm5000-the-latest-ateme-encoder-is-out-now/",
 		"created_year": "",
-		"Solution type": "Software",
+		"Solution type": "Hardware",
 		"description": "The Kyrion encoder has been designed for contribution over satellite, IP and ASI networks, with advanced features such as ultra-fast-boot, and added value features including ABR output and integrated Automatic Repeat reQuest (ARQ).",
-		"category_list": ["Networking"],
+		"category_list": ["IOT and industrial"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -169,7 +170,7 @@
 		"created_year": "",
 		"Solution type": "Software",
 		"description": "With Ateme’s PILOT management and orchestration solutions you simplify your video-delivery operations, create efficiencies, and exploit new revenue opportunities with business intelligence and automation – both on-premises and in the cloud.",
-		"category_list": ["Workspace"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
       "title": "",
       "similiar_solution_url": "",
