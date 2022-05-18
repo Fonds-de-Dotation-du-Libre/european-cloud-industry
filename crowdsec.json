@@ -66,19 +66,19 @@
 		"created_year": "2019",
 		"Solution type": "Software",
 		"description": "CrowdSec is a free, open-source and collaborative IPS. Analyze behaviors, respond to attacks & share signals across the community",
-		"category_list": ["Workplace"],
+		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Check Point Next Generation Firewalls",
 			"similiar_solution_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
-			"category": "Workplace"
+			"category": "Cybersecurity"
 		}, {
 			"title": "Sumo logic",
 			"similiar_solution_url": "https://www.sumologic.com/",
-			"category": "Workplace"
+			"category": "Cybersecurity"
 		}, {
 			"title": "PfSense",
 			"similiar_solution_url": "https://www.pfsense.org/",
-			"category": "Workplace"
+			"category": "Cybersecurity"
 		}],
 		"licence_list": ["MIT License"],
 		"source_code_download": "https://github.com/crowdsecurity/crowdsec",
