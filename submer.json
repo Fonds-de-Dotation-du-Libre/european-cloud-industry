@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "SUBMER TECHNOLOGIES, S.L.",
-  "type": "Corporation",
+  "type": "Organisation",
   "logo_url": "https://submer.com/wp-content/uploads/2020/04/submer-logo.svg",
   "location": {
     "title": "SUBMER TECHNOLOGIES, S.L.",
@@ -9,11 +9,11 @@
     "postal_code": "08908",
     "city": "Barcelona",
     "country": "ES",
-    "phone_contact": "+34 932 202 855",
+    "phone_contact": "+34932202855",
     "mail_contact": "contact@submer.com",
-    "coordinate_list": ["41.35202255936917, 2.13459718652355"]
+    "coordinate_list": [41.35202255936917, 2.13459718652355]
   },
-  "subsidiary_location_list": "",
+  "subsidiary_location_list": "US",
   "website_url": "https://submer.com/",
   "founded_year": "2015",
   "kpi_list": "",
@@ -23,7 +23,7 @@
     "website_url": "https://submer.com/micropod/",
     "created_year": "",
     "description": "Submer’s MicroPod is the perfect Immersion Cooling solution for Edge applications, colocation datacenters, telcos and cloud computing. Thanks to its compact, modular, plug-and-play, datacenter-in-a-box configuration, the MicroPod allows for fast deployment in any location, including direct sunlight and an easy plug-and-play installation with an unrivalled energy footprint anywhere on the globe.",
-    "category_list": "",
+    "category_list": "Servers",
     "similar_solution_list": [{
       "title": "ICEraQ",
       "similiar_solution_url": "https://www.grcooling.com/iceraq/",
@@ -45,7 +45,7 @@
     "website_url": "https://submer.com/smartpod/",
     "created_year": "",
     "description": "the SmartPod is the very first commercially available OCP compatible Immersion Cooling system, that conforms to both standard server formats and to Open Compute Project (OCP) specifications for high-performance, supercomputing, hyperscale infrastructures, research and colocation",
-    "category_list": "",
+    "category_list": "Cooling",
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
