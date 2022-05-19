@@ -9,9 +9,9 @@
     "postal_code": "75002",
     "city": "Paris",
     "country": "FR",
-    "phone_contact": "+33 (0) 1 40 09 30 00",
+    "phone_contact": "+33140093000",
     "mail_contact": "",
-    "coordinate_list": ["48.86850099779175, 2.3532601674151876"]
+    "coordinate_list": [48.86850099779175, 2.3532601674151876]
   },
   "subsidiary_location_list": [],
   "website_url": "https://platform.sh/",
@@ -21,30 +21,30 @@
     "title": "Platform.sh",
     "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
     "website_url": "https://platform.sh/",
-    "created_year": "",
+    "created_year": "2010",
     "description": "The cloud PaaS to develop, deploy, host and secure websites and apps",
-    "category_list": [],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "OpenShift",
       "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
-      "category": ""
+      "category": "Application"
     },{
       "title": "OpenStack",
       "similiar_solution_url": "https://www.openstack.org/",
-      "category": ""
+      "category": "Application"
     },{
       "title": "Microsoft Azure",
       "similiar_solution_url": "https://azure.microsoft.com/fr-fr/",
-      "category": ""
+      "category": "Application"
     }],
     "licence_list": [" CC-BY-SA-4.0 License"],
-    "source_code_download": "https://github.com/platformsh/platformsh-docs",
-    "source_code_profile": "",
+    "source_code_download": "https://github.com/platformsh/platformsh-docs.git",
+    "source_code_profile": "https://docs.platform.sh/languages.html",
     "commercial_support_url": "https://docs.platform.sh/overview/get-support.html",
     "floss_software": "yes",
     "commercial_support_open_source_version": "yes",
     "commercial_support_available": "yes",
-    "wikipedia_url": "https://fr.wikipedia.org/wiki/Platform.sh#cite_note-5",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Platform.sh",
     "reference_list": [{
       "title": "WONDROUS",
       "logo_url": "https://platform.sh/images/customers/bw/wondrous-logo.png",
