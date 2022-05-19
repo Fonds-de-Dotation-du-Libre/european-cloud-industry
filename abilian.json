@@ -23,7 +23,7 @@
     "website_url": "https://abilian.com/fr/solutions/sics-pc/",
     "created_year": "",
     "description": "A secure extranet dedicated to the business of clusters, developed by experts involved in the life of those clusters for several years, based on an open source platform dedicated to enterprise information management and emerging collaboration",
-    "solution_type": "Software"
+    "solution_type": "Software",
     "category_list": "collaborative suite",
     "similar_solution_list": [{
       "title": "Huddle",
@@ -41,7 +41,7 @@
       "title": "Owncloud",
       "category": "Collaborative Suite",
       "similar_solution_url": "https://owncloud.com/"
-    }],  
+    }],
     "licence_list": "",
     "source_code_download": "",
     "source_code_profile": "",
@@ -78,7 +78,7 @@
     "website_url": "https://abilian.com/fr/solutions/labandco/",
     "created_year": "2014",
     "description": "A software package enabling research or teaching and research institutions to streamline relations between researchers and the administration",
-    "solution_type": "Software"
+    "solution_type": "Software",
     "category_list": "ERP and business software",
     "similar_solution_list": [{
       "title": "Odoo",
@@ -103,9 +103,9 @@
     "title": "Abilian SBE",
     "logo_url": "https://abilian.com/static/images/logo-abilian-baseline.png",
     "website_url": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
-    "created_year": "",
+    "created_year": 2012,
     "description": "A modular and open source software platform designed to help build business applications based on emerging collaboration",
-    "solution_type": "software"
+    "solution_type": "software",
     "category_list": "Collaborative tool",
     "similar_solution_list": [{
       "title": "Symphony",
@@ -134,9 +134,9 @@
     "title": "Abilian BCMS",
     "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/conventions-affaires/",
-    "created_year": "",
+    "created_year": 2014,
     "description": "An open source solution in SaaS mode (or hosted by you) which ensures from A to Z the management of your event, in the best possible conditions",
-    "solution_type": "Software"
+    "solution_type": "Software",
     "category_list": "event management software",
     "similar_solution_list": [{
       "title": "Eventbrite",
@@ -161,9 +161,9 @@
     "title": "Abilian JNOV",
     "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/jnov/",
-    "created_year": "",
+    "created_year": 2018,
     "description": "JNOV is a digital platform accessible via the Internet dedicated to managing interactions with companies or consortia proposing innovative solutions in the context of calls for expressions of interest, calls for projects or cascade funding programs , and to the evaluation of applications submitted by experts",
-    "solution_type": "software"
+    "solution_type": "software",
     "category_list": "digital platform",
     "similar_solution_list": "",
     "licence_list": "",
@@ -176,13 +176,13 @@
     "wikipedia_url": "",
     "reference_list": "",
     "success_case_list": ""
-  },{ 
+  },{
     "title": "Abilian Joinux",
     "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/joinux/",
-    "created_year": "",
+    "created_year": 2016,
     "description": "joinux is an admission and selection process management software, particularly adapted to the processes of application and selection of proposals during a conference call and application and selection of candidates for a university training (master, doctorate...) or not, for a competition, etc.",
-    "solution_type": "software"
+    "solution_type": "software",
     "category_list": "admission software",
     "similar_solution_list": "",
     "licence_list": "",
@@ -199,9 +199,9 @@
     "title": "Abilian CRM",
     "logo_url": "",
     "website_url": "https://abilian.com/fr/solutions/crm/",
-    "created_year": "",
+    "created_year": 2012,
     "description": "With Abilian CRM, you have a solution dedicated to the management of your customer relationship, and in particular to the collection and fine-tuning of information on your prospects, customers, partners, contacts (individuals) within these organizations, your business and your projects.",
-    "solution_type": "Software"
+    "solution_type": "Software",
     "category_list": "CRM software",
     "similar_solution_list": [{
       "title": "SuiteCRM",
@@ -223,4 +223,4 @@
     "reference_list": "",
     "success_case_list": ""
    }]
-}  
+}
