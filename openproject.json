@@ -9,9 +9,9 @@
 		"postal_code": "10177",
 		"city": "Berlin",
 		"country": "DE",
-		"phone_contact": "+49 30 288 777 07",
+		"phone_contact": "+493028877707",
 		"mail_contact": "info@openproject.org",
-		"coordinate_list": ["52.50947967879135, 13.391679398069854"]
+		"coordinate_list": [52.50947967879135, 13.391679398069854]
 	},
 	"subsidiary_location_list": ["US"],
 	"website_url": "https://www.openproject.org/",
@@ -20,51 +20,51 @@
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "704.528,99€",
+		"total_assets": "704528€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?5"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": "2018",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "641.079,26€",
+		"total_assets": "641079€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?5"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": "2017",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1.401.447,67€",
+		"total_assets": "1401447€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?14"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": "2016",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1.313.605,75€",
+		"total_assets": "1313605€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?14"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": "2015",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1.504.384,73€",
+		"total_assets": "1504384€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?17"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": "2014",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1.438.235,64€",
+		"total_assets": "1438235€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?17"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": "2013",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1.188.022,71€",
+		"total_assets": "1188022€",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?21"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}],
 	"solution_list": [{
 		"title": "OpenProject Timeline",
