@@ -64,24 +64,25 @@
 		"logo_url": "http://www.bgpexpert.com/images/bird.png",
 		"website_url": "https://bird.network.cz/",
 		"created_year": "2000",
+		"Solution type": "Software",
 		"description": "The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "FRRouting",
 			"similiar_solution_url": "https://frrouting.org/",
-			"category": "Information Technology "
+			"category": "Networking"
 		},{
 			"title": "Quagga",
 			"similiar_solution_url": "https://www.quagga.net/",
-			"category": "Information Technology"
+			"category": "Networking"
 		},{
 			"title": "FreeRouter",
 			"similiar_solution_url": "https://freerouting.org/",
-			"category": "Information Technology"
+			"category": "Networking"
 		},{
 			"title": "Xorp",
 			"similiar_solution_url": "http://xorp.com/",
-			"category": "Information Technology"
+			"category": "Networking"
 		}],
 		"licence_list": ["GNU General Public License"],
 		"source_code_download": "https://github.com/CZ-NIC/bird",
