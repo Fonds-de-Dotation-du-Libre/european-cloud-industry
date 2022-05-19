@@ -57,12 +57,13 @@
 				"logo_url": "https://twake.app/images/logo-twake.svg",
 				"website_url": "https://www.linagora.com/en/products/twake/",
 				"created_year": "",
-				"description": "digital workplace / Secure open source collaboration platform to improve organizational efficiency",
-				"category_list": ["workplace"],
+		"Solution type": "Software",		
+		"description": "digital workplace / Secure open source collaboration platform to improve organizational efficiency",
+				"category_list": ["Workplace"],
 				"similar_solution_list": [{
 					"title": "Trello",
 					"similiar_solution_url": "https://trello.com/en",
-					"category": "workplace"
+					"category": "Workplace"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
@@ -93,12 +94,13 @@
 				"logo_url": "https://www.linshare.org/wp-content/uploads/2020/08/cropped-linshare-logo.png",
 				"website_url": "https://www.linagora.com/en/products/linshare/",
 				"created_year": "",
+				"Solution type": "Software",
 				"description": "file sharing / Secure open source enterprise file sharing",
-				"category_list": ["Workplace"],
+				"category_list": ["Application"],
 				"similar_solution_list": [{
 					"title": "NextCloud",
 					"similiar_solution_url": "https://nextcloud.com/",
-					"category": "Workplace"
+					"category": "Application"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
@@ -129,6 +131,7 @@
 				"logo_url": "https://www.linagora.com/assets/images/linto/top-image.png",
 				"website_url": "https://www.linagora.com/en/products/linto/",
 				"created_year": "",
+				"Solution type": "Software",
 				"description": "voice assistant / Secure end-to-end open source voice platform",
 				"category_list": ["workplace"],
 				"similar_solution_list": [{
@@ -165,8 +168,9 @@
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://linid.org/en/",
 				"created_year": "",
+				"Solution type": "Software",
 				"description": "LinID is a software package for identity and access management and identity federation. LinID is LDAP compatible and supports WebSSO via the open source LemonLDAP::NG.",
-				"category_list": ["Operation Management"],
+				"category_list": ["Identity"],
 				"similar_solution_list": [{
 					"title": "",
 					"similiar_solution_url": "",
@@ -201,6 +205,7 @@
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linagora-logo.png",
 				"created_year": "",
+				"Solution type": "Software",
 				"description": "We support IT departments in the governance of their open source software catalog",
 				"category_list": ["Operation Management"],
 				"similar_solution_list": [{
@@ -237,9 +242,9 @@
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://www.linagora.com/en/ossa-support/lux-model/",
 				"created_year": "",
-				"solution type": "software",
+				"solution type": "Software",
 				"description": "a universal software unit that allows you to contract with LINAGORA for all our services, whether consulting, expertise and OSSA, our software insurance model or training.",
-				"category_list": ["Information Technology"],
+				"category_list": ["Communication"],
 				"similar_solution_list": [{
 					"title": "",
 					"similiar_solution_url": "",
