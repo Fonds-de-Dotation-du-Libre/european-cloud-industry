@@ -9,9 +9,9 @@
 		"postal_code": "60270",
 		"city": "Gouvieux",
 		"country": "FR",
-		"phone_contact": "+33 9 72 50 98 02",
+		"phone_contact": "+33972509802",
 		"mail_contact": "support@opensvc.com",
-		"coordinate_list": "49.18354587333739, 2.4159547229393996"
+		"coordinate_list": [49.18354587333739, 2.4159547229393996]
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://www.opensvc.com/",
@@ -22,35 +22,35 @@
     		"earnings": "107 286€",
     		"total_assets": "1 043 246€",
     		"revenues": "803 295€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+    		"source_url": "https://www.verif.com/"
   		}, {
     		"year": "2019",
     		"staff": "",
     		"earnings": "",
     		"total_assets": "798 979€",
     		"revenues": "",
-    		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+    		"source_url": "https://www.verif.com/"
   		},{
    	 	"year": "2018",
     		"staff": "",
-    		"earnings": "75 735€",
-    		"total_assets": "912 176€",
-    		"revenues": "645 229€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+    		"earnings": "75735€",
+    		"total_assets": "912176€",
+    		"revenues": "645229€",
+    		"source_url": "https://www.verif.com/"
   		},{
     		"year": "2017",
     		"staff": "",
-    		"earnings": "154 928€",
-    		"total_assets": "972 256€",
-    		"revenues": "768 214€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+    		"earnings": "154928€",
+    		"total_assets": "972256€",
+    		"revenues": "768214€",
+    		"source_url": "https://www.verif.com/"
   		},{
     		"year": "2016",
     		"staff": "",
-    		"earnings": "116 846€",
-    		"total_assets": "774 039€",
-    		"revenues": "622 888€",
-   		 "source_url": "https://www.verif.com/bilans-gratuits/OPENSVC-518344510/"
+    		"earnings": "116846€",
+    		"total_assets": "774039€",
+    		"revenues": "622888€",
+   		 "source_url": "https://www.verif.com/"
   		}],
 	"solution_list": [{
 		"title": "OpenSVC",
@@ -58,18 +58,18 @@
 		"website_url": "https://www.opensvc.com/",
 		"created_year": "2019",
 		"description": "OpenSVC is a Open Source software product and the name of the commercial entity developping and supporting it.",
-		"category_list": "",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "rudder",
 			"similiar_solution_url":"https://www.rudder.io/",
-			"category": ""
+			"category": "Application"
 			}, {
 			"title": "ZEVENET",
       			"similiar_solution_url":"https://www.zevenet.com/about-us/",
-			"category": ""
+			"category": "Application"
 		}],
 		"licence_list": "GNU General Public License v2",
-		"source_code_download": "https://github.com/opensvc",
+		"source_code_download": "https://github.com/opensvc/docs.opensvc.com.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": "yes",
