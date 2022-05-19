@@ -11,7 +11,7 @@
 		"country": "FR",
 		"phone_contact": "+33677582341",
 		"mail_contact": "contact@olvid.io",
-		"coordinate_list": ["48.87115255051375, 2.344979736231988"]
+		"coordinate_list": [48.87115255051375, 2.344979736231988]
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.olvid.io",
@@ -23,7 +23,7 @@
 		"website_url": "https://www.olvid.io",
 		"created_year": "2018",
 		"description": "Olvid is an open-source instant messaging application, relying on end-to-end encryption to guarantee the security of the users' data and metadata. Olvid operates without a centralized directory, with its security relying only on the latest cryptography technology, to ensure the integrity, confidentiality and anonymity of communications.guaranteeguarantee",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication","Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/",
