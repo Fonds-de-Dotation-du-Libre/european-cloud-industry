@@ -137,11 +137,11 @@
 		"website_url": "https://element.io/element-one",
 		"created_year": "2016",
 		"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}]
 	}, {
 		"title": "element Home",
