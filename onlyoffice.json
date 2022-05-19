@@ -2,16 +2,16 @@
   "created": "2022-04-27",
   "title": "ONLYOFFICE",
   "type": "Corporate",
-  "logo_url": "",
+  "logo_url": "https://www.onlyoffice.com/images/press-downloads/download/logo_default.zip",
   "location": {
     "title": "Ascensio System SIA",
     "address": "20A-6 Ernesta Birznieka-Upish street",
     "postal_code": "LV-1050",
     "city": "Riga",
     "country": "LV",
-    "phone_contact": "+371 63399867",
+    "phone_contact": "+37163399867",
     "mail_contact": "sales@onlyoffice.com",
-    "coordinate_list": ["56.949306246137574, 24.129568524184045"]
+    "coordinate_list": [56.949306246137574, 24.129568524184045]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.onlyoffice.com/",
