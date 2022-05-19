@@ -65,7 +65,7 @@
 		"website_url": "https://www.enyx.com/nxlink/",
 		"created_year": "",
 		"description": "nxLink is a suite of next-generation network products designed to address performance problems such as latency, link management and bandwidth optimization. Leveraging FPGA technology, nxLink makes networks smarter by performing high level processing while sustaining wire-speed and offering nanosecond scale latency.",
-		"category_list": ["Telcommunication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -91,27 +91,28 @@
 		"website_url": "https://www.enyx.com/nxaccess/",
 		"created_year": "",
 		"description": "nxAccess is a trading engine with an FPGA algo sandbox allowing users to preload orders in hardware, receive market data then trigger & update those orders before sending to the trading venue – with the speed and performance of hardware assisted by the flexibility of software.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "SolidWorks",
 			"similiar_solution_url": "https://www.solidworks.com/fr",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Fusion 360",
 			"similiar_solution_url": "https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "OnShape",
 			"similiar_solution_url": "https://www.onshape.com/en/",
-			"category": "Information Technology"
+			"category": "Application"
 		}]
 	}, {
 		"title": "nxFeed",
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 		"website_url": "https://www.enyx.com/nxfeed/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "nxFeed is a feed handler which streamlines market data application development by processing data feeds on FPGA and making them available to applications via a simple, normalized API.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -136,8 +137,9 @@
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 		"website_url": "https://www.enyx.com/nxframework/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "The Enyx Development Framework (nxFramework) is a hardware and software development environment designed to efficiently build and maintain ultra-low latency FPGA applications for the financial industry.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -162,8 +164,9 @@
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 		"website_url": "https://www.enyx.com/ip-cores/",
 		"created_year": "",
+		"Solution type": "Hardware",
 		"description": "",
-		"category_list": [],
+		"category_list": ["CPU"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
