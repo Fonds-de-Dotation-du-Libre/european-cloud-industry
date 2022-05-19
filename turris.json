@@ -20,10 +20,11 @@
 	"solution_list": [{
 		"title": "Turris Mox",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
-		"website_url": "https://www.turris.com/en/",
+		"website_url": "https://www.turris.com/en/mox/overview/",
 		"created_year": "",
+		"Solution type": "Hardware",
 		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
-		"category_list": ["Manufacturing"],
+		"category_list": ["Switches"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -44,16 +45,17 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/omnia/overview/",
 		"created_year": "",
+		"Solution type": "Hardware",
 		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
-		"category_list": ["Manufacturing"],
+		"category_list": ["Switches"],
 		"similar_solution_list": [{
 			"title": "eero Home WiFi System",
 			"similiar_solution_url": "https://eero.com/",
-			"category": "Manufacturing"
+			"category": "Switches"
 		}, {
 			"title": "Asus RT-AC5300",
 			"similiar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
-			"category": "Media and Entertainment"
+			"category": "Switches"
 		}],
 		"licence_list": ["MIT"],
 		"source_code_download": "https://github.com/davidjb/turris-omnia-tls",
@@ -73,7 +75,7 @@
 			"title": "Mozilla is solving IoT issues using Turris Omnia",
 			"description": "Mozilla decided to attempt to help the world and fix the current situation. Problems with IoT that I stated in the previous part are incompatibility – lack of standardized API and security/privacy – your personal data are sent who knows where in insecure manner.",
 			"image_url": "",
-			"industry": "IOT",
+			"industry": "Information Technology",
 			"customer": "Mozilla",
 			"country": "US",
 			"language": "EN",
@@ -84,12 +86,13 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/shield/overview/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
-		"category_list": ["Manufacturing"],
+		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "OpenWRT",
 			"similiar_solution_url": "https://openwrt.org/",
-			"category": "Information Technology"
+			"category": "Cybersecurity"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -120,8 +123,9 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/turris-os/",
 		"created_year": "",
+		"Solution type": "",
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
-		"category_list": ["Manufacturing"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
