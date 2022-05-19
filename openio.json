@@ -64,24 +64,25 @@
 		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
 		"website_url": "https://www.openio.io/opensource",
 		"created_year": "2015",
+		"Solution type": "Software",
 		"description": "OpenIO Object Storage is open core: the heart of the solution and the object APIs are open source. This guarantees the long-term availability of the solution and gives your engineers the opportunity to delve into our technology at any time, to really understand how it works.",
-		"category_list": ["information technology"],
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Amazon simple Storage Service",
 			"similiar_solution_url": "https://aws.amazon.com/s3/",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}, {
 			"title": "MinIO",
 			"similiar_solution_url": "https://min.io/",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}, {
 			"title": "Google Cloud Storage",
 			"similiar_solution_url": "https://cloud.google.com/storage",
-			"category": "Information technology"
+			"category": "Storage and database"
 		}, {
 			"title": "Veeame One",
 			"similiar_solution_url": "https://www.veeam.com/virtualization-management-one-solution.html",
-			"category": "Information Technology"
+			"category": "Storage and database"
 		}],
 		"licence_list": ["AGPL3", "LGPL3 "],
 		"source_code_download": "https://github.com/open-io",
