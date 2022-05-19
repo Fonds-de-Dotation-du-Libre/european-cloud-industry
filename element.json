@@ -142,6 +142,30 @@
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
 			"category": "Communication"
+		}],
+		"licence_list": ["Apache License v2.0"],
+		"source_code_download": "https://github.com/vector-im",
+		"source_code_profile": "",
+		"commercial_support_url": "https://element.io/help",
+		"floss_software": "no",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
 		}]
 	}, {
 		"title": "element Home",
@@ -149,11 +173,11 @@
 		"website_url": "https://element.io/element-home",
 		"created_year": "2016",
 		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}],
 		"licence_list": ["Apache License v2.0"],
 		"source_code_download": "https://github.com/vector-im",
@@ -196,7 +220,6 @@
 			"similiar_solution_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
 			"category": "Communication"
 		}],
-
 		"licence_list": ["Apache License v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
