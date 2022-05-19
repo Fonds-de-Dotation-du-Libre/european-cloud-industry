@@ -11,7 +11,7 @@
 		"country": "DE",
 		"phone_contact": "+49 911 14888690",
 		"mail_contact": "info@owncloud.com",
-		"coordinate_list": "49.48690797273724, 11.103847442342884"
+		"coordinate_list": [49.48690797273724, 11.103847442342884]
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://owncloud.com/",
@@ -19,38 +19,38 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "50",
-    		"earnings": "388 696 27€",
-   		"total_assets": "4 974 402 66€",
+    		"earnings": "388696€",
+   		"total_assets": "4974402€",
     		"revenues": "",
-    		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?16"
+    		"source_url": "https://www.bundesanzeiger.de"
  		}, {
    		"year": "2019",
     		"staff": "43",
-    		"earnings": "-519 435 07",
-    		"total_assets": "4 451 782 44€",
+    		"earnings": "-519435€",
+    		"total_assets": "4451782€",
 		"revenues": "",
-    		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?16"
+    		"source_url": "https://www.bundesanzeiger.de/"
   		},{
     		"year": "2018",
     		"staff": "35",
-    		"earnings": "-521 392 26",
-    		"total_assets": "3 819 996 48€",
+    		"earnings": "-521392€",
+    		"total_assets": "3819996€",
     		"revenues": "",
-    		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?27"
+    		"source_url": "https://www.bundesanzeiger.de/"
 	  	},{
     		"year": "2017",
     		"staff": "35",
-    		"earnings": "-1 377 054 41€",
-    		"total_assets": "4 116 320 50€",
+    		"earnings": "-1377054€",
+    		"total_assets": "4116320€",
     		"revenues": "",
-    		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?33"
+    		"source_url": "https://www.bundesanzeiger.de/"
   		},{
    		"year": "2016",
 	    	"staff": "",
-    		"earnings": "-788 749 79€",
-    		"total_assets": "3 585 703 99€",
+    		"earnings": "-788749€",
+    		"total_assets": "3585703€",
     		"revenues": "",
-    		"source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?36"
+    		"source_url": "https://www.bundesanzeiger.de/"
   		}],
 		"solution_list": [{
 		"title": "ownCloud GmbH",
@@ -62,15 +62,15 @@
 		"similar_solution_list": [{
 			"title": "Nextcloud",
 			"similiar_solution_url":"https://nextcloud.com/",
-			"category": ""
+			"category": "Workspace"
 			}, {
 			"title": "Seafile",
       			"similiar_solution_url":"https://www.seafile.com/en/home/",
-			"category": ""
+			"category": "Workspace"
 		}],
 		"licence_list": ["AGPLv3"],
-		"source_code_download": "https://github.com/owncloud",
-		"source_code_profile": "https://www.openhub.net/p/ownCloud",
+		"source_code_download": "https://github.com/owncloud/core.git",
+		"source_code_profile": "https://www.openhub.net/p/ownCloud/analyses/latest/languages_summary",
 		"commercial_support_url": "https://owncloud.com/contact-us/",
 		"floss_software": "yes",
 		"commercial_support_open_source_version": "no",
