@@ -41,7 +41,7 @@
 		"year": "2017",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1 714 895 90€",
+		"total_assets": "171489590€",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?26"
 	}, {
@@ -53,346 +53,364 @@
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?26"
 	}],
 	"solution_list": [{
-		"title": "Codesys engineering",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-engineering.html",
-		"created_year": "",
-		"description": "CODESYS is the leading software platform for IEC 61131-3 compliant project engineering. The development system combines classic programming of controller applications with the capabilities of professional software development for automation devices in the environment of Industry 4.0/IIoT (Industrial Internet of Things).",
-		"category_list": ["Engineering"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "https://github.com/topics/codesys",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Engineering",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "Codesys runtime",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-runtime.html",
-		"created_year": "",
-		"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",
-		"category_list": ["Automotive"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": ["Single Device License"],
-		"source_code_download": "https://github.com/topics/codesys",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Runtime",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "Codesys Automation Server",
-		"logo_url": "https://www.automation-server.com/fileadmin/user_data/00_header/CODESYS_Automation-Server_Header_V02.png",
-		"website_url": "https://www.automation-server.com/en/",
-		"created_year": "",
-		"description": "For the administration of compatible devices, an industry 4.0 platform is available, which allows, for example, the storage of projects in source and binary code via web browser and their download to connected devices. The platform is hosted in a public cloud. ",
-		"category_list": ["Automotive"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Automation_Server",
-		"reference_list": [{
-			"title": "Inasoft GmbH",
-			"logo_url": "https://www.inasoft.ch/img/logo.svg",
-			"country": "DE",
-			"industry": "Data Processing"
+			"title": "Codesys engineering",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-engineering.html",
+			"created_year": "",
+			"Solution type": "Software",
+			"description": "CODESYS is the leading software platform for IEC 61131-3 compliant project engineering. The development system combines classic programming of controller applications with the capabilities of professional software development for automation devices in the environment of Industry 4.0/IIoT (Industrial Internet of Things).",
+			"category_list": ["Developer"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "https://github.com/topics/codesys",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Engineering",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
 		}, {
-			"title": "Fliegl Group",
-			"logo_url": "https://fliegl-agrartechnik.de/typo3conf/ext/sitepackage_v9/Resources/Public/Images/fliegl-agrartechnik.png",
-			"country": "DE",
-			"industry": "Construction"
+			"title": "Codesys runtime",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-runtime.html",
+			"created_year": "",
+			"Solution list": "Software",
+			"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",
+			"category_list": ["Developer"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": ["Single Device License"],
+			"source_code_download": "https://github.com/topics/codesys",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Runtime",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
 		}, {
-			"title": "Packsize Technologies AB",
-			"logo_url": "https://www.packsize.com/wp-content/uploads/2019/07/packsize-logo.svg",
-			"country": "SE",
-			"industry": "Packaging"
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "Codesys Vizualisation",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-visualization.html",
-		"created_year": "",
-		"description": "An integrated editor helps the user create complex visualization masks directly in the programming system CODESYS and animate them based on application variables. To simplify the procedure, integrated visualization elements are available. ",
-		"category_list": ["Information Technology"],
-		"similar_solution_list": [{
-			"title": "Indusof Web Studio",
-			"similiar_solution_url": "https://www.aveva.com/en/products/edge/",
-			"category": "Information Technology"
+			"title": "Codesys Automation Server",
+			"logo_url": "https://www.automation-server.com/fileadmin/user_data/00_header/CODESYS_Automation-Server_Header_V02.png",
+			"website_url": "https://www.automation-server.com/en/",
+			"created_year": "",
+			"Solution typ": "Software",
+			"description": "For the administration of compatible devices, an industry 4.0 platform is available, which allows, for example, the storage of projects in source and binary code via web browser and their download to connected devices. The platform is hosted in a public cloud. ",
+			"category_list": ["IOT and industrial"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Automation_Server",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "Inasoft and Autowaschtechnik AWT AG",
+				"description": "Autowaschtechnik AWT AG sells turnkey car wash centers under the brand name Soft Car Wash . In addition to optimum cleaning results, AWT AG attaches particular importance to the economical use of resources as well as careful waste and process water cleaning. The use of intelligent control technology in the plants is of vital importance in achieving these goals. The company relies on CODESYS-based systems for this purpose. The associated control applications and visualizations are developed and optimized by the experienced Swiss system integrator Inasoft GmbH.",
+				"image_url": "",
+				"industry": "Information Technology",
+				"customer": "Inasoft GmbH",
+				"country": "DE",
+				"language": "EN",
+				"success_case_url": "https://www.automation-server.com/en/success-stories/inasoft-gmbh/"
+			}, {
+				"title": "Fliegl Group | RondoDry",
+				"description": "In its Energy division, the Fliegl Group focuses on saving and recovering valuable energy. The RondoDry treatment plant for liquid manure and digested residues evaporates up to 4,000 m³ of water per year, thus removing around 70 % of the ammonium nitrogen from the liquid manure. As a result, the liquid manure contains less nitrogen when spread on the land, and storage, transport, and spreading costs are significantly reduced. Another positive effect of the treatment: Heat and biogas are released and can be used for heating and power generation.",
+				"image_url": "",
+				"industry": "Energy and Utilities",
+				"customer": "Fliegl Group",
+				"country": "DE",
+				"language": "EN",
+				"success_case_url": "https://www.automation-server.com/en/success-stories/fliegl-group/"
+			}, {
+				"title": "Packsize Technologies AB",
+				"description": "With On Demand Packaging®, Packsize offers intelligent packaging solutions: The smallest possible packaging is created for each product, exactly when it is needed. The benefits: Significantly less packaging material, optimized throughput in the supply chain thanks to small packages. The M1 machine series is automated with CODESYS-based controllers from Berghof Automation.Packaging - as - a - Service concept, Packsize offers not only hardware but also software. Improvements for both hard- and software can be derived from the production data. Updates for the machines are provided every two months.",
+				"image_url": "",
+				"industry": "Commerce and Retail",
+				"customer": "Packsize Technologies AB",
+				"country": "FR",
+				"language": "EN",
+				"success_case_url": "https://www.automation-server.com/en/success-stories/packsize-technologies-ab/"
+			}]
 		}, {
-			"title": "Cimicity",
-			"similiar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
-			"category": "Information Technology"
+			"title": "Codesys Vizualisation",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-visualization.html",
+			"created_year": "",
+			"description": "An integrated editor helps the user create complex visualization masks directly in the programming system CODESYS and animate them based on application variables. To simplify the procedure, integrated visualization elements are available. ",
+			"category_list": ["IOT and industrial"],
+			"similar_solution_list": [{
+				"title": "Indusof Web Studio",
+				"similiar_solution_url": "https://www.aveva.com/en/products/edge/",
+				"category": "IOT and industrial"
+			}, {
+				"title": "Cimicity",
+				"similiar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+				"category": "IOT and industrial"
+			}, {
+				"title": "SIMATIC WinCC",
+				"similiar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
+				"category": "IOT and industrial"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Visualization",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
 		}, {
-			"title": "SIMATIC WinCC",
-			"similiar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
-			"category": "Information Technology"
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Visualization",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "CODESYS FIELDBUS",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-fieldbus.html",
-		"created_year": "",
-		"description": "CODESYS provides seamlessly integrated configurators for a wide variety of fieldbus systems for configuring the process image of controllers:",
-		"category_list": ["Information Technology"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Fieldbus_technology",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "Codesys Communication",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-communication.html",
-		"created_year": "",
-		"description": "For the exchange of data with other devices in control networks, CODESYS can seamlessly integrate and use communication protocols. These include proprietary protocols, standardized protocols in automation technology, such as OPC and OPC UA, standard protocols for serial and Ethernet interfaces as well as standard protocols of web technology, such as MQTT or https. The latter are also offered in the form of encapsulated libraries for simplified access to public clouds from AWS or Microsoft (Azure).",
-		"category_list": ["Communication"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_solution": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Communication",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "CODESYS MOTION CNC ROBOTICS",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-motion-cnc-robotics.html",
-		"created_year": "",
-		"description": "Logic control and motion integrated in one single IEC 61131-3 system: Development kit for everything from basic motion applications to advanced CNC and robotic controllers.",
-		"category_list": ["Automotive"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Motion_CNC_Robotics",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "Codesys Safety",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-safety.html",
-		"created_year": "",
-		"description": "Integrated Safety Software certified according to DIN 61508 - suitable solutions for all SIL2 and SIL3 application areas",
-		"category_list": ["Automotive"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Safety",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}, {
-		"title": "Codesys services",
-		"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
-		"website_url": "https://www.codesys.com/products/codesys-services.html",
-		"created_year": "",
-		"description": "Training, consulting and development directly from the manufacturer of CODESYS.",
-		"category_list": [],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
-	}]
+			"title": "CODESYS FIELDBUS",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-fieldbus.html",
+			"created_year": "",
+			"Solution type": "Software",
+			"description": "CODESYS provides seamlessly integrated configurators for a wide variety of fieldbus systems for configuring the process image of controllers:",
+			"category_list": ["IOT and Industrial"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Fieldbus_technology",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Codesys Communication",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-communication.html",
+			"created_year": "",
+			"Solution type": "Software",
+			"description": "For the exchange of data with other devices in control networks, CODESYS can seamlessly integrate and use communication protocols. These include proprietary protocols, standardized protocols in automation technology, such as OPC and OPC UA, standard protocols for serial and Ethernet interfaces as well as standard protocols of web technology, such as MQTT or https. The latter are also offered in the form of encapsulated libraries for simplified access to public clouds from AWS or Microsoft (Azure).",
+			"category_list": ["IOT and industrial"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_solution": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Communication",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "CODESYS MOTION CNC ROBOTICS",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-motion-cnc-robotics.html",
+			"created_year": "",
+			"Solution type": "Software",
+			"description": "Logic control and motion integrated in one single IEC 61131-3 system: Development kit for everything from basic motion applications to advanced CNC and robotic controllers.",
+			"category_list": ["IOT and industrial"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Motion_CNC_Robotics",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}, {
+			"title": "Codesys Safety",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-safety.html",
+			"created_year": "",
+			"Solution type": "software",
+			"description": "Integrated Safety Software certified according to DIN 61508 - suitable solutions for all SIL2 and SIL3 application areas",
+			"category_list": ["Cybersecurity"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "https://en.wikipedia.org/wiki/CODESYS#Safety",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		},
+		{
+			"title": "Codesys services",
+			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
+			"website_url": "https://www.codesys.com/products/codesys-services.html",
+			"created_year": "",
+			"Solution type": "Software",
+			"description": "Training, consulting and development directly from the manufacturer of CODESYS.",
+			"category_list": ["Developer"],
+			"similar_solution_list": [{
+				"title": "",
+				"similiar_solution_url": "",
+				"category": ""
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
+			"floss_software": "no",
+			"commercial_support_open_source_version": "no",
+			"commercial_support_available": "yes",
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "",
+				"logo_url": "",
+				"country": "",
+				"industry": ""
+			}],
+			"success_case_list": [{
+				"title": "",
+				"description": "",
+				"image_url": "",
+				"industry": "",
+				"customer": "",
+				"country": "",
+				"language": "",
+				"success_case_url": ""
+			}]
+		}
+	]
 }
