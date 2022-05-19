@@ -9,7 +9,7 @@
 		"postal_code": "2514",
 		"city": "AA Den Haag",
 		"country": "NL",
-		"phone_contact": "+49 911 34079777",
+		"phone_contact": "+4991134079777",
 		"mail_contact": "invoice-queries@powerdns.com",
 		"coordinate_list": [52.08773676309791, 4.313986230680774]
 	},
@@ -23,41 +23,6 @@
 		"total_assets": "",
 		"revenues": "459695000€",
 		"source_url": "https://www.zoominfo.com/c/powerdnscom-bv/352141078"
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
 	}],
 	"solution_list": [{
 		"title": "Authoritative Server",
@@ -84,18 +49,113 @@
 			"category": "Information Technology"
 		}],
 		"licence_list": ["GNU General Public License v2"],
-		"source_code_download": "https://github.com/PowerDNS/",
-		"source_code_profile": "https://www.openhub.net/p/powerdns",
+		"source_code_download": "https://github.com/PowerDNS/pdns.git",
+		"source_code_profile": "https://www.openhub.net/p/powerdns/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.powerdns.com/contact.html",
 		"floss_software": "yes",
 		"commercial_support_open_source_version": "yes",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PowerDNS",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
+			"title": "T-Mobile Czech Republic",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Telekom_Logo_2013.svg/langfr-280px-Telekom_Logo_2013.svg.png",
+			"country": "CZ",
+			"industry": "Telecommunication"
+		},{
+			"title": "Bredband2",
+			"logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/dthunraob5urykbldynu",
+			"country": "SE",
+			"industry": "Telecommunication"
+		},{
+			"title": "mijndomein.nl",
+			"logo_url": "https://www.mijndomein.nl/frontend2/main/assets/images/md-logo.svg",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "Argeweb",
+			"logo_url": "https://www.argeweb.nl/images/argeweb-yourhosting-horizontal.svg",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "Hostnet",
+			"logo_url": "NL",
+			"country": "https://s3-eu-west-1.amazonaws.com/tpd/logos/4bdf61ba0000640005071aa4/0x0.png",
+			"industry": "Information Technology"
+		},{
+			"title": "BIT Internet Technology",
+			"logo_url": "https://www.bit.nl/assets/images/bit_logo_white.png",
+			"country": "NL",
+			"industry": "Information Technology"
+	 	},{
+			"title": "Totaalnet Internet Works",
+			"logo_url": "https://www.totaalnet.nl/wp-content/uploads/2016/02/totaalnet-logo.png",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "Oxilion",
+			"logo_url": "https://www.oxilion.nl/hubfs/Logos/Oxilion%20Logo.png",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "WebReus",
+			"logo_url": "https://cdn2.downdetector.com/static/uploads/c/300/eac35/webreuslogo.png",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "CDN77",
+			"logo_url": "data:image/png;base64,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",
+			"country": "GB",
+			"industry": "Internet Technology"
+		},{
+			"title": "Vimexx",
+			"logo_url": "https://www.vimexx.nl/img/header/navigation-bar/vimexx_logo.svg",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "bHosted.nl",
+			"logo_url": "https://www.bhosted.nl/v3/frame-images/bhosted-webhosting-social-media.png",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "Zyro",
+			"logo_url": "https://zyro.com/zyro-logo.png",
+			"country": "LT",
+			"industry": "Information Technology"
+		},{
+			"title": "Stream Service",
+			"logo_url": "http://www.streamservice.nl/images/logo-streamservice.png",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "Rage4",
+			"logo_url": "https://static.rage4.com/img/logo_rage4.svg",
+			"country": "IE",
+			"industry": "Information Technology"
+		},{
+			"title": "GSLB.me",
+			"logo_url": "https://www.gslb.me/wp-content/uploads/2014/12/cropped-gslb.me_-4.png",
+			"country": "IT",
+			"industry": "Information Technology"
+		},{
+			"title": "RoseHosting",
+			"logo_url": "https://www.rosehosting.com/wp-content/uploads/2021/08/RH-Logo.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Serverion",
+			"logo_url": "https://serverion.com/wp-content/uploads/2019/01/cropped-cropped-logo_black-1-1.png",
+			"country": "NL",
+			"industry": "Information Technology"
+		},{
+			"title": "HostUp",
+			"logo_url": "https://hostup.org/img/logo.svg",
+			"country": "SE",
+			"industry": "Information Technology"
+		},{
+			"title": "WebOké",
+			"logo_url": "https://www.weboke.nl/templates/lagom/assets/img/logo/logo_big_inverse.svg",
+			"country": "NL",
+			"industry": "Information Technology"
 		}],
 		"success_case_list": [{
 			"title": "",
