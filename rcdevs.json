@@ -9,9 +9,9 @@
     "postal_code": "4370",
     "city": "Esch-sur-Alzette",
     "country": "LU",
-    "phone_contact": "+352 26 17 61 21",
+    "phone_contact": "+35226176121",
     "mail_contact": "info@rcdevs.com",
-    "coordinate_list": ["49.502436959074835, 5.944859107618239"]
+    "coordinate_list": [49.502436959074835, 5.944859107618239]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.rcdevs.com/",
@@ -51,45 +51,45 @@
     "website_url": "https://www.rcdevs.com/products/openotp/",
     "created_year": "",
     "description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
-    "category_list": ["Information Technology"]
+    "category_list": ["Identity"]
   },{
     "title": "SpanKey SSH Key Server Management",
     "logo_url": "",
     "website_url": "https://www.rcdevs.com/products/spankey/",
     "created_year": "",
     "description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
-    "category_list": ["Information Technology"]
+    "category_list": ["Identity"]
   },{
     "title": "WebADM Control Center",
     "logo_url": "",
     "website_url": "https://www.rcdevs.com/products/webadm/",
     "created_year": "",
     "description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Service Lifecycle Automation"],
     "similar_solution_list": [{
       "title": "Auth0",
       "similiar_solution_url": "https://auth0.com/key",
-      "category": "Information Technology"
+      "category": "Identity"
     },{
       "title": "Keycloak",
       "similiar_solution_url": "https://www.keycloak.org/",
-      "category": "Information Technology"
+      "category": "Identity"
     },{
       "title": "Amazon Cognito",
       "similiar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
-      "category": "Information Technology"
+      "category": "Identity"
     },{
       "title": "Spring Security",
       "similiar_solution_url": "https://spring.io/projects/spring-security",
-      "category": "Information Technology"
+      "category": "Cybersecurity"
     },{
       "title": "Firebase Authentication",
       "similiar_solution_url": "https://firebase.google.com/",
-      "category": "Information Technology"
+      "category": "Identity"
     },{
       "title": "JSON web Token",
       "similiar_solution_url": "https://jwt.io/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "https://www.rcdevs.com/fr/downloads/",
