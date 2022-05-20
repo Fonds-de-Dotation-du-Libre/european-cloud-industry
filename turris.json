@@ -22,8 +22,8 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/mox/overview/",
 		"created_year": "",
-		"Solution type": "Hardware",
 		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
+		"Solution type": "Hardware",
 		"category_list": ["Switches"],
 		"similar_solution_list": [{
 			"title": "",
@@ -45,8 +45,8 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/omnia/overview/",
 		"created_year": "",
-		"Solution type": "Hardware",
 		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
+		"Solution type": "Hardware",
 		"category_list": ["Switches"],
 		"similar_solution_list": [{
 			"title": "eero Home WiFi System",
@@ -86,8 +86,8 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/shield/overview/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
+		"Solution type": "Software",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "OpenWRT",
@@ -123,8 +123,8 @@
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/turris-os/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
+		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
