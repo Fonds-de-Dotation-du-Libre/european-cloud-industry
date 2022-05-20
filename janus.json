@@ -64,8 +64,8 @@
 		"logo_url": "https://janus.conf.meetecho.com/janus-logo.png",
 		"website_url": "https://janus.conf.meetecho.com/",
 		"created_year": "2014",
-		"Solution type": "Software",
 		"description": "Janus is a WebRTC Server developed by Meetecho conceived to be a general purpose one. As such, it doesn't provide any functionality per se other than implementing the means to set up a WebRTC media communication with a browser, exchanging JSON messages with it, and relaying RTP/RTCP and messages between browsers and the server-side application logic they're attached to",
+		"Solution type": "Software",
 		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "NetSuite",
