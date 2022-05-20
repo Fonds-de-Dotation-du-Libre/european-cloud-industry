@@ -9,9 +9,9 @@
 		"postal_code": "93100",
 		"city": "Montreuil",
 		"country": "FR",
-		"phone_contact": "+33 (0)1 48 58 18 01",
+		"phone_contact": "+33148581801",
 		"mail_contact": "info@jamespot.com",
-		"coordinate_list": ["48.852196813582395, 2.425986557687416"]
+		"coordinate_list": [48.852196813582395, 2.425986557687416]
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://www.fr.jamespot.com/",
@@ -19,38 +19,38 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "30",
-		"earnings": "335 376€",
-		"total_assets": "4 183 861€",
-		"revenues": "3 165 101€",
-		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
+		"earnings": "335376€",
+		"total_assets": "4183861€",
+		"revenues": "3165101€",
+		"source_url": "https://www.verif.com/"
 		}, {
 		"year": "2019",
 		"staff": "17",
-		"earnings": "292 357€",
-		"total_assets": "3 168 957€",
-		"revenues": "2 642 058€",
-		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
+		"earnings": "292357€",
+		"total_assets": "3168957€",
+		"revenues": "2642058€",
+		"source_url": "https://www.verif.com/"
 		}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "575 849€",
-		"total_assets": "2 776 611€",
-		"revenues": "2 029 737€",
-		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
+		"earnings": "575849€",
+		"total_assets": "2776611€",
+		"revenues": "2029737€",
+		"source_url": "https://www.verif.com/"
 		}, {
 		"year": "2017",
 		"staff": "13",
-		"earnings": "343 980€",
-		"total_assets": "1 966 824€",
-		"revenues": "1 414 382€",
-		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
+		"earnings": "343980€",
+		"total_assets": "1966 824€",
+		"revenues": "1414382€",
+		"source_url": "https://www.verif.com/"
 		}, {
 		"year": "2016",
 		"staff": "13",
-		"earnings": "65 623€",
-		"total_assets": "1 531 557€",
-		"revenues": "1 159 671€",
-		"source_url": "https://www.verif.com/bilans-gratuits/JAMESPOT-483321378/"
+		"earnings": "65623€",
+		"total_assets": "1531557€",
+		"revenues": "1159671€",
+		"source_url": "https://www.verif.com/"
 		}],
 	"solution_list": [{
 		"title": "Open Agora",
@@ -58,24 +58,24 @@
 		"website_url": "https://www.fr.jamespot.com/open-agora",
 		"created_year": "",
 		"description": "Open Agora centralizes all of your organization's internal communication on a single, customizable, secure and easy-to-use platform. Information is structured in dedicated groups or discussions and is accessible in real time from anywhere.",
-		"category_list": "",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "Google Workspace",
 			"similiar_solution_url": "https://workspace.google.com/",
-			"category": ""
+			"category": "Workspace"
 			}, {
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": ""
+			"category": "Application"
 		}],
-		"licence_list": "",
+		"licence_list": "Proprietary",
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
+		"commercial_support_url": "https://www.en.jamespot.com/pricing",
+		"floss_software": "No",
+		"commercial_support_open_source_version": "No",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": "",
 		"success_case_list": [{
 			"title": "Communication improvement with Jamespot",
@@ -147,7 +147,7 @@
 		"website_url": "https://www.fr.jamespot.com/fast-intranet",
 		"created_year": "",
 		"description": "Fast Intranet gives meaning to your internal communication by providing simplified access to information (news, reference documents, key figures ...) and information systems of your organization (HRIS, GED, CRM ...)",
-		"category_list": "",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "Microsoft sharePoint",
 			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
@@ -155,20 +155,20 @@
 			}, {
 			"title": "Workvivo",
 			"similiar_solution_url": "https://www.workvivo.com/product/",
-			"category": ""
+			"category": "Application"
 			}, {
 			"title": "Workplace from Meta",
 			"similiar_solution_url": "https://www.workplace.com/",
-			"category": ""
+			"category": "Appliation"
 		}],
-		"licence_list": "",
+		"licence_list": "Proprietary",
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
+		"commercial_support_url": "https://www.en.jamespot.com/pricing",
+		"floss_software": "No",
+		"commercial_support_open_source_version": "No",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": "",
 		"success_case_list": [{
 			"title": "Better intranet platform with with Jamespot",
@@ -195,24 +195,24 @@
 		"website_url": "https://www.fr.jamespot.com/diapazone",
 		"created_year": "",
 		"description": "Diapazone gathers a set of applications allowing you to prepare and animate your meetings in an efficient way, whatever your objectives (team meetings, brainstorms, etc).",
-		"category_list": "",
+		"category_list": ["Application", "Communication"],
 		"similar_solution_list": [{
 			"title": "Zoom",
 			"similiar_solution_url": "https://zoom.us/",
-			"category": ""
+			"category": ["Application", "Communication"]
 			}, {
 			"title": "Webex",
 			"similiar_solution_url": "https://www.webex.com/fr/index.html",
-			"category": ""
+			"category": ["Application", "Communication"]
 		}],
-		"licence_list": "",
+		"licence_list": "Proprietary",
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
+		"commercial_support_url": "https://www.en.jamespot.com/pricing",
+		"floss_software": "No",
+		"commercial_support_open_source_version": "No",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": "",
 		"success_case_list": ""
 		}, {
@@ -221,24 +221,24 @@
 		"website_url": "https://www.fr.jamespot.com/wedoc",
 		"created_year": "",
 		"description": "Wedoc organizes the creation of your documents: edit several times and in real time, store your document in folders and find it easily by typing a keyword. It's as easy as pie",
-		"category_list": "",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": ""
+			"category": "Workspace"
 			}, {
 			"title": "Google workspace (Google Doc)",
 			"similiar_solution_url": "https://www.google.com/docs/about/",
-			"category": ""
+			"category": "Workspace"
 		}],
-		"licence_list": "",
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
+		"licence_list": "Proprietary",
+		"source_code_download": "NO",
+		"source_code_profile": "NO",
+		"commercial_support_url": "https://www.en.jamespot.com/pricing",
+		"floss_software": "NO",
+		"commercial_support_open_source_version": "NO",
+		"commercial_support_available": "Yes",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": "",
 		"success_case_list": ""
 	}]
