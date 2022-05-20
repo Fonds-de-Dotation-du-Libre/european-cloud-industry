@@ -64,8 +64,8 @@
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/groupware/",
 		"created_year": "2020",
-		"solution type": "software",
 		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
+		"solution type": "software",		
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft 365",
@@ -116,8 +116,8 @@
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/meet/",
 		"created_year": "2019",
-		"solution type": "Software",
 		"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
+		"solution type": "Software",		
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Rocket.Chat",
