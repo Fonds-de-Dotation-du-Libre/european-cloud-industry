@@ -36,8 +36,8 @@
 		"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
 		"website_url": "https://mender.io/plans/features",
 		"created_year": "2016",
-		"Solution type": "Software",
 		"description": "Mender enables developers and device makers to adapt to an evolving product landscape by managing and deploying all device software remotely, worldwide.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Particle",
