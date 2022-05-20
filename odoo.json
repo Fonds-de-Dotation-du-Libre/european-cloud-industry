@@ -9,9 +9,9 @@
     "postal_code": "1367",
     "city": "Grand-Rosière-Ramillies",
     "country": "BE",
-    "phone_contact": "+32 81 81 37 00",
+    "phone_contact": "+3281813700",
     "mail_contact": "fp@openerp.com ",
-    "coordinate_list": ["50.63537307087549, 4.864376886205374"]
+    "coordinate_list": [50.63537307087549, 4.864376886205374]
   },
   "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
   "website_url": "https://www.odoo.com/",
@@ -22,28 +22,28 @@
     "earnings": "140822€",
     "total_assets": "",
     "revenues": "43871968€",
-    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
+    "source_url": "https://www.companyweb.be/"
   },{
     "year": "2019",
     "staff": "",
     "earnings": "422478€",
     "total_assets": "",
     "revenues": "29772268€",
-    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
+    "source_url": "https://www.companyweb.be/"
   },{
     "year": "2018",
     "staff": "",
     "earnings": "-328269€",
     "total_assets": "",
     "revenues": "20157092€",
-    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
+    "source_url": "https://www.companyweb.be/"
   },{
     "year": "2017",
     "staff": "",
     "earnings": "194682€",
     "total_assets": "",
     "revenues": "13595391€",
-    "source_url": "https://www.companyweb.be/societe/odoo/sa/477472701"
+    "source_url": "https://www.companyweb.be/"
   }],
   "solution_list": [{
     "title": "Odoo Software",
@@ -51,35 +51,35 @@
     "website_url": "https://www.odoo.com/",
     "created_year": "2002",
     "description": "Odoo is a suite of open source business apps that cover all companies' needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Workspace"],
     "similar_solution_list": [{
       "title": "ERPNext",
       "similiar_solution_url": "https://erpnext.com/",
-      "category": "Information Technology"
+      "category": "Workspace"
      },{
       "title": "Dolibarr",
       "similiar_solution_url": "https://www.dolibarr.org/",
-      "category": "Information Technology"
+      "category": "Workspace"
     },{
       "title": "EspoCRM",
       "similiar_solution_url": "https://www.espocrm.com/",
-      "category": "Information Technology"
+      "category": "Workspace"
     },{
       "title": "ZenTao",
       "similiar_solution_url": "https://www.zentao.pm/",
-      "category": "Information Technology"
+      "category": "Workspace"
     },{
       "title": "Tryton",
       "similiar_solution_url": "https://www.tryton.org/",
-      "category": "Information Technology"
+      "category": "Workspace"
     },{
       "title": "Crust CRM",
       "similiar_solution_url": "https://www.planetcrust.com/solutions/crm/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Invoice Planehttps://www.invoiceplane.com/https://www.invoiceplane.com/",
       "similiar_solution_url": "https://www.invoiceplane.com/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["LGPLv3"],
     "source_code_download": "https://github.com/odoo/odoo.git",
