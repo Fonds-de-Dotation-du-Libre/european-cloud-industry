@@ -59,8 +59,8 @@
 			"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/logo-full.svg",
 			"website_url": "https://www.tarantool.io/en/product/enterprise/",
 			"created_year": "",
-			"description": "Tarantool has been helping companies all over the world build smart caches, data marts, and golden client profiles, while saving server capacity.",
 			"Solution type": "Software",
+			"description": "Tarantool has been helping companies all over the world build smart caches, data marts, and golden client profiles, while saving server capacity.",
 			"category_list": ["Storage and database"],
 			"similar_solution_list": [{
 				"title": "",
