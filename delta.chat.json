@@ -64,8 +64,8 @@
 		"logo_url": "https://delta.chat/assets/logos/delta-chat.svg",
 		"website_url": "https://delta.chat/en/download",
 		"created_year": "2017",
-		"solution type": "software",
 		"description": "Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number.",
+		"solution type": "software",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Telegram",
