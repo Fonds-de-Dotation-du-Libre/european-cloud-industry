@@ -57,8 +57,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-engineering.html",
 			"created_year": "",
-			"Solution type": "Software",
 			"description": "CODESYS is the leading software platform for IEC 61131-3 compliant project engineering. The development system combines classic programming of controller applications with the capabilities of professional software development for automation devices in the environment of Industry 4.0/IIoT (Industrial Internet of Things).",
+			"Solution type": "Software",			
 			"category_list": ["Developer"],
 			"similar_solution_list": [{
 				"title": "",
@@ -94,8 +94,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-runtime.html",
 			"created_year": "",
-			"Solution list": "Software",
 			"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",
+			"Solution list": "Software",			
 			"category_list": ["Developer"],
 			"similar_solution_list": [{
 				"title": "",
@@ -131,8 +131,8 @@
 			"logo_url": "https://www.automation-server.com/fileadmin/user_data/00_header/CODESYS_Automation-Server_Header_V02.png",
 			"website_url": "https://www.automation-server.com/en/",
 			"created_year": "",
-			"Solution typ": "Software",
 			"description": "For the administration of compatible devices, an industry 4.0 platform is available, which allows, for example, the storage of projects in source and binary code via web browser and their download to connected devices. The platform is hosted in a public cloud. ",
+			"Solution typ": "Software",		
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "",
@@ -187,6 +187,7 @@
 			"website_url": "https://www.codesys.com/products/codesys-visualization.html",
 			"created_year": "",
 			"description": "An integrated editor helps the user create complex visualization masks directly in the programming system CODESYS and animate them based on application variables. To simplify the procedure, integrated visualization elements are available. ",
+			"Solution type": "Software", 
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "Indusof Web Studio",
@@ -230,8 +231,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-fieldbus.html",
 			"created_year": "",
-			"Solution type": "Software",
 			"description": "CODESYS provides seamlessly integrated configurators for a wide variety of fieldbus systems for configuring the process image of controllers:",
+			"Solution type": "Software",			
 			"category_list": ["IOT and Industrial"],
 			"similar_solution_list": [{
 				"title": "",
@@ -267,8 +268,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-communication.html",
 			"created_year": "",
-			"Solution type": "Software",
 			"description": "For the exchange of data with other devices in control networks, CODESYS can seamlessly integrate and use communication protocols. These include proprietary protocols, standardized protocols in automation technology, such as OPC and OPC UA, standard protocols for serial and Ethernet interfaces as well as standard protocols of web technology, such as MQTT or https. The latter are also offered in the form of encapsulated libraries for simplified access to public clouds from AWS or Microsoft (Azure).",
+			"Solution type": "Software",			
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "",
@@ -304,8 +305,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-motion-cnc-robotics.html",
 			"created_year": "",
-			"Solution type": "Software",
 			"description": "Logic control and motion integrated in one single IEC 61131-3 system: Development kit for everything from basic motion applications to advanced CNC and robotic controllers.",
+			"Solution type": "Software",			
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "",
@@ -341,8 +342,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-safety.html",
 			"created_year": "",
-			"Solution type": "software",
 			"description": "Integrated Safety Software certified according to DIN 61508 - suitable solutions for all SIL2 and SIL3 application areas",
+			"Solution type": "software",			
 			"category_list": ["Cybersecurity"],
 			"similar_solution_list": [{
 				"title": "",
@@ -379,8 +380,8 @@
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-services.html",
 			"created_year": "",
-			"Solution type": "Software",
 			"description": "Training, consulting and development directly from the manufacturer of CODESYS.",
+			"Solution type": "Software",			
 			"category_list": ["Developer"],
 			"similar_solution_list": [{
 				"title": "",
