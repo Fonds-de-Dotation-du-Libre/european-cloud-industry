@@ -63,8 +63,8 @@
 		"title": "Kopano Groupware",
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/groupware/",
-		"solution type": "software",
 		"created_year": "2020",
+		"solution type": "software",
 		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
