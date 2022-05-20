@@ -65,8 +65,8 @@
 		"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop-colors.svg",
 		"website_url": "https://www.prestashop.com/en/download",
 		"created_year": "2007",
-		"Solution type": "Software",
 		"description": "PrestaShop allows ambitious entrepreneurs and companies to create and develop their own ecommerce site. Our open source software unites a global community.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Ecwid",
