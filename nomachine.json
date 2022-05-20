@@ -11,7 +11,7 @@
     "country": "LU",
     "phone_contact": "+35226262164",
     "mail_contact": "https://www.nomachine.com/contact-request",
-    "coordinate_list": ["49.61078110385623, 6.128842828451777"]
+    "coordinate_list": [49.61078110385623, 6.128842828451777]
   },
   "subsidiary_location_list": ["DE","US"],
   "website_url": "https://www.nomachine.com/",
@@ -20,37 +20,37 @@
     "year": "2020",
     "staff": "",
     "earnings": "",
-    "total_assets": "6.219.681,14 €",
+    "total_assets": "6219681€",
     "revenues": "",
-    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+    "source_url": "https://e-justice.europa.eu/"
   }, {
     "year": "2019",
     "staff": "",
     "earnings": "",
-    "total_assets": "6.192.463,92 €",
+    "total_assets": "6192463€",
     "revenues": "",
-    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+    "source_url": "https://e-justice.europa.eu/"
   },{
     "year": "2018",
     "staff": "",
     "earnings": "",
-    "total_assets": "5.096.173,69 €",
+    "total_assets": "5096173€",
     "revenues": "",
-    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+    "source_url": "https://e-justice.europa.eu/"
   },{
     "year": "2017",
     "staff": "",
     "earnings": "",
-    "total_assets": "4.122.374,89 €",
+    "total_assets": "4122374€",
     "revenues": "",
-    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+    "source_url": "https://e-justice.europa.eu/"
   },{
     "year": "2016",
     "staff": "",
     "earnings": "",
-    "total_assets": "3.837.492,66 €",
+    "total_assets": "3837492€",
     "revenues": "",
-    "source_url": "https://e-justice.europa.eu/brisCompanyDetails.do?correlationId=d843cb12-2a88-48d7-8d32-22b7df2d7dcf"
+    "source_url": "https://e-justice.europa.eu/"
   }],
   "solution_list": [{
     "title": "NoMachine Software",
@@ -58,31 +58,31 @@
     "website_url": "https://www.nomachine.com/",
     "created_year": "2002",
     "description": "NoMachine is the network computing company. Our products radically simplify remote connectivity for both consumers and businesses, delivering applications and desktops to any user, over any network. The software's award-winning performance and enterprise-class management tools make it a complete remote access and hosted desktop solution for any organization.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Desktop virtualisation"],
     "similar_solution_list": [{
       "title": "Remmina",
       "similiar_solution_url": "https://remmina.org/",
-      "category": "Information Technology"
+      "category": "Desktop virtualisation"
     },{
       "title": "mRemoteNG",
       "similiar_solution_url": "https://mremoteng.org/",
-      "category": "Information Technology"
+      "category": "Desktop virtualisation"
     },{
       "title": "DWService",
       "similiar_solution_url": "https://www.dwservice.net/",
-      "category": "Information Technology"
+      "category": "Desktop virtualisation"
     },{
       "title": "Tight VNC",
       "similiar_solution_url": "https://www.tightvnc.com/",
-      "category": "Information Technology"
+      "category": "Desktop virtualisation"
     },{
       "title": "X2Go",
       "similiar_solution_url": "https://wiki.x2go.org/doku.php/start",
-      "category": "Information Technology"
+      "category": "Desktop virtualisation"
     },{
       "title": "AnyDesk",
       "similiar_solution_url": "https://anydesk.com/gb",
-      "category": "Information Technology"
+      "category": "Desktop virtualisation"
     }],
     "licence_list": ["Proprietary", "https://www.nomachine.com/licensing"],
     "source_code_download": "",
