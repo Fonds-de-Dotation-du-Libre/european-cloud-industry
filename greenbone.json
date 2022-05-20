@@ -64,8 +64,8 @@
 		"logo_url": "https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head_wht.png",
 		"website_url": "https://www.greenbone.net/en/products/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "They consist of the Greenbone Operating System (GOS) on which the Greenbone Enterprise Feed is installed, a scan service, the web interface and, in the case of the hardware appliances, a special hardware. The scan service uses vulnerability tests (VTs) to detect existing vulnerabilities on the inspected network.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "",
@@ -101,8 +101,8 @@
 		"logo_url": "https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head_wht.png",
 		"website_url": "https://www.greenbone.net/en/products/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "It scans your IT infrastructure for security gaps in only a few steps and then delivers a report containing all found vulnerabilities, sorted by severity.",
+		"Solution type": "Software",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Orca Security",
