@@ -57,7 +57,7 @@
 		"logo_url": "https://www.bisdn.de/wp-content/uploads/Icon_Linux-Distribution_designred-150x150.png",
 		"website_url": "https://www.bisdn-linux.de/",
 		"created_year": "",
-		"Solution tyep": "Hardware",
+		"Solution type": "Hardware",
 		"description": "The open source operating system for whitebox switches. Turns your switch into an SDN switch with an Open Flow interface, or – alternatively- you can have the SDN controller directly on the switch. ",
 		"category_list": ["Switches"],
 		"similar_solution_list": [{
