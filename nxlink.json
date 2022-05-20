@@ -90,6 +90,7 @@
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 		"website_url": "https://www.enyx.com/nxaccess/",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "nxAccess is a trading engine with an FPGA algo sandbox allowing users to preload orders in hardware, receive market data then trigger & update those orders before sending to the trading venue – with the speed and performance of hardware assisted by the flexibility of software.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
@@ -165,7 +166,7 @@
 		"website_url": "https://www.enyx.com/ip-cores/",
 		"created_year": "",
 		"Solution type": "Hardware",
-		"description": "",
+		"description": "Best-in-class soft-hardware IP cores",
 		"category_list": ["CPU"],
 		"similar_solution_list": [{
 			"title": "",
