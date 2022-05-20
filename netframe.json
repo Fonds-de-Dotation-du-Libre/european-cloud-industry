@@ -9,9 +9,9 @@
 		"postal_code": "75002",
 		"city": "Paris",
 		"country": "FR",
-		"phone_contact": "+33 (0) 616132041",
+		"phone_contact": "+33616132041",
 		"mail_contact": "contact@netframe.co",
-		"coordinate_list": "48.86697066030983, 2.3485931422848796"
+		"coordinate_list": [48.86697066030983, 2.3485931422848796]
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://www.netframe.co/",
@@ -21,21 +21,21 @@
 		"title": "Netframe",
 		"logo_url": "https://www.netframe.co/media/site/1750045209-1630959429/logo.jpg",
 		"website_url": "https://www.netframe.co/",
-		"created_year": "",
+		"created_year": "2018",
 		"description": "Netframe.co develops Netframe, an All-in-One Workplace for everybody to help communication and people getting organised in their projects, organisations or entreprises through new generation documentation and workflow",
-		"category_list": "",
+		"category_list": "Workspace",
 		"similar_solution_list": [{
 			"title": "Jamespot",
 			"similiar_solution_url": "https://www.fr.jamespot.com/",
-			"category": ""
+			"category": "Workspace"
 			}, {
 			"title": "Google workspace",
 			"similiar_solution_url": "https://workspace.google.com/",
-			"category": ""
+			"category": "Workspace"
     			},{
       			"title": "Miscrosoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": ""
+			"category": "Workspace"
 		}],
 		"licence_list": "",
 		"source_code_download": "",
