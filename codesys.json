@@ -132,7 +132,7 @@
 			"website_url": "https://www.automation-server.com/en/",
 			"created_year": "",
 			"description": "For the administration of compatible devices, an industry 4.0 platform is available, which allows, for example, the storage of projects in source and binary code via web browser and their download to connected devices. The platform is hosted in a public cloud. ",
-			"Solution typ": "Software",		
+			"Solution type": "Software",			
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "",
@@ -187,7 +187,6 @@
 			"website_url": "https://www.codesys.com/products/codesys-visualization.html",
 			"created_year": "",
 			"description": "An integrated editor helps the user create complex visualization masks directly in the programming system CODESYS and animate them based on application variables. To simplify the procedure, integrated visualization elements are available. ",
-			"Solution type": "Software", 
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "Indusof Web Studio",
