@@ -175,6 +175,7 @@
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-cloud-control/?hsLang=en",
 		"created_year": "",
+		"Solution type": "Software",
 		"description": "Increase scalability, reduce costs and manage your DNS more efficiently. Benefit from DNS containerization, automation, orchestration and lifecycle management, monitoring and alerting, combined in a single interface for configuration and operations.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
