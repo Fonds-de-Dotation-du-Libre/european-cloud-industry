@@ -116,7 +116,7 @@
 		"created_year": "",
 		"solution type": "software",
 		"description": "MariaDB Enterprise Server is an enhanced, hardened and secured version of MariaDB Community Server created to provide customers with enterprise reliability, stability and long-term support as well as greater operational efficiency when it comes to managing large database deployments for business- and mission-critical applications.",
-		"category_list": ["storage and database"],
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "MongoDB",
 			"similiar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
@@ -286,7 +286,7 @@
 		"created_year": "",
 		"solution type": "software",
 		"description": "SkySQL is the first and only database-as-a-service (DBaaS) to bring the full power of MariaDB Enterprise to the cloud, combining powerful features and world-class support with unrivaled ease of use and groundbreaking innovation. Built for mission-critical applications and enterprise governance, SkySQL augments automation with the human expertise and experience needed to support and manage mission-critical deployments in the cloud – whether it’s a single development database or thousands of production databases.",
-		"category_list": ["storage and database"],
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
