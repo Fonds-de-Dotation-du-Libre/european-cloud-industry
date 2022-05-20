@@ -11,7 +11,7 @@
     "country": "Germany",
     "phone_contact": "+49 89 87767567",
     "mail_contact": "info@innoroute.de",
-    "coordinate_list": "48.143706343683164, 11.559146457687417"
+    "coordinate_list": [48.143706343683164, 11.559146457687417]
   },
   "subsidiary_location_list": "",
   "website_url": "https://innoroute.com/",
@@ -19,15 +19,15 @@
   "kpi_list": [{
     "year": "2017",
     "staff": "9",
-    "earnings": "130,323.01€",
-    "total_assets": "332,285.09€",
+    "earnings": "130323.01€",
+    "total_assets": "332285.09€",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?10"
   },{
     "year": "2016",
     "staff": "12",
-    "earnings": "-104,428.42€",
-    "total_assets": "607,860.35€",
+    "earnings": "-104428.42€",
+    "total_assets": "607860.35€",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?15"
   }],
@@ -37,7 +37,8 @@
     "website_url": "https://innoroute.com/trustnode_router/",
     "created_year": "",
     "description": "The TrustNode, e.g., in its Research Edition, is the enabling platform for this transformation for research labs, R&D, certification and test, network operators and cloud service providers to flexibly customize networks to their needs. ",
-    "category_list": "",
+    "solution_type": "hardware",
+    "category_list": "software and hardware engineering design",
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
@@ -64,7 +65,8 @@
     "website_url": "https://innoroute.com/realtimehat/",
     "created_year": "",
     "description": "The new Real-Time HAT by InnoRoute adds IEEE1588 PTP support in hardware to a Raspberry Pi 4 nestled beneath. Based around a Xilinx Artix-7 FPGA and a handful of gigabit Ethernet PHY devices, the HAT acts as network-passthrough, adding accurate time-stamps to egress (outgoing) packets and stripping time-stamps from the ingress (incoming) side.",
-    "category_list": "",
+    "solution_type": "hardware",
+    "category_list": "software and hardware engineering design",
     "similar_solution_list": "",
     "licence_list": [" GPL-3.0 License"],
     "source_code_download": "https://github.com/InnoRoute/RealtimeHAT",
@@ -74,6 +76,45 @@
     "commercial_support_open_source_version": "no",
     "commercial_support_available": "yes",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+    "reference_list": [{
+      "title": "CNX Software",
+      "logo_url": "https://eji4evk5kxx.exactdn.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-100x100.png?lossy=1&ssl=1",
+      "country": "HK",
+      "industry": "IT news and information"
+    },{
+      "title": "Raspberry Pi Pinout",
+      "logo_url": "https://pinout.xyz/resources/pinout-logo.png",
+      "country": "",
+      "industry": "documentation website"
+    },{
+      "title": "Hackaday",
+      "logo_url": "https://hackaday.com/wp-content/themes/hackaday-2/img/logo.png",
+      "country": "US",
+      "industry": "Internet publishing"
+    },{
+      "title": "LinuxGismos.com",
+      "logo_url": "",
+      "country": "US",
+      "industry": "Internet publishing"
+    }],
+    "success_case_list": ""
+  },{
+    "title": "6Tree Network",
+    "logo_url": "",
+    "website_url": "https://innoroute.com/save/",
+    "created_year": "",
+    "description": "In the 6Tree network, you can easily and immediately obtain your own static IP addresses for your smartphone and home network. You can then use your smartphone to directly access any device in the home network, for example to retrieve videos from the home server while on the move, to connect to surveillance cameras or to operate smart home components.",
+    "solution_type": "software",
+    "category_list": "software and hardware engineering design",
+    "similar_solution_list": "",
+    "licence_list": "",
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": "",
+    "commercial_support_open_source_version": "",
+    "commercial_support_available": "",
+    "wikipedia_url": "",
     "reference_list": "",
     "success_case_list": ""
     }] 
