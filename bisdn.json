@@ -57,8 +57,8 @@
 		"logo_url": "https://www.bisdn.de/wp-content/uploads/Icon_Linux-Distribution_designred-150x150.png",
 		"website_url": "https://www.bisdn-linux.de/",
 		"created_year": "",
-		"Solution type": "Hardware",
 		"description": "The open source operating system for whitebox switches. Turns your switch into an SDN switch with an Open Flow interface, or – alternatively- you can have the SDN controller directly on the switch. ",
+		"Solution type": "Hardware",
 		"category_list": ["Switches"],
 		"similar_solution_list": [{
 			"title": "",
@@ -94,8 +94,8 @@
 		"logo_url": "https://www.bisdn.de/wp-content/themes/bisdn2.1/images/logo_230x78-middle.png",
 		"website_url": "https://www.bisdn.de/#carriersolutions",
 		"created_year": "",
-		"Solution type": "Hardware",
 		"description": "We have built a virtual Broadband Remote Access Server (vBRAS) prototype, based on the CUPS approach (Control User Plane Separation). ",
+		"Solution type": "Hardware",
 		"category_list": ["Servers"],
 		"similar_solution_list": [{
 			"title": "",
@@ -131,8 +131,8 @@
 		"logo_url": "https://www.bisdn.de/wp-content/themes/bisdn2.1/images/logo_230x78-middle.png",
 		"website_url": "https://www.bisdn.de/#carriersolutions",
 		"created_year": "",
-		"Solution type": "Hardware",
 		"description": "In our capacity as Certified Integration Partner (CIP) for Tibit Communications, we have set up a lab in Berlin. Here we are showcasing the interoperability of the pluggable OLTs (Optical Line Terminals) with various switch platforms and with ONUs (Optical Network Units)",
+		"Solution type": "Hardware",
 		"category_list": ["Switches"],
 		"similar_solution_list": [{
 			"title": "",
@@ -168,8 +168,8 @@
 		"logo_url": "https://www.bisdn.de/wp-content/themes/bisdn2.1/images/logo_230x78-middle.png",
 		"website_url": "",
 		"created_year": "",
-		"Solution type": "Hardware",
 		"description": "We address the challenges of enhanced packet processing on non-ASIC environments and generic compute platforms with our eXtensible DataPath Daemon (xdpd) – a datapath framework that supports various packet processing platforms.",
+		"Solution type": "Hardware",
 		"category_list": ["CPU"],
 		"similar_solution_list": [{
 			"title": "",
@@ -205,8 +205,8 @@
 		"logo_url": "https://www.bisdn.de/wp-content/themes/bisdn2.1/images/logo_230x78-middle.png",
 		"website_url": "https://www.bisdn.de/#products",
 		"created_year": "",
-		"Solution type": "Software"
 		"description": "For those working on solutions in OpenFlow,our Revised OpenFlow Library (rofl) facilitates the development of controllers and datapath elements. Roflcommon is a C++ library offering a generic OpenFlow endpoint. Rofl-datapath is an ASNI-C implementation of an OpenFlow pipeline.  It is easily portable to multiple compute and switching platforms, including ARM, MIPS and FPGA.",
+		"Solution type": "Software"
 		"category_list": ["Developers"],
 		"similar_solution_list": [{
 			"title": "",
