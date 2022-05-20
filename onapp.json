@@ -50,8 +50,8 @@
 		"logo_url": "https://onapp.com/wp-content/uploads/2021/08/white-vz-onapp-100.png",
 		"website_url": "https://onapp.com/onapp-cloud-management-platform/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "OnApp makes it easy to build, manage and sell your own brand of IaaS cloud. It’s the complete cloud management solution for service providers.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Hostwinds",
@@ -87,8 +87,8 @@
 		"logo_url": "https://onapp.com/wp-content/uploads/2021/08/white-vz-onapp-100.png",
 		"website_url": "https://onapp.com/onapp-accelerator/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "OnApp Edge Accelerator is a unique value-add for the large number of customers who want to host web applications in your cloud. It gives your customers up to a 100% speed improvement for web sites, with no effort whatsoever.",
+		"Solution type": "Software",
 		"category_list": ["application"],
 		"similar_solution_list": [{
 			"title": "",
@@ -114,8 +114,8 @@
 		"logo_url": "https://onapp.com/wp-content/uploads/2021/08/white-vz-onapp-100.png",
 		"website_url": "https://onapp.com/onapp-for-vmware-vcenter/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "OnApp makes it easy to monetize VMware vCenter. It’s a turnkey cloud management portal that turns your vCenter environment into a secure self-service cloud.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "",
@@ -141,8 +141,8 @@
 		"logo_url": "https://onapp.com/wp-content/uploads/2021/08/white-vz-onapp-100.png",
 		"website_url": "https://onapp.com/onapp-federation/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "While OnApp clouds automatically accelerate websites running on virtual machines, some customers have more complex content distribution needs. That’s when you need OnApp CDN.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "",
@@ -168,8 +168,8 @@
 		"logo_url": "https://onapp.com/wp-content/uploads/2021/08/white-vz-onapp-100.png",
 		"website_url": "https://onapp.com/onapp-cdn",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "The OnApp Federation simplifies multi-cloud management by bringing distributed cloud infrastructure into a unified provisioning and billing environment.",
+		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "DigitalOcean",
