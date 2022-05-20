@@ -64,8 +64,8 @@
 		"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
 		"website_url": "https://crowdsec.net/",
 		"created_year": "2019",
-		"Solution type": "Software",
 		"description": "CrowdSec is a free, open-source and collaborative IPS. Analyze behaviors, respond to attacks & share signals across the community",
+		"Solution type": "Software",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Check Point Next Generation Firewalls",
