@@ -187,6 +187,7 @@
 			"website_url": "https://www.codesys.com/products/codesys-visualization.html",
 			"created_year": "",
 			"description": "An integrated editor helps the user create complex visualization masks directly in the programming system CODESYS and animate them based on application variables. To simplify the procedure, integrated visualization elements are available. ",
+			"Solution type": "Software",
 			"category_list": ["IOT and industrial"],
 			"similar_solution_list": [{
 				"title": "Indusof Web Studio",
