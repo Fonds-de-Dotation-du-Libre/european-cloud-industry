@@ -11,7 +11,7 @@
     "country": "FR",
     "phone_contact": "+33183622696",
     "mail_contact": "contact@normation.com",
-    "coordinate_list": ["48.86699801113945, 2.362587290917917"]
+    "coordinate_list": [48.86699801113945, 2.362587290917917]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.rudder.io/",
@@ -22,7 +22,7 @@
     "earnings": "852500€",
     "total_assets": "1204600€",
     "revenues": "711600€",
-    "source_url": "https://www.societe.com/bilan/normation-519451686202012311.html"
+    "source_url": "https://www.societe.com/"
   }],
   "solution_list": [{
     "title": "Rudder",
@@ -30,23 +30,23 @@
     "website_url": "https://www.rudder.io/",
     "created_year": "2011",
     "description": "Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Rudder is designed for critical environments where a security breach can mean more than a blip in the sales stats. Built-in features include change requests, audit logs, and strong authentication.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Ansible",
       "similiar_solution_url": "https://www.ansible.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Puppet",
       "similiar_solution_url": "https://puppet.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Salt",
       "similiar_solution_url": "https://saltproject.io/",
-      "category": "Information Technology"
+      "category":"Application"
     },{
       "title": "Otter",
       "similiar_solution_url": "https://inedo.com/otter",
-      "category": "Information Technology"
+      "category":"Application"
     }],
     "licence_list": ["GPL v3.0"],
     "source_code_download": "https://github.com/cfengine/core.git",
