@@ -29,8 +29,8 @@
 		"logo_url": "https://www.powerdns.com/img/pDNS_logo_positive_claim_down_screen_xsmall.png",
 		"website_url": "https://www.powerdns.com/software.html",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "The PowerDNS Authoritative Server is the only solution that enables authoritative DNS service from all major databases, including but not limited to MySQL, PostgreSQL, SQLite3, Sybase, Microsoft SQL Server, LDAP and plain text files.",
+		"Solution type": "Software",
 		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
@@ -43,6 +43,7 @@
 		"website_url": "https://www.powerdns.com/dnsdist.html",
 		"created_year": "",
 		"description": "dnsdist is a highly DNS-, DoS- and abuse-aware loadbalancer. Its goal in life is to route traffic to the best server, delivering top performance to legitimate users while shunting or blocking abusive traffic.",
+		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Google Cloud DNS",
@@ -174,6 +175,7 @@
 		"website_url": "https://www.powerdns.com/recursor.html",
 		"created_year": "",
 		"description": "The PowerDNS Recursor is a high-end, high-performance resolving name server which powers the DNS resolution of at least a hundred million subscribers. Utilizing multiple processors and supporting the same powerful scripting ability of the Authoritative Server, the Recursor delivers top performance while retaining the flexibility modern DNS deployments require.",
+		"solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "CoreDNS",
