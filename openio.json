@@ -64,8 +64,8 @@
 		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
 		"website_url": "https://www.openio.io/opensource",
 		"created_year": "2015",
-		"Solution type": "Software",
 		"description": "OpenIO Object Storage is open core: the heart of the solution and the object APIs are open source. This guarantees the long-term availability of the solution and gives your engineers the opportunity to delve into our technology at any time, to really understand how it works.",
+		"Solution type": "Software",
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Amazon simple Storage Service",
