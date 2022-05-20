@@ -9,9 +9,9 @@
 		"postal_code": "59110",
 		"city": "La madeleine",
 		"country": "FR",
-		"phone_contact": "+33 6 29 02 44 25",
+		"phone_contact": "+33629024425",
 		"mail_contact": "info@nexedi.com",
-		"coordinate_list": "50.64449017329376, 3.077437939381641"
+		"coordinate_list": [50.64449017329376, 3.077437939381641]
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://www.nexedi.com/",
@@ -19,38 +19,38 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "27",
-    		"earnings": "234 972€",
-    		"total_assets": "6 733 231€",
-    		"revenues": "2 444 319€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+    		"earnings": "234972€",
+    		"total_assets": "6733231€",
+    		"revenues": "2444319€",
+    		"source_url": "https://www.verif.com/"
   		}, {
     		"year": "2019",
    		"staff": "30",
-   		"earnings": "136 970€",
-    		"total_assets": "5 238 187€",
-    		"revenues": "2 465 664€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+   		"earnings": "136970€",
+    		"total_assets": "5238187€",
+    		"revenues": "2465664€",
+    		"source_url": "https://www.verif.com/"
   		},{
    		"year": "2018",
     		"staff": "23",
-    		"earnings": "304 409€",
-    		"total_assets": "5 489 528€",
-    		"revenues": "2 336 718€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+    		"earnings": "304409€",
+    		"total_assets": "5489528€",
+    		"revenues": "2336718€",
+    		"source_url": "https://www.verif.com/"
   		},{
     		"year": "2017",
     		"staff": "20",
-    		"earnings": "341 478€",
-    		"total_assets": "5 098 147€",
-    		"revenues": "2 146 776€",
-   		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+    		"earnings": "341478€",
+    		"total_assets": "5098147€",
+    		"revenues": "2146776€",
+   		"source_url": "https://www.verif.com/"
   		},{
     		"year": "2016",
     		"staff": "20",
-    		"earnings": "572 158€",
-    		"total_assets": "4 527 005€",
-    		"revenues": "1 651 903€",
-    		"source_url": "https://www.verif.com/bilans-gratuits/NEXEDI-440047504/"
+    		"earnings": "572158€",
+    		"total_assets": "4527005€",
+    		"revenues": "1651903€",
+    		"source_url": "https://www.verif.com/"
   	}],
 	"solution_list": [{
 		"title": "ERP5",
@@ -58,26 +58,26 @@
 		"website_url": "https://www.erp5.com/",
 		"created_year": "2002",
 		"description": "ERP5 is an open source ERP based on Python and Zope. It has the particularity of being based on a unified Model to describe its implementation. It was designed to be generic and flexible enough to suit different business areas and maximise economies of scale related to code sharing.",
-		"category_list": "",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "Odoo",
 			"similiar_solution_url": "https://www.odoo.com/fr_FR",
-			"category": ""
+			"category": "Application"
 			}, {
 			"title": "Dolibarr",
 			"similiar_solution_url": "https://www.dolibarr.org/",
-			"category": ""
+			"category": "Application"
 			},{
       			"title": "Metasfresh",
       			"similar_solution_url": "https://metasfresh.com/en/",
-      			"category": ""
+      			"category": "Application"
    			}],
-		"licence_list": ["General Public License"],
-		"source_code_download": "",
-		"source_code_profile": "https://lab.nexedi.com/nexedi/erp5",
+		"licence_list": ["General Public License v3.0 with Free Software exception"],
+		"source_code_download": "https://lab.nexedi.com/nexedi/erp5.git",
+		"source_code_profile": "https://www.openhub.net/p/erp5/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.nexedi.com/service/nexedi-service-erp5/contact",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/ERP5",
 		"reference_list": "",
@@ -169,19 +169,19 @@
 		"website_url": "https://slapos.nexedi.com/",
 		"created_year": "2010",
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
-		"category_list": "",
+		"category_list": "Service Lifecycle Automation",
 		"similar_solution_list": [{
 			"title": "YunoHost",
 			"similiar_solution_url": "https://yunohost.org/#/",
-			"category": ""
+			"category": "Service Lifecycle Automation"
 	  	}],
 		"licence_list": ["GNU GPL v3"],
-		"source_code_download": "",
-		"source_code_profile": "",
+		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
+		"source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
 		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": "Yes",
+		"commercial_support_open_source_version": "Yes",
+		"commercial_support_available": "Yes",
 		"wikipedia_url": "",
 		"reference_list": "",
 		"success_case_list": [{
@@ -200,19 +200,19 @@
 		"website_url": "https://www.wendelin.io/#/?page=home&editable=true",
 		"created_year": "2015",
 		"description": "Wendelin is a big data framework designed for industrial applications based on python, NumPy, Scipy and other NumPy based libraries. It uses at its core the NEO distributed transactional NoSQL database to store petabytes of binary data. Wendelin combines the performance of scikit-learn machine learning with NEO distributed storage in order to provide out-of-core processing of large data sets. Its goal is to bring the best open source, big data engine based on Numpy python technologies and gather a wide community of contributors of new data analytics algorithms.",
-		"category_list": "",
+		"category_list": "Big Data Hub",
 		"similar_solution_list": [{
 			"title": "Hadoop",
 			"similiar_solution_url": "https://hadoop.apache.org/",
-			"category": ""
+			"category": "Big Data Hub"
   		 }],
 		"licence_list": ["GNU GPL v3"],
-		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin",
-		"source_code_profile": "",
+		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin.git",
+		"source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
 		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": "",
 		"success_case_list": [{
