@@ -11,7 +11,7 @@
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "",
-    "coordinate_list": ["42.60515082085048, 2.404450183194149"]
+    "coordinate_list": [42.60515082085048, 2.404450183194149]
   },
   "subsidiary_location_list": [""],
   "website_url": "https://beremiz.org/",
@@ -30,9 +30,9 @@
       "category": ""
     }],
     "licence_list": [" GNU GENERAL PUBLIC LICENSE version 2"],
-    "source_code_download": "https://hg.beremiz.org/",
-    "source_code_profile": "https://github.com/beremiz",
-    "commercial_support_url": "",
+    "source_code_download": "https://beremiz.org/download",
+    "source_code_profile": "https://www.openhub.net/p/beremiz/analyses/latest/languages_summary",
+    "commercial_support_url": "No",
     "floss_software": "yes",
     "commercial_support_open_source_version": "no",
     "commercial_support_available": "no",
