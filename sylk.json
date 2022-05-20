@@ -29,8 +29,8 @@
 		"logo_url": "https://sylkserver.com/images/sylk.svg",
 		"website_url": "https://sylkserver.com/",
 		"created_year": "",
-		"Solution type": "Software",
 		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
+		"Solution type": "Software",		
 		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "MSRP",
