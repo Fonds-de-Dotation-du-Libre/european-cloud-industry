@@ -9,7 +9,7 @@
 		"postal_code": "N2 0EF",
 		"city": "London",
 		"country": "England",
-		"phone_contact": "+44 (0)800 158 8600",
+		"phone_contact": "+448001588600",
 		"mail_contact": "amteam@onapp.com",
 		"coordinate_list": [51.585490071650085, -0.1803875595375914]
 	},
@@ -17,20 +17,6 @@
 	"website_url": "https://onapp.com/",
 	"founded_year": "2010",
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
@@ -208,7 +194,7 @@
 			"title": "Miss Universe welcomes 100 million visitors with a cloud and CDN platform from Reliam, built on OnApp",
 			"description": "OnApp delivers 100% website uptime, cuts content delivery costs by 50%",
 			"image_url": "",
-			"industry": "",
+			"industry": "Media and Entertainment",
 			"customer": "MissUniverse pageantry",
 			"country": "US",
 			"language": "EN",
