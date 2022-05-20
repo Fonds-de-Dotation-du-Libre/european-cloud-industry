@@ -57,8 +57,8 @@
     "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
     "website_url": "http://www.proview.se/v3/index.php/about-proview-leftmenu-27",
     "created_year": "",
-    "Solution type": "Software",
     "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
+    "Solution type": "Software",    
     "category_list": ["Operation Management"],
     "similar_solution_list": [{
       "title": "",
