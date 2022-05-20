@@ -64,8 +64,8 @@
 		"logo_url": "http://www.bgpexpert.com/images/bird.png",
 		"website_url": "https://bird.network.cz/",
 		"created_year": "2000",
-		"Solution type": "Software",
 		"description": "The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.",
+		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "FRRouting",
