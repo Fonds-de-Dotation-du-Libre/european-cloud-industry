@@ -136,6 +136,7 @@
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-one",
 		"created_year": "2016",
+		"Solution type": "Software",
 		"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
@@ -172,6 +173,7 @@
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-home",
 		"created_year": "2016",
+		"Solution type": "Software",
 		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
@@ -249,8 +251,8 @@
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-matrix-store",
 		"created_year": "2016",
-		"description": "Improve team productivity with our bridges, bots and widgets",
 		"Solution type": "Software",
+		"description": "Improve team productivity with our bridges, bots and widgets",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "weavy",
