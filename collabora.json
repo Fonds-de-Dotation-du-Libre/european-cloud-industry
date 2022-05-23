@@ -14,7 +14,7 @@
 		"country": "UK",
 		"phone_contact": "+441223362967",
 		"mail_contact": "hello@collaboraoffice.com",
-		"coordinate_list": "52.23426739352286, 0.15209271400327157]
+		"coordinate_list": [52.23426739352286, 0.15209271400327157]
 	},
 	"founded_year": "2005",
 	"kpi_list": [{
