@@ -11,7 +11,7 @@
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "romain.casati@ac-orleans-tours.fr",
-    "coordinate_list": ["47.22907288165811, 2.065086719341902"]
+    "coordinate_list": [47.22907288165811, 2.065086719341902]
   },
   "subsidiary_location_list": [],
   "website_url": "https://basthon.fr/",
@@ -23,11 +23,11 @@
     "website_url": "https://console.basthon.fr/",
     "created_year": "2020",
     "description": "Basthon is a console-like tool used to learn how to program  mostly Python code, but also Javascript, SQL, OCaml, Bash",
-    "category_list": ["Information Technology"],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "CodeSkulptor 3",
       "similiar_solution_url": "https://py3.codeskulptor.org/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["GNU GPL v3.0"],
     "source_code_download": "https://framagit.org/basthon/basthon-kernel",
@@ -35,7 +35,7 @@
     "commercial_support_url": "No",
     "floss_software": "Yes",
     "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "NO",
+    "commercial_support_available": "No",
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
