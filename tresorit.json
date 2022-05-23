@@ -41,7 +41,7 @@
 			"similiar_solution_url": "https://cryptomator.org/",
 			"category": "Storage and database"
 		}],
-		"licence_list": ["Proprietary"],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://tresorit.com/fr/pricing",
@@ -86,15 +86,33 @@
 			"industry": "Media and Entertainment"
 		}],
 		"success_case_list": [{
+			"title": "Enabling secure collaboration: how Tresorit helped Viessmann regain control of their processes",
+			"description": "As a company well versed with the requirements of digital transformation, Viessmann had already made significant changes to its ways of working in recent years. Browser based applications were commonplace throughout the company, and a migration to Google Workspace 5 years prior to Tresorit’s involvement had driven considerable efficiencies. The next step in Viessmann’s transformation was adding an additional layer of security to departments like R&D and Procurement, who had previously edited and shared documents containing confidential information – like CAD models, patent data and functional specifications – using conventional (and, by definition, unsecure) methods.",
+			"image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/viessmann/viessmann-logo.06a46841.svg",
+			"industry": "Manufacturing",
+			"customer": "Viessmann",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-exchange-viessmann"		
+		}, {
+			"title": "Removing the barriers to creative workflows thanks to Tresorit's secure collaboration tool",
+			"description": "Having strengthened their position within Central and Eastern Europe, digitalisation was the next strategic decision left for Erste Bank to push through in order to futureproof their organisation and maintain their market share. Rethinking their approach to creative asset management occupied a prominent place on Erste Bank’s transformational agenda. The challenges they faced were symptomatic of any large organisation collaborating with external partners – insecure channels for collaboration and inefficient processes/tools governing these.",
+			"image_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/d0432b796fe4df3ed0566aee38efba90/erste-bank.svg",
+			"industry": "Banking and Finance",
+			"customer": "Erste Bank",
+			"country": "AT",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/erste-bank-external-collaboration"		
+		},{
 			"title": "Enabling cloud integration: how Tresorit helped to digitize KB Flughafen’s workforce",
 			"description": "Airports handle huge amounts of personal data from passengers, airlines, suppliers and cargo shippers every single day. This makes data security a huge concern to keep information (around operations, transactions and passengers) secure.to keep information (around operations, transactions and passengers) secure.",
 			"image_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/61601453732c349963f73eda99f9f758/dc167/flughafen.webp",
-			"industry": "Aviation and Aerospace",
+			"industry": "Transport",
 			"customer": "Köln Bonn Flughafen",
 			"country": "DE",
 			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/data-security-koln-bonn-airport"
-		}, {
+		},{
 			"title": "HR, uninterrupted: a start-up’s journey to success and safety",
 			"description": "A French payroll and HR management SaaS with clients all over EUrope, PayFit needed a maximum secured way to collect, save and manage the sensitive data of their customers while being able to work from anywhere. Tresorit and-to-end encryption, as well as its secured file sharing on its own cloud proved to be the most efficient solution for the Fintech company and their over 3000 customers.",
 			"image_url": "https://www.datocms-assets.com/50397/1640774984-payfitlogo.svg",
@@ -107,25 +125,34 @@
 			"title": "Security services streamlined thanks to Tresorit's fully compliant collaboration tool",
 			"description": "The Hungarian High Tech Security Services needed a solution to ensure the secure storage and sharing of highly confidential data for their numerous clients that respond to critical incidents and crisis. Therefore, Tresorit appeared to be the most satisfying provider for White Hat IT Security thanks to its encrypted storage and file sharing with multi-factor authentication for highly sensitive data, TISAX and GDPR compliant.",
 			"image_url": "https://whitehat.eu/wp-content/uploads/2021/10/wh_IT_long.png",
-			"industry": "Information Technology",
+			"industry": "Cybersecurity",
 			"customer": "White Hat IT Security",
 			"country": "HU",
 			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/encrypted-cloud-collaboration-white-hat"
 		}, {
 			"title": "100 years of women working for peace and equality",
-			"description": "",
+			"description": "In 1932, long before the age of internet and social media activism, members of WILPF collected 6 million signatures for peace and delivered their petition to the World Disarmament Conference in Geneva. Not only did they demonstrate that people desperately wanted peace, they publicly showed the connection between wars and the arms industry for the first time. In 2016, one of WILPF’s focus areas is turning the international attention to human rights violations in conflict zones. WILPF has been cooperating with local activists who face threats every day, reporting crimes committed against people and showing the impact of the war on women.",
 			"image_url": "https://i0.wp.com/www.wilpf.org/wp-content/uploads/2021/06/WILPF_Logo_Long_1.png?resize=2048%2C761&ssl=1",
 			"industry": "Association and NGOs",
-			"customer": "Women's International League for Peace and Freedom",
+			"customer": "WILPF - Women's International League for Peace and Freedom",
 			"country": "CH",
 			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/wilpf"
 		}, {
+			"title": "A safe distance: sharing uber-valuable intelligence across borders and in the cloud",
+			"description": "For Paddy Beiner, managing director of Bearstone Global’s Berlin office and partner in the holding company’s head office in Warsaw, risk is not just part of the game. It’s the name of the game. The business intelligence and investigations company helps clients identify risk related issues in all aspects of their operations: clients and supplier relationships, financial dealings, investments and court proceedings, to name but a few. “We primarilly focus on Western, Central and Eastern Europe but we’re operating globally, including in the Middle East, Africa and Southeast Asia. Pretty much wherever our clients need us,” Paddy sums up. The company is headquartered in Warsaw but also has subsidiaries in Berlin and London with full-time staff, plus an extensive partner network across the globe",
+			"image_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/488c4347d1f65aa59ea7126bc3c545d9/dc167/bearstone-global.webp",
+			"industry": "Consulting and Training",
+			"customer": "Bearstone Capital",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-cloud-storage-for-bearstone-global"
+		}, {
 			"title": "Reliability and security: It doesn’t have to be an either-or choice when going serverless",
-			"description": "",
+			"description": "Can you run a business without a server? When Dr Christoph Plapp, owner and managing partner of Logivations, a consulting and technology company for supply chain, logistics and e-commerce, decided to cut the cord and move all business documents to the cloud, it seemed like a no-brainer. With sales and consulting teams, as well as partners and clients all over Europe and beyond, using a secure Virtual Private Network (VPN) connection just didn’t seem to do the job anymore.",
 			"image_url": "https://www.logivations.com/img_general/new-images/logivations_logo.svg",
-			"industry": "Logistics",
+			"industry": "Consulting and Training",
 			"customer": "Logivation",
 			"country": "DE",
 			"language": "EN",
@@ -143,7 +170,7 @@
 			"title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
 			"description": "",
 			"image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/raiffeisen-mitte/logo.70ddf5d7.jpg",
-			"industry": "Agriculture and FOod",
+			"industry": "Agriculture and Food",
 			"customer": "Niedersachsen Mitte eG ",
 			"country": "DE",
 			"language": "EN",
