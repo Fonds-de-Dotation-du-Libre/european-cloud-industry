@@ -9,9 +9,9 @@
     "postal_code": "130135",
     "city": "Targovista",
     "country": "RO",
-    "phone_contact": "+40 (0) 754 712 350",
+    "phone_contact": "+40754712350",
     "mail_contact": "hello@bunnyshell.com",
-    "coordinate_list": ["44.91579758182935, 25.481466150732675"]
+    "coordinate_list": [44.91579758182935, 25.481466150732675]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.bunnyshell.com/",
@@ -23,23 +23,23 @@
     "website_url": "https://www.bunnyshell.com/",
     "created_year": "",
     "description": "Bunnyshell is an Environments as a Service platform that makes it incredibly easy to create and manage full-stack environments for development, staging and production so your team can deliver software faster and focus on building great products. ",
-    "category_list": [],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Cloudways",
       "similiar_solution_url": "https://www.cloudways.com/en/",
-      "category": ""
+      "category": "Application"
     },{
       "title": "Amazon CloudWatch",
       "similiar_solution_url": "https://aws.amazon.com/fr/cloudwatch/",
-      "category": ""
+      "category": "Application"
     }],
-    "licence_list": [""],
+    "licence_list": ["Proprietary"],
     "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "source_code_profile": "https://github.com/bunnyshell/qa-assignment.git",
+    "commercial_support_url": "https://www.bunnyshell.com/pricing/",
+    "floss_software": "no",
+    "commercial_support_open_source_version": "No",
+    "commercial_support_available": "Yes",
     "wikipedia_url": "",
     "reference_list": [""],
     "success_case_list": [""]
