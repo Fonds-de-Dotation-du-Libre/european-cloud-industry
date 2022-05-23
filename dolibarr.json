@@ -11,7 +11,7 @@
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "contact@dolibarr.org",
-    "coordinate_list": ["47.86437472778116, 1.8914726787345644"]
+    "coordinate_list": [47.86437472778116, 1.8914726787345644]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.dolibarr.org/",
@@ -23,35 +23,35 @@
     "website_url": "https://www.dolibarr.org/",
     "created_year": "2002",
     "description": "Dolibarr ERP and CRM is a software package created to manage a company's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software, written in PHP, and designed for small and medium businesses (SMEs), foundations and freelancers. It can be installed and used as a standalone application, or online on a shared or dedicated server to use it from anywhere.  Working on all platforms (Windows, Mac, Linux, Mobile), Dolibarr system is also available as SaaS application on ready to use Cloud services.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Odoo",
       "similiar_solution_url": "https://www.odoo.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Tryton",
       "similiar_solution_url": "https://www.tryton.org/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "ERPNext",
       "similiar_solution_url": "https://erpnext.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Akaunting",
       "similiar_solution_url": "https://akaunting.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "inoERP",
       "similiar_solution_url": "https://github.com/inoerp/inoERP",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "OrangeHRM",
       "similiar_solution_url": "https://www.orangehrm.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "ProjeQtOr",
       "similiar_solution_url": "https://www.projeqtor.org/en/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["GNU 3.0"],
     "source_code_download": "https://sourceforge.net/projects/dolibarr/files/",
