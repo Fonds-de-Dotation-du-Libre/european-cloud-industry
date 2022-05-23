@@ -239,14 +239,32 @@
 			"industry": ""
 		}],
 		"success_case_list": [{
-			"title": "",
-			"description": "",
+			"title": "Scaling from 3 to 45 engineers in 5 months on the back of Gitpod",
+			"description": "Gitpod helped engineers at Shares.io become more productive and focused. It removed any friction in the onboarding process, dev environment management and the day to day collaboration.",
 			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
+			"industry": "Information Technology",
+			"customer": "Shares.io",
+			"country": "GB",
+			"language": "EN",
+			"success_case_url": "https://www.gitpod.io/customers/shares-io"
+		},{
+			"title": "An internal hackathon as catalyst to 20% fewer hotfixes with Gitpod",
+			"description": "Vizlib used Gitpod to circumvent challenges with local development at an internal hackathon for their new cloud-native product, Astrato. They eventually moved their whole development to the cloud. This reduced the onboarding time for new hires from two days to one hour and resulted in 20% fewer hotfixes after release.",
+			"image_url": "",
+			"industry": "Information Technology",
+			"customer": "Vizlib",
+			"country": "GB",
+			"language": "EN",
+			"success_case_url": "https://www.gitpod.io/customers/vizlib"
+		},{
+			"title": "Increasing Redwood's development velocity by removing the friction to contribute",
+			"description": "RedwoodJS is the latest open source project of Tom Preston-Werner, the Founder and former CEO of GitHub. Gitpod removed the friction of building on and contributing to Redwood, helping them to build an engaging community.",
+			"image_url": "",
+			"industry": "Information Technology",
+			"customer": "RedwoodJS",
+			"country": "US",
+			"language": "English",
+			"success_case_url": "https://www.gitpod.io/customers/redwoodjs"
 		}]
 	}, {
 		"title": "XText",
