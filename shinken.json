@@ -23,28 +23,28 @@
 		"earnings": "",
 		"total_assets": "1254155€",
 		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/SHINKEN-SOLUTIONS-794549543/"
+		"source_url": "https://www.verif.com/"
 	}, {
 		"year": "2019",
 		"staff": "11",
 		"earnings": "",
 		"total_assets": "1370105€",
 		"revenues": "",
-		"source_url": "https://www.verif.com/bilans-gratuits/SHINKEN-SOLUTIONS-794549543/"
+		"source_url": "https://www.verif.com/"
 	}, {
 		"year": "2018",
 		"staff": "10",
 		"earnings": "",
 		"total_assets": "1162900€",
 		"revenues": "470747€",
-		"source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
+		"source_url": "https://www.societe.com/"
 	}, {
 		"year": "2017",
 		"staff": "12",
 		"earnings": "",
 		"total_assets": "1138000€",
 		"revenues": "190237€",
-		"source_url": "https://www.societe.com/bilan/shinken-solutions-794549543201812311.html"
+		"source_url": "https://www.societe.com/"
 	}],
 	"solution_list": [{		
 		"title": "Shinken Monitoring",
@@ -52,35 +52,35 @@
 		"website_url": "http://www.shinken-monitoring.org/download.php",
 		"created_year": "2009",
 		"description": "",
-		"category_list": "Information Technology",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "Nagios",
 			"similiar_solution_url": "https://www.nagios.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Opsview Core",
 			"similiar_solution_url": "https://www.opsview.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Icinga",
 			"similiar_solution_url": "https://icinga.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Mod-Gearman",
 			"similiar_solution_url": "https://mod-gearman.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "The NOC Project",
 			"similiar_solution_url": "https://getnoc.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Webmin",
 			"similiar_solution_url": "https://www.webmin.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Check MK",
 			"similiar_solution_url": "https://checkmk.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["GNU Affero General Public License v3.0"],
 		"source_code_download": "https://github.com/naparuba/shinken.git",
