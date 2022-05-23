@@ -9,9 +9,9 @@
     "postal_code": "35510",
     "city": "Cesson-Sévigné",
     "country": "FR",
-    "phone_contact": "+33 6 74 94 87 18",
+    "phone_contact": "+33674948718",
     "mail_contact": "contact@blacknut.com",
-    "coordinate_list": ["48.1327006322202, -1.622295709082083"]
+    "coordinate_list": [48.1327006322202, -1.622295709082083]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.blacknut.biz/",
@@ -20,9 +20,9 @@
     "year": "2020",
     "staff": "11",
     "earnings": "",
-    "total_assets": "4 788 311 €",
+    "total_assets": "4788311€",
     "revenues": "",
-    "source_url": "https://www.verif.com/bilans-gratuits/BLACKNUT-817885049/"
+    "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
     "title": "Blacknut",
@@ -30,11 +30,11 @@
     "website_url": "https://www.blacknut.com/fr/deeplink/welcome",
     "created_year": "2016",
     "description": " Blacknut is the world's leading pure player cloud gaming service, withe a hybrid public-private cloud architecture, that has Blacknut Wikipédiathe largest catalogue of premium games for the whole family, all included in a monthly subscription.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Stadia",
       "similiar_solution_url": "https://stadia.google.com/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "",
