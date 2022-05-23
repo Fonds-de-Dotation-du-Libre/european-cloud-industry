@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-05",
-	"title": "Enalean",
+	"title": "Enalean SAS",
 	"type": "Corporation",
 	"logo_url": "https://www.enalean.com/assets/logo-enalean.47fe4ce8.svg",
 	"location": {
@@ -17,12 +17,47 @@
 	"website_url": "https://www.enalean.com/",
 	"founded_year": "2010",
 	"kpi_list": [{
-		"year": "2015",
+		"year": "2021",
 		"staff": "",
-		"earnings": "779300€",
+		"earnings": "",
 		"total_assets": "",
-		"revenues": "66500€",
-		"source_url": "https://www.societe.com/bilan/enalean-531796621201512311.html"
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "1710731€",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
+	}, {
+		"year": "2019",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "1402249€",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "1403947€",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "1230550€",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
+	}, {
+		"year": "2016",
+		"staff": "",
+		"earnings": "",
+		"total_assets": "1143116€",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}],
 	"solution_list": [{
 		"title": "Tuleap",
@@ -30,27 +65,27 @@
 		"website_url": "https://www.tuleap.org/",
 		"created_year": "2010",
 		"description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
-		"category_list": ["Desktop virtualisation"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Github",
 			"similiar_solution_url": "https://github.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "GitLab",
 			"similiar_solution_url": "https://about.gitlab.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Gitea",
 			"similiar_solution_url": "https://gitea.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Jira",
 			"similiar_solution_url": "https://www.atlassian.com/software/jira",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Kanboard",
 			"similiar_solution_url": "https://kanboard.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["GPL v.2"],
 		"source_code_download": "https://github.com/Enalean/tuleap.git",
@@ -69,7 +104,7 @@
 			"title": "CEA - Commissariat à l'énergie atomique et aux énergies alternatives",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-cea.png",
 			"country": "FR",
-			"industry": ["Defense", "Public Administration and Government"]
+			"industry": "Energy and Utilities"
 		}, {
 			"title": "Socomec",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-socomec-1.png",
@@ -79,17 +114,17 @@
 			"title": "Megmeet",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-megmeet-1.png",
 			"country": "CN",
-			"industry": "ELectrical Engineering"
+			"industry": "Manufacturing"
 		}, {
 			"title": "Rhode & Schwarz",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-rohde-schwarz-1.png",
 			"country": "DE",
-			"industry": "Electronics"
+			"industry": "Manufacturing"
 		}, {
 			"title": "ACMS",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/10/logo-acms.png",
 			"country": "FR",
-			"industry": "Health and Medical"
+			"industry": "Health and Life Sciences"
 		}, {
 			"title": "Portuguese Agency for Administrative Modernization ",
 			"logo_url": "https://www.ama.gov.pt/image/layout_set_logo?img_id=184351&t=1649396857882",
@@ -99,17 +134,17 @@
 			"title": "Indian Department of Information Technology",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-indian-dept-information-technology.png",
 			"country": "IN",
-			"industry": ["Public Administration and Government", "Information Technology"]
+			"industry": "Public Administration and Government"
 		}, {
 			"title": "Capsys",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2019/09/customer-capsys.png",
 			"country": "FR",
-			"industry": ["Automotive", "Electronic Industry"]
+			"industry": "Information Technology"
 		}, {
 			"title": "PA.COTTE",
 			"logo_url": "https://www.tuleap.org/wp-content/uploads/2020/11/customer-pa.cotte-dark-1.png",
 			"country": "FR",
-			"industry": "Information Technology"
+			"industry": "Manufacturing"
 		}],
 		"success_case_list": [{
 			"title": "The new era of ALM in Airbus with Tuleap",
@@ -124,8 +159,8 @@
 			"title": "TThe French Defense Procurement Agency (DGA) launches its agile transformation with an innovative Digital Workplace",
 			"description": "The Information Systems Department of the Directorate General of Armaments of the French government has launched a major agile digital transformation project to digitize daily work tools, modernize project management in a more agile mode and increase collaboration among teams. Tuleap is the basis of this new Digital Workplace.",
 			"image_url": "https://www.tuleap.org/wp-content/uploads/2021/05/use-case-sleepinnov.png",
-			"industry": ["Defense", "Public Administration and Government"],
-			"customer": "DGA IT department",
+			"industry": "Defense",
+			"customer": "DGA",
 			"country": "FR",
 			"language": "EN",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-french-dga-launches-its-agile-digital-transformation"
@@ -160,7 +195,7 @@
 			"title": "Vignal Group optimizes its Quality Management System to ensure compliance with IATF software standards with Tuleap",
 			"description": "Vignal Group is a global player specialized in innovative lighting as well as safety products and systems for major manufacturers of commercial and off-roads vehicles. Operating over 3 continents (America, Asia and Europe) with more than 600 employees. Vignal Group currently has 6 production sites and develops more than 20 product lines. Thanks to Tuleap, Vignal Group has achieved its objective of full traceability while allowing teams to gain in productivity.",
 			"image_url": "https://www.tuleap.org/wp-content/uploads/2021/09/use-case-vignal-1024x640.png",
-			"industry": "Automotive",
+			"industry": "Manufacturing",
 			"customer": "Vignal Group",
 			"country": "FR",
 			"language": "EN",
@@ -193,10 +228,10 @@
 			"language": "EN",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-uga-merges-its-it-departments-and-succeeds-in-its-agile-transformation-from-values-to-tools"
 		}, {
-			"title": "3 French ministries built an app to manage large volumes of data with Scrum of Scrum",
+			"title": "3 French ministries built an app to manage large volumes of data with Scrum",
 			"description": "Three French Ministries – The Ministry of the Armed Forces, the Ministry for Europe and Foreign Affairs and the Ministry of Culture – associated to take up the challenge of developing a digital archiving to manage large volumes of data through the Vitam Program. Thanks to Tuleap, teams have implemented processes that ensure complete traceability throughout the projects and improved customer satisfaction.",
 			"image_url": "https://www.tuleap.org/wp-content/uploads/2020/12/use-case-vitam-1024x582.png",
-			"industry": "Public Administration and Gvernment",
+			"industry": "Public Administration and Government",
 			"customer": "VITAM Program (French Government)",
 			"country": "FR",
 			"language": "EN",
