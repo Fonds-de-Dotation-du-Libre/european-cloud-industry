@@ -1,5 +1,5 @@
 {
-	"created": "07 - 04 - 2022 ",
+	"created": "07-04-2022",
 	"title": "CZ.nic",
 	"type": "Association",
 	"logo_url": "https://www.nic.cz/static/www.nic.cz/images/logo_cs.png",
@@ -16,78 +16,14 @@
 	"subsidiary_location_list": [],
 	"website_url": "https://www.nic.cz/page/357/kontakt/",
 	"founded_year": "1998",
-	"kpi_list": [],
+  "kpi_list": [],
 	"solution_list": [{
-		"title": "Turris Mox",
-		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
-		"website_url": "https://www.turris.com/en/mox/overview/",
-		"created_year": "",
-		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
-		"Solution type": "Hardware",
-		"category_list": ["Switches"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.turris.com/en/support/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "https://doc.turris.cz/doc/en/howto/mox/start",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Turris Omnia",
-		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
-		"website_url": "https://www.turris.com/en/omnia/overview/",
-		"created_year": "",
-		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
-		"Solution type": "Hardware",
-		"category_list": ["Switches"],
-		"similar_solution_list": [{
-			"title": "eero Home WiFi System",
-			"similiar_solution_url": "https://eero.com/",
-			"category": "Switches"
-		}, {
-			"title": "Asus RT-AC5300",
-			"similiar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
-			"category": "Switches"
-		}],
-		"licence_list": ["MIT"],
-		"source_code_download": "https://github.com/davidjb/turris-omnia-tls",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.turris.com/en/support/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "Mozilla is solving IoT issues using Turris Omnia",
-			"description": "Mozilla decided to attempt to help the world and fix the current situation. Problems with IoT that I stated in the previous part are incompatibility – lack of standardized API and security/privacy – your personal data are sent who knows where in insecure manner.",
-			"image_url": "",
-			"industry": "Information Technology",
-			"customer": "Mozilla",
-			"country": "US",
-			"language": "EN",
-			"success_case_url": "https://en.blog.nic.cz/2019/08/23/mozilla-is-solving-iot-issues-using-turris-omnia/"
-		}]
-	}, {
-		"title": "Turris shield",
+		"title": "Turris Shield",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/shield/overview/",
 		"created_year": "",
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
-		"Solution type": "Software",
+		"solution type": "Hardware",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "OpenWRT",
@@ -108,15 +44,65 @@
 			"country": "",
 			"industry": ""
 		}],
+		"success_case_list": []
+	}, {
+		"title": "Turris Mox",
+		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
+		"website_url": "https://www.turris.com/en/mox/overview/",
+		"created_year": "",
+		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
+		"Solution type": "Hardware",
+		"category_list": ["Boards"],
+		"similar_solution_list": [{
+			"title": "Olimex",
+			"similiar_solution_url": "https://olimex.com/",
+			"category": "Boards"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.turris.com/en/support/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Turris Omnia",
+		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
+		"website_url": "https://www.turris.com/en/omnia/overview/",
+		"created_year": "2016",
+		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
+		"Solution type": "Hardware",
+		"category_list": ["Routers"],
+		"similar_solution_list": [{
+			"title": "eero Home WiFi System",
+			"similiar_solution_url": "https://eero.com/",
+			"category": "Routers"
+		}, {
+			"title": "Asus RT-AC5300",
+			"similiar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
+			"category": "Routers"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.turris.com/en/support/",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Turris_Omnia",
+		"reference_list": [],
 		"success_case_list": [{
-			"title": "",
-			"description": "",
+			"title": "Mozilla is solving IoT issues using Turris Omnia",
+			"description": "Mozilla decided to attempt to help the world and fix the current situation. Problems with IoT that I stated in the previous part are incompatibility – lack of standardized API and security/privacy – your personal data are sent who knows where in insecure manner.",
 			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
+			"industry": "Information Technology",
+			"customer": "Mozilla",
+			"country": "US",
+			"language": "EN",
+			"success_case_url": "https://en.blog.nic.cz/2019/08/23/mozilla-is-solving-iot-issues-using-turris-omnia/"
 		}]
 	}, {
 		"title": "Turris OS",
@@ -126,25 +112,16 @@
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
 		"Solution type": "Software",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["GNU General Public License v2.0"],
 		"source_code_download": "https://github.com/CZ-NIC/turris-os",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.turris.com/en/support/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Turris_Omnia",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}]
-
+		"reference_list": [],
+    "success_case_list": []
 	}]
 }
