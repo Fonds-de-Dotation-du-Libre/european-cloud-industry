@@ -11,7 +11,7 @@
     "country": "LU",
     "phone_contact": "+35224788444",
     "mail_contact": ["info@circl.lu","info@misp-project.org"],
-    "coordinate_list": ["49.605120083910705, 6.135144238635261"]
+    "coordinate_list": [49.605120083910705, 6.135144238635261]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.circl.lu/",
@@ -23,15 +23,15 @@
     "website_url": "https://www.misp-project.org/",
     "created_year": "2011",
     "description": " MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "HELK",
       "similiar_solution_url": "https://thehelk.com/intro.html",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "sqhunter",
       "similiar_solution_url": "https://github.com/0x4D31/sqhunter.git",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["AGPL v3.0"],
     "source_code_download": "https://github.com/CIRCL/misp-darwin.git",
