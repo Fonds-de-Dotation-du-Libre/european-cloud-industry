@@ -47,6 +47,7 @@
 - Servers
 - Switches
 - Boards
+- Routers
 - Rack
 - Cooling
 - CPU
