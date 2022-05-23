@@ -11,7 +11,7 @@
 		"country": "ES",
 		"phone_contact": "+34913562995",
 		"mail_contact": "hello@kaleidos.net",
-		"coordinate_list": ["40.43618126800605, -3.670895690786414"]
+		"coordinate_list": [40.43618126800605, -3.670895690786414]
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://kaleidos.net/",
@@ -27,32 +27,32 @@
 		"similar_solution_list": [{
 			"title": "Open Project",
 			"similiar_solution_url": "https://www.openproject.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Asana",
 			"similiar_solution_url": "https://asana.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Quire",
 			"similiar_solution_url": "https://quire.io/",
-			"category": "Information Technology"
+			"category":"Application"
 		}, {
 			"title": "Wekan",
 			"similiar_solution_url": "https://wekan.github.io/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Kanboard",
 			"similiar_solution_url": "https://kanboard.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Redmine",
 			"similiar_solution_url": "https://www.redmine.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["MPL 2.0"],
 		"source_code_download": "https://github.com/kaleidos-ventures/taiga-back.git",
 		"source_code_profile": "https://www.openhub.net/p/taigaio/analyses/latest/languages_summary",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://www.kaleido.io/pricing",
 		"floss_software": "Yes",
 		"commercial_support_open_source_version": "Yes",
 		"commercial_support_available": "Yes",
@@ -61,12 +61,12 @@
 			"title": "Secuoyas",
 			"logo_url": "https://secuoyas.com/img/secuoyas-logo.svg",
 			"country": "ES",
-			"industry": "Information Technology"
+			"industry": "Application"
 		}, {
 			"title": "Coolminds",
 			"logo_url": "https://coolminds.nl/res/assets/dist/img/logo-white-coolminds.svg",
 			"country": "NL",
-			"industry": "Information Technology"
+			"industry": "Application"
 		}],
 		"success_case_list": [],
 		"solution_list": [{
@@ -75,19 +75,19 @@
 			"website_url": "https://penpot.app/",
 			"created_year": "2016",
 			"description": "The open-source solution for design and prototyping digital products and platforms.",
-			"category_list": ["Information Technology"],
+			"category_list": ["Application"],
 			"similar_solution_list": [{
 				"title": "Diagrams.net",
 				"similiar_solution_url": "https://www.diagrams.net/",
-				"category": "Information Technology"
+				"category": "Application"
 			}, {
 				"title": "Pencil Project",
 				"similiar_solution_url": "https://pencil.evolus.vn/",
-				"category": "Information Technology"
+				"category": "Application"
 			}, {
 				"title": "Figma",
 				"similiar_solution_url": "https://www.figma.com/",
-				"category": "Information Technology"
+				"category": "Application"
 			}],
 			"licence_list": ["MPL 2.0"],
 			"source_code_download": "https://github.com/penpot/penpot.git",
