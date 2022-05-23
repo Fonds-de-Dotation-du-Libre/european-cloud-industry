@@ -12,9 +12,9 @@
 		"postal_code": "CB4 0DS",
 		"city": "Cambridge",
 		"country": "UK",
-		"phone_contact": "+44 (0)1223 362967",
+		"phone_contact": "+441223362967",
 		"mail_contact": "hello@collaboraoffice.com",
-		"coordinate_list": ["52.23426739352286, 0.15209271400327157"]
+		"coordinate_list": "52.23426739352286, 0.15209271400327157]
 	},
 	"founded_year": "2005",
 	"kpi_list": [{
@@ -23,35 +23,35 @@
 		"earnings": "",
 		"total_assets": "5337332€",
 		"revenues": "",
-		"source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
+		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
 		"year": "2019",
 		"staff": "23",
 		"earnings": "",
 		"total_assets": "4624715€",
 		"revenues": "",
-		"source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
+		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
 		"year": "2018",
 		"staff": "21",
 		"earnings": "",
 		"total_assets": "4065455€",
 		"revenues": "",
-		"source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
+		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
 		"year": "2017",
 		"staff": "23",
 		"earnings": "",
 		"total_assets": "2778094€",
 		"revenues": "",
-		"source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
+		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
 		"year": "2016",
 		"staff": "23",
 		"earnings": "",
 		"total_assets": "2211150€",
 		"revenues": "",
-		"source_url": "https://find-and-update.company-information.service.gov.uk/company/05513718/filing-history"
+		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}],
 	"solution_list": [{
 		"title": "Collabora Office",
@@ -59,31 +59,31 @@
 		"website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
 		"created_year": "2013",
 		"description": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Workspace","Application"],
 		"similar_software_list": [{
 			"title": "LibreOffice",
 			"similiar_software_url": "https://www.libreoffice.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Apache OpenOffice",
 			"similiar_software_url": "https://www.openoffice.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "OnlyOffice",
 			"similiar_software_url": "https://www.onlyoffice.com/en/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Calligra",
 			"similiar_software_url": "https://calligra.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Microsoft Office Suite",
 			"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "WPS Office",
 			"similiar_software_url": "https://www.wps.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["MPL 2.0"],
 		"source_code_download": "",
@@ -115,27 +115,27 @@
 		"website_url": "https://www.collaboraoffice.com/collabora-online/",
 		"created_year": "2016",
 		"description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "LibreOffice",
 			"similiar_solution_url": "https://www.libreoffice.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Google Docs",
 			"similiar_solution_url": "https://www.docs.google.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Apache OpenOffice",
 			"similiar_solution_url": "https://www.openoffice.org/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Microsoft Office Suite",
 			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "WPS Office",
 			"similiar_solution_url": "https://www.wps.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["MPL 2.0"],
 		"source_code_download": "https://github.com/CollaboraOnline/online.git",
