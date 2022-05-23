@@ -11,7 +11,7 @@
 		"country": "FR",
 		"phone_contact": "+33184208647",
 		"mail_contact": "info@worteks.com",
-		"coordinate_list": ["48.887029190768544, 2.2098383478066896"]
+		"coordinate_list": [48.887029190768544, 2.2098383478066896]
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.worteks.com/",
@@ -48,23 +48,23 @@
 		"similar_solution_list": [{
 			"title": "Keycloak",
 			"similiar_solution_url": "https://www.keycloak.org/",
-			"category": "Information Technology"
+			"category": "Identity"
 		}, {
 			"title": "CAS",
 			"similiar_solution_url": "https://github.com/apereo/cas.git",
-			"category": "Information Technology"
+			"category": "Identity"
 		}, {
 			"title": "Ory",
 			"similiar_solution_url": "https://www.ory.sh/",
-			"category": "Information Technology"
+			"category": "Identity"
 		}, {
 			"title": "Shibboleth",
 			"similiar_solution_url": "https://www.shibboleth.net/",
-			"category": "Information Technology"
+			"category": "Identity"
 		}, {
 			"title": "10 Duke",
 			"similiar_solution_url": "https://www.10duke.com/products/identity-provider/",
-			"category": "Information Technology"
+			"category": "Identity"
 		}],
 		"licence_list": ["GPL-3.0"],
 		"source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
@@ -96,23 +96,23 @@
 			"website_url": "https://www.ltb-project.org/",
 			"created_year": "2008",
 			"description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
-			"category_list": ["Information Technology"],
+			"category": ["Identity"],
 			"similar_solution_list": [{
 				"title": "pwm-project",
 				"similiar_solution_url": "https://github.com/pwm-project/pwm.git",
-				"category": "Information Technology"
+				"category": "Identity"
 			}, {
 				"title": "PassCore",
 				"similiar_solution_url": "https://github.com/unosquare/passcore.git",
-				"category": "Information Technology"
+				"category": "Identity"
 			}, {
 				"title": "ADReset",
 				"similiar_solution_url": "https://github.com/mprahl/ADReset.git",
-				"category": "Information Technology"
+				"category": "Identity"
 			}, {
 				"title": "JiJi Self Service Password",
 				"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
-				"category": "Information Technology"
+				"category": "Identity"
 			}],
 			"licence_list": ["GPL-3.0"],
 			"source_code_download": "https://github.com/ltb-project/self-service-password.git",
@@ -144,7 +144,7 @@
 				"website_url": "https://www.lsc-project.org/start",
 				"created_year": "2018",
 				"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
-				"category_list": ["Information Technology"],
+				"category_list":["Big Data Hub", "Storage and Database"],
 				"similar_solution_list": [],
 				"licence_list": ["GPL-3.0"],
 				"source_code_download": "https://github.com/lsc-project/lsc.git",
