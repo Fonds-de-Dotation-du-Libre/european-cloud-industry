@@ -11,7 +11,7 @@
     "country": "DE",
     "phone_contact": "+493012053434",
     "mail_contact": "info@nitrokey.com",
-    "coordinate_list": ["52.39930339008701, 13.245699728931854"]
+    "coordinate_list": [52.39930339008701, 13.245699728931854]
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.nitrokey.com/",
@@ -23,15 +23,15 @@
     "website_url": "https://www.nitrokey.com/#comparison",
     "created_year": "",
     "description": "Nitrokeys protect emails, files, hard drives, server certificates and online accounts using cryptography. Your private keys are always stored securely in the Nitrokey hardware and can't be stolen. The device is PIN-protected and is secured against brute force and hardware attacks. Backups protect against loss.",
-    "category_list": "",
+    "category_list": "Cybersecurity",
     "similar_solution_list": [{
       "title": "Yubico",
       "similiar_solution_url": "https://www.yubico.com/products/security-key/",
-      "category": ""
+      "category": "Cybersecurity"
       },{
       "title": "iStorage",
       "similiar_solution_url": "https://istorage-uk.com/product-category/encrypted-flash-drives/",
-      "category": ""
+      "category": "Cybersecurity"
       }],
     "licence_list": "",
     "source_code_download": "",
