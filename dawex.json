@@ -11,7 +11,7 @@
 		"country": "FR",
 		"phone_contact": "+33972505670",
 		"mail_contact": "https://www.dawex.com/fr/a-propos/contacts/",
-		"coordinate_list": ["45.768881807452125, 4.837626710687799"]
+		"coordinate_list": [45.768881807452125, 4.837626710687799]
 	},
 	"subsidiary_location_list": ["CA"],
 	"website_url": "https://www.dawex.com/",
@@ -23,45 +23,45 @@
 		"website_url": "https://www.dawex.com/en/data-exchange-platform/",
 		"created_year": "",
 		"description": "Dawex Data Exchange Platform is a fully customized white-label SaaS platform to distribute, source, commercialize and/or orchestrate data ecosystems. Dawex Data Exchange Platform incorporates a Data Exchange governance model encapsulating control and security, traceability, licensing and regulatory compliance. Operated in managed, distributed or decentralized mode, supporting various data exchange business models (free, subscription, transactional, performance-based).",
-		"category_list": ["Information Technology"]
+		"category_list": ["Application"]
 	}, {
 		"title": "Data Marketplace",
 		"logo_url": "",
 		"website_url": "https://www.dawex.com/en/data-exchange-platform/data-marketplace/",
 		"created_year": "",
 		"description": "Data marketplace accelerates and facilitates data circulation amongst many stakeholders, allowing them to source, distribute, commercialize and exchange data securely, in full compliance with regulations.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Storage and Database"]
 	}, {
 		"title": "Data Hub",
 		"logo_url": "",
 		"website_url": "https://www.dawex.com/en/data-exchange-platform/data-hub/",
 		"created_year": "",
 		"description": "Facilitate the secure sharing of data and the provision of data-related services to build data partnerships, foster innovation and stimulate value creation.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Big Data Hub"],
 		"similar_solution_list": [{
 			"title": "Crunchbase",
 			"similiar_solution_url": "https://www.crunchbase.com/",
-			"category": "Information Technology"
+			"category": "Storage and Database"
 		}, {
 			"title": "PartnerLinQ",
 			"similiar_solution_url": "https://www.partnerlinq.net/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Weld",
 			"similiar_solution_url": "https://weld.app/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Explorium",
 			"similiar_solution_url": "https://www.explorium.ai/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
-		"source_code_download": "",
-		"source_code_profile": "",
+		"source_code_download": "No",
+		"source_code_profile": "No",
 		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": "No",
+		"commercial_support_open_source_version": "No",
+		"commercial_support_available": "Yes",
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Autoroutes Paris-Rhin-Rhône",
