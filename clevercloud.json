@@ -13,86 +13,44 @@
 		"coordinate_list": [47.213901208892615, -1.5372462155180306]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "",
-	"founded_year": "",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"website_url": "https://www.clever-cloud.com/",
+	"founded_year": "2010",
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Add-on Elastic Stack Platinum",
 		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/05/Elastic_NV_logo.svg",
 		"website_url": "https://www.clever-cloud.com/elasticsearch-hosting/",
 		"created_year": "",
 		"description": "A fully managed Elastic stack cluster in platinum version, with monitoring, backups and migration tools.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Solr",
 			"similiar_solution_url": "https://solr.apache.org/",
-			"category": "Information Technology"
+			"category":"Application"
 		}, {
 			"title": "InfluxDB",
 			"similiar_solution_url": "https://www.influxdata.com/",
-			"category": "Information Technology"
+			"category":"Application"
 		}, {
 			"title": "TypeSense",
 			"similiar_solution_url": "https://typesense.org/",
-			"category": "Information Technology"
+			"category":"Application"
 		}, {
 			"title": "Algolia",
 			"similiar_solution_url": "https://www.algolia.com/",
-			"category": "Information Technology"
+			"category":"Application"
 		}, {
 			"title": "Sphinx",
 			"similiar_solution_url": "http://www.sphinxsearch.com/",
-			"category": "Information Technology"
+			"category":"Application"
 		}, {
 			"title": "Amazon Cloud Search",
 			"similiar_solution_url": "https://aws.amazon.com/fr/cloudsearch/",
-			"category": "Information Technology"
+			"category":"Application"
 		}],
 		"licence_list": ["licence Apache 2.0"],
-		"source_code_download": "https://github.com/elastic/elasticsearch",
-		"source_code_profile": "https://www.openhub.net/p/elasticsearch",
+		"source_code_download": "https://github.com/CleverCloud/clever-tools.git",
+		"source_code_profile": "https://www.openhub.net/p/CleverClouds_fmkcms_site/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.elastic.co/fr/subscriptions",
 		"floss_software": "no",
 		"commercial_support_open_source_version": "no",
