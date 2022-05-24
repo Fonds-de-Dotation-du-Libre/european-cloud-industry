@@ -31,30 +31,30 @@
     },{
       "title": "Dfinity",
       "similiar_solution_url": "https://dfinity.org/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Golem",
       "similiar_solution_url": "https://www.golem.network/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Syntropy",
       "similiar_solution_url": "https://www.syntropynet.com/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Siacoin",
       "similiar_solution_url": "https://sia.tech/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Filecoin",
       "similiar_solution_url": "https://filecoin.io/",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "Helium",
       "similiar_solution_url": "https://www.helium.com/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["Apache-2.0"],
-    "source_code_download": "https://github.com/threefoldtech/home.git",
+    "source_code_download": "hhttps://github.com/threefoldfoundation/home.git",
     "source_code_profile": "",
     "commercial_support_url": "",
     "floss_software": "Yes",
