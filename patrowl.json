@@ -23,21 +23,22 @@
     "website_url": "https://patrowl.io/patrowl/",
     "created_year": "2020",
     "description": "Patrowl is an Offensive Security as a Service solution witch allows you to manage your External Security Posture with : Continuous (re)discovery of all your internet exposed (external facing) assets, partially with our External Attack Surface Management (EASM), Continuous identification of all your weaknesses and vulnerabilities with our Pentest as a Service (PTaaS) and our realtime cyber threat monitoring​, Easy remediation from our dashboard with prioritization and contextualization, Control of the remediation with the ability to retest​ with 1 single clic.",
-    "category_list": ["Cybersecurity","Identity"]
+    "solution_type": "software",
+    "category_list": ["offensive security software"],
     "similar_solution_list": [{
-      "title": "n8n",
-      "similiar_solution_url": "https://n8n.io/",
-      "category": "Service Lifecycle Automation"
+      "title": "Google Cloud Security Command Center",
+      "similiar_solution_url": "https://cloud.google.com/security-command-center",
+      "category": "offensive security software"
       },{
-      "title": "StackStorm",
-      "similiar_solution_url": "https://stackstorm.com/",
-      "category": "Application"
+      "title": "Crashtest Security",
+      "similiar_solution_url": "https://crashtest-security.com/",
+      "category": "offensive security software"
       },{
-      "title": "jeedom",
-      "similiar_solution_url": "https://www.jeedom.com/fr/",
-      "category": "Application"
+      "title": "Invicti Security",
+      "similiar_solution_url": "https://www.invicti.com/",
+      "category": "offensive security software"
       }],
-    "licence_list": [" AGPL-3.0 License"],
+    "licence_list": ["AGPL-3.0 License"],
     "source_code_download": "https://github.com/Patrowl/PatrowlManager.git",
     "source_code_profile": "",
     "commercial_support_url": "https://patrowl.io/en/contact/",
