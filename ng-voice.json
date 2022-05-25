@@ -11,7 +11,7 @@
     "country": "DE",
     "phone_contact": "+49 40 5247593-0",
     "mail_contact": "info@ng-voice.com",
-    "coordinate_list": ["53.547783496858045, 9.992352800142234"]
+    "coordinate_list": [53.547783496858045, 9.992352800142234]
   },
   "subsidiary_location_list": [],
   "website_url": "https://ng-voice.com",
@@ -23,19 +23,20 @@
     "website_url": "https://www.ng-voice.com/solutions/?tab1",
     "created_year": "",
     "description": "the virtualized and cloud-native IMS core is the first 100% containerized and Kubernetes-based fully-fledged IMS solution, allowing deployment on bare metal (private), public, and hybrid cloud environments",
-    "category_list": "",
+    "solution_type": "software",
+    "category_list": "standardized achitectural framework",
     "similar_solution_list": [{
       "title": "Cloud IMS",
       "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
-      "category": ""
+      "category": "standardized achitectural framework"
     },{
       "title": "IMS",
       "similiar_solution_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
-      "category": ""
+      "category": "standardized achitectural framework"
     },{
       "title": "Cloud-native IMS",
       "similiar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
-      "category": ""
+      "category": "standardized achitectural framework"
     }],
     "licence_list": "",
     "source_code_download": "",
@@ -45,7 +46,37 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem",
-    "reference_list": "",
+    "reference_list": [{
+      "title": "GSMA",
+      "logo_url": "https://www.gsma.com/wp-content/plugins/plugin_header_overload/images/logo.png",
+      "country": "US",
+      "industry": "Consumer Discretionary"
+    },{
+      "title": "Summa Networks",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/logo-summa-networks-black-rgb.png",
+      "country": "ES",
+      "industry": "Telecommunications services"
+    },{
+      "title": "AttoCore",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/attocore-cyan-blue.png",
+      "country": "UK",
+      "industry": "Telecommunications services"
+    },{
+      "title": "Telecom Infra Project",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/TIP_vertical_rgb_color-white.png",
+      "country": "US",
+      "industry": "Telecommunications services"
+    },{
+      "title": "Deutsche Telekom",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Copy-of-800px-Deutsche_Telekom-Logo-white.png",
+      "country": "DE",
+      "industry": "Telecommunication"
+    },{
+      "title": "Hubraum",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Type-Logo_RGB_300px_h-white.png",
+      "country": "DE",
+      "industry": "Technology"
+    }],
     "success_case_list": ""
     },{
     "title": "Policy and Charging Rules Function (PCRF light)",
@@ -53,15 +84,16 @@
     "website_url": "https://www.ng-voice.com/solutions/?tab3#toggle3",
     "created_year": "",
     "description": "The PCRF dynamically allocates and manages bandwidth requirements for various use-cases. ng-voice’s version is currently only a light-weight PCRF, fulfilling the necessary functions to provide a VoLTE service",
-    "category_list": "",
+    "solution_type": "software",
+    "category_list": "Policy Management solution",
     "similar_solution_list": [{
       "title": "Service-Aware Policy Controller (SAPC)",
       "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-unified-data-management-and-policy/policy-control/service-aware-policy-controller",
-      "category": ""
+      "category": "Policy Management solution"
        },{
       "title": "Nokia Policy Controller",
       "similiar_solution_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
-      "category": ""
+      "category": "Policy Management solution"
     }],
     "licence_list": "",
     "source_code_download": "",
@@ -71,7 +103,27 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Policy_and_charging_rules_function",
-    "reference_list": "",
+    "reference_list": [{
+      "title": "GSMA",
+      "logo_url": "https://www.gsma.com/wp-content/plugins/plugin_header_overload/images/logo.png",
+      "country": "US",
+      "industry": "Consumer Discretionary"
+    },{
+      "title": "Summa Networks",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/logo-summa-networks-black-rgb.png",
+      "country": "ES",
+      "industry": "Telecommunications services"
+    },{
+      "title": "AttoCore",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/attocore-cyan-blue.png",
+      "country": "UK",
+      "industry": "Telecommunications services"
+    },{
+      "title": "Telecom Infra Project",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/TIP_vertical_rgb_color-white.png",
+      "country": "US",
+      "industry": "Telecommunications services"
+    }],
     "success_case_list": ""
     },{
     "title": "application servers",
@@ -79,7 +131,8 @@
     "website_url": "https://www.ng-voice.com/solutions/?tab3",
     "created_year": "",
     "description": "Our application servers provide the full range of supplementary services.",
-    "category_list": "",
+    "solution_type": "hardware",
+    "category_list": "server",
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
@@ -89,7 +142,37 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Application_server",
-    "reference_list": "",
+    "reference_list":[{
+      "title": "GSMA",
+      "logo_url": "https://www.gsma.com/wp-content/plugins/plugin_header_overload/images/logo.png",
+      "country": "US",
+      "industry": "Consumer Discretionary"
+    },{
+      "title": "Summa Networks",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/logo-summa-networks-black-rgb.png",
+      "country": "ES",
+      "industry": "Telecommunications services"
+    },{
+      "title": "AttoCore",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/attocore-cyan-blue.png",
+      "country": "UK",
+      "industry": "Telecommunications services"
+    },{
+      "title": "Telecom Infra Project",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/TIP_vertical_rgb_color-white.png",
+      "country": "US",
+      "industry": "Telecommunications services"
+    },{
+      "title": "Deutsche Telekom",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Copy-of-800px-Deutsche_Telekom-Logo-white.png",
+      "country": "DE",
+      "industry": "Telecommunication"
+    },{
+      "title": "Hubraum",
+      "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Type-Logo_RGB_300px_h-white.png",
+      "country": "DE",
+      "industry": "Technology"
+    }],
     "success_case_list": ""
    }] 
 }
