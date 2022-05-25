@@ -23,6 +23,7 @@
     "website_url": "https://www.rapid.space/products/vps",
     "created_year": "",
     "description": "A dedicated, high performance server running a single virtual machine (VM) for a single customer.",
+    "solution_type": "hardware",
     "category_list": "Compute Virtualization",
     "similar_solution_list": "",
     "licence_list": "",
@@ -59,7 +60,8 @@
     "website_url": "https://www.rapid.space/products/cdn",
     "created_year": "",
     "description": "A global HTTP2 caching proxy to accelerate your Web sites and make them available everywhere.",
-    "category_list": "",
+    "solution_type": "hardware"
+    "category_list": ["web performance optimization","cloud security"]
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
@@ -95,7 +97,8 @@
     "website_url": "https://www.rapid.space/products/sdn",
     "created_year": "",
     "description": "A latency optimised SD-WAN to interconnect edgeclouds or multiclouds without congestion.",
-    "category_list": "",
+    "solution_type": "software"
+    "category_list": "network management",
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
@@ -140,7 +143,8 @@
     "website_url": "https://www.rapid.space/products/ors",
     "created_year": "",
     "description": "A plug-and-play autonomous base station for private 4G/5G edge-enabled networks.",
-    "category_list": "",
+    "solution_type": "software"
+    "category_list": "radio networks",
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
@@ -167,6 +171,7 @@
     "website_url": "https://www.rapid.space/products/bdh",
     "created_year": "",
     "description": "A data hub platform for data engineering, AI and transactional applications.",
+    "solution_type": "software"
     "category_list": "",
     "similar_solution_list": "",
     "licence_list": "",
