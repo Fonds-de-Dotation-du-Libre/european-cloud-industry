@@ -83,52 +83,81 @@
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Emirates",
-			"logo_url": "",
+			"logo_url": "https://logos-marques.com/wp-content/uploads/2020/12/Emirats-logo-750x519.png",
 			"country": "AE",
 			"industry": "Transport"
 		}, {
 			"title": "Schweizerische Eidgenossenschaft",
-			"logo_url": "",
+			"logo_url": "https://www.stelle.admin.ch/stelle/de/_jcr_content/logo/image.imagespooler.png/1458148608807/logo.png",
 			"country": "CH",
 			"industry": "Banking and Finance"
 		}, {
 			"title": "ADAC",
-			"logo_url": "",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ADAC-Logo.svg/225px-ADAC-Logo.svg.png",
 			"country": "DE",
 			"industry": "Associations and NGOs"
 		}, {
 			"title": "RWE",
-			"logo_url": "",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/RWE_Logo_2020.svg/188px-RWE_Logo_2020.svg.png",
 			"country": "DE",
 			"industry": "Energy and Utilities"
 		}, {
 			"title": "KBC",
-			"logo_url": "",
+			"logo_url": "https://wcmassets.kbc.be/content/dam/common-images/logos/internal/brand/kbc/KBC.jpg.cdn.res/last-modified/1582624467330/KBC.jpg",
 			"country": "DE",
 			"industry": "Banking and Finance"
 		},{
 			"title": "Deutsche Bundesbank",
-			"logo_url": "",
+			"logo_url": "https://www.bundesbank.de/resource/crblob/722082/6a4e8cec477af9daea8b48e194795928/mL/logo-data.svg",
 			"country": "DE",
 			"industry": "Banking and Finance"
 		}],
 		"success_case_list": [{
-			"title": "",
-			"description": "",
+			"title": "Threema Work as official company messenger",
+			"description": "Threema Work is the official instant messenger for the entire company. It’s prohibited to use conventional chat apps for business purposes on company phones. Its primary use case is the exchange of ad-hoc messages and team communication in group chats but it is also used for broad information distribution and top-down communication",
 			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}
-				      XXX
-		   Daimler - https://threema.ch/en/work/clients#daimler
-		   Mercedes - https://threema.ch/en/work/clients#mercedes-benz 
-		   Edeka - https://threema.ch/en/work/clients#edeka
-		   TKE Elevators - https://threema.ch/en/work/clients#tk_elevator
-		   SIX - https://threema.ch/en/work/clients#six
-		]
+			"industry": "Automotive",
+			"customer": "Daimler AG",
+			"country": "DE",
+			"language": "de",
+			"success_case_url": "https://threema.ch/en/work/clients"
+		},{
+			"title": "Exchange of Public, Private, and Confidential Information in Real Time",
+			"description": "Mercedes-Benz India is responsible for the assembly of luxury cars. Since 2021, Threema Work has been the company’s official instant messenger at Mercedes-Benz India. In October of the same year, Threema Work was extended to franchise partners and dealer employees to ensure a secure and efficient communication. Thanks to Threema Work’s outstanding security, even sensitive information can be exchanged in real time via distribution lists, groups, and in single chats.",
+			"image_url": "",
+			"industry": "Automotive",
+			"customer": "Mercedes-Benz india",
+			"country": "IN",
+			"language": "en",
+			"success_case_url": "https://threema.ch/en/work/clients"
+		},{
+			"title": "Threema Work Integration: Alerting and Fast Information Distribution",
+			"description": "The EDEKA association consists of seven regional companies. The Northern-Bavaria-Saxony-Thuringia group of companies uses Threema Work first and foremost for communication with the retail stores. EDEKA is a prime example for the effortless integration of Threema Work into existing IT infrastructure, and the implementation also showcases Threema Work’s powerful APIs.",
+			"image_url": "",
+			"industry": "Commerce and Retail",
+			"customer": "Edeka",
+			"country": "DE",
+			"language": "de",
+			"success_case_url": "https://threema.ch/en/work/clients"
+		},{
+			"title": "Service reporting and order placement via messenger",
+			"description": "TK Elevator offers service for elevators, escalators, and automatic doors throughout Germany. Thanks to a decentralized organization of the company’s location network, emergency calls can be answered around the clock, and issues are resolved promptly. Across Germany, the Service24 center and service technicians use Threema Work to communicate.",
+			"image_url": "",
+			"industry": "construction",
+			"customer": "TK Elevator",
+			"country": "DE",
+			"language": "de",
+			"success_case_url": "https://threema.ch/en/work/clients"
+		},{
+			"title": "Communication Services for Financial Market Participants",
+			"description": "As the backbone of the Swiss financial center, SIX acts as an intermediary between banks and financial market participants. The company operates on a global level and offers services in the fields of capital markets, finance, and banks. Threema Work is the official messenger for secure communication among members of the SIX Cyber Security Hub. Secure communication has become easier with Threema Work because unmanaged devices (BYOD) can be included into the corporate communication easily and quickly.",
+			"image_url": "",
+			"industry": "Banking and Finance",
+			"customer": "SIX",
+			"country": "CH",
+			"language": "fr",
+			"success_case_url": "https://threema.ch/en/work/clients"
+		}]
 	}, {
 		"title": "ThreemaOnPrem",
 		"logo_url": "https://threema.ch/images/onprem/threema-onprem-appicon.svg",
@@ -182,15 +211,36 @@
 		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}
-			XXX
-			Baden-württemberg, Erasmus University Rotterdam, Hardtschule, Arnold-Janssen Gymnasium, Schule am Marsbruch, Stadt Frankfurt am Main
-			https://threema.ch/en/education
-		]
+			"title": "Baden-Württemberg",
+			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-baden_wuerttemberg-km.png",
+			"country": "DE",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Erasmus University Rotterdam",
+			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-erasmus-university-rotterdam.svg",
+			"country": "NL",
+			"industry": "Education"
+		},{
+			"title": "Hardtschule Durmersheim",
+			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-hardtschule.png",
+			"country": "DE",
+			"industry": "Education"
+		},{
+			"title": "Arnold Janssen Gymnasium",
+			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-arnold-janssen.png",
+			"country": "DE",
+			"industry": "Education"
+		},{
+			"title": "Schule am Marsbruch",
+			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-schule-marsbruch.png",
+			"country": "DE",
+			"industry": "Education"
+		},{
+			"title": "Public Administration and Government",
+			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-frankfurt.svg",
+			"country": "DE",
+			"industry": "Public Administration and Government"
+		}]
 		"success_case_list": []
 	}, {
 		"title": "Threema Broadcast",
