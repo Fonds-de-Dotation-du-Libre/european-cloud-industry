@@ -42,37 +42,37 @@
 			"title": "Dialecte",
 			"logo_url": "https://www.dialectinc.com/wp-content/uploads/2022/03/podcast.png",
 			"country": "SE",
-			"industry": "Media"
+			"industry": "Media and Entertainment"
 			},{
 			"title": "Oxalis",
 			"logo_url": "https://oxalis.io/wp-content/themes/oxalis_wp/assets/imgs/logo-white.svg",
 			"country": "CZ",
-			"industry": "Software solutions"
+			"industry": "Information Technology"
 			},{
 			"title": "Quarnot",
 			"logo_url": "https://qarnot.com/_nuxt/img/qarnot.029472e.svg",
 			"country": "FR",
-			"industry": "Software solutions"
+			"industry": "Information Technology"
 			},{
 			"title": "Kingdom of Railways",
 			"logo_url": "https://www.koenigreich-der-eisenbahnen.at/wp-content/uploads/2021/08/logo-header.png",
 			"country": "AT",
-			"industry": "Tourism"
+			"industry": "Travel and Tourism"
 			},{
 			"title": "Bohumín",
 			"logo_url": "https://www.mesto-bohumin.cz/images/logo-bohumin2.png",
 			"country": "CZ",
-			"industry": "Public Administration"
+			"industry": "Public Administration and Government"
 			},{
 			"title": "SamKnows",
-			"logo_url": "",
+			"logo_url": "https://www.samknows.com/img/samknows-logo.svg",
 			"country": "UK",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "University Carlos III of Madrid",
 			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_UC3M.svg/375px-Logo_UC3M.svg.png",
 			"country": "ES",
-			"industry": "Higher education"
+			"industry": "Academia and Research"
 			}],
 		"success_case_list": []
 	}, {
@@ -127,18 +127,18 @@
 			"title": "Dialecte",
 			"logo_url": "https://www.dialectinc.com/wp-content/uploads/2022/03/podcast.png",
 			"country": "SE",
-			"industry": "Media"
+			"industry": "Media and Entertainment"
 			},{
 			"title": "Oxalis",
 			"logo_url": "https://oxalis.io/wp-content/themes/oxalis_wp/assets/imgs/logo-white.svg",
 			"country": "CZ",
-			"industry": "Software solutions"
+			"industry": "Information Technology"
 			},{
 			"title": "Quarnot",
 			"logo_url": "https://qarnot.com/_nuxt/img/qarnot.029472e.svg",
 			"country": "FR",
-			"industry": "Software solutions"
-			}],
+			"industry": "Information Technology"
+		}],
 		"success_case_list": [{
 			"title": "Mozilla is solving IoT issues using Turris Omnia",
 			"description": "Mozilla decided to attempt to help the world and fix the current situation. Problems with IoT that I stated in the previous part are incompatibility – lack of standardized API and security/privacy – your personal data are sent who knows where in insecure manner.",
