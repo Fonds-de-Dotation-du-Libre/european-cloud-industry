@@ -1,7 +1,7 @@
 {
 	"created": "2012",
 	"title": "Threema GmbH",
-	"type": "Company",
+	"type": "Corporation",
 	"logo_url": "https://threema.ch/images/icons/threema-icon.svg",
 	"location": {
 		"title": "Threema GmbH",
@@ -14,16 +14,9 @@
 		"coordinate_list": [47.201575867314375, 8.783466253800766]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://threema.ch/en",
+	"website_url": "https://threema.ch/",
 	"founded_year": "2012",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "40",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Threema",
 		"logo_url": "https://threema.ch/images/icons/threema-icon.svg",
@@ -49,26 +42,22 @@
 			"similiar_solution_url": "https://www.whatsapp.com/",
 			"category": "Communication"
 		}],
-		"licence_list": ["Android: AGPL-3.0-only", "iOS: AGPL-3.0-only", "Web: AGPL-3.0-or-later", "Protocol: MIT"],
-		"source_code_download": "https://github.com/threema-ch",
-		"source_code_profile": "yes",
+		"licence_list": ["GNU Affero General Public License version 3"],
+		"source_code_download": "https://threema.ch/en/open-source",
+		"source_code_profile": "",
 		"commercial_support_url": "https://threema.ch/en/support",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "https://threema.ch/en/open-source",
-		"commercial_support_available": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "no",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Threema",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Threema Work",
-		"logo_url": "https://play-lh.googleusercontent.com/L0_JSfTvPDC0xebfvTXE1jGs5npChXTD0mF80-m8Z6bIWAacu0ramJUmIv0XFqY1tFI=s180-rw",
+		"logo_url": "https://threema.ch/images/logo_work.svg",
 		"website_url": "https://threema.ch/en/work",
 		"created_year": "2014",
-		"description": "Threema Work is a messaging app that meets all employee needs, is easy to use, and packed with features. ",
+		"description": "Threema Work is a messaging app that meets all employee needs, is easy to use, and packed with features.",
 		"Solution type": "Software",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
@@ -85,49 +74,61 @@
 			"category": "Communication"
 		}],
 		"licence_list": [],
-		"source_code_download": "https://github.com/threema-ch",
+		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://threema.ch/en/support/",
+		"commercial_support_url": "https://threema.ch/en/work/support-overview",
 		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
+		"commercial_support_open_source_version": "no",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
-			"title": "Bosch",
-			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-edeka.png",
-			"country": "De",
-			"industry": "High Tech"
+			"title": "Emirates",
+			"logo_url": "",
+			"country": "AE",
+			"industry": "Transport"
 		}, {
-			"title": "EDEKA",
-			"logo_url": "https://www.edeka.de/edeka-ui-assets/images/logo.png",
+			"title": "Schweizerische Eidgenossenschaft",
+			"logo_url": "",
+			"country": "CH",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "ADAC",
+			"logo_url": "",
 			"country": "DE",
-			"industry": "Retail"
+			"industry": "Associations and NGOs"
 		}, {
-			"title": "Daimler AG",
-			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-daimler.svg",
+			"title": "RWE",
+			"logo_url": "",
 			"country": "DE",
-			"industry": "Automobile"
+			"industry": "Energy and Utilities"
 		}, {
-			"title": "Rossman",
-			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-rossmann.svg",
+			"title": "KBC",
+			"logo_url": "",
 			"country": "DE",
-			"industry": "Drugstore"
-		}, {
-			"title": "City of Frankfurt am Main",
-			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-frankfurt.svg",
+			"industry": "Banking and Finance"
+		},{
+			"title": "Deutsche Bundesbank",
+			"logo_url": "",
 			"country": "DE",
-			"industry": ""
-		}, {
-			"title": "TK Elevators",
-			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-tk_elevator.svg",
-			"country": "FR",
-			"industry": "Elevators"
-		}, {
-			"title": "Alliance 90/The Green",
-			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-b90.png",
-			"country": "DE",
-			"industry": "Politics"
-		}]
+			"industry": "Banking and Finance"
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}
+				      XXX
+		   Daimler - https://threema.ch/en/work/clients#daimler
+		   Mercedes - https://threema.ch/en/work/clients#mercedes-benz 
+		   Edeka - https://threema.ch/en/work/clients#edeka
+		   TKE Elevators - https://threema.ch/en/work/clients#tk_elevator
+		   SIX - https://threema.ch/en/work/clients#six
+		]
 	}, {
 		"title": "ThreemaOnPrem",
 		"logo_url": "https://threema.ch/images/onprem/threema-onprem-appicon.svg",
@@ -144,7 +145,17 @@
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
 			"category": "Communication"
-		}]
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "yes",
+		"commercial_support_available": "yes",
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "ThreemaEducation",
 		"logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
@@ -163,11 +174,11 @@
 			"category": "Communication"
 		}],
 		"licence_list": [],
-		"source_code_download": "https://github.com/threema-ch",
+		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://threema.ch/en/support/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
+		"commercial_support_url": "https://threema.ch/en/education#contact",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "",
 		"reference_list": [{
@@ -175,7 +186,12 @@
 			"logo_url": "",
 			"country": "",
 			"industry": ""
-		}]
+		}
+			XXX
+			Baden-württemberg, Erasmus University Rotterdam, Hardtschule, Arnold-Janssen Gymnasium, Schule am Marsbruch, Stadt Frankfurt am Main
+			https://threema.ch/en/education
+		]
+		"success_case_list": []
 	}, {
 		"title": "Threema Broadcast",
 		"logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
@@ -190,32 +206,18 @@
 			"category": "Communication"
 		}],
 		"licence_list": [],
-		"source_code_download": "https://github.com/threema-ch",
+		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://threema.ch/en/support/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
+		"commercial_support_url": "https://threema.ch/en/broadcast#contact",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Threema Gateway",
-		"logo_url": "https://static.tpsort.com/media/uploads/images/r/b/rbjhyuepmg2divjxgqcenh02cbz4vpleabffbhrmeic5h0et.png",
+		"logo_url": "https://gateway.threema.ch/images/logo.svg",
 		"website_url": "https://gateway.threema.ch/en",
 		"created_year": "",
 		"description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.",
@@ -235,28 +237,14 @@
 			"category": "Communication"
 		}],
 		"licence_list": [],
-		"source_code_download": "https://github.com/threema-ch",
+		"source_code_download": "https://gateway.threema.ch/en/developer/api",
 		"source_code_profile": "",
-		"commercial_support_url": "https://threema.ch/en/support/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"commercial_support_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "no",
+		"commercial_support_available": "no",
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
