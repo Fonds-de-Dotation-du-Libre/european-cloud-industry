@@ -24,19 +24,19 @@
 		"created_year": "",
 		"description": "Hub integrates the three key Nextcloud products Files, Talk and Groupware into a single platform, optimizing the flow of collaboration. Eliminate the confusing hodgepodge of different SaaS tools and the compliance, security, cost and productivity issues that come with it and standardize on a single solution with Nextcloud Hub.",
 		"solution_type": "Software",
-		"category_list": ["collaboration platform"],
+		"category_list": ["collaborative platform"],
 		"similar_solution_list": [{
 			"title": "Cryptpad",
 			"similiar_solution_url": "https://cryptpad.fr/",
-			"category": ["collaboration platform"]
+			"category": ["collaborative platform"]
 			}, {
 			"title": "Google workspace",
 			"similiar_solution_url": "https://workspace.google.com/",
-			"category": ["collaboration platform"]
+			"category": ["collaborative platform"]
 			}, {
 			"title": "Microsoft 365",
 			"similar_solution_url": "https://www.microsoft.com/en/microsoft-365",
-			"category": ["collaboration platform"]
+			"category": ["collaborative platform"]
 		}],
 		"licence_list": ["General Public License v3.0"],
 		"source_code_download": "https://github.com/nextcloud",
