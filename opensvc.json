@@ -19,15 +19,15 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "",
-    		"earnings": "107 286€",
-    		"total_assets": "1 043 246€",
-    		"revenues": "803 295€",
+    		"earnings": "107286€",
+    		"total_assets": "1043246€",
+    		"revenues": "803295€",
     		"source_url": "https://www.verif.com/"
   		}, {
     		"year": "2019",
     		"staff": "",
     		"earnings": "",
-    		"total_assets": "798 979€",
+    		"total_assets": "798979€",
     		"revenues": "",
     		"source_url": "https://www.verif.com/"
   		},{
