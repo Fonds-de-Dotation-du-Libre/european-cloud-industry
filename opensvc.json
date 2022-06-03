@@ -76,7 +76,47 @@
 		"commercial_support_open_source_version": "yes",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "",
-		"reference_list": "",
+		"reference_list": [{
+			"title": "Amundi",
+      			"logo_url": "https://www.opensvc.com/init/static/images/references/amundi_logo.png",
+      			"country": "FR",
+     			"industry": "Finance"
+    			},{
+			"title": "BNP Paribas",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/bnp_logo.jpg",
+			"country": "FR",
+			"industry": "Banking",
+			},{
+			"title": "Groupe CGR",
+      			"logo_url": "https://www.opensvc.com/init/static/images/references/cgr.gif",
+      			"country": "FR",
+     			"industry": "Media & Entertainment"
+    			},{
+			"title": "Somfy",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/somfy.gif",
+			"country": "FR",
+			"industry": "IoT",
+			},{
+			"title": "Exane",
+      			"logo_url": "https://www.opensvc.com/init/static/images/references/exane.gif",
+      			"country": "FR",
+     			"industry": "Finance"
+    			},{
+			"title": "Vinci energies",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/vinci-energie.jpg",
+			"country": "FR",
+			"industry": "Construction",
+			},{
+			"title": "SNCF",
+      			"logo_url": "https://www.opensvc.com/init/static/images/references/sncf.jpg",
+      			"country": "FR",
+     			"industry": "Transport"
+    			},{
+			"title": "Canal+",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/canal.jpeg",
+			"country": "FR",
+			"industry": "Media & entertainment",
+			}]
 		"success_case_list": ""
   }]
 }
