@@ -53,12 +53,12 @@
     		"source_url": "https://www.bundesanzeiger.de/"
   		}],
 		"solution_list": [{
-		"title": "ownCloud GmbH",
+		"title": "ownCloud",
 		"logo_url": "https://owncloud.com/wp-content/uploads/2020/06/oc-logo-1c-1.svg",
 		"website_url": "https://owncloud.com/product/",
 		"created_year": "",
 		"description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device. It allows some integrations such as Microsoft, Collabora online, VNC and ONLYOFFICE.",
-		"category_list": "",
+		"category_list": "workspace",
 		"similar_solution_list": [{
 			"title": "Nextcloud",
 			"similiar_solution_url":"https://nextcloud.com/",
@@ -76,7 +76,192 @@
 		"commercial_support_open_source_version": "no",
 		"commercial_support_available": "yes",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OwnCloud",
-		"reference_list": "",
+		"reference_list": [{
+			"title": "Atos",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/12/atos_12.png",
+      			"country": "FR",
+     			"industry": "IT services"
+    			},{
+			"title": "Backblaze",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2022/04/horizontal-red-navy-768x274.png",
+      			"country": "US",
+     			"industry": "Cloud and data storage"
+			},{
+			"title": "BW-Tech GmbH",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-BW-Tech.png",
+      			"country": "DE",
+     			"industry": "IT services"
+			},{
+			"title": "Catworkx",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-CatWorkx.png",
+      			"country": "DE",
+     			"industry": "IT services"
+			},{
+			"title": "Cidaas",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/01/download.png",
+      			"country": "DE",
+     			"industry": "IT services"
+			},{
+			"title": "Cloudian",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/06/Cloudian-Logo-Primary-768x145.jpg",
+      			"country": "US",
+     			"industry": "IT services"
+			},{
+			"title": "Collabora",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/collabora-symbol-transparent-e1650365219370.png"
+      			"country": "UK",
+     			"industry": "IT"
+			},{
+			"title": "eM Client",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/11/LOGO_RGB-768x180.jpg",
+      			"country": "CZ",
+     			"industry": "IT"
+			},{
+			"title": "EPAM Systems",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-epam.png",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "Fortinet",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/12/Fortinet_Logo_1800px-768x214.jpg",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "Fujitsu",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Fujitsu.png",
+      			"country": "JP",
+     			"industry": "IT"
+			},{
+			"title": "GRAU DATA",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-GRAU-DATA.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "HP",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Hewlett-Packard.png",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "HITACHI",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-HITACHI.png",
+      			"country": "JP",
+     			"industry": "IT"
+			},{
+			"title": "IBM",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-IBM.png",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "Innovaphone",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-innovaphone-GmbH.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "Kaspersky",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/11/Screenshot-2021-01-27-at-11.56.52.png",
+      			"country": "RU",
+     			"industry": "Cybersecurity"
+			},{
+			"title": "Kopano",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-kopano.png",
+      			"country": "NL",
+     			"industry": "IT"
+			},{
+			"title": "Netknights",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-NetKnights.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "ONLYOFFICE",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-ONLYOFFICE.png",
+      			"country": "LV",
+     			"industry": "IT"
+			},{
+			"title": "Open Xchange",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2022/04/ox_logo_blue.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "Opentext",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Opentext.png",
+      			"country": "CA",
+     			"industry": "IT"
+			},{
+			"title": "Plus Server",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/12/Logo_plusserver_blau.jpg",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "Qnap",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-QNAP.png",
+      			"country": "TW",
+     			"industry": "IT"
+			},{
+			"title": "RedHat",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Red-Hat.png",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "Rittal",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-RITTAL.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "Scality",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Scality.png",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "Secomba GmbH",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/09/Boxcryptor_LOGO-768x346.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "Securosys",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Securosys-SA.png",
+      			"country": "CH",
+     			"industry": "Cybersecurity"
+			},{
+			"title": "SEP AG",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-SEP.png",
+      			"country": "DE",
+     			"industry": "IT"
+			},{
+			"title": "Splunk",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Splunk.png",
+      			"country": "US",
+     			"industry": "IT"
+			},{
+			"title": "Unbound",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Unbound.png",
+      			"country": "IL",
+     			"industry": "Information Technology"
+			},{
+			"title": "Univention GmbH",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-Univention.png",
+      			"country": "DE",
+     			"industry": "Information Technology"
+			},{
+			"title": "Visavid",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/11/Visavid-Logo-blau-RGB-840-768x236.png",
+			"country": "DE"
+			"industry": "Information Technology"
+			},{
+			"title": "Vividfront",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-vividfront.png",
+      			"country": "DE",
+     			"industry": "Information Technology"
+			},{
+			"title": "Vodafone Group Services GmbH Frankfurt",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-vodafone.png",
+      			"country": "DE",
+     			"industry": "Telecommunication"
+			},{
+			"title": "Wasabi",
+      			"logo_url": "https://owncloud.com/wp-content/uploads/2021/09/wasabi-primary-768x230.png",
+      			"country": "US",
+     			"industry": "Information Technology
+			}]
 		"success_case_list": ""
 		},{
     		"title": "ownCloud.online",
@@ -84,11 +269,11 @@
 		"website_url": "https://owncloud.online/",
 		"created_year": "",
 		"description": "Secure cloud storage for your data. Convenient collaboration for your team.",
-		"category_list": "",
+		"category_list": "workspace",
 		"similar_solution_list": [{
 			"title": "Dropbox",
       			"similiar_solution_url":"https://www.dropbox.com/",
-			"category": ""
+			"category": "workspace"
 		}],
 		"licence_list": "",
 		"source_code_download": "",
