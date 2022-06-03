@@ -78,23 +78,23 @@
 		"website_url": "https://www.clever-cloud.com/mongodb-hosting/",
 		"created_year": "",
 		"description": "A fully cloud managed MongoDB hosting, with monitoring, backups and migration tools.",
-		"category_list": ["Information Technology"],
+		"category_list": ["database"],
 		"similar_solution_list": [{
 			"title": "Hostwinds",
 			"similiar_solution_url": "https://www.hostwinds.com/",
-			"category": "Information Technology"
+			"category": "database"
 		}, {
 			"title": "InterServer",
 			"similiar_solution_url": "https://www.interserver.net/",
-			"category": "Information Technology"
+			"category": "database"
 		}, {
 			"title": "Kamatera",
 			"similiar_solution_url": "https://www.kamatera.com/",
-			"category": "Information Technology"
+			"category": "database"
 		}, {
 			"title": "LiquidWeb",
 			"similiar_solution_url": "LiquidWeb.com",
-			"category": "Information Technology"
+			"category": "database"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -126,11 +126,11 @@
 		"website_url": "https://www.clever-cloud.com/deploy-cloud-managed-mysql/",
 		"created_year": "A fully managed MySQL service, with monitoring, backups and migration tools.",
 		"description": "",
-		"category_list": ["Information Technology"],
+		"category_list": ["database"],
 		"similar_solution_list": [{
 			"title": "Microsoft Azure",
 			"similiar_solution_url": "https://azure.microsoft.com/fr-fr/",
-			"category": "Information Technology"
+			"category": "database"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -162,7 +162,7 @@
 		"website_url": "https://www.clever-cloud.com/postgresql-hosting/",
 		"created_year": "",
 		"description": "Deploy PostgreSQL applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -198,7 +198,7 @@
 		"website_url": "https://www.clever-cloud.com/redis-hosting/",
 		"created_year": "",
 		"description": "A fully managed Redis service, with monitoring, backups and migration tools.",
-		"category_list": ["Information Technology"],
+		"category_list": ["database"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -234,7 +234,7 @@
 		"website_url": "https://www.clever-cloud.com/cellar-s3-hosting/",
 		"created_year": "",
 		"description": "An object storage service that is performant, economic and easy to use.",
-		"category_list": ["Information Technology"],
+		"category_list": ["storage"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -270,7 +270,7 @@
 		"website_url": "https://www.clever-cloud.com/pulsar-hosting/",
 		"created_year": "",
 		"description": "This is Apache Pulsar on demand: a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API. Clever Cloud provides and manages a Pulsar instance for you, so you don't have to spend time on backups, upgrades or deployment.",
-		"category_list": ["Information Technology"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -306,7 +306,7 @@
 		"website_url": "https://www.clever-cloud.com/runtime-docker/",
 		"created_year": "",
 		"description": "Deploy your Docker applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -342,7 +342,7 @@
 		"website_url": "https://www.clever-cloud.com/golang-hosting/",
 		"created_year": "",
 		"description": "Deploy your Golang applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -378,7 +378,7 @@
 		"website_url": "https://www.clever-cloud.com/haskell-hosting/",
 		"created_year": "",
 		"description": "Deploy your Haskell applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -414,7 +414,7 @@
 		"website_url": "https://www.clever-cloud.com/java-hosting/",
 		"created_year": "",
 		"description": "Host your Java Application Hassle Free",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -450,7 +450,7 @@
 		"website_url": "https://www.clever-cloud.com/nodejs-hosting/",
 		"created_year": "",
 		"description": "Deploy your Node.JS applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -486,7 +486,7 @@
 		"website_url": "https://www.clever-cloud.com/php-hosting/",
 		"created_year": "",
 		"description": "Deploy your PHP Apps on a Resilient PaaS",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -522,7 +522,7 @@
 		"website_url": "https://www.clever-cloud.com/python-hosting/",
 		"created_year": "",
 		"description": "Deploy your Python applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -558,7 +558,7 @@
 		"website_url": "https://www.clever-cloud.com/ruby-hosting/",
 		"created_year": "",
 		"description": "Deploy your Ruby applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -594,7 +594,7 @@
 		"website_url": "https://www.clever-cloud.com/rust-hosting/",
 		"created_year": "",
 		"description": "Deploy your Rust applications",
-		"category_list": ["Information Techology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -630,7 +630,7 @@
 		"website_url": "https://www.clever-cloud.com/scala-hosting/",
 		"created_year": "",
 		"description": "Deploy your Scala applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -666,7 +666,7 @@
 		"website_url": "https://www.clever-cloud.com/runtime-dot-net/",
 		"created_year": "",
 		"description": "Deploy your .NET applications",
-		"category_list": ["Information Technology"],
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
