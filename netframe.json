@@ -45,7 +45,22 @@
 		"commercial_support_open_source_version": "",
 		"commercial_support_available": "",
 		"wikipedia_url": "",
-		"reference_list": "",
+		"reference_list": [{
+			"title": "Energo",
+			"logo_url": "https://energo.green/wp-content/uploads/2021/06/energologo200px.png",
+			"country": "FR",
+			"industry": "Energy"
+			},{
+			"title": "Better Business Bureau",
+			"logo_url": "",
+			"country": "US",
+			"industry": "Associations and NGOs"
+			},{
+			"title": "Clichy-sous-Bois",
+			"logo_url": "https://www.clichy-sous-bois.fr/wp-content/uploads/2019/05/logo-header.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+			}]
 		"success_case_list": ""
 	}]
 }
