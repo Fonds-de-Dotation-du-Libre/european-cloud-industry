@@ -1,346 +1,346 @@
 {
-  "created": "2022-04-12",
-  "title": "XWiki SAS",
-  "type": "Corporation",
-  "logo_url": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
-  "location": {
-    "title": "XWiki SAS",
-    "address": "15 Rue des Halles",
-    "postal_code": "75001",
-    "city": "Paris",
-    "country": "FR",
-    "phone_contact": "+33 1 45 42 40 90",
-    "mail_contact": "contact@xwiki.com",
-    "coordinate_list": [48.86035200342366, 2.346190001868085]
-  },
-  "subsidiary_location_list": ["RO"],
-  "website_url": "https://xwiki.com/",
-  "founded_year": "2004",
-  "kpi_list": [{
-    "year": "2020",
-    "staff": "",
-    "earnings": "-152658€",
-    "total_assets": "2677696€",
-    "revenues": "1261675€",
-    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
-  }, {
-    "year": "2019",
-    "staff": "13",
-    "earnings": "-18074€",
-    "total_assets": "2790687€",
-    "revenues": "1559579€",
-    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
-  },{
-    "year": "2018",
-    "staff": "16",
-    "earnings": "275713€",
-    "total_assets": "2302493€",
-    "revenues": "1630338€",
-    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
-  },{
-    "year": "2017",
-    "staff": "15",
-    "earnings": "-53801€",
-    "total_assets": "2107642€",
-    "revenues": "1245643€",
-    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
-  },{
-    "year": "2016",
-    "staff": "16",
-    "earnings": "-268222€",
-    "total_assets": "2447998€",
-    "revenues": "920401€",
-    "source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
-  }],
-  "solution_list": [{
-    "title": "XWiki",
-    "logo_url": "https://www.xwiki.org/xwiki/bin/download/XWikiOrg/UI/Theme-Main/logo.png?rev=1.1",
-    "website_url": "https://www.xwiki.org/xwiki/bin/view/Main/",
-    "created_year": "2004",
-    "solution_type": "Software",
-    "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. XWiki is an enterprise wiki. It includes WYSIWYG editing, OpenDocument based document import/export, semantic annotations and tagging, and advanced permissions management.",
-    "category_list": ["Workspace"],
-    "similar_solution_list": [{
-      "title": "Confluence",
-      "similiar_solution_url": "https://www.atlassian.com/software/confluence",
-      "category": "Workspace"
-    },{
-      "title": "MediaWiki",
-      "similiar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
-      "category": "Workspace"
-    },{
-      "title": "Sharepoint",
-      "similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
-      "category": "Workspace"
-    }],
-    "licence_list": ["LGPL-2.1"],
-    "source_code_download": "https://www.xwiki.org/xwiki/bin/view/Download/",
-    "source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.xwiki.org/xwiki/bin/view/Main/Support#HProfessionalSupport",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/XWiki",
-    "reference_list": [{
-      "title": "Socomore",
-      "logo_url": "https://xwiki.com/en/download/company/references/socomore/socomore.jpg",
-      "country": "FR",
-      "industry": "Transport"
-    },{
-      "title": "HLS",
-      "logo_url": "https://xwiki.com/en/download/company/references/hls/hls.jpg",
-      "country": "CH",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Brabantia",
-      "logo_url": "https://xwiki.com/en/download/company/references/brabantia/brabantia.jpg",
-      "country": "DK",
-      "industry": "Retail and Commerce"
-    },{
-      "title": "Aelia",
-      "logo_url": "https://xwiki.com/en/download/company/references/aelia/aelia.jpg",
-      "country": "FR",
-      "industry": "Retail and Commerce"
-    },{
-      "title": "Curriki",
-      "logo_url": "https://xwiki.com/en/download/company/references/curriki/curriki.jpg",
-      "country": "US",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "Planète Sankoré",
-      "logo_url": "https://xwiki.com/en/download/company/references/planete-sankore/sankore.jpg",
-      "country": "fr",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "USH",
-      "logo_url": "https://xwiki.com/en/download/company/references/ush/ush.jpg",
-      "country": "fr",
-      "industry": "Housing"
-    },{
-      "title": "Spie Batingnoles",
-      "logo_url": "https://xwiki.com/en/download/company/references/spie-batignolles/spie-batignolles.jpg",
-      "country": "FR",
-      "industry": "Construction"
-    },{
-      "title": "Noiv",
-      "logo_url": "https://xwiki.com/en/download/company/references/noiv/noiv.jpg",
-      "country": "DK",
-      "industry": "Information Technology"
-    },{
-      "title": "INRA",
-      "logo_url": "https://xwiki.com/en/download/company/references/inra/inra.png",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "AFP",
-      "logo_url": "https://xwiki.com/en/download/company/references/afp/afp.jpg",
-      "country": "FR",
-      "industry": "Media and Entertainment"
-    },{
-      "title": "Vulco",
-      "logo_url": "https://xwiki.com/en/download/company/references/vulco/vulco.jpg",
-      "country": "FR",
-      "industry": "Automotive"
-    },{
-      "title": "IWA",
-      "logo_url": "https://xwiki.com/en/download/company/references/iwa/iwa-publishing.jpg",
-      "country": "UK",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "Cap Gemini",
-      "logo_url": "https://xwiki.com/en/download/company/references/capgemini/capgemini.jpg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "EDF",
-      "logo_url": "https://xwiki.com/en/download/company/references/edf/edf.jpg",
-      "country": "FR",
-      "industry": "Energy and Utilities"
-    },{
-      "title": "Voyage Privée",
-      "logo_url": "https://xwiki.com/en/download/company/references/voyage-prive/voyage-prive.jpg",
-      "country": "FR",
-      "industry": "Travel and Tourism"
-    },{
-      "title": "Expert et Finance",
-      "logo_url": "https://xwiki.com/en/download/company/references/expert-et-finance/expert-finance.jpg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "EMC2",
-      "logo_url": "https://xwiki.com/en/download/company/references/emc/emc.jpg",
-      "country": "FR",
-      "industry": "Information Technology"
-    },{
-      "title": "INSEE",
-      "logo_url": "https://xwiki.com/en/download/company/references/insee/insee.jpg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Energisa",
-      "logo_url": "https://xwiki.com/en/download/company/references/energisa/energisa.jpg",
-      "country": "BR",
-      "industry": "Energy and Utilities"
-    },{
-      "title": "Crédit Mutuel Arkea",
-      "logo_url": "https://xwiki.com/en/download/company/references/credit-mutuel-arkea/credit-mutuel-arkea.jpg",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Premier League",
-      "logo_url": "https://xwiki.com/en/download/company/references/premier-league/premier-league.jpg",
-      "country": "UK",
-      "industry": "Media and Entertainment"
-    },{
-      "title": "OW2",
-      "logo_url": "https://xwiki.com/en/download/company/references/ow2/ow2.jpg",
-      "country": "FR",
-      "industry": "Associations and NGOs"
-    }],
-    "success_case_list": [{
-      "title": "Chronopost International - Bridging the gap with XWiki - enabling communication between sales representatives, IT, legal department, and local agencies",
-      "description": "Chronopost International is using XWiki in order to improve the communication between its sales representatives, its IT & legal department and its local agencies. New customer requests are logged into XWiki, where sales representatives fill the business information related to the request. Employees from the agencies and the IT department can use comments to discuss the request and answer regarding its doability. Sales people quickly receive actionable information that they can in turn communicate to their prospects and customers.",
-      "image_url": "https://xwiki.com/en/download/company/references/chronopost-international/chronopost.jpg",
-      "industry": "Transport",
-      "customer": "Chronopost International",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/en/company/references/chronopost-international"
-    },{
-      "title": "Fidelia Assistance - Capitalizing and enriching internal knowledge with Wikidelia",
-      "description": "FIDELIA Assistance, part of the COVEA Group (MAAF, MMA, GMF) and leader in its sector in France (aid and assistance operations), chose XWiki in order to create a document repository. The repository is named Wikidélia and it allows FIDELIA assistance to make centralized, reliable, updated and collectively enriched information available to all its employees (over 1100).",
-      "image_url": "https://xwiki.com/en/download/company/references/fidelia-assistance/fidelia-assistance.jpg",
-      "industry": "Insurance",
-      "customer": "Fidelia",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/en/company/references/fidelia-assistance"
-    },{
-      "title": "Lenovo - Facilitating collaboration for over 7000 users by migrating to a custom knowledge base in under 30 days",
-      "description": "The Lenovo team was searching for a tool to migrate and accommodate the contents of its Premier support partner network knowledge base. We were aware from day one that it won't be an easy project, mainly because of the short time frame for the implementation and the complex needs.",
-      "image_url": "https://xwiki.com/en/download/company/references/Lenovo/Lenovo.jpg",
-      "industry": "Information Technology",
-      "customer": "Lenovo",
-      "country": "CN",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/en/company/references/Lenovo"
-    },{
-      "title": "CHC - Improving children/youth health services across Canada through an online sharing knowledge community",
-      "description": "CHC (former CAPHC) Knowledge Exchange Network is an interactive online community focused on sharing and growing knowledge in child health service delivery. Users can see at a glance the latest pages that have been added and modified. The solution promotes the exchanges and discussions between the various stakeholders in the health field.",
-      "image_url": "https://xwiki.com/en/download/company/references/caphc/caphc.jpg",
-      "industry": "Insurance",
-      "customer": "CHC",
-      "country": "CA",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/en/company/references/caphc"
-    },{
-      "title": "AFCEN (Association française pour les règles de conception, de construction et de surveillance en exploitation des matériels des chaudières électro-nucléaires) - Using XWiki to create collaborative workspaces and centralize data used by experts worldwide",
-      "description": "The company Oxand was looking for a collaborative tool as part of their offer for their partners. They have chosen the XWiki solution to meet their expectations. As part of this project, XWiki serves to support the editorial standards developed by more than 400 global experts working together. The developed tool also allows to send those standards in a PDF format.",
-      "image_url": "https://xwiki.com/en/download/company/references/afcen/afcen.jpg",
-      "industry": "Energy and Utilities",
-      "customer": "AFCEN",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/en/company/references/afcen"
-    },{
-      "title": "Naval Group - Scaling with custom applications - better security and timely information sharing covering business-specific issues",
-      "description": "Naval Group selected XWiki Enterprise for its ability to launch new wiki sites very quickly as well as its application creation capabilities. The solution was also integrated with Naval Group's single sign-on and its Liferay-based portal. XWiki had to meet their stringent security criteria in order to be implemented.",
-      "image_url": "https://xwiki.com/fr/download/societe/references/naval-group/naval-group.jpg",
-      "industry": "Defense",
-      "customer": "Naval Group",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/naval-group"
-    },{
-      "title": "SFR Altice - Scaling with XWiki - an accessible and secure intranet for over 12,000 users",
-      "description": "The merger between Numericable and SFR (now SFR-Altice) at the end of 2014 resulted in more than 12,000 employees being brought together within a single group. One of the challenges in this type of merger is to provide a common and simultaneous level of information to all employees of the group, regardless of the company they belong to. The selection of the most suitable solution for this project was made in September 2014 based on three major axes: autonomy, cost and speed of execution. XWiki adapted the standard XWiki Enterprise platform to the colors of the new group. The engine and its components were installed on SFR-Altice's internal servers. A cluster was also set up in order to face the potentially important load of visits on the intranet.",
-      "image_url": "https://xwiki.com/fr/download/societe/references/sfr-altice/sfr-altice.png",
-      "industry": "Telecommunication",
-      "customer": "SFR ALTICE",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/sfr-altice"
-    },{
-      "title": "Easy Vista - Reducing silos and improving internal communication with a bi-lingual Knowledge Base solution",
-      "description": "The EasyVista Research and Development team was looking for a tool to implement internally to avoid email exchanges. The need to centralize the information in a computer tool was then felt. To meet the various needs of EasyVista, 3 wikis were set up. A development wiki serving as a collaboration tool for the R&D teams, a wiki for the management of the CMC and a wiki for the online version of the product documentation",
-      "image_url": "https://xwiki.com/fr/download/societe/references/easyvista/easyvista.jpg",
-      "industry": "IT services",
-      "customer": "Easy Vista",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/easyvista"
-    },{
-      "title": "Amazon - Empowering collaboration and knowledge sharing for over 20,000 users",
-      "description": "Amazon selected XWiki after testing and evaluating other wiki solutions found on the wikimatrix.org website including TWiki and Confluence. Amazon consulted the XWiki SAS team for advice and architectural expertise in building custom components in XWiki. Amazon found XWiki's source code to be well organized and of very high quality. Its modular structure allowed Amazon engineers to build custom solutions such as integrating the XWiki platform with Amazon Web Services (AWS) like EC2, S3 and RDS.",
-      "image_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg",
-      "industry": "Commerce and Retail",
-      "customer": "Amazon",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg"
-    },{
-      "title": "FOPH - Website redesign with a customized approach - structuring/transforming digital content into a reliable resource center",
-      "description": "The FOPH team wanted a new site intended primarily for its members and institutional partners, integrating a new resource center. For this one, formerly based on IBM Lotus Notes, the interest was to integrate all the existing documents in XWiki. Thanks to an efficient rights system and a pleasant visual, collaboration on these documents became easy. Moreover, thanks to the power of XWiki and an advanced search functionality, a user can easily search for private or public documents present in the site's resource center.",
-      "image_url": "https://xwiki.com/fr/download/societe/references/foph/foph.jpg",
-      "industry": "Public Administration and Government",
-      "customer": "FOPH - Fédération nationale des Offices Publics de l’Habitat",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/foph"
-    },{
-      "title": "Meetic - Building an intranet for everyone - easy updating, best practices sharing, and always to date information",
-      "description": "Meetic uses XWiki as an internal knowledge base for its customer service employees. Meetic chose XWiki to easily push information to its 150+ customer service employees, who are spread across Europe. Using XWiki, internal contributors can publish articles about new features implemented for Meetic's platform, knowledge base articles documenting common use cases as well as warnings when a specific service is not working as expected.",
-      "image_url": "https://xwiki.com/fr/download/societe/references/meetic/meetic.jpg",
-      "industry": "Social Media",
-      "customer": "Meetic",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/meetic"
-    },{
-      "title": "FNAB - Building a shared knowledge federation with XWiki - improved internal work and external collaboration",
-      "description": "XWiki answers a very strong need for mutualization on the part of the FNAB, insofar as the latter is an independent entity and has territorial structures scattered throughout France. FNAB decided to use a collaborative space such as XWiki to archive, manage and make available the knowledge of each knowledge of each collaborator, but also the internal and external processes of the internal and external processes of the federation. This desire follows the difficulty that the latest collaborators encountered This desire follows the difficulty previously encountered by the latest collaborators when they tried to obtain this knowledge, which was essential to their successful integration into the federation.",
-      "image_url": "https://xwiki.com/fr/download/societe/references/fnab/fnab.jpg",
-      "industry": "Public Administration and Government",
-      "customer": "Fédération Nationale de l’Agriculture Biologique",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/fnab"
-    },{
-      "title": "CNFPT - Building and launching WikiTerritorial with XWiki-all-in-one spaces for knowledge, articles, news",
-      "description": "Le Centre national de la fonction publique territorial manages the training of all the agents of the territorial public service. As part of its policy of putting resources online, CNFPT has launched the WikiTerritorial, a site dedicated to putting knowledge and news on territorial topics online. ",
-      "image_url": "https://xwiki.com/fr/download/societe/references/cnfpt/cnfpt.jpg",
-      "industry": "Public Administration and Government",
-      "customer": "CNFPT - Centre national de la fonction publique territoriale",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://xwiki.com/fr/societe/references/cnfpt"
-    }]
-  },{
-    "title": "Cryptpad",
-    "logo_url": "https://cryptpad.fr/customize/CryptPad_logo.svg?",
-    "website_url": "https://cryptpad.fr/index.html",
-    "created_year": "",
-    "solution_type": "Software",
-    "description": "CryptPad is built to enable collaboration. Changes to documents are synchronized in real time. Since all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.",
-    "category_list": ["Workspace"],
-    "similar_solution_list": [{
-      "title": "LibreOffice",
-      "similar_solution_url": "https://www.libreoffice.org/",
-      "category": "Workspace"
-    },{
-      "title": "Simplenote",
-      "similar_solution_url": "https://simplenote.com/",
-      "category": "Workspace"
-    }],
-    "licence_list": ["AGPL v3"],
-    "source_code_download": "https://github.com/xwiki-labs/cryptpad",
-    "source_code_profile": "https://www.openhub.net/p/cryptpad/analyses/latest/languages_summary"",
-    "commercial_support_url": "https://cryptpad.fr/support/#tickets",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "no",
-    "commercial_support_available": "yes",
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
-  }]
+	"created": "2022-04-12",
+	"title": "XWiki SAS",
+	"type": "Corporation",
+	"logo_url": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
+	"location": {
+		"title": "XWiki SAS",
+		"address": "15 Rue des Halles",
+		"postal_code": "75001",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "+33 1 45 42 40 90",
+		"mail_contact": "contact@xwiki.com",
+		"coordinate_list": [48.86035200342366, 2.346190001868085]
+	},
+	"subsidiary_location_list": ["RO"],
+	"website_url": "https://xwiki.com/",
+	"founded_year": "2004",
+	"kpi_list": [{
+		"year": "2020",
+		"staff": "",
+		"earnings": "-152658 EUR",
+		"total_assets": "2677696 EUR",
+		"revenues": "1261675 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+	}, {
+		"year": "2019",
+		"staff": "13",
+		"earnings": "-18074 EUR",
+		"total_assets": "2790687 EUR",
+		"revenues": "1559579 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+	}, {
+		"year": "2018",
+		"staff": "16",
+		"earnings": "275713 EUR",
+		"total_assets": "2302493 EUR",
+		"revenues": "1630338 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+	}, {
+		"year": "2017",
+		"staff": "15",
+		"earnings": "-53801 EUR",
+		"total_assets": "2107642 EUR",
+		"revenues": "1245643 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+	}, {
+		"year": "2016",
+		"staff": "16",
+		"earnings": "-268222 EUR",
+		"total_assets": "2447998 EUR",
+		"revenues": "920401 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
+	}],
+	"solution_list": [{
+		"title": "XWiki",
+		"logo_url": "https://www.xwiki.org/xwiki/bin/download/XWikiOrg/UI/Theme-Main/logo.png?rev=1.1",
+		"website_url": "https://www.xwiki.org/xwiki/bin/view/Main/",
+		"created_year": "2004",
+		"solution_type": "Software",
+		"description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. XWiki is an enterprise wiki. It includes WYSIWYG editing, OpenDocument based document import/export, semantic annotations and tagging, and advanced permissions management.",
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "Confluence",
+			"similiar_solution_url": "https://www.atlassian.com/software/confluence",
+			"category": "Workspace"
+		}, {
+			"title": "MediaWiki",
+			"similiar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
+			"category": "Workspace"
+		}, {
+			"title": "Sharepoint",
+			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+			"category": "Workspace"
+		}],
+		"licence_list": ["LGPL-2.1"],
+		"source_code_download": "https://www.xwiki.org/xwiki/bin/view/Download/",
+		"source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.xwiki.org/xwiki/bin/view/Main/Support#HProfessionalSupport",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/XWiki",
+		"reference_list": [{
+			"title": "Socomore",
+			"logo_url": "https://xwiki.com/en/download/company/references/socomore/socomore.jpg",
+			"country": "FR",
+			"industry": "Transport"
+		}, {
+			"title": "HLS",
+			"logo_url": "https://xwiki.com/en/download/company/references/hls/hls.jpg",
+			"country": "CH",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Brabantia",
+			"logo_url": "https://xwiki.com/en/download/company/references/brabantia/brabantia.jpg",
+			"country": "DK",
+			"industry": "Retail and Commerce"
+		}, {
+			"title": "Aelia",
+			"logo_url": "https://xwiki.com/en/download/company/references/aelia/aelia.jpg",
+			"country": "FR",
+			"industry": "Retail and Commerce"
+		}, {
+			"title": "Curriki",
+			"logo_url": "https://xwiki.com/en/download/company/references/curriki/curriki.jpg",
+			"country": "US",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Planète Sankoré",
+			"logo_url": "https://xwiki.com/en/download/company/references/planete-sankore/sankore.jpg",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "USH",
+			"logo_url": "https://xwiki.com/en/download/company/references/ush/ush.jpg",
+			"country": "FR",
+			"industry": "Housing"
+		}, {
+			"title": "Spie Batingnoles",
+			"logo_url": "https://xwiki.com/en/download/company/references/spie-batignolles/spie-batignolles.jpg",
+			"country": "FR",
+			"industry": "Construction"
+		}, {
+			"title": "Noiv",
+			"logo_url": "https://xwiki.com/en/download/company/references/noiv/noiv.jpg",
+			"country": "DK",
+			"industry": "Information Technology"
+		}, {
+			"title": "INRA",
+			"logo_url": "https://xwiki.com/en/download/company/references/inra/inra.png",
+			"country": "FR",
+			"industry": "Academia and Research"
+		}, {
+			"title": "AFP",
+			"logo_url": "https://xwiki.com/en/download/company/references/afp/afp.jpg",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "Vulco",
+			"logo_url": "https://xwiki.com/en/download/company/references/vulco/vulco.jpg",
+			"country": "FR",
+			"industry": "Automotive"
+		}, {
+			"title": "IWA",
+			"logo_url": "https://xwiki.com/en/download/company/references/iwa/iwa-publishing.jpg",
+			"country": "UK",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Cap Gemini",
+			"logo_url": "https://xwiki.com/en/download/company/references/capgemini/capgemini.jpg",
+			"country": "FR",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "EDF",
+			"logo_url": "https://xwiki.com/en/download/company/references/edf/edf.jpg",
+			"country": "FR",
+			"industry": "Energy and Utilities"
+		}, {
+			"title": "Voyage Privée",
+			"logo_url": "https://xwiki.com/en/download/company/references/voyage-prive/voyage-prive.jpg",
+			"country": "FR",
+			"industry": "Travel and Tourism"
+		}, {
+			"title": "Expert et Finance",
+			"logo_url": "https://xwiki.com/en/download/company/references/expert-et-finance/expert-finance.jpg",
+			"country": "FR",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "EMC2",
+			"logo_url": "https://xwiki.com/en/download/company/references/emc/emc.jpg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "INSEE",
+			"logo_url": "https://xwiki.com/en/download/company/references/insee/insee.jpg",
+			"country": "FR",
+			"industry": "Academia and Research"
+		}, {
+			"title": "Energisa",
+			"logo_url": "https://xwiki.com/en/download/company/references/energisa/energisa.jpg",
+			"country": "BR",
+			"industry": "Energy and Utilities"
+		}, {
+			"title": "Crédit Mutuel Arkea",
+			"logo_url": "https://xwiki.com/en/download/company/references/credit-mutuel-arkea/credit-mutuel-arkea.jpg",
+			"country": "FR",
+			"industry": "Insurance"
+		}, {
+			"title": "Premier League",
+			"logo_url": "https://xwiki.com/en/download/company/references/premier-league/premier-league.jpg",
+			"country": "UK",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "OW2",
+			"logo_url": "https://xwiki.com/en/download/company/references/ow2/ow2.jpg",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		}],
+		"success_case_list": [{
+			"title": "Chronopost International - Bridging the gap with XWiki - enabling communication between sales representatives, IT, legal department, and local agencies",
+			"description": "Chronopost International is using XWiki in order to improve the communication between its sales representatives, its IT & legal department and its local agencies. New customer requests are logged into XWiki, where sales representatives fill the business information related to the request. Employees from the agencies and the IT department can use comments to discuss the request and answer regarding its doability. Sales people quickly receive actionable information that they can in turn communicate to their prospects and customers.",
+			"image_url": "https://xwiki.com/en/download/company/references/chronopost-international/chronopost.jpg",
+			"industry": "Transport",
+			"customer": "Chronopost International",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/en/company/references/chronopost-international"
+		}, {
+			"title": "Fidelia Assistance - Capitalizing and enriching internal knowledge with Wikidelia",
+			"description": "FIDELIA Assistance, part of the COVEA Group (MAAF, MMA, GMF) and leader in its sector in France (aid and assistance operations), chose XWiki in order to create a document repository. The repository is named Wikidélia and it allows FIDELIA assistance to make centralized, reliable, updated and collectively enriched information available to all its employees (over 1100).",
+			"image_url": "https://xwiki.com/en/download/company/references/fidelia-assistance/fidelia-assistance.jpg",
+			"industry": "Insurance",
+			"customer": "Fidelia",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/en/company/references/fidelia-assistance"
+		}, {
+			"title": "Lenovo - Facilitating collaboration for over 7000 users by migrating to a custom knowledge base in under 30 days",
+			"description": "The Lenovo team was searching for a tool to migrate and accommodate the contents of its Premier support partner network knowledge base. We were aware from day one that it won't be an easy project, mainly because of the short time frame for the implementation and the complex needs.",
+			"image_url": "https://xwiki.com/en/download/company/references/Lenovo/Lenovo.jpg",
+			"industry": "Information Technology",
+			"customer": "Lenovo",
+			"country": "CN",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/en/company/references/Lenovo"
+		}, {
+			"title": "CHC - Improving children/youth health services across Canada through an online sharing knowledge community",
+			"description": "CHC (former CAPHC) Knowledge Exchange Network is an interactive online community focused on sharing and growing knowledge in child health service delivery. Users can see at a glance the latest pages that have been added and modified. The solution promotes the exchanges and discussions between the various stakeholders in the health field.",
+			"image_url": "https://xwiki.com/en/download/company/references/caphc/caphc.jpg",
+			"industry": "Insurance",
+			"customer": "CHC",
+			"country": "CA",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/en/company/references/caphc"
+		}, {
+			"title": "AFCEN (Association française pour les règles de conception, de construction et de surveillance en exploitation des matériels des chaudières électro-nucléaires) - Using XWiki to create collaborative workspaces and centralize data used by experts worldwide",
+			"description": "The company Oxand was looking for a collaborative tool as part of their offer for their partners. They have chosen the XWiki solution to meet their expectations. As part of this project, XWiki serves to support the editorial standards developed by more than 400 global experts working together. The developed tool also allows to send those standards in a PDF format.",
+			"image_url": "https://xwiki.com/en/download/company/references/afcen/afcen.jpg",
+			"industry": "Energy and Utilities",
+			"customer": "AFCEN",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/en/company/references/afcen"
+		}, {
+			"title": "Naval Group - Scaling with custom applications - better security and timely information sharing covering business-specific issues",
+			"description": "Naval Group selected XWiki Enterprise for its ability to launch new wiki sites very quickly as well as its application creation capabilities. The solution was also integrated with Naval Group's single sign-on and its Liferay-based portal. XWiki had to meet their stringent security criteria in order to be implemented.",
+			"image_url": "https://xwiki.com/fr/download/societe/references/naval-group/naval-group.jpg",
+			"industry": "Defense",
+			"customer": "Naval Group",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/naval-group"
+		}, {
+			"title": "SFR Altice - Scaling with XWiki - an accessible and secure intranet for over 12,000 users",
+			"description": "The merger between Numericable and SFR (now SFR-Altice) at the end of 2014 resulted in more than 12,000 employees being brought together within a single group. One of the challenges in this type of merger is to provide a common and simultaneous level of information to all employees of the group, regardless of the company they belong to. The selection of the most suitable solution for this project was made in September 2014 based on three major axes: autonomy, cost and speed of execution. XWiki adapted the standard XWiki Enterprise platform to the colors of the new group. The engine and its components were installed on SFR-Altice's internal servers. A cluster was also set up in order to face the potentially important load of visits on the intranet.",
+			"image_url": "https://xwiki.com/fr/download/societe/references/sfr-altice/sfr-altice.png",
+			"industry": "Telecommunication",
+			"customer": "SFR ALTICE",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/sfr-altice"
+		}, {
+			"title": "Easy Vista - Reducing silos and improving internal communication with a bi-lingual Knowledge Base solution",
+			"description": "The EasyVista Research and Development team was looking for a tool to implement internally to avoid email exchanges. The need to centralize the information in a computer tool was then felt. To meet the various needs of EasyVista, 3 wikis were set up. A development wiki serving as a collaboration tool for the R&D teams, a wiki for the management of the CMC and a wiki for the online version of the product documentation",
+			"image_url": "https://xwiki.com/fr/download/societe/references/easyvista/easyvista.jpg",
+			"industry": "IT services",
+			"customer": "Easy Vista",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/easyvista"
+		}, {
+			"title": "Amazon - Empowering collaboration and knowledge sharing for over 20,000 users",
+			"description": "Amazon selected XWiki after testing and evaluating other wiki solutions found on the wikimatrix.org website including TWiki and Confluence. Amazon consulted the XWiki SAS team for advice and architectural expertise in building custom components in XWiki. Amazon found XWiki's source code to be well organized and of very high quality. Its modular structure allowed Amazon engineers to build custom solutions such as integrating the XWiki platform with Amazon Web Services (AWS) like EC2, S3 and RDS.",
+			"image_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg",
+			"industry": "Commerce and Retail",
+			"customer": "Amazon",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg"
+		}, {
+			"title": "FOPH - Website redesign with a customized approach - structuring/transforming digital content into a reliable resource center",
+			"description": "The FOPH team wanted a new site intended primarily for its members and institutional partners, integrating a new resource center. For this one, formerly based on IBM Lotus Notes, the interest was to integrate all the existing documents in XWiki. Thanks to an efficient rights system and a pleasant visual, collaboration on these documents became easy. Moreover, thanks to the power of XWiki and an advanced search functionality, a user can easily search for private or public documents present in the site's resource center.",
+			"image_url": "https://xwiki.com/fr/download/societe/references/foph/foph.jpg",
+			"industry": "Public Administration and Government",
+			"customer": "FOPH - Fédération nationale des Offices Publics de l’Habitat",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/foph"
+		}, {
+			"title": "Meetic - Building an intranet for everyone - easy updating, best practices sharing, and always to date information",
+			"description": "Meetic uses XWiki as an internal knowledge base for its customer service employees. Meetic chose XWiki to easily push information to its 150+ customer service employees, who are spread across Europe. Using XWiki, internal contributors can publish articles about new features implemented for Meetic's platform, knowledge base articles documenting common use cases as well as warnings when a specific service is not working as expected.",
+			"image_url": "https://xwiki.com/fr/download/societe/references/meetic/meetic.jpg",
+			"industry": "Social Media",
+			"customer": "Meetic",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/meetic"
+		}, {
+			"title": "FNAB - Building a shared knowledge federation with XWiki - improved internal work and external collaboration",
+			"description": "XWiki answers a very strong need for mutualization on the part of the FNAB, insofar as the latter is an independent entity and has territorial structures scattered throughout France. FNAB decided to use a collaborative space such as XWiki to archive, manage and make available the knowledge of each knowledge of each collaborator, but also the internal and external processes of the internal and external processes of the federation. This desire follows the difficulty that the latest collaborators encountered This desire follows the difficulty previously encountered by the latest collaborators when they tried to obtain this knowledge, which was essential to their successful integration into the federation.",
+			"image_url": "https://xwiki.com/fr/download/societe/references/fnab/fnab.jpg",
+			"industry": "Public Administration and Government",
+			"customer": "Fédération Nationale de l’Agriculture Biologique",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/fnab"
+		}, {
+			"title": "CNFPT - Building and launching WikiTerritorial with XWiki-all-in-one spaces for knowledge, articles, news",
+			"description": "Le Centre national de la fonction publique territorial manages the training of all the agents of the territorial public service. As part of its policy of putting resources online, CNFPT has launched the WikiTerritorial, a site dedicated to putting knowledge and news on territorial topics online. ",
+			"image_url": "https://xwiki.com/fr/download/societe/references/cnfpt/cnfpt.jpg",
+			"industry": "Public Administration and Government",
+			"customer": "CNFPT - Centre national de la fonction publique territoriale",
+			"country": "FR",
+			"language": "EN",
+			"success_case_url": "https://xwiki.com/fr/societe/references/cnfpt"
+		}]
+	}, {
+		"title": "Cryptpad",
+		"logo_url": "https://cryptpad.fr/customize/CryptPad_logo.svg?",
+		"website_url": "https://cryptpad.fr/index.html",
+		"created_year": "",
+		"solution_type": "Software",
+		"description": "CryptPad is built to enable collaboration. Changes to documents are synchronized in real time. Since all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.",
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "LibreOffice",
+			"similar_solution_url": "https://www.libreoffice.org/",
+			"category": "Workspace"
+		}, {
+			"title": "Simplenote",
+			"similar_solution_url": "https://simplenote.com/",
+			"category": "Workspace"
+		}],
+		"licence_list": ["AGPL v3"],
+		"source_code_download": "https://github.com/xwiki-labs/cryptpad",
+		"source_code_profile": "https://www.openhub.net/p/cryptpad/analyses/latest/languages_summary",
+		"commercial_support_url": "https://cryptpad.fr/support/#tickets",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}]
 }
