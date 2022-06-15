@@ -13,7 +13,7 @@
 		"mail_contact": "info@worteks.com",
 		"coordinate_list": [48.887029190768544, 2.2098383478066896]
 	},
-	"subsidiary_country_list": [],
+"subsidiary_country_list": [],
   "website_url": "https://www.worteks.com/",
   "founded_year": "2016",
   "kpi_list": [{
@@ -51,15 +51,15 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "ACMS",
       "logo_url": "https://www.worteks.com/assets/images/logos-client/acms.svg",
       "country": "FR",
-      "industry": ""
+      "industry": "Associations and NGOs"
     },{
       "title": "CDC Habitat",
       "logo_url": "https://www.worteks.com/assets/images/logos-client/adoma-cdc2.jpg",
