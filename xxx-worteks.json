@@ -3,9 +3,6 @@
   "title": "Worteks SAS",
   "type": "Corporation",
   "logo_url": "https://www.worteks.com/assets/images/Fond-site-banniere_Worteks2.png",
-  "headquarter_country": "FR",
-  "subsidiary_country_list": [],
-  "website_url": "https://www.worteks.com/",
   "location": {
 		"title": "Worteks SAS",
 		"address": "7 rue Diderot",
@@ -16,27 +13,29 @@
 		"mail_contact": "info@worteks.com",
 		"coordinate_list": [48.887029190768544, 2.2098383478066896]
 	},
+	"subsidiary_country_list": [],
+  "website_url": "https://www.worteks.com/",
   "founded_year": "2016",
   "kpi_list": [{
     "year": "2020",
     "staff": "9",
-    "earnings": "703270€",
-    "total_assets": "1094494€",
-    "revenues": "1870645€",
+    "earnings": "703270 EUR",
+    "total_assets": "1094494 EUR",
+    "revenues": "1870645 EUR",
     "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
   },{
     "year": "2019",
     "staff": "9",
-    "earnings": "415850€",
-    "total_assets": "591225€",
-    "revenues": "1531379€",
+    "earnings": "415850 EUR",
+    "total_assets": "591225 EUR",
+    "revenues": "1531379 EUR",
     "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
   },{
     "year": "2018",
     "staff": "8",
-    "earnings": "363411€",
-    "total_assets": "375374€",
-    "revenues": "1159508€",
+    "earnings": "363411 EUR",
+    "total_assets": "375374 EUR",
+    "revenues": "1159508 EUR",
     "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
   }],
   "solution_list": [{
@@ -46,7 +45,7 @@
     "created_year": "",
     "solution_type": "Software",
     "description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
-    "category_list": ["Application"],
+    "category_list": ["Workplace"],
     "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
@@ -155,7 +154,7 @@
       "title": "Groupe BPCE",
       "logo_url": "https://www.worteks.com/assets/images/logos-client/bpce_groupe.svg",
       "country": "FR",
-      "industry": ""
+      "industry": "Banking and Finance"
     },{
       "title": "BPI France",
       "logo_url": "https://www.worteks.com/assets/images/logos-client/bpifrance.svg",
@@ -192,7 +191,7 @@
       "country": "FR",
       "industry": "Public Administration and Government"
     },{
-      "title": "Allocations Familales",
+      "title": "Allocations Familiales",
       "logo_url": "https://www.worteks.com/assets/images/logos-client/cnaf.svg",
       "country": "FR",
       "industry": "Public Administration and Government"
@@ -375,7 +374,7 @@
     "created_year": "",
     "solution_type": "Software",
     "description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-    "category_list": ["Operation management (OSS/BSS)"],
+    "category_list": ["Operation management"],
     "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
@@ -400,9 +399,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
@@ -419,13 +418,13 @@
       "similiar_solution_url": "https://jumpcloud.com/",
       "category": "Identity"
     }],
-    "licence_list": [],
-    "source_code_download": "https://lemonldap-ng.org/download.html",
+    "licence_list": ["GNU General Public License"],
+    "source_code_download": "https://github.com/LemonLDAPNG/lemonldap-ng",
     "source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
     "commercial_support_url": "https://lemonldap-ng.org/contact.html",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "No",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
     "reference_list": [{
       "title": "Abuledu",
