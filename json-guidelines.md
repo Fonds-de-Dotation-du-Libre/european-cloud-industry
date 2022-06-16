@@ -1,7 +1,7 @@
 ### 1. List of unclear elements
 
 * category_list and category: how to ensure that a software or a hardware category is correct and how to find the correct information
-Can a solution have multiple categories
+* Can a solution have multiple categories
 * licence_list: what to do when we don't find a license for a solution
 * source_code_profile: how to find the source code if it's not on Github.
 
