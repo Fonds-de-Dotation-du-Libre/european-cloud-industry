@@ -9,7 +9,7 @@
 		"postal_code": "75008",
 		"city": "Paris",
 		"country": "FR",
-		"phone_contact": "33-153-421281",
+		"phone_contact": "+33 153 42 12 81",
 		"mail_contact": "",
 		"coordinate_list": [48.87937043932026, 2.3026977691997543]
 	},
@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "176",
-		"earnings": "38818€",
-		"total_assets": "31118554€",
-		"revenues": "19839369€",
+		"earnings": "38818 EUR",
+		"total_assets": "31118554 EUR",
+		"revenues": "19839369 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
 		"year": "2019",
 		"staff": "141",
-		"earnings": "284129€",
-		"total_assets": "24561856€",
-		"revenues": "15734723€",
+		"earnings": "284129 EUR",
+		"total_assets": "24561856 EUR",
+		"revenues": "15734723 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
 		"year": "2018",
 		"staff": "94",
-		"earnings": "-701241€",
-		"total_assets": "18754099€",
-		"revenues": "12381287€",
+		"earnings": "-701241 EUR",
+		"total_assets": "18754099 EUR",
+		"revenues": "12381287 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
 		"year": "2017",
 		"staff": "73",
-		"earnings": "648048€",
-		"total_assets": "17294923€",
-		"revenues": "1177692€",
+		"earnings": "648048 EUR",
+		"total_assets": "17294923 EUR",
+		"revenues": "1177692 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
 		"year": "2016",
 		"staff": "57",
-		"earnings": "-289793€",
-		"total_assets": "12846545€",
-		"revenues": "7032354€",
+		"earnings": "-289793 EUR",
+		"total_assets": "12846545 EUR",
+		"revenues": "7032354 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}],
 	"solution_list": [{
@@ -64,9 +64,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
     "success_case_list": []
@@ -82,9 +82,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
@@ -140,9 +140,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": [{
@@ -151,8 +151,8 @@
 			"image_url": "",
 			"industry": "Health and Life Sciences",
 			"customer": "NHS",
-			"country": "uk",
-			"language": "en",
+			"country": "GB",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-stories/nhs-birmingham"
 		}, {
 			"title": "POST Luxembourg chose WALLIX Bastion to strengthen its internal infrastructure and customer security",
@@ -160,8 +160,8 @@
 			"image_url": "",
 			"industry": "Transport",
 			"customer": "Post Luxembourg",
-			"country": "lu",
-			"language": "en",
+			"country": "LU",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-stories/post-luxembourg"
 		}, {
 			"title": "European Spallation Source (ESS) chose WALLIX Bastion to secure remote access to sensitive international research equipment",
@@ -169,8 +169,8 @@
 			"image_url": "",
 			"industry": "Academia and Research",
 			"customer": "European Spallation Source (ESS)",
-			"country": "se",
-			"language": "en",
+			"country": "SE",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-stories/ess"
 		}, {
 			"title": "Bank of Africa chooses WALLIX Bastion to secure access to its IT systems",
@@ -178,8 +178,8 @@
 			"image_url": "",
 			"industry": "Banking and Finance",
 			"customer": "Bank of Africa",
-			"country": "fr",
-			"language": "en",
+			"country": "FR",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-story/bank-of-africa"
 		}]
 	}, {
@@ -194,9 +194,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": [{
@@ -205,8 +205,8 @@
 			"image_url": "",
 			"industry": "Agriculture and Food",
 			"customer": "The Ministry of Agriculture, Forestry, and Water Management of the Republic of Serbia",
-			"country": "rs",
-			"language": "en",
+			"country": "RS",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-stories/ministry-of-agriculture-forestry-and-water-management-of-serbia"
 		}]
 	}, {
@@ -221,9 +221,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
