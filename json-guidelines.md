@@ -1,0 +1,190 @@
+### 1. List of unclear elements
+
+category_list and category: how to ensure that a software or a hardware category is correct and how to find the correct information
+Can a solution have multiple categories
+licence_list: what to do when we don't find a license for a solution
+source_code_profile: how to find the source code if it's not on Github.
+
+### 2. List of errors to avoid
+
+Common syntax errors: 
+
+Ending each entry with a semicolon
+Putting a comma in front of a closed bracket},{ or }]
+Putting brackets when there is no element
+Putting spaces between numbers in KPIs
+Putting geographical coordinates between quotation marks (" ")
+JSONlint doesn't recognise duplicates
+Here's a Python script you can run to check the syntax of the json files:
+
+```
+#!/usr/bin/env python3
+
+import glob, json, os
+
+for fn in glob.glob("*.json"):
+
+    try:
+        d = json.load(open(fn))
+    except:
+        print(fn)
+```
+
+Content errors: 
+
+Confuse success_cases and references 
+copy information, notably KPIs from unreliable websites
+Not mentioning the company type
+Not adding company coordinates
+Not mentioning any success case
+3- Guidelines for a high quality JSON file
+
+Make sure to understand JSON language and how it works (read https://www.json.org/json-en.html)
+Please refer to the example on Github (https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/example/empty.json) to start from a correct JSON syntax
+Define the creation date of the JSON file in "created" input with ISO standard (YYYY-MM-DD)
+Define industry type (see industry type below)
+Define all company information such as title, address, postal_code, city, country, phone_contact, mail_contact, coordinate_list, subsidiary_list, website_url
+Define company KPIs from a reliable website (List of validated sources for financial data below)
+Define at least 50% of companies' solutions (software, hardware)
+Define solution_category for every solution, it must have the same categories as "similar_solutions_list" 
+Find at least an alternative solution for each solution described (use Openhub and Google)
+Define a solution license by referring to Github or Openhub (see the licence syntax below)
+Define a source_code_download using Github, Gitlab or an equivalent for every solution
+Define a source_code_profile (code analysis including the language, line numbers, date, etc.) by referring to Openhub 
+Add references; a list of the company client names including client name, industry, country, and solution 
+Add logo URL if it's available
+Add success cases; list of company clients that published an article about the successful implementation of the solution including the title of the article, a brief description of the article, image_url, industry, customer, country, language, and a sucess_case_url
+At least one reference or success case for every solution
+A success case without an article is a reference, a reference with an article is a success case
+Do not duplicate success cases in references
+Before saving a JSON file, check it with jsonlint (https://jsonlint.com/).
+Classification of values 
+Classification of values 
+For industry types (type) :
+
+Company;
+NGO;
+Government;
+Individual;
+Other.
+For license types: use "licence keywords" from Github (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) 
+
+afl-3.0
+apache-2.0
+...
+List of validated sources for financial data:
+
+verif.com (FR); 
+societe.com (FR);
+bundesanzeiger.de '(DE);
+find-and-update.company-information.service.gov.uk (GB).
+Possible solution_category 
+
+Storage and database 
+Compute virtualisation 
+Desktop virtualisation
+vRan 
+Operation management 
+Service lifecycle automation
+Networking
+Identity
+Cybersecurity
+Application
+Workspace
+Developer environment 
+Developer API
+Communication 
+IoT and industrial 
+Big Data Hub
+Server
+Switch
+Router
+Rack
+Cooling
+CPU
+Radio
+ISO Standards
+Country codes: https://www.ncbi.nlm.nih.gov/books/NBK7249/
+
+Language codes: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+International telephone codes list: https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_pays
+
+Currency codes : https://fr.iban.com/currency-code
+
+
+Syntax
+telephone contact
+
+phone_contact
+Format	"+", followed by the country's international telephone code, followed by " ", followed by the phone number in the country, all between quotation marks.
+Example	"+33 629 02 44 25"
+Guide	
+List of international telephone codes by country
+
+UIT-T E.123
+
+GPS coordinates
+
+coordinate_list
+format	Geographic coordinates in square brackets, without quotation marks inside.
+example	[50.64449017329376, 3.077437939381641]
+
+
+Guide
+
+Right click on the icon designating the location of the company in google maps
+Headquarters location
+
+country
+format	ISO country code in upper case between quotation marks
+example	"FR" ou "LU"
+guide	ISO country codes list
+Company performance indicators
+
+KPI
+format	Value followed by a space, followed by currency code of the country in upper case, all between quotation marks
+example	"1000 EUR"
+guide	List of ISO currency codes by country
+Categories list
+
+category_list
+Format    	A category in quotation marks, followed by a comma, followed by another category or more, all between brackets.
+Example	["Cybersecurity", "Application"]
+Guide	See possible values for solution_category. A solution can have one or more categories
+License list
+
+license_list
+Format	 One license between quotation marks, followed by a comma, followed by one or more licenses, all in square brackets
+Example	["afl-3.0", "apache-2.0"]
+Guide	License Keyword of Github
+Solution source code (for solutions that publish their source code)
+
+source_code_download
+Format	Github repository URL
+Example	"https://lab.nexedi.com/nexedi/erp5.git"
+Guide	Search source codes onGithub
+Satistics of source code (for open source solutions)
+
+source_code_profile
+Format	Openhub repository URL
+Exemple	"https://www.openhub.net/p/erp5"
+Guide	Search source code profile on Openhub
+Free Libre Open Source software
+
+FLOSS software
+Format	Possible values includes true or false must not be put between quotation marks and must not include upper case letters
+Example	true or false
+Guide	Research on the company's website
+Commercial support open source version, if it exists
+
+commercial_support_open_source_version
+Format	Possible values includes true or false must not be put between quotation marks and must not include upper case letters
+example	true or false
+Guide	Research on the company's website
+commercial support available
+
+commercial_support_available
+Format	Possible values that include yes or no must not be put between quotation marks and must not include upper case letters
+Example	true or false
+Guide	Research on the company's website if the commercial support section is available
