@@ -9,12 +9,13 @@ source_code_profile: how to find the source code if it's not on Github.
 
 Common syntax errors: 
 
-Ending each entry with a semicolon
-Putting a comma in front of a closed bracket},{ or }]
-Putting brackets when there is no element
-Putting spaces between numbers in KPIs
-Putting geographical coordinates between quotation marks (" ")
-JSONlint doesn't recognise duplicates
+* Ending each entry with a semicolon
+* Putting a comma in front of a closed bracket},{ or }]
+* Putting brackets when there is no element
+* Putting spaces between numbers in KPIs
+* Putting geographical coordinates between quotation marks (" ")
+* JSONlint doesn't recognise duplicates
+
 Here's a Python script you can run to check the syntax of the json files:
 
 ```
@@ -32,33 +33,36 @@ for fn in glob.glob("*.json"):
 
 Content errors: 
 
-Confuse success_cases and references 
-copy information, notably KPIs from unreliable websites
-Not mentioning the company type
-Not adding company coordinates
-Not mentioning any success case
-3- Guidelines for a high quality JSON file
+* Confuse success_cases and references 
+* Copy information, notably KPIs from unreliable websites
+* Not mentioning the company type
+* Not adding company coordinates
+* Not mentioning any success case
 
-Make sure to understand JSON language and how it works (read https://www.json.org/json-en.html)
-Please refer to the example on Github (https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/example/empty.json) to start from a correct JSON syntax
-Define the creation date of the JSON file in "created" input with ISO standard (YYYY-MM-DD)
-Define industry type (see industry type below)
-Define all company information such as title, address, postal_code, city, country, phone_contact, mail_contact, coordinate_list, subsidiary_list, website_url
-Define company KPIs from a reliable website (List of validated sources for financial data below)
-Define at least 50% of companies' solutions (software, hardware)
-Define solution_category for every solution, it must have the same categories as "similar_solutions_list" 
-Find at least an alternative solution for each solution described (use Openhub and Google)
-Define a solution license by referring to Github or Openhub (see the licence syntax below)
-Define a source_code_download using Github, Gitlab or an equivalent for every solution
-Define a source_code_profile (code analysis including the language, line numbers, date, etc.) by referring to Openhub 
-Add references; a list of the company client names including client name, industry, country, and solution 
-Add logo URL if it's available
-Add success cases; list of company clients that published an article about the successful implementation of the solution including the title of the article, a brief description of the article, image_url, industry, customer, country, language, and a sucess_case_url
-At least one reference or success case for every solution
-A success case without an article is a reference, a reference with an article is a success case
-Do not duplicate success cases in references
-Before saving a JSON file, check it with jsonlint (https://jsonlint.com/).
-Classification of values 
+## 3- Guidelines for a high quality JSON file
+
+* Make sure to understand JSON language and how it works (read https://www.json.org/json-en.html)
+* Please refer to the example on Github (https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/example/empty.json) to start from a correct JSON syntax
+* Define the creation date of the JSON file in "created" input with ISO standard (YYYY-MM-DD)
+* Define industry type (see industry type below)
+* Define all company information such as title, address, postal_code, city, country, phone_contact, mail_contact, coordinate_list, subsidiary_list, website_url
+* Define company KPIs from a reliable website (List of validated sources for financial data below)
+* Define at least 50% of companies' solutions (software, hardware)
+* Define solution_category for every solution, it must have the same categories as "similar_solutions_list" 
+* Find at least an alternative solution for each solution described (use Openhub and Google)
+* Define a solution license by referring to Github or Openhub (see the licence syntax below)
+* Define a source_code_download using Github, Gitlab or an equivalent for every solution
+* Define a source_code_profile (code analysis including the language, line numbers, date, etc.) by referring to Openhub 
+* Add references; a list of the company client names including client name, industry, country, and solution 
+* Add logo URL if it's available
+* Add success cases; list of company clients that published an article about the successful implementation of the solution including the title of the article, a brief description of the article, image_url, industry, customer, country, language, and a sucess_case_url
+* At least one reference or success case for every solution
+* A success case without an article is a reference, a reference with an article is a success case
+* Do not duplicate success cases in references
+* Before saving a JSON file, check it with jsonlint (https://jsonlint.com/).
+
+## Classification of values 
+
 For industry types (type) :
 
 * Company;
@@ -116,7 +120,8 @@ International telephone codes list: https://fr.wikipedia.org/wiki/Liste_des_ind
 Currency codes : https://fr.iban.com/currency-code
 
 
-Syntax
+## Syntax
+
 telephone contact
 | |phone_contact |  
 | ------------- | -----:|  
