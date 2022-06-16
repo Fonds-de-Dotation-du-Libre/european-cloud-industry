@@ -19,23 +19,23 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "11",
-		"earnings": "39671 EURO",
-		"total_assets": "1068959 EURO",
-		"revenues": "1293797 EURO",
+		"earnings": "39671 EUR",
+		"total_assets": "1068959 EUR",
+		"revenues": "1293797 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": "2019",
 		"staff": "9",
-		"earnings": "-179286 EURO",
-		"total_assets": "1003326 EURO",
-		"revenues": "850062 EURO",
+		"earnings": "-179286 EUR",
+		"total_assets": "1003326 EUR",
+		"revenues": "850062 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "-452444 EURO",
-		"total_assets": "644587 EURO",
-		"revenues": "506977 EURO",
+		"earnings": "-452444 EUR",
+		"total_assets": "644587 EUR",
+		"revenues": "506977 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}],
 	"solution_list": [{
