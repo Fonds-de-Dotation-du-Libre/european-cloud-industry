@@ -1,9 +1,9 @@
 ### 1. List of unclear elements
 
-category_list and category: how to ensure that a software or a hardware category is correct and how to find the correct information
+* category_list and category: how to ensure that a software or a hardware category is correct and how to find the correct information
 Can a solution have multiple categories
-licence_list: what to do when we don't find a license for a solution
-source_code_profile: how to find the source code if it's not on Github.
+* licence_list: what to do when we don't find a license for a solution
+* source_code_profile: how to find the source code if it's not on Github.
 
 ### 2. List of errors to avoid
 
@@ -122,7 +122,7 @@ Currency codes : https://fr.iban.com/currency-code
 
 ## Syntax
 
-telephone contact
+Telephone Contact
 | |phone_contact |  
 | ------------- | -----:|  
 | Format | "+", followed by the country's international telephone code, followed by " ", followed by the phone number in the country, all between quotation marks.|  
@@ -131,7 +131,7 @@ telephone contact
 [UIT-T E.123](https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-198811-S!!PDF-F&type=items) 
 
 
-GPS coordinates
+GPS Coordinates
 
 | |coordinate_list |  
 | ------------- |-----:|  
