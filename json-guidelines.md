@@ -197,13 +197,15 @@ Commercial support open source version, if it exists
 |         | commercial_support_open_source_version             |
 | ------------- |:-------------:| -----:|
 | Format     | Possible values includes true or false must not be put between quotation marks and must not include upper case letters |
-| Example      | true or false
+| Example      | true or false |
 |Guide| Research on the company's website if the commercial support section is available       |
 
 commercial support available
 
 |         | commercial_support_available             |
+
 | ------------- |:-------------:| -----:|
+
 | Format     | Possible values that include yes or no must not be put between quotation marks and must not include upper case letters |
-| Example      | true or false
+| Example      | true or false |
 |Guide| Research on the company's website if the commercial support section is available       |
