@@ -19,23 +19,23 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "11",
-		"earnings": "39671€",
-		"total_assets": "1068959€",
-		"revenues": "1293797€",
+		"earnings": "39671 EURO",
+		"total_assets": "1068959 EURO",
+		"revenues": "1293797 EURO",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": "2019",
 		"staff": "9",
-		"earnings": "-179286€",
-		"total_assets": "1003326€",
-		"revenues": "850062€",
+		"earnings": "-179286 EURO",
+		"total_assets": "1003326 EURO",
+		"revenues": "850062 EURO",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "-452444€",
-		"total_assets": "644587€",
-		"revenues": "506977€",
+		"earnings": "-452444 EURO",
+		"total_assets": "644587 EURO",
+		"revenues": "506977 EURO",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}],
 	"solution_list": [{
@@ -44,40 +44,40 @@
 		"website_url": "https://whaller.com/en/product",
 		"created_year": "2013",
 		"description": "Whaller gives organizations everything they need to accelerate their digital transformation, without sacrificing cybersecurity. Whaller is ideal for both small teams and very large networks.",
-		"category_list": ["Application"],
+		"category_list": ["Workplace"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
-			"category": "Application"
+			"category": "Workplace"
 		},{
 			"title": "Jamespot",
 			"similiar_solution_url": "https://www.fr.jamespot.com/",
-			"category": "Application"
+			"category": "Workplace"
 		},{
 			"title": "Talkspirit",
 			"similiar_solution_url": "https://en.talkspirit.com/",
-			"category": "Application"
+			"category": "Workplace"
 		},{
 			"title": "Wimi",
 			"similiar_solution_url": "https://www.wimi-teamwork.com/",
-			"category": "Application"
+			"category": "Workplace"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://help.whaller.com/en/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": ,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Centrale Supélec",
-			"logo_url": "",
+			"logo_url": "https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo.png",
 			"country": "FR",
 			"industry": "Academia and Research"
 		},{
 			"title": "SciencePo",
-			"logo_url": "",
+			"logo_url": "https://www.sciencespo.fr/fr/static/4e8c8b615cdf25da682418334c3751b6/sciencespo_logo_rouge_fea98609f8.svg",
 			"country": "FR",
 			"industry": "Academia and Research"
 		},{
@@ -92,7 +92,7 @@
 			"industry": "Academia and Research"
 		},{
 			"title": "Centrale Supélec",
-			"logo_url": "",
+			"logo_url": "https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg",
 			"country": "FR",
 			"industry": "Academia and Research"
 		},{
@@ -102,17 +102,17 @@
 			"industry": "Associations and NGOs"
 		},{
 			"title": "Passerelles et Compétences",
-			"logo_url": "",
+			"logo_url": "http://passerellesetcompetences.org/images/banners/logo-c.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "Foundation UN AVENIR ensemble",
-			"logo_url": "",
+			"logo_url": "https://fondation-unavenirensemble.org/wp-content/uploads/2020/06/cropped-logo_fuae-1.jpg",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "Espérance Banlieues",
-			"logo_url": "",
+			"logo_url": "https://esperancebanlieues.org/wp-content/themes/EB1/assets/svg/logo-blue.svg",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
@@ -122,32 +122,27 @@
 			"industry": "Associations and NGOs"
 		},{
 			"title": "CAPITAL SANTE",
-			"logo_url": "",
+			"logo_url": "http://capitalsantegp.com/images/logo.png",
 			"country": "FR",
 			"industry": "Health and Life Sciences"
 		},{
 			"title": "Centre Hopsitalier des Pays de Marlaix",
-			"logo_url": "",
+			"logo_url": "https://www.ch-morlaix.fr/sites/default/files/logo.png",
 			"country": "FR",
 			"industry": "Health and Life Sciences"
 		},{
 			"title": "La Martiniquaise",
-			"logo_url": "",
+			"logo_url": "https://www.la-martiniquaise.com/wp-content/themes/martiniquaise/images/la-martiniquaise.png",
 			"country": "FR",
 			"industry": "Commerce and Retail"
 		},{
 			"title": "McDonalds",
-			"logo_url": "",
+			"logo_url": "https://www.mcdonalds.fr/",
 			"country": "FR",
 			"industry": "Commerce and Retail"
-		},{
-			"title": "Carrefour Market",
-			"logo_url": "",
-			"country": "FR",
-			"industry": "Commerce and Retail"
-		},{
+		},,{
 			"title": "Laboratoire Initiatives",
-			"logo_url": "",
+			"logo_url": "https://i1.wp.com/laboratoiredesinitiatives.fr/wp-content/uploads/2019/10/Logo-LAB-INI_Bourgogne-Franche-Comt%C3%A9_fond-transparent.png?w=1080",
 			"country": "FR",
 			"industry": "Education"
 		},{
@@ -157,17 +152,17 @@
 			"industry": "Banking and Finance"
 		},{
 			"title": "Ministère des armées",
-			"logo_url": "",
+			"logo_url": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/drm/Notre%20logo.png?h=d1cb525d&itok=XKFtQutU",
 			"country": "FR",
 			"industry": "Public Administration and Government"
 		},{
 			"title": "Ministère de l'éducation nationale, de l'enseignement supérieur et de la Recherche",
-			"logo_url": "",
+			"logo_url": "https://duckduckgo.com/i/dd350dd4.png",
 			"country": "FR",
 			"industry": "Public Administration and Government"
 		},{
 			"title": "Pôle Emploi",
-			"logo_url": "",
+			"logo_url": "https://www.pole-emploi.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg",
 			"country": "FR",
 			"industry": "Public Administration and Government"
 		},{
@@ -177,7 +172,7 @@
 			"industry": "Media and Entertainment"
 		},{
 			"title": "TENNIS Comité Hauts de Seine",
-			"logo_url": "",
+			"logo_url": "https://static.wixstatic.com/media/bc7c30_cd71c67ad8df48379d87533e3b5641a9~mv2.png/v1/fill/w_281,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FFT_COMITE_HAUTS%20DE%20SEINE_2L_FD_FC_Q.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
