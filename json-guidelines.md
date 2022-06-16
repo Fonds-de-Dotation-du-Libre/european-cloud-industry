@@ -59,51 +59,54 @@ A success case without an article is a reference, a reference with an article is
 Do not duplicate success cases in references
 Before saving a JSON file, check it with jsonlint (https://jsonlint.com/).
 Classification of values 
-Classification of values 
 For industry types (type) :
 
-Company;
-NGO;
-Government;
-Individual;
-Other.
+* Company;
+* NGO;
+* Government;
+* Individual;
+* Other.
+
 For license types: use "licence keywords" from Github (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) 
 
-afl-3.0
-apache-2.0
-...
+* afl-3.0
+* apache-2.0
+* ...
+
 List of validated sources for financial data:
 
-verif.com (FR); 
-societe.com (FR);
-bundesanzeiger.de '(DE);
-find-and-update.company-information.service.gov.uk (GB).
+* verif.com (FR); 
+* societe.com (FR);
+* bundesanzeiger.de '(DE);
+* find-and-update.company-information.service.gov.uk (GB).
+
 Possible solution_category 
 
-Storage and database 
-Compute virtualisation 
-Desktop virtualisation
-vRan 
-Operation management 
-Service lifecycle automation
-Networking
-Identity
-Cybersecurity
-Application
-Workspace
-Developer environment 
-Developer API
-Communication 
-IoT and industrial 
-Big Data Hub
-Server
-Switch
-Router
-Rack
-Cooling
-CPU
-Radio
-ISO Standards
+* Storage and database 
+* Compute virtualisation 
+* Desktop virtualisation
+* vRan 
+* Operation management 
+* Service lifecycle automation
+* Networking
+* Identity
+* Cybersecurity
+* Application
+* Workspace
+* Developer environment 
+* Developer API
+* Communication 
+* IoT and industrial 
+* Big Data Hub
+* Server
+* Switch
+* Router
+* Rack
+* Cooling
+* CPU
+* Radio
+* ISO Standards
+
 Country codes: https://www.ncbi.nlm.nih.gov/books/NBK7249/
 
 Language codes: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
@@ -116,17 +119,17 @@ Currency codes : https://fr.iban.com/currency-code
 Syntax
 telephone contact
 | |phone_contact |  
-| ------------- |:-------------:| -----:|  
+| ------------- | -----:|  
 | Format | "+", followed by the country's international telephone code, followed by " ", followed by the phone number in the country, all between quotation marks.|  
 | Example | "+33 629 02 44 25"
 |Guide|[List of international telephone codes by country](https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_pays)
-
 [UIT-T E.123](https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-198811-S!!PDF-F&type=items) 
+
 
 GPS coordinates
 
 | |coordinate_list |  
-| ------------- |:-------------:| -----:|  
+| ------------- |-----:|  
 | Format | Geographic coordinates in square brackets, without quotation marks inside.|  
 | Example |[50.64449017329376, 3.077437939381641]
 |Guide|  
@@ -136,28 +139,28 @@ Right click on the icon designating the location of the company in google maps
 Headquarters location
 
 |         |country            |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | ISO country code in upper case between quotation marks |
 | Example      | "FR" ou "LU"       |
 |Guide |[ISO country codes list](http://www.ncbi.nlm.nih.gov/books/NBK7249/)|
 
 Headquarters location
 |         |country            |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | ISO country code in upper case between quotation marks |
 | Example      | "FR" ou "LU"       |
 |Guide |[ISO country codes list](http://www.ncbi.nlm.nih.gov/books/NBK7249/)|
 
 Company performance indicators
 |         |KPI            |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | Value followed by a space, followed by currency code of the country in upper case, all between quotation marks |
 | Example      | "1000 EUR"       |
 |Guide |[List of ISO currency codes by country](https://fr.iban.com/currency-codes)|
 
 Categories list
 |         |category_list            |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | A category in quotation marks, followed by a comma, followed by another category or more, all between brackets. |
 | Example      | ["Cybersecurity", "Application"]       |
 | Guide | See possible values for solution_category. A solution can have one or more categories |
@@ -165,7 +168,7 @@ Categories list
 License list
 
 |         |license_list           |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | One license between quotation marks, followed by a comma, followed by one or more licenses, all in square brackets |
 | Example      | ["afl-3.0", "apache-2.0"] |
 | Guide | [License Keyword of Github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)      |
@@ -173,7 +176,7 @@ License list
 Solution source code (for solutions that publish their source code)
 
 |         |source_code_download            |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | Github repository URL |
 | Example      | "[https://lab.nexedi.com/nexedi/erp5.git](https:/lab.nexedi.com/nexedi/erp5.git)"
 |Guide| Search source codes on [Github](https://github.com/)       |
@@ -181,21 +184,21 @@ Solution source code (for solutions that publish their source code)
 Satistics of source code (for open source solutions)
 
 |         |source_code_profile            |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | Openhub repository URL |
 | Example      | "[https://www.openhub.net/p/erp5](https:/www.openhub.net/p/erp5)"
 |Guide| Search source code profile on [Openhub](https://www.openhub.net/)       |
 
 Free Libre Open Source software
 |         | FLOSS software             |
-| ------------- |:-------------:| -----:|
+| ------------- |-----:|
 | Format     | Possible values includes true or false must not be put between quotation marks and must not include upper case letters |
 | Example      | true or false
 |Guide| Research on the company's website if the commercial support section is available       |
 
 Commercial support open source version, if it exists
 |         | commercial_support_open_source_version             |
-| ------------- |:-------------:| -----:|
+| ------------- | -----:|
 | Format     | Possible values includes true or false must not be put between quotation marks and must not include upper case letters |
 | Example      | true or false |
 |Guide| Research on the company's website if the commercial support section is available       |
