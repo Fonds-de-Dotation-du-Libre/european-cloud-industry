@@ -1,3 +1,6 @@
+*This guide explains how to properly fill out a JSON file in the European Cloud Industry repository. It contains both content and syntax errors to avoid and enumerates the elements of JSON files, the syntax, and the correct format to follow.*
+
+
 ### 1. List of unclear elements
 
 * category_list and category: how to ensure that a software or a hardware category is correct and how to find the correct information
