@@ -1,4 +1,4 @@
-*This guide explains how to properly fill out a JSON file in the European Cloud Industry repository. It contains both content and syntax errors to avoid and enumerates the elements of JSON files, the syntax, and the correct format to follow. In the first two headers the guideline explains the do's and don'ts  and the list of elements that needs to be clarified when writing high-quality JSON files. The last header explains directors to fill out JSON files according to FDL standards.*
+*This guide explains how to properly fill out a JSON file in the European Cloud Industry repository. It contains both content and syntax errors to avoid and enumerates the elements of JSON files, the syntax, and the correct format to follow. In the first two sections the guideline explains the do's and don'ts  and the list of elements that needs to be clarified when writing compliant JSON files. The last sections specifies JSON files according to FDL standard.*
 
 ### 1. List of unclear elements
 
