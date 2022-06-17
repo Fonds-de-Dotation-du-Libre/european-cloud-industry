@@ -1,0 +1,46 @@
+{
+  "$id": "https://example.com/person.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "location":{
+      "type":"object"
+    "title": {
+      "type": "string",
+      "description": "name"
+    },
+    "address": {
+      "type": "string",
+      "description": "The person's last name."
+    },
+    "postal-code": {
+      "description": "Age in years which must be equal to or greater than zero.",
+      "type": "integer",
+      "minimum": 0
+    },
+    "city": {
+      "type": "string",
+      "description": "name"
+    },
+    "country": {
+      "type": ["string","pattern": "^[A-Z]{2}$"]
+      "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
+    },
+    "phone_contact": {
+      "description": "Age in years which must be equal to or greater than zero.",
+      "type": "integer",
+      "minimum": 0
+     },
+     "mail_contact": {
+      "description": "",
+      "type": "",
+      "minimum": 0
+     },
+     "coordinate_list":{
+       "description": "",
+       "type":
+     } 
+   }
+   "title": "",
+   "type": "object",
+   "properties": {
