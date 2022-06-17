@@ -1,4 +1,4 @@
-*This guide explains how to properly fill out a JSON file in the European Cloud Industry repository. It contains both content and syntax errors to avoid and enumerates the elements of JSON files, the syntax, and the correct format to follow.*
+*This guide explains how to properly fill out a JSON file in the European Cloud Industry repository. It contains both content and syntax errors to avoid and enumerates the elements of JSON files, the syntax, and the correct format to follow. In the first two headers the guideline explains the do's and don'ts  and the list of elements that need to clarified when writing JSON files of better quality. *
 
 
 ### 1. List of unclear elements
@@ -130,7 +130,7 @@ Telephone Contact
 | :------------- | :-----|  
 | Format | "+", followed by the country's international telephone code, followed by " ", followed by the phone number in the country, all between quotation marks.|  
 | Example | "+33 629 02 44 25"
-|Guide|[List of international telephone codes by country](https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_pays) , [UIT-T E.123](https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-198811-S!!PDF-F&type=items) 
+|Guide|[List of international telephone codes by country](https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_pays)  [UIT-T E.123](https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.123-198811-S!!PDF-F&type=items) 
 
 
 GPS Coordinates
