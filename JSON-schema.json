@@ -12,12 +12,11 @@
         },
         "address": {
           "type": "string",
-          "description": "The person's last name."
+          "description": "Company address"
         },
         "postal-code": {
-          "description": "Age in years which must be equal to or greater than zero.",
-          "type": "integer",
-          "minimum": 0
+          "description": "Postal code must be composed of 5 numbers equal or greater than 0",
+          "type": "string"
         },
         "city": {
           "type": "string",
@@ -29,32 +28,79 @@
           "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
         },
         "phone_contact": {
-          "description": "Age in years which must be equal to or greater than zero.",
-          "type": "integer",
-          "minimum": 0
+          "description": "Phone number which must be equal to or greater than zero preceded by +",
+          "type": "string"
         },
         "mail_contact": {
           "description": "",
-          "type": "",
-          "minimum": 0
+          "type": "string"
         },
         "coordinate_list": {
-          "description": "",
-          "type": "string"
+          "description": "Geographical coordinates of the company",
+          "type": "number"
         }
       }
     },
     "subsidiary_location_list":{
-      "type": "array"
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
+        },
+    "website_url":{
+      "type":"string"
     },
+    "founded_year":{
+      "type":"integer"
+    },
+    "KPI":{
+      "type":"array",
+      "properties":{
+        "year":{
+          "type": "string"
+        },
+        "staff":{
+          "type": "string"
+        },
+        "earnings":{
+          "type":"string",
+          "pattern": "^[A-Z]{3}$",
+          "description":"The ISO 4217 currency code."
+        },
+        "total_assets":{
+          "type":"string",
+          "pattern": "^\d*/",
+          "description":"The ISO 4217 currency code."        },
+        "revenues":{
+          "type":"string",
+          "pattern": "^[A-Z]{3}$",
+          "description":"The ISO 4217 currency code."
+        },
+        "source_url": {
+          "type": "string"
+        }
+      },
     "solution_list": {
-      "type": "array",
-      
+      "type": "array",   
       "properties": {
         "title":{
           "type": "string"
         },
-        "solution_sub_list": {
+        "logo_url":{
+          "type": "string"
+        },
+        "website_url":{
+          "type": "string"
+        },
+        "created_year": {
+          "type": "string"
+            },
+        "description": {
+          "type": "string"
+            },
+        "category_list": {
+          "type": "array"
+        },
+        "similar_solution_list": {
           "type":"array",
           "items": {
             "type":"object",
@@ -62,9 +108,95 @@
             "title": {
               "type": "string"
             },
-            "description":"sss"
+            "similar_solution_url": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            }
           }
+          }
+        },
+        "licence_list": {
+              "type": "array"
+            },
+        "source_code_download": {
+              "type": "string"
+            },
+        "source_code_profile":{
+              "type": "string"
+            },
+        "commercial_support_url": {
+              "type": "string"
+            },
+        "floss_software": {
+              "type": "boolean"
+            },
+        "commercial_support_open_source_version": {
+              "type": "boolean"
+            },
+        "commercial_support_available": {
+              "type": "boolean"
+            },
+        "wikipedia_url": {
+              "type": "string"
+            },
+        "reference_list": {
+          "type":"array",
+          "items": {
+            "type":"object",
+          "properties":{
+            "title": {
+              "type": "string"
+            },
+            "logo_url": {
+              "type": "string"
+            },
+            "country": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
+        }        
+          },
+            "industry":{
+              "type": "string"
+            }
+          }  
+          }
+        },
+      "success_case_list": {
+        "type":"array",
+        "items": {
+          "type":"object",
+          "properties":{
+            "title": "string"
+          },
+          "description":{
+            "type":"string"
+          },
+          "image_url":{
+            "type":"string"
+          },
+          "industry":{
+            "type":"string"
+          },
+          "customer":{
+            "type":"string"
+          },
+          "country":{
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
+        },
+          "language":{
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "A valid 2-digit ISO language code"      
+          }, 
+          "success_case_url":{
+            "type": "string"
           }
         }
       }
-    }
+      }
+    }}}
