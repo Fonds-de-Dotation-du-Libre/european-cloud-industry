@@ -149,13 +149,6 @@ Headquarters location
 | Example      | "FR" ou "LU"       |
 |Guide |[ISO country codes list](http://www.ncbi.nlm.nih.gov/books/NBK7249/)|
 
-Headquarters location
-|         |country            |
-| :------------- |:-----|
-| Format     | ISO country code in upper case between quotation marks |
-| Example      | "FR" ou "LU"       |
-|Guide |[ISO country codes list](http://www.ncbi.nlm.nih.gov/books/NBK7249/)|
-
 Company performance indicators
 |         |KPI            |
 | :------------- |:-----|
