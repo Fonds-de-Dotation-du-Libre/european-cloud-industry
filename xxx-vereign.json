@@ -24,31 +24,31 @@
     "created_year": "2017",
     "description": "Vereign is a company that provides a network for a verified and self-managed identity service. Customers' Personal Critical Infrastructure- identity, data, and communication- are secured thanks to Blockchain, decentralization, and self-sovereign identity.",
     "solution_type": "Software",
-    "category_list": ["Communication"],
+    "category_list": ["Identity"],
     "similar_solution_list": [{
       "title": "Adips",
       "similiar_solution_url": "https://adips.com/",
-      "category": "Communication"
+      "category": "Identity"
      },{
       "title": "PingOne Fraud",
       "similiar_solution_url": "https://www.pingidentity.com/en.html",
-      "category": "Communication"
+      "category": "Identity"
      },{
       "title": "Xage Security",
       "similiar_solution_url": "https://xage.com/",
-      "category": "Communication"
+      "category": "Identity"
      },{
       "title": "SaferPass",
       "similiar_solution_url": "https://saferpass.com/",
-      "category": "Communication"
+      "category": "Identity"
     }],
     "licence_list": [],
     "source_code_download": "https://code.vereign.com/users/sign_in",
     "source_code_profile": "",
     "commercial_support_url": "https://www.vereign.com/#apps",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "VNClagoon",
