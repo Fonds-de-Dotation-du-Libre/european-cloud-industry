@@ -206,8 +206,8 @@
 		"website_url": "https://www.bisdn.de/#products",
 		"created_year": "",
 		"description": "For those working on solutions in OpenFlow,our Revised OpenFlow Library (rofl) facilitates the development of controllers and datapath elements. Roflcommon is a C++ library offering a generic OpenFlow endpoint. Rofl-datapath is an ASNI-C implementation of an OpenFlow pipeline.  It is easily portable to multiple compute and switching platforms, including ARM, MIPS and FPGA.",
-		"Solution type": "Software"
-		"category_list": ["Developers"],
+		"Solution type": "Software",
+		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
