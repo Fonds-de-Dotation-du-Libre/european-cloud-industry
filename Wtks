@@ -1,7 +1,7 @@
 {
   "created": "2022-03-23",
   "title": "Worteks",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
   "location": {
     "title": "Worteks Siège Social ",
@@ -18,27 +18,27 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.worteks.com/",
-  "founded_year": "2016",
+  "founded_year": 2016,
   "kpi_list": [
     {
-      "year": "2020",
-      "staff": "9",
+      "year": 2020,
+      "staff": 9,
       "earnings": "703270 EUR",
       "total_assets": "1094494 EUR",
       "revenues": "1870645 EUR",
       "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
     },
     {
-      "year": "2019",
-      "staff": "9",
+      "year": 2019,
+      "staff": 9,
       "earnings": "415850 EUR",
       "total_assets": "591225 EUR",
       "revenues": "1531379 EUR",
       "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
     },
     {
-      "year": "2018",
-      "staff": "8",
+      "year": 2018,
+      "staff": 8,
       "earnings": "363411 EUR",
       "total_assets": "375374 EUR",
       "revenues": "1159508 EUR",
@@ -50,7 +50,7 @@
       "title": "LemonLDAP::NG",
       "logo_url": "https://www.lemonldap-ng.org/images/logo_llng_600px.png",
       "website_url": "https://www.lemonldap-ng.org/",
-      "created_year": "2019",
+      "created_year": 2019,
       "description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
       "category_list": [
         "Identity"
@@ -117,7 +117,7 @@
       "title": "LDAP Tool box",
       "logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
       "website_url": "https://www.ltb-project.org/",
-      "created_year": "2008",
+      "created_year": 2008,
       "description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
       "category": [
         "Identity"
@@ -179,7 +179,7 @@
       "title": "LDAP Synchronization Connector Project",
       "logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
       "website_url": "https://www.lsc-project.org/start",
-      "created_year": "2018",
+      "created_year": 2018,
       "description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
       "category_list": [
         "Big Data Hub",
