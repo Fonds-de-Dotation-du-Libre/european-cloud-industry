@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "16",
-		"earnings": "-37896€",
-		"total_assets": "320657€",
-		"revenues": "592576€",
+		"earnings": "-37896 EUR",
+		"total_assets": "320657 EUR",
+		"revenues": "592576 EUR",
 		"source_url": "https://www.romanian-companies.eu/null-team-impex-srl-16352909/#bilant"
 	}, {
 		"year": "2019",
 		"staff": "18",
-		"earnings": "277323€",
-		"total_assets": "388983€",
-		"revenues": "899414€",
+		"earnings": "277323 EUR",
+		"total_assets": "388983 EUR",
+		"revenues": "899414 EUR",
 		"source_url": "https://www.romanian-companies.eu/null-team-impex-srl-16352909/#bilant"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "38855€",
-		"total_assets": "129312€",
-		"revenues": "516958€",
+		"earnings": "38855 EUR",
+		"total_assets": "129312 EUR",
+		"revenues": "516958 EUR",
 		"source_url": "https://www.romanian-companies.eu/null-team-impex-srl-16352909/#bilant"
 	}, {
 		"year": "2017",
 		"staff": "10",
-		"earnings": "61301€",
-		"total_assets": "195002€",
-		"revenues": "403345€",
+		"earnings": "61301 EUR",
+		"total_assets": "195002 EUR",
+		"revenues": "403345 EUR",
 		"source_url": "https://www.romanian-companies.eu/null-team-impex-srl-16352909/#bilant"
 	}, {
 		"year": "2016",
 		"staff": "10",
-		"earnings": "53700€",
-		"total_assets": "142650€",
-		"revenues": "442221€",
+		"earnings": "53700 EUR",
+		"total_assets": "142650 EUR",
+		"revenues": "442221 EUR",
 		"source_url": "https://www.romanian-companies.eu/null-team-impex-srl-16352909/#bilant"
 	}],
 	"solution_list": [{
