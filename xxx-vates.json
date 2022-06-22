@@ -20,14 +20,14 @@
     "year": "2020",
     "staff": "",
     "earnings": "",
-    "total_assets": "2017605€",
+    "total_assets": "2017605 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/"
   }, {
     "year": "2019",
     "staff": "",
     "earnings": "",
-    "total_assets": "1445752€",
+    "total_assets": "1445752 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/"
   }],
@@ -37,27 +37,27 @@
     "website_url": "https://xcp-ng.org/",
     "created_year": "2018",
     "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
-    "category_list": ["Service lifecycle automation", "Storage and database"],
+    "category_list": ["Compute virtualisation"],
     "similar_solution_list": [{
       "title": "VM Ware",
       "similiar_solution_url": "https://www.virtualbox.org/",
-      "category": "Service lifecycle automation"
+      "category": "Compute virtualisation "
     },{
       "title": "Proxmox Virtual Environment",
       "similiar_solution_url": "https://www.proxmox.com/",
-      "category": "Service lifecycle automation"
+      "category": "Compute virtualisation "
     },{
       "title": "SlapOS",
       "similiar_solution_url": "https://slapos.nexedi.com/",
-      "category": "Service lifecycle automation"
+      "category": "Compute virtualisation "
     }],
     "licence_list": ["GPL v2"],
     "source_code_download": "https://github.com/xcp-ng/xcp",
     "source_code_profile": "",
     "commercial_support_url": "https://xcp-ng.com/service.html",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/XCP-ng",
     "reference_list": [],
      "success_case_list": []
@@ -67,19 +67,19 @@
     "website_url": "https://xen-orchestra.com/#!/xo-home",
     "created_year": "",
     "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
-    "category_list": ["Service lifecycle automation"],
+    "category_list": ["Service Lifecycle Automation"],
     "similar_solution_list": [{
       "title": "Vagrant",
       "similiar_solution_url": "https://www.vagrantup.com/",
-      "category": ""
+      "category": "Service Lifecycle Automation"
     }],
     "licence_list": ["GPL v3+"],
     "source_code_download": "https://github.com/vatesfr/xen-orchestra/",
     "source_code_profile": "https://www.openhub.net/p/xen-orchestra/analyses/latest/languages_summary",
     "commercial_support_url": "https://xen-orchestra.com/#!/xo-features/support",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "TSystems",
