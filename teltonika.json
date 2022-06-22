@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-06",
 	"title": "Teltonika IoT Group",
-	"type": "Corporation",
+	"type": "Comapny",
 	"logo_url": "https://teltonika-iot-group.com/images/branches/iot-white.svg",
 	"location": {
 		"title": "Teltonika",
@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "",
-		"earnings": "11572401€",
-		"total_assets": "46386659€",
-		"revenues": "102107018€",
+		"earnings": "11 572 401 EUR",
+		"total_assets": "46 386 659 EUR",
+		"revenues": "102 107 018 EUR",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2019",
 		"staff": "",
-		"earnings": "11044100€",
-		"total_assets": "22777620€",
-		"revenues": "79228742€",
+		"earnings": "11 044 100 EUR",
+		"total_assets": "22 777 620 eUR",
+		"revenues": "79 228 742 EUR",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2018",
 		"staff": "",
-		"earnings": "8339170€",
-		"total_assets": "18679925€",
-		"revenues": "55058610€",
+		"earnings": "8 339 170 EUR",
+		"total_assets": "18 679 925 EUR",
+		"revenues": "55 058 610 EUR",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2017",
 		"staff": "",
-		"earnings": "4949594€",
-		"total_assets": "14635081€",
-		"revenues": "50563540€",
+		"earnings": "4 949 594 EUR",
+		"total_assets": "14 635 081 EUR",
+		"revenues": "50 563 540 EUR",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {
 		"year": "2016",
 		"staff": "",
-		"earnings": "1351526€",
-		"total_assets": "13418206€",
-		"revenues": "37373296€",
+		"earnings": "1 351 526 EUR",
+		"total_assets": "13 418 206 EUR",
+		"revenues": "37 373 296 EUR",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}],
 	"solution_list": [{
@@ -65,12 +65,12 @@
 			"category": ""
 		}],
 		"licence_list": ["Proprietary"],
-		"source_code_download": "No",
-		"source_code_profile": "No",
+		"source_code_download": false,
+		"source_code_profile": false,
 		"commercial_support_url": "",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
