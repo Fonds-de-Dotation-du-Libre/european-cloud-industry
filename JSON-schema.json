@@ -37,12 +37,12 @@
 					},
 					"coordinate_list": {
 						"description": "Geographical coordinates of the company",
-						"type": "number"
+						"type": "array"
 					}
 				}
 			},
 			"subsidiary_location_list": {
-				"type": "string",
+				"type": "array",
 				"pattern": "^[A-Z]{2}$",
 				"description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
 			},
@@ -50,7 +50,7 @@
 				"type": "string"
 			},
 			"founded_year": {
-				"type": "integer"
+				"type": "string"
 			},
 			"KPI": {
 				"type": "array",
