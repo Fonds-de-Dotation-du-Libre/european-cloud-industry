@@ -24,31 +24,31 @@
 		"created_year": "2012",
 		"description": "Threema is the instant messenger designed to generate as little user data as possible. All communication is end-to-end encrypted, and the app is open source.",
 		"Solution type": "Software",
-		"category_list": ["Communication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Skype",
 			"similiar_solution_url": "https://skype.gmw.cn/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Hangout",
 			"similiar_solution_url": "https://hangouts.google.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Telegram",
 			"similiar_solution_url": "https://telegram.org/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Whatsapp",
 			"similiar_solution_url": "https://www.whatsapp.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}],
 		"licence_list": ["GNU Affero General Public License version 3"],
 		"source_code_download": "https://threema.ch/en/open-source",
 		"source_code_profile": "",
 		"commercial_support_url": "https://threema.ch/en/support",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "no",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Threema",
 		"reference_list": [],
 		"success_case_list": []
@@ -59,27 +59,27 @@
 		"created_year": "2014",
 		"description": "Threema Work is a messaging app that meets all employee needs, is easy to use, and packed with features.",
 		"Solution type": "Software",
-		"category_list": ["Communication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Element",
 			"similiar_solution_url": "https://element.io/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Imo",
 			"similiar_solution_url": "https://imo.im/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Tox",
 			"similiar_solution_url": "https://tox.chat/",
-			"category": "Communication"
+			"category": "Networking"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://threema.ch/en/work/support-overview",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Emirates",
@@ -119,7 +119,7 @@
 			"industry": "Automotive",
 			"customer": "Daimler AG",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Exchange of Public, Private, and Confidential Information in Real Time",
@@ -128,7 +128,7 @@
 			"industry": "Automotive",
 			"customer": "Mercedes-Benz india",
 			"country": "IN",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Threema Work Integration: Alerting and Fast Information Distribution",
@@ -137,7 +137,7 @@
 			"industry": "Commerce and Retail",
 			"customer": "Edeka",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Service reporting and order placement via messenger",
@@ -146,7 +146,7 @@
 			"industry": "construction",
 			"customer": "TK Elevator",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Communication Services for Financial Market Participants",
@@ -155,7 +155,7 @@
 			"industry": "Banking and Finance",
 			"customer": "SIX",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		}]
 	}, {
@@ -165,23 +165,23 @@
 		"created_year": "2012",
 		"description": "Threema OnPrem is the messaging solution for organizations that take data privacy and data security very seriously and make the protection against cybercrime a top priority. ",
 		"Solution type": "Software",
-		"category_list": ["Communication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/en/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
-			"category": "Communication"
+			"category": "Networking"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
@@ -192,23 +192,23 @@
 		"created_year": "",
 		"Solution type": "Software",
 		"description": "Thanks to Threema Education, instant messaging in school is secure and privacy-compliant. Since no personal information is required, it is safe to use Threema Work at any age. The Swiss chat solution offers the highest level of security and data protection, and it is compliant with European data protection laws.",
-		"category_list": ["Communication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "StealthChat",
 			"similiar_solution_url": "https://stealthchat.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Wickr",
 			"similiar_solution_url": "https://wickr.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://threema.ch/en/education#contact",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Baden-Württemberg",
@@ -249,19 +249,19 @@
 		"created_year": "",
 		"description": "Threema Broadcast is your tool for fast, secure, and targeted one-to-many communication. With the click of a button, you send text/image messages, files, and polls to your entire workforce or to specific departments.",
 		"solution type": "Software",
-		"category_list": ["Communication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Nimbuzz",
 			"similiar_solution_url": "https://nimbuzz.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://threema.ch/en/broadcast#contact",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
@@ -272,27 +272,27 @@
 		"created_year": "",
 		"description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.",
 		"Solution type": "Software", 
-		"category_list": ["Communication"],
+		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Subrosa",
 			"similiar_solution_url": "https://subrosabrand.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "google allo",
 			"similiar_solution_url": "https://allo.google.com/",
-			"category": "Communication"
+			"category": "Networking"
 		}, {
 			"title": "Ayttm",
 			"similiar_solution_url": "http://ayttm.sourceforge.net/",
-			"category": "Communication"
+			"category": "Networking"
 		}],
 		"licence_list": [],
 		"source_code_download": "https://gateway.threema.ch/en/developer/api",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "no",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
