@@ -20,44 +20,44 @@
   "kpi_list":[{
     "year": "2021",
     "staff": "3",
-    "earnings": "332247€",
-    "total_assets": "720383€",
-    "revenues": "572007€",
+    "earnings": "332 247 EUR",
+    "total_assets": "720 383 EUR",
+    "revenues": "572 007 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   },{
     "year": "2020",
     "staff": "4",
-    "earnings": "62014€",
-    "total_assets": "461289€",
-    "revenues": "385114€",
+    "earnings": "62 014 EUR",
+    "total_assets": "461 289 EUR",
+    "revenues": "385 114 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
     "year": "2019",
     "staff": "3",
-    "earnings": "172355€",
-    "total_assets": "431737€",
-    "revenues": "379895€",
+    "earnings": "172 355 EUR",
+    "total_assets": "431 737 EUR",
+    "revenues": "379 895 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
     "year": "2018",
     "staff": "4",
-    "earnings": "75452€",
-    "total_assets": "326941€",
-    "revenues": "208285€",
+    "earnings": "75 452 EUR",
+    "total_assets": "326 941 EUR",
+    "revenues": "208 285 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
     "year": "2017",
     "staff": "3",
-    "earnings": "-45016€",
-    "total_assets": "270188€",
-    "revenues": "61935€",
+    "earnings": "-45 016 EUR",
+    "total_assets": "270 188 EUR",
+    "revenues": "61 935 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   },{
     "year": "2016",
     "staff": "1",
-    "earnings": "101238€",
-    "total_assets": "327922€",
-    "revenues": "290539€",
+    "earnings": "101 238 EUR",
+    "total_assets": "327 922 EUR",
+    "revenues": "290 539 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }],
   "solution_list": [{
@@ -93,9 +93,9 @@
     "source_code_download": "https://github.com/waldur/waldur-mastermind",
     "source_code_profile": "https://www.openhub.net/p/waldur-mastermind/analyses/latest/languages_summary",
     "commercial_support_url": "https://waldur.com/support/",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
@@ -112,14 +112,14 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://nodefabric.readthedocs.io/en/latest/guide/intro.html",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "no",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "Estonian Scientific Computing Infrastructure (ETAIS)",
       "logo_url": "https://ut.ee/sites/default/files/2021-11/tartu_ylikool-p%C3%B5hilogo-valge-eng.svg",
-      "country": "ee",
+      "country": "EE",
       "industry": "Academia and Research"
     }],
     "success_case_list": []
