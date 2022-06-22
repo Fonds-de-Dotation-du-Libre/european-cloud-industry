@@ -45,9 +45,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://tresorit.com/fr/pricing",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Tresorit",
 		"reference_list": [{
 			"title": "Deutsche Telekom IT Solutions",
@@ -191,7 +191,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "Jiyan Foundation",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/cloud-security-for-ngos"
 		},{
 			"title": "Implementing Tresorit’s secure cloud storage system for storing patient records",
@@ -200,7 +200,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "Wings of Hope",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/cloud-storage-with-hipaa-compliance"
 		},{
 			"title": "GDPR compliant yet user friendly data management with Tresorit",
@@ -209,7 +209,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Intergroup",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/the-easy-way-toward-gdpr-compliance"
 		},{
 			"title": "A secure and convenient alternative to hard drives",
@@ -218,7 +218,7 @@
 			"industry": "Media and Entertainment",
 			"customer": "Riot studios",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/cloud-backup-external-hard-drive"
 		},{
 			"title": "Driving confidentiality: Tresorit to provide the highest level of security to automotive clients",
@@ -227,7 +227,7 @@
 			"industry": "Automotive",
 			"customer": "Forge Design",
 			"country": "UK",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/highest-level-of-security-for-automotive-clients"
 		},{
 			"title": "Building business with cloud security",
@@ -236,7 +236,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Apogee",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-cloud-storage-for-law-firms"
 		},{
 			"title": "A matter of life and death: the importance of secure data sharing in healthcare",
@@ -245,7 +245,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Cardiovascular Research Institute Basel",
 			"country": "CH",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-and-data-sharing-in-healthcare"
 		},{
 			"title": "Tresors on a mission: Using the cloud to combat the HIV epidemic",
@@ -254,7 +254,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "One Tent Health",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/hipaa-compliant-data-transfer"
 		},{
 			"title": "Trusted network: business and proprietary data in the best hands possible",
@@ -272,7 +272,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Deshoulières Avocats",
 			"country": "FR",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/document-sharing-for-law-firms"
 		},{
 			"title": "Law and order: detectives protect and serve citizens using Tresorit’s cloud solution",
@@ -281,7 +281,7 @@
 			"industry": "Public Administration and Government",
 			"customer": "Boone County Sheriff’s Office",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-cloud-storage-and-collaboration"
 		},{
 			"title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
@@ -290,7 +290,7 @@
 			"industry": "Agriculture and Food",
 			"customer": "Raiffeisen-Warengenossenschaft Niedersachsen Mitte eG",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-sharing-for-raiffeisen-mitte"
 		}]
 	}]
