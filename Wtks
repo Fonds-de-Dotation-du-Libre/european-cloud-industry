@@ -1,462 +1,417 @@
 {
-	"created": "2022-03-23",
-	"title": "Wortkes",
-	"type": "Corporation",
-	"logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
-	"location": {
-		"title": "Worteks",
-		"address": "7 rue Diderot",
-		"postal_code": "92000",
-		"city": "Nanterre",
-		"country": "FR",
-		"phone_contact": "+33184208647",
-		"mail_contact": "info@worteks.com",
-		"coordinate_list": ["48.887029190768544, 2.2098383478066896"]
-	},
-	"subsidiary_location_list": [],
-	"website_url": "https://www.worteks.com/",
-	"founded_year": "2016",
-	"kpi_list": [{
-		"year": "2020",
-		"staff": "9",
-		"earnings": "703270€",
-		"total_assets": "1094494€",
-		"revenues": "1870645€",
-		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
-	}, {
-		"year": "2019",
-		"staff": "9",
-		"earnings": "415850€",
-		"total_assets": "591225€",
-		"revenues": "1531379€",
-		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
-	}, {
-		"year": "2018",
-		"staff": "8",
-		"earnings": "363411€",
-		"total_assets": "375374€",
-		"revenues": "1159508€",
-		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
-	}],
-	"solution_list": [{
-		"title": "W'Sweet",
-		"logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
-		"website_url": "https://www.wsweet.org/",
-		"created_year": "",
-		"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
-		"category_list": "Information Technology",
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.worteks.com/services/",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}],
-		"title": "W'Opla",
-		"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
-		"website_url": "https://www.worteks.com/edition/wopla/",
-		"created_year": "",
-		"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-		"category_list": "Information Technology",
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.worteks.com/services/",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}],
-		"solution_list": [{
-			"title": "W'Opla",
-			"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
-			"website_url": "https://www.worteks.com/edition/wopla/",
-			"created_year": "",
-			"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-			"category_list": "Information Technology",
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
-			"licence_list": [],
-			"source_code_download": "",
-			"source_code_profile": "",
-			"commercial_support_url": "",
-			"floss_software": "",
-			"commercial_support_open_source_version": "",
-			"commercial_support_available": "",
-			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}],
-			"solution_list": [{
-				"title": "LemonLDAP::NG",
-				"logo_url": "https://www.lemonldap-ng.org/images/logo_llng_600px.png",
-				"website_url": "https://www.lemonldap-ng.org/",
-				"created_year": "2004",
-				"description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
-				"category_list": ["Information Technology"],
-				"similar_solution_list": [{
-					"title": "Keycloak",
-					"similiar_solution_url": "https://www.keycloak.org/",
-					"category": "Information Technology"
-					},{
-					"title": "CAS",
-					"similiar_solution_url": "https://github.com/apereo/cas",
-					"category": "Information Technology"
-					},{
-					"title": "Ory",
-					"similiar_solution_url": "https://www.ory.sh/",
-					"category": "Information Technology"
-					},{
-					"title": "Shibboleth",
-					"similiar_solution_url": "https://www.shibboleth.net/",
-					"category": "Information Technology"
-					},{
-					"title": "10 Duke",
-					"similiar_solution_url": "https://www.10duke.com/products/identity-provider/",
-					"category": "Information Technology"
-				}],
-				"licence_list": ["GPL-3.0"],
-				"source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
-				"source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
-				"commercial_support_url": "",
-				"floss_software": "Yes",
-				"commercial_support_open_source_version": "Yes",
-				"commercial_support_available": "No",
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": "",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}],
-				"solution_list": [{
-					"title": "LSC - LDAP Synchronization Connector",
-					"logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
-					"website_url": "https://www.lsc-project.org/start",
-					"created_year": "2008",
-					"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials.",
-					"category_list": ["Information Technology"],
-					"similar_solution_list": [{
-						"title": "pmw-project",
-						"similiar_solution_url": "https://github.com/pwm-project/pwm",
-						"category": "Information Technology"
-						},{
-						"title": "PassCore",
-						"similiar_solution_url": "https://github.com/unosquare/passcore",
-						"category": "Information Technology"
-						},{
-						"title": "ADReset",
-						"similiar_solution_url": "https://github.com/mprahl/ADReset",
-						"category": "Information Technology"
-						},{
-						"title": "JiJi Self Service Password",
-						"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					}],
-					"licence_list": ["BSD-2-Clause"],
-					"source_code_download": "https://github.com/lsc-project/lsc.git",
-					"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
-					"commercial_support_url": "",
-					"floss_software": "Yes",
-					"commercial_support_open_source_version": "No",
-					"commercial_support_available": "No",
-					"wikipedia_url": "",
-					"reference_list": [{
-						"title": "",
-						"logo_url": "",
-						"country": "",
-						"industry": ""
-					}],
-					"success_case_list": [{
-						"title": "",
-						"description": "",
-						"image_url": "",
-						"industry": "",
-						"customer": "",
-						"country": "",
-						"language": "",
-						"success_case_url": ""
-					}],
-					"solution_list": [{
-						"title": "LTB - LDAP Tool Box",
-						"logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
-						"website_url": "https://www.ltb-project.org/",
-						"created_year": "2009",
-						"description": "",
-						"category_list": ["Information Technology"],
-						"similar_solution_list": [{
-							"title": "",
-							"similiar_solution_url": "",
-							"category": ""
-							},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-						},{
-						}],
-						"licence_list": ["GNU General Public License v3.0"],
-						"source_code_download": "https://github.com/ltb-project/self-service-password.git",
-						"source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
-						"commercial_support_url": "",
-						"floss_software": "Yes",
-						"commercial_support_open_source_version": "No",
-						"commercial_support_available": "No",
-						"wikipedia_url": "",
-						"reference_list": [{
-							"title": "",
-							"logo_url": "",
-							"country": "",
-							"industry": ""
-						}],
-						"success_case_list": [{
-							"title": "",
-							"description": "",
-							"image_url": "",
-							"industry": "",
-							"customer": "",
-							"country": "",
-							"language": "",
-							"success_case_url": ""
-						}],
-						"solution_list": [{
-							"title": "Big Blue Button Ansible",
-							"logo_url": "https://docs.bigbluebutton.org/images/logo.png",
-							"website_url": "https://bigbluebutton.org/",
-							"created_year": "2007",
-							"description": "BigBlueButton is an open-source web conferencing platform.",
-							"category_list": ["Information Technology"],
-							"similar_solution_list": [{
-								"title": "",
-								"similiar_solution_url": "",
-								"category": ""
-								},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					},{
-					},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					},{
-					},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					},{
-					},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					},{
-					},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-						},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-				},{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					},{
-							}],
-							"licence_list": ["MIT License"],
-							"source_code_download": "https://github.com/Worteks/bbb-ansible.git",
-							"source_code_profile": "https://www.openhub.net/p/bigbluebutton/analyses/latest/languages_summary",
-							"commercial_support_url": "",
-							"floss_software": "Yes",
-							"commercial_support_open_source_version": "",
-							"commercial_support_available": "",
-							"wikipedia_url": "https://en.wikipedia.org/wiki/BigBlueButton",
-							"reference_list": [{
-								"title": "",
-								"logo_url": "",
-								"country": "",
-								"industry": ""
-							}],
-							"success_case_list": [{
-								"title": "",
-								"description": "",
-								"image_url": "",
-								"industry": "",
-								"customer": "",
-								"country": "",
-								"language": "",
-								"success_case_url": ""
-							}],
-							"solution_list": [{
-								"title": "BigBlueButton Conference Streaming Platform",
-								"logo_url": "https://docs.bigbluebutton.org/images/logo.png",
-								"website_url": "https://bigbluebutton.org/",
-								"created_year": "2007",
-								"description": "BigBlueButton is an open-source web conferencing platform.",
-								"category_list": ["Information Technology"],
-								"similar_solution_list": [{
-									"title": "",
-									"similiar_solution_url": "",
-									"category": ""
-								}],
-								"licence_list": ["MIT License"],
-								"source_code_download": "https://github.com/Worteks/bbb-ansible.git",
-								"source_code_profile": "https://www.openhub.net/p/bigbluebutton/analyses/latest/languages_summary",
-								"commercial_support_url": "",
-								"floss_software": "Yes",
-								"commercial_support_open_source_version": "",
-								"commercial_support_available": "",
-								"wikipedia_url": "https://en.wikipedia.org/wiki/BigBlueButton",
-								"reference_list": [{
-									"title": "",
-									"logo_url": "",
-									"country": "",
-									"industry": ""
-								}],
-								"success_case_list": [{
-									"title": "",
-									"description": "",
-									"image_url": "",
-									"industry": "",
-									"customer": "",
-									"country": "",
-									"language": "",
-									"success_case_url": ""
-								}],
-								"solution_list": [{
-									"title": "FusionIAM",
-									"logo_url": "https://fusioniam.org/images/fusioniam_logo_text_dragon_circle_white_border.png",
-									"website_url": "https://fusioniam.org/",
-									"created_year": "",
-									"description": "The goal of the FusionIAM Community is to put together open source software used to build a global IAM (Identity and Access Management) solution. Most of the time all the softwares present in the FusionIAM community are well know separately but never in the context of a global IAM solution. FusionIAM project will provide an easy way to deploy and configure the whole stack: LDAP directory, Management interface, White pages, Web Services, Authentication portal, Access control, Synchronization connectorThe goal of the FusionIAM Community is to put together open source software used to build a global IAM (Identity and Access Management) solution.",
-									"category_list": ["Information Technology"],
-									"similar_solution_list": [{
-										"title": "",
-										"similiar_solution_url": "",
-										"category": ""
-									}],
-									"licence_list": ["MIT License"],
-									"source_code_download": "https://gitlab.ow2.org/fusioniam/fusioniam.git",
-									"source_code_profile": "https://www.openhub.net/p/bigbluebutton/analyses/latest/languages_summary",
-									"commercial_support_url": "",
-									"floss_software": "Yes",
-									"commercial_support_open_source_version": "",
-									"commercial_support_available": "",
-									"wikipedia_url": "https://en.wikipedia.org/wiki/BigBlueButton",
-									"reference_list": [{
-										"title": "",
-										"logo_url": "",
-										"country": "",
-										"industry": ""
-									}],
-									"success_case_list": [{
-										"title": "",
-										"description": "",
-										"image_url": "",
-										"industry": "",
-										"customer": "",
-										"country": "",
-										"language": "",
-										"success_case_url": ""
-									}]
-								}]
-							}]
-						}]
-					}]
-				}]
-			}]
-		}]
-	}]
+  "created": "2022-03-23",
+  "title": "Worteks",
+  "type": "Corporation",
+  "logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
+  "location": {
+    "title": "Worteks Siège Social ",
+    "address": "7 rue Diderot",
+    "postal_code": "92000",
+    "city": "Nanterre",
+    "country": "FR",
+    "phone_contact": "+33184208647",
+    "mail_contact": "info@worteks.com",
+    "coordinate_list": [
+      48.887029190768544,
+      2.2098383478066896
+    ]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.worteks.com/",
+  "founded_year": "2016",
+  "kpi_list": [
+    {
+      "year": "2020",
+      "staff": "9",
+      "earnings": "703270 EUR",
+      "total_assets": "1094494 EUR",
+      "revenues": "1870645 EUR",
+      "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+    },
+    {
+      "year": "2019",
+      "staff": "9",
+      "earnings": "415850 EUR",
+      "total_assets": "591225 EUR",
+      "revenues": "1531379 EUR",
+      "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+    },
+    {
+      "year": "2018",
+      "staff": "8",
+      "earnings": "363411 EUR",
+      "total_assets": "375374 EUR",
+      "revenues": "1159508 EUR",
+      "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
+    }
+  ],
+  "solution_list": [
+    {
+      "title": "LemonLDAP::NG",
+      "logo_url": "https://www.lemonldap-ng.org/images/logo_llng_600px.png",
+      "website_url": "https://www.lemonldap-ng.org/",
+      "created_year": "2019",
+      "description": "LemonLDAP::NG provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).",
+      "category_list": [
+        "Identity"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Keycloak",
+          "similiar_solution_url": "https://www.keycloak.org/",
+          "category": "Identity"
+        },
+        {
+          "title": "CAS",
+          "similiar_solution_url": "https://github.com/apereo/cas.git",
+          "category": "Identity"
+        },
+        {
+          "title": "Ory",
+          "similiar_solution_url": "https://www.ory.sh/",
+          "category": "Identity"
+        },
+        {
+          "title": "Shibboleth",
+          "similiar_solution_url": "https://www.shibboleth.net/",
+          "category": "Identity"
+        },
+        {
+          "title": "10 Duke",
+          "similiar_solution_url": "https://www.10duke.com/products/identity-provider/",
+          "category": "Identity"
+        }
+      ],
+      "licence_list": [
+        "GPL-3.0"
+      ],
+      "source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
+      "source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
+      "commercial_support_url": "https://www.lemonldap-ng.org/professionalservices.html",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
+      "reference_list": [
+        {
+          "title": "",
+          "logo_url": "",
+          "country": "",
+          "industry": ""
+        }
+      ],
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image_url": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "",
+          "success_case_url": ""
+        }
+      ]
+    },
+    {
+      "title": "LDAP Tool box",
+      "logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
+      "website_url": "https://www.ltb-project.org/",
+      "created_year": "2008",
+      "description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
+      "category": [
+        "Identity"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "pwm-project",
+          "similiar_solution_url": "https://github.com/pwm-project/pwm.git",
+          "category": "Identity"
+        },
+        {
+          "title": "PassCore",
+          "similiar_solution_url": "https://github.com/unosquare/passcore.git",
+          "category": "Identity"
+        },
+        {
+          "title": "ADReset",
+          "similiar_solution_url": "https://github.com/mprahl/ADReset.git",
+          "category": "Identity"
+        },
+        {
+          "title": "JiJi Self Service Password",
+          "similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+          "category": "Identity"
+        }
+      ],
+      "licence_list": [
+        "GPL-3.0"
+      ],
+      "source_code_download": "https://github.com/ltb-project/self-service-password.git",
+      "source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
+      "commercial_support_url": "",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": "",
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "",
+          "logo_url": "",
+          "country": "",
+          "industry": ""
+        }
+      ],
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image_url": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "",
+          "success_case_url": ""
+        }
+      ]
+    },
+    {
+      "title": "LDAP Synchronization Connector Project",
+      "logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
+      "website_url": "https://www.lsc-project.org/start",
+      "created_year": "2018",
+      "description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
+      "category_list": [
+        "Big Data Hub",
+        "Storage and Database"
+      ],
+      "similar_solution_list": [],
+      "licence_list": [
+        "GPL-3.0"
+      ],
+      "source_code_download": "https://github.com/lsc-project/lsc.git",
+      "source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
+      "commercial_support_url": "",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": "",
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "",
+          "logo_url": "",
+          "country": "",
+          "industry": ""
+        }
+      ],
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image_url": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "",
+          "success_case_url": ""
+        }
+      ]
+    },
+    {
+      "title": "W'Sweet",
+      "logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
+      "website_url": "https://www.wsweet.org/",
+      "created_year": "",
+      "description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
+      "category_list": "",
+      "similar_solution_list": [
+        {
+          "title": "pwm-project",
+          "similiar_solution_url": "",
+          "category": ""
+        }
+      ]
+    },
+    {
+      "title": "",
+      "similiar_solution_url": "",
+      "category": "Information Technology",
+      "licence_list": [],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support_url": "",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": "",
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "",
+          "logo_url": "",
+          "country": "",
+          "industry": ""
+        }
+      ],
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image_url": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "",
+          "success_case_url": ""
+        }
+      ]
+    },
+    {
+      "title": "W'Opla",
+      "logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+      "website_url": "https://www.worteks.com/edition/wopla/",
+      "created_year": "",
+      "description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
+      "category_list": "Operation Management",
+      "similar_solution_list": [
+        {
+          "title": "",
+          "similiar_solution_url": "",
+          "category": ""
+        }
+      ],
+      "licence_list": [],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support_url": "",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": "",
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "",
+          "logo_url": "",
+          "country": "",
+          "industry": ""
+        }
+      ],
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image_url": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "",
+          "success_case_url": ""
+        }
+      ]
+    },
+    {
+      "title": "W'IDaaS",
+      "logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
+      "website_url": "https://www.worteks.com/edition/widaas/",
+      "created_year": "",
+      "description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
+      "category_list": "Information Technology",
+      "similar_solution_list": [
+        {
+          "title": "",
+          "similiar_solution_url": "",
+          "category": ""
+        }
+      ],
+      "licence_list": [
+        "GPL-3.0"
+      ],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support_url": "",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": "",
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "Red Hat",
+          "logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+          "country": "US",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Auchan",
+          "logo_url": "https://www.auchan.fr/content-renderer/sav_2022.3.2-1/images/auchan-logo-desktop.svg",
+          "country": "FR",
+          "industry": "Commerce and Retail"
+        },
+        {
+          "title": "Airbus",
+          "logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
+          "country": "FR",
+          "industry": "Aviation and Aerospace"
+        },
+        {
+          "title": "Alstom",
+          "logo_url": "https://www.alstom.com/sites/alstom.com/files/styles/560w/public/2019/07/11/Alstom_mobility_by_nature_2019.jpg?itok=icP1Tbnd",
+          "country": "FR",
+          "industry": "Transport"
+        },
+        {
+          "title": "Amadeus",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amadeus_%28CRS%29_Logo.svg/2560px-Amadeus_%28CRS%29_Logo.svg.png",
+          "country": "ES",
+          "industry": "Travel and Tourism"
+        },
+        {
+          "title": "Société Générale",
+          "logo_url": "https://www.societegenerale.com/sites/default/files/logo-societe-generale.png",
+          "country": "FR",
+          "industry": "Banking and Finance"
+        },
+        {
+          "title": "Atos",
+          "logo_url": "https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.png",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Assistance Publique des Hôpitaux de Paris",
+          "logo_url": "https://gestions-hospitalieres.fr/wp-content/uploads/2016/10/logo-aphp.jpg",
+          "country": "FR",
+          "industry": "Health and Life Sciences"
+        },
+        {
+          "title": "Université Paris Dauphine",
+          "logo_url": "https://dauphine.psl.eu/typo3conf/ext/dauphine/Resources/Public/assets/img/logo/logo_white.svg",
+          "country": "FR",
+          "industry": "Academia and Research"
+        },
+        {
+          "title": "Orange",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+          "country": "FR",
+          "industry": "Telecommunication"
+        },
+        {
+          "title": "Institut Pasteur",
+          "logo_url": "https://www.pasteur.fr/sites/default/files/institut-pasteur-logo-2020.png",
+          "country": "FR",
+          "industry": "Health and Life Sciences"
+        }
+      ],
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image_url": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "",
+          "success_case_url": ""
+        }
+      ]
+    }
+  ]
 }
