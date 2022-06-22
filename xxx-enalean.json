@@ -27,35 +27,35 @@
 		"year": "2020",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1710731€",
+		"total_assets": "1 710 731 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
 		"year": "2019",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1402249€",
+		"total_assets": "1 402 249 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
 		"year": "2018",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1403947€",
+		"total_assets": "1 403 947 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
 		"year": "2017",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1230550€",
+		"total_assets": "1 230 550 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
 		"year": "2016",
 		"staff": "",
 		"earnings": "",
-		"total_assets": "1143116€",
+		"total_assets": "1 143 116 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}],
@@ -91,9 +91,9 @@
 		"source_code_download": "https://github.com/Enalean/tuleap.git",
 		"source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.tuleap.org/fr/tarifs/sur-site",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "Yes",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Tuleap_(project_management)",
 		"reference_list": [{
 			"title": "Orange",
