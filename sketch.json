@@ -24,7 +24,7 @@
 		"website_url": "https://www.sketch.com/",
 		"created_year": "2010",
 		"description": "A vector graphic editor operating on MacOS to design UIs and UXs in a collaborative way.",
-		"category_list": "Information Technology",
+		"category_list": "Application",
 		"similar_solution_list": [{
 			"title": "Figma",
 			"similar_solution_url": "https://www.figma.com/",
@@ -46,9 +46,9 @@
 		"source_code_download": "https://developer.sketch.com/file-format/",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.sketch.com/pricing/",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Sketch_(software)",
 		"reference_list": [],
 		"success_case_list": [{
