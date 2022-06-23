@@ -23,59 +23,59 @@
 		"website_url": "https://www.spreed.eu/spreedbox-team-collaboration-server/",
 		"created_year": "2016",
 		"description": "Spreedbox is a private and secure cloud server for office collaboration, calendar management, video conferencing and document exchange without having to store data on external servers, therefore regaining control over one's data.",
-		"category_list": ["Telecommunication"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Jitsi",
 			"similiar_solution_url": "https://meet.jit.si/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Mumble",
 			"similiar_solution_url": "https://www.mumble.com/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Big Blue Button",
 			"similiar_solution_url": "https://bigbluebutton.org/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Briefing",
 			"similiar_solution_url": "https://brie.fi/ng",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Matrix",
 			"similiar_solution_url": "https://matrix.org/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Zoom",
 			"similiar_solution_url": "https://zoom.us/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
-			"category": "Communication (phone, video)"
-			},{	
+			"category": "Communication"
+		}, {
 			"title": "Hangouts",
 			"similiar_solution_url": "https://hangouts.google.com/",
-			"category": "Communication (phone, video)"
-			},{
+			"category": "Communication"
+		}, {
 			"title": "Skype",
 			"similiar_solution_url": "https://www.skype.com/",
-			"category": "Communication (phone, video)"
+			"category": "Communication"
 		}],
 		"licence_list": ["AGPL-3.0"],
 		"source_code_download": "https://github.com/nextcloud/spreed.git",
 		"source_code_profile": "https://www.openhub.net/p/spreed/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.spreed.eu/shop/",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
