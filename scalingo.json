@@ -19,16 +19,16 @@
   "kpi_list": [{
     "year": "2017",
     "staff": "",
-    "earnings": "-9942€",
-    "total_assets": "62173€",
-    "revenues": "134767€",
+    "earnings": "-9 942 EUR",
+    "total_assets": "62 173 EUR",
+    "revenues": "134 767 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": "2016",
     "staff": "",
-    "earnings": "21527€",
-    "total_assets": "49142€",
-    "revenues": "68194€",
+    "earnings": "21 527 EUR",
+    "total_assets": "49 142 EUR",
+    "revenues": "68 194 EUR",
     "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
@@ -37,27 +37,27 @@
     "website_url": "https://scalingo.com/runtimes",
     "created_year": "2015",
     "description": "Scalingo is a France-based hosting company providing web developers with production-ready application hosting services. Its services have served more than 300 teams and hosted more than 2500 applications from more than 17 countries worldwide. Its hosting services are backed by a Tier III data center located in Paris, France. The Scalingo website is available in two languages: English and French.",
-    "category_list": ["Application"],
+    "category_list": ["Developer Environment"],
     "similar_solution_list": [{
       "title": "OpenShift",
       "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
-      "category": "Application"
+      "category": "Developer Environment"
     },{
       "title": "Heroku",
       "similiar_solution_url": "https://www.heroku.com/",
-      "category": "Application"
+      "category": "Developer Environment"
     },{
       "title": "Clever Cloud",
       "similiar_solution_url": "https://www.clever-cloud.com/",
-      "category": "Application"
+      "category": "Developer Environment "
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "https://github.com/Scalingo/documentation.git",
     "source_code_profile": "",
     "commercial_support_url": "https://scalingo.com/contact",
-    "floss_software": "no",
-    "commercial_support_open_source_version": "no",
-    "commercial_support_available": "yes",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "Studo",
@@ -79,19 +79,19 @@
       "title": "How Le Wagon teaches thousands of students to code with Scalingo",
       "description": "Le Wagon hosted their Ruby on Rails applications on Heroku until they encountered a limitation for their educational platform. The purpose of this application is to test the students' code to see if it is good. The application then sends a message back to the student indicating whether their code is correct or incorrect, similar to continuous integration. The tests designed by the pedagogical team worked well locally on the students' machines but did not run correctly on Heroku, in the absence of SQLIte headers on the machines offered on this PaaS. Following this problem, they turned to Scalingo to host Le Wagon's applications. The goal was to have a stable infrastructure that did not require human intervention.",
       "image_url": "https://www.datocms-assets.com/36416/1639667205-le-wagon-logo.svg",
-      "industry": "coding bootcamp",
+      "industry": "Information Technology",
       "customer": "Le Wagon",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://scalingo.com/customers/le-wagon"
     },{
       "title": "Help grow tens of startups thanks to Scalingo",
       "description": "At the beginning of Dernier Cri, they started using VPS at Digital Ocean and Rackspace. Isolation with one VPS per client and Docker to help with system administration but it wasn't enough. Between the recurring problems of builds, the sometimes forgotten backups or the lack of recovery plan pushed Robin to look for a better solution. The choice went to Heroku. Technically the experience was very satisfying but the human side was much less so. They decided to choose Scalingo the support being a real asset.",
       "image_url": "https://www.datocms-assets.com/36416/1632646981-logo-derniercri.svg",
-      "industry": "web development",
+      "industry": "Information Technology",
       "customer": "Dernier Cri",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://scalingo.com/customers/derniercri"
     },{
       "title": "Running a 15M€ E-commerce platform on Scalingo",
@@ -100,13 +100,13 @@
       "industry": "Retail",
       "customer": "HomeCinéSolutions",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://scalingo.com/customers/homecinesolutions"
     },{
       "title": "Saving developers time by reducing Ops intervention",
       "description": "CucumberStudio is a collaborative continuous testing platform dedicated to Agile and DevOps teams. It fosters collaboration between business and tech teams through its native support for BDD (Behavior-Driven Development). Cucumber Team have opted for CucumberStudio to be hosted on a “Platform as a Service” in order to save time. By using Scalingo, they can concentrate their time and efforts on producing code, which is their real added value.",
       "image_url": "https://www.datocms-assets.com/36416/1634652950-cucumberstudiologo.svg",
-      "industry": "web development",
+      "industry": "Information Technology",
       "customer": "Cucumber",
       "country": "FR",
       "language": "fr",
@@ -115,7 +115,7 @@
       "title": "Running Germany's largest online donation platform on Scalingo",
       "description": "betterplace.me is a new donation platform that we launched on Scalingo in 2018. betterplace.me makes it easy for individuals - and initiatives who aren't part of a larger organization - to collect donations as well. They wanted to migrate a few of their applications off Heroku in preparation for the GDPR. Scalingo was the only European “drop-in” replacement that just worked. They also appreciated the personal contact with the team which quickly reacted if there was trouble.",
       "image_url": "https://www.datocms-assets.com/36416/1634650343-betterplace-logo.svg",
-      "industry": "Humanitarian aid",
+      "industry": "Associations and NGOs",
       "customer": "Betterplace.org",
       "country": "DE",
       "language": "de",
@@ -124,19 +124,19 @@
       "title": "Building the biggest European electromobility platform with Scalingo",
       "description": "Chargemap is a community database gathering charging stations for electric vehicles (EV). The technical infrastructure of Chargemap has changed a lot in the past 7-8 years. Because their business has also changed a lot they had to adapt and create new softwares continuously so they did not want to spend hours configuring servers anymore. They did not want to manage security updates by ourselves. They did not want to wait several hours / days before a simple nginx update. They wanted to be free to migrate quickly from one supplier to another if needed. In short, they wanted flexibility, scalability, performance, stability, and most importantly: they wanted to be able to focus on their real job. Scalingo was the ideal partner to help in this change process. From the beginning what were seducing was the speed with which they have been deploying new versions and new applications.",
       "image_url": "https://www.datocms-assets.com/36416/1634651136-chargemaplogo.svg",
-      "industry": "IT services",
+      "industry": "Information Technology",
       "customer": "Chargemap",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://scalingo.com/customers/chargemap"
     },{
       "title": "The SaaS ERP for wine estates hosted on Scalingo",
       "description": "Baqio is the first Enterprise Resource Planning (ERP) web application dedicated to wine estate owners and wine merchants. It allows to manage stock, products catalogue, customers database (CRM). It's an ERP dedicated to the specifities of the wine world and not as an afterthought of an existing ERP.  They used Scalingo to launch Baqio because they can scale resources very precisely depending on the needs of application, without touching a server nor having deep system administration skills. On Scalingo, Baqio team run a staging app and a production app. If they want to do a Ruby version upgrade for example, they just have to modify a file and push it to the staging app to test its behavior. It is an incredible comfort compared to previous solution Heroku.",
       "image_url": "https://www.datocms-assets.com/36416/1634650335-baqiologo.svg",
-      "industry": "software",
+      "industry": "Information Technology",
       "customer": "Baqio",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://scalingo.com/customers/baqio"
     },{
       "title": "Building an IoT Platform for the Smart City on Scalingo",
