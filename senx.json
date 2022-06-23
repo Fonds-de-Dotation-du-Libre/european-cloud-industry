@@ -19,30 +19,30 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "",
-    "earnings": "-295818€",
-    "total_assets": "2016385€",
-    "revenues": "476678€",
+    "earnings": "-295 818 EUR",
+    "total_assets": "2 016 385 EUR",
+    "revenues": "476 678 EUR",
     "source_url": "https://www.verif.com/"
   }, {
     "year": "2019",
     "staff": "",
-    "earnings": "265748€",
-    "total_assets": "2112440€",
-    "revenues": "684400€",
+    "earnings": "265 748 EUR",
+    "total_assets": "2 112 440 EUR",
+    "revenues": "684 400 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": "2018",
     "staff": "",
-    "earnings": "-153526€",
-    "total_assets": "1527215€",
-    "revenues": "687133€",
+    "earnings": "-153 526 EUR",
+    "total_assets": "1 527 215 EUR",
+    "revenues": "687 133 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": "2017",
     "staff": "",
-    "earnings": "127356€",
-    "total_assets": "1485954€",
-    "revenues": "745713€",
+    "earnings": "127 356 EUR",
+    "total_assets": "1 485 954 EUR",
+    "revenues": "745 713 EUR",
     "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
@@ -65,19 +65,19 @@
     "source_code_download": "https://github.com/senx/warp10-platform",
     "source_code_profile": "https://www.openhub.net/p/warp10-platform",
     "commercial_support_url": "https://www.warp10.io/content/30_Commercial_support",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Warp_10",
     "reference_list": "",
     "success_case_list": [{
       "title": "case study",
       "description": "AIM45 proposes a solution to store and analyze data produced by sailboats. This solution is based on Warp 10 and includes algorithms and visualizations designed by experts in yacht races. It is compatible with many types of data loggers, so the produced data can be easily retrieved and analyzed.",
       "image_url": "https://senx.io/assets/img/logos/AIM45-logo.png",
-      "industry": "IT services",
+      "industry": "Information Technology",
       "customer": "AIM45",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://senx.io/cases-studies/aim45"
     },{
       "title": "case study",
@@ -86,7 +86,7 @@
       "industry": "Manufacturing",
       "customer": "AMZAIR",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/amzair"
     },{
       "title": "case study",
@@ -95,16 +95,16 @@
       "industry": "Banking",
       "customer": "ARKEA",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/arkea"
     },{
       "title": "case study",
       "description": "Centreon is finalizing the creation of a Machine Learning-oriented offering and needed to store customer metrics in order to run its learning models and Machine Learning algorithms used for anomaly detection. To do this, the company collects system and functional metrics, and application logs. All these data are stored in Warp 10. The platform provides unique storage for all time series data, whether digital or in the form of strings and the major advantage is also that WarpScript allows us to perform complex operations for calculating statuses or doing data visualization without adding intermediate components.",
       "image_url": "https://senx.io/assets/img/testimonials/centreon-logo.png",
-      "industry": "IT services",
+      "industry": "Information Technology",
       "customer": "CENTREON",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/centreon"
     },{
       "title": "case study",
@@ -113,7 +113,7 @@
       "industry": "Healthcare",
       "customer": "CHRU Brest",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/chru"
     },{
       "title": "case study",
@@ -122,43 +122,43 @@
       "industry": "Cloud services",
       "customer": "Clever cloud",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/clevercloud"
     },{
       "title": "case study",
       "description": "The company works with data from geographic information systems (GIS), demographic data, but also with sensor data from the IoT. Eegle therefore researched what tools existed to analyze, process and make sensor data intelligible as this type of data cannot be processed with conventional tools. Warp 10 is used on several projects, with different territorial players, including Pride, a project to develop an innovative regional energy data platform. Warp 10 is deployed on virtual machines to collect energy metering data (Linky, Gazpar). The processing functionalities of Warp 10 make it possible to build indicators on the consumption and production of energy at different territorial levels and to follow their evolution over time.",
       "image_url": "https://senx.io/assets/img/logos/eegle.png",
-      "industry": "Cloud services",
+      "industry": "Information Technology",
       "customer": "Eegle",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/eegle"
     },{
       "title": "case study",
       "description": "Energisme collects data in real-time from a multitude of IoT data sources (energy meter, Building Management System / Centralized Technical Management, temperature time series, etc.) and Warp 10 allows direct and rapid use of the algorithms available for the subject of Device Management and predictive maintenance of the fleet.",
       "image_url": "https://senx.io/assets/img/testimonials/energisme.svg",
-      "industry": "IT services",
+      "industry": "Information Technology",
       "customer": "Energisme",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/assets/img/testimonials/energisme.svg"
     },{
       "title": "case study",
       "description": "Kalvad works with several customers with data storage and analysis needs. For many, it is monitoring, but the company also has to deal with sporadic data. So Kalvad required a scalable solution that could handle a large volume of data. Currently Warp 10 is used on many of their projects. The platform retrieves data from a call center management solution, which in particular enables emotional analysis of calls received over a long period of time. Also, it allows them to keep data at the perfect time, without any compromises around the data integrity. Warp 10 is also used to store IoT data and for ingesting logs from various formats.",
       "image_url": "https://senx.io/assets/img/testimonials/kalvad.png",
-      "industry": "IT services",
+      "industry": "Information Technology",
       "customer": "Kalvad",
       "country": "AE",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://senx.io/cases-studies/kalvad"
     },{
       "title": "case study",
       "description": "S3PWeb often has many information sources that are not synchronized to the same timestamp.The WarpScript language has made it possible to perform preprocessing on the database side, for example to synchronize the GPS positions of various time series in a few lines of code, or even to create redundant information filters.",
       "image_url": "https://senx.io/assets/img/logos/s3p-web.png",
-      "industry": "Computer systems",
+      "industry": "Information Technology",
       "customer": "S3P Web",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://senx.io/cases-studies/s3pweb"
     }]
   }]
