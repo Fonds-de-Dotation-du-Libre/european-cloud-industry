@@ -47,9 +47,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "No",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "No",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
