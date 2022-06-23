@@ -19,47 +19,47 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "311",
-    "earnings": "-1424430€",
-    "total_assets": "84570606€",
-    "revenues": "81972577€",
+    "earnings": "-1 424 430 EUR",
+    "total_assets": "84 570 606 EUR",
+    "revenues": "81 972 577 EUR",
     "source_url": "https://www.verif.com/"
   }, {
     "year": "2019",
     "staff": "245",
-    "earnings": "-3115433€",
-    "total_assets": "88113139€",
-    "revenues": "76542759€",
+    "earnings": "-3 115 433 EUR",
+    "total_assets": "88 113 139 EUR",
+    "revenues": "76 542 759 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": "2018",
     "staff": "217",
-    "earnings": "1695511€",
-    "total_assets": "118355355€",
-    "revenues": "71794537€",
+    "earnings": "1 695 511 EUR",
+    "total_assets": "118 355 355 EUR",
+    "revenues": "71 794 537 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": "2017",
     "staff": "122",
-    "earnings": "3339659€",
-    "total_assets": "117857661€",
-    "revenues": "60105530€",
+    "earnings": "3 339 659 EUR",
+    "total_assets": "117 857 661 EUR",
+    "revenues": "60 105 530 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": "2016",
     "staff": "104",
-    "earnings": "3683612€",
-    "total_assets": "93515030€",
-    "revenues": "50654021€",
+    "earnings": "3 683 612 EUR",
+    "total_assets": "93 515 030 EUR",
+    "revenues": "50 654 021 EUR",
     "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
-    "title": "enterprise instances",
+    "title": "Enterprise Instances",
     "logo_url": "",
     "website_url": "https://www.scaleway.com/en/virtual-instances/enterprise/",
     "created_year": "",
     "description": "Enterprise instances with AMD EPYC™ 7003. AMD EPYC™ 7003 Series can help elevate your business productivity through fast application performance.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -68,8 +68,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "General Purpose Instances",
     "logo_url": "",
@@ -77,7 +77,7 @@
     "created_year": "",
     "description": "High performance instances designed for production and scalable infrastructures.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -86,8 +86,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Development Instances",
     "logo_url": "",
@@ -95,7 +95,7 @@
     "created_year": "",
     "description": "Instances offering the best price-performance ratio for your websites, applications and development environments",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -104,8 +104,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Stardust instances",
     "logo_url": "",
@@ -113,7 +113,7 @@
     "created_year": "",
     "description": "Stardust is 1 vCPU, 1 GB of RAM, 1 IPv4 address, 10GB of local storage or block storage on demand, up-to 100Mbps Bandwidth and compatible Private Networks. It is adapted to small web-hosting, can help to set-up Load Balancers, test Private Networks and ensure communication between instances.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -122,8 +122,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "GPU CLoud instances",
     "logo_url": "",
@@ -131,7 +131,7 @@
     "created_year": "",
     "description": "Cloud GPU instances are powered by dedicated high-end NVIDIA Tesla P100 at the best price-performance ratio.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -149,7 +149,7 @@
     "created_year": "",
     "description": "Dedicated Mac mini supercharged by the Apple M1 chip and available in the cloud by hour.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -158,8 +158,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Elastic Metal",
     "logo_url": "",
@@ -167,7 +167,7 @@
     "created_year": "",
     "description": "Elastic Metal servers combine dedicated performance with flexible pricing and native integration into Scaleway complete cloud ecosystem. It helps molding your infrastructure to your needs in real time by adjusting your fleet of dedicated servers thanks to hourly or monthly billing, and expand your possibilities with our multi-cloud ecosystem integration.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -176,8 +176,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Block Storage",
     "logo_url": "",
@@ -185,7 +185,7 @@
     "created_year": "",
     "description": "High-performance SSD network-attached persistent volumes for Instances and Kubernetes Kapsule clusters.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -194,8 +194,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Kubernetes",
     "logo_url": "",
@@ -203,7 +203,7 @@
     "created_year": "",
     "description": "Managed Kubernetes engines (Kapsule or Kosmos)  allow you to benefit from all the flexibility of Kubernetes clusters without the burden of installing, configuring, managing, and maintaining it yourself.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -212,8 +212,8 @@
     "commercial_support_open_source_version": "",
     "commercial_support_available": "",
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Serverless Functions",
     "logo_url": "",
@@ -221,7 +221,7 @@
     "created_year": "",
     "description": "Scaleway Functions is a serverless service for running your code without configuring or maintaining any infrastructure. Nothing to manage, Functions will scale automatically. You can create microservices with no server management, and you will only pay for the resources you use.",
     "category_list": [],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
