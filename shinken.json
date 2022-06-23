@@ -21,29 +21,29 @@
 		"year": "2020",
 		"staff": "16",
 		"earnings": "",
-		"total_assets": "1254155€",
+		"total_assets": "1 254 155 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/"
 	}, {
 		"year": "2019",
 		"staff": "11",
 		"earnings": "",
-		"total_assets": "1370105€",
+		"total_assets": "1 370 105 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/"
 	}, {
 		"year": "2018",
 		"staff": "10",
 		"earnings": "",
-		"total_assets": "1162900€",
-		"revenues": "470747€",
+		"total_assets": "1 162 900 EUR",
+		"revenues": "470 747 EUR",
 		"source_url": "https://www.societe.com/"
 	}, {
 		"year": "2017",
 		"staff": "12",
 		"earnings": "",
-		"total_assets": "1138000€",
-		"revenues": "190237€",
+		"total_assets": "1 138 000 EUR",
+		"revenues": "190 237 EUR",
 		"source_url": "https://www.societe.com/"
 	}],
 	"solution_list": [{		
@@ -86,9 +86,9 @@
 		"source_code_download": "https://github.com/naparuba/shinken.git",
 		"source_code_profile": "https://www.openhub.net/p/shinken/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.shinken-enterprise.com/fr/tarifs/",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "Yes",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Shinken_(software)",
 		"reference_list": [],
 		"success_case_list": []
