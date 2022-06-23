@@ -89,257 +89,252 @@
 			"country": "",
 			"language": "",
 			"success_case_url": ""
-		}],
-		"solution_list": [{
-			"title": "LDAP Tool box",
-			"logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
-			"website_url": "https://www.ltb-project.org/",
-			"created_year": 2008,
-			"description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
-			"category": ["Identity"],
-			"similar_solution_list": [{
-				"title": "pwm-project",
-				"similiar_solution_url": "https://github.com/pwm-project/pwm.git",
-				"category": "Identity"
+		}, {
+		"title": "LDAP Tool box",
+		"logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
+		"website_url": "https://www.ltb-project.org/",
+		"created_year": 2008,
+		"description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
+		"category": ["Identity"],
+		"similar_solution_list": [{
+			"title": "pwm-project",
+			"similiar_solution_url": "https://github.com/pwm-project/pwm.git",
+			"category": "Identity"
 			}, {
-				"title": "PassCore",
-				"similiar_solution_url": "https://github.com/unosquare/passcore.git",
-				"category": "Identity"
+			"title": "PassCore",
+			"similiar_solution_url": "https://github.com/unosquare/passcore.git",
+			"category": "Identity"
 			}, {
-				"title": "ADReset",
-				"similiar_solution_url": "https://github.com/mprahl/ADReset.git",
-				"category": "Identity"
+			"title": "ADReset",
+			"similiar_solution_url": "https://github.com/mprahl/ADReset.git",
+			"category": "Identity"
 			}, {
-				"title": "JiJi Self Service Password",
-				"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
-				"category": "Identity"
+			"title": "JiJi Self Service Password",
+			"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+			"category": "Identity"
 			}],
-			"licence_list": ["GPL-3.0"],
-			"source_code_download": "https://github.com/ltb-project/self-service-password.git",
-			"source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
-			"commercial_support_url": "",
-			"floss_software": true,
-			"commercial_support_open_source_version": true,
-			"commercial_support_available": "",
-			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://github.com/ltb-project/self-service-password.git",
+		"source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}, {
+		"title": "LDAP Synchronization Connector Project",
+		"logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
+		"website_url": "https://www.lsc-project.org/start",
+		"created_year": 2018,
+		"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
+		"category_list": ["Big Data Hub", "Storage and Database"],
+		"similar_solution_list": [],
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "https://github.com/lsc-project/lsc.git",
+		"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
 			}],
-			"solution_list": [{
-				"title": "LDAP Synchronization Connector Project",
-				"logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
-				"website_url": "https://www.lsc-project.org/start",
-				"created_year": 2018,
-				"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
-				"category_list":["Big Data Hub", "Storage and Database"],
-				"similar_solution_list": [],
-				"licence_list": ["GPL-3.0"],
-				"source_code_download": "https://github.com/lsc-project/lsc.git",
-				"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
-				"commercial_support_url": "",
-				"floss_software": true,
-				"commercial_support_open_source_version": true,
-				"commercial_support_available": "",
-				"wikipedia_url": "",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": "",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}],
-				"solution_list": [{
-					"title": "W'Sweet",
-					"logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
-					"website_url": "https://www.wsweet.org/",
-					"created_year": null,
-					"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
-					"category_list": "Information Technology",
-					"similar_solution_list": [{
-						"title": "pwm-project",
-						"similiar_solution_url": "",
-						"category": "Information Technology"
-					}, {
-						"title": "",
-						"similiar_solution_url": "",
-						"category": "Information Technology",
-						"licence_list": [""],
-						"source_code_download": "",
-						"source_code_profile": "",
-						"commercial_support_url": "",
-						"floss_software": "Yes",
-						"commercial_support_open_source_version": "Yes",
-						"commercial_support_available": "",
-						"wikipedia_url": "",
-						"reference_list": [{
-							"title": "",
-							"logo_url": "",
-							"country": "",
-							"industry": ""
-						}],
-						"success_case_list": [{
-							"title": "",
-							"description": "",
-							"image_url": "",
-							"industry": "",
-							"customer": "",
-							"country": "",
-							"language": "",
-							"success_case_url": ""
-						}],
-						"title": "W'Opla",
-						"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
-						"website_url": "https://www.worteks.com/edition/wopla/",
-						"created_year": null,
-						"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-						"category_list": "Information Technology",
-						"similar_solution_list": [{
-							"title": "",
-							"similiar_solution_url": "",
-							"category": "Information Technology"
-						}, {
-							"title": "",
-							"similiar_solution_url": "",
-							"category": "Information Technology"
-						}],
-						"licence_list": [""],
-						"source_code_download": "",
-						"source_code_profile": "",
-						"commercial_support_url": "",
-						"floss_software": true,
-						"commercial_support_open_source_version": true,
-						"commercial_support_available": "",
-						"wikipedia_url": "",
-						"reference_list": [{
-							"title": "",
-							"logo_url": "",
-							"country": "",
-							"industry": ""
-						}],
-						"success_case_list": [{
-							"title": "",
-							"description": "",
-							"image_url": "",
-							"industry": "",
-							"customer": "",
-							"country": "",
-							"language": "",
-							"success_case_url": ""
-						}],
-						"title": "W'IDaaS",
-						"logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
-						"website_url": "https://www.worteks.com/edition/widaas/",
-						"created_year": null,
-						"description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
-						"category_list": "Information Technology",
-						"similar_solution_list": [{
-							"title": "",
-							"similiar_solution_url": "",
-							"category": "Information Technology"
-						}, {
-							"title": "",
-							"similiar_solution_url": "",
-							"category": "Information Technology"
-						}],
-						"licence_list": ["GPL-3.0"],
-						"source_code_download": "",
-						"source_code_profile": "",
-						"commercial_support_url": "",
-						"floss_software": true,
-						"commercial_support_open_source_version": true,
-						"commercial_support_available": "",
-						"wikipedia_url": "",
-						"reference_list": [{
-							"title": "Red Hat",
-							"logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
-							"country": "US",
-							"industry": "Information Technology"
-						}, {
-							"title": "Auchan",
-							"logo_url": "https://www.auchan.fr/content-renderer/sav_2022.3.2-1/images/auchan-logo-desktop.svg",
-							"country": "FR",
-							"industry": "Commerce and Retail"
-						}, {
-							"title": "Airbus",
-							"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
-							"country": "FR",
-							"industry": "Aviation and Aerospace"
-						}, {
-							"title": "Alstom",
-							"logo_url": "https://www.alstom.com/sites/alstom.com/files/styles/560w/public/2019/07/11/Alstom_mobility_by_nature_2019.jpg?itok=icP1Tbnd",
-							"country": "FR",
-							"industry": "Transport"
-						}, {
-							"title": "Amadeus",
-							"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amadeus_%28CRS%29_Logo.svg/2560px-Amadeus_%28CRS%29_Logo.svg.png",
-							"country": "ES",
-							"industry": "Travel and Tourism"
-						}, {
-							"title": "Société Générale",
-							"logo_url": "https://www.societegenerale.com/sites/default/files/logo-societe-generale.png",
-							"country": "FR",
-							"industry": "Banking and Finance"
-						}, {
-							"title": "Atos",
-							"logo_url": "https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.png",
-							"country": "FR",
-							"industry": "Information Technology"
-						}, {
-							"title": "Assistance Publique des Hôpitaux de Paris",
-							"logo_url": "https://gestions-hospitalieres.fr/wp-content/uploads/2016/10/logo-aphp.jpg",
-							"country": "FR",
-							"industry": "Health and Life Sciences"
-						}, {
-							"title": "Université Paris Dauphine",
-							"logo_url": "https://dauphine.psl.eu/typo3conf/ext/dauphine/Resources/Public/assets/img/logo/logo_white.svg",
-							"country": "FR",
-							"industry": "Academia and Research"
-						}, {
-							"title": "Orange",
-							"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
-							"country": "FR",
-							"industry": "Telecommunication"
-						}, {
-							"title": "Institut Pasteur",
-							"logo_url": "https://www.pasteur.fr/sites/default/files/institut-pasteur-logo-2020.png",
-							"country": "FR",
-							"industry": "Health and Life Sciences"
-						}],
-						"success_case_list": [{
-							"title": "",
-							"description": "",
-							"image_url": "",
-							"industry": "",
-							"customer": "",
-							"country": "",
-							"language": "",
-							"success_case_url": ""
-						}]
-					}]
-				}]
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
 			}]
-		}]
+		}, {
+		"title": "W'Sweet",
+		"logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
+		"website_url": "https://www.wsweet.org/",
+		"created_year": null,
+		"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
+		"category_list": "Information Technology",
+		"similar_solution_list": [{
+			"title": "pwm-project",
+			"similiar_solution_url": "",
+			"category": "Information Technology"
+			}, {
+			"title": "",
+			"similiar_solution_url": "",
+			"category": "Information Technology"
+			}],
+		"licence_list": [""],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+			}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}, {
+		"title": "W'Opla",
+		"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+		"website_url": "https://www.worteks.com/edition/wopla/",
+		"created_year": null,
+		"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
+		"category_list": "Information Technology",
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": "Information Technology"
+			}, {
+			"title": "",
+			"similiar_solution_url": "",
+			"category": "Information Technology"
+			}],
+		"licence_list": [""],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+			}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}, {
+		"title": "W'IDaaS",
+		"logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
+		"website_url": "https://www.worteks.com/edition/widaas/",
+		"created_year": null,
+		"description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
+		"category_list": "Information Technology",
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+			}, {
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+			}],
+		"licence_list": ["GPL-3.0"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "Red Hat",
+			"logo_url": "https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg",
+			"country": "US",
+			"industry": "Information Technology"
+			}, {
+			"title": "Auchan",
+			"logo_url": "https://www.auchan.fr/content-renderer/sav_2022.3.2-1/images/auchan-logo-desktop.svg",
+			"country": "FR",
+			"industry": "Commerce and Retail"
+			}, {
+			"title": "Airbus",
+			"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
+			}, {
+			"title": "Alstom",
+			"logo_url": "https://www.alstom.com/sites/alstom.com/files/styles/560w/public/2019/07/11/Alstom_mobility_by_nature_2019.jpg?itok=icP1Tbnd",
+			"country": "FR",
+			"industry": "Transport"
+			}, {
+			"title": "Amadeus",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amadeus_%28CRS%29_Logo.svg/2560px-Amadeus_%28CRS%29_Logo.svg.png",
+			"country": "ES",
+			"industry": "Travel and Tourism"
+			}, {
+			"title": "Société Générale",
+			"logo_url": "https://www.societegenerale.com/sites/default/files/logo-societe-generale.png",
+			"country": "FR",
+			"industry": "Banking and Finance"
+			}, {
+			"title": "Atos",
+			"logo_url": "https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.png",
+			"country": "FR",
+			"industry": "Information Technology"
+			}, {
+			"title": "Assistance Publique des Hôpitaux de Paris",
+			"logo_url": "https://gestions-hospitalieres.fr/wp-content/uploads/2016/10/logo-aphp.jpg",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+			}, {
+			"title": "Université Paris Dauphine",
+			"logo_url": "https://dauphine.psl.eu/typo3conf/ext/dauphine/Resources/Public/assets/img/logo/logo_white.svg",
+			"country": "FR",
+			"industry": "Academia and Research"
+			}, {
+			"title": "Orange",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+			"country": "FR",
+			"industry": "Telecommunication"
+			}, {
+			"title": "Institut Pasteur",
+			"logo_url": "https://www.pasteur.fr/sites/default/files/institut-pasteur-logo-2020.png",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+			}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+			}]
 	}]
-}
+}]}]}]}]}
