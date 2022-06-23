@@ -119,7 +119,7 @@
       "website_url": "https://www.ltb-project.org/",
       "created_year": 2008,
       "description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
-      "category": [
+      "category_list": [
         "Identity"
       ],
       "similar_solution_list": [
@@ -221,9 +221,9 @@
       "title": "W'Sweet",
       "logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
       "website_url": "https://www.wsweet.org/",
-      "created_year": "",
+      "created_year": null,
       "description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
-      "category_list": "",
+      "category_list": [],
       "similar_solution_list": [
         {
           "title": "pwm-project",
@@ -233,45 +233,12 @@
       ]
     },
     {
-      "title": "",
-      "similiar_solution_url": "",
-      "category": "Information Technology",
-      "licence_list": [],
-      "source_code_download": "",
-      "source_code_profile": "",
-      "commercial_support_url": "",
-      "floss_software": true,
-      "commercial_support_open_source_version": true,
-      "commercial_support_available": "",
-      "wikipedia_url": "",
-      "reference_list": [
-        {
-          "title": "",
-          "logo_url": "",
-          "country": "",
-          "industry": ""
-        }
-      ],
-      "success_case_list": [
-        {
-          "title": "",
-          "description": "",
-          "image_url": "",
-          "industry": "",
-          "customer": "",
-          "country": "",
-          "language": "",
-          "success_case_url": ""
-        }
-      ]
-    },
-    {
       "title": "W'Opla",
       "logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
       "website_url": "https://www.worteks.com/edition/wopla/",
-      "created_year": "",
+      "created_year": null, 
       "description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-      "category_list": "Operation Management",
+      "category_list": ["Operation Management"],
       "similar_solution_list": [
         {
           "title": "",
@@ -312,9 +279,9 @@
       "title": "W'IDaaS",
       "logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
       "website_url": "https://www.worteks.com/edition/widaas/",
-      "created_year": "",
+      "created_year": null,
       "description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
-      "category_list": "Information Technology",
+      "category_list": ["Information Technology"],
       "similar_solution_list": [
         {
           "title": "",
