@@ -13,7 +13,7 @@
 		"mail_contact": "contact.france@al-enterprise.com",
 		"coordinate_list": [48.93416414047471, 2.2521112980368065]
 	},
-	"subsidiary_location_list": [],
+	"subsidiary_location_list": ["US", "MX", "CO", "CL", "CA", "BR", "AR", "AU", "CN", "IN", "ID", "JP", "MY", "PH", "SG", "TH", "KR", "GB", "AE", "TR", "CH", "SE", "ES", "ZA", "SA", "RU", "QA", "PT", "PL", "MA", "NO", "NL", "MT", "IT", "IL", "IE", "GR", "DE", "FR", "FI", "CZ", "BE", "AT", "DZ"],
 	"website_url": "https://www.al-enterprise.com/en",
 	"founded_year": 2014,
 	"kpi_list": [{
