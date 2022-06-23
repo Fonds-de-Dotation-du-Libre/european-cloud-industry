@@ -1,731 +1,731 @@
 {
-  "created": "2022-04-07",
-  "title": "SUBMER TECHNOLOGIES, S.L.",
-  "type": "Organisation",
-  "logo_url": "https://submer.com/wp-content/uploads/2020/04/submer-logo.svg",
-  "location": {
-    "title": "SUBMER TECHNOLOGIES, S.L.",
-    "address": "Calle Metal·lúrgica 49",
-    "postal_code": "08908",
-    "city": "Barcelona",
-    "country": "ES",
-    "phone_contact": "+34932202855",
-    "mail_contact": "contact@submer.com",
-    "coordinate_list": [41.35202255936917, 2.13459718652355]
-  },
-  "subsidiary_location_list": "US",
-  "website_url": "https://submer.com/",
-  "founded_year": "2015",
-  "kpi_list": "",
-  "solution_list": [{
-    "title": "MicroPod",
-    "logo_url": "https://submer.com/wp-content/uploads/2020/11/micropod-rooftop3-copy-1536x864.jpg",
-    "website_url": "https://submer.com/micropod/",
-    "created_year": "",
-    "description": "Submer’s MicroPod is the perfect Immersion Cooling solution for Edge applications, colocation datacenters, telcos and cloud computing. Thanks to its compact, modular, plug-and-play, datacenter-in-a-box configuration, the MicroPod allows for fast deployment in any location, including direct sunlight and an easy plug-and-play installation with an unrivalled energy footprint anywhere on the globe.",
-    "category_list": "Cooling",
-    "similar_solution_list": [{
-      "title": "ICEraQ",
-      "similiar_solution_url": "https://www.grcooling.com/iceraq/",
-      "category": "Cooling"
-    }],
-    "licence_list": "",
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
+	"created": "2022-04-07",
+	"title": "SUBMER TECHNOLOGIES, S.L.",
+	"type": "Organisation",
+	"logo_url": "https://submer.com/wp-content/uploads/2020/04/submer-logo.svg",
+	"location": {
+		"title": "SUBMER TECHNOLOGIES, S.L.",
+		"address": "Calle Metal·lúrgica 49",
+		"postal_code": "08908",
+		"city": "Barcelona",
+		"country": "ES",
+		"phone_contact": "+34932202855",
+		"mail_contact": "contact@submer.com",
+		"coordinate_list": [41.35202255936917, 2.13459718652355]
+	},
+	"subsidiary_location_list": ["US"],
+	"website_url": "https://submer.com/",
+	"founded_year": "2015",
+	"kpi_list": "",
+	"solution_list": [{
+		"title": "MicroPod",
+		"logo_url": "https://submer.com/wp-content/uploads/2020/11/micropod-rooftop3-copy-1536x864.jpg",
+		"website_url": "https://submer.com/micropod/",
+		"created_year": "",
+		"description": "Submer’s MicroPod is the perfect Immersion Cooling solution for Edge applications, colocation datacenters, telcos and cloud computing. Thanks to its compact, modular, plug-and-play, datacenter-in-a-box configuration, the MicroPod allows for fast deployment in any location, including direct sunlight and an easy plug-and-play installation with an unrivalled energy footprint anywhere on the globe.",
+		"category_list": "Cooling",
+		"similar_solution_list": [{
+			"title": "ICEraQ",
+			"similiar_solution_url": "https://www.grcooling.com/iceraq/",
+			"category": "Cooling"
+		}],
+		"licence_list": "",
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
 			"title": "Ingram Micro",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
-      "country": "US",
-     	"industry": "IT"
-    	},{
+			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
+			"country": "US",
+			"industry": "IT"
+		}, {
 			"title": "Green AI",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/GREEN-AI.png",
 			"country": "SE",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "NTC Services AS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NTC-SERVICES.png",
 			"country": "NO",
 			"industry": "IT"
-			},{
-      "title": "Exuvi8",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
-      "country": "UK",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Exuvi8",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
+			"country": "UK",
+			"industry": "IT"
+		}, {
 			"title": "NBM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NBM.png",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "InfraBurst",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/infraburst.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Submerged Cooling solutions",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
-      "country": "NL",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Submerged Cooling solutions",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
+			"country": "NL",
+			"industry": "IT"
+		}, {
 			"title": "Trigonon",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Trigonon.png",
 			"country": "BG",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "IEAISA Ingenieria",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ieaisa.jpg",
 			"country": "ES",
 			"industry": "IT"
-      },{
-      "title": "Exertis",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
-      "country": "FR",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Exertis",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
+			"country": "FR",
+			"industry": "IT"
+		}, {
 			"title": "Totalinux",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TOTALINUX.png",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Microcomms",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/microcomms.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Sonic Edge",
+		}, {
+			"title": "Sonic Edge",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_sonicedge.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Data Centre",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/datacetreuk.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "FEL Group",
+		}, {
+			"title": "FEL Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/felgroup.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Yonder Cloud",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/yondercloud.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Asanti",
+		}, {
+			"title": "Asanti",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/asanti.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "2BM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/2bm.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "2CRSi",
+		}, {
+			"title": "2CRSi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/2crsi.jpg",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Gassecry",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/gassecry.jpg",
 			"country": "SE",
 			"industry": "IT"
-      },{
-      "title": "Amax",
+		}, {
+			"title": "Amax",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/amax.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "AccessPLUS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Logo_AccessPlus.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Retaam Solutions",
+		}, {
+			"title": "Retaam Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/retaamsolutions.jpg",
 			"country": "SA",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "TD Synnex",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TDSynnex.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "JAIBODSINGH ENERGY LIMITED",
+		}, {
+			"title": "JAIBODSINGH ENERGY LIMITED",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/JAIBODSINGH.jpg",
 			"country": "TT",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Priseda",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-8.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Guyana Technologies Group",
+		}, {
+			"title": "Guyana Technologies Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-7.jpg",
 			"country": "GY",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "PTS Data Center Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/PTS.png",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Air Treatment Corporation",
+		}, {
+			"title": "Air Treatment Corporation",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ATC.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Cancom",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-6.jpg",
 			"country": "DE",
 			"industry": "IT"
-      },{
-      "title": "Hypertec",
+		}, {
+			"title": "Hypertec",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/hypertec.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Adacen",
+		}, {
+			"title": "Adacen",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ADACEN.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "north american systems international",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "i4DM",
+		}, {
+			"title": "i4DM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/i4DM.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "ASA Computers",
+		}, {
+			"title": "ASA Computers",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_asa.png",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "PTI Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-9.jpg",
 			"country": "CA",
 			"industry": "IT"
-      },{
-	    "title": "Rahi",
+		}, {
+			"title": "Rahi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Mark III systems",
+		}, {
+			"title": "Mark III systems",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg ",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Utech Global",
 			"logo_url": "https://submer.com/wp-content/uploads/2022/04/utech-global-logo.png",
 			"country": "SG",
 			"industry": "IT"
-      },{
-      "title": "Lambda Greentech",
+		}, {
+			"title": "Lambda Greentech",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-11.jpg",
 			"country": "MY",
 			"industry": "IT"
-      },{
-      "title": "Open Computing Singapore",
+		}, {
+			"title": "Open Computing Singapore",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-16.png",
 			"country": "SG",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "The Engineering Factory",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/the-engineering-factory.jpg",
 			"country": "AU",
 			"industry": "IT"
-			}],
-    "success_case_list": ""
-  },{
-    "title": "SmartPod",
-    "logo_url": "https://submer.com/wp-content/uploads/2021/03/SmartPod-Family.png",
-    "website_url": "https://submer.com/smartpod/",
-    "created_year": "",
-    "description": "the SmartPod is the very first commercially available OCP compatible Immersion Cooling system, that conforms to both standard server formats and to Open Compute Project (OCP) specifications for high-performance, supercomputing, hyperscale infrastructures, research and colocation",
-    "category_list": "Cooling",
-    "similar_solution_list": "",
-    "licence_list": "",
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": "",
-    "success_case_list": ""
-  },{
-    "title": "MegaPod",
-    "logo_url": "https://submer.com/wp-content/uploads/2021/03/megapod-bandw.jpg",
-    "website_url": "https://submer.com/megapod/",
-    "created_year": "",
-    "description": "The MegaPod has been purpose-built to address the main pain points faced by our challenged industry. Deliver large amounts of sustainable compute capacity and ease site selection. No other technology can deliver this level of density and leverage dry-cooling infrastructure anywhere on the Globe. No other technology can deliver >95% of the IT energy captured in the form or warm water for heat reuse. Think out of the box by leveraging Immersion Cooling in a bigger box: The MegaPod.",
-    "category_list": "Cooling",
-    "similar_solution_list": [{
-      "title": "ICEtank",
-      "similiar_solution_url": "https://www.grcooling.com/icetank/",
-      "category": "Cooling"
-    }],
-    "licence_list": "",
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
+		}],
+		"success_case_list": ""
+	}, {
+		"title": "SmartPod",
+		"logo_url": "https://submer.com/wp-content/uploads/2021/03/SmartPod-Family.png",
+		"website_url": "https://submer.com/smartpod/",
+		"created_year": "",
+		"description": "the SmartPod is the very first commercially available OCP compatible Immersion Cooling system, that conforms to both standard server formats and to Open Compute Project (OCP) specifications for high-performance, supercomputing, hyperscale infrastructures, research and colocation",
+		"category_list": "Cooling",
+		"similar_solution_list": "",
+		"licence_list": "",
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": "",
+		"success_case_list": ""
+	}, {
+		"title": "MegaPod",
+		"logo_url": "https://submer.com/wp-content/uploads/2021/03/megapod-bandw.jpg",
+		"website_url": "https://submer.com/megapod/",
+		"created_year": "",
+		"description": "The MegaPod has been purpose-built to address the main pain points faced by our challenged industry. Deliver large amounts of sustainable compute capacity and ease site selection. No other technology can deliver this level of density and leverage dry-cooling infrastructure anywhere on the Globe. No other technology can deliver >95% of the IT energy captured in the form or warm water for heat reuse. Think out of the box by leveraging Immersion Cooling in a bigger box: The MegaPod.",
+		"category_list": "Cooling",
+		"similar_solution_list": [{
+			"title": "ICEtank",
+			"similiar_solution_url": "https://www.grcooling.com/icetank/",
+			"category": "Cooling"
+		}],
+		"licence_list": "",
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
 			"title": "Ingram Micro",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
-      "country": "US",
-     	"industry": "IT"
-    	},{
+			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
+			"country": "US",
+			"industry": "IT"
+		}, {
 			"title": "Green AI",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/GREEN-AI.png",
 			"country": "SE",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "NTC Services AS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NTC-SERVICES.png",
 			"country": "NO",
 			"industry": "IT"
-			},{
-      "title": "Exuvi8",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
-      "country": "UK",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Exuvi8",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
+			"country": "UK",
+			"industry": "IT"
+		}, {
 			"title": "NBM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NBM.png",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "InfraBurst",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/infraburst.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Submerged Cooling solutions",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
-      "country": "NL",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Submerged Cooling solutions",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
+			"country": "NL",
+			"industry": "IT"
+		}, {
 			"title": "Trigonon",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Trigonon.png",
 			"country": "BG",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "IEAISA Ingenieria",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ieaisa.jpg",
 			"country": "ES",
 			"industry": "IT"
-      },{
-      "title": "Exertis",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
-      "country": "FR",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Exertis",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
+			"country": "FR",
+			"industry": "IT"
+		}, {
 			"title": "Totalinux",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TOTALINUX.png",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Microcomms",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/microcomms.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Sonic Edge",
+		}, {
+			"title": "Sonic Edge",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_sonicedge.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Data Centre",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/datacetreuk.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "FEL Group",
+		}, {
+			"title": "FEL Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/felgroup.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Yonder Cloud",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/yondercloud.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Asanti",
+		}, {
+			"title": "Asanti",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/asanti.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "2BM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/2bm.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "2CRSi",
+		}, {
+			"title": "2CRSi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/2crsi.jpg",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Gassecry",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/gassecry.jpg",
 			"country": "SE",
 			"industry": "IT"
-      },{
-      "title": "Amax",
+		}, {
+			"title": "Amax",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/amax.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "AccessPLUS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Logo_AccessPlus.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Retaam Solutions",
+		}, {
+			"title": "Retaam Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/retaamsolutions.jpg",
 			"country": "SA",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "TD Synnex",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TDSynnex.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "JAIBODSINGH ENERGY LIMITED",
+		}, {
+			"title": "JAIBODSINGH ENERGY LIMITED",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/JAIBODSINGH.jpg",
 			"country": "TT",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Priseda",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-8.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Guyana Technologies Group",
+		}, {
+			"title": "Guyana Technologies Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-7.jpg",
 			"country": "GY",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "PTS Data Center Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/PTS.png",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Air Treatment Corporation",
+		}, {
+			"title": "Air Treatment Corporation",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ATC.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Cancom",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-6.jpg",
 			"country": "DE",
 			"industry": "IT"
-      },{
-      "title": "Hypertec",
+		}, {
+			"title": "Hypertec",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/hypertec.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Adacen",
+		}, {
+			"title": "Adacen",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ADACEN.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "north american systems international",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "i4DM",
+		}, {
+			"title": "i4DM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/i4DM.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "ASA Computers",
+		}, {
+			"title": "ASA Computers",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_asa.png",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "PTI Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-9.jpg",
 			"country": "CA",
 			"industry": "IT"
-      },{
-	    "title": "Rahi",
+		}, {
+			"title": "Rahi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Mark III systems",
+		}, {
+			"title": "Mark III systems",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg ",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Utech Global",
 			"logo_url": "https://submer.com/wp-content/uploads/2022/04/utech-global-logo.png",
 			"country": "SG",
 			"industry": "IT"
-      },{
-      "title": "Lambda Greentech",
+		}, {
+			"title": "Lambda Greentech",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-11.jpg",
 			"country": "MY",
 			"industry": "IT"
-      },{
-      "title": "Open Computing Singapore",
+		}, {
+			"title": "Open Computing Singapore",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-16.png",
 			"country": "SG",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "The Engineering Factory",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/the-engineering-factory.jpg",
 			"country": "AU",
 			"industry": "IT"
-			}],
-    "success_case_list": ""
-  },{
-    "title": "SmartCoolant",
-    "logo_url": "",
-    "website_url": "https://submer.com/smart-coolant-liquid/",
-    "created_year": "",
-    "description": "a synthetic fluid tailor-made for immersion cooling. It provides great benefits for hardware, humans, the planet.",
-    "category_list": "Cooling",
-    "similar_solution_list": "",
-    "licence_list": "",
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
-    "wikipedia_url": "",
-    "reference_list": [{
+		}],
+		"success_case_list": ""
+	}, {
+		"title": "SmartCoolant",
+		"logo_url": "",
+		"website_url": "https://submer.com/smart-coolant-liquid/",
+		"created_year": "",
+		"description": "a synthetic fluid tailor-made for immersion cooling. It provides great benefits for hardware, humans, the planet.",
+		"category_list": "Cooling",
+		"similar_solution_list": "",
+		"licence_list": "",
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": "yes",
+		"commercial_support_open_source_version": "",
+		"commercial_support_available": "",
+		"wikipedia_url": "",
+		"reference_list": [{
 			"title": "Ingram Micro",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
-      "country": "US",
-     	"industry": "IT"
-    	},{
+			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
+			"country": "US",
+			"industry": "IT"
+		}, {
 			"title": "Green AI",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/GREEN-AI.png",
 			"country": "SE",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "NTC Services AS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NTC-SERVICES.png",
 			"country": "NO",
 			"industry": "IT"
-			},{
-      "title": "Exuvi8",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
-      "country": "UK",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Exuvi8",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
+			"country": "UK",
+			"industry": "IT"
+		}, {
 			"title": "NBM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NBM.png",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "InfraBurst",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/infraburst.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Submerged Cooling solutions",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
-      "country": "NL",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Submerged Cooling solutions",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
+			"country": "NL",
+			"industry": "IT"
+		}, {
 			"title": "Trigonon",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Trigonon.png",
 			"country": "BG",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "IEAISA Ingenieria",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ieaisa.jpg",
 			"country": "ES",
 			"industry": "IT"
-      },{
-      "title": "Exertis",
-      "logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
-      "country": "FR",
-     	"industry": "IT"
-    	},{
+		}, {
+			"title": "Exertis",
+			"logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
+			"country": "FR",
+			"industry": "IT"
+		}, {
 			"title": "Totalinux",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TOTALINUX.png",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Microcomms",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/microcomms.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Sonic Edge",
+		}, {
+			"title": "Sonic Edge",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_sonicedge.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Data Centre",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/datacetreuk.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "FEL Group",
+		}, {
+			"title": "FEL Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/felgroup.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Yonder Cloud",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/yondercloud.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Asanti",
+		}, {
+			"title": "Asanti",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/asanti.jpg",
 			"country": "UK",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "2BM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/2bm.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "2CRSi",
+		}, {
+			"title": "2CRSi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/2crsi.jpg",
 			"country": "FR",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Gassecry",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/gassecry.jpg",
 			"country": "SE",
 			"industry": "IT"
-      },{
-      "title": "Amax",
+		}, {
+			"title": "Amax",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/amax.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "AccessPLUS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Logo_AccessPlus.jpg",
 			"country": "UK",
 			"industry": "IT"
-      },{
-      "title": "Retaam Solutions",
+		}, {
+			"title": "Retaam Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/retaamsolutions.jpg",
 			"country": "SA",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "TD Synnex",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TDSynnex.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "JAIBODSINGH ENERGY LIMITED",
+		}, {
+			"title": "JAIBODSINGH ENERGY LIMITED",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/JAIBODSINGH.jpg",
 			"country": "TT",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Priseda",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-8.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Guyana Technologies Group",
+		}, {
+			"title": "Guyana Technologies Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-7.jpg",
 			"country": "GY",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "PTS Data Center Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/PTS.png",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Air Treatment Corporation",
+		}, {
+			"title": "Air Treatment Corporation",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ATC.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Cancom",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-6.jpg",
 			"country": "DE",
 			"industry": "IT"
-      },{
-      "title": "Hypertec",
+		}, {
+			"title": "Hypertec",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/hypertec.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Adacen",
+		}, {
+			"title": "Adacen",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ADACEN.jpg",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "north american systems international",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "i4DM",
+		}, {
+			"title": "i4DM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/i4DM.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "ASA Computers",
+		}, {
+			"title": "ASA Computers",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_asa.png",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "PTI Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-9.jpg",
 			"country": "CA",
 			"industry": "IT"
-      },{
-	    "title": "Rahi",
+		}, {
+			"title": "Rahi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg",
 			"country": "US",
 			"industry": "IT"
-      },{
-      "title": "Mark III systems",
+		}, {
+			"title": "Mark III systems",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg ",
 			"country": "US",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "Utech Global",
 			"logo_url": "https://submer.com/wp-content/uploads/2022/04/utech-global-logo.png",
 			"country": "SG",
 			"industry": "IT"
-      },{
-      "title": "Lambda Greentech",
+		}, {
+			"title": "Lambda Greentech",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-11.jpg",
 			"country": "MY",
 			"industry": "IT"
-      },{
-      "title": "Open Computing Singapore",
+		}, {
+			"title": "Open Computing Singapore",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-16.png",
 			"country": "SG",
 			"industry": "IT"
-			},{
+		}, {
 			"title": "The Engineering Factory",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/the-engineering-factory.jpg",
 			"country": "AU",
 			"industry": "IT"
-			}],
-    "success_case_list": ""
-  }]
+		}],
+		"success_case_list": ""
+	}]
 }
