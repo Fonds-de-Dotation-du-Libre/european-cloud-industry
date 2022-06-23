@@ -21,7 +21,7 @@
 		"staff": "25",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "458110000€",
+		"revenues": "458 110 000 EUR",
 		"source_url": "https://www.zoominfo.com/c/ag-projects-llc/445933980"
 	}],
 	"solution_list": [{
@@ -49,9 +49,9 @@
 		"source_code_download": "https://github.com/AGProjects/sylk-mobile",
 		"source_code_profile": "",
 		"commercial_support_url": "https://sylkserver.com/contact/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
