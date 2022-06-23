@@ -23,7 +23,7 @@
     "website_url": "https://signal18.io/products/srm",
     "created_year": "2015",
     "description": "REPLICATION MANAGER is an orchestrator for high availability on top of MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies. Including topology detection and topology monitoring, enabling on-demand slave to master promotion (also known as switchover), or electing a new master on failure detection (also known as failover). It enforces best practices to get at a minimum up to zero loss in most failure cases.",
-    "category_list": ["cloud computing"],
+    "category_list": ["Developer Environment", "Cybersecurity"],
     "similar_solution_list": [{
       "title": "OneTrust",
       "similiar_solution_url": "https://www.onetrust.com/",
@@ -33,9 +33,9 @@
     "source_code_download": "https://github.com/signal18/replication-manager",
     "source_code_profile": "https://www.openhub.net/p/replication-manager/analyses/latest/languages_summary",
     "commercial_support_url": "https://signal18.io/contact-us",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": "",
     "success_case_list": ""
