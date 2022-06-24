@@ -29,28 +29,28 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Virtual_private_server",
     "reference_list": "",
     "success_case_list": [{
       "title": "use case",
       "description": "/e/ (formerly Eelo) is a free and open-source Android-based mobile operating system and associated online services. E.foundation uses Rapid.Space VPS to build system images of e.OS for all the phones they support. A single VPS can run countless Docker containers at the same time, each with a different build. The key advantages of Rapid.Space for this application are: high performance, fair price, open hardware.",
       "image_url": "https://www.rapid.space/RS2-Website-Partner.Logo.E.Foundation?display=thumbnail&format=png&quality=0.9",
-      "industry": "IT services",
+      "industry": "Information Technology",
       "customer": "e.foundation",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
       "description": "Bip&Go is a French company, subsidiary of the Sanef group, in charge of marketing Liber-t electronic toll subscriptions, contract management and after-sales service. Rapid.Space VPS provides big servers for disaster recovery.",
       "image_url": "https://www.rapid.space/RS2-Website-Partner.Logo.Bip.And.Go?display=thumbnail&format=png&quality=0.9",
-      "industry": "Freight Transportation Arrangement",
+      "industry": "Transportation",
       "customer": "BIP&GO",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
@@ -65,9 +65,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Content_delivery_network",
     "reference_list": "",
     "success_case_list": [{
@@ -77,7 +77,7 @@
       "industry": "Household Appliances and Electrical and Electronic Goods",
       "customer": "SELTECH",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -86,7 +86,7 @@
       "industry": "Freight Transportation Arrangement",
       "customer": "BIP&GO",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
@@ -101,9 +101,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Software-defined_networking",
     "reference_list": "",
     "success_case_list": [{
@@ -113,7 +113,7 @@
       "industry": "Household Appliances and Electrical and Electronic Goods",
       "customer": "SELTECH",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
        },{
       "title": "use case",
@@ -122,7 +122,7 @@
       "industry": "Freight Transportation Arrangement",
       "customer": "BIGO&GO",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
        },{
       "title": "use case",
@@ -131,7 +131,7 @@
       "industry": "Aerospace",
       "customer": "C-Astral",
       "country": "SI",
-      "language": "sl",
+      "language": "SL",
       "success_case_url": "https://www.rapid.space/products/"
        }]
     },{
@@ -140,15 +140,15 @@
     "website_url": "https://www.rapid.space/products/ors",
     "created_year": "",
     "description": "A plug-and-play autonomous base station for private 4G/5G edge-enabled networks.",
-    "category_list": "radio network",
+    "category_list": ["Networking"],
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": "",
     "success_case_list": [{
@@ -158,7 +158,7 @@
       "industry": "Telecom",
       "customer": "Viettel Group",
       "country": "VN",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
@@ -167,15 +167,15 @@
     "website_url": "https://www.rapid.space/products/bdh",
     "created_year": "",
     "description": "A data hub platform for data engineering, AI and transactional applications. Rapid.Space BDH is a single platform which supports all data needs including high performance relational store, distributed object store, metadata management and recurring data processing tasks",
-    "category_list": ["big data hub"],
+    "category_list": ["Big Data Hub"],
     "similar_solution_list": "",
     "licence_list": "",
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": "",
     "success_case_list": [{
@@ -185,7 +185,7 @@
       "industry": "Public infrastructure",
       "customer": "City of Munich",
       "country": "DE",
-      "language": "de",
+      "language": "DE",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
@@ -200,9 +200,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Progressive_web_application",
     "reference_list": "",
     "success_case_list": [{
@@ -212,7 +212,7 @@
       "industry": "IT",
       "customer": "Mynij",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
@@ -227,9 +227,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": "",
     "success_case_list": [{
@@ -239,7 +239,7 @@
       "industry": "Public infrastructures",
       "customer": "City of Munich",
       "country": "DE",
-      "language": "de",
+      "language": "DE",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -248,7 +248,7 @@
       "industry": "Software",
       "customer": "Nexedi SA",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -257,7 +257,7 @@
       "industry": "Freight Transportation Arrangement",
       "customer": "BIP&GO",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -266,7 +266,7 @@
       "industry": "Aerospace",
       "customer": "C-Astral",
       "country": "SI",
-      "language": "sl",
+      "language": "SL",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
@@ -281,9 +281,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Point_of_delivery_(networking)#:~:text=A%20point%20of%20delivery%2C%20or,and%20manageability%20of%20data%20centers.%22",
     "reference_list": "",
     "success_case_list": [{
@@ -293,7 +293,7 @@
       "industry": "Electronics",
       "customer": "Accton",
       "country": "TW",
-      "language": "zh",
+      "language": "ZH",
       "success_case_url": "https://www.rapid.space/products/"
     },{
       "title": "use case",
@@ -302,7 +302,7 @@
       "industry": "IT services",
       "customer": "Teralab",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rapid.space/products/"
     }]
   }]
