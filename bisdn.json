@@ -15,7 +15,7 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.bisdn.de/",
-	"founded_year": "",
+	"founded_year": null,
 	"kpi_list": [{
 		"year": 2020,
 		"staff": null,
