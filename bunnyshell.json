@@ -16,12 +16,12 @@
   "subsidiary_location_list": [],
   "website_url": "https://www.bunnyshell.com/",
   "founded_year": "2018",
-  "kpi_list": "",
+  "kpi_list": [""],
   "solution_list": [{
     "title": "Bunnyshell",
     "logo_url": "https://www.bunnyshell.com/images/bunnyshell_logo.svg",
     "website_url": "https://www.bunnyshell.com/",
-    "created_year": "",
+    "created_year": null,
     "description": "Bunnyshell is an Environments as a Service platform that makes it incredibly easy to create and manage full-stack environments for development, staging and production so your team can deliver software faster and focus on building great products. ",
     "category_list": ["Application"],
     "similar_solution_list": [{
@@ -37,9 +37,9 @@
     "source_code_download": "",
     "source_code_profile": "https://github.com/bunnyshell/qa-assignment.git",
     "commercial_support_url": "https://www.bunnyshell.com/pricing/",
-    "floss_software": "no",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "Yes",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [""],
     "success_case_list": [""]
