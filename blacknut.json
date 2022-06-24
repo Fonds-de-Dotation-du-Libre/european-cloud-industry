@@ -15,12 +15,12 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.blacknut.biz/",
-  "founded_year": "2016",
+  "founded_year": 2016,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "11",
+    "year": 2020,
+    "staff": 11,
     "earnings": "",
-    "total_assets": "4788311€",
+    "total_assets": "4788311 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/"
   }],
@@ -28,7 +28,7 @@
     "title": "Blacknut",
     "logo_url": "https://images.blacknut.com/website/brand/horizontal-logotype.png",
     "website_url": "https://www.blacknut.com/fr/deeplink/welcome",
-    "created_year": "2016",
+    "created_year": 2016,
     "description": " Blacknut is the world's leading pure player cloud gaming service, withe a hybrid public-private cloud architecture, that has Blacknut Wikipédiathe largest catalogue of premium games for the whole family, all included in a monthly subscription.",
     "category_list": ["Application"],
     "similar_solution_list": [{
@@ -40,9 +40,9 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://profile.blacknut.com/fr/register",
-    "floss_software": "No",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "No",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
