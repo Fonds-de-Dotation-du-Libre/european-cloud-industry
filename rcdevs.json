@@ -20,29 +20,29 @@
     "year": "2019",
     "staff": "",
     "earnings": "",
-    "total_assets": "4568705€",
-    "revenues": "838814€",
+    "total_assets": "4 568 705 EUR",
+    "revenues": "838 814 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
     "year": "2018",
     "staff": "",
     "earnings": "",
-    "total_assets": "2741166€",
-    "revenues": "134124€",
+    "total_assets": "2 741 166 EUR",
+    "revenues": "134 124 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
     "year": "2017",
     "staff": "",
     "earnings": "",
-    "total_assets": "1851519€",
-    "revenues": "378661€",
+    "total_assets": "1 851 519 EUR",
+    "revenues": "378 661 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
     "year": "2016",
     "staff": "",
     "earnings": "",
-    "total_assets": "1348799€",
-    "revenues": "210658€",
+    "total_assets": "1 348 799 EUR",
+    "revenues": "210 658 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   }],
   "solution_list": [{
@@ -51,7 +51,19 @@
     "website_url": "https://www.rcdevs.com/products/openotp/",
     "created_year": "",
     "description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
-    "category_list": ["Identity"]
+    "category_list": ["Identity"],
+    "similar_solution_list": [{
+      "title": "",
+      "similiar_solution_url": "",
+      "category": ""
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "https://www.rcdevs.com/fr/downloads/",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.rcdevs.com/store/",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
   },{
     "title": "SpanKey SSH Key Server Management",
     "logo_url": "",
@@ -59,6 +71,13 @@
     "created_year": "",
     "description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
     "category_list": ["Identity"]
+    "licence_list": ["Proprietary"],
+    "source_code_download": "https://www.rcdevs.com/fr/downloads/",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.rcdevs.com/store/",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
   },{
     "title": "WebADM Control Center",
     "logo_url": "",
@@ -95,9 +114,9 @@
     "source_code_download": "https://www.rcdevs.com/fr/downloads/",
     "source_code_profile": "",
     "commercial_support_url": "https://www.rcdevs.com/store/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "Oracle",
