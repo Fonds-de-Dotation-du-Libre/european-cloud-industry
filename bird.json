@@ -1,12 +1,12 @@
 {
 	"created": "07-04-2022",
 	"title": "Bird Internet Routine daemon",
-	"type": "University project",
+	"type": "other",
 	"logo_url": "http://www.bgpexpert.com/images/bird.png",
 	"location": {
 		"title": " Faculty of Mathematics and Physics, Charles University, Prague",
 		"address": "Ke Karlovu 2027/3",
-		"postal_code": "121 16",
+		"postal_code": "12116",
 		"city": "Nové Město",
 		"country": "CZ",
 		"phone_contact": "+420 221 911 111",
@@ -15,57 +15,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://bird.network.cz/",
-	"founded_year": "2000",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"founded_year": 2000,
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "The BIRD Internet Routing Daemon",
 		"logo_url": "http://www.bgpexpert.com/images/bird.png",
 		"website_url": "https://bird.network.cz/",
-		"created_year": "2000",
+		"created_year": 2000,
 		"description": "The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "FRRouting",
@@ -88,9 +45,9 @@
 		"source_code_download": "https://github.com/CZ-NIC/bird",
 		"source_code_profile": "https://gitlab.nic.cz/labs/bird",
 		"commercial_support_url": "https://bird.network.cz/?support",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Bird_Internet_routing_daemon",
 		"reference_list": [{
 			"title": "",
