@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.circl.lu/",
-  "founded_year": "2008",
+  "founded_year": 2008,
   "kpi_list": [],
   "solution_list": [{
     "title": "MISP Project - Open Source Threat Intelligence and Sharing Platform",
     "logo_url": "https://www.misp-project.org/img/logo.png",
     "website_url": "https://www.misp-project.org/",
-    "created_year": "2011",
+    "created_year": 2011,
     "description": " MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis.",
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
@@ -37,9 +37,9 @@
     "source_code_download": "https://github.com/CIRCL/misp-darwin.git",
     "source_code_profile": "https://www.openhub.net/p/MISPProject/analyses/latest/languages_summary",
     "commercial_support_url": "",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "No",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malware_Information_Sharing_Platform",
     "reference_list": [],
     "success_case_list": []
