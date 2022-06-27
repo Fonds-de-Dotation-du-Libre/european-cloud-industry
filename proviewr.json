@@ -19,36 +19,36 @@
   "kpi_list": [{
     "year": "2020",
     "staff": "13974",
-    "earnings": "6223515€",
-    "total_assets": "8432308€",
+    "earnings": "6 658 600 934 SEK",
+    "total_assets": "9 021 810 652 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   }, {
     "year": "2019",
     "staff": "14514",
-    "earnings": "7282730€",
-    "total_assets": "8949408€",
+    "earnings": "7 791 865 654 SEK",
+    "total_assets": "9 575 061 113 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
     "year": "2018",
     "staff": "15223",
-    "earnings": "7135784€",
-    "total_assets": "8804873€",
+    "earnings": "7 634 646 659 SEK",
+    "total_assets": "9 420 421 671 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
     "year": "2017",
     "staff": "14925",
-    "earnings": "6290051€",
-    "total_assets": "8327820€",
+    "earnings": "6 729 788 465 SEK",
+    "total_assets": "8 910 017 896 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
     "year": "2016",
     "staff": "14980",
-    "earnings": "5270735€",
-    "total_assets": "8657428€",
+    "earnings": "5 639 212 084 SEK",
+    "total_assets": "9 262 668 791 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   }],
@@ -69,9 +69,9 @@
     "source_code_download": "https://sourceforge.net/projects/proview/files/proview/",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "",
