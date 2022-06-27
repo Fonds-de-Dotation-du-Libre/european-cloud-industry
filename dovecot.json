@@ -15,58 +15,15 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.dovecot.org/",
-	"founded_year": "2002",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "31",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "459690000€",
-		"source_url": "https://www.zoominfo.com/c/dovecot-oy/398264843"
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"founded_year": 2002,
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Dovecot",
 		"logo_url": "https://www.dovecot.org/wp-content/uploads/2021/09/dovecot_logo.png",
 		"website_url": "https://www.dovecot.org/",
-		"created_year": "",
-		"description": "Dovecot is an open-source IMAP and POP3 server for Unix-like operating systems, written primarily with security in mind. Timo Sirainen originated Dovecot and first released it in July 2002. Dovecot developers primarily aim to produce a lightweight, fast and easy-to-set-up open-source email server.",
-		"Solution type": "Hardware",		
-		"category_list": ["Servers"],
+		"created_year": null,
+		"description": "Dovecot is an open-source IMAP and POP3 server for Unix-like operating systems, written primarily with security in mind. Timo Sirainen originated Dovecot and first released it in July 2002. Dovecot developers primarily aim to produce a lightweight, fast and easy-to-set-up open-source email server.",		
+		"category_list": ["Server"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -76,9 +33,9 @@
 		"source_code_download": "https://github.com/dovecot",
 		"source_code_profile": "https://www.openhub.net/p/dovecot",
 		"commercial_support_url": "https://www.dovecot.org/support/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Dovecot_(software)",
 		"reference_list": [{
 			"title": "",
