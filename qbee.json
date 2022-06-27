@@ -23,7 +23,7 @@
     "website_url": "https://qbee.io/iot-configuration-management/",
     "created_year": "",
     "description": "IoT configuration management for Linux, with built-in automations to handle all needs (passwords, updates, NTP servers, forewall, etc.) and can be accessed through a Rest API",
-    "category_list": ["IoT and INdustrial"],
+    "category_list": ["IoT and Industrial"],
     "similar_solution_list": [{
       "title": "",
       "similiar_solution_url": "",
@@ -33,9 +33,9 @@
     "source_code_download": "https://github.com/qbee-io/software-management-action.git",
     "source_code_profile": "https://www.openhub.net/p/qbee/analyses/latest/languages_summary",
     "commercial_support_url": "https://qbee.io/pricing/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "",
