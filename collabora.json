@@ -16,40 +16,40 @@
 		"mail_contact": "hello@collaboraoffice.com",
 		"coordinate_list": [52.23426739352286, 0.15209271400327157]
 	},
-	"founded_year": "2005",
+	"founded_year": 2005,
 	"kpi_list": [{
-		"year": "2020",
-		"staff": "26",
+		"year": 2020,
+		"staff": 26,
 		"earnings": "",
-		"total_assets": "5337332€",
+		"total_assets": "5337332 EUR",
 		"revenues": "",
 		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
-		"year": "2019",
-		"staff": "23",
+		"year": 2019,
+		"staff": 23,
 		"earnings": "",
-		"total_assets": "4624715€",
+		"total_assets": "4624715 EUR",
 		"revenues": "",
 		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
-		"year": "2018",
-		"staff": "21",
+		"year": 2018,
+		"staff": 21,
 		"earnings": "",
-		"total_assets": "4065455€",
+		"total_assets": "4065455 EUR",
 		"revenues": "",
 		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
-		"year": "2017",
-		"staff": "23",
+		"year": 2017,
+		"staff": 23,
 		"earnings": "",
-		"total_assets": "2778094€",
+		"total_assets": "2778094 EUR",
 		"revenues": "",
 		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}, {
-		"year": "2016",
-		"staff": "23",
+		"year": 2016,
+		"staff": 23,
 		"earnings": "",
-		"total_assets": "2211150€",
+		"total_assets": "2211150 EUR",
 		"revenues": "",
 		"source_url": "https://find-and-update.company-information.service.gov.uk/"
 	}],
@@ -57,7 +57,7 @@
 		"title": "Collabora Office",
 		"logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png",
 		"website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
-		"created_year": "2013",
+		"created_year": 2013,
 		"description": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects.",
 		"category_list": ["Workspace","Application"],
 		"similar_software_list": [{
@@ -89,9 +89,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Collabora",
 		"reference_list": [{
 			"title": "Adfinis",
@@ -113,7 +113,7 @@
 		"title": "Collabora Online",
 		"logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
 		"website_url": "https://www.collaboraoffice.com/collabora-online/",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
@@ -141,9 +141,9 @@
 		"source_code_download": "https://github.com/CollaboraOnline/online.git",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "Yes",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Collabora",
 		"reference_list": [{
 			"title": "D-Wave Systems",
@@ -173,7 +173,7 @@
 		}, {
 			"title": "CERN",
 			"logo_url": "https://home.cern/sites/default/files/logo/cern-logo.png",
-			"country": ["CH", "FR"],
+			"country": "CH",
 			"industry": "Academia and Research"
 		}, {
 			"title": "European Pirate Party",
