@@ -21,7 +21,7 @@
 		"staff": "28",
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "459695000€",
+		"revenues": "459 695 000 EUR",
 		"source_url": "https://www.zoominfo.com/c/powerdnscom-bv/352141078"
 	}],
 	"solution_list": [{
@@ -54,9 +54,9 @@
 		"source_code_download": "https://github.com/PowerDNS/pdns.git",
 		"source_code_profile": "https://www.openhub.net/p/powerdns/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.powerdns.com/contact.html",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PowerDNS",
 		"reference_list": [{
 			"title": "T-Mobile Czech Republic",
@@ -186,9 +186,9 @@
 		"source_code_download": "https://github.com/PowerDNS/",
 		"source_code_profile": "https://www.openhub.net/p/powerdns",
 		"commercial_support_url": "https://www.powerdns.com/contact.html",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PowerDNS",
 		"reference_list": [{
 			"title": "",
