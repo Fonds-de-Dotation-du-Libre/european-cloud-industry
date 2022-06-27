@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "Blacknut",
-  "type": "Corporation",
+  "type": "company",
   "logo_url": "https://www.blacknut.com/assets/logo/blacknut.svg",
   "location": {
     "title": "Blacknut",
@@ -29,7 +29,7 @@
     "logo_url": "https://images.blacknut.com/website/brand/horizontal-logotype.png",
     "website_url": "https://www.blacknut.com/fr/deeplink/welcome",
     "created_year": 2016,
-    "description": " Blacknut is the world's leading pure player cloud gaming service, withe a hybrid public-private cloud architecture, that has Blacknut Wikipédiathe largest catalogue of premium games for the whole family, all included in a monthly subscription.",
+    "description": " Blacknut is the world's leading pure player cloud gaming service, with a hybrid public-private cloud architecture, that has Blacknut Wikipédiathe largest catalogue of premium games for the whole family, all included in a monthly subscription.",
     "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Stadia",
