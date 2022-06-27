@@ -15,32 +15,32 @@
 	},
 	"subsidiary_location_list": ["AU", "BE", "BR", "DE", "ES", "IN", "US"],
 	"website_url": "https://www.ekinops.com/",
-	"founded_year": "2003",
+	"founded_year": 2003,
 	"kpi_list": [{
-		"year": "2020",
-		"staff": "73",
-		"earnings": "29 353 000 €",
+		"year": 2020,
+		"staff": 73,
+		"earnings": "29 353 000 EUR",
 		"total_assets": "",
-		"revenues": "3 242 000 €",
+		"revenues": "3 242 000 EUR",
 		"source_url": "https://www.societe.com/bilan/ekinops-444829592202012311.html"
 	}, {
-		"year": "2019",
-		"staff": "68",
-		"earnings": "24 770 000 €",
+		"year": 2019,
+		"staff": 68,
+		"earnings": "24770000 EUR",
 		"total_assets": "",
-		"revenues": "1 491 000 €",
+		"revenues": "1491000 EUR",
 		"source_url": "https://www.societe.com/bilan/ekinops-444829592202012311.html"
 	}, {
-		"year": "2018",
-		"staff": "68",
-		"earnings": "21 839 000 €",
+		"year": 2018,
+		"staff": 68,
+		"earnings": "21839000 EUR",
 		"total_assets": "",
-		"revenues": "689 000 €",
+		"revenues": "689000 EUR",
 		"source_url": "https://www.societe.com/bilan/ekinops-444829592202012311.html"
 	}, {
-		"year": "2017",
-		"staff": "72",
-		"earnings": "16 936 200 €",
+		"year": 2017,
+		"staff": 72,
+		"earnings": "16936200 EUR",
 		"total_assets": "",
 		"revenues": "",
 		"source_url": "https://www.societe.com/bilan/ekinops-444829592202012311.html"
@@ -49,77 +49,227 @@
 		"title": "Ekinops360",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/ekinops360",
-		"created_year": "",
+		"created_year": null,
 		"description": "Ekinops360 provides multi-rate, multi-reach coherent optical transport and multi-level OTN switching combined with advanced management functionality capable of addressing any transport application from ultra-long haul to mobile Xhaul and everything in between.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OneAccess",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/oneaccess",
-		"created_year": "",
+		"created_year": null,
 		"description": "Through its OneAccess brand, Ekinops delivers network functions enabling Cloud and other managed services to SMB and enterprise customers around the world.  These functions are available in different form factors or packages. Service providers can select and combine these network functions in an open and flexible manner.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Compose",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/compose",
-		"created_year": "",
+		"created_year": null,
 		"description": "Compose supports service providers in making their networks software-defined with a variety of software management tools and services, including the scalable SD-WAN Xpress. As service providers embrace SDN and NFV deployment models, Ekinops enables future-proofed deployment today, enabling operators to seamlessly migrate to an open, virtualized delivery model at a time of their choosing.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OneOS6",
 		"logo_url": "https://www.ekinops.com/images/2021/01/21/oneos6link.png",
 		"website_url": "https://www.ekinops.com/products-services/products/compose/oneos6",
-		"created_year": "",
+		"created_year": null,
 		"description": "OneOS6 is the modular software solution that enables a range of built-in services to be activated remotely and on-demand for the OneOS6 product range. It allows Service Providers to deliver innovative and high value business services to their customers.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "SD-WAN",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/compose/sd-wan",
-		"created_year": "",
+		"created_year": null,
 		"description": "The Ekinops SD-WAN solution is an evolution rather than a revolution, Service providers can rapidly transform their traditional CPE router portfolio into a full-fledged SD-WAN solution and deliver unprecedented automation and visibility to their customers within a simple licence upgrade.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "WDM Transport",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/ekinops360/wdm",
-		"created_year": "",
+		"created_year": null,
 		"description": "Modular or stackable, active or passive, Ekinops WDM transport systems deliver the flexible capacity today’s networks need while providing a future proof platform to meet the next-generation of demand.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "ETS Compact",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/ekinops360/otn/ets-compact",
-		"created_year": "",
+		"created_year": null,
 		"description": "The ETS Compact Chassis extend the combined power of OTN and WDM to the network edge.  Using advanced next-gen silicon, these small form factor solutions provide high capacity ODUk switching with the same agnostic cell-based fabric capable of switching both frames and packets as the larger ETSc-6. It also leverages the same software for unified management and control including the ASON-based control plane that provides automated provisioning as well as protection and restoration.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Ethernet Access Devices",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/oneaccess/ethernet-access-devices",
-		"created_year": "",
+		"created_year": null,
 		"description": "OneAccess Ethernet Access Devices are carrier-grade, MEF-compliant access platforms. These flexible and future-proof platforms based make a comprehensive product range for Ethernet Access over Copper or Fiber.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "uCPE - Universal Customer Premises Equipment",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/oneaccess/ucpe",
-		"created_year": "",
+		"created_year": null,
 		"description": "The uCPE or whitebox is the hardware on which the virtualization solution is built. It provides the resources for computation, storage and networking. Ekinops adopts a completely open approach for the support of these x86 based platforms.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Voice and Data Routers",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/oneaccess/voice-data-routers",
-		"created_year": "",
+		"created_year": null,
 		"description": "The ONE voice and data router series provides an unrivaled choice of routers to enable voice, data and services in Small Office & Branch office and for Mid to large enterprise.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Management Platforms",
 		"logo_url": "",
 		"website_url": "https://www.ekinops.com/products-services/products/compose/management-platforms",
-		"created_year": "",
+		"created_year": null,
 		"description": "In converged, next generation networks and while migrating from static to dynamic services, the need of monitoring and automation is increasing. Whether in Optical transport, Routing and switching, NFV or Software Defined layers, management is an essential element of the delivered solutions.",
 		"category_list": ["Information Technology"],
 		"similar_solution_list": [{
@@ -131,9 +281,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "No",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
