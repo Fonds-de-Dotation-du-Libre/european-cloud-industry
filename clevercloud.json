@@ -592,7 +592,7 @@
 		"title": "Runtime Rust",
 		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/rust.svg",
 		"website_url": "https://www.clever-cloud.com/rust-hosting/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Deploy your Rust applications",
 		"category_list": ["developer environment"],
 		"similar_solution_list": [{
