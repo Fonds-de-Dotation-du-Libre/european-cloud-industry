@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-15",
 	"title": "DeepL",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
 	"headquarter_country": "DE",
 	"location": {
@@ -16,33 +16,33 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.deepl.com/translator",
-	"founded_year": "2017",
+	"founded_year": 2017,
 	"kpi_list": [{
-		"year": "2020",
-		"staff": "",
+		"year": 2020,
+		"staff": null,
 		"earnings": "",
-		"total_assets": "21579422€",
+		"total_assets": "21579422 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de"
 	}, {
-		"year": "2019",
-		"staff": "",
+		"year": 2019,
+		"staff": null,
 		"earnings": "",
-		"total_assets": "16969363€",
+		"total_assets": "16969363 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
-		"year": "2018",
-		"staff": "",
+		"year": 2018,
+		"staff": null,
 		"earnings": "",
-		"total_assets": "14025004€",
+		"total_assets": "14025004 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
-		"year": "2017",
-		"staff": "",
+		"year": 2017,
+		"staff": null,
 		"earnings": "",
-		"total_assets": "4830110€",
+		"total_assets": "4830110 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}],
@@ -50,13 +50,13 @@
 		"title": "DeepL Translator",
 		"logo_url": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
 		"website_url": "https://www.deepl.com/translator",
-		"created_year": "2017",
+		"created_year": 2017,
 		"description": "Free IA-based translator that makes it the most efficient web translator. Available in 26 languages it performs several times better than its competitors.",
 		"category_list": ["Information Technology"],
 		"similar_solutions_list": [{
 			"title": "Google Translate",
 			"similiar_solutio_url": "https://translate.google.com",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Reverso",
 			"similiar_solution_url": "https://www.reverso.net/text-translation",
@@ -79,37 +79,36 @@
 			"category": "Application"
 		}],
 		"licence_list": ["MIT"],
-		"source_code_download": "NO",
-		"source_code_profile": "NO",
+		"source_code_download": "",
+		"source_code_profile": "",
 		"commercial_support_url": "https://www.deepl.com/pro?cta=header-prices",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
 		"reference_list": [],
-		"success_case_list": [],
-		"solution_list": [{
-			"title": "DeepL Pro",
-			"logo_url": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
-			"website_url": "https://www.deepl.com/pro?cta=header-pro",
-			"created_year": "2018",
-			"description": "IA-based translator thought for companies, allowing the secured translation of entire documents, customizable to better fit the requirements and vocabulary of each company.",
-			"category_list": ["Information Technology"],
-			"similar_solution_list": [{
-				"title": "Memoq",
-				"similiar_solution_url": "https://www.memoq.com/",
-				"category": "Information Technology"
-			}],
-			"licence_list": ["MIT"],
-			"source_code_download": "",
-			"source_code_profile": "",
-			"commercial_support_url": "https://www.deepl.com/fr/pro?cta=header-prices/",
-			"floss_software": "",
-			"commercial_support_open_source_version": "No",
-			"commercial_support_available": "Yes",
-			"wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
-			"reference_list": [],
-			"success_case_list": []
+		"success_case_list": []
+	},{
+		"title": "DeepL Pro",
+		"logo_url": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
+		"website_url": "https://www.deepl.com/pro?cta=header-pro",
+		"created_year": 2018,
+		"description": "IA-based translator thought for companies, allowing the secured translation of entire documents, customizable to better fit the requirements and vocabulary of each company.",
+		"category_list": ["Information Technology"],
+		"similar_solution_list": [{
+			"title": "Memoq",
+			"similiar_solution_url": "https://www.memoq.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["MIT"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.deepl.com/fr/pro?cta=header-prices/",
+		"floss_software": null,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
+		"reference_list": [],
+		"success_case_list": []
 		}]
-	}]
 }
