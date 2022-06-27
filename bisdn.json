@@ -128,7 +128,7 @@
 		"title": "Whitebox OLT",
 		"logo_url": "https://www.bisdn.de/wp-content/themes/bisdn2.1/images/logo_230x78-middle.png",
 		"website_url": "https://www.bisdn.de/#carriersolutions",
-		"created_year": "",
+		"created_year": null,
 		"description": "In our capacity as Certified Integration Partner (CIP) for Tibit Communications, we have set up a lab in Berlin. Here we are showcasing the interoperability of the pluggable OLTs (Optical Line Terminals) with various switch platforms and with ONUs (Optical Network Units)",
 		"category_list": ["Switch"],
 		"similar_solution_list": [{
@@ -140,9 +140,9 @@
 		"source_code_download": "https://github.com/bisdn",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": null,
+		"commercial_support_open_source_version": null,
+		"commercial_support_available": null,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
