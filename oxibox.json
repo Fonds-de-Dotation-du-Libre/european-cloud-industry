@@ -18,24 +18,64 @@
 	"founded_year": "2014",
 	"kpi_list": [],
 	"solution_list": [{
-		"title": "Oxibox Plug and Protect",
-		"logo_url": "",
-		"website_url": "",
+		"title": "Oxibox Resilient Storage",
+		"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
+		"website_url": "https://www.oxibox.com/en/solutions/resilient-storage.php",
 		"created_year": "",
-		"description": "",
-		"category_list": [],
+		"description": "Oxibox Resilient Storage plugs into your existing storage and Data Protection infrastructure to make backups immutable, protecting them from corruption by attackers. There's no need to overhaul your whole backup infrastructure: simply plug Oxibox Resilient Storage at the storage level. Your data silos are protected from malicious write operations thanks to our patented technology: historical snapshots are never write-accessible.",
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
+			"title": "EaseUs Todo Backup",
+			"similiar_solution_url": "https://www.easeus.fr/logiciel-de-sauvegarde/index.html",
+			"category": "Storage and database"
+		}, {
+			"title": "Storeware",
+			"similiar_solution_url": "https://storware.eu/",
+			"category": "Storage and database"
+		}, {
+			"title": "Carbonite",
+			"similiar_solution_url": "https://www.carbonite.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Datto Cloud Continuity",
+			"similiar_solution_url": "https://www.datto.com/products/cloud-continuity/",
+			"category": "Storage and database"
+		}, {
+			"title": "IDrive",
+			"similiar_solution_url": "https://www.idrive.com/fr/",
+			"category": "Storage and database"
+		}, {
+			"title": "StorCentric Retrospect",
+			"similiar_solution_url": "https://storcentric.com/our-products/on-premises-cloud-backup/retrospect/",
+			"category": "Storage and database"
+		}, {
+			"title": "SafeStore",
+			"similiar_solution_url": "http://safestor.fr/",
+			"category": "Storage and database"
+		}, {
+			"title": "Catalogic DPX",
+			"similiar_solution_url": "https://solutionsreview.com/backup-disaster-recovery/catalogic-dpx/",
+			"category": "Storage and database"
+		}, {
+			"title": "Xopero",
+			"similiar_solution_url": "https://xopero.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Commvault Backup & Recovery",
+			"similiar_solution_url": "https://www.commvault.com/complete-data-protection/backup-and-recovery",
+			"category": "Storage and database"
+		}, {
+			"title": "Bocada",
+			"similiar_solution_url": "https://www.bocada.com/",
+			"category": "Storage and database"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
@@ -54,42 +94,52 @@
 			"success_case_url": ""
 		}]
 	}, {
-		"solution_list": [{
+		"title": "Oxibox Plug-and-Protect",
+		"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
+		"website_url": "https://www.oxibox.com/en/solutions/oxibox-fireproof.php",
+		"created_year": "",
+		"description": "Back up all data to a certified fireproof and waterproof backup server. The Oxibox Fireproof hardware is certified to withstand temperatures up to 850°C as well as a 3-meter immersion during 48 hours in freshwater and saltwater. From 1 to 120 TB, the Oxibox hardware is designed to withstand industrial disasters. Disaster recovery time is optimised thanks to the local availability of data on this hardened server. The hardware can resist to physical damages while the embedded Oxibox software ensuires it can resist to all cyberattacks!",
+		"category_list": ["Cybersecurity"],
+		"similar_solution_list": [{
+			"title": "SpinOne",
+			"similiar_solution_url": "https://spintechnologies.net/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "Acronis Cyber Backup",
+			"similiar_solution_url": "https://www.acronis.com/en-us/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "BackupAssist",
+			"similiar_solution_url": "https://www.backupassist.com/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "Commvault Complete Data Protection",
+			"similiar_solution_url": "https://www.commvault.com/complete-data-protection",
+			"category": "Cybersecurity"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [{
 			"title": "",
 			"logo_url": "",
-			"website_url": "",
-			"created_year": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
 			"description": "",
-			"category_list": [],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
-			"licence_list": [],
-			"source_code_download": "",
-			"source_code_profile": "",
-			"commercial_support_url": "",
-			"floss_software": "",
-			"commercial_support_open_source_version": "",
-			"commercial_support_available": "",
-			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
 		}]
 	}]
 }
