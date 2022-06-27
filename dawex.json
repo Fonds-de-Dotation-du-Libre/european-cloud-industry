@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-06",
 	"title": "Dawex",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://www.dawex.com/hubfs/migration-assets/img/dwx-logo-no-tagline_blue.svg",
 	"location": {
 		"title": "Dawex",
@@ -15,27 +15,67 @@
 	},
 	"subsidiary_location_list": ["CA"],
 	"website_url": "https://www.dawex.com/",
-	"founded_year": "2015",
+	"founded_year": 2015,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Data Exchange Platform",
 		"logo_url": "",
 		"website_url": "https://www.dawex.com/en/data-exchange-platform/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Dawex Data Exchange Platform is a fully customized white-label SaaS platform to distribute, source, commercialize and/or orchestrate data ecosystems. Dawex Data Exchange Platform incorporates a Data Exchange governance model encapsulating control and security, traceability, licensing and regulatory compliance. Operated in managed, distributed or decentralized mode, supporting various data exchange business models (free, subscription, transactional, performance-based).",
-		"category_list": ["Application"]
+		"category_list": ["Application"],
+		"similar_solution_list": [],
+    		"licence_list": ["Proprietary"],
+    		"source_code_download": "",
+    		"source_code_profile": "",
+    		"commercial_support_url": "",
+    		"floss_software": false,
+    		"commercial_support_open_source_version": false,
+    		"commercial_support_available": true,
+   		"wikipedia_url": "",
+    		"reference_list": [],
+    		"success_case_list": [{
+      			"title": "success story",
+      			"description": "Agdatahub has made available a secure data exchange platform to meet the needs of farmers and sectors. This API-AGRO platform aims to guarantee the development of digital agriculture in France and Europe, to help the actors of the agricultural sector to adapt to the market changes and to value the data they collect every day. Agdatahub relies on Dawex Data Exchange technology to operate a secure ecosystem and offer a shared and sovereign platform that allows the European agricultural community to disseminate, exchange, share and value its data",
+      			"image_url": "https://www.dawex.com/hs-fs/hubfs/345-115_customer-success-stories-logo_aag.png?width=200&name=345-115_customer-success-stories-logo_aag.png",
+     		 	"industry": "Information Technology",
+      			"customer": "Agdatahub",
+      			"country": "FR",
+      			"language": "fr",
+     		 	"success_case_url": "https://www.dawex.com/fr/pourquoi-data-exchange/cas-clients/"
+    			},{
+			"title": "success story",
+      			"description": "Since the G20 summit in Osaka in 2019, which promoted Data Free Flow with Trust, Japan has been actively working to define standards and norms to guide data exchange. In September 2020, Kanematsu and Japan Data Exchange launched JDEX, an innovative platform based on Dawex Data Exchange technology that aims to promote secure data exchange in Japan and develop a powerful community of large companies around data.",
+      			"image_url": "https://www.dawex.com/hs-fs/hubfs/345-115_customer-success-stories-logo_jdex.png?width=225&name=345-115_customer-success-stories-logo_jdex.png",
+     		 	"industry": "Information Technology",
+      			"customer": "Japan Data Exchange",
+      			"country": "JP",
+      			"language": "ja",
+     		 	"success_case_url": "https://www.dawex.com/fr/pourquoi-data-exchange/cas-clients/"
+			]
 	}, {
 		"title": "Data Marketplace",
 		"logo_url": "",
 		"website_url": "https://www.dawex.com/en/data-exchange-platform/data-marketplace/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Data marketplace accelerates and facilitates data circulation amongst many stakeholders, allowing them to source, distribute, commercialize and exchange data securely, in full compliance with regulations.",
-		"category_list": ["Storage and Database"]
+		"category_list": ["Storage and Database"],
+		"similar_solution_list": [],
+    		"licence_list": ["Proprietary"],
+    		"source_code_download": "",
+    		"source_code_profile": "",
+    		"commercial_support_url": "",
+    		"floss_software": false,
+    		"commercial_support_open_source_version": false,
+    		"commercial_support_available": true,
+   		"wikipedia_url": "",
+    		"reference_list": [],
+    		"success_case_list": []
 	}, {
 		"title": "Data Hub",
 		"logo_url": "",
 		"website_url": "https://www.dawex.com/en/data-exchange-platform/data-hub/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Facilitate the secure sharing of data and the provision of data-related services to build data partnerships, foster innovation and stimulate value creation.",
 		"category_list": ["Big Data Hub"],
 		"similar_solution_list": [{
@@ -56,18 +96,18 @@
 			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
-		"source_code_download": "No",
-		"source_code_profile": "No",
+		"source_code_download": "",
+		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "No",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Autoroutes Paris-Rhin-Rhône",
 			"logo_url": "https://www.dawex.com/hs-fs/hubfs/aprr-logo.png?width=175&name=aprr-logo.png",
 			"country": "FR",
-			"industry": ["Transport", "Construction"]
+			"industry": "Transport"
 		}, {
 			"title": "Nexity",
 			"logo_url": "https://www.dawex.com/hubfs/nexity-logo.svg",
@@ -84,15 +124,6 @@
 			"country": "FR",
 			"industry": "Public Administration and Government"
 		}],
-		"success_case_list": [{
-			"title": "Agdatahub",
-			"description": "Agdatahub runs its groundbreaking agricultural data exchange on Dawex technology",
-			"image_url": "",
-			"industry": ["Agriculture and Food", "Information Technology", "Public Administration and Government"],
-			"customer": "Agdatahub",
-			"country": "FR",
-			"language": "EN",
-			"success_case_url": "https://info.dawex.com/agdatahub-case-study"
-		}]
+		"success_case_list": []
 	}]
 }
