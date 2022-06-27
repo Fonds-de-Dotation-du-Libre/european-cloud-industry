@@ -15,7 +15,7 @@
   },
   "subsidiary_location_list": ["FI","US"],
   "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
-  "founded_year": "1978",
+  "founded_year": 1978,
   "kpi_list": [{
     "year": "2020",
     "staff": "13974",
