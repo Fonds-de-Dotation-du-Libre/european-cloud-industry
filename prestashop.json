@@ -93,9 +93,9 @@
 		"source_code_download": "https://github.com/PrestaShop/PrestaShop",
 		"source_code_profile": "https://www.openhub.net/p/PrestaShop",
 		"commercial_support_url": "https://www.prestashop.com/en/help",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PrestaShop",
 		"reference_list": [{
 			"title": "",
