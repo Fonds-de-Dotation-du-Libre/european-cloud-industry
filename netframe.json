@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-23",
 	"title": "Netframe.co SAS",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://www.netframe.co/media/site/1750045209-1630959429/logo.jpg",
 	"location": {
 		"title": "Netframe.co SAS",
@@ -15,15 +15,15 @@
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://www.netframe.co/",
-	"founded_year": "2018",
-	"kpi_list": "",
+	"founded_year": 2018,
+	"kpi_list": [""],
 	"solution_list": [{
 		"title": "Netframe",
 		"logo_url": "https://www.netframe.co/media/site/1750045209-1630959429/logo.jpg",
 		"website_url": "https://www.netframe.co/",
-		"created_year": "2018",
+		"created_year": 2018,
 		"description": "Netframe.co develops Netframe, an All-in-One Workplace for everybody to help communication and people getting organised in their projects, organisations or entreprises through new generation documentation and workflow",
-		"category_list": "Workspace",
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Jamespot",
 			"similiar_solution_url": "https://www.fr.jamespot.com/",
@@ -37,13 +37,13 @@
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Workspace"
 		}],
-		"licence_list": "",
+		"licence_list": [""],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": null,
+		"commercial_support_open_source_version": null,
+		"commercial_support_available": null,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Energo",
@@ -61,6 +61,6 @@
 			"country": "FR",
 			"industry": "Associations and NGOs"
 			}]
-		"success_case_list": ""
+		"success_case_list": [""]
 	}]
 }
