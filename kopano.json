@@ -15,57 +15,21 @@
 	},
 	"subsidiary_location_list": ["DE"],
 	"website_url": "https://kopano.com/",
-	"founded_year": "2016",
+	"founded_year": 2016,
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "33",
+		"year": 2021,
+		"staff": 33,
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "5468100€",
+		"revenues": "5468100 EUR",
 		"source_url": "https://rocketreach.co/kopano-bv-profile_b56311dcf9784204"
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
 	}],
 	"solution_list": [{
 		"title": "Kopano Groupware",
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/groupware/",
-		"created_year": "2020",
-		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",
-		"solution type": "software",		
+		"created_year": 2020,
+		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",		
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft 365",
@@ -76,9 +40,9 @@
 		"source_code_download": "https://github.com/Kopano-dev",
 		"source_code_profile": "https://www.openhub.net/p/kopano",
 		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "no",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
 		"reference_list": [{
 			"title": "Limerick City Council",
@@ -115,9 +79,8 @@
 		"title": "Kopano meet",
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/meet/",
-		"created_year": "2019",
+		"created_year": 2019,
 		"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
-		"solution type": "Software",		
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Rocket.Chat",
@@ -128,9 +91,9 @@
 		"source_code_download": "https://github.com/Kopano-dev",
 		"source_code_profile": "https://www.openhub.net/p/kopano",
 		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
 		"reference_list": [{
 			"title": "",
