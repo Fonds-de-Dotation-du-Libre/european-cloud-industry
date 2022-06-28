@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-11",
 	"title": "KeeWeb",
-	"type": "Other",
+	"type": "Individual",
 	"logo_url": "https://keeweb.info/img/logo.png",
 	"location": {
 		"title": "KeeWeb",
@@ -15,13 +15,13 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://keeweb.info",
-	"founded_year": "2016",
+	"founded_year": 2016,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "KeeWeb",
 		"logo_url": "https://keeweb.info/img/logo.png",
 		"website_url": "https://keeweb.info",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "free-cross platform web password manager compatible with KeePass. Coded in Javascript at 80% it doesn't require any server or additional resources. The app can run either in browser, or as a desktop app and consists of a single HTML file",
 		"category_list": [],
 		"similar_solution_list": [{
@@ -45,9 +45,9 @@
 		"source_code_download": "https://antelle.net",
 		"source_code_profile": "https://www.openhub.net/p/keeweb/analyses/latest/languages_summary",
 		"commercial_support_url": "https://opencollective.com/keeweb#support",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "No",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/KeeWeb",
 		"reference_list": [],
 		"success_case_list": []
