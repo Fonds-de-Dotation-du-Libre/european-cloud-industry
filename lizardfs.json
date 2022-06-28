@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "LizardFS",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://lizardfs.com/wp-content/themes/understrap-master/img/logo-white.svg",
   "location": {
     "title": "Distributed FS Sp. z o.o.",
@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://lizardfs.com/",
-  "founded_year": "2013",
+  "founded_year": 2013,
   "kpi_list": [],
   "solution_list": [{
     "title": "LizardFS",
     "logo_url": "https://lizardfs.com/wp-content/themes/understrap-master/img/logo-white.svg",
     "website_url": "https://lizardfs.com/about",
-    "created_year": "",
+    "created_year": null,
     "description": "LizardFS – Software Defined Storage is a distributed, scalable, fault-tolerant, and highly available file system. It allows combining disk space located on several servers into a single namespace visible on Unix-like and Windows systems in the same way as other file systems.",
     "category_list": ["Information Technology"],
     "similar_solutioj_list": [{
@@ -41,9 +41,9 @@
     "source_code_download": "https://github.com/lizardfs/lizardfs.git",
     "source_code_profile": "https://www.openhub.net/p/lizardfs/analyses/latest/languages_summary",
     "commercial_support_url": "https://lizardfs.com/support",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/LizardFS",
     "reference_list": [{
       "title": "",
