@@ -19,23 +19,23 @@
 	"kpi_list": [{
 		"year": "2020",
 		"staff": "134",
-		"earnings": "1673500€",
-		"total_assets": "56304200€",
-		"revenues": "35454800€",
+		"earnings": "1 673 500 EUR",
+		"total_assets": "56 304 200 EUR",
+		"revenues": "35 454 800 EUR",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493202012311.html"
 	}, {
 		"year": "2019",
 		"staff": "124",
-		"earnings": "-377200€",
-		"total_assets": "48640700€",
-		"revenues": "29653600€",
+		"earnings": "-377 200 EUR",
+		"total_assets": "48 640 700 EUR",
+		"revenues": "29 653 600 EUR",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493202012311.html"
 	}, {
 		"year": "2018",
 		"staff": "123",
-		"earnings": "-837100€",
-		"total_assets": "33268600€",
-		"revenues": "25117400€",
+		"earnings": "-837 100 EUR",
+		"total_assets": "33 268 600 EUR",
+		"revenues": "25 117 400 EUR",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493201812311.html"
 	}, {
 		"year": "2017",
@@ -47,9 +47,9 @@
 	}, {
 		"year": "2016",
 		"staff": "81",
-		"earnings": "6164200€",
-		"total_assets": "42728500€",
-		"revenues": "24874700€",
+		"earnings": "6 164 200 EUR",
+		"total_assets": "42 728 500 EUR",
+		"revenues": "24 874 700 EUR",
 		"source_url": "https://www.societe.com/bilan/outscale-527594493201612311.html"
 	}],
 	"solution_list": [{
@@ -69,9 +69,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://support.outscale.com/hc/fr-fr",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
 		"reference_list": [{
 			"title": "",
@@ -106,9 +106,9 @@
 		"source_code_download": "https://github.com/outscale/",
 		"source_code_profile": "",
 		"commercial_support_url": "https://support.outscale.com/hc/fr-fr",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
 		"reference_list": [{
 			"title": "",
@@ -138,9 +138,9 @@
 		"source_code_download": "https://github.com/outscale/osc-cli",
 		"source_code_profile": "",
 		"commercial_support_url": "https://en.outscale.com/technical-support/",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
 		"reference_list": [{
 			"title": "",
