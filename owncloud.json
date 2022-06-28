@@ -19,36 +19,36 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "50",
-    		"earnings": "388696€",
-   		"total_assets": "4974402€",
+    		"earnings": "388 696 EUR",
+   		"total_assets": "4 974 402 EUR",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de"
  		}, {
    		"year": "2019",
     		"staff": "43",
-    		"earnings": "-519435€",
-    		"total_assets": "4451782€",
+    		"earnings": "-519 435 EUR",
+    		"total_assets": "4 451 782 EUR",
 		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/"
   		},{
     		"year": "2018",
     		"staff": "35",
-    		"earnings": "-521392€",
-    		"total_assets": "3819996€",
+    		"earnings": "-521 392 EUR",
+    		"total_assets": "3 819 996 EUR",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/"
 	  	},{
     		"year": "2017",
     		"staff": "35",
-    		"earnings": "-1377054€",
-    		"total_assets": "4116320€",
+    		"earnings": "-1 377 054 EUR",
+    		"total_assets": "4 116 320 EUR",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/"
   		},{
    		"year": "2016",
 	    	"staff": "",
-    		"earnings": "-788749€",
-    		"total_assets": "3585703€",
+    		"earnings": "-788 749 EUR",
+    		"total_assets": "3 585 703 EUR",
     		"revenues": "",
     		"source_url": "https://www.bundesanzeiger.de/"
   		}],
@@ -72,9 +72,9 @@
 		"source_code_download": "https://github.com/owncloud/core.git",
 		"source_code_profile": "https://www.openhub.net/p/ownCloud/analyses/latest/languages_summary",
 		"commercial_support_url": "https://owncloud.com/contact-us/",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OwnCloud",
 		"reference_list": [{
 			"title": "Atos",
