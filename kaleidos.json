@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-05",
 	"title": "Kaleidos",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://avatars.githubusercontent.com/u/1219587?s=200&v=4",
 	"location": {
 		"title": "Kaleidos Open Source Main Office",
@@ -15,13 +15,13 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://kaleidos.net/",
-	"founded_year": "2011",
+	"founded_year": 2011,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Taiga",
 		"logo_url": "https://images.assets-landingi.com/4purx2ZndyLWUPgi/logo_horizontal.png",
 		"website_url": "https://www.taiga.io/",
-		"created_year": "2014",
+		"created_year": 2014,
 		"description": "Taiga is an Open Source project management platform for cross-domain agile teams.",
 		"category_list": ["Information Technology"],
 		"similar_solution_list": [{
@@ -53,9 +53,9 @@
 		"source_code_download": "https://github.com/kaleidos-ventures/taiga-back.git",
 		"source_code_profile": "https://www.openhub.net/p/taigaio/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.kaleido.io/pricing",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "Yes",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Taiga_(project_management)",
 		"reference_list": [{
 			"title": "Secuoyas",
@@ -68,37 +68,36 @@
 			"country": "NL",
 			"industry": "Application"
 		}],
-		"success_case_list": [],
-		"solution_list": [{
-			"title": "Penpot",
-			"logo_url": "https://avatars.githubusercontent.com/u/30179644?s=200&v=4",
-			"website_url": "https://penpot.app/",
-			"created_year": "2016",
-			"description": "The open-source solution for design and prototyping digital products and platforms.",
-			"category_list": ["Application"],
-			"similar_solution_list": [{
-				"title": "Diagrams.net",
-				"similiar_solution_url": "https://www.diagrams.net/",
-				"category": "Application"
-			}, {
-				"title": "Pencil Project",
-				"similiar_solution_url": "https://pencil.evolus.vn/",
-				"category": "Application"
-			}, {
-				"title": "Figma",
-				"similiar_solution_url": "https://www.figma.com/",
-				"category": "Application"
-			}],
-			"licence_list": ["MPL 2.0"],
-			"source_code_download": "https://github.com/penpot/penpot.git",
-			"source_code_profile": "",
-			"commercial_support_url": "No",
-			"floss_software": "Yes",
-			"commercial_support_open_source_version": "Yes",
-			"commercial_support_available": "No",
-			"wikipedia_url": "",
-			"reference_list": [],
-			"success_case_list": []
+		"success_case_list": []
+	},{
+		"title": "Penpot",
+		"logo_url": "https://avatars.githubusercontent.com/u/30179644?s=200&v=4",
+		"website_url": "https://penpot.app/",
+		"created_year": 2016,
+		"description": "The open-source solution for design and prototyping digital products and platforms.",
+		"category_list": ["Application"],
+		"similar_solution_list": [{
+			"title": "Diagrams.net",
+			"similiar_solution_url": "https://www.diagrams.net/",
+			"category": "Application"
+		}, {
+			"title": "Pencil Project",
+			"similiar_solution_url": "https://pencil.evolus.vn/",
+			"category": "Application"
+		}, {
+			"title": "Figma",
+			"similiar_solution_url": "https://www.figma.com/",
+			"category": "Application"
+		}],
+		"licence_list": ["MPL 2.0"],
+		"source_code_download": "https://github.com/penpot/penpot.git",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 		}]
-	}]
-}
+	}
