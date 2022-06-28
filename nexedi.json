@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-24",
 	"title": "Nexedi SA",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://erp5.nexedi.net/web_site_module/erp5_community/NXD-Logo.Image?quality=75.0&display=large&format=png",
 	"location": {
 		"title": "Nexedi SA",
@@ -13,52 +13,52 @@
 		"mail_contact": "info@nexedi.com",
 		"coordinate_list": [50.64449017329376, 3.077437939381641]
 	},
-	"subsidiary_location_list": "",
+	"subsidiary_location_list": [""],
 	"website_url": "https://www.nexedi.com/",
-	"founded_year": "2001",
+	"founded_year": 2001,
 	"kpi_list": [{
-    		"year": "2020",
-    		"staff": "27",
-    		"earnings": "234972€",
-    		"total_assets": "6733231€",
-    		"revenues": "2444319€",
+    		"year": 2020,
+    		"staff": 27,
+    		"earnings": "234972 EUR",
+    		"total_assets": "6733231 EUR",
+    		"revenues": "2444319 EUR",
     		"source_url": "https://www.verif.com/"
   		}, {
-    		"year": "2019",
-   		"staff": "30",
-   		"earnings": "136970€",
-    		"total_assets": "5238187€",
-    		"revenues": "2465664€",
+    		"year": 2019,
+   		"staff": 30,
+   		"earnings": "136970 EUR",
+    		"total_assets": "5238187 EUR",
+    		"revenues": "2465664 EUR",
     		"source_url": "https://www.verif.com/"
   		},{
-   		"year": "2018",
-    		"staff": "23",
-    		"earnings": "304409€",
-    		"total_assets": "5489528€",
-    		"revenues": "2336718€",
+   		"year": 2018,
+    		"staff": 23,
+    		"earnings": "304409 EUR",
+    		"total_assets": "5489528 EUR",
+    		"revenues": "2336718 EUR",
     		"source_url": "https://www.verif.com/"
   		},{
-    		"year": "2017",
-    		"staff": "20",
-    		"earnings": "341478€",
-    		"total_assets": "5098147€",
-    		"revenues": "2146776€",
+    		"year": 2017,
+    		"staff": 20,
+    		"earnings": "341478 EUR",
+    		"total_assets": "5098147 EUR",
+    		"revenues": "2146776 EUR",
    		"source_url": "https://www.verif.com/"
   		},{
-    		"year": "2016",
-    		"staff": "20",
-    		"earnings": "572158€",
-    		"total_assets": "4527005€",
-    		"revenues": "1651903€",
+    		"year": 2016,
+    		"staff": 20,
+    		"earnings": "572158 EUR",
+    		"total_assets": "4527005 EUR",
+    		"revenues": "1651903 EUR",
     		"source_url": "https://www.verif.com/"
   	}],
 	"solution_list": [{
 		"title": "ERP5",
 		"logo_url": "https://www.nexedi.com/service/nexedi-service-erp5/graphic-ERP5-new.logo?display=thumbnail&format=png",
 		"website_url": "https://www.erp5.com/",
-		"created_year": "2002",
+		"created_year": 2002,
 		"description": "ERP5 is an open source ERP based on Python and Zope. It has the particularity of being based on a unified Model to describe its implementation. It was designed to be generic and flexible enough to suit different business areas and maximise economies of scale related to code sharing.",
-		"category_list": "Application",
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Odoo",
 			"similiar_solution_url": "https://www.odoo.com/fr_FR",
@@ -76,11 +76,11 @@
 		"source_code_download": "https://lab.nexedi.com/nexedi/erp5.git",
 		"source_code_profile": "https://www.openhub.net/p/erp5/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.nexedi.com/service/nexedi-service-erp5/contact",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "Yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/ERP5",
-		"reference_list": "",
+		"reference_list": [""],
 		"success_case_list": [{
 			"title": "ERP5 Implementation in Aerospace Industry: Integrated Order Management Solution for TerraSAR-X Commercial Service Segment",
 			"description": "Airbus DS Geo GmbH, a 100% subsidiary of Airbus Defence and Space, holds the exclusive commercial exploitation rights for the TerraSAR-X radar earth observation satellite and uses ERP5 as part of the service segment for the commercial distribution of data from the TerraSAR-X Mission . The initial implementation of the ERP5 for the TerraSAR-X Service Segment was realised by Nexedi and Logica and went into production in 2006, after which Nexedi took sole responsibility for managing the system and its technical evolution.",
@@ -88,7 +88,7 @@
 			"industry": "Aerospace",
 			"customer": "Airbus DS Geo Gmbh",
 			"country": "DE",
-			"language": "en",
+			"language": "de",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Airbus.Success.Case"
 			}, {
 			"title": "Complete Coverage ERP Implementation for Japanese Pesticide Producer",
@@ -97,7 +97,7 @@
 			"industry": "Chemical Manufacturing",
 			"customer": "Sankei Chemical",
 			"country": "JP",
-			"language": "en",
+			"language": "ja",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Sankei.Success.Case"
 			}, {
 			"title": "Local HTML5 App and central ERP5 to manage supply-production-sales data for 14 companies",
@@ -106,7 +106,7 @@
 			"industry": "Manufacturing",
 			"customer": "GKR international group",
 			"country": "CN",
-			"language": "en",
+			"language": "zh",
 			"success_case_url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
 			}, {
 			"title": "Zawee runs its local fashion shops and eCommerce web site with ERP5",
@@ -151,7 +151,7 @@
 			"industry": "Automobile manufacturing",
 			"customer": "Mitsubishi Motors",
 			"country": "RU",
-			"language": "en",
+			"language": "ru",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MMC.Rus.Success.Case"
 			}, {
 			"title": "Flexible Configurable Workflows and Advanced Security for Core Business Processes of a Central Bank",
@@ -167,9 +167,9 @@
 		"title": "SlapOS Managed Cloud",
 		"logo_url": "https://www.nexedi.com/service/nexedi-service-slapos/graphic-SlapOS.vector.logo?display=thumbnail&format=png",
 		"website_url": "https://slapos.nexedi.com/",
-		"created_year": "2010",
+		"created_year": 2010,
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
-		"category_list": "Service Lifecycle Automation",
+		"category_list": ["Service Lifecycle Automation"],
 		"similar_solution_list": [{
 			"title": "YunoHost",
 			"similiar_solution_url": "https://yunohost.org/#/",
@@ -179,11 +179,11 @@
 		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
 		"source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
 		"commercial_support_url": "",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "Yes",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": "",
+		"reference_list": [""],
 		"success_case_list": [{
 			"title": "SlapOS powers TeraLab, Institut Mines Télécom's Big Data Platform",
 			"description": "Within three months, Institut Mines Télécom and Nexedi automated through SlapOS the provisioning and operation of clusters of virtual machines that power Terelab Big Data platform. This project demonstrate how SlapOS hyperconvergent operating system can be used to power a corporate Big Data platform with strict security requirements, under strict time and budget constraints.",
@@ -198,9 +198,9 @@
 		"title": "Wendelin Managed Big Data",
 		"logo_url": "https://www.wendelin.io/telecom-nexedi-logos?display=svg",
 		"website_url": "https://www.wendelin.io/#/?page=home&editable=true",
-		"created_year": "2015",
+		"created_year": 2015,
 		"description": "Wendelin is a big data framework designed for industrial applications based on python, NumPy, Scipy and other NumPy based libraries. It uses at its core the NEO distributed transactional NoSQL database to store petabytes of binary data. Wendelin combines the performance of scikit-learn machine learning with NEO distributed storage in order to provide out-of-core processing of large data sets. Its goal is to bring the best open source, big data engine based on Numpy python technologies and gather a wide community of contributors of new data analytics algorithms.",
-		"category_list": "Big Data Hub",
+		"category_list": ["Big Data Hub"],
 		"similar_solution_list": [{
 			"title": "Hadoop",
 			"similiar_solution_url": "https://hadoop.apache.org/",
@@ -210,11 +210,11 @@
 		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin.git",
 		"source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
 		"commercial_support_url": "",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": "",
+		"reference_list": [""],
 		"success_case_list": [{
 			"title": "WINDELIN - Predictive Maintenance and Optimisation of Wind Turbines using an open-source Big Data Machine Learning Cloud",
 			"description": "WINDELIN is a R & D project developed under Eureka programme using machine learning and big data technologies for anomaly detection and predictive maintenance inside wind turbines.",
