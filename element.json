@@ -15,57 +15,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://element.io/",
-	"founded_year": "2016",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "7368812€",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "1115633€",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"founded_year": 2016,
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "element",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/personal",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Element lets you choose where your messages are stored, putting you in control of your data",
-		"Solution type": "Software",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Whatsapp",
@@ -84,9 +41,9 @@
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
 		"reference_list": [{
 			"title": "",
@@ -101,7 +58,7 @@
 			"industry": "Telecommunication",
 			"customer": "The French Government",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://element.io/case-studies/tchap"
 		}, {
 			"title": "Safe, inclusive communications for the University of Innsbruck",
@@ -110,7 +67,7 @@
 			"industry": "Telecommunication",
 			"customer": "The University of Innsbruck",
 			"country": "AT",
-			"language": "EN",
+			"language": "de",
 			"success_case_url": "https://element.io/case-studies/university-of-innsbruck"
 		}, {
 			"title": "The Bundeswehr builds on Matrix",
@@ -119,7 +76,7 @@
 			"industry": "Defense",
 			"customer": "Bundeswehr",
 			"country": "DE",
-			"language": "EN",
+			"language": "de",
 			"success_case_url": "https://element.io/case-studies/bundeswehr"
 		}, {
 			"title": "Handmade Seattle uses Element Matrix Services as pop-up hallways, water coolers and coffee shops",
@@ -128,16 +85,15 @@
 			"industry": "Information Technology",
 			"customer": "Handmade Seattle",
 			"country": "US",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://element.io/case-studies/handmade-seattle"
 		}]
 	}, {
 		"title": "element One",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-one",
-		"created_year": "2016",
-		"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",
-		"Solution type": "Software",		
+		"created_year": 2016,
+		"description": "Be in your Element while chatting with friends on Matrix and those in WhatsApp, Signal and Telegram.",		
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Wire",
@@ -148,9 +104,9 @@
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
 		"reference_list": [{
 			"title": "",
@@ -173,8 +129,7 @@
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-home",
 		"created_year": "2016",
-		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",
-		"Solution type": "Software",		
+		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",		
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
@@ -185,9 +140,9 @@
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
 		"reference_list": [{
 			"title": "",
@@ -209,9 +164,8 @@
 		"title": "element Enterprise",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/enterprise-collaboration",
-		"created_year": "2016",
-		"description": "Element is a completely new type of collaboration. As universal as email. End-to-end encryption for messages, and with full voice and video. On-premise or in the cloud. And that's just for starters.",
-		"Solution type": "Software",		
+		"created_year": 2016,
+		"description": "Element is a completely new type of collaboration. As universal as email. End-to-end encryption for messages, and with full voice and video. On-premise or in the cloud. And that's just for starters.",		
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "rundeck",
@@ -226,9 +180,9 @@
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
 		"reference_list": [{
 			"title": "",
@@ -250,20 +204,43 @@
 		"title": "element App Store",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-matrix-store",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Improve team productivity with our bridges, bots and widgets",
-		"Solution type": "Software",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "weavy",
 			"similiar_solution_url": "https://www.weavy.com/",
 			"category": "Communication"
+		}],
+		"licence_list": [""],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://element.io/help",
+		"floss_software": null,
+		"commercial_support_open_source_version": null,
+		"commercial_support_available": null,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
 		}]
 	}, {
 		"title": "element Matrix services",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/matrix-services",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Element Matrix Services (EMS) is a robust and reliable hosting service for fast, secure real time communication.",
 		"Solution type": "Software",
 		"category_list": ["Communication"],
@@ -272,14 +249,13 @@
 			"similiar_solution_url": "https://control.connectwise.com/",
 			"category": "Communication"
 		}],
-
 		"licence_list": ["Apache License v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
-		"floss_software": "no",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
 		"reference_list": [{
 			"title": "",
