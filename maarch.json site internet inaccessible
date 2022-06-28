@@ -1,7 +1,7 @@
 {
   "created": "2022-04-06",
   "title": "Maarch",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "",
   "location": {
     "title": "Maarch",
@@ -15,33 +15,33 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://labs.maarch.org/maarch",
-  "founded_year": "",
+  "founded_year": null,
   "kpi_list": [
-    "year": "2019",
-    "staff": "26",
-    "earnings": "1 819 900 €",
-    "total_assets": "1 923 100 €",
+    "year": 2019,
+    "staff": 26,
+    "earnings": "1819900 EUR",
+    "total_assets": "1923100 EUR",
     "revenues": "",
     "source_url": "https://www.societe.com/bilan/maarch-452392731201912311.html"
   },{
-    "year": "2018",
-    "staff": "17",
-    "earnings": "1 802 000 €",
-    "total_assets": "1 793 200 €",
+    "year": 2018,
+    "staff": 17,
+    "earnings": "1802000 EUR",
+    "total_assets": "1793200 EUR",
     "revenues": "",
     "source_url": "https://www.societe.com/bilan/maarch-452392731201912311.html"
   },{
-    "year": "2017",
-    "staff": "13",
-    "earnings": "1 727 500 €",
-    "total_assets": "1 513 6600 €",
+    "year": 2017,
+    "staff": 13,
+    "earnings": "1727500 EUR",
+    "total_assets": "15136600 EUR",
     "revenues": "",
     "source_url": "https://www.societe.com/bilan/maarch-452392731201712311.html"
   },{
-    "year": "2016",
-    "staff": "12",
-    "earnings": "1 332 800 €",
-    "total_assets": "1 234 100 €",
+    "year": 2016,
+    "staff": 12,
+    "earnings": "1332800 EUR",
+    "total_assets": "1234100 EUR",
     "revenues": "",
     "source_url": "https://www.societe.com/bilan/maarch-452392731201712311.html"
   }],
@@ -49,28 +49,115 @@
     "title": "Maarch Courrier",
     "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/12/picto_courrier_margin22pt.png?width=64",
     "website_url": "https://labs.maarch.org/maarch/MaarchCourrier.git",
-    "created_year": "",
+    "created_year": null,
     "description": "Maarch Courrier is an Electronic Correspondence Manager (postal mail, email, etc.) and Electronic Document Management",
     "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GNU GPL v3.0"],
+    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
+    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": null,
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
   },{
     "title": "Maarch RM",
     "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/3/Picto_Maarch_RM.png?width=64",
     "website_url": "https://labs.maarch.org/maarch/maarchRM.git",
-    "created_year": "",
+    "created_year": null,
     "description": "This application allows to store, find and display digital resources in compliance with international regulation ISO 14641-1.",
     "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GNU GPL v3.0"],
+    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
+    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": null,
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
   },{
     "title": "Maarch Capture",
     "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/13/picto-maarch-capture.png?width=64",
     "website_url": "https://labs.maarch.org/maarch/MaarchCapture.git",
-    "created_year": "",
+    "created_year": null,
     "description": "Maarch Capture is the main tool to feed Maarch Courrier",
     "category_list": [],
+    "similar_software_list": [{
+      "title": "",
+      "similiar_software_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GNU GPL v3.0"],
+    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
+    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": null,
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
   },{
     "title": "Maarch Parapheur",
     "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/98/picto_parapheur-164x280pt-.png?width=64",
     "website_url": "https://labs.maarch.org/maarch/MaarchParapheur.git",
-    "created_year": "",
+    "created_year": null,
     "description": "External Signature Pad",
     "category_list": [],
     "similar_software_list": [{
@@ -82,9 +169,9 @@
     "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
     "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
     "commercial_support_url": "",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": null,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "",
