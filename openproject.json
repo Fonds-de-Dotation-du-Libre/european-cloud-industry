@@ -123,160 +123,155 @@
 		    "commercial_support_available": false,
 		    "wikipedia_url": "",
 		    "reference_list": [{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "TMM Group",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tmm-group-95a460ad.svg",
+		      "country": "DE",
+		      "industry": "Information Technology"
 		    },{
 		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tu-berlin-07fc6dfd.svg",
+		      "country": "DE",
+		      "industry": "Information Technology"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "DB Bahn",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsche-bahn-ad93ff9c.svg",
+		      "country": "DE",
+		      "industry": "Transportation"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Fraunhofer",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-fraunhofer-60ef0970.svg",
+		      "country": "DE",
+		      "industry": "Academia and Research"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "infineon",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-infineon-f5395015.svg",
+		      "country": "DE",
+		      "industry": "Automotive"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Linux Professional Institute",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-lpi-02f8968c.svg",
+		      "country": "DE",
+		      "industry": "Associations and NGOs"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Deloitte",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deloitte-2ad092ef.svg",
+		      "country": "DE",
+		      "industry": "Banking and Finance"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Siemens",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-siemens-26efdd3b.svg",
+		      "country": "FR",
+		      "industry": "Information Technology"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Stadt Köln",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-stadt-koeln-d11d318c.webp",
+		      "country": "DE",
+		      "industry": "Public Administration and Government"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "RWTH Aachen University",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-rwth-aachen-c028a7c8.svg",
+		      "country": "DE",
+		      "industry": "Education"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Audi",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-audi-360bd300.svg",
+		      "country": "DE",
+		      "industry": "Automotive"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Sülze Kopf",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-suelzle-kopf_1980w-335186b0.webp",
+		      "country": "DE",
+		      "industry": "Energy and Utilities"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "ICBC",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-icbc-8bde47f6.webp",
+		      "country": "ES",
+		      "industry": "Banking and Finance"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "AMG",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-amg-5c500afa.svg",
+		      "country": "FR",
+		      "industry": "Manufacturing"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "intelvision",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-intelvision-b23e4777.webp",
+		      "country": "SC",
+		      "industry": "Information Technology"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Charité",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-charite-9c4e5b8a.svg",
+		      "country": "DE",
+		      "industry": "Education"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Welt Hunger Hilfe",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-welthungerhilfe-edbcee7c.svg",
+		      "country": "DE",
+		      "industry": "Associations and NGOs"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Giz",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-giz-894e438a.svg",
+		      "country": "DE",
+		      "industry": "Associationd and NGOs"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Landtag Brandenburg",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-landtag-brandenburg-f2334a85.svg",
+		      "country": "DE",
+		      "industry": "Public Administration and Government"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Kronos",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kronos-d2352eaa.svg",
+		      "country": "DE",
+		      "industry": "Cosnulting and training"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Windmöller & Hölscher",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-windmoeller_960w-8fa91d66.webp",
+		      "country": "DE",
+		      "industry": "Manufacturing"
 		    },{
-		      "title": "",
-		      "logo_url": "",
+		      "title": "EEX",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-eex-3977f204.svg",
 		      "country": "",
-		      "industry": ""
+		      "industry": "Energy and Utilities"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Deutshces Museum",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsches-museum-3890964e.svg",
+		      "country": "DE",
+		      "industry": "Associations and NGOs"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Greenpeace",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-greenpeace-e121ed49.svg",
+		      "country": "DE",
+		      "industry": "Associations and NGOs"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Autoliv",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-autoliv-137baa77.svg",
+		      "country": "SE",
+		      "industry": "Automotive"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "HZB Helmholtz Zentrum Berlin",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-helmholtz-97ad89dc.webp",
+		      "country": "DE",
+		      "industry": "Energy and Utilities"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Sanofi",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-sanofi-37091b73.svg",
+		      "country": "FR",
+		      "industry": "Health and Life Sciences"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Aucotec",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-aucotec-84c38a15.webp",
+		      "country": "FR",
+		      "industry": "Information Technology"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Kuhlemann Medical IT Valley",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kuhlemann-81c426c9.webp",
+		      "country": "DE",
+		      "industry": "Health and Life Sciences"
 		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
-		    },{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
+		      "title": "Carnegie Mellon University",
+		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-cmu-27151eae.svg",
+		      "country": "US",
+		      "industry": "Academia and Research"
 		    }],
 		    "success_case_list": [{
 		      "title": "",
