@@ -19,37 +19,37 @@
 	"kpi_list": [{
     		"year": "2020",
     		"staff": "",
-    		"earnings": "107286€",
-    		"total_assets": "1043246€",
-    		"revenues": "803295€",
+    		"earnings": "107 286 EUR",
+    		"total_assets": "1 043 246 EUR",
+    		"revenues": "803 295 EUR",
     		"source_url": "https://www.verif.com/"
   		}, {
     		"year": "2019",
     		"staff": "",
     		"earnings": "",
-    		"total_assets": "798979€",
+    		"total_assets": "798 979 EUR",
     		"revenues": "",
     		"source_url": "https://www.verif.com/"
   		},{
    	 	"year": "2018",
     		"staff": "",
-    		"earnings": "75735€",
-    		"total_assets": "912176€",
-    		"revenues": "645229€",
+    		"earnings": "75 735 EUR",
+    		"total_assets": "912 176 EUR",
+    		"revenues": "645 229 EUR",
     		"source_url": "https://www.verif.com/"
   		},{
     		"year": "2017",
     		"staff": "",
-    		"earnings": "154928€",
-    		"total_assets": "972256€",
-    		"revenues": "768214€",
+    		"earnings": "154 928 EUR",
+    		"total_assets": "972 256 EUR",
+    		"revenues": "768 214 EUR",
     		"source_url": "https://www.verif.com/"
   		},{
     		"year": "2016",
     		"staff": "",
-    		"earnings": "116846€",
-    		"total_assets": "774039€",
-    		"revenues": "622888€",
+    		"earnings": "116 846 EUR",
+    		"total_assets": "774 039 EUR",
+    		"revenues": "622 888 EUR",
    		 "source_url": "https://www.verif.com/"
   		}],
 	"solution_list": [{
@@ -72,9 +72,9 @@
 		"source_code_download": "https://github.com/opensvc/docs.opensvc.com.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "yes",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Amundi",
