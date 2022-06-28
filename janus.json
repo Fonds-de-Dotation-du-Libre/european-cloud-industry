@@ -15,57 +15,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.meetecho.com/en/",
-	"founded_year": "2009",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "8",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "91540000€",
-		"source_url": "https://rocketreach.co/meetecho-s-r-l-profile_b5dfb935f42e48ea"
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"founded_year": 2009,
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Janus WebRTC",
 		"logo_url": "https://janus.conf.meetecho.com/janus-logo.png",
 		"website_url": "https://janus.conf.meetecho.com/",
-		"created_year": "2014",
+		"created_year": 2014,
 		"description": "Janus is a WebRTC Server developed by Meetecho conceived to be a general purpose one. As such, it doesn't provide any functionality per se other than implementing the means to set up a WebRTC media communication with a browser, exchanging JSON messages with it, and relaying RTP/RTCP and messages between browsers and the server-side application logic they're attached to",
-		"Solution type": "Software",
 		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "NetSuite",
@@ -88,9 +45,9 @@
 		"source_code_download": "https://github.com/meetecho/janus-gateway",
 		"source_code_profile": "https://www.openhub.net/p/janus-gateway",
 		"commercial_support_url": "https://janus.conf.meetecho.com/support.html",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://wiki.opensourceecology.org/wiki/Janus",
 		"reference_list": [{
 			"title": "",
