@@ -1,7 +1,7 @@
 {
 	"created": "05-04-2022",
 	"title": "Mender",
-	"type": "International Organisation",
+	"type": "company",
 	"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
 	"location": {
 		"title": "mender",
@@ -15,29 +15,21 @@
 	},
 	"subsidiary_location_list": ["US"],
 	"website_url": "https://mender.io/",
-	"founded_year": "2015",
+	"founded_year": 2015,
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "318",
+		"year": 2021,
+		"staff": 318,
 		"earnings": "",
 		"total_assets": "",
-		"revenues": "5527342000€",
+		"revenues": "5527342000 EUR",
 		"source_url": "https://www.datanyze.com/companies/mender/459811321"
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
 	}],
 	"solution_list": [{
 		"title": "Mender",
 		"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
 		"website_url": "https://mender.io/plans/features",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Mender enables developers and device makers to adapt to an evolving product landscape by managing and deploying all device software remotely, worldwide.",
-		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Particle",
@@ -60,9 +52,9 @@
 		"source_code_download": "https://github.com/mendersoftware",
 		"source_code_profile": "https://www.openhub.net/p/mender",
 		"commercial_support_url": "https://mender.io/contact-us",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "no",
-		"commercial_support_available": "yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.everybodywiki.com/Mender",
 		"reference_list": [{
 		"title": "Airbus Commercial Aircraft",
