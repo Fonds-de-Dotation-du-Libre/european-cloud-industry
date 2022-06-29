@@ -1,7 +1,7 @@
 {
   "created": "2022-03-31",
   "title": "ng-voice GmbH",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/04/ng-voice-logo-1.svg",
   "location": {
     "title": "ng-voice GmbH",
@@ -15,15 +15,14 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://ng-voice.com",
-  "founded_year": "2011",
-  "kpi_list": "",
+  "founded_year": 2011,
+  "kpi_list": [""],
   "solution_list": [{
     "title": "IP Multimedia Subsystem (IMS core)",
     "logo_url": "",
     "website_url": "https://www.ng-voice.com/solutions/?tab1",
-    "created_year": "",
+    "created_year": null,
     "description": "the virtualized and cloud-native IMS core is the first 100% containerized and Kubernetes-based fully-fledged IMS solution, allowing deployment on bare metal (private), public, and hybrid cloud environments",
-    "solution_type": "software",
     "category_list": "standardized achitectural framework",
     "similar_solution_list": [{
       "title": "Cloud IMS",
@@ -38,13 +37,13 @@
       "similiar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
       "category": "standardized achitectural framework"
     }],
-    "licence_list": "",
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": null,
+    "commercial_support_available": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem",
     "reference_list": [{
       "title": "GSMA",
@@ -77,14 +76,13 @@
       "country": "DE",
       "industry": "Technology"
     }],
-    "success_case_list": ""
+    "success_case_list": [""]
     },{
     "title": "Policy and Charging Rules Function (PCRF light)",
     "logo_url": "",
     "website_url": "https://www.ng-voice.com/solutions/?tab3#toggle3",
-    "created_year": "",
+    "created_year": null,
     "description": "The PCRF dynamically allocates and manages bandwidth requirements for various use-cases. ng-voice’s version is currently only a light-weight PCRF, fulfilling the necessary functions to provide a VoLTE service",
-    "solution_type": "software",
     "category_list": "Policy Management solution",
     "similar_solution_list": [{
       "title": "Service-Aware Policy Controller (SAPC)",
@@ -95,13 +93,13 @@
       "similiar_solution_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
       "category": "Policy Management solution"
     }],
-    "licence_list": "",
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": null,
+    "commercial_support_available": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Policy_and_charging_rules_function",
     "reference_list": [{
       "title": "GSMA",
@@ -124,23 +122,22 @@
       "country": "US",
       "industry": "Telecommunications services"
     }],
-    "success_case_list": ""
+    "success_case_list": [""]
     },{
     "title": "application servers",
     "logo_url": "",
     "website_url": "https://www.ng-voice.com/solutions/?tab3",
-    "created_year": "",
+    "created_year": null,
     "description": "Our application servers provide the full range of supplementary services.",
-    "solution_type": "hardware",
-    "category_list": "server",
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["server"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": null,
+    "commercial_support_open_source_version": null,
+    "commercial_support_available": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Application_server",
     "reference_list":[{
       "title": "GSMA",
@@ -173,6 +170,6 @@
       "country": "DE",
       "industry": "Technology"
     }],
-    "success_case_list": ""
+    "success_case_list": [""]
    }] 
 }
