@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "NoMachine",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.nomachine.com/sites/all/themes/frontend/images/shared/abous-us-icon.png",
   "location": {
     "title": "NoMachine Luxembourg Headquarters",
@@ -15,40 +15,40 @@
   },
   "subsidiary_location_list": ["DE","US"],
   "website_url": "https://www.nomachine.com/",
-  "founded_year": "2002",
+  "founded_year": 2002,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "",
+    "year": 2020,
+    "staff": null,
     "earnings": "",
-    "total_assets": "6219681€",
+    "total_assets": "6219681 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   }, {
-    "year": "2019",
-    "staff": "",
+    "year": 2019,
+    "staff": null,
     "earnings": "",
-    "total_assets": "6192463€",
+    "total_assets": "6192463 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
-    "year": "2018",
-    "staff": "",
+    "year": 2018,
+    "staff": null,
     "earnings": "",
-    "total_assets": "5096173€",
+    "total_assets": "5096173 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
-    "year": "2017",
-    "staff": "",
+    "year": 2017,
+    "staff": null,
     "earnings": "",
-    "total_assets": "4122374€",
+    "total_assets": "4122374 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
-    "year": "2016",
-    "staff": "",
+    "year": 2016,
+    "staff": null,
     "earnings": "",
-    "total_assets": "3837492€",
+    "total_assets": "3837492 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   }],
@@ -56,7 +56,7 @@
     "title": "NoMachine Software",
     "logo_url": "https://www.nomachine.com/sites/all/themes/frontend/logo.png",
     "website_url": "https://www.nomachine.com/",
-    "created_year": "2002",
+    "created_year": 2002,
     "description": "NoMachine is the network computing company. Our products radically simplify remote connectivity for both consumers and businesses, delivering applications and desktops to any user, over any network. The software's award-winning performance and enterprise-class management tools make it a complete remote access and hosted desktop solution for any organization.",
     "category_list": ["Desktop virtualisation"],
     "similar_solution_list": [{
@@ -84,13 +84,13 @@
       "similiar_solution_url": "https://anydesk.com/gb",
       "category": "Desktop virtualisation"
     }],
-    "licence_list": ["Proprietary", "https://www.nomachine.com/licensing"],
+    "licence_list": ["Proprietary"],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://store.nomachine.com/fr/",
-    "floss_software": "No",
-    "commercial_support_open_source_version": "No",
-    "commercial_support_available": "Yes",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/NX_technology",
     "reference_list": [{
       "title": "",
@@ -105,7 +105,7 @@
       "industry": "Telecommunication",
       "customer": "CI Telecom",
       "country": "IL",
-      "language": "EN",
+      "language": "he",
       "success_case_url": "https://www.nomachine.com/ECI-Telecom"
     },{
       "title": "CenturyTel Case Study",
@@ -114,7 +114,7 @@
       "industry": "Telecommunication",
       "customer": "CenturyTEl",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/CenturyTel"
     },{
       "title": "Silicon and Software Systems Case Study",
@@ -123,7 +123,7 @@
       "industry": "Information Technology",
       "customer": "3S - Silicon Software Systems",
       "country": "IE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Silicon-and-Software-Systems"
     },{
       "title": "Montavista Case Study",
@@ -132,7 +132,7 @@
       "industry": "Information Technology",
       "customer": "MontaVista",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/MontaVista"
     },{
       "title": "Steinhafels Case Study",
@@ -141,7 +141,7 @@
       "industry": "Commerce and Retail",
       "customer": "Steinhafels",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Steinhafels"
     },{
       "title": "Oak Ridge National Laboratory Case Study",
@@ -150,7 +150,7 @@
       "industry": "Academia and Research",
       "customer": "Oak Ridge National Laboratory",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Oak-Ridge-National-Laboratory"
     },{
       "title": "Norsk Regnesentral Case Study",
@@ -159,7 +159,7 @@
       "industry": "Academia and Research",
       "customer": "Norsk Regnesentral",
       "country": "NO",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Norsk-Regnesentral"
     },{
       "title": "GN ReSound Corporation Case Study",
@@ -168,7 +168,7 @@
       "industry": "Academia and Research",
       "customer": "GN ReSound Corporation",
       "country": "DK",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/GN-ReSound-Corporation"
     },{
       "title": "European Synchrotron Radiation Facility Case Study",
@@ -177,7 +177,7 @@
       "industry": "Academia and Research",
       "customer": "European Synchrotron Radiation Facility",
       "country": "FR",
-      "language": "EN",
+      "language": "fr",
       "success_case_url": "https://www.nomachine.com/European-Synchrotron-Radiation-Facility"
     },{
       "title": "Diamond Light Source Case Study",
@@ -185,8 +185,8 @@
       "image_url": "",
       "industry": "Academia and Research",
       "customer": "Diamond Light Source",
-      "country": "UK",
-      "language": "EN",
+      "country": "GB",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Diamond-Light-Source"
     },{
       "title": "Argonne National Laboratory Case Study",
@@ -195,7 +195,7 @@
       "industry": "Academia and Research",
       "customer": "Argonne National Laboratory",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Argonne-National-Laboratory"
     },{
       "title": "University of Technology Sydney Case Study",
@@ -204,7 +204,7 @@
       "industry": "Academia and Research",
       "customer": "University of Technology, Sydney",
       "country": "AU",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Technology-Sydney"
     },{
       "title": "University of Limoges Case Study",
@@ -213,7 +213,7 @@
       "industry": "Academia and Research",
       "customer": "University of Limoges",
       "country": "FR",
-      "language": "EN",
+      "language": "fr",
       "success_case_url": "https://www.nomachine.com/University-Limoges"
     },{
       "title": "University of Leicester Case Study",
@@ -221,8 +221,8 @@
       "image_url": "",
       "industry": "Academia and Research",
       "customer": "University of Leicester",
-      "country": "UK",
-      "language": "EN",
+      "country": "GB",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Leicester"
     },{
       "title": "University of Colorado Case Study",
@@ -231,7 +231,7 @@
       "industry": "Academia and Research",
       "customer": "University of Colorado",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Colorado"
     },{
       "title": "University of Chicago Case Study",
@@ -240,25 +240,25 @@
       "industry": "Academia and Research",
       "customer": "University of Chicago",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Chicago"
     },{
       "title": "NoPC Case Study",
       "description": "With the help of NoPC and NoMachine technology, 3,500 secondary schools and 1.2 million children in Tanzania can now get access to hosted computing resources.",
       "image_url": "",
-      "industry": ["Academia and Research", "Associations and NGOs"],
+      "industry": "Academia and Research",
       "customer": "NoPC",
-      "country": ["UK","TZ"],
-      "language": "EN",
+      "country": "GB",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/NoPC-0"
     },{
       "title": "Mosaic Case Study",
       "description": "Mosaic is a non-profit US charity organization serving more than 3,500 adults and children with development disabilities.This health care industry nonprofit discovers an inexpensive remote access solution that meets HIPAA security requirements through NX.",
       "image_url": "",
-      "industry": ["Academia and Research", "Associations and NGOs"],
+      "industry": "Academia and Research",
       "customer": "Mosaic",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Mosaic"
     },{
       "title": "Riagg Rijnmond Case Study",
@@ -267,7 +267,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Riagg Rijnmond",
       "country": "NL",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Riagg-Rijnmond"
     },{
       "title": "Glendale Adventist Medical Center Case Study",
@@ -276,16 +276,16 @@
       "industry": "Health and Life Sciences",
       "customer": "Glendale Adventist Medical Center",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Glendale-Adventist-Medical-Center"
     },{
       "title": "Fred Hutchinson Cancer Research Center Case Study",
       "description": "The Fred Hutchinson Cancer Research Center (FHRC) is a nonprofit organization and a world leader in research to understand, treat, and prevent cancer, HIV/AIDS and other life-threatening diseases. NoMachine powering medical research at Fred Hutchinson Cancer Research Center provides scientists with dependable access to HPC & data analysis resources.",
       "image_url": "",
-      "industry": ["Health and Life Sciences", "Associations and NGOs"],
+      "industry": "Health and Life Sciences",
       "customer": "Fred Hutchinson Cancer Research Center",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Fred-Hutchinson-Cancer-Research-Center"
     },{
       "title": "Schwaebisch Hall Case Study",
@@ -294,7 +294,7 @@
       "industry": "Public ADministration and Government",
       "customer": "Schwaebisch Hall",
       "country": "DE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Schwaebisch-Hall" 
     }]
   }]
