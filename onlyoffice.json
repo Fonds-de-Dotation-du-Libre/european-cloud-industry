@@ -1,7 +1,7 @@
 {
   "created": "2022-04-27",
   "title": "ONLYOFFICE",
-  "type": "Corporate",
+  "type": "Company",
   "logo_url": "https://www.onlyoffice.com/images/press-downloads/download/logo_default.zip",
   "location": {
     "title": "Ascensio System SIA",
@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.onlyoffice.com/",
-  "founded_year": "2009",
+  "founded_year": 2009,
   "kpi_list": [""],
   "solution_list": [{
     "title": "ONLYOFFICE Docs",
     "logo_url": "",
     "website_url": "https://www.onlyoffice.com/office-suite.aspx?from=about",
-    "created_year": "",
+    "created_year": null,
     "description": "ONLYOFFICE Docs is a powerful online editor for text documents, spreadsheets, and presentations for the platform you use",
     "category_list": [""],
     "similar_solution_list": [{
@@ -37,9 +37,9 @@
     "source_code_download": "https://github.com/ONLYOFFICE/DocumentServer",
     "source_code_profile": "https://www.openhub.net/p/ONLYOFFICE",
     "commercial_support_url": "https://www.onlyoffice.com/support-contact-form.aspx?from=office-suite",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/OnlyOffice#:~:text=OnlyOffice%20includes%20an%20online%20editing,renewed%20with%20a%20tabbed%20toolbar",
     "reference_list": [""],
     "success_case_list": [{
@@ -83,7 +83,7 @@
     "title": "ONLYOFFICE Workspace",
     "logo_url": "",
     "website_url": "https://www.onlyoffice.com/workspace.aspx",
-    "created_year": "",
+    "created_year": null,
     "description": "Bundle of web apps for an efficient team management and online collaboration",
     "category_list": [""],
     "similar_solution_list": [{
@@ -95,9 +95,9 @@
     "source_code_download": "https://github.com/ONLYOFFICE/DocumentServer",
     "source_code_profile": "https://www.openhub.net/p/ONLYOFFICE",
     "commercial_support_url": "https://www.onlyoffice.com/support-contact-form.aspx?from=office-suite",
-    "floss_software": "yes",
-    "commercial_support_open_source_version": "yes",
-    "commercial_support_available": "yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/OnlyOffice#:~:text=OnlyOffice%20includes%20an%20online%20editing,renewed%20with%20a%20tabbed%20toolbar",
     "reference_list": [""],
     "success_case_list": [""]
