@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-30",
 	"title": "Olvid",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://www.olvid.io/assets/img/olvid-logo.png",
 	"location": {
 		"title": "Olvid - WAI BNP Paris",
@@ -15,15 +15,15 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.olvid.io",
-	"founded_year": "2018",
+	"founded_year": 2018,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Olvid",
 		"logo_url": "https://www.olvid.io/assets/img/olvid-logo.png",
 		"website_url": "https://www.olvid.io",
-		"created_year": "2018",
+		"created_year": 2018,
 		"description": "Olvid is an open-source instant messaging application, relying on end-to-end encryption to guarantee the security of the users' data and metadata. Olvid operates without a centralized directory, with its security relying only on the latest cryptography technology, to ensure the integrity, confidentiality and anonymity of communications.guaranteeguarantee",
-		"category_list": ["Communication","Cybersecurity"],
+		"category_list": ["communication","Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/",
@@ -47,11 +47,11 @@
 		}],
 		"licence_list": ["AGPLv3"],
 		"source_code_download": "https://github.com/olvid-io/olvid-android.git",
-		"source_code_profile": "Java",
+		"source_code_profile": "",
 		"commercial_support_url": "https://www.olvid.io/enterprise/fr/",
-		"floss_software": "Yes",
-		"commercial_support_open_source_version": "No",
-		"commercial_support_available": "Yes",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Olvid",
 		"reference_list": [],
 		"success_case_list": []
