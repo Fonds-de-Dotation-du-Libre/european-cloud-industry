@@ -1,7 +1,7 @@
 {
   "created": "2022-04-04",
   "title": "Odoo",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "",
   "location": {
     "title": "Odoo HeadQuarters",
@@ -15,41 +15,41 @@
   },
   "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
   "website_url": "https://www.odoo.com/",
-  "founded_year": "2002",
+  "founded_year": 2002,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "",
-    "earnings": "140822€",
+    "year": 2020,
+    "staff": null,
+    "earnings": "140822 EUR",
     "total_assets": "",
-    "revenues": "43871968€",
+    "revenues": "43871968 EUR",
     "source_url": "https://www.companyweb.be/"
   },{
-    "year": "2019",
-    "staff": "",
-    "earnings": "422478€",
+    "year": 2019,
+    "staff": null,
+    "earnings": "422478 EUR",
     "total_assets": "",
-    "revenues": "29772268€",
+    "revenues": "29772268 EUR",
     "source_url": "https://www.companyweb.be/"
   },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "-328269€",
+    "year": 2018,
+    "staff": null,
+    "earnings": "-328269 EUR",
     "total_assets": "",
-    "revenues": "20157092€",
+    "revenues": "20157092 EUR",
     "source_url": "https://www.companyweb.be/"
   },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "194682€",
+    "year": 2017,
+    "staff": null,
+    "earnings": "194682 EUR",
     "total_assets": "",
-    "revenues": "13595391€",
+    "revenues": "13595391 EUR",
     "source_url": "https://www.companyweb.be/"
   }],
   "solution_list": [{
     "title": "Odoo Software",
     "logo_url": "https://www.odoo.com/documentation/15.0/_static/img/logos/odoo_logo.svg",
     "website_url": "https://www.odoo.com/",
-    "created_year": "2002",
+    "created_year": 2002,
     "description": "Odoo is a suite of open source business apps that cover all companies' needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.",
     "category_list": ["Workspace"],
     "similar_solution_list": [{
@@ -85,9 +85,9 @@
     "source_code_download": "https://github.com/odoo/odoo.git",
     "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.odoo.com/pricing#pl=66&version_id=33&num_users=1&num_iot_boxes=1&hosting=online&odoosh_workers=1&odoosh_storage=1&odoosh_staging=1&implementation_service=self&pack=25&force_country=FR&integrating_partner_id=0&price_by=yearly",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Odoo",
     "reference_list": [{
       "title": "",
@@ -102,7 +102,7 @@
       "industry": "Information Technology",
       "customer": "Intero Technologies",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/intero-technologies-from-user-to-partner-850#blog_content"
     },{
       "title": "Steersman Company takes business management by the horns",
@@ -111,7 +111,7 @@
       "industry": "Business Solutions",
       "customer": "Steersman Company",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/steersman-company-takes-business-management-by-the-horns-764"
     },{
       "title": "bloopark: Letting Go of Old Methods",
@@ -120,7 +120,7 @@
       "industry": "Infoarmation Technology",
       "customer": "bloopark",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/bloopark-letting-go-of-old-methods-736"
     },{
       "title": "Becoming a successful partner in a new market? Port Cities Vietnam became a certified Silver partner in just 7 months",
@@ -129,7 +129,7 @@
       "industry": ["Business","Transport"],
       "customer": "Port Cities",
       "country": "HK",
-      "language": "EN",
+      "language": "zh",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/becoming-a-successful-partner-in-a-new-market-port-cities-vietnam-became-a-certified-silver-partner-in-just-7-months-542"
     }]
   }]
