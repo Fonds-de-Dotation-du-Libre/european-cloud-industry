@@ -1,7 +1,7 @@
 {
   "created": "2022-04-04",
   "title": "Normation",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBowLoYTLpHOKXvhlhH-_zZFOEJzwXWKsvwA&usqp=CAU",
   "location": {
     "title": "Normation",
@@ -15,20 +15,20 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.rudder.io/",
-  "founded_year": "2010",
+  "founded_year": 2010,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "13",
-    "earnings": "852500€",
-    "total_assets": "1204600€",
-    "revenues": "711600€",
+    "year": 2020,
+    "staff": 13,
+    "earnings": "852500 EUR",
+    "total_assets": "1204600 EUR",
+    "revenues": "711600 EUR",
     "source_url": "https://www.societe.com/"
   }],
   "solution_list": [{
     "title": "Rudder",
     "logo_url": "https://www.rudder.io/wp-content/uploads/2021/08/logo-rudder-2021.svg",
     "website_url": "https://www.rudder.io/",
-    "created_year": "2011",
+    "created_year": 2011,
     "description": "Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Rudder is designed for critical environments where a security breach can mean more than a blip in the sales stats. Built-in features include change requests, audit logs, and strong authentication.",
     "category_list": ["Application"],
     "similar_solution_list": [{
@@ -52,9 +52,9 @@
     "source_code_download": "https://github.com/cfengine/core.git",
     "source_code_profile": "https://www.openhub.net/p/cfengine/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.rudder.io/pricing/",
-    "floss_software": "Yes",
-    "commercial_support_open_source_version": "Yes",
-    "commercial_support_available": "Yes",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rudder_(software)",
     "reference_list": [{
       "title": "",
@@ -69,7 +69,7 @@
       "industry": "Automotive",
       "customer": "BMW",
       "country": "DE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.rudder.io/wp-content/uploads/2020/02/Success-Story-M.pdf"
     },{
       "title": "Jaguar Networks selects Rudder for the Continuous configuration management of its Stand-alone Servers ",
@@ -78,7 +78,7 @@
       "industry": "Information Technology",
       "customer": "Jaguar Network",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rudder.io/wp-content/uploads/2021/08/Jaguar-Network-Rudder.pdf"
     }]
   }]
