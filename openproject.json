@@ -72,218 +72,217 @@
 		"website_url": "https://www.openproject.org/collaboration-software-features/timeline-project-management/",
 		"created_year": "",
 		"description": "The timeline project management lets the user schedule asks and visualize the required steps to complete a project while being updated automatically in sync with the Gantt Chart, so the team is always informed about the current status, or possible delays and can act accordingly.",
-		"category_list": ["Workspace"]
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
-		      "title": "Monday",
-		      "similiar_solution_url": "https://monday.com/lang/fr/",
-		      "category": "Workspace"
-		    },{
-		      "title": "Notion",
-		      "similiar_solution_url": "https://www.notion.so/fr-fr",
-		      "category": "Workspace"
-		    },{
-		      "title": "Trello",
-		      "similiar_solution_url": "https://trello.com/",
-		      "category": "Workspace"
-		    },{
-		      "title": "Quire",
-		      "similiar_solution_url": "https://quire.io/",
-		      "category": "Workspace"
-		    },{
-		      "title": "Asana",
-		      "similiar_solution_url": "https://asana.com/fr",
-		      "category": "Workspace"
-		    },{
-		      "title": "Redmine",
-		      "similiar_solution_url": "https://www.redmine.org/",
-		      "category": "Workspace"
-		    },{
-		      "title": "Basecamp",
-		      "similiar_solution_url": "https://basecamp.com/",
-		      "category": "Workspace"
-		    },{
-		      "title": "taiga.io",
-		      "similiar_solution_url": "https://www.taiga.io/",
-		      "category": "Workspace"
-		    },{
-		      "title": "Clickup",
-		      "similiar_solution_url": "https://clickup.com/",
-		      "category": "Workspace"
-		    },{
-		      "title": "Amazing Marvin",
-		      "similiar_solution_url": "https://amazingmarvin.com/",
-		      "category": "Workspace"
-		    }],
-		    "licence_list": ["GPL"],
-		    "source_code_download": "https://github.com/opf",
-		    "source_code_profile": "",
-		    "commercial_support_url": "",
-		    "floss_software": true,
-		    "commercial_support_open_source_version": false,
-		    "commercial_support_available": false,
-		    "wikipedia_url": "",
-		    "reference_list": [{
-		      "title": "TMM Group",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tmm-group-95a460ad.svg",
-		      "country": "DE",
-		      "industry": "Information Technology"
-		    },{
-		      "title": "",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tu-berlin-07fc6dfd.svg",
-		      "country": "DE",
-		      "industry": "Information Technology"
-		    },{
-		      "title": "DB Bahn",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsche-bahn-ad93ff9c.svg",
-		      "country": "DE",
-		      "industry": "Transportation"
-		    },{
-		      "title": "Fraunhofer",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-fraunhofer-60ef0970.svg",
-		      "country": "DE",
-		      "industry": "Academia and Research"
-		    },{
-		      "title": "infineon",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-infineon-f5395015.svg",
-		      "country": "DE",
-		      "industry": "Automotive"
-		    },{
-		      "title": "Linux Professional Institute",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-lpi-02f8968c.svg",
-		      "country": "DE",
-		      "industry": "Associations and NGOs"
-		    },{
-		      "title": "Deloitte",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deloitte-2ad092ef.svg",
-		      "country": "DE",
-		      "industry": "Banking and Finance"
-		    },{
-		      "title": "Siemens",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-siemens-26efdd3b.svg",
-		      "country": "FR",
-		      "industry": "Information Technology"
-		    },{
-		      "title": "Stadt Köln",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-stadt-koeln-d11d318c.webp",
-		      "country": "DE",
-		      "industry": "Public Administration and Government"
-		    },{
-		      "title": "RWTH Aachen University",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-rwth-aachen-c028a7c8.svg",
-		      "country": "DE",
-		      "industry": "Education"
-		    },{
-		      "title": "Audi",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-audi-360bd300.svg",
-		      "country": "DE",
-		      "industry": "Automotive"
-		    },{
-		      "title": "Sülze Kopf",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-suelzle-kopf_1980w-335186b0.webp",
-		      "country": "DE",
-		      "industry": "Energy and Utilities"
-		    },{
-		      "title": "ICBC",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-icbc-8bde47f6.webp",
-		      "country": "ES",
-		      "industry": "Banking and Finance"
-		    },{
-		      "title": "AMG",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-amg-5c500afa.svg",
-		      "country": "FR",
-		      "industry": "Manufacturing"
-		    },{
-		      "title": "intelvision",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-intelvision-b23e4777.webp",
-		      "country": "SC",
-		      "industry": "Information Technology"
-		    },{
-		      "title": "Charité",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-charite-9c4e5b8a.svg",
-		      "country": "DE",
-		      "industry": "Education"
-		    },{
-		      "title": "Welt Hunger Hilfe",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-welthungerhilfe-edbcee7c.svg",
-		      "country": "DE",
-		      "industry": "Associations and NGOs"
-		    },{
-		      "title": "Giz",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-giz-894e438a.svg",
-		      "country": "DE",
-		      "industry": "Associationd and NGOs"
-		    },{
-		      "title": "Landtag Brandenburg",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-landtag-brandenburg-f2334a85.svg",
-		      "country": "DE",
-		      "industry": "Public Administration and Government"
-		    },{
-		      "title": "Kronos",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kronos-d2352eaa.svg",
-		      "country": "DE",
-		      "industry": "Cosnulting and training"
-		    },{
-		      "title": "Windmöller & Hölscher",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-windmoeller_960w-8fa91d66.webp",
-		      "country": "DE",
-		      "industry": "Manufacturing"
-		    },{
-		      "title": "EEX",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-eex-3977f204.svg",
-		      "country": "",
-		      "industry": "Energy and Utilities"
-		    },{
-		      "title": "Deutshces Museum",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsches-museum-3890964e.svg",
-		      "country": "DE",
-		      "industry": "Associations and NGOs"
-		    },{
-		      "title": "Greenpeace",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-greenpeace-e121ed49.svg",
-		      "country": "DE",
-		      "industry": "Associations and NGOs"
-		    },{
-		      "title": "Autoliv",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-autoliv-137baa77.svg",
-		      "country": "SE",
-		      "industry": "Automotive"
-		    },{
-		      "title": "HZB Helmholtz Zentrum Berlin",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-helmholtz-97ad89dc.webp",
-		      "country": "DE",
-		      "industry": "Energy and Utilities"
-		    },{
-		      "title": "Sanofi",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-sanofi-37091b73.svg",
-		      "country": "FR",
-		      "industry": "Health and Life Sciences"
-		    },{
-		      "title": "Aucotec",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-aucotec-84c38a15.webp",
-		      "country": "FR",
-		      "industry": "Information Technology"
-		    },{
-		      "title": "Kuhlemann Medical IT Valley",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kuhlemann-81c426c9.webp",
-		      "country": "DE",
-		      "industry": "Health and Life Sciences"
-		    },{
-		      "title": "Carnegie Mellon University",
-		      "logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-cmu-27151eae.svg",
-		      "country": "US",
-		      "industry": "Academia and Research"
-		    }],
-		    "success_case_list": [{
-		      "title": "",
-		      "description": "",
-		      "image_url": "",
-		      "industry": "",
-		      "customer": "",
-		      "country": "",
-		      "language": "",
-		      "success_case_url": ""
-		    }]
-		  }]
+			"title": "Monday",
+			"similiar_solution_url": "https://monday.com/lang/fr/",
+			"category": "Workspace"
+		}, {
+			"title": "Notion",
+			"similiar_solution_url": "https://www.notion.so/fr-fr",
+			"category": "Workspace"
+		}, {
+			"title": "Trello",
+			"similiar_solution_url": "https://trello.com/",
+			"category": "Workspace"
+		}, {
+			"title": "Quire",
+			"similiar_solution_url": "https://quire.io/",
+			"category": "Workspace"
+		}, {
+			"title": "Asana",
+			"similiar_solution_url": "https://asana.com/fr",
+			"category": "Workspace"
+		}, {
+			"title": "Redmine",
+			"similiar_solution_url": "https://www.redmine.org/",
+			"category": "Workspace"
+		}, {
+			"title": "Basecamp",
+			"similiar_solution_url": "https://basecamp.com/",
+			"category": "Workspace"
+		}, {
+			"title": "taiga.io",
+			"similiar_solution_url": "https://www.taiga.io/",
+			"category": "Workspace"
+		}, {
+			"title": "Clickup",
+			"similiar_solution_url": "https://clickup.com/",
+			"category": "Workspace"
+		}, {
+			"title": "Amazing Marvin",
+			"similiar_solution_url": "https://amazingmarvin.com/",
+			"category": "Workspace"
+		}],
+		"licence_list": ["GPL"],
+		"source_code_download": "https://github.com/opf",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "TMM Group",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tmm-group-95a460ad.svg",
+			"country": "DE",
+			"industry": "Information Technology"
+		}, {
+			"title": "",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tu-berlin-07fc6dfd.svg",
+			"country": "DE",
+			"industry": "Information Technology"
+		}, {
+			"title": "DB Bahn",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsche-bahn-ad93ff9c.svg",
+			"country": "DE",
+			"industry": "Transportation"
+		}, {
+			"title": "Fraunhofer",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-fraunhofer-60ef0970.svg",
+			"country": "DE",
+			"industry": "Academia and Research"
+		}, {
+			"title": "infineon",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-infineon-f5395015.svg",
+			"country": "DE",
+			"industry": "Automotive"
+		}, {
+			"title": "Linux Professional Institute",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-lpi-02f8968c.svg",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Deloitte",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deloitte-2ad092ef.svg",
+			"country": "DE",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "Siemens",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-siemens-26efdd3b.svg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "Stadt Köln",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-stadt-koeln-d11d318c.webp",
+			"country": "DE",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "RWTH Aachen University",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-rwth-aachen-c028a7c8.svg",
+			"country": "DE",
+			"industry": "Education"
+		}, {
+			"title": "Audi",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-audi-360bd300.svg",
+			"country": "DE",
+			"industry": "Automotive"
+		}, {
+			"title": "Sülze Kopf",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-suelzle-kopf_1980w-335186b0.webp",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		}, {
+			"title": "ICBC",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-icbc-8bde47f6.webp",
+			"country": "ES",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "AMG",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-amg-5c500afa.svg",
+			"country": "FR",
+			"industry": "Manufacturing"
+		}, {
+			"title": "intelvision",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-intelvision-b23e4777.webp",
+			"country": "SC",
+			"industry": "Information Technology"
+		}, {
+			"title": "Charité",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-charite-9c4e5b8a.svg",
+			"country": "DE",
+			"industry": "Education"
+		}, {
+			"title": "Welt Hunger Hilfe",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-welthungerhilfe-edbcee7c.svg",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Giz",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-giz-894e438a.svg",
+			"country": "DE",
+			"industry": "Associationd and NGOs"
+		}, {
+			"title": "Landtag Brandenburg",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-landtag-brandenburg-f2334a85.svg",
+			"country": "DE",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Kronos",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kronos-d2352eaa.svg",
+			"country": "DE",
+			"industry": "Cosnulting and training"
+		}, {
+			"title": "Windmöller & Hölscher",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-windmoeller_960w-8fa91d66.webp",
+			"country": "DE",
+			"industry": "Manufacturing"
+		}, {
+			"title": "EEX",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-eex-3977f204.svg",
+			"country": "",
+			"industry": "Energy and Utilities"
+		}, {
+			"title": "Deutshces Museum",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsches-museum-3890964e.svg",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Greenpeace",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-greenpeace-e121ed49.svg",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Autoliv",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-autoliv-137baa77.svg",
+			"country": "SE",
+			"industry": "Automotive"
+		}, {
+			"title": "HZB Helmholtz Zentrum Berlin",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-helmholtz-97ad89dc.webp",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		}, {
+			"title": "Sanofi",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-sanofi-37091b73.svg",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		}, {
+			"title": "Aucotec",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-aucotec-84c38a15.webp",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "Kuhlemann Medical IT Valley",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kuhlemann-81c426c9.webp",
+			"country": "DE",
+			"industry": "Health and Life Sciences"
+		}, {
+			"title": "Carnegie Mellon University",
+			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-cmu-27151eae.svg",
+			"country": "US",
+			"industry": "Academia and Research"
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
 	}, {
 		"title": "OpenProject Agile & Scrum",
 		"logo_url": "",
@@ -292,156 +291,242 @@
 		"description": "The flexible Scrum and Agile Boards in OpenProject are designed to organize and prioritize teams’ work, keep an eye on everything that is important such as managing tasks, developing new features, and visualize the progress of work to be done in a project through unlimited boards, cards and lists that can be shared to facilitate collaborative work.",
 		"category_list": ["Workapce"],
 		"similar_solution_list": [{
-		      "title": "",
-		      "similiar_solution_url": "",
-		      "category": ""
-		    }],
-		    "licence_list": ["GPL"],
-		    "source_code_download": "https://github.com/opf",
-		    "source_code_profile": "",
-		    "commercial_support_url": "",
-		    "floss_software": true,
-		    "commercial_support_open_source_version": false,
-		    "commercial_support_available": false,
-		    "wikipedia_url": "",
-		    "reference_list": [{
-		      "title": "",
-		      "logo_url": "",
-		      "country": "",
-		      "industry": ""
-		    }],
-		    "success_case_list": [{
-		      "title": "",
-		      "description": "",
-		      "image_url": "",
-		      "industry": "",
-		      "customer": "",
-		      "country": "",
-		      "language": "",
-		      "success_case_url": ""
-		    }]
-		  }]
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL"],
+		"source_code_download": "https://github.com/opf",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
 	}, {
 		"title": "OpenProject Task Management",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/task-management-software/",
 		"created_year": "",
 		"description": "OpenProject's task management software enables easy management of  work by creating, assigning tasks and keeping an eye on the teams’ progression thanks to the dynamic task list. Project planning is also made simpler with the Gantt Chart that allows you to navigate between projeects and set dates and relationships between tasks.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL"],
+		"source_code_download": "https://github.com/opf",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
 	}, {
 		"title": "OpenProject Time Tracking",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/time-tracking-software/",
 		"created_year": "",
 		"description": "OpenProject enables professional project controlling and cost analysis. Time and costs can be easily tracked on tasks and budget dashboards provide a top-level overview of budgets as well as a detailed analysis of time and costs.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL"],
+		"source_code_download": "https://github.com/opf",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
 	}, {
 		"title": "OpenProject Bug Tracking",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/bug-tracking-software/",
 		"created_year": "",
 		"description": "OpenProject enables structured software testing and bug tracking with detailed views on priorities, statuses and activities as well as customized workflows that allow best tracking and visibility, and provide an optimal base for decisions.",
-		"category_list": ["Information Technology"]
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["GPL"],
+		"source_code_download": "https://github.com/opf",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "",
+			"logo_url": "",
+			"country": "",
+			"industry": ""
+		}],
+		"success_case_list": [{
+			"title": "",
+			"description": "",
+			"image_url": "",
+			"industry": "",
+			"customer": "",
+			"country": "",
+			"language": "",
+			"success_case_url": ""
+		}]
 	}, {
 		"title": "OpenProject Roadmap",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/product-roadmap-software/",
 		"created_year": "",
 		"description": "The product Roadmap communicates what you are building and why you are working on this, providing an overview across multiple projects, a visual timeline to witness the progress, analyzes statuses, priorities assignments to only provide informations to authorized users.",
-		"category_list": ["Information Technology"]
-	}],
-	"similar_solution_list": [{
-		"title": "Monday.com",
-		"similiar_solution_url": "https://monday.com/",
-		"category": "Information Technology"
-	}, {
-		"title": "Trello",
-		"similiar_solution_url": "https://trello.com/home",
-		"category": "Information Technology"
-	}, {
-		"title": "Project Manager",
-		"similiar_solution_url": "https://www.projectmanager.com/",
-		"category": "Information Technology"
-	}, {
-		"title": "Basecamp",
-		"similiar_solution_url": "https://basecamp.com/",
-		"category": "Information Technology"
-	}, {
-		"title": "Redmine",
-		"similiar_solution_url": "https://www.redmine.org/",
-		"category": "Information Technology"
-	}, {
-		"title": "Asana",
-		"similiar_solution_url": "https://asana.com/",
-		"category": "Information Technology"
-	}, {
-		"title": "ZenTao",
-		"similiar_solution_url": "https://www.zentao.pm/",
-		"category": "Information Technology"
-	}, {
-		"title": "Campr",
-		"similiar_solution_url": "https://campr.biz/",
-		"category": "Information Technology"
-	}, {
-		"title": "Roadmap Planner",
-		"similiar_solution_url": "https://www.roadmap-planner.io/",
-		"category": "Information Technology"
-	}, {
-		"title": "Jira",
-		"similiar_solution_url": "https://www.atlassian.com/software/jira",
-		"category": "Information Technology"
-	}, {
-		"title": "Wrike",
-		"similiar_solution_url": "https://www.wrike.com/vm/",
-		"category": "Information Technology"
-	}, {
-		"title": "TeamGantt",
-		"similiar_solution_url": "https://www.teamgantt.com/",
-		"category": "Information Technology"
-	}],
-	"licence_list": ["GPLv3"],
-	"source_code_download": "https://github.com/opf/openproject.git",
-	"source_code_profile": "https://www.openhub.net/p/openproject/analyses/latest/languages_summary",
-	"commercial_support_url": "https://www.openproject.org/pricing/",
-	"floss_software": "Yes",
-	"commercial_support_open_source_version": "Yes",
-	"commercial_support_available": "Yes",
-	"wikipedia_url": "https://en.wikipedia.org/wiki/OpenProject",
-	"reference_list": [{
-		"title": "Go~Mus",
-		"logo_url": "https://gomus.de/wp-content/uploads/2020/09/gomusLogo_green.svg",
-		"country": "DE",
-		"industry": "Information Technology"
-	}, {
-		"title": "Technische Universität Berlin",
-		"logo_url": "https://www.tu.berlin/typo3conf/ext/tub_base_package/Resources/Public/Images/Logos/tu-berlin-logo.svg",
-		"country": "DE",
-		"industry": "Academia and Research"
-	}, {
-		"title": "Sanofi",
-		"logo_url": "https://www.sanofi.com/-/media/Project/One-Sanofi-Web/shared/layout/new-branding/logo-header-color-large.png?h=20&la=fr&w=76&hash=1887F5B9845D9D9D93B76AE588937423",
-		"country": "FR",
-		"industry": "Healthcare"
-	}, {
-		"title": "Greenpeace",
-		"logo_url": "https://www.greenpeace.org/global/static/img/gp-logo.svg",
-		"country": "NL",
-		"industry": "Associations and NGOs"
-	}, {
-		"title": "Arab Bank",
-		"logo_url": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
-		"country": "JO",
-		"industry": "Banking and Finance"
-	}, {
-		"title": "Yanfeng",
-		"logo_url": "https://www.yfai.com/sites/all/themes/custom/yfai_corporate/img/logo-color.svg",
-		"country": "CN",
-		"industry": "Automotive"
-	}, {
-		"title": "Fela",
-		"logo_url": "https://www.fela.ch/img/grundlayout/fela-gruppe-logo.jpg",
-		"country": "CH",
-		"industry": "Engineering"
-	}],
-	"success_case_list": []
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "Monday.com",
+			"similiar_solution_url": "https://monday.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Trello",
+			"similiar_solution_url": "https://trello.com/home",
+			"category": "Information Technology"
+		}, {
+			"title": "Project Manager",
+			"similiar_solution_url": "https://www.projectmanager.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Basecamp",
+			"similiar_solution_url": "https://basecamp.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "Redmine",
+			"similiar_solution_url": "https://www.redmine.org/",
+			"category": "Information Technology"
+		}, {
+			"title": "Asana",
+			"similiar_solution_url": "https://asana.com/",
+			"category": "Information Technology"
+		}, {
+			"title": "ZenTao",
+			"similiar_solution_url": "https://www.zentao.pm/",
+			"category": "Information Technology"
+		}, {
+			"title": "Campr",
+			"similiar_solution_url": "https://campr.biz/",
+			"category": "Information Technology"
+		}, {
+			"title": "Roadmap Planner",
+			"similiar_solution_url": "https://www.roadmap-planner.io/",
+			"category": "Information Technology"
+		}, {
+			"title": "Jira",
+			"similiar_solution_url": "https://www.atlassian.com/software/jira",
+			"category": "Information Technology"
+		}, {
+			"title": "Wrike",
+			"similiar_solution_url": "https://www.wrike.com/vm/",
+			"category": "Information Technology"
+		}, {
+			"title": "TeamGantt",
+			"similiar_solution_url": "https://www.teamgantt.com/",
+			"category": "Information Technology"
+		}],
+		"licence_list": ["GPLv3"],
+		"source_code_download": "https://github.com/opf/openproject.git",
+		"source_code_profile": "https://www.openhub.net/p/openproject/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.openproject.org/pricing/",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenProject",
+		"reference_list": [{
+			"title": "Go~Mus",
+			"logo_url": "https://gomus.de/wp-content/uploads/2020/09/gomusLogo_green.svg",
+			"country": "DE",
+			"industry": "Information Technology"
+		}, {
+			"title": "Technische Universität Berlin",
+			"logo_url": "https://www.tu.berlin/typo3conf/ext/tub_base_package/Resources/Public/Images/Logos/tu-berlin-logo.svg",
+			"country": "DE",
+			"industry": "Academia and Research"
+		}, {
+			"title": "Sanofi",
+			"logo_url": "https://www.sanofi.com/-/media/Project/One-Sanofi-Web/shared/layout/new-branding/logo-header-color-large.png?h=20&la=fr&w=76&hash=1887F5B9845D9D9D93B76AE588937423",
+			"country": "FR",
+			"industry": "Healthcare"
+		}, {
+			"title": "Greenpeace",
+			"logo_url": "https://www.greenpeace.org/global/static/img/gp-logo.svg",
+			"country": "NL",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Arab Bank",
+			"logo_url": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
+			"country": "JO",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "Yanfeng",
+			"logo_url": "https://www.yfai.com/sites/all/themes/custom/yfai_corporate/img/logo-color.svg",
+			"country": "CN",
+			"industry": "Automotive"
+		}, {
+			"title": "Fela",
+			"logo_url": "https://www.fela.ch/img/grundlayout/fela-gruppe-logo.jpg",
+			"country": "CH",
+			"industry": "Engineering"
+		}],
+		"success_case_list": []
+	}]
 }
