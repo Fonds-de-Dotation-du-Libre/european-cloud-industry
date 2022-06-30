@@ -1,7 +1,7 @@
 {
 	"created": "01-04-2022",
 	"title": "Whaller",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whaller_logo_simple.png/1200px-Whaller_logo_simple.png",
 	"location": {
 		"title": "Whaller",
@@ -17,32 +17,32 @@
 	"website_url": "https://whaller.com/",
 	"founded_year": "2013",
 	"kpi_list": [{
-		"year": "2020",
-		"staff": "11",
-		"earnings": "39671 EUR",
-		"total_assets": "1068959 EUR",
-		"revenues": "1293797 EUR",
+		"year": 2020,
+		"staff": 11,
+		"earnings": "39 671 EUR",
+		"total_assets": "1 068959 EUR",
+		"revenues": "1 293 797 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
-		"year": "2019",
-		"staff": "9",
-		"earnings": "-179286 EUR",
-		"total_assets": "1003326 EUR",
-		"revenues": "850062 EUR",
+		"year": 2019,
+		"staff": 9,
+		"earnings": "-179 286 EUR",
+		"total_assets": "100 3326 EUR",
+		"revenues": "850 062 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "-452444 EUR",
-		"total_assets": "644587 EUR",
-		"revenues": "506977 EUR",
+		"year": 2018,
+		"staff": null,
+		"earnings": "-452 444 EUR",
+		"total_assets": "644 587 EUR",
+		"revenues": "506 977 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}],
 	"solution_list": [{
 		"title": "Whaller",
 		"logo_url": "https://whaller.com/images/homepage/stands-out/visuel-sphere-unifiees.png",
 		"website_url": "https://whaller.com/en/product",
-		"created_year": "2013",
+		"created_year": 2013,
 		"description": "Whaller gives organizations everything they need to accelerate their digital transformation, without sacrificing cybersecurity. Whaller is ideal for both small teams and very large networks.",
 		"category_list": ["Workplace"],
 		"similar_solution_list": [{
@@ -67,7 +67,7 @@
 		"source_code_profile": "",
 		"commercial_support_url": "https://help.whaller.com/en/",
 		"floss_software": false,
-		"commercial_support_open_source_version": ,
+		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
