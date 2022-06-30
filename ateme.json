@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": 2020,
 		"staff": 166,
-		"earnings": "-1355100 EUR",
-		"total_assets": "66495900 EUR",
-		"revenues": "51620400 EUR",
+		"earnings": "-1 355 100 EUR",
+		"total_assets": "66 495 900 EUR",
+		"revenues": "51 620 400 EUR",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
 	}, {
 		"year": 2019,
 		"staff": 141,
-		"earnings": "5998000 EUR",
-		"total_assets": "48061000 EUR",
-		"revenues": "58294000 EUR",
+		"earnings": "5 998 000 EUR",
+		"total_assets": "48 061 000 EUR",
+		"revenues": "58 294 000 EUR",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
 	}, {
 		"year": 2018,
 		"staff": null,
-		"earnings": "1602800 EUR",
-		"total_assets": "40038900 EUR",
-		"revenues": "51727600 EUR",
+		"earnings": "1 602 800 EUR",
+		"total_assets": "40 038 900 EUR",
+		"revenues": "51 727 600 EUR",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201812311.html"
 	}, {
 		"year": 2017,
 		"staff": 126,
-		"earnings": "3788700 EUR",
-		"total_assets": "35966600 EUR",
-		"revenues": "48423100 EUR",
+		"earnings": "3 788 700 EUR",
+		"total_assets": "35 966 600 EUR",
+		"revenues": "48 423 100 EUR",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201812311.html"
 	}, {
 		"year": 2016,
 		"staff": 112,
-		"earnings": "1720800 EUR",
-		"total_assets": "26443200 EUR",
-		"revenues": "37458900 EUR",
+		"earnings": "1 720 800 EUR",
+		"total_assets": "26 443 200 EUR",
+		"revenues": "37 458 900 EUR",
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201612311.html"
 	}],
 	"solution_list": [{
@@ -121,7 +121,7 @@
 	      "industry": "Information Technology",
 	      "customer": "SBTVD Forum (Sistema Brasileiro de TV Digital)",
 	      "country": "BR",
-	      "language": "pt",
+	      "language": "PT",
 	      "success_case_url": "https://www.ateme.com/defining-brazils-standard-for-digital-television-tv3-0/"
 		}]
 	},{
