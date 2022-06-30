@@ -27,19 +27,19 @@
     "similar_solution_list": [{
        "title": "Airtable",
       "similiar_solution_url": "https://www.airtable.com/",
-      "category": "Collaborative software"
+      "category": "Storage and Database"
     },{
        "title": "NocoDB",
       "similiar_solution_url": "https://nocodb.com/",
-      "category": "Open source collaborative platform"
+      "category": "Storage and Database"
     },{
        "title": "Avocode",
       "similiar_solution_url": "https://avocode.com/",
-      "category": "Collaborative software"
+      "category": "Storage and Database"
     },{
        "title": "Assembla",
       "similiar_solution_url": "https://www.assembla.com/home",
-      "category": "Source code managment SaaS"
+      "category": "Storage and Database"
     }],
     "licence_list": ["MIT"],
     "source_code_download": "https://gitlab.com/bramw/baserow",
