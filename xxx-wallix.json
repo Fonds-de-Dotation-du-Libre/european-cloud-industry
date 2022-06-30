@@ -15,48 +15,48 @@
 	},
 	"subsidiary_location_list": ["GB"],
 	"website_url": "https://www.wallix.com/",
-	"founded_year": "2003",
+	"founded_year": 2003,
 	"kpi_list": [{
-		"year": "2020",
-		"staff": "176",
-		"earnings": "38818 EUR",
-		"total_assets": "31118554 EUR",
-		"revenues": "19839369 EUR",
+		"year": 2020,
+		"staff": 176,
+		"earnings": "38 818 EUR",
+		"total_assets": "31 118 554 EUR",
+		"revenues": "19 839 369 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
-		"year": "2019",
-		"staff": "141",
-		"earnings": "284129 EUR",
-		"total_assets": "24561856 EUR",
+		"year": 2019,
+		"staff": 141,
+		"earnings": "284 129 EUR",
+		"total_assets": "24 561 856 EUR",
 		"revenues": "15734723 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
-		"year": "2018",
-		"staff": "94",
-		"earnings": "-701241 EUR",
-		"total_assets": "18754099 EUR",
-		"revenues": "12381287 EUR",
+		"year": 2018,
+		"staff": 94,
+		"earnings": "-701 241 EUR",
+		"total_assets": "18 754 099 EUR",
+		"revenues": "12 381 287 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
-		"year": "2017",
-		"staff": "73",
-		"earnings": "648048 EUR",
-		"total_assets": "17294923 EUR",
-		"revenues": "1177692 EUR",
+		"year": 2017,
+		"staff": 73,
+		"earnings": "648 048 EUR",
+		"total_assets": "17 294 923 EUR",
+		"revenues": "1 177 692 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
-		"year": "2016",
-		"staff": "57",
-		"earnings": "-289793 EUR",
-		"total_assets": "12846545 EUR",
-		"revenues": "7032354 EUR",
+		"year": 2016,
+		"staff": 57,
+		"earnings": "-289 793 EUR",
+		"total_assets": "12 846 545 EUR",
+		"revenues": "7 032 354 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}],
 	"solution_list": [{
 		"title": "WALLIX Authenticator",
 		"logo_url": "https://www.wallix.com/wp-content/uploads/2022/02/PFA_150.png",
 		"website_url": "https://www.wallix.com/fr/multi-factor-authentication",
-		"created_year": "",
+		"created_year": null,
 		"description": "WALLIX Authenticator offers strong, multi-factor authentication to protect access to IT assets, applications and data, with a high security connection wherever you are.",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [],
@@ -69,12 +69,12 @@
 		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
-    "success_case_list": []
+   		"success_case_list": []
 	}, {
 		"title": "WALLIX Bastion Session Manager",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/privileged-access-management/session-manager/",
-		"created_year": "",
+		"created_year": null,
 		"description": "With the WALLIX Bastion Session Manager, gain a real-time view of privileged user activity to monitor actions, record user sessions, and automatically terminate suspicious activity for enhanced threat detection and response",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [],
@@ -92,7 +92,7 @@
 		"title": "Wallix Bation Password Manager",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/privileged-access-management/password-manager/",
-		"created_year": "",
+		"created_year": null,
 		"description": "With the WALLIX Bastion Password Manager, manage system passwords in a consolidated vault to simplify IT super administrators’ access and control over credentials.",
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [{
@@ -152,7 +152,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "NHS",
 			"country": "GB",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.wallix.com/success-stories/nhs-birmingham"
 		}, {
 			"title": "POST Luxembourg chose WALLIX Bastion to strengthen its internal infrastructure and customer security",
@@ -161,7 +161,7 @@
 			"industry": "Transport",
 			"customer": "Post Luxembourg",
 			"country": "LU",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.wallix.com/success-stories/post-luxembourg"
 		}, {
 			"title": "European Spallation Source (ESS) chose WALLIX Bastion to secure remote access to sensitive international research equipment",
@@ -170,7 +170,7 @@
 			"industry": "Academia and Research",
 			"customer": "European Spallation Source (ESS)",
 			"country": "SE",
-			"language": "EN",
+			"language": "sv",
 			"success_case_url": "https://www.wallix.com/success-stories/ess"
 		}, {
 			"title": "Bank of Africa chooses WALLIX Bastion to secure access to its IT systems",
@@ -179,14 +179,14 @@
 			"industry": "Banking and Finance",
 			"customer": "Bank of Africa",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.wallix.com/success-story/bank-of-africa"
 		}]
 	}, {
 		"title": "Wallix Access Manager",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/privileged-access-management/access-manager/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Securing and managing external access to critical IT assets is a priority in the current climate of remote access and rampant cyber threats.",
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [],
@@ -206,14 +206,14 @@
 			"industry": "Agriculture and Food",
 			"customer": "The Ministry of Agriculture, Forestry, and Water Management of the Republic of Serbia",
 			"country": "RS",
-			"language": "EN",
+			"language": "sr",
 			"success_case_url": "https://www.wallix.com/success-stories/ministry-of-agriculture-forestry-and-water-management-of-serbia"
 		}]
 	}, {
 		"title": "Wallix BestSafe",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/endpoint-privilege-management/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Eliminate the need for user accounts with elevated permissions thanks to innovative endpoint privilege management. Achieve unparalleled security across all endpoints with permissions controlled at the application and process level – without impacting user productivity.",
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [],
