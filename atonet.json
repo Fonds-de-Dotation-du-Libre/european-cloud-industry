@@ -20,36 +20,36 @@
 		"year": 2020,
 		"staff": null,
 		"earnings": "2800 EUR",
-		"total_assets": "219200 EUR",
-		"revenues": "238600 EUR",
+		"total_assets": "219 200 EUR",
+		"revenues": "238 600 EUR",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225202009302.html"
 	}, {
 		"year": 2019,
 		"staff": null,
-		"earnings": "14800 EUR",
-		"total_assets": "213000 EUR",
-		"revenues": "232800 EUR",
+		"earnings": "14 800 EUR",
+		"total_assets": "213 000 EUR",
+		"revenues": "232 800 EUR",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225202009302.html"
 	}, {
 		"year": 2018,
 		"staff": null,
-		"earnings": "14000 EUR",
-		"total_assets": "110100 EUR",
-		"revenues": "218300 EUR",
+		"earnings": "14 000 EUR",
+		"total_assets": "110 100 EUR",
+		"revenues": "218 300 EUR",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201909302.html"
 	}, {
 		"year": 2017,
 		"staff": null,
-		"earnings": "12600 EUR",
-		"total_assets": "98000 EUR",
-		"revenues": "206700 EUR",
+		"earnings": "12 600 EUR",
+		"total_assets": "98 000 EUR",
+		"revenues": "206 700 EUR",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201809302.html"
 	}, {
 		"year": 2016,
 		"staff": null,
 		"earnings": "4200 EUR",
-		"total_assets": "90200 EUR",
-		"revenues": "188100 EUR",
+		"total_assets": "90 200 EUR",
+		"revenues": "188 100 EUR",
 		"source_url": "https://www.societe.com/bilan/atonet-518667225201809302.html"
 	}],
 	"solution_list": [{
@@ -130,7 +130,7 @@
 		"website_url": "https://athonet.com/products/athonet-tactical-solution-cube/",
 		"created_year": null,
 		"description": "The Tactical Cube is a compact portable solution that includes a radio (RAN) and mobile core. The mobile core is hosted on off-the-shelf servers or on Athonet EX-BOX server providing IP65 protection while the radio acts as a base transceiver station with IP65 protection.",
-		"category_list": ["Radio base station"],
+		"category_list": ["Radio Base Station"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -199,7 +199,7 @@
 	}, {
 		"title": "Athonet tactical backpack",
 		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg?id=59f77d8c9d1924201ef3",
-		"website_url": "https://athonet.com/products/athonet-tactical-solution-backpack/",
+		"website_url": "https://athonet.com/products/athonet-tactical-solution-backpack/x",
 		"created_year": null,
 		"description": "A full-featured, standalone LTE and 5G network solution that is trusted and field-proven for secure, tactical and rapid deployment.",
 		"category_list": ["Networking"],
@@ -208,8 +208,8 @@
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": false,
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
