@@ -19,23 +19,23 @@
 	"kpi_list": [{
 		"year": 2020,
 		"staff": 9,
-		"earnings": "703270 EUR",
-		"total_assets": "1094494 EUR",
-		"revenues": "1870645 EUR",
+		"earnings": "703 270 EUR",
+		"total_assets": "1 094 494 EUR",
+		"revenues": "1 870 645 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}, {
 		"year": 2019,
 		"staff": 9,
-		"earnings": "415850 EUR",
-		"total_assets": "591225 EUR",
-		"revenues": "1531379 EUR",
+		"earnings": "415 850 EUR",
+		"total_assets": "591 225 EUR",
+		"revenues": "1 531 379 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}, {
 		"year": 2018,
 		"staff": 8,
-		"earnings": "363411 EUR",
-		"total_assets": "375374 EUR",
-		"revenues": "1159508 EUR",
+		"earnings": "363 411 EUR",
+		"total_assets": "375 374 EUR",
+		"revenues": "1 159 508 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}],
 	"solution_list": [{
@@ -150,7 +150,7 @@
 		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
-		"commercial_support_available": null,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
@@ -174,15 +174,15 @@
 		"website_url": "https://www.wsweet.org/",
 		"created_year": null,
 		"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
-		"category_list": "Information Technology",
+		"category_list": "Operation Management",
 		"similar_solution_list": [{
 			"title": "pwm-project",
 			"similiar_solution_url": "",
-			"category": "Information Technology"
+			"category": "Operation Management"
 			}, {
 			"title": "",
 			"similiar_solution_url": "",
-			"category": "Information Technology"
+			"category": "Operation Management"
 			}],
 		"licence_list": [""],
 		"source_code_download": "",
@@ -190,7 +190,7 @@
 		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
-		"commercial_support_available": null,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
@@ -213,23 +213,23 @@
 		"website_url": "https://www.worteks.com/edition/wopla/",
 		"created_year": null,
 		"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-		"category_list": "Information Technology",
+		"category_list": "Operation Management",
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
-			"category": "Information Technology"
+			"category": "Operation Management"
 			}, {
 			"title": "",
 			"similiar_solution_url": "",
-			"category": "Information Technology"
+			"category": "Operation Management"
 			}],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
-		"commercial_support_available": null,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "",
@@ -252,7 +252,7 @@
 		"website_url": "https://www.worteks.com/edition/widaas/",
 		"created_year": null,
 		"description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
-		"category_list": "Information Technology",
+		"category_list": "Identity",
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -268,7 +268,7 @@
 		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
-		"commercial_support_available": null,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Red Hat",
