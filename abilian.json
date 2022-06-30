@@ -23,22 +23,22 @@
     "website_url": "https://abilian.com/fr/solutions/sics-pc/",
     "created_year": null,
     "description": "A secure extranet dedicated to the business of clusters, developed by experts involved in the life of those clusters for several years, based on an open source platform dedicated to enterprise information management and emerging collaboration",
-    "category_list": ["collaborative suite"],
+    "category_list": ["Workspace"],
     "similar_solution_list": [{
       "title": "Huddle",
-      "category": "Collaborative Suite",
+      "category": "Workspace",
       "similar_solution_url": "https://www.huddle.com/"
     },{
       "title": "Mattermost",
-      "category": "Collaborative Suite",
+      "category": "Workspace",
       "similar_solution_url": "https://mattermost.com/"
     },{
       "title": "Alfresco",
-      "category": "Collaborative Suite",
+      "category": "Workspace",
       "similar_solution_url": "https://www.alfresco.com/"
     },{
       "title": "Owncloud",
-      "category": "Collaborative Suite",
+      "category": "Workspace",
       "similar_solution_url": "https://owncloud.com/"
     }],
     "licence_list": [],
@@ -77,7 +77,7 @@
     "website_url": "https://abilian.com/fr/solutions/labandco/",
     "created_year": 2014,
     "description": "A software package enabling research or teaching and research institutions to streamline relations between researchers and the administration",
-    "category_list": "software",
+    "category_list": "Operation Management",
     "similar_solution_list": [{
       "title": "Odoo",
       "category": "software",
@@ -103,18 +103,18 @@
     "website_url": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
     "created_year": 2012,
     "description": "A modular and open source software platform designed to help build business applications based on emerging collaboration",
-    "category_list": ["Collaborative tool"],
+    "category_list": ["Workspace"],
     "similar_solution_list": [{
       "title": "Symphony",
-      "category": "Collaborative tool",
+      "category": "Workspace",
       "similar_solution_url": "https://symphony.com/"
     },{
       "title": "Discourse",
-      "category": "Collaborative tool",
+      "category": "Workspace",
       "similar_solution_url": "https://www.discourse.org/"
     },{
       "title": "Social Home",
-      "category": "Collaborative tool",
+      "category": "Workspace",
       "similar_solution_url": "https://socialhome.network/"
     }],
     "licence_list": ["LGPL-2.1 License"],
@@ -133,14 +133,14 @@
     "website_url": "https://abilian.com/fr/solutions/conventions-affaires/",
     "created_year": 2014,
     "description": "An open source solution in SaaS mode (or hosted by you) which ensures from A to Z the management of your event, in the best possible conditions",
-    "category_list": "event management software",
+    "category_list": "Operation Management",
     "similar_solution_list": [{
       "title": "Eventbrite",
-      "category": "event management software",
+      "category": "Operation Management",
       "similar_solution_url": "https://www.eventbrite.ie/"
     },{
       "title": "Ex Ordo",
-      "category": "event management software",
+      "category": "Operation Management",
       "similar_solution_url": "https://www.exordo.com/"
     }],
     "licence_list": [""],
@@ -159,7 +159,7 @@
     "website_url": "https://abilian.com/fr/solutions/jnov/",
     "created_year": 2018,
     "description": "JNOV is a digital platform accessible via the Internet dedicated to managing interactions with companies or consortia proposing innovative solutions in the context of calls for expressions of interest, calls for projects or cascade funding programs , and to the evaluation of applications submitted by experts",
-    "category_list": "digital platform",
+    "category_list": "Operation Management",
     "similar_solution_list": [""],
     "licence_list": [""],
     "source_code_download": "",
@@ -177,7 +177,7 @@
     "website_url": "https://abilian.com/fr/solutions/joinux/",
     "created_year": 2016,
     "description": "joinux is an admission and selection process management software, particularly adapted to the processes of application and selection of proposals during a conference call and application and selection of candidates for a university training (master, doctorate...) or not, for a competition, etc.",
-    "category_list": ["software"],
+    "category_list": ["Operation Management"],
     "similar_solution_list": [""],
     "licence_list": [""],
     "source_code_download": "",
@@ -195,7 +195,7 @@
     "website_url": "https://abilian.com/fr/solutions/crm/",
     "created_year": 2012,
     "description": "With Abilian CRM, you have a solution dedicated to the management of your customer relationship, and in particular to the collection and fine-tuning of information on your prospects, customers, partners, contacts (individuals) within these organizations, your business and your projects.",
-    "category_list": ["software"],
+    "category_list": ["Operation Mangement"],
     "similar_solution_list": [{
       "title": "SuiteCRM",
       "category": "software",
