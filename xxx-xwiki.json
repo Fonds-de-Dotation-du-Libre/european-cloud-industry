@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-12",
 	"title": "XWiki SAS",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
 	"location": {
 		"title": "XWiki SAS",
@@ -15,49 +15,48 @@
 	},
 	"subsidiary_location_list": ["RO"],
 	"website_url": "https://xwiki.com/",
-	"founded_year": "2004",
+	"founded_year": 2004,
 	"kpi_list": [{
-		"year": "2020",
-		"staff": "",
-		"earnings": "-152658 EUR",
-		"total_assets": "2677696 EUR",
-		"revenues": "1261675 EUR",
+		"year": 2020,
+		"staff": null,
+		"earnings": "-152 658 EUR",
+		"total_assets": "2 677 696 EUR",
+		"revenues": "1 261 675 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
 	}, {
-		"year": "2019",
-		"staff": "13",
-		"earnings": "-18074 EUR",
-		"total_assets": "2790687 EUR",
-		"revenues": "1559579 EUR",
+		"year": 2019,
+		"staff": 13,
+		"earnings": "-1 8074 EUR",
+		"total_assets": "2 790 687 EUR",
+		"revenues": "1 559 579 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
 	}, {
-		"year": "2018",
-		"staff": "16",
-		"earnings": "275713 EUR",
-		"total_assets": "2302493 EUR",
-		"revenues": "1630338 EUR",
+		"year": 2018,
+		"staff": 16,
+		"earnings": "275 713 EUR",
+		"total_assets": "2 302 493 EUR",
+		"revenues": "1 630 338 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
 	}, {
-		"year": "2017",
-		"staff": "15",
-		"earnings": "-53801 EUR",
-		"total_assets": "2107642 EUR",
-		"revenues": "1245643 EUR",
+		"year": 2017,
+		"staff": 15,
+		"earnings": "-53 801 EUR",
+		"total_assets": "2 107 642 EUR",
+		"revenues": "1 245 643 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
 	}, {
-		"year": "2016",
-		"staff": "16",
-		"earnings": "-268222 EUR",
-		"total_assets": "2447998 EUR",
-		"revenues": "920401 EUR",
+		"year": 2016,
+		"staff": 16,
+		"earnings": "-268 222 EUR",
+		"total_assets": "2 447 998 EUR",
+		"revenues": "920 401 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/XWIKI-477865281/"
 	}],
 	"solution_list": [{
 		"title": "XWiki",
 		"logo_url": "https://www.xwiki.org/xwiki/bin/download/XWikiOrg/UI/Theme-Main/logo.png?rev=1.1",
 		"website_url": "https://www.xwiki.org/xwiki/bin/view/Main/",
-		"created_year": "2004",
-		"solution_type": "Software",
+		"created_year": 2004,
 		"description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. XWiki is an enterprise wiki. It includes WYSIWYG editing, OpenDocument based document import/export, semantic annotations and tagging, and advanced permissions management.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
@@ -204,7 +203,7 @@
 			"industry": "Transport",
 			"customer": "Chronopost International",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/en/company/references/chronopost-international"
 		}, {
 			"title": "Fidelia Assistance - Capitalizing and enriching internal knowledge with Wikidelia",
@@ -213,7 +212,7 @@
 			"industry": "Insurance",
 			"customer": "Fidelia",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/en/company/references/fidelia-assistance"
 		}, {
 			"title": "Lenovo - Facilitating collaboration for over 7000 users by migrating to a custom knowledge base in under 30 days",
@@ -222,7 +221,7 @@
 			"industry": "Information Technology",
 			"customer": "Lenovo",
 			"country": "CN",
-			"language": "EN",
+			"language": "zh",
 			"success_case_url": "https://xwiki.com/en/company/references/Lenovo"
 		}, {
 			"title": "CHC - Improving children/youth health services across Canada through an online sharing knowledge community",
@@ -231,7 +230,7 @@
 			"industry": "Insurance",
 			"customer": "CHC",
 			"country": "CA",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://xwiki.com/en/company/references/caphc"
 		}, {
 			"title": "AFCEN (Association française pour les règles de conception, de construction et de surveillance en exploitation des matériels des chaudières électro-nucléaires) - Using XWiki to create collaborative workspaces and centralize data used by experts worldwide",
@@ -240,7 +239,7 @@
 			"industry": "Energy and Utilities",
 			"customer": "AFCEN",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/en/company/references/afcen"
 		}, {
 			"title": "Naval Group - Scaling with custom applications - better security and timely information sharing covering business-specific issues",
@@ -249,7 +248,7 @@
 			"industry": "Defense",
 			"customer": "Naval Group",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/naval-group"
 		}, {
 			"title": "SFR Altice - Scaling with XWiki - an accessible and secure intranet for over 12,000 users",
@@ -258,7 +257,7 @@
 			"industry": "Telecommunication",
 			"customer": "SFR ALTICE",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/sfr-altice"
 		}, {
 			"title": "Easy Vista - Reducing silos and improving internal communication with a bi-lingual Knowledge Base solution",
@@ -267,7 +266,7 @@
 			"industry": "IT services",
 			"customer": "Easy Vista",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/easyvista"
 		}, {
 			"title": "Amazon - Empowering collaboration and knowledge sharing for over 20,000 users",
@@ -276,7 +275,7 @@
 			"industry": "Commerce and Retail",
 			"customer": "Amazon",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/download/societe/references/amazon/amazon.jpg"
 		}, {
 			"title": "FOPH - Website redesign with a customized approach - structuring/transforming digital content into a reliable resource center",
@@ -285,7 +284,7 @@
 			"industry": "Public Administration and Government",
 			"customer": "FOPH - Fédération nationale des Offices Publics de l’Habitat",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/foph"
 		}, {
 			"title": "Meetic - Building an intranet for everyone - easy updating, best practices sharing, and always to date information",
@@ -294,7 +293,7 @@
 			"industry": "Social Media",
 			"customer": "Meetic",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/meetic"
 		}, {
 			"title": "FNAB - Building a shared knowledge federation with XWiki - improved internal work and external collaboration",
@@ -303,7 +302,7 @@
 			"industry": "Public Administration and Government",
 			"customer": "Fédération Nationale de l’Agriculture Biologique",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/fnab"
 		}, {
 			"title": "CNFPT - Building and launching WikiTerritorial with XWiki-all-in-one spaces for knowledge, articles, news",
@@ -312,15 +311,14 @@
 			"industry": "Public Administration and Government",
 			"customer": "CNFPT - Centre national de la fonction publique territoriale",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/cnfpt"
 		}]
 	}, {
 		"title": "Cryptpad",
 		"logo_url": "https://cryptpad.fr/customize/CryptPad_logo.svg?",
 		"website_url": "https://cryptpad.fr/index.html",
-		"created_year": "",
-		"solution_type": "Software",
+		"created_year": null,
 		"description": "CryptPad is built to enable collaboration. Changes to documents are synchronized in real time. Since all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
