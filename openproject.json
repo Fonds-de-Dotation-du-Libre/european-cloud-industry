@@ -526,6 +526,96 @@
 			"logo_url": "https://www.fela.ch/img/grundlayout/fela-gruppe-logo.jpg",
 			"country": "CH",
 			"industry": "Engineering"
+		}, {
+			"title": "Thompson Reuters",
+			"logo_url": "",
+			"country": "US",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "Deloitte",
+			"logo_url": "",
+			"country": "GB",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "CITIC Group",
+			"logo_url": "",
+			"country": "CH",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "Suzuki",
+			"logo_url": "",
+			"country": "JP",
+			"industry": "Automotive"
+		}, {
+			"title": "Skinest Group",
+			"logo_url": "",
+			"country": "EE",
+			"industry": "Manufacturing"
+		}, {
+			"title": "EnBW",
+			"logo_url": "",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Todico",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Manufcaturing"
+		},{
+			"title": "Augustus International Enterprises Medical Management",
+			"logo_url": "",
+			"country": "US",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Fracht",
+			"logo_url": "",
+			"country": "DE",
+			"industry": "commerce and Retail"
+		},{
+			"title": "evozon",
+			"logo_url": "",
+			"country": "RO",
+			"industry": "Information Technology"
+		},{
+			"title": "Adult Literacy Rural Trust",
+			"logo_url": "",
+			"country": "US",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Fokuza",
+			"logo_url": "",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "One Happy Family",
+			"logo_url": "",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "bundesanzeiger-verlag",
+			"logo_url": "",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "ACLU",
+			"logo_url": "",
+			"country": "US",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "ijgd",
+			"logo_url": "",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Česká televize",
+			"logo_url": "",
+			"country": "CZ",
+			"industry": "Media and Entertainment"
+		},{
+			"title": "Sea Watch",
+			"logo_url": "",
+			"country": "DE",
+			"industry": "Associations and NGOs"
 		}],
 		"success_case_list": []
 	}]
