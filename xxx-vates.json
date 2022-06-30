@@ -1,7 +1,7 @@
 {
   "created": "2022-04-08",
   "title": "Vates",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://vates.fr/img/bg-img/logovates.png",
   "location": {
     "title": "Vates SAS",
@@ -15,19 +15,19 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://vates.fr/",
-  "founded_year": "2012",
+  "founded_year": 2012,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "",
+    "year": 2020,
+    "staff": null,
     "earnings": "",
-    "total_assets": "2017605 EUR",
+    "total_assets": "2 017 605 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/"
   }, {
-    "year": "2019",
-    "staff": "",
+    "year": 2019,
+    "staff": null,
     "earnings": "",
-    "total_assets": "1445752 EUR",
+    "total_assets": "1 445 752 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/"
   }],
@@ -35,7 +35,7 @@
     "title": "XCP-ng",
     "logo_url": "https://vates.fr/img/bg-img/xcp-ng.png",
     "website_url": "https://xcp-ng.org/",
-    "created_year": "2018",
+    "created_year": 2018,
     "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
     "category_list": ["Compute virtualisation"],
     "similar_solution_list": [{
@@ -65,7 +65,7 @@
     "title": "Xen Orchestra",
     "logo_url": "https://xen-orchestra.com/assets/logo.png",
     "website_url": "https://xen-orchestra.com/#!/xo-home",
-    "created_year": "",
+    "created_year": null,
     "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
     "category_list": ["Service Lifecycle Automation"],
     "similar_solution_list": [{
