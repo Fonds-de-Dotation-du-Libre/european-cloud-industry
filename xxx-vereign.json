@@ -1,7 +1,7 @@
 {
   "created": "2022-03-29",
   "title": "Vereign",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.vereign.com/wp-content/themes/vereign2020/images/vereign-logo.svg",
   "location": {
     "title": "Vereign AG",
@@ -15,15 +15,14 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.vereign.com/",
-  "founded_year": "2017",
+  "founded_year": 2017,
   "kpi_list": [],
   "solution_list": [{
     "title": "Vereign SEAL",
     "logo_url": "https://www.vereign.com/wp-content/themes/vereign2020/images/landing/icon_mail.png",
     "website_url": "https://www.vereign.com/",
-    "created_year": "2017",
+    "created_year": 2017,
     "description": "Vereign is a company that provides a network for a verified and self-managed identity service. Customers' Personal Critical Infrastructure- identity, data, and communication- are secured thanks to Blockchain, decentralization, and self-sovereign identity.",
-    "solution_type": "Software",
     "category_list": ["Identity"],
     "similar_solution_list": [{
       "title": "Adips",
