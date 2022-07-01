@@ -1,7 +1,7 @@
 {
-	"created": "2012",
+	"created": "2022-06-30",
 	"title": "Threema GmbH",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://threema.ch/images/icons/threema-icon.svg",
 	"location": {
 		"title": "Threema GmbH",
@@ -15,15 +15,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://threema.ch/",
-	"founded_year": "2012",
+	"founded_year": 2012,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Threema",
 		"logo_url": "https://threema.ch/images/icons/threema-icon.svg",
 		"website_url": "https://threema.ch/en/home",
-		"created_year": "2012",
+		"created_year": 2012,
 		"description": "Threema is the instant messenger designed to generate as little user data as possible. All communication is end-to-end encrypted, and the app is open source.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Skype",
@@ -56,9 +55,8 @@
 		"title": "Threema Work",
 		"logo_url": "https://threema.ch/images/logo_work.svg",
 		"website_url": "https://threema.ch/en/work",
-		"created_year": "2014",
+		"created_year": 2014,
 		"description": "Threema Work is a messaging app that meets all employee needs, is easy to use, and packed with features.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Element",
@@ -119,7 +117,7 @@
 			"industry": "Automotive",
 			"customer": "Daimler AG",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Exchange of Public, Private, and Confidential Information in Real Time",
@@ -128,7 +126,7 @@
 			"industry": "Automotive",
 			"customer": "Mercedes-Benz india",
 			"country": "IN",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Threema Work Integration: Alerting and Fast Information Distribution",
@@ -137,7 +135,7 @@
 			"industry": "Commerce and Retail",
 			"customer": "Edeka",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Service reporting and order placement via messenger",
@@ -146,7 +144,7 @@
 			"industry": "construction",
 			"customer": "TK Elevator",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Communication Services for Financial Market Participants",
@@ -155,16 +153,15 @@
 			"industry": "Banking and Finance",
 			"customer": "SIX",
 			"country": "CH",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		}]
 	}, {
 		"title": "ThreemaOnPrem",
 		"logo_url": "https://threema.ch/images/onprem/threema-onprem-appicon.svg",
 		"website_url": "https://threema.ch/en/onprem",
-		"created_year": "2012",
+		"created_year": 2012,
 		"description": "Threema OnPrem is the messaging solution for organizations that take data privacy and data security very seriously and make the protection against cybercrime a top priority. ",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Signal",
@@ -189,8 +186,7 @@
 		"title": "ThreemaEducation",
 		"logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
 		"website_url": "https://threema.ch/en/education",
-		"created_year": "",
-		"Solution type": "Software",
+		"created_year": null,
 		"description": "Thanks to Threema Education, instant messaging in school is secure and privacy-compliant. Since no personal information is required, it is safe to use Threema Work at any age. The Swiss chat solution offers the highest level of security and data protection, and it is compliant with European data protection laws.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
@@ -246,9 +242,8 @@
 		"title": "Threema Broadcast",
 		"logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
 		"website_url": "https://threema.ch/en/broadcast",
-		"created_year": "",
+		"created_year": null,
 		"description": "Threema Broadcast is your tool for fast, secure, and targeted one-to-many communication. With the click of a button, you send text/image messages, files, and polls to your entire workforce or to specific departments.",
-		"solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Nimbuzz",
@@ -269,9 +264,8 @@
 		"title": "Threema Gateway",
 		"logo_url": "https://gateway.threema.ch/images/logo.svg",
 		"website_url": "https://gateway.threema.ch/en",
-		"created_year": "",
-		"description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.",
-		"Solution type": "Software", 
+		"created_year": null,
+		"description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.", 
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Subrosa",
