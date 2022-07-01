@@ -18,7 +18,7 @@
    	"founded_year": 2008,
    	"kpi_list": [{
    		"year": 2021,
-   		"staff": null,
+   		"staff": ,
    		"earnings": "",
    		"total_assets": "",
    		"revenues": "",
@@ -27,35 +27,35 @@
    		"year": 2020,
    		"staff": 86,
    		"earnings": "",
-   		"total_assets": "47641000 EUR",
+   		"total_assets": "47 641 000 EUR",
    		"revenues": "",
    		"source_url": "https://www.societe.com/bilan/kalray-507620557202012311.html"
    	}, {
    		"year": 2019,
    		"staff": 74,
    		"earnings": "",
-   		"total_assets": "41221000 EUR",
+   		"total_assets": "41 221 000 EUR",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}, {
    		"year": 2018,
    		"staff": 64,
    		"earnings": "",
-   		"total_assets": "50220000 EUR",
+   		"total_assets": "50 220 000 EUR",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}, {
    		"year": 2017,
    		"staff": 56,
    		"earnings": "",
-   		"total_assets": "17481837 EUR",
+   		"total_assets": "17 481 837 EUR",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}, {
    		"year": 2016,
    		"staff": 56,
    		"earnings": "",
-   		"total_assets": "15131669 EUR",
+   		"total_assets": "15 131 669 EUR",
    		"revenues": "",
    		"source_url": "https://www.verif.com/bilans-gratuits/KALRAY-507620557/"
    	}],
