@@ -23,19 +23,19 @@
     "website_url": "https://lizardfs.com/about",
     "created_year": null,
     "description": "LizardFS – Software Defined Storage is a distributed, scalable, fault-tolerant, and highly available file system. It allows combining disk space located on several servers into a single namespace visible on Unix-like and Windows systems in the same way as other file systems.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Storage and Database"],
     "similar_solutioj_list": [{
       "title": "SeaweedFS",
       "similiar_solution_url": "https://github.com/chrislusf/seaweedfs",
-      "category": "Information Technology"
+      "category": "Storage and Database"
     },{
       "title": "Ceph",
       "similiar_solution_url": "https://ceph.com/en/",
-      "category": "Information Technology"
+      "category": "Storage and Database"
     },{
       "title": "XtreemFS",
       "similiar_solution_url": "http://www.xtreemfs.org/",
-      "category": "Information Technology"  
+      "category": "Storage and Database"  
     }],
     "licence_list": ["GPL-v3.0"],
     "source_code_download": "https://github.com/lizardfs/lizardfs.git",
@@ -58,7 +58,7 @@
       "industry": "Banking and Finance",
       "customer": "Tinkoff",
       "country": "RU",
-      "language": "ru",
+      "language": "RU",
       "success_case_url": "https://lizardfs.com/wp-content/uploads/Cases/Tinkoff_case_study.pdf"
     }]
   }]
