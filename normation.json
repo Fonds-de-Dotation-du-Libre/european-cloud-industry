@@ -19,9 +19,9 @@
   "kpi_list": [{
     "year": 2020,
     "staff": 13,
-    "earnings": "852500 EUR",
-    "total_assets": "1204600 EUR",
-    "revenues": "711600 EUR",
+    "earnings": "852 500 EUR",
+    "total_assets": "1 204 600 EUR",
+    "revenues": "711 600 EUR",
     "source_url": "https://www.societe.com/"
   }],
   "solution_list": [{
@@ -69,7 +69,7 @@
       "industry": "Automotive",
       "customer": "BMW",
       "country": "DE",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.rudder.io/wp-content/uploads/2020/02/Success-Story-M.pdf"
     },{
       "title": "Jaguar Networks selects Rudder for the Continuous configuration management of its Stand-alone Servers ",
@@ -78,7 +78,7 @@
       "industry": "Information Technology",
       "customer": "Jaguar Network",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.rudder.io/wp-content/uploads/2021/08/Jaguar-Network-Rudder.pdf"
     }]
   }]
