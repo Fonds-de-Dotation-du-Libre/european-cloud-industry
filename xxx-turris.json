@@ -1,7 +1,7 @@
 {
 	"created": "07-04-2022",
 	"title": "CZ.nic",
-	"type": "Association",
+	"type": "other",
 	"logo_url": "https://www.nic.cz/static/www.nic.cz/images/logo_cs.png",
 	"location": {
 		"title": "Cz.nic",
@@ -15,15 +15,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.nic.cz/page/357/kontakt/",
-	"founded_year": "1998",
+	"founded_year": 1998,
   "kpi_list": [],
 	"solution_list": [{
 		"title": "Turris Shield",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/shield/overview/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
-		"solution type": "Hardware",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "OpenWRT",
@@ -74,14 +73,13 @@
 			"country": "ES",
 			"industry": "Academia and Research"
 			}],
-		"success_case_list": []
+			"success_case_list": []
 	}, {
 		"title": "Turris Mox",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/mox/overview/",
-		"created_year": "",
+		"created_year": null,
 		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
-		"Solution type": "Hardware",
 		"category_list": ["Boards"],
 		"similar_solution_list": [{
 			"title": "Olimex",
@@ -102,9 +100,8 @@
 		"title": "Turris Omnia",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/omnia/overview/",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
-		"Solution type": "Hardware",
 		"category_list": ["Routers"],
 		"similar_solution_list": [{
 			"title": "eero Home WiFi System",
@@ -146,16 +143,15 @@
 			"industry": "Information Technology",
 			"customer": "Mozilla",
 			"country": "US",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://en.blog.nic.cz/2019/08/23/mozilla-is-solving-iot-issues-using-turris-omnia/"
 		}]
 	}, {
 		"title": "Turris OS",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/turris-os/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [],
 		"licence_list": ["GNU General Public License v2.0"],
@@ -167,6 +163,6 @@
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Turris_Omnia",
 		"reference_list": [],
-    "success_case_list": []
+    		"success_case_list": []
 	}]
 }
