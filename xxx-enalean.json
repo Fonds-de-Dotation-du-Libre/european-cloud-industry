@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-05",
 	"title": "Enalean SAS",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://www.enalean.com/assets/logo-enalean.47fe4ce8.svg",
 	"location": {
 		"title": "Enalean Siège Social",
@@ -15,45 +15,45 @@
 	},
 	"subsidiary_location_list": ["CH"],
 	"website_url": "https://www.enalean.com/",
-	"founded_year": "2010",
+	"founded_year":2010,
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
+		"year": 2021,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "",
 		"revenues": "",
 		"source_url": ""
 	}, {
-		"year": "2020",
-		"staff": "",
+		"year": 2020,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "1 710 731 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
-		"year": "2019",
-		"staff": "",
+		"year": 2019,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "1 402 249 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
-		"year": "2018",
-		"staff": "",
+		"year": 2018,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "1 403 947 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
-		"year": "2017",
-		"staff": "",
+		"year": 2017,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "1 230 550 EUR",
 		"revenues": "",
 		"source_url": "https://www.verif.com/bilans-gratuits/ENALEAN-531796621/"
 	}, {
-		"year": "2016",
-		"staff": "",
+		"year": 2016,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "1 143 116 EUR",
 		"revenues": "",
@@ -63,7 +63,7 @@
 		"title": "Tuleap",
 		"logo_url": "https://www.tuleap.org/wp-content/themes/tuleap-child/assets/img/svg/logo-tuleap-white.svg",
 		"website_url": "https://www.tuleap.org/",
-		"created_year": "2010",
+		"created_year": 2010,
 		"description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
@@ -153,7 +153,7 @@
 			"industry": "Aviation and Aerospace",
 			"customer": "Airbus Group",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-new-era-of-alm-in-airbus-with-tuleap"
 		}, {
 			"title": "TThe French Defense Procurement Agency (DGA) launches its agile transformation with an innovative Digital Workplace",
@@ -162,7 +162,7 @@
 			"industry": "Defense",
 			"customer": "DGA",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-french-dga-launches-its-agile-digital-transformation"
 		}, {
 			"title": "How does Sleepinnov Technology ensure its compliance to ISO 13485 and IEC 62304 standards for medical device software with Tuleap?",
@@ -180,7 +180,7 @@
 			"industry": "Defense",
 			"customer": "Thales",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/thales-develops-an-integrated-environment-with-full-traceability-for-defense-projects"
 		}, {
 			"title": "STMicroelectronics gains full control over complex software systems application lifecycle",
@@ -189,7 +189,7 @@
 			"industry": "Information Technology",
 			"customer": "STMicroelectronics",
 			"country": "CH",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/stmicroelectronics-controls-complex-software-application-lifecycle"
 		}, {
 			"title": "Vignal Group optimizes its Quality Management System to ensure compliance with IATF software standards with Tuleap",
@@ -198,7 +198,7 @@
 			"industry": "Manufacturing",
 			"customer": "Vignal Group",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/vignal-group-optimizes-its-quality-management-system-to-ensure-compliance-with-iatf-software-standards-with-tuleap"
 		}, {
 			"title": "Sodern implements a future-proof environment for long-term software projects",
@@ -207,7 +207,7 @@
 			"industry": "Aviation and Aerospace",
 			"customer": "Sodern (ArianeGroup) ",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/sodern-quality-open-source-keys-future-proof-alm"
 		}, {
 			"title": "JTEKT achieves Compliance in the Automotive Industry: ISO 26262 and ASPICE with Tuleap",
@@ -216,7 +216,7 @@
 			"industry": "Automotive",
 			"customer": "JTEKT",
 			"country": "JP",
-			"language": "EN",
+			"language": "ja",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/jtekt-achieving-automotive-spice"
 		}, {
 			"title": "The UGA merged its IT departments and succeeded in its agile transformation, from values to tools",
@@ -225,7 +225,7 @@
 			"industry": "Academia and Research",
 			"customer": "Université Grenoble Alpes",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-uga-merges-its-it-departments-and-succeeds-in-its-agile-transformation-from-values-to-tools"
 		}, {
 			"title": "3 French ministries built an app to manage large volumes of data with Scrum",
@@ -234,7 +234,7 @@
 			"industry": "Public Administration and Government",
 			"customer": "VITAM Program (French Government)",
 			"country": "FR",
-			"language": "EN",
+			"language": "fr",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/3-french-ministries-are-developing-an-app-to-manage-large-volumes-of-data-with-scrum-of-scrum"
 		}]
 	}]
