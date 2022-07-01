@@ -27,19 +27,19 @@
 		"similar_solution_list": [{
 			"title": "LastPass",
 			"similiar_solution_url":"https://www.lastpass.com/",
-			"category": "Password Manager"
+			"category": "Identity"
 		}, {
 			"title": "1Password",
       			"similiar_solution_url":"https://1password.com/",
-			"category": "Password Manager"
+			"category": "Identity"
 		}, {
 			"title": "EnPass",
      		 	"similiar_solution_url":"https://www.enpass.io/",
-			"category": "Password Manager"
+			"category": "Identity"
 		}, {
 			"title": "Dashlane",
       			"similiar_solution_url":"https://www.dashlane.com/",
-			"category": "Password Manager"
+			"category": "Identity"
 		}],
 		"licence_list": ["MIT"],
 		"source_code_download": "https://antelle.net",
