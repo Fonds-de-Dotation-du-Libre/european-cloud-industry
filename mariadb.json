@@ -20,8 +20,8 @@
 		"year": 2021,
 		"staff": 319,
 		"earnings": "",
-		"total_assets": "99161 EUR",
-		"revenues": "36700000 EUR",
+		"total_assets": "99 161 EUR",
+		"revenues": "36 700 000 EUR",
 		"source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
 	}, {
 		"year": 2020,
@@ -47,8 +47,8 @@
 	}, {}, {
 		"year": 2017,
 		"staff": 319,
-		"earnings": "12060000 EUR",
-		"total_assets": "161947 EUR",
+		"earnings": "12 060 000 EUR",
+		"total_assets": "161 947 EUR",
 		"revenues": "",
 		"source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
 	}, {
@@ -96,7 +96,7 @@
 			"industry": "Finance",
 			"customer": "DBS Bank",
 			"country": "Singapore",
-			"language": "zh",
+			"language": "ZH",
 			"success_case_url": "https://mariadb.com/wp-content/uploads/2019/11/dbs-mariadb_customer-story_1047.pdf"
 		}, {
 			"title": "Walgreens turns to MariaDB as part of open source push",
@@ -105,7 +105,7 @@
 			"industry": "Pharmaceuticals",
 			"customer": "Wallgreens",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://www.computerworld.com/article/3428017/walgreens-turns-to-mariadb-as-part-of-open-source-push.html"
 		}]
 	}, {
@@ -118,11 +118,11 @@
 		"similar_solution_list": [{
 			"title": "MongoDB",
 			"similiar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
-			"category": "Storage and databse"
+			"category": "Storage and Databse"
 		}, {
 			"title": "Microsoft SQL Server",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads",
-			"category": "Storage and database"
+			"category": "Storage and Database"
 		}],
 		"licence_list": [],
 		"source_code_download": "https://github.com/MariaDB",
@@ -145,7 +145,7 @@
 			"industry": "Automotive",
 			"customer": "Copart",
 			"country": "GB",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://mariadb.com/resources/customer-stories/copart-reduced-costs-switching-to-mariadb/"
 		}, {
 			"title": "Red Hat Builds Enterprise Applications with MariaDB ",
@@ -163,7 +163,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Global Health Initiative",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://mariadb.com/resources/customer-stories/ihme/"
 		}]
 	}, {
@@ -235,7 +235,7 @@
 			"industry": "Telecommunication",
 			"customer": "Samsung",
 			"country": "KR",
-			"language": "ko",
+			"language": "KO",
 			"success_case_url": "https://mariadb.com/wp-content/uploads/2021/11/samsung-cloud-authenticates-10-billion-requests-daily-with-mariadb-xpand_customer-story_1127.pdf"
 		}]
 	}, {
@@ -307,7 +307,7 @@
 			"industry": "Finance",
 			"customer": "Finance Network Inc.",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://mariadb.com/newsroom/press-releases/financial-network-inc-moves-to-the-cloud-with-mariadb-skysql/"
 		}, {
 			"title": "Campus Cloud Fast-Tracks Universities to the Digital Era Relying on Cloud Database MariaDB SkySQL",
@@ -316,7 +316,7 @@
 			"industry": "Information Technology",
 			"customer": "Campus Cloud Services",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://mariadb.com/newsroom/press-releases/campus-cloud-fast-tracks-universities-to-the-digital-era-relying-on-cloud-database-mariadb-skysql/"
 		}, {
 			"title": "FanGraphs Baseball Hits a Home Run with MariaDB SkySQL and SkyDBA",
@@ -325,7 +325,7 @@
 			"industry": "Health and life sciences",
 			"customer": "FanGraphs",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://mariadb.com/newsroom/press-releases/fangraphs-baseball-hits-a-home-run-with-mariadb-skysql-and-skydba/"
 		}, {
 			"title": "MissionTracker Selects MariaDB SkySQL to Deliver Better Quality of Care in Homeless Shelters",
@@ -334,7 +334,7 @@
 			"industry": "Association and NGOs",
 			"customer": "MissionTracker",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://mariadb.com/newsroom/press-releases/missiontracker-selects-mariadb-skysql-to-deliver-better-quality-of-care-in-homeless-shelters/"
 		}]
 	}]
