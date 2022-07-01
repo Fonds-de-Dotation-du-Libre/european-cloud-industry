@@ -19,15 +19,15 @@
   "kpi_list": [{
     "year": 2017,
     "staff": 9,
-    "earnings": "130323.01 EUR",
-    "total_assets": "332285.09 EUR",
+    "earnings": "13 032 301 EUR",
+    "total_assets": "33 228 509 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?10"
   },{
     "year": 2016,
     "staff": 12,
-    "earnings": "-104428.42 EUR",
-    "total_assets": "607860.35 EUR",
+    "earnings": "-10 442 842 EUR",
+    "total_assets": "60 786 035 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/pub/de/suchergebnis?15"
   }],
@@ -37,9 +37,9 @@
     "website_url": "https://innoroute.com/trustnode_router/",
     "created_year": null,
     "description": "The TrustNode, e.g., in its Research Edition, is the enabling platform for this transformation for research labs, R&D, certification and test, network operators and cloud service providers to flexibly customize networks to their needs. ",
-    "category_list": ["software and hardware engineering design"],
-    "similar_solution_list": [""],
-    "licence_list": [""],
+    "category_list": ["Networking"],
+    "similar_solution_list": ],
+    "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://innoroute.com/contact-2/",
@@ -48,23 +48,14 @@
     "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [""],
-    "success_case_list": [{
-      "title": "TrustNode network processing platform for research & prototyping",
-      "description": "InnoRoute developed the TrustNode, a powerful, robust network device, based on an Artix ® FPGA and an Atom ® processor. Most of InnoRoute‘s enterprise customers use the TrustNode as a node in industrial or automotive communication networks, especially with a custom Time-Sensitive Networking extension. One customer even designed a custom processor module for the TrustNode. InnoRoute‘s academic customers use it for various purposes, like industrial communication networks, general SDN applications, and 5G mobile fronthaul network prototyping. InnoRoute also provides paid custom extensions to the TrustNode and its FPGA code.",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": "https://innoroute.com/wp-content/uploads/2018/05/Service_Flyer_InnoRoute_en.pdf"
-    }]
+    "success_case_list": []
   },{
     "title": "RealTimeHAT",
     "logo_url": "https://innoroute.com/wp-content/uploads/2020/09/EhUD1TIXcAck2QH.jpeg",
     "website_url": "https://innoroute.com/realtimehat/",
     "created_year": null,
     "description": "The new Real-Time HAT by InnoRoute adds IEEE1588 PTP support in hardware to a Raspberry Pi 4 nestled beneath. Based around a Xilinx Artix-7 FPGA and a handful of gigabit Ethernet PHY devices, the HAT acts as network-passthrough, adding accurate time-stamps to egress (outgoing) packets and stripping time-stamps from the ingress (incoming) side.",
-    "category_list": ["software and hardware engineering design"],
+    "category_list": ["Networking"],
     "similar_solution_list": [""],
     "licence_list": [" GPL-3.0 License"],
     "source_code_download": "https://github.com/InnoRoute/RealtimeHAT",
@@ -78,22 +69,22 @@
       "title": "CNX Software",
       "logo_url": "https://eji4evk5kxx.exactdn.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-100x100.png?lossy=1&ssl=1",
       "country": "HK",
-      "industry": "IT news and information"
+      "industry": "Information Technology"
     },{
       "title": "Raspberry Pi Pinout",
       "logo_url": "https://pinout.xyz/resources/pinout-logo.png",
       "country": "",
-      "industry": "documentation website"
+      "industry": "Information Technology"
     },{
       "title": "Hackaday",
       "logo_url": "https://hackaday.com/wp-content/themes/hackaday-2/img/logo.png",
       "country": "US",
-      "industry": "Internet publishing"
+      "industry": "Information Technology"
     },{
       "title": "LinuxGismos.com",
       "logo_url": "",
       "country": "US",
-      "industry": "Internet publishing"
+      "industry": "Information Technology"
     }],
     "success_case_list": [""]
   },{
@@ -102,15 +93,15 @@
     "website_url": "https://innoroute.com/save/",
     "created_year": null,
     "description": "In the 6Tree network, you can easily and immediately obtain your own static IP addresses for your smartphone and home network. You can then use your smartphone to directly access any device in the home network, for example to retrieve videos from the home server while on the move, to connect to surveillance cameras or to operate smart home components.",
-    "category_list": ["software and hardware engineering design"],
+    "category_list": ["Networking"],
     "similar_solution_list": [""],
     "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": null,
-    "commercial_support_open_source_version": null,
-    "commercial_support_available": null,
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [""],
     "success_case_list": [""]
