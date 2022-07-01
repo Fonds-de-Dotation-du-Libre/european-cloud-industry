@@ -20,45 +20,45 @@
 		"year": 2020,
 		"staff": null,
 		"earnings": "",
-		"total_assets": "251436253 EUR",
+		"total_assets": "251 436 253 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?7"
 	}, {
 		"year": 2019,
 		"staff": null,
 		"earnings": "",
-		"total_assets": "270024316 EUR",
+		"total_assets": "270 024 316 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?7"
 	}, {
 		"year": 2018,
 		"staff": null,
 		"earnings": "",
-		"total_assets": "600674722 EUR",
+		"total_assets": "600 674 722 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?10"
 	}, {
 		"year": 2017,
 		"staff": null,
 		"earnings": "",
-		"total_assets": "171489590 EUR",
+		"total_assets": "171 489 590 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?26"
 	}, {
 		"year": 2016,
 		"staff": null,
 		"earnings": "",
-		"total_assets": "339363132 EUR",
+		"total_assets": "339 363 132 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?26"
 	}],
 	"solution_list": [{
-			"title": "Codesys engineering",
+			"title": "Codesys Engineering",
 			"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 			"website_url": "https://www.codesys.com/products/codesys-engineering.html",
 			"created_year": null,
 			"description": "CODESYS is the leading software platform for IEC 61131-3 compliant project engineering. The development system combines classic programming of controller applications with the capabilities of professional software development for automation devices in the environment of Industry 4.0/IIoT (Industrial Internet of Things).",			
-			"category_list": ["Developer"],
+			"category_list": ["Developer Environment"],
 			"similar_solution_list": [{
 				"title": "",
 				"similiar_solution_url": "",
@@ -94,7 +94,7 @@
 			"website_url": "https://www.codesys.com/products/codesys-runtime.html",
 			"created_year": null,
 			"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",			
-			"category_list": ["Developer"],
+			"category_list": ["Developer Environment"],
 			"similar_solution_list": [{
 				"title": "",
 				"similiar_solution_url": "",
@@ -373,7 +373,7 @@
 			"website_url": "https://www.codesys.com/products/codesys-services.html",
 			"created_year": null,
 			"description": "Training, consulting and development directly from the manufacturer of CODESYS.",			
-			"category_list": ["Developer"],
+			"category_list": ["Developer Environment"],
 			"similar_solution_list": [{
 				"title": "",
 				"similiar_solution_url": "",
