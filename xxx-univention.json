@@ -1,7 +1,7 @@
 {
   "created": "2022-04-06",
   "title": "Univention",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.univention.com/wp-content/themes/univention/assets/images/univention-logo.svg",
   "location": {
     "title": "Univention GmbH",
@@ -15,40 +15,40 @@
   },
   "subsidiary_location_list": ["US"],
   "website_url": "https://www.univention.com/",
-  "founded_year": "2004",
+  "founded_year": 2004,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "57",
+    "year": 2020,
+    "staff": 57,
     "earnings": "",
-    "total_assets": "4822096 EUR",
+    "total_assets": "4 822 096 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/"
   }, {
-    "year": "2019",
-    "staff": "39",
+    "year": 2019,
+    "staff": 39,
     "earnings": "",
-    "total_assets": "3074820 EUR",
+    "total_assets": "3 074 820 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/"
   },{
-    "year": "2018",
-    "staff": "39",
+    "year": 2018,
+    "staff": 39,
     "earnings": "",
-    "total_assets": "2530255 EUR",
+    "total_assets": "2 530 255 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/"
   },{
-    "year": "2017",
-    "staff": "39",
+    "year": 2017,
+    "staff": 39,
     "earnings": "",
-    "total_assets": "2355430 EUR",
+    "total_assets": "2 355 430 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/"
   },{
-    "year": "2016",
-    "staff": "53",
+    "year": 2016,
+    "staff": 53,
     "earnings": "",
-    "total_assets": "2183892 EUR",
+    "total_assets": "2 183 892 EUR",
     "revenues": "",
     "source_url": "https://www.bundesanzeiger.de/"
   }],
@@ -56,9 +56,8 @@
     "title": "Univention Corporate Server",
     "logo_url": "https://www.univention.com/wp-content/themes/univention/assets/images/univention-logo.svg",
     "website_url": "https://www.univention.com/products/ucs/",
-    "created_year": "2002",
+    "created_year": 2002,
     "description": "Univention Corporate Server (UCS) is the innovative basis for the cost-efficient operation and easy administration of server applications and entire IT infrastructures.The integrated identity and infrastructure management system makes it easy to administrate applications, users and resources. Server and desktop solutions can be administrated centrally and across different locations and platforms via an easy-to-use web interface.Thanks to its standardized interfaces, UCS can be integrated easily into existing environments,on Microsoft Windows, Mac OS X or Linux systems",
-    "solution_type": "Software",
     "category_list": ["Operation Management"],
     "similar_solution_list": [{
       "title": "Manjaro Linux",
@@ -196,7 +195,7 @@
       "industry": "Commerce and Retail",
       "customer": "CC Compact Cleanring",
       "country": "AT",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/cc-compact-cleaning/  "
     }, {
       "title": "Chefarztabrechnung24 GmbH",
@@ -205,7 +204,7 @@
       "industry": "Commerce and Retail",
       "customer": "Chefarztabrechnung 24 GmbH",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2018/01/collaborative-cloud-workspace-based-on-univention-corporate-server/"
     }, {
       "title": "Diakonie - Eine Welt",
@@ -214,7 +213,7 @@
       "industry": "Associations and NGOs",
       "customer": "Diakonie",
       "country": "AT",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/diakonie-eine-welt-austria/"
     }, {
       "title": "Federal office for Radiation Protection",
@@ -223,7 +222,7 @@
       "industry": "Public Administration and Government",
       "customer": "Federal office for Radiation Protection",
       "country": "AT",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/federal-office-radiation-protection/"
     }, {
       "title": "Fritz-Haber-Institut",
@@ -232,7 +231,7 @@
       "industry": "Academia and Research",
       "customer": "Fritz-Haber-Institut",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/fritz-haber-institute-of-the-max-planck-society/"
     }, {
       "title": "Deutsches Forschungszentrum für Künstliche Intelligenz",
@@ -241,7 +240,7 @@
       "industry": "Academia and Research",
       "customer": "Deutsches Forschungszentrum für Künstliche Intelligenz",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/german-research-center-for-artificial-intelligence/"
     }, {
       "title": "HaCon Ingenieurgesellschaft mbH",
@@ -259,7 +258,7 @@
       "industry": "Telecommunciation",
       "customer": "KiKxxl GmbH",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/kikxxl-gmbh/"
     }, {
       "title": "Maynard Steel Casting",
@@ -268,7 +267,7 @@
       "industry": "Manufacturing",
       "customer": "Maynard Steel Casting",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.univention.com/referenz/maynard-steel-casting-company/"
     }, {
       "title": "Mercedes-Benz of Buckhead",
@@ -277,7 +276,7 @@
       "industry": "Commerce and Retail",
       "customer": "Mercedes-Benz of Buckhead",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.univention.com/referenz/mercedes-benz-of-buckhead-car-dealership/"
     }, {
       "title": "Molitor Zahntechnik, Berlin",
@@ -286,7 +285,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Molitor Zahntechnik, Berlin",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/molitor-zahntechnik-berlin/"
     }, {
       "title": "Momentus",
@@ -295,7 +294,7 @@
       "industry": "Aviation and Aerospace",
       "customer": "Momentus",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.univention.com/referenz/momentus-inc/"
     }, {
       "title": "Oldenburgische Landesbank (regional bank)",
@@ -304,7 +303,7 @@
       "industry": "Banking and Finance",
       "customer": "Oldenburgische Landesbank (regional bank)",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/oldenburgische-landesbank-regional-bank/"
     }, {
       "title": "Orange S.A.",
@@ -313,7 +312,7 @@
       "industry": "Telecommunication",
       "customer": "Orange S.A.",
       "country": "FR",
-      "language": "EN",
+      "language": "fr",
       "success_case_url": "https://www.univention.com/references/"
     }, {
       "title": "Österreichischer Bundesverlag",
@@ -322,7 +321,7 @@
       "industry": "Media and Entertainment",
       "customer": "Österreichischer Bundesverlag",
       "country": "AT",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/osterreichischer-bundesverlag/"
     }, {
       "title": "Pennsylvania Dermatology Partners, Inc.",
@@ -331,7 +330,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Pennsylvania Dermatology Partners, Inc.",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.univention.com/referenz/pennsylvania-dermatology-partners/"
     }, {
       "title": "Reisebüro Fahrenkrog",
@@ -340,7 +339,7 @@
       "industry": "Travel and Tourism",
       "customer": "Reisebüro Fahrenkrog",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/reisebuero-fahrenkrog-2/"
     }, {
       "title": "SchwuZ Kulturveranstaltungs GmbH",
@@ -349,7 +348,7 @@
       "industry": "Associations and NGOs",
       "customer": "SchwuZ Kulturveranstaltungs GmbH",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2017/11/bitpack-io-modernizes-it-at-the-schwuz-in-berlin-with-univention-corporate-server/"
     },{
       "title": "Sea-Watch Legal Aid Fund",
@@ -358,7 +357,7 @@
       "industry": "Associations and NGOs",
       "customer": "Sea-Watch Legal Aid Fund",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/sea-watch-legal-aid-fund/"
     },{
       "title": "SOLARKIOSK AG",
@@ -367,7 +366,7 @@
       "industry": "Associations and NGOs",
       "customer": "SOLARKIOSK AG",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2018/06/setup-of-a-collaborative-workspace-for-a-globally-operating-team-with-ucs-as-the-central-idm-system/"
     },{
       "title": "Stadt Bremerhaven",
@@ -376,7 +375,7 @@
       "industry": "Public Administration and Government",
       "customer": "Stadt Bremerhaven",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2019/04/bremerhaven-ucs-as-idm-itslearning/"
     },{
       "title": "State Audit Office of Mecklenburg-Western Pomerania",
@@ -385,7 +384,7 @@
       "industry": "Public Administration and Government",
       "customer": "State Audit Office of Mecklenburg-Western Pomerania",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/state-audit-office-of-mecklenburg-western-pomerania/"
     },{
       "title": "University IT centres in Afghanistan",
@@ -394,7 +393,7 @@
       "industry": "Academia and Research",
       "customer": "University IT centres in Afghanistan",
       "country": "AF",
-      "language": "EN",
+      "language": "ps",
       "success_case_url": "https://www.univention.com/referenz/university-it-centres-in-afghanistan-rely-on-ucs/"
     },{
       "title": "Wick Machinery",
@@ -403,16 +402,15 @@
       "industry": "Manufacturing",
       "customer": "Wick Machinery  ",
       "country": "AT",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/wick-machinery-2/"
     }]
   }, {
     "title": "UCS@school",
     "logo_url": "https://www.univention.com/wp-content/uploads/2020/04/ucs_school_logo_rgb.svg",
     "website_url": "https://www.univention.de/produkte/ucsschool/",
-    "created_year": "",
+    "created_year": null,
     "description": "UCS@school is an identity and authorization management system optimized for the educational sector to centrally manage users, services, applications, and digital media. Important basic services such as the provision of WLAN, authentication, printing or file storage are integrated. Other solutions such as e-learning, file sharing or e-mail can simply be connected to the management system.",
-    "solution_type": "Software",
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [],
     "licence_list": ["AGPL-3.0 license"],
@@ -496,7 +494,7 @@
       "industry": "Travel et Tourism",
       "customer": "Bremen Tourism",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/bremen-senator-for-children-and-education/"
     }, {
       "title": "UCS@school and Open-Xchange for Schools in Basel",
@@ -505,7 +503,7 @@
       "industry": "Public Administration and Government",
       "customer": "Stadt Basel",
       "country": "CH",
-      "language": "EN",
+      "language": "fr",
       "success_case_url": "https://www.univention.com/blog-en/2019/06/ucsschool-and-open-xchange-for-schools-in-basel/"
     }, {
       "title": "City of Beckum",
@@ -514,7 +512,7 @@
       "industry": "Public Administration and Government",
       "customer": "City of Beckum",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/city-of-beckum/"
     }, {
       "title": "Stadt Köln",
@@ -523,7 +521,7 @@
       "industry": "Public Administration and Government",
       "customer": "City of Cologne",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2018/05/setup-of-an-efficient-it-infrastructure-with-central-identity-management-in-261-schools-in-cologne/"
     }, {
       "title": "Stadt Fulda",
@@ -532,7 +530,7 @@
       "industry": "Public Administration and Government",
       "customer": "City of Fulda",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/it-in-schools/2017/06/data-privacy-compliant-integration-of-office-365-in-fulda-schools/"
     }, {
       "title": "Stadt Neumünster",
@@ -541,7 +539,7 @@
       "industry": "Public Administration and Government",
       "customer": "City of Neumünster",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/city-of-neumunster/"
     }, {
       "title": "Stadt Wolfsburg",
@@ -550,7 +548,7 @@
       "industry": "Public Administration and Government",
       "customer": "City of Wolfsburg",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2020/05/digital-offers-for-schools-interview-city-of-wolfsburg/"
     }, {
       "title": "Landkreis Kassel",
@@ -559,7 +557,7 @@
       "industry": "Public Administration and Government",
       "customer": "Landkreis Kassel",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/blog-en/2019/07/schools-in-the-district-of-kassel-managing-ipads-centrally-with-ucsschool/"
     },{
       "title": "Landesmedienzentrum Baden-Württemberg",
@@ -568,7 +566,7 @@
       "industry": "Media and Entertainment",
       "customer": "Landesmedienzentrum Baden-Württemberg",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/landesmedienzentrum-baden-wuerttemberg/"
     },{
       "title": "Ministry of Education, Science, and Culture of Mecklenburg-Western Pomerania",
@@ -577,7 +575,7 @@
       "industry": "Public Administration and Government",
       "customer": "Ministry of Education, Science, and Culture of Mecklenburg-Western Pomerania",
       "country": "DE",
-      "language": "EN",
+      "language": "de",
       "success_case_url": "https://www.univention.com/referenz/ministry-of-education-science-and-culture-of-mecklenburg-western-pomerania/"
     }]
   }]
