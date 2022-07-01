@@ -27,7 +27,7 @@
 		"year": 2020,
 		"staff": null,
 		"earnings": "",
-		"total_assets": "23151508 EUR",
+		"total_assets": "23 151 508 EUR",
 		"revenues": "",
 		"source_url": "https://uk.globaldatabase.com/company/olimex-ltd"
 	}],
@@ -51,9 +51,9 @@
 		"source_code_download": "",
 		"source_code_profile": "https://github.com/OLIMEX/OLINUXINOt",
 		"commercial_support_url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page",
 		"reference_list": [{
 			"title": "",
