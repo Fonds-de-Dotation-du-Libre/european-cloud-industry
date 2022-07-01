@@ -16,57 +16,56 @@
 		"mail_contact": "info@opennodecloud.com",
 		"coordinate_list": [58.35231015189753, 24.62132794602116]
 	},
-  "founded_year": "2011",
+  "founded_year": 2011,
   "kpi_list":[{
-    "year": "2021",
-    "staff": "3",
+    "year": 2021,
+    "staff": 3,
     "earnings": "332 247 EUR",
     "total_assets": "720 383 EUR",
     "revenues": "572 007 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   },{
-    "year": "2020",
-    "staff": "4",
+    "year": 2020,
+    "staff": 4,
     "earnings": "62 014 EUR",
     "total_assets": "461 289 EUR",
     "revenues": "385 114 EUR",
     "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
   }, {
-    "year": "2019",
-    "staff": "3",
+    "year": 2019,
+    "staff": 3,
     "earnings": "172 355 EUR",
     "total_assets": "431 737 EUR",
     "revenues": "379 895 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
+    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
   }, {
-    "year": "2018",
-    "staff": "4",
+    "year": 2018,
+    "staff": 4,
     "earnings": "75 452 EUR",
     "total_assets": "326 941 EUR",
     "revenues": "208 285 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
+    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
   }, {
-    "year": "2017",
-    "staff": "3",
+    "year": 2017,
+    "staff": 3,
     "earnings": "-45 016 EUR",
     "total_assets": "270 188 EUR",
     "revenues": "61 935 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
+    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
   },{
-    "year": "2016",
-    "staff": "1",
+    "year": 2016,
+    "staff": 1,
     "earnings": "101 238 EUR",
     "total_assets": "327 922 EUR",
     "revenues": "290 539 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
+    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
   }],
   "solution_list": [{
     "title": "Waldur",
     "logo_url": "https://waldur.com/assets/img/logo.svg",
     "website_url": "https://waldur.com/",
-    "created_year": "2016",
+    "created_year": 2016,
     "description": "Waldur is an hybrid cloud orchestrator, managing private clouds, public clouds and High Performance Computing Centres. It automates OpenStack and Slurm, has billing, user self-service and support desk.",
-    "solution_type": "Software",
     "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
       "title": "SlapOS",
@@ -103,9 +102,8 @@
     "title": "NodeFabric",
     "logo_url": "",
     "website_url": "http://www.opennodecloud.com/products/nodefabric.html",
-    "created_year": "2015",
+    "created_year": 2015,
     "description": "Highly Available Backend Layer. Containerized and distributed database, storage and messaging clusters for highly available and self-healing cloud services. NodeFabric delivers hyperconverged database and storage solution for highly available, self-healing and load-balanced cloud services.",
-    "solution_type": "Software",
     "category_list": ["Storage and database"],
     "similar_solution_list": [],
     "licence_list": [],
@@ -127,18 +125,17 @@
     "title": "Government Cloud Platform (GCP)",
     "logo_url": "",
     "website_url": "http://www.opennodecloud.com/products/gcloud.html",
-    "created_year": "",
+    "created_year": null,
     "description": "State-of-the-art holistic solution for creating a private or hybrid cloud for the public sector services. OpenNode Government Cloud Platform (GCP) is a state-of-the-art holistic solution for creating a private or hybrid cloud for the public sector services.",
-    "solution_type": "",
     "category_list": ["Application"],
     "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": "",
-    "commercial_support_open_source_version": "",
-    "commercial_support_available": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [{
       "title": "Estonian Government Cloud",
