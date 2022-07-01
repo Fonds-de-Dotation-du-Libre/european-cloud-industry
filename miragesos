@@ -21,7 +21,7 @@
     "year": 2020,
     "staff": 20,
     "earnings": "",
-    "total_assets": "2867435 EUR",
+    "total_assets": "2 867 435 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/bilans-gratuits/TARIDES-834644932/"
   }],
@@ -31,15 +31,15 @@
     "website_url": "https://mirage.io/",
     "created_year": 2013,
     "description": "MirageOS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms.",
-    "category_list": ["Information Technology"],
+    "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Remprun",
       "similiar_solution_url": "https://github.com/rumpkernel/rumprun.git",
-      "category": "Information Technology"
+      "category": "Application"
     },{
       "title": "OSv",
       "similiar_solution_url": "http://osv.io/",
-      "category": "Information Technology"
+      "category": "Application"
     }],
     "licence_list": ["LGPLv2","ISC"],
     "source_code_download": "https://github.com/mirage/mirage.git",
