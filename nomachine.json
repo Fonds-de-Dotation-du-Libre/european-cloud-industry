@@ -20,35 +20,35 @@
     "year": 2020,
     "staff": null,
     "earnings": "",
-    "total_assets": "6219681 EUR",
+    "total_assets": "6 219 681 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   }, {
     "year": 2019,
     "staff": null,
     "earnings": "",
-    "total_assets": "6192463 EUR",
+    "total_assets": "6 192 463 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
     "year": 2018,
     "staff": null,
     "earnings": "",
-    "total_assets": "5096173 EUR",
+    "total_assets": "5 096 173 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
     "year": 2017,
     "staff": null,
     "earnings": "",
-    "total_assets": "4122374 EUR",
+    "total_assets": "4 122 374 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
     "year": 2016,
     "staff": null,
     "earnings": "",
-    "total_assets": "3837492 EUR",
+    "total_assets": "3 837 492 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   }],
@@ -105,7 +105,7 @@
       "industry": "Telecommunication",
       "customer": "CI Telecom",
       "country": "IL",
-      "language": "he",
+      "language": "HE",
       "success_case_url": "https://www.nomachine.com/ECI-Telecom"
     },{
       "title": "CenturyTel Case Study",
@@ -114,7 +114,7 @@
       "industry": "Telecommunication",
       "customer": "CenturyTEl",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/CenturyTel"
     },{
       "title": "Silicon and Software Systems Case Study",
@@ -123,7 +123,7 @@
       "industry": "Information Technology",
       "customer": "3S - Silicon Software Systems",
       "country": "IE",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Silicon-and-Software-Systems"
     },{
       "title": "Montavista Case Study",
@@ -132,7 +132,7 @@
       "industry": "Information Technology",
       "customer": "MontaVista",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/MontaVista"
     },{
       "title": "Steinhafels Case Study",
@@ -141,7 +141,7 @@
       "industry": "Commerce and Retail",
       "customer": "Steinhafels",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Steinhafels"
     },{
       "title": "Oak Ridge National Laboratory Case Study",
@@ -150,7 +150,7 @@
       "industry": "Academia and Research",
       "customer": "Oak Ridge National Laboratory",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Oak-Ridge-National-Laboratory"
     },{
       "title": "Norsk Regnesentral Case Study",
@@ -159,7 +159,7 @@
       "industry": "Academia and Research",
       "customer": "Norsk Regnesentral",
       "country": "NO",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Norsk-Regnesentral"
     },{
       "title": "GN ReSound Corporation Case Study",
@@ -168,7 +168,7 @@
       "industry": "Academia and Research",
       "customer": "GN ReSound Corporation",
       "country": "DK",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/GN-ReSound-Corporation"
     },{
       "title": "European Synchrotron Radiation Facility Case Study",
@@ -177,7 +177,7 @@
       "industry": "Academia and Research",
       "customer": "European Synchrotron Radiation Facility",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.nomachine.com/European-Synchrotron-Radiation-Facility"
     },{
       "title": "Diamond Light Source Case Study",
@@ -186,7 +186,7 @@
       "industry": "Academia and Research",
       "customer": "Diamond Light Source",
       "country": "GB",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Diamond-Light-Source"
     },{
       "title": "Argonne National Laboratory Case Study",
@@ -195,7 +195,7 @@
       "industry": "Academia and Research",
       "customer": "Argonne National Laboratory",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Argonne-National-Laboratory"
     },{
       "title": "University of Technology Sydney Case Study",
@@ -204,7 +204,7 @@
       "industry": "Academia and Research",
       "customer": "University of Technology, Sydney",
       "country": "AU",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/University-Technology-Sydney"
     },{
       "title": "University of Limoges Case Study",
@@ -213,7 +213,7 @@
       "industry": "Academia and Research",
       "customer": "University of Limoges",
       "country": "FR",
-      "language": "fr",
+      "language": "FR",
       "success_case_url": "https://www.nomachine.com/University-Limoges"
     },{
       "title": "University of Leicester Case Study",
@@ -222,7 +222,7 @@
       "industry": "Academia and Research",
       "customer": "University of Leicester",
       "country": "GB",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/University-Leicester"
     },{
       "title": "University of Colorado Case Study",
@@ -231,7 +231,7 @@
       "industry": "Academia and Research",
       "customer": "University of Colorado",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/University-Colorado"
     },{
       "title": "University of Chicago Case Study",
@@ -240,7 +240,7 @@
       "industry": "Academia and Research",
       "customer": "University of Chicago",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/University-Chicago"
     },{
       "title": "NoPC Case Study",
@@ -249,7 +249,7 @@
       "industry": "Academia and Research",
       "customer": "NoPC",
       "country": "GB",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/NoPC-0"
     },{
       "title": "Mosaic Case Study",
@@ -258,7 +258,7 @@
       "industry": "Academia and Research",
       "customer": "Mosaic",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Mosaic"
     },{
       "title": "Riagg Rijnmond Case Study",
@@ -267,7 +267,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Riagg Rijnmond",
       "country": "NL",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Riagg-Rijnmond"
     },{
       "title": "Glendale Adventist Medical Center Case Study",
@@ -276,7 +276,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Glendale Adventist Medical Center",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Glendale-Adventist-Medical-Center"
     },{
       "title": "Fred Hutchinson Cancer Research Center Case Study",
@@ -285,7 +285,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Fred Hutchinson Cancer Research Center",
       "country": "US",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Fred-Hutchinson-Cancer-Research-Center"
     },{
       "title": "Schwaebisch Hall Case Study",
@@ -294,7 +294,7 @@
       "industry": "Public ADministration and Government",
       "customer": "Schwaebisch Hall",
       "country": "DE",
-      "language": "en",
+      "language": "EN",
       "success_case_url": "https://www.nomachine.com/Schwaebisch-Hall" 
     }]
   }]
