@@ -23,28 +23,27 @@
 		"website_url": "https://nextcloud.com/hub/",
 		"created_year": "",
 		"description": "Hub integrates the three key Nextcloud products Files, Talk and Groupware into a single platform, optimizing the flow of collaboration. Eliminate the confusing hodgepodge of different SaaS tools and the compliance, security, cost and productivity issues that come with it and standardize on a single solution with Nextcloud Hub.",
-		"solution_type": "Software",
-		"category_list": ["collaborative platform"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Cryptpad",
 			"similiar_solution_url": "https://cryptpad.fr/",
-			"category": ["collaborative platform"]
+			"category": ["Workspace"]
 			}, {
 			"title": "Google workspace",
 			"similiar_solution_url": "https://workspace.google.com/",
-			"category": ["collaborative platform"]
+			"category": ["Workspace"]
 			}, {
 			"title": "Microsoft 365",
 			"similar_solution_url": "https://www.microsoft.com/en/microsoft-365",
-			"category": ["collaborative platform"]
+			"category": ["Workspace"]
 		}],
 		"licence_list": ["General Public License v3.0"],
 		"source_code_download": "https://github.com/nextcloud",
 		"source_code_profile": "https://www.openhub.net/p/nextcloud",
 		"commercial_support_url": "https://nextcloud.com/support/",
-		"floss_software": "yes",
+		"floss_software": true,
 		"commercial_support_open_source_version": "https://nextcloud.com/support/",
-		"commercial_support_available": "yes",
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Nextcloud",
 		"reference_list": [{
       			"title": "Centre de gestion informatique de l'éducation",
@@ -55,22 +54,22 @@
 			"title": "SIB",
       			"logo_url": "https://www.sib.fr/wp-content/uploads/2019/02/Logo_SIB_2016_transparent_500px-e1551431221946.png",
       			"country": "FR",
-      			"industry": "IT services"
+      			"industry": "Information Technology"
 			},{
 			"title": "DEGES",
       			"logo_url": "https://www.deges.de/wp-content/themes/deges/assets/img/default-img.png",
       			"country": "DE",
-      			"industry": "Project Management"
+      			"industry": "Telecommunication"
 			},{
       			"title": "Konrad-Adenauer-Stiftung",
       			"logo_url": "https://www.kas.de/o/kas-de-theme/images/header/logo.png",
       			"country": "DE",
-      			"industry": "Political foundation"
+      			"industry": "Associations and NGOs"
 			},{
 			"title": "TU Berlin",
       			"logo_url": "https://www.tu.berlin/typo3conf/ext/tub_base_package/Resources/Public/Images/Logos/tu-berlin-wortmarke.svg",
       			"country": "DE",
-      			"industry": "Higher education"
+      			"industry": "Academia and Research"
 			},{
 			"title": "North-West University",
       			"logo_url": "https://www.nwu.ac.za/sites/www.nwu.ac.za/files/NWU-Logo-SW.png",
@@ -84,7 +83,7 @@
 			"industry": "Education",
 			"customer": "Centre de gestion informatique de éducation",
 			"country": "LU",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CGIE_Luxembourg_HNK_whitepaper.pdf"
 			}, {
 			"title": "Nextcloud for 33K middle school students in France",
@@ -93,7 +92,7 @@
 			"industry": "Digital services",
 			"customer": "SIB",
 			"country": "FR",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
 			}, {
 			"title": "Germany’s public radio and television deploys Nextcloud",
@@ -102,7 +101,7 @@
 			"industry": "public-law, non-legally capable administrative community",
 			"customer": "IVZ",
 			"country": "DE",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-IVZ_Web.pdf"
 			}, {
 			"title": "Building a platform for efficient collaboration that is ready for the future",
@@ -111,7 +110,7 @@
 			"industry": ": Semi-public project management organization",
 			"customer": "DEGES",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy_DEGES_Web_22072019.pdf"
 			}, {
 			"title": "Keeping data secure for a globally distributed organization working with politically sensitive data",
@@ -120,7 +119,7 @@
 			"industry": "Education",
 			"customer": "KAS",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-KonradAdenauerStiftung-WebVersion-072018.pdf"
 			}, {
 			"title": "tubCloud migration to Nextcloud 11",
@@ -129,7 +128,7 @@
 			"industry": "Education",
 			"customer": "TU Berlin",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-tubCloud-TUBerlin-WebVersion-072018."
 			}, {
 			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
@@ -138,7 +137,7 @@
 			"industry": "Education",
 			"customer": "North-West University",
 			"country": "ZA",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
 			}]
 		}, {
@@ -147,8 +146,7 @@
 		"website_url": "https://nextcloud.com/outlook/",
 		"created_year": "",
 		"description": " The Sendent Outlook Add-in enables Nextcloud customers to easily and securely send files, folders or upload links to others from within Microsoft Outlook.The Add-in can replace attachments, automatically uploading files to Nextcloud and insert a secure link in the email. It also makes it easy for users to provide others with a secure file upload link.",
-		"solution_type": "software",
-		"category_list": ["collaborative platform"],
+		"category_list": ["application"],
 		"similar_solution_list": "",
 		"licence_list": "",
 		"source_code_download": "",
@@ -167,27 +165,27 @@
 		"created_year": "2016",
 		"description": "Collabora Online is a powerful LibreOffice-based online office suite with collaborative editing, which supports all major document, spreadsheet and presentation file formats and works in all modern browsers.",
 		"solution_type": "Software",	
-		"category_list": ["collaborative platform"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "LibreOffice",
 			"similiar_solution_url": "https://www.libreoffice.org/",
-			"category": ["collaborative platform"]
+			"category": ["Workspace"]
 			}, {
 			"title": "Google Docs",
 			"similiar_solution_url": "https://workspace.google.com/products/docs/",
-			"category": ["collaborative platform"]
+			"category": ["Workspace"]
 			}, {
 			"title": "Open Office",
 			"similar_solution_url": "https://www.openoffice.org/",
-			"category": ["collaborative platform"]
+			"category": ["Workspace"]
 		}],
 		"licence_list": ["MPL-2.0"],
 		"source_code_download": "https://github.com/CollaboraOnline/online",
 		"source_code_profile": "",
 		"commercial_support_url": "https://nextcloud.com/enterprise/quote/",
-		"floss_software": "yes",
+		"floss_software": true,
 		"commercial_support_open_source_version": "https://github.com/CollaboraOnline/online",
-		"commercial_support_available": "yes",
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Collabora_Online",
 		"reference_list": [{
       			"title": "SIB",
@@ -207,7 +205,7 @@
 			"industry": "Digital services",
 			"customer": "SIB",
 			"country": "FR",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
     			},{
 			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
@@ -216,7 +214,7 @@
 			"industry": "Higher Education",
 			"customer": "North-West University",
 			"country": "ZA",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
    			 }]
   		},{
@@ -225,26 +223,25 @@
 		"website_url": "https://nextcloud.com/onlyoffice/",
 		"created_year": "",
 		"description": "ONLYOFFICE integration in Nextcloud empowers your users to collaborate on office documents with team members in real time. Compatibility with Microsoft Office formats means perfect documents, every time.",
-		"solution_type": "Software",
-		"category_list": ["Collaborative platform"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
      			"title": "LibreOffice",
 			"similiar_solution_url": "https://www.libreoffice.org/",
-			"category": ["Collaborative platform"]
+			"category": ["Workspace"]
 			}, {
 			"title": "Google Docs",
 			"similiar_solution_url": "https://workspace.google.com/products/docs/",
-			"category": ["Collaborative platform"]
+			"category": ["Workspace"]
 			}, {
 			"title": "Open Office",
 			"similar_solution_url": "https://www.openoffice.org/",
-			"category": ["Collaborative platform"]
+			"category": ["Workspace"]
 		}],
 		"licence_list": ["GNU AGPL v.3"],
 		"source_code_download": "https://github.com/ONLYOFFICE/DocumentBuilder",
 		"source_code_profile": "https://www.openhub.net/p/ONLYOFFICE",
 		"commercial_support_url": "",
-		"floss_software": "yes",
+		"floss_software": true,
 		"commercial_support_open_source_version": "",
 		"commercial_support_available": "",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OnlyOffice",
@@ -252,7 +249,7 @@
       			"title": "North-West University",
       			"logo_url": "https://www.nwu.ac.za/sites/www.nwu.ac.za/files/NWU-Logo-SW.png",
       			"country": "ZA",
-      			"industry": "en"
+      			"industry": "EN"
 			}],
 		"success_case_list": [{
 			"title": "North-West University improves user storage mobility with Nextcloud and ONLYOFFICE",
@@ -261,7 +258,7 @@
 			"industry": "Higher education",
 			"customer": "North-West University",
 			"country": "ZA",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-ONLYOFFICE_Print.pdf"
     			}]
   }]
