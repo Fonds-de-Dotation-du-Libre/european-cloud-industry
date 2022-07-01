@@ -23,48 +23,48 @@
     "website_url": "https://www.ng-voice.com/solutions/?tab1",
     "created_year": null,
     "description": "the virtualized and cloud-native IMS core is the first 100% containerized and Kubernetes-based fully-fledged IMS solution, allowing deployment on bare metal (private), public, and hybrid cloud environments",
-    "category_list": "standardized achitectural framework",
+    "category_list": "Compute virtualisation",
     "similar_solution_list": [{
       "title": "Cloud IMS",
       "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
-      "category": "standardized achitectural framework"
+      "category": "Compute virtualisation"
     },{
       "title": "IMS",
       "similiar_solution_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
-      "category": "standardized achitectural framework"
+      "category": "Compute virtualisation"
     },{
       "title": "Cloud-native IMS",
       "similiar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
-      "category": "standardized achitectural framework"
+      "category": "Compute virtualisation"
     }],
     "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
     "floss_software": true,
-    "commercial_support_open_source_version": null,
-    "commercial_support_available": null,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem",
     "reference_list": [{
       "title": "GSMA",
       "logo_url": "https://www.gsma.com/wp-content/plugins/plugin_header_overload/images/logo.png",
       "country": "US",
-      "industry": "Consumer Discretionary"
+      "industry": "Agriculture and Food"
     },{
       "title": "Summa Networks",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/logo-summa-networks-black-rgb.png",
       "country": "ES",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "AttoCore",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/attocore-cyan-blue.png",
       "country": "UK",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "Telecom Infra Project",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/TIP_vertical_rgb_color-white.png",
       "country": "US",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "Deutsche Telekom",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Copy-of-800px-Deutsche_Telekom-Logo-white.png",
@@ -74,7 +74,7 @@
       "title": "Hubraum",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Type-Logo_RGB_300px_h-white.png",
       "country": "DE",
-      "industry": "Technology"
+      "industry": "Information Technology"
     }],
     "success_case_list": [""]
     },{
@@ -83,44 +83,44 @@
     "website_url": "https://www.ng-voice.com/solutions/?tab3#toggle3",
     "created_year": null,
     "description": "The PCRF dynamically allocates and manages bandwidth requirements for various use-cases. ng-voice’s version is currently only a light-weight PCRF, fulfilling the necessary functions to provide a VoLTE service",
-    "category_list": "Policy Management solution",
+    "category_list": "Operation Management",
     "similar_solution_list": [{
       "title": "Service-Aware Policy Controller (SAPC)",
       "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-unified-data-management-and-policy/policy-control/service-aware-policy-controller",
-      "category": "Policy Management solution"
+      "category": "Operation Management"
        },{
       "title": "Nokia Policy Controller",
       "similiar_solution_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
-      "category": "Policy Management solution"
+      "category": "Operation Management"
     }],
     "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
     "floss_software": true,
-    "commercial_support_open_source_version": null,
-    "commercial_support_available": null,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Policy_and_charging_rules_function",
     "reference_list": [{
       "title": "GSMA",
       "logo_url": "https://www.gsma.com/wp-content/plugins/plugin_header_overload/images/logo.png",
       "country": "US",
-      "industry": "Consumer Discretionary"
+      "industry": "Agriculture and Food"
     },{
       "title": "Summa Networks",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/logo-summa-networks-black-rgb.png",
       "country": "ES",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "AttoCore",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/attocore-cyan-blue.png",
       "country": "UK",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "Telecom Infra Project",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/TIP_vertical_rgb_color-white.png",
       "country": "US",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     }],
     "success_case_list": [""]
     },{
@@ -135,30 +135,30 @@
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
-    "floss_software": null,
-    "commercial_support_open_source_version": null,
-    "commercial_support_available": null,
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Application_server",
     "reference_list":[{
       "title": "GSMA",
       "logo_url": "https://www.gsma.com/wp-content/plugins/plugin_header_overload/images/logo.png",
       "country": "US",
-      "industry": "Consumer Discretionary"
+      "industry": "Agriculture and Food"
     },{
       "title": "Summa Networks",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/logo-summa-networks-black-rgb.png",
       "country": "ES",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "AttoCore",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/attocore-cyan-blue.png",
       "country": "UK",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "Telecom Infra Project",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/TIP_vertical_rgb_color-white.png",
       "country": "US",
-      "industry": "Telecommunications services"
+      "industry": "Telecommunication"
     },{
       "title": "Deutsche Telekom",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Copy-of-800px-Deutsche_Telekom-Logo-white.png",
@@ -168,7 +168,7 @@
       "title": "Hubraum",
       "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/05/Type-Logo_RGB_300px_h-white.png",
       "country": "DE",
-      "industry": "Technology"
+      "industry": "Information Technology"
     }],
     "success_case_list": [""]
    }] 
