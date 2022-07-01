@@ -19,37 +19,37 @@
 	"kpi_list": [{
 		"year": 2020,
 		"staff": null,
-		"earnings": "605784 EUR",
+		"earnings": "605 784 EUR",
 		"total_assets": "",
-		"revenues": "10681262 EUR",
+		"revenues": "10 681 262 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2019,
 		"staff": 85,
-		"earnings": "1099751 EUR",
+		"earnings": "1 099 751 EUR",
 		"total_assets": "",
-		"revenues": "12197070 EUR",
+		"revenues": "12 197 070 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2018,
 		"staff": 88,
-		"earnings": "731732 EUR",
+		"earnings": "731 732 EUR",
 		"total_assets": "",
-		"revenues": "9640991 EUR",
+		"revenues": "9 640 991 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2017,
 		"staff": null,
-		"earnings": "583699 EUR",
+		"earnings": "583 699 EUR",
 		"total_assets": "",
-		"revenues": "8612908 EUR",
+		"revenues": "8 612 908 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2016,
 		"staff": 81,
-		"earnings": "829521 EUR",
+		"earnings": "829 521 EUR",
 		"total_assets": "",
-		"revenues": "8812298 EUR",
+		"revenues": "8 812 298 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}],
 	"solution_list": [{
