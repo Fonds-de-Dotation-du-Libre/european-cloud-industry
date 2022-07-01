@@ -171,19 +171,19 @@
 		"similar_solution_list": [{
 			"title": "Slack",
 			"similiar_solution_url": "https://slack.com/intl/en-gb/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Basecamp",
 			"similiar_solution_url": "https://basecamp.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Humhub",
 			"similiar_solution_url": "https://www.humhub.com/en",
-			"category": "Information Technology"
+			"category": "Application"
 		}, {
 			"title": "Jamespot",
 			"similiar_solution_url": "https://www.en.jamespot.com/",
-			"category": "Information Technology"
+			"category": "Application"
 		}],
 		"licence_list": ["GNU AGPL v3.0"],
 		"source_code_download": "https://github.com/exoplatform",
