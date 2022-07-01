@@ -27,23 +27,23 @@
 		"similar_solution_list": [{
 			"title": "Signal",
 			"similiar_solution_url": "https://signal.org/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "Telegram",
 			"similiar_solution_url": "https://telegram.org/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "Wire",
 			"similiar_solution_url": "https://wire.com/en/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "Element",
 			"similiar_solution_url": "https://element.io/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}, {
 			"title": "Jitsi",
 			"similiar_solution_url": "https://jitsi.org/",
-			"category": "Telecommunication"
+			"category": "Communication"
 		}],
 		"licence_list": ["AGPLv3"],
 		"source_code_download": "https://github.com/olvid-io/olvid-android.git",
