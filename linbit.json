@@ -23,15 +23,15 @@
 		"website_url": "https://linbit.com/linstor/",
 		"created_year": null,
 		"description": "LINSTOR is open-source software designed to manage block storage devices for large Linux server clusters. Its enterprise subscription LINBIT SDS, which includes DRBD, LINSTOR & Expert Support, is used for providing persistent Linux block storage for Kubernetes, OpenStack, OpenNebula, and OpenShift environments.",
-		"category_list": ["cloud computing"],
+		"category_list": ["Developer Environment"],
 		"similar_solution_list": [{
 			"title": "SANsymphony",
 			"similiar_solution_url": "https://www.datacore.com/products/sansymphony/",
-			"category": ["cloud computing"]
+			"category": ["Developer Environment"]
 			},{
       			"title": "Storage for Solution Providers",
 			"similiar_solution_url": "https://storpool.com/storage-for-solution-providers/",
-			"category": ["cloud computing"]
+			"category": ["Developer Environment"]
     			}],
 		"licence_list": ["General Public License v3.0"],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/#linstor",
@@ -45,92 +45,92 @@
 			"title": "Microsoft Azure",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Microsoft.svg",
 			"country": "US",
-			"industry": "computer application"
+			"industry": "Information Technology"
 			},{
 			"title": "Amazon web services",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__amazon.svg",
 			"country": "US",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "Google Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Google.svg",
 			"country": "US",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "Proxmox",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-3-2048x331.png",
 			"country": "AT",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Cloudstack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-2.jpg",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Open Nebula",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenNebula.svg",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Open Stack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenStack.svg",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Openshift",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/03/OpenShift-LogoType.svg.png",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Logzilla",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Logzilla-150x150.png",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Randtronics",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-randtronics-150x150.png",
 			"country": "US",
-			"industry": "Cybersecurity"
+			"industry": "Information Technology"
 			},{
 			"title": "Netiant",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo_netiant_blue_hauteur-300-150x150.png",
 			"country": "US",
-			"industry": "Computer science"
+			"industry": "Information Technology"
 			},{
 			"title": "Transitiv Technologies",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Transitiv-150x150.png",
 			"country": "UK",
-			"industry": "IT solutions"
+			"industry": "Information Technology"
 			},{
 			"title": "Trilio",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/09/logo-Ttrilio-150x150-1-150x150.png",
 			"country": "US",
-			"industry": "Cloud computing"
+			"industry": "Information Technology"
 			},{
 			"title": "OSEC",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-osec-150x150.png",
 			"country": "PL",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "Scalix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-scalix-150x150.png",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Procolix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/logo-1-300x55.png",
 			"country": "NL",
-			"industry": "Web hosting"
+			"industry": "Information Technology"
 			},{
 			"title": "Hashi Corp",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/08/hashiCorpNomad-1024x343.png",
 			"country": "US",
-			"industry": "Cloud computing"
+			"industry": "Information Technology"
 			},{
 			"title": "Dao Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2022/03/daocloud.png",
 			"country": "CN",
-			"industry": "Cloud computing"
+			"industry": "Information Technology"
 			}],
 		"success_case_list": ""			
   		},{
@@ -139,111 +139,111 @@
 		"website_url": "https://linbit.com/drbd/",
 		"created_year": null,
 		"description": "software is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts.",
-		"category_list": ["cloud computing"],
+		"category_list": ["Information Technology"],
 		"similar_solution_list": [""],
 		"licence_list": [""],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "https://github.com/LINBIT",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Microsoft Azure",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Microsoft.svg",
 			"country": "US",
-			"industry": "computer application"
+			"industry": "Information Technology"
 			},{
 			"title": "Amazon web services",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__amazon.svg",
 			"country": "US",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "Google Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Google.svg",
 			"country": "US",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "Proxmox",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-3-2048x331.png",
 			"country": "AT",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Cloudstack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-2.jpg",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Open Nebula",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenNebula.svg",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Open Stack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenStack.svg",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Openshift",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/03/OpenShift-LogoType.svg.png",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Logzilla",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Logzilla-150x150.png",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Randtronics",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-randtronics-150x150.png",
 			"country": "US",
-			"industry": "Cybersecurity"
+			"industry": "Information Technology"
 			},{
 			"title": "Netiant",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo_netiant_blue_hauteur-300-150x150.png",
 			"country": "US",
-			"industry": "Computer science"
+			"industry": "Information Technology"
 			},{
 			"title": "Transitiv Technologies",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Transitiv-150x150.png",
 			"country": "UK",
-			"industry": "IT solutions"
+			"industry": "Information Technology"
 			},{
 			"title": "Trilio",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/09/logo-Ttrilio-150x150-1-150x150.png",
 			"country": "US",
-			"industry": "Cloud computing"
+			"industry": "Information Technology"
 			},{
 			"title": "OSEC",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-osec-150x150.png",
 			"country": "PL",
-			"industry": "IT services"
+			"industry": "Information Technology"
 			},{
 			"title": "Scalix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-scalix-150x150.png",
 			"country": "US",
-			"industry": "Software"
+			"industry": "Information Technology"
 			},{
 			"title": "Procolix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/logo-1-300x55.png",
 			"country": "NL",
-			"industry": "Web hosting"
+			"industry": "Information Technology"
 			},{
 			"title": "Hashi Corp",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/08/hashiCorpNomad-1024x343.png",
 			"country": "US",
-			"industry": "Cloud computing"
+			"industry": "Information Technology"
 			},{
 			"title": "Dao Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2022/03/daocloud.png",
 			"country": "CN",
-			"industry": "Cloud computing"
+			"industry": "Information Technology"
 			}],
 		"success_case_list": [{
 			"title": "case study Edding ARG",
       			"description": "LINBIT HA allowed edding Argentina to integrate its different platforms that cover all the technological needs and distributed solutions based on SUSE Linux, Windows servers and SAP ERP. Since the implementation of LINBIT in 2015, edding Argentina has increased the availability of its services by 100%. LINBIT HA also enables the business to recover quickly and survive virtually any interruption with minimal downtime and little or no data loss.",
-      			"industry": "Stationery",
+      			"industry": "Manufacturing",
 			"customer": "Edding",
       			"country": "AR",
       			"language": "es",
@@ -251,10 +251,10 @@
     			},{
 			"title": "case study Häfele",
       			"description": "In the case of Häfele, and like many other businesses, high Availability is a crucial requirement. After a long deliberation from their side, the company’s management team was unanimous that DRBD is the solution for their particular problem. By using DRBD, Häfele takes full advantage of its Linux environment and the high number of Linux containers (LXC). DRBD allows them to manage their SSD collection with the fastest possible speeds. ",
-      			"industry": "Furniture",
+      			"industry": "Manufacturing",
 			"customer": "Häfele",
       			"country": "DE",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/SSI_Schaefer_Case_Study.pdf"
     			},{
 			"title": "case study SSI SCHAEFER",
@@ -262,7 +262,7 @@
       			"industry": "Intralogistic",
 			"customer": "SSI SCHAEFER",
       			"country": "DE",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/SSI_Schaefer_Case_Study.pdf"
     			},{
 			"title": "case study WEDOS",
@@ -270,7 +270,7 @@
       			"industry": "Server hosting",
 			"customer": "WEDOS",
       			"country": "CZ",
-      			"language": "cs",
+      			"language": "CS",
       			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/WEDOS-Case-Study.pdf"
     			},{
 			"title": "case study Wow Tel",
@@ -278,7 +278,7 @@
       			"industry": "IP provider",
 			"customer": "Wow Tel",
       			"country": "AU",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_wowtel-nocrop-1_5.pdf"
     			},{
 			"title": "case study Clear Voice",
@@ -286,7 +286,7 @@
       			"industry": "Telecommunications",
 			"customer": "Clear Voice",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_clearvoice-nocrop-1_5.pdf"
 			},{
 			"title": "case study Bon Studio SA",
@@ -294,7 +294,7 @@
       			"industry": "Live entertainment",
 			"customer": "Bon Studio SA",
       			"country": "GR",
-      			"language": "el",
+      			"language": "EL",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_bonstudio-nocrop-1_5.pdf"
 			},{
 			"title": "case study HR4YOU",
@@ -302,7 +302,7 @@
       			"industry": "Human Ressources Management",
 			"customer": "HR4YOU",
       			"country": "DE",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_hr4you-1_5.pdf"
 			},{
 			"title": "case study BayNet",
@@ -310,7 +310,7 @@
       			"industry": "Technology support",
 			"customer": "BayNet",
       			"country": "AR",
-      			"language": "es",
+      			"language": "ES",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_baynet-nocrop-1_5.pdf"
 			},{
 			"title": "case study Performance Matters",
@@ -318,7 +318,7 @@
       			"industry": "Educationnal",
 			"customer": "Performance Matters",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_performancematters-nocrop-1_5.pdf"
 			},{
 			"title": "case study Knapp",
@@ -326,7 +326,7 @@
       			"industry": "Logistics",
 			"customer": "Knapp",
       			"country": "AT",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_knapp-nocrop-1_5.pdf"
 			},{
 			"title": "case study TruckPro",
@@ -334,7 +334,7 @@
       			"industry": "Truck and trailer",
 			"customer": "TruckPro",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_truckpro-nocrop-1_5.pdf"
 			},{
 			"title": "case study Adamson Systems",
@@ -342,15 +342,15 @@
       			"industry": "sound",
 			"customer": "Adamson Systems",
       			"country": "CA",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_adamson-nocrop-1_5.pdf"
 			},{
 			"title": "case study AccuWeather",
 			"description": "With DRBD®, all WeatherData needed was two commercial off-the-shelf servers with lots of disk space, which was much more cost-effective. Since DRBD® can be installed in-place, on existing servers with internal SAN or direct-attached storage, implementing High Availability NFS services on existing servers is a snap. With no downtime, WeatherData implemented remote replication to ease the burden of swapping data center sites. Realizing the value of what it had built, WeatherData now runs High Availability NFS services to protect against hardware failure for further operations at its new site.",
-      			"industry": "media",
+      			"industry": "Media and Entertainment",
 			"customer": "AccuWeather",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_weatherdata-nocrop-1_5.pdf"
     			},{
 			"title": "case study Midland County Central Dispatch Authority",
@@ -358,7 +358,7 @@
       			"industry": "Public Safety",
 			"customer": "Midland County Central Dispatch Authority",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_midland911-nocrop-1_5.pdf"
 			},{
 			"title": "case study The National Library of Medicine",
@@ -366,7 +366,7 @@
       			"industry": "Education",
 			"customer": "The National Library of Medicine",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_nih-nocrop-1_5.pdf"
 			},{
 			"title": "case study Portland State University",
@@ -374,7 +374,7 @@
       			"industry": "Higher education",
 			"customer": "Portland State University",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_psu-nocrop-1_5.pdf"
 			},{
 			"title": "case study Athabasca University",
@@ -382,7 +382,7 @@
       			"industry": "Higher Education",
 			"customer": "Athabasca University",
       			"country": "CA",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_athabasca-nocrop-1_5.pdf"
 			},{
 			"title": "case study Salinen Austria",
@@ -390,7 +390,7 @@
       			"industry": "Mining",
 			"customer": "Salinen Austria",
       			"country": "AT",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_salinen-nocrop-1_5.pdf"
 			},{
 			"title": "case study Barkman Honey",
@@ -398,7 +398,7 @@
       			"industry": "Food manufacturing",
 			"customer": "Barkman Honey",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_barkman-nocrop-1_5.pdf"
 			},{
 			"title": "case study CISCO Systems",
@@ -406,7 +406,7 @@
       			"industry": "Networking",
 			"customer": "CISCO Systems",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_cisco-nocrop-1_5.pdf"
 			},{
 			"title": "case study Porsche Informatik",
@@ -414,7 +414,7 @@
       			"industry": "IT services",
 			"customer": "Porsche Informatik",
       			"country": "DE",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_porsche-nocrop-1_5.pdf"
 			},{
 			"title": "case study Max Planck Institute",
@@ -422,7 +422,7 @@
       			"industry": "Research",
 			"customer": "Max Planck Institute",
       			"country": "DE",
-      			"language": "de",
+      			"language": "DE",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_maxplanck-nocrop-1_5.pdf"
 			}]		
 		},{
@@ -431,15 +431,15 @@
 		"website_url": "https://linbit.com/drbd-proxy/",
 		"created_year": null,
 		"description": "DRBD®️ Proxy provides two significant advantages: data compression and cache operations. The biggest problems for disaster recovery solutions are when the connection between the two locations is cut off or when the connection quality is low.",
-		"category_list": ["cloud computing"],
+		"category_list": ["Operation Management"],
 		"similar_solution_list": [""],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "https://github.com/LINBIT",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [""],
 		"success_case_list": [{
@@ -448,7 +448,7 @@
       			"industry": "Payments",
 			"customer": "Secure Payment Systems",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_securepaymentsystems-nocrop-1_5.pdf"
 			},{
 			"title": "case study The National Library of Medicine",
@@ -456,7 +456,7 @@
       			"industry": "Education",
 			"customer": "The National Library of Medicine",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_nih-nocrop-1_5.pdf"
 			},{
 			"title": "case study Barkman Honey",
@@ -464,7 +464,7 @@
       			"industry": "Food manufacturing",
 			"customer": "Barkman Honey",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_barkman-nocrop-1_5.pdf"
 			}]	
   		},{
@@ -473,15 +473,15 @@
 		"website_url": "https://linbit.com/windrbd-replicated-disk-drives-for-windows/",
 		"created_year": null,
 		"description": "WinDRBD® is the port of Linbit’s DRBD kernel driver and userspace utilities to the Microsoft Windows family of operating systems (Windows Server, Windows 10). It is based on the original source code of DRBD, which makes it widely compatible with the Linux version of DRBD. Most features that come with Linux DRBD are also available on the WinDRBD port. In addition, WinDRBD can be used for booting a Windows client from a network resource",
-		"category_list": ["cloud computing"],
+		"category_list": ["Developer Environment"],
 		"similar_solution_list": [""],
 		"licence_list": [""],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "https://github.com/LINBIT",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [""],
 		"success_case_list": [""]
