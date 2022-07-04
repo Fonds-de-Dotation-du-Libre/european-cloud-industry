@@ -1,7 +1,7 @@
 {
 	"created": "01-04-2022",
 	"title": "OX",
-	"type": "corporation",
+	"type": "company",
 	"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 	"location": {
 		"title": "Open-Xchange",
@@ -15,45 +15,31 @@
 	},
 	"subsidiary_location_list": ["IT", "NL", "FI"],
 	"website_url": "https://www.open-xchange.com/?hsLang=en",
-	"founded_year": "2005",
+	"founded_year": 2005,
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
+		"year": 2021,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "",
 		"revenues": "",
 		"source_url": ""
 	}, {
-		"year": "2020",
-		"staff": "",
+		"year": 2020,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "568 098 361 EUR",
 		"revenues": "44 431 EUR",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?9"
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "4 877 383 281 EUR",
-		"revenues": "4 380 127 169 EUR",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?9"
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "4 349 153 496 EUR",
-		"revenues": "329 504 337 EUR",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?18"
-	}, {
-		"year": "2017",
-		"staff": "",
+	},{
+		"year": 2017,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "4 959 359 754 EUR",
 		"revenues": "346 001 900 EUR",
 		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?18"
 	}, {
-		"year": "2016",
-		"staff": "",
+		"year": 2016,
+		"staff": null,
 		"earnings": "",
 		"total_assets": "3 958 630 935 EUR",
 		"revenues": "2 823 828 062 EUR",
@@ -63,9 +49,8 @@
 		"title": "OX Dovecot Pro",
 		"logo_url": "https://www.open-xchange.com/hubfs/csm_IMAP-01_003fa58b26.png",
 		"website_url": "https://www.open-xchange.com/products/ox-dovecot-pro/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "The world’s market-leading IMAP server, OX Dovecot Pro, delivers dynamic scalability, high performance, efficient utilization of hardware and outstanding support to the world’s largest Telcos and ISP's.",
-		"solution type": "Hardware",
 		"category_list": ["Server"],
 		"similar_solution_list": [{
 			"title": "",
@@ -100,9 +85,8 @@
 		"title": "OX PowerDNS Recursor",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-recursor/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "With OX PowerDNS Recursor, Internet Service Providers can provide a fast and reliable DNS service, enabling a secure internet experience for subscribers and their personal devices, including laptops, tablets and mobile phones, as well as the many IoT devices that are already in use.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
@@ -137,9 +121,8 @@
 		"title": "DNSdist",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/dnsdist/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "DNSdist is a unique DNS proxy and load balancer that brings out the best possible performance in any DNS deployment. It optimizes DNS traffic in front of the OX PowerDNS Recursor, and both are normally deployed together to provide an unrivaled feature set for DNS services.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
@@ -174,9 +157,8 @@
 		"title": "OX PowerDNS Cloud Control",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-cloud-control/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "Increase scalability, reduce costs and manage your DNS more efficiently. Benefit from DNS containerization, automation, orchestration and lifecycle management, monitoring and alerting, combined in a single interface for configuration and operations.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
@@ -211,9 +193,8 @@
 		"title": "OX PowerDNS Authoritative Server",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-authoritative/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "The OX PowerDNS Authoritative Server is a versatile authoritative server for hosting domain names. It rapidly responds to recursive nameservers, helping hosters offer a high-performing authoritative service for their domain customers.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "",
@@ -248,9 +229,8 @@
 		"title": "OX Protect for families",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-protect-for-families/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "Children nowadays not only play with the kids next door – the online world also plays an increasingly important role in their life from a young age and comes with many advantages. However, it also comes with some challenges, including access to inappropriate content such as gambling, violence, cyberbullying and adult content.",
-		"Solution type": "Software",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "bark",
@@ -285,9 +265,8 @@
 		"title": "Ox Protect for malware",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-protect-for-malware/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "OX Protect for Malware secures your subscribers’ connected devices in their home network or while they are on the move in your mobile network. Smartphones, tablets and laptops, as well as IoT devices are all protected against malware, phishing and other malicious online threats.",
-		"Solution type": "Software",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Total Av",
@@ -330,9 +309,8 @@
 		"title": "OX Abuse shield",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-abuse-shield/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "OX Abuse Shield protects against threats in internet-connection authentication systems, including portals, webmail, IMAP and POP, SMTP and any other protocol.",
-		"Solution type": "Software",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "",
@@ -367,9 +345,8 @@
 		"title": "OX App Suite",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-app-suite/?hsLang=en",
-		"created_year": "",
+		"created_year": null,
 		"description": "OX App Suite just got better. Already in use by 150 million users worldwide. Our easy-to-use Small Businesses email and communication tools are now available as part of OX Cloud",
-		"Solution type": "Software",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Outlook OST viewer",
