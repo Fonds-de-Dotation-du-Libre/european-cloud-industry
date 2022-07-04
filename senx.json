@@ -1,7 +1,7 @@
 {
   "created": "2022-04-05",
   "title": "SenX",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://senx.io/assets/img/senx_header_dark.png",
   "location": {
     "title": "SenX",
@@ -15,31 +15,31 @@
   },
   "subsidiary_location_list": "",
   "website_url": "https://senx.io/",
-  "founded_year": "2013",
+  "founded_year": 2013,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "",
+    "year": 2020,
+    "staff": null,
     "earnings": "-295 818 EUR",
     "total_assets": "2 016 385 EUR",
     "revenues": "476 678 EUR",
     "source_url": "https://www.verif.com/"
   }, {
-    "year": "2019",
-    "staff": "",
+    "year": 2019,
+    "staff": null,
     "earnings": "265 748 EUR",
     "total_assets": "2 112 440 EUR",
     "revenues": "684 400 EUR",
     "source_url": "https://www.verif.com/"
   },{
-    "year": "2018",
-    "staff": "",
+    "year": 2018,
+    "staff": null,
     "earnings": "-153 526 EUR",
     "total_assets": "1 527 215 EUR",
     "revenues": "687 133 EUR",
     "source_url": "https://www.verif.com/"
   },{
-    "year": "2017",
-    "staff": "",
+    "year": 2017,
+    "staff": null,
     "earnings": "127 356 EUR",
     "total_assets": "1 485 954 EUR",
     "revenues": "745 713 EUR",
@@ -49,7 +49,7 @@
     "title": "Warp 10",
     "logo_url": "https://www.warp10.io/assets/img/header-w-white.png",
     "website_url": "https://www.warp10.io/content/01_About",
-    "created_year": "2013",
+    "created_year": 2013,
     "description": "Warp 10 is one of the most advanced time series platform, ensuring a seamless experience with existing data ecosystems. It addresses challenges posed by the data produced by consumer IoT devices. SenX, the company leading the Warp 10 development, invested heavily in the research and development of a high performance storage engine and an advanced analytics environment, both specifically crafted for time series augmented by location data (Geo Time Series).",
     "category_list": ["Storage and Database","IOT and Industrial"]
     "similar_solution_list": [{
@@ -69,7 +69,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Warp_10",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "case study",
       "description": "AIM45 proposes a solution to store and analyze data produced by sailboats. This solution is based on Warp 10 and includes algorithms and visualizations designed by experts in yacht races. It is compatible with many types of data loggers, so the produced data can be easily retrieved and analyzed.",
@@ -77,7 +77,7 @@
       "industry": "Information Technology",
       "customer": "AIM45",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://senx.io/cases-studies/aim45"
     },{
       "title": "case study",
@@ -86,7 +86,7 @@
       "industry": "Manufacturing",
       "customer": "AMZAIR",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/amzair"
     },{
       "title": "case study",
@@ -95,7 +95,7 @@
       "industry": "Banking",
       "customer": "ARKEA",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/arkea"
     },{
       "title": "case study",
@@ -104,7 +104,7 @@
       "industry": "Information Technology",
       "customer": "CENTREON",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/centreon"
     },{
       "title": "case study",
@@ -113,7 +113,7 @@
       "industry": "Healthcare",
       "customer": "CHRU Brest",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/chru"
     },{
       "title": "case study",
@@ -122,7 +122,7 @@
       "industry": "Cloud services",
       "customer": "Clever cloud",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/clevercloud"
     },{
       "title": "case study",
@@ -131,7 +131,7 @@
       "industry": "Information Technology",
       "customer": "Eegle",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/eegle"
     },{
       "title": "case study",
@@ -140,7 +140,7 @@
       "industry": "Information Technology",
       "customer": "Energisme",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/assets/img/testimonials/energisme.svg"
     },{
       "title": "case study",
@@ -149,7 +149,7 @@
       "industry": "Information Technology",
       "customer": "Kalvad",
       "country": "AE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://senx.io/cases-studies/kalvad"
     },{
       "title": "case study",
@@ -158,7 +158,7 @@
       "industry": "Information Technology",
       "customer": "S3P Web",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://senx.io/cases-studies/s3pweb"
     }]
   }]
