@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "SoftKlix",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1249/https://www.softklix.com/wp-content/uploads/2022/04/softklix-pro.png",
   "location": {
     "title": "SOFTKLIX",
@@ -15,27 +15,51 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.softklix.com/",
-  "founded_year": "2017",
+  "founded_year": 2017,
   "kpi_list": [],
   "solution_list": [{
     "title": "SOFTKLIX Application Virtualization",
     "logo_url": "https://www.softklix.com/wp-content/uploads/2019/08/AppVirt-Computing-Icon.svg",
     "website_url": "https://www.softklix.com/wp-content/uploads/2019/08/SOFTKLIX-APP-Virtualization.svg",
-    "created_year": "",
+    "created_year": null,
     "description": "SOFTKLIX ‘Application Virtualization’ software, enables 16 or 32 or 64-Bit Windows Applications to be delivered (streamed) to remote users via the secure SOFTKLIX web-based Workspace desktop. SOFTKLIX users can be set up easily in a matter of minutes, enjoy greater productivity and reduced costs.",
     "category_list": ["Compute Virtualisation"]
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
   },{
     "title": "SOFTKLIX VDI Virtualization - Multi-User Virtualization",
     "logo_url": "https://www.softklix.com/wp-content/uploads/2019/08/multiuser-VDI-Computing-Icon.svg",
     "website_url": "https://www.softklix.com/wp-content/uploads/2019/08/SOFTKLIX-Multi-User-Desktop-Virtualization.svg",
-    "created_year": "",
+    "created_year": null,
     "description": "SOFTKLIX ‘VDI Multi-User’ virtualization software, sometimes called ‘client virtualization’, is a technology used to separate a computer desktop environment from the physical computer desktop environment. The benefit of the SOFTKLIX VDI Multi-User virtualization, is that the desktop is streamed so that the user simply logs in so that they can access their desktop remotely from any location and anytime.",
     "category_list": ["Desktop Virtualisation"]
+    }],
+    "licence_list": ["Proprietary"],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
   },{
     "title": "SOFTKLIX Application Virtualization - Single-User exclusive mode",
     "logo_url": "https://www.softklix.com/wp-content/uploads/2019/08/Single-VDI-Computing-Icon.svg",
     "website_url": "https://www.softklix.com/wp-content/uploads/2019/08/SOFTKLIX-Single-User-Desktop-Virtualization-VDI.svg",
-    "created_year": "",
+    "created_year": null,
     "description": "SOFTKLIX Virtual Desktop Infrastructure (VDI) software & hypervisors work in much the same way as they do with server virtualization. SOFTKLIX VDI defines, manages and deploys pools of individual virtual Windows desktops to users. When a user establishes a VDI instance via the SOFTKLIX connection broker, it assigns the Windows operating system (VDI-instance) to an available Virtual Desktop from the appropriate pool.",
     "category_list": ["Desktop Virtualisation"],
     "similar_solution_list": [{
