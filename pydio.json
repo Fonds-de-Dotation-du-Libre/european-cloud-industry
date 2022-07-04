@@ -8,64 +8,21 @@
 		"address": "160 bis rue du Temple",
 		"postal_code": "75003",
 		"city": "Paris",
-		"country": "France",
+		"country": "FR",
 		"phone_contact": "+33 1 76361075",
 		"mail_contact": "",
 		"coordinate_list": [48.86578282205288, 2.36091068453969]
 	},
 	"subsidiary_location_list": ["US"],
 	"website_url": "https://pydio.com/en",
-	"founded_year": "2012",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"founded_year": 2012,
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Pydio for Manufacturing",
 		"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 		"website_url": "https://pydio.com/en/solutions/manufacturing",
-		"created_year": "",
+		"created_year": null,
 		"description": "Manufacturers rely on a huge number of processes, documentation, and technical notes. Embed Pydio Cells as a cornerstone inside your existing workflow to streamline and securitize document sharing and collaboration. ",
-		"Solution type": "Software",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Imagen",
@@ -95,14 +52,13 @@
 		"country": "",
 		"language": "",
 		"success_case_url": ""
-}]	
+		}]	
 	},{
 	"title": "Pydio for Architecture & Construction Industry",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-architecture-construction-industry",
-	"created_year": "",
+	"created_year": null,
 	"description": "Use Pydio to upload, share and collaborate on large files. In your business, you need to exchange and collaborate on huge CAD files and manage piles of documents (field reports, specifications, RFIs, RFPs, etc..).",
-	"Solution list": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "wimi",
@@ -137,9 +93,8 @@
 	"title": "Pydio for Healthcare",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-hospitals-and-healthcare-institutions",
-	"created_year": "",
+	"created_year": null,
 	"description": "Use Pydio as the cornerstone for file-sharing and collaboration in your existing workflow. Healthcare organizations need to centralize, secure, and manage patient data (test results, radiography images, lab protocols, etc…)",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{		
 		"title": "oneHub",
@@ -174,9 +129,8 @@
 	"title": "Pydio for Legal Services",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-legal-services",
-	"created_year": "",
+	"created_year": null,
 	"description": "Pydio Cells provides streamlined, secure, self-hosted document sharing and collaboration adapted for the needs of the legal services sector, so you don’t have to choose between teamwork and security.",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "moveit",
@@ -211,9 +165,8 @@
 	"title": "Pydio for Financial Services",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-financial-services",
-	"created_year": "",
+	"created_year": null,
 	"description": "Pydio Cells lets you build your own secure document repository for confidential data in hours. Pydio is built for security from the ground up and perfectly balances granular security and admin capabilities with end-user ease-of-use.",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "globalscape EFT",
@@ -243,14 +196,13 @@
 		"country": "",
 		"language": "",
 		"success_case_url": ""
-	}]
+		}]
 	},{		  
 	"title": "Pydio for Government & Public Sector",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-government-public-sector",
-	"created_year": "",
+	"created_year": null,
 	"description": "Use Pydio as your cross-department and inter-agency file-sharing platform. You are a government agency and you need to collaborate and share internally but also with other departments and agencies, partners, subcontractors, stakeholders, and the public.",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "FileInvite",
@@ -285,9 +237,8 @@
 	"title": "Pydio for Media & Communication agencies",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-media-communication-agencies",
-	"created_year": "",
+	"created_year": null,
 	"description": "Share documents and collaborate with your teams, clients and subcontractors using your own branded platform. Your business is project-oriented. ",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "OnBoard",
@@ -319,49 +270,47 @@
 		"success_case_url": ""
 	}]
 	},{
-		"title": "Pydio for Education & Academic Institutions",
-		"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
-		"website_url": "https://pydio.com/en/solutions/pydio-education-and-academic-institutions",
-		"created_year": "",
-		"description": "Pydio provides a secured file sharing solution for sensitive staff and researcher data and an open, public cloud solution for students day-to-day collaboration.",
-		"Solution type": "Workspace",
-		"category_list": ["Workspace"],
-		"similar_solution_list": [{
-			"title": "MangoApps",
-			"similiar_solution_url": "https://www.mangoapps.com/",
-			"category": "Workspace"
+	"title": "Pydio for Education & Academic Institutions",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"website_url": "https://pydio.com/en/solutions/pydio-education-and-academic-institutions",
+	"created_year": null,
+	"description": "Pydio provides a secured file sharing solution for sensitive staff and researcher data and an open, public cloud solution for students day-to-day collaboration.",
+	"category_list": ["Workspace"],
+	"similar_solution_list": [{
+		"title": "MangoApps",
+		"similiar_solution_url": "https://www.mangoapps.com/",
+		"category": "Workspace"
+	}],
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": true,
+	"commercial_support_open_source_version": false,
+	"commercial_support_available": false,
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
 		}],
-		"licence_list": ["GNU AGPLv3.0"],
-		"source_code_download": "https://github.com/pydio",
-		"source_code_profile": "https://www.openhub.net/p/pydio",
-		"commercial_support_url": "https://pydio.com/en/pricing/contact",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-			}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-}]
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
+		}]
 },{
 	"title": "Pydio for Consulting Firms",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/consulting",
-	"created_year": "",
+	"created_year": null,
 	"description": "Pydio Cells helps you create, collaborate and share documents and files with your clients seamlessly and securely while keeping full control and ownership of your files.",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "GoAnywhereMFT",
@@ -391,44 +340,42 @@
 		"country": "",
 		"language": "",
 		"success_case_url": ""
-}]
+		}]
 },{
 	"title": "Pydio for Retail & Consumer Goods",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"website_url": "https://pydio.com/en/solutions/pydio-retail-consumer-goods",
-	"created_year": "",
+	"created_year": null,
 	"description": "Streamline your document sharing and collaboration workflows across all channels. Make it easy for central headquarters to collaborate with distribution, local shops, suppliers, and subcontractors. Instantly share files across all locations to smooth out workflows with your sales points.",
-	"Solution type": "Software",
 	"category_list": ["Workspace"],
 	"similar_solution_list": [{
 		"title": "FileCloud",
 		"similiar_solution_url": "https://www.filecloud.com/",
 		"category": "Workspace"
 		}],
-
-"licence_list": ["GNU AGPLv3.0"],
-"source_code_download": "https://github.com/pydio",
-"source_code_profile": "https://www.openhub.net/p/pydio",
-"commercial_support_url": "https://pydio.com/en/pricing/contact",
-"floss_software": true,
-"commercial_support_open_source_version": false,
-"commercial_support_available": false,
-"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
-"reference_list": [{
-	"title": "",
-	"logo_url": "",
-	"country": "",
-	"industry": ""
-	}],
-"success_case_list": [{
-	"title": "",
-	"description": "",
-	"image_url": "",
-	"industry": "",
-	"customer": "",
-	"country": "",
-	"language": "",
-	"success_case_url": ""
+	"licence_list": ["GNU AGPLv3.0"],
+	"source_code_download": "https://github.com/pydio",
+	"source_code_profile": "https://www.openhub.net/p/pydio",
+	"commercial_support_url": "https://pydio.com/en/pricing/contact",
+	"floss_software": true,
+	"commercial_support_open_source_version": false,
+	"commercial_support_available": false,
+	"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+	"reference_list": [{
+		"title": "",
+		"logo_url": "",
+		"country": "",
+		"industry": ""
+		}],
+	"success_case_list": [{
+		"title": "",
+		"description": "",
+		"image_url": "",
+		"industry": "",
+		"customer": "",
+		"country": "",
+		"language": "",
+		"success_case_url": ""
 }]
 }]
 }
