@@ -15,27 +15,27 @@
 	},
 	"subsidiary_location_list": ["US"],
 	"website_url": "https://submer.com/",
-	"founded_year": "2015",
-	"kpi_list": "",
+	"founded_year": 2015,
+	"kpi_list": [""],
 	"solution_list": [{
 		"title": "MicroPod",
 		"logo_url": "https://submer.com/wp-content/uploads/2020/11/micropod-rooftop3-copy-1536x864.jpg",
 		"website_url": "https://submer.com/micropod/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Submer’s MicroPod is the perfect Immersion Cooling solution for Edge applications, colocation datacenters, telcos and cloud computing. Thanks to its compact, modular, plug-and-play, datacenter-in-a-box configuration, the MicroPod allows for fast deployment in any location, including direct sunlight and an easy plug-and-play installation with an unrivalled energy footprint anywhere on the globe.",
-		"category_list": "Cooling",
+		"category_list": ["Cooling"],
 		"similar_solution_list": [{
 			"title": "ICEraQ",
 			"similiar_solution_url": "https://www.grcooling.com/iceraq/",
 			"category": "Cooling"
 		}],
-		"licence_list": "",
+		"licence_list": [""],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": true,
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Ingram Micro",
@@ -248,44 +248,44 @@
 			"country": "AU",
 			"industry": "IT"
 		}],
-		"success_case_list": ""
+		"success_case_list": [""]
 	}, {
 		"title": "SmartPod",
 		"logo_url": "https://submer.com/wp-content/uploads/2021/03/SmartPod-Family.png",
 		"website_url": "https://submer.com/smartpod/",
-		"created_year": "",
+		"created_year": null,
 		"description": "the SmartPod is the very first commercially available OCP compatible Immersion Cooling system, that conforms to both standard server formats and to Open Compute Project (OCP) specifications for high-performance, supercomputing, hyperscale infrastructures, research and colocation",
-		"category_list": "Cooling",
-		"similar_solution_list": "",
-		"licence_list": "",
+		"category_list": ["Cooling"],
+		"similar_solution_list": [""],
+		"licence_list": [""],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": "",
-		"success_case_list": ""
+		"reference_list": [""],
+		"success_case_list": [""]
 	}, {
 		"title": "MegaPod",
 		"logo_url": "https://submer.com/wp-content/uploads/2021/03/megapod-bandw.jpg",
 		"website_url": "https://submer.com/megapod/",
-		"created_year": "",
+		"created_year": null,
 		"description": "The MegaPod has been purpose-built to address the main pain points faced by our challenged industry. Deliver large amounts of sustainable compute capacity and ease site selection. No other technology can deliver this level of density and leverage dry-cooling infrastructure anywhere on the Globe. No other technology can deliver >95% of the IT energy captured in the form or warm water for heat reuse. Think out of the box by leveraging Immersion Cooling in a bigger box: The MegaPod.",
-		"category_list": "Cooling",
+		"category_list": ["Cooling"],
 		"similar_solution_list": [{
 			"title": "ICEtank",
 			"similiar_solution_url": "https://www.grcooling.com/icetank/",
 			"category": "Cooling"
 		}],
-		"licence_list": "",
+		"licence_list": [""],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": true,
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Ingram Micro",
@@ -498,22 +498,22 @@
 			"country": "AU",
 			"industry": "IT"
 		}],
-		"success_case_list": ""
+		"success_case_list": [""]
 	}, {
 		"title": "SmartCoolant",
 		"logo_url": "",
 		"website_url": "https://submer.com/smart-coolant-liquid/",
-		"created_year": "",
+		"created_year": null,
 		"description": "a synthetic fluid tailor-made for immersion cooling. It provides great benefits for hardware, humans, the planet.",
-		"category_list": "Cooling",
-		"similar_solution_list": "",
-		"licence_list": "",
+		"category_list": ["Cooling"],
+		"similar_solution_list": [""],
+		"licence_list": [""],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": "yes",
-		"commercial_support_open_source_version": "",
-		"commercial_support_available": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Ingram Micro",
@@ -726,6 +726,6 @@
 			"country": "AU",
 			"industry": "IT"
 		}],
-		"success_case_list": ""
+		"success_case_list": [""]
 	}]
 }
