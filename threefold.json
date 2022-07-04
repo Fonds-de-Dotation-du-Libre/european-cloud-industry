@@ -1,7 +1,7 @@
 {
   "created": "2022-04-06",
   "title": "Threefold",
-  "type": "Associations and NGOs",
+  "type": "NGO",
   "logo_url": "https://threefold.io/assets/static/tft_color_logo.3e8a41b.7b655c36cc78de99d8ef9da582b8cc8c.svg",
   "location": {
     "title": "Threefold Tech",
@@ -15,19 +15,19 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://threefold.io/",
-  "founded_year": "2018",
+  "founded_year": 2018,
   "kpi_list": [],
   "solution_list": [{
     "title": "Threefold Tech",
     "logo_url": "https://threefold.tech/assets/static/tft_logo.d25c033.5564300f20611d911b4e26840c45bac3.svg",
     "website_url": "https://threefold.tech/",
-    "created_year": "2018",
+    "created_year": 2018,
     "description": "",
-    "category_list": ["Storage and Database","Cybersecurity"],
+    "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Akash",
       "similiar_solution_url": "https://akash.network/",
-      "category": ["Storage and Database", "Compute Virtualisation"]
+      "category": "Storage and Database"
     },{
       "title": "Dfinity",
       "similiar_solution_url": "https://dfinity.org/",
