@@ -1,7 +1,7 @@
 {
   "created": "2022-04-14",
   "title": "Paltform.sh SAS",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
   "location": {
     "title": "Platform.sh SAS",
@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://platform.sh/",
-  "founded_year": "2010",
+  "founded_year": 2010,
   "kpi_list": [],
   "solution_list": [{
     "title": "Platform.sh",
     "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
     "website_url": "https://platform.sh/",
-    "created_year": "2010",
+    "created_year": 2010,
     "description": "The cloud PaaS to develop, deploy, host and secure websites and apps",
     "category_list": ["Application"],
     "similar_solution_list": [{
@@ -78,7 +78,7 @@
       "industry": "E-Commerce Fashion Marketplace",
       "customer": "Uppler",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.uppler.com/"
     },{
       "title": "Truth Initiative successfully delivers vaping prevention messages to young adults thanks to its scalable site capacity",
@@ -87,7 +87,7 @@
       "industry": "Public health",
       "customer": "Truth Initiative",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://platform.sh/customers/stories/truth-initiative-delivers-vaping-prevention-message-to-young-adults-thanks-to-scalable-site-capacity/"
     },{
       "title": "Athletic eyewear retailer SportRx hits peak performance with Platform.sh",
@@ -96,7 +96,7 @@
       "industry": "Eyewear retail",
       "customer": "SportRx",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://platform.sh/customers/stories/athletic-eyewear-retailer-sportrx-hits-peak-performance-with-platformsh/"
     },{
       "title": "BoardSpot SaaS solution frees nonprofit boards to focus on good works",
@@ -105,7 +105,7 @@
       "industry": "Association and NGOs",
       "customer": "Boardspot",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://platform.sh/customers/stories/boardspot-saas-solution-frees-nonprofit-boards-to-focus-on-good-works/"
     },{
       "title": "Pixelant + Platform.sh",
@@ -114,7 +114,7 @@
       "industry": "Information Technology",
       "customer": "Pixelant",
       "country": "SE",
-      "language": "EN",
+      "language": "dv",
       "success_case_url": "https://platform.sh/customers/stories/pixelant-and-platformsh/"
     },{
       "title": "University of Missouri + Platform.sh",
@@ -123,7 +123,7 @@
       "industry": "Education",
       "customer": "University of Missouri",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://platform.sh/customers/stories/university-of-missouri+platform.sh/"
     },{
       "title": "UNICEF Switzerland and Liechtenstein + Platform.sh",
@@ -132,7 +132,7 @@
       "industry": "Association and NGOs",
       "customer": "UNICEF",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://platform.sh/customers/stories/unicef-switzerland-and-liechtenstein+platform.sh/"
     }]
   }]
