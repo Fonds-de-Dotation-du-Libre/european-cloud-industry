@@ -1,160 +1,160 @@
 {
-  "created": "2022-04-05",
-  "title": "RCDevs",
-  "type": "Company",
-  "logo_url": "https://www.rcdevs.com/wp-content/uploads/logo-Black-Orange-160x73.png",
-  "location": {
-    "title": "RCDevs SA",
-    "address": "1 Boulevard du Jazz",
-    "postal_code": "4370",
-    "city": "Esch-sur-Alzette",
-    "country": "LU",
-    "phone_contact": "+35226176121",
-    "mail_contact": "info@rcdevs.com",
-    "coordinate_list": [49.502436959074835, 5.944859107618239]
-  },
-  "subsidiary_location_list": [],
-  "website_url": "https://www.rcdevs.com/",
-  "founded_year": null,
-  "kpi_list": [{
-    "year": 2019,
-    "staff": null,
-    "earnings": "",
-    "total_assets": "4 568 705 EUR",
-    "revenues": "838 814 EUR",
-    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
-  },{
-    "year": 2018,
-    "staff": null,
-    "earnings": "",
-    "total_assets": "2 741 166 EUR",
-    "revenues": "134 124 EUR",
-    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
-  },{
-    "year": 2017,
-    "staff": null,
-    "earnings": "",
-    "total_assets": "1 851 519 EUR",
-    "revenues": "378 661 EUR",
-    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
-  },{
-    "year": 2016,
-    "staff": null,
-    "earnings": "",
-    "total_assets": "1 348 799 EUR",
-    "revenues": "210 658 EUR",
-    "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
-  }],
-  "solution_list": [{
-    "title": "OpenOTP Authentication Server",
-    "logo_url": "",
-    "website_url": "https://www.rcdevs.com/products/openotp/",
-    "created_year": null,
-    "description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
-    "category_list": ["Identity"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
-    "licence_list": ["Proprietary"],
-    "source_code_download": "https://www.rcdevs.com/fr/downloads/",
-    "source_code_profile": "",
-    "commercial_support_url": "https://www.rcdevs.com/store/",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
-  },{
-    "title": "SpanKey SSH Key Server Management",
-    "logo_url": "",
-    "website_url": "https://www.rcdevs.com/products/spankey/",
-    "created_year": null,
-    "description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
-    "category_list": ["Identity"]
-    "licence_list": ["Proprietary"],
-    "source_code_download": "https://www.rcdevs.com/fr/downloads/",
-    "source_code_profile": "",
-    "commercial_support_url": "https://www.rcdevs.com/store/",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
-  },{
-    "title": "WebADM Control Center",
-    "logo_url": "",
-    "website_url": "https://www.rcdevs.com/products/webadm/",
-    "created_year": null,
-    "description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
-    "category_list": ["Service Lifecycle Automation"],
-    "similar_solution_list": [{
-      "title": "Auth0",
-      "similiar_solution_url": "https://auth0.com/key",
-      "category": "Identity"
-    },{
-      "title": "Keycloak",
-      "similiar_solution_url": "https://www.keycloak.org/",
-      "category": "Identity"
-    },{
-      "title": "Amazon Cognito",
-      "similiar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
-      "category": "Identity"
-    },{
-      "title": "Spring Security",
-      "similiar_solution_url": "https://spring.io/projects/spring-security",
-      "category": "Cybersecurity"
-    },{
-      "title": "Firebase Authentication",
-      "similiar_solution_url": "https://firebase.google.com/",
-      "category": "Identity"
-    },{
-      "title": "JSON web Token",
-      "similiar_solution_url": "https://jwt.io/",
-      "category": "Application"
-    }],
-    "licence_list": ["Proprietary"],
-    "source_code_download": "https://www.rcdevs.com/fr/downloads/",
-    "source_code_profile": "",
-    "commercial_support_url": "https://www.rcdevs.com/store/",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "Oracle",
-      "logo_url": "https://www.rcdevs.com/wp-content/uploads/2019/07/oracle-small-480x298.png",
-      "country": "US",
-      "industry": "Information Technology"
-    },{
-      "title": "Orange",
-      "logo_url": "https://www.rcdevs.com/wp-content/uploads/orange.png.webp",
-      "country": "FR",
-      "industry": "Telecommunication"
-    },{
-      "title": "BNP Paribas",
-      "logo_url": "https://www.rcdevs.com/wp-content/uploads/bnp-1.png.webp",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "European Investment Bank",
-      "logo_url": "https://www.rcdevs.com/wp-content/uploads/EIB.png.webp",
-      "country": "UE",
-      "industry": "Banking and Finance"
-    },{
-      "title": "Hyundai",
-      "logo_url": "https://www.hyundai.com/eu/etc.clientlibs/hyundai-wwn3/clientlibs/main/resources/img/hyundai-logo-white.svg",
-      "country": "KR",
-      "industry": "Automotive"
-    },{
-      "title": "Vinci Construction",
-      "logo_url": "https://www.rcdevs.com/wp-content/uploads/vinci1.png.webp",
-      "country": "FR",
-      "industry": "Construction"
-    }],
-    "success_case_list": []
-  }]
+	"created": "2022-04-05",
+	"title": "RCDevs",
+	"type": "Company",
+	"logo_url": "https://www.rcdevs.com/wp-content/uploads/logo-Black-Orange-160x73.png",
+	"location": {
+		"title": "RCDevs SA",
+		"address": "1 Boulevard du Jazz",
+		"postal_code": "4370",
+		"city": "Esch-sur-Alzette",
+		"country": "LU",
+		"phone_contact": "+35226176121",
+		"mail_contact": "info@rcdevs.com",
+		"coordinate_list": [49.502436959074835, 5.944859107618239]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.rcdevs.com/",
+	"founded_year": null,
+	"kpi_list": [{
+		"year": 2019,
+		"staff": null,
+		"earnings": "",
+		"total_assets": "4 568 705 EUR",
+		"revenues": "838 814 EUR",
+		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+	}, {
+		"year": 2018,
+		"staff": null,
+		"earnings": "",
+		"total_assets": "2 741 166 EUR",
+		"revenues": "134 124 EUR",
+		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+	}, {
+		"year": 2017,
+		"staff": null,
+		"earnings": "",
+		"total_assets": "1 851 519 EUR",
+		"revenues": "378 661 EUR",
+		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+	}, {
+		"year": 2016,
+		"staff": null,
+		"earnings": "",
+		"total_assets": "1 348 799 EUR",
+		"revenues": "210 658 EUR",
+		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
+	}],
+	"solution_list": [{
+		"title": "OpenOTP Authentication Server",
+		"logo_url": "",
+		"website_url": "https://www.rcdevs.com/products/openotp/",
+		"created_year": null,
+		"description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
+		"category_list": ["Identity"],
+		"similar_solution_list": [{
+			"title": "",
+			"similiar_solution_url": "",
+			"category": ""
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [""],
+		"success_case_list": [""]
+	}, {
+		"title": "SpanKey SSH Key Server Management",
+		"logo_url": "",
+		"website_url": "https://www.rcdevs.com/products/spankey/",
+		"created_year": null,
+		"description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
+		"category_list": ["Service Lifecycle Automation"],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [""],
+		"success_case_list": [""]
+	}, {
+		"title": "WebADM Control Center",
+		"logo_url": "",
+		"website_url": "https://www.rcdevs.com/products/webadm/",
+		"created_year": null,
+		"description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
+		"category_list": ["Service Lifecycle Automation"],
+		"similar_solution_list": [{
+			"title": "Auth0",
+			"similiar_solution_url": "https://auth0.com/key",
+			"category": "Service Lifecycle Automation"
+		}, {
+			"title": "Keycloak",
+			"similiar_solution_url": "https://www.keycloak.org/",
+			"category": "Service Lifecycle Automation"
+		}, {
+			"title": "Amazon Cognito",
+			"similiar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
+			"category": "Service Lifecycle Automation"
+		}, {
+			"title": "Spring Security",
+			"similiar_solution_url": "https://spring.io/projects/spring-security",
+			"category": "Service Lifecycle Automation"
+		}, {
+			"title": "Firebase Authentication",
+			"similiar_solution_url": "https://firebase.google.com/",
+			"category": "Service Lifecycle Automation"
+		}, {
+			"title": "JSON web Token",
+			"similiar_solution_url": "https://jwt.io/",
+			"category": "Service Lifecycle Automation"
+		}],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "Oracle",
+			"logo_url": "https://www.rcdevs.com/wp-content/uploads/2019/07/oracle-small-480x298.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Orange",
+			"logo_url": "https://www.rcdevs.com/wp-content/uploads/orange.png.webp",
+			"country": "FR",
+			"industry": "Telecommunication"
+		}, {
+			"title": "BNP Paribas",
+			"logo_url": "https://www.rcdevs.com/wp-content/uploads/bnp-1.png.webp",
+			"country": "FR",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "European Investment Bank",
+			"logo_url": "https://www.rcdevs.com/wp-content/uploads/EIB.png.webp",
+			"country": "",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "Hyundai",
+			"logo_url": "https://www.hyundai.com/eu/etc.clientlibs/hyundai-wwn3/clientlibs/main/resources/img/hyundai-logo-white.svg",
+			"country": "KR",
+			"industry": "Automotive"
+		}, {
+			"title": "Vinci Construction",
+			"logo_url": "https://www.rcdevs.com/wp-content/uploads/vinci1.png.webp",
+			"country": "FR",
+			"industry": "Construction"
+		}],
+		"success_case_list": []
+	}]
 }
