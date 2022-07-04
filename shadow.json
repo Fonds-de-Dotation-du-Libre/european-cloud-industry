@@ -1,7 +1,7 @@
 {
   "created": "2022-04-06",
   "title": "Shadow",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_Shadow_Cloud_Gaming.jpg/280px-Logo_Shadow_Cloud_Gaming.jpg",
   "location": {
     "title": "Shadow",
@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": ["US"],
   "website_url": "https://shadow.tech/",
-  "founded_year": "2015",
+  "founded_year": 2015,
   "kpi_list": [],
   "solution_list": [{
     "title": "Shadow",
     "logo_url": "https://image.status.io/O5rcVj22OLaA.png",
     "website_url": "https://shadow.tech/en-gb/",
-    "created_year": "2015",
+    "created_year": 2015,
     "description": "Shadow gives you access to a full-featured high-end PC to run Windows-based applications on the devices you own.",
     "category_list": ["Desktop Virtualisation"],
     "similar_solution_list": [{
