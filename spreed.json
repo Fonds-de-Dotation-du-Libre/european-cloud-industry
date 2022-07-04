@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-28",
 	"title": "Spreed",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://www.spreed.eu/media/SpreedEU_white.png",
 	"location": {
 		"title": "Struktur AG",
@@ -15,13 +15,13 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.spreed.eu/",
-	"founded_year": "2016",
+	"founded_year": 2016,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Spreedbox",
 		"logo_url": "https://www.spreed.me/wp-content/themes/spreedme/images/logo.png",
 		"website_url": "https://www.spreed.eu/spreedbox-team-collaboration-server/",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Spreedbox is a private and secure cloud server for office collaboration, calendar management, video conferencing and document exchange without having to store data on external servers, therefore regaining control over one's data.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
