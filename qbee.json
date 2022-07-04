@@ -1,7 +1,7 @@
 {
   "created": "2022-04-06",
   "title": "qbee",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://qbee.io/assets/images/logos/qbee-logo.png",
   "location": {
     "title": "qbee AS",
@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://qbee.io/",
-  "founded_year": "2017",
+  "founded_year": 2017,
   "kpi_list": [],
   "solution_list": [{
     "title": "IoT Device Management",
     "logo_url": "https://qbee.io/wp-content/uploads/2022/02/features_icon_linux_automisation.png",
     "website_url": "https://qbee.io/iot-configuration-management/",
-    "created_year": "",
+    "created_year": null,
     "description": "IoT configuration management for Linux, with built-in automations to handle all needs (passwords, updates, NTP servers, forewall, etc.) and can be accessed through a Rest API",
     "category_list": ["IoT and Industrial"],
     "similar_solution_list": [{
@@ -50,7 +50,7 @@
       "industry": "Agriculture and Food",
       "customer": "Kilter AS",
       "country": "NO",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://qbee.io/use-case/device-management-helps-agriculture-robot-to-reduce-herbicides-by-95-2/"
     },{
       "title": "Innovative asset monitoring solution – LISI AEROSPACE",
@@ -59,7 +59,7 @@
       "industry": "Aviation and Aerospace",
       "customer": "Lisi AEROSPACE",
       "country": "GB",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://qbee.io/use-case/innovative-asset-monitoring-solution-lisi-aerospace-2/"
     }]
   }]
