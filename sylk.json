@@ -17,8 +17,8 @@
 	"website_url": "https://sylkserver.com/",
 	"founded_year": "",
 	"kpi_list": [{
-		"year": "2021",
-		"staff": "25",
+		"year": 2021,
+		"staff": 25,
 		"earnings": "",
 		"total_assets": "",
 		"revenues": "458 110 000 EUR",
@@ -28,9 +28,8 @@
 		"title": "Sylk suite",
 		"logo_url": "https://sylkserver.com/images/sylk.svg",
 		"website_url": "https://sylkserver.com/",
-		"created_year": "",
-		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
-		"Solution type": "Software",		
+		"created_year": null,
+		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",		
 		"category_list": ["Developer"],
 		"similar_solution_list": [{
 			"title": "MSRP",
