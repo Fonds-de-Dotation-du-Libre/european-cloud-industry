@@ -1,7 +1,7 @@
 {
   "created": "2022-04-05",
   "title": "RCDevs",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.rcdevs.com/wp-content/uploads/logo-Black-Orange-160x73.png",
   "location": {
     "title": "RCDevs SA",
@@ -15,31 +15,31 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.rcdevs.com/",
-  "founded_year": "",
+  "founded_year": null,
   "kpi_list": [{
-    "year": "2019",
-    "staff": "",
+    "year": 2019,
+    "staff": null,
     "earnings": "",
     "total_assets": "4 568 705 EUR",
     "revenues": "838 814 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
-    "year": "2018",
-    "staff": "",
+    "year": 2018,
+    "staff": null,
     "earnings": "",
     "total_assets": "2 741 166 EUR",
     "revenues": "134 124 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
-    "year": "2017",
-    "staff": "",
+    "year": 2017,
+    "staff": null,
     "earnings": "",
     "total_assets": "1 851 519 EUR",
     "revenues": "378 661 EUR",
     "source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
   },{
-    "year": "2016",
-    "staff": "",
+    "year": 2016,
+    "staff": null,
     "earnings": "",
     "total_assets": "1 348 799 EUR",
     "revenues": "210 658 EUR",
@@ -49,7 +49,7 @@
     "title": "OpenOTP Authentication Server",
     "logo_url": "",
     "website_url": "https://www.rcdevs.com/products/openotp/",
-    "created_year": "",
+    "created_year": null,
     "description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
     "category_list": ["Identity"],
     "similar_solution_list": [{
@@ -64,11 +64,14 @@
     "floss_software": true,
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [""],
+    "success_case_list": [""]
   },{
     "title": "SpanKey SSH Key Server Management",
     "logo_url": "",
     "website_url": "https://www.rcdevs.com/products/spankey/",
-    "created_year": "",
+    "created_year": null,
     "description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
     "category_list": ["Identity"]
     "licence_list": ["Proprietary"],
@@ -78,11 +81,14 @@
     "floss_software": true,
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [""],
+    "success_case_list": [""]
   },{
     "title": "WebADM Control Center",
     "logo_url": "",
     "website_url": "https://www.rcdevs.com/products/webadm/",
-    "created_year": "",
+    "created_year": null,
     "description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
     "category_list": ["Service Lifecycle Automation"],
     "similar_solution_list": [{
