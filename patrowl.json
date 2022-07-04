@@ -1,29 +1,28 @@
 {
   "created": "2022-03-31",
   "title": "Patrowl SAS",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://patrowl.io/wp-content/uploads/2022/01/logo.png",
   "location": {
     "title": "Patrowl SAS",
     "address": "10 rue de Penthièvre",
     "postal_code": "75008",
     "city": "Paris",
-    "country": "France",
+    "country": "FR",
     "phone_contact": "",
     "mail_contact": "getsupport@patrowl.io",
     "coordinate_list": [48.8732585256924, 2.3166082115960553]
   },
   "subsidiary_location_list": "",
   "website_url": "https://patrowl.io/",
-  "founded_year": "2020",
-  "kpi_list": "",
+  "founded_year": 2020,
+  "kpi_list": [""],
   "solution_list": [{
     "title": "Patrowl",
     "logo_url": "https://patrowl.io/wp-content/uploads/2022/01/logo.png",
     "website_url": "https://patrowl.io/patrowl/",
-    "created_year": "2020",
+    "created_year": 2020,
     "description": "Patrowl is an Offensive Security as a Service solution witch allows you to manage your External Security Posture with : Continuous (re)discovery of all your internet exposed (external facing) assets, partially with our External Attack Surface Management (EASM), Continuous identification of all your weaknesses and vulnerabilities with our Pentest as a Service (PTaaS) and our realtime cyber threat monitoring​, Easy remediation from our dashboard with prioritization and contextualization, Control of the remediation with the ability to retest​ with 1 single clic.",
-    "solution_type": "software",
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Google Cloud Security Command Center",
@@ -46,7 +45,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": "",
-    "success_case_list": ""
+    "reference_list": [""],
+    "success_case_list": [""]
   }]
 }
