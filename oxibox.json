@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-30",
 	"title": "Oxibox",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
 	"location": {
 		"title": "Oxibox - Siège Social",
@@ -15,13 +15,13 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.oxibox.com/en/",
-	"founded_year": "2014",
+	"founded_year": 2014,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Oxibox Resilient Storage",
 		"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
 		"website_url": "https://www.oxibox.com/en/solutions/resilient-storage.php",
-		"created_year": "",
+		"created_year": null,
 		"description": "Oxibox Resilient Storage plugs into your existing storage and Data Protection infrastructure to make backups immutable, protecting them from corruption by attackers. There's no need to overhaul your whole backup infrastructure: simply plug Oxibox Resilient Storage at the storage level. Your data silos are protected from malicious write operations thanks to our patented technology: historical snapshots are never write-accessible.",
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
@@ -97,7 +97,7 @@
 		"title": "Oxibox Plug-and-Protect",
 		"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
 		"website_url": "https://www.oxibox.com/en/solutions/oxibox-fireproof.php",
-		"created_year": "",
+		"created_year": null,
 		"description": "Back up all data to a certified fireproof and waterproof backup server. The Oxibox Fireproof hardware is certified to withstand temperatures up to 850°C as well as a 3-meter immersion during 48 hours in freshwater and saltwater. From 1 to 120 TB, the Oxibox hardware is designed to withstand industrial disasters. Disaster recovery time is optimised thanks to the local availability of data on this hardened server. The hardware can resist to physical damages while the embedded Oxibox software ensuires it can resist to all cyberattacks!",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
