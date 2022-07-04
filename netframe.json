@@ -28,12 +28,12 @@
 			"title": "Jamespot",
 			"similiar_solution_url": "https://www.fr.jamespot.com/",
 			"category": "Workspace"
-			}, {
+		}, {
 			"title": "Google workspace",
 			"similiar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
-    			},{
-      			"title": "Miscrosoft Teams",
+		}, {
+			"title": "Miscrosoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Workspace"
 		}],
@@ -50,17 +50,17 @@
 			"logo_url": "https://energo.green/wp-content/uploads/2021/06/energologo200px.png",
 			"country": "FR",
 			"industry": "Energy"
-			},{
+		}, {
 			"title": "Better Business Bureau",
 			"logo_url": "",
 			"country": "US",
 			"industry": "Associations and NGOs"
-			},{
+		}, {
 			"title": "Clichy-sous-Bois",
 			"logo_url": "https://www.clichy-sous-bois.fr/wp-content/uploads/2019/05/logo-header.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
-			}]
-		"success_case_list": [""]
+		}],
+		"success_case_list": []
 	}]
 }
