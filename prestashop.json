@@ -2,7 +2,7 @@
 
 	"created": "05-04-2022",
 	"title": "Prestashop",
-	"type": "Freemium",
+	"type": "company",
 	"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
 	"location": {
 		"title": "Prestashop",
@@ -16,57 +16,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.prestashop.com/en",
-	"founded_year": "2007",
-	"kpi_list": [{
-		"year": "2021",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2020",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2019",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2018",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2017",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": "2016",
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"founded_year": 2007,
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Prestashop",
 		"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop-colors.svg",
 		"website_url": "https://www.prestashop.com/en/download",
-		"created_year": "2007",
+		"created_year": 2007,
 		"description": "PrestaShop allows ambitious entrepreneurs and companies to create and develop their own ecommerce site. Our open source software unites a global community.",
-		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Ecwid",
