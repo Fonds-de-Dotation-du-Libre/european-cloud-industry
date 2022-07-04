@@ -1,7 +1,7 @@
 {
 	"created": "04-04-2022",
 	"title": "Teclib Group",
-	"type": "corporation",
+	"type": "company",
 	"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/04/logo-teclib-185x60-3.png",
 	"location": {
 		"title": "Teclib Group",
@@ -15,17 +15,17 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.teclib-edition.com/en/",
-	"founded_year": "2009",
+	"founded_year": 2009,
 	"kpi_list": [{
-		"year": "2017",
-		"staff": "49",
-		"earnings": "-2400 EUR",
+		"year": 2017,
+		"staff": 49,
+		"earnings": "-2 400 EUR",
 		"total_assets": "6 306 900 EUR",
 		"revenues": "3 791 200 EUR",
 		"source_url": "https://www.verif.com/"
 	}, {
-		"year": "2016",
-		"staff": "54",
+		"year": 2016,
+		"staff": 54,
 		"earnings": "134 600 EUR",
 		"total_assets": "5 423 400 EUR",
 		"revenues": "3 885 062 EUR",
@@ -35,9 +35,8 @@
 		"title": "GLPI Network",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
 		"website_url": "https://www.glpi-network.cloud/home.php?l=en",
-		"created_year": "2004",
+		"created_year": 2004,
 		"description": "a professional distribution based on GLPI Project and other open source technologies, such as: FusionInventory, Maria DB or Linux. It’s an open-source ITSM (IT and Asset Management System) that makes IT Administrators daily life much easier, thanks to a wide range of enhanced functions.",
-		"Solution type": "Software",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "spicework service desk",
@@ -53,7 +52,7 @@
 		"source_code_profile": "https://www.openhub.net/p/glpi-project/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
 		"floss_software": true,
-		"commercial_support_open_source_version": "",
+		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
 		"reference_list": [],
@@ -64,7 +63,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Ministry of Sciences and innovation of Spain",
 			"country": "ES",
-			"language": "EN",
+			"language": "es",
 			"success_case_url": "https://www.teclib-edition.com/en/glpi-success-case-ministry-of-science-and-innovation-of-spain/"
 		}, {
 			"title": "GLPI success case: CreditLogic",
@@ -73,16 +72,15 @@
 			"industry": "Software development",
 			"customer": "Ministry of Sciences and innovation of Spain",
 			"country": "IE",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://glpi-project.org/fr/glpi-success-case-creditlogic/"
 		}]
 	}, {
 		"title": "FLYVE MDM",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-2.png",
 		"website_url": "https://www.flyve-mdm.com/",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Flyve MDM is a mobile device management open source software (SaaS) that enables you to secure and manage all the mobile devices of your business via a unique web-based console (MDM).",
-		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Hexanode UEM",
@@ -117,9 +115,8 @@
 		"title": "Kimios DMS",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
 		"website_url": "https://www.kimios.com/",
-		"created_year": "2013",
+		"created_year": 2013,
 		"description": "Kimios DMS Network is a professional distribution based on Kimios DMS Project and other open source technologies.",
-		"Solution type": "Software",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Mayan EDMS",
@@ -157,9 +154,8 @@
 		"title": "Limpid",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/09/limpid.png",
 		"website_url": "https://www.flyve-mdm.com/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
-		"Solution type": "Software",
 		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
 			"title": "",
@@ -194,9 +190,8 @@
 		"title": "Secure Access",
 		"logo_url": "https://www.serenit.fr/wp-content/uploads/2021/12/Logo-secure-access-solution-de-teletravail.png",
 		"website_url": "https://www.serenit.fr/secure-access-solution-de-teletravail/",
-		"created_year": "",
+		"created_year": null,
 		"description": "Secure Access is SaaS for remote work, that can be used through a web browser. It can handle simultaneously several hundreds connections and works with VNC, RDP and SSH protocols. It requires no software nor plugin installation. ",
-		"Solution type": "Software",
 		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
 			"title": "",
