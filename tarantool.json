@@ -15,15 +15,14 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.tarantool.io/en/",
-	"founded_year": "2008",
+	"founded_year": 2008,
 	"kpi_list": [],
 	"solution_list": [{
 			"title": "Tarantool Community Edition",
 			"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/community/community-intro.png",
 			"website_url": "https://www.tarantool.io/en/developers/",
-			"created_year": "2010",
+			"created_year": 2010,
 			"description": "Tarantool keeps all the data in random-access memory (RAM). Solutions of this class are fast, but they often lack data persistence. Tarantool helps overcome these problems. Try Tarantool to see how fast, flexible, and scalable it is.",
-			"Solution type": "Software",	
 			"category_list": ["Storage and Database"],
 			"similar_solution_list": [{
 				"title": "",
@@ -58,9 +57,8 @@
 			"title": "Tarantool Enterprise Edition",
 			"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/logo-full.svg",
 			"website_url": "https://www.tarantool.io/en/product/enterprise/",
-			"created_year": "",
+			"created_year": null,
 			"description": "Tarantool has been helping companies all over the world build smart caches, data marts, and golden client profiles, while saving server capacity.",
-			"Solution type": "Software",
 			"category_list": ["Storage and database"],
 			"similar_solution_list": [{
 				"title": "",
@@ -88,16 +86,15 @@
 				"industry": "Telecommunication",
 				"customer": "MegaFon",
 				"country": "RU",
-				"language": "EN",
+				"language": "en",
 				"success_case_url": "https://www.tarantool.io/en/cases/megafon/"
 			}]
 		}, {
 			"title": "Catridge",
 			"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cartridge/main-img.png",
 			"website_url": "https://www.tarantool.io/en/cartridge/",
-			"created_year": "",
+			"created_year": null,
 			"description": "Cartridge is a framework for scaling Tarantool databases. With Cartridge, you can create multiple copies on different servers or split your data among several Tarantool nodes. Cartridge allows you to bring Tarantool instances together into configurable clusters.",
-			"Solution type": "Software",
 			"category_list": ["Storage and database"],
 			"similar_solution_list": [{
 				"title": "",
@@ -132,9 +129,8 @@
 			"title": "Tarantool Data Grid",
 			"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/logo-full.svg",
 			"website_url": "https://www.tarantool.io/en/datagrid/",
-			"created_year": "",
+			"created_year": null,
 			"description": "Information about customers is often stored in different systems: separate services are responsible for orders, personal data, accrued bonuses, etc. The more of these services are accumulated in a project, the more pressing the challenge of linking the data becomes. Creating links between all the systems is time-consuming, complicated, and unreliable. Tarantool Data Grid allows you to collect data from different systems and convert it to a unified format. It can also serve as a data mart, that is, pass the data directly to applications.",
-			"Solution type": "Software",
 			"category_list": ["Storage and database"],
 			"similar_solution_list": [{
 				"title": "",
@@ -162,7 +158,7 @@
 				"industry": "Finance",
 				"customer": "Alpha-Bank",
 				"country": "GR",
-				"language": "EN",
+				"language": "el",
 				"success_case_url": "https://www.tarantool.io/en/cases/alfabank/"
 			}, {
 				"title": "Opening a new sales channel and improving the existing infrastructure",
@@ -171,7 +167,7 @@
 				"industry": "Retail and Commerce",
 				"customer": "Magnit",
 				"country": "RU",
-				"language": "EN",
+				"language": "ru",
 				"success_case_url": "https://www.tarantool.io/en/cases/magnit/"
 			}, {
 				"title": "Speeding up Gazprombank’s internal systems by a factor of 50 with Tarantool",
@@ -180,7 +176,7 @@
 				"industry": "Finance",
 				"customer": "Gazprombank",
 				"country": "RU",
-				"language": "EN",
+				"language": "ru",
 				"success_case_url": "https://www.tarantool.io/en/cases/gpb/"
 			}]
 		},
@@ -188,9 +184,8 @@
 			"title": "Tarantool CDC",
 			"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cdc/intro.png",
 			"website_url": "https://www.tarantool.io/en/cdc/",
-			"created_year": "",
+			"created_year": null,
 			"description": "IT solutions based on trending international technologies are expensive in terms of licensing and data integration tools. Tarantool Change Data Capture is a replicator that pulls data from the underlying DBMS. It acts as a replication client and creates no load on the database. Tarantool CDC can help you organize a message broker pipeline, build a cache, or create data marts. With Tarantool CDC, you no longer need licenses for additional products, such as Oracle GoldenGate for Big Data. In this way, you can reduce the maintenance costs of real-time collection and processing of data stored in Oracle, PostgreSQL, MySQL, and other relational DBMSs.",
-			"Solution type": "Software",
 			"category_list": ["Storage and database"],
 			"similar_solution_list": [{
 				"title": "",
