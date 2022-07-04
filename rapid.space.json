@@ -1,7 +1,7 @@
 {
   "created": "2022-04-05",
   "title": "Rapid.Space International SASU",
-  "type": "Corporation",
+  "type": "Company",
   "logo_url": "https://www.rapid.space/rapidspace-Website.Logo?format=",
   "location": {
     "title": "Rapid.Space International SASU",
@@ -13,19 +13,19 @@
     "mail_contact": "info@rapid.space",
     "coordinate_list": [48.86564853801221, 2.3525725557764208]
   },
-  "subsidiary_location_list": "",
+  "subsidiary_location_list": [""],
   "website_url": "https://www.rapid.space/",
-  "founded_year": "2020",
-  "kpi_list": "",
+  "founded_year": 2020,
+  "kpi_list": [""],
   "solution_list": [{
     "title": "Virtual Private Server (VPS)",
     "logo_url": "https://www.rapid.space/RS2-Website.Illustration.Product.Vps?display=",
     "website_url": "https://www.rapid.space/products/vps",
-    "created_year": "",
+    "created_year": null,
     "description": "A dedicated, high performance server running a single virtual machine (VM) for a single customer.",
-    "category_list": "Compute Virtualization",
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["Compute Virtualization"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -33,7 +33,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Virtual_private_server",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "/e/ (formerly Eelo) is a free and open-source Android-based mobile operating system and associated online services. E.foundation uses Rapid.Space VPS to build system images of e.OS for all the phones they support. A single VPS can run countless Docker containers at the same time, each with a different build. The key advantages of Rapid.Space for this application are: high performance, fair price, open hardware.",
@@ -41,7 +41,7 @@
       "industry": "Information Technology",
       "customer": "e.foundation",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -50,18 +50,18 @@
       "industry": "Transportation",
       "customer": "BIP&GO",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
     "title": "Content Delivery Network (CDN)",
     "logo_url": "",
     "website_url": "https://www.rapid.space/products/cdn",
-    "created_year": "",
+    "created_year": null,
     "description": "A global HTTP2 caching proxy to accelerate your Web sites and make them available everywhere.",
-    "category_list": ["web performance optimization","cloud security"]
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["web performance optimization","cloud security"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -69,7 +69,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Content_delivery_network",
-    "reference_list": "",
+  "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "Solution provider from design to production SELTECH is an international solution provider with deep expertise in acoustics and sensors. Seltch has a chinese subsidiary and hosts their CRM application on AWS in Singapore. Rapid.Space CDN provides accelerated HTTPS access in mainland China and in the rest of the world.",
@@ -77,7 +77,7 @@
       "industry": "Household Appliances and Electrical and Electronic Goods",
       "customer": "SELTECH",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -86,18 +86,18 @@
       "industry": "Freight Transportation Arrangement",
       "customer": "BIP&GO",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
     "title": "Software Defined Network (SDN)",
     "logo_url": "",
     "website_url": "https://www.rapid.space/products/sdn",
-    "created_year": "",
+    "created_year": null,
     "description": "A latency optimised SD-WAN to interconnect edgeclouds or multiclouds without congestion.",
-    "category_list": "network management",
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["network management"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -105,7 +105,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Software-defined_networking",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "Seltech uses Rapid.Space SDN to reduce latency and congestion between Singapore and mainland China.",
@@ -113,7 +113,7 @@
       "industry": "Household Appliances and Electrical and Electronic Goods",
       "customer": "SELTECH",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
        },{
       "title": "use case",
@@ -122,7 +122,7 @@
       "industry": "Freight Transportation Arrangement",
       "customer": "BIGO&GO",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
        },{
       "title": "use case",
@@ -131,7 +131,7 @@
       "industry": "Aerospace",
       "customer": "C-Astral",
       "country": "SI",
-      "language": "SL",
+      "language": "sl",
       "success_case_url": "https://www.rapid.space/products/"
        }]
     },{
@@ -141,8 +141,8 @@
     "created_year": "",
     "description": "A plug-and-play autonomous base station for private 4G/5G edge-enabled networks.",
     "category_list": ["Networking"],
-    "similar_solution_list": "",
-    "licence_list": "",
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -150,7 +150,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "Viettel Group is a Vietnamese multinational telecommunications company headquartered in Hanoi, Vietnam. Viettel is the largest telecommunications service provider in Vietnam. It is a state-owned enterprise and operated by the Ministry of Defence. apid.Space and Viettel have agreed to deploy 4G/5G networks with Rapid.Space ORS. Rapid.Space ORS supports both public and private networks. Its vRAN technology by Amarisoft and Fully Open business model simplify customisation and technology transfer.",
@@ -158,18 +158,18 @@
       "industry": "Telecom",
       "customer": "Viettel Group",
       "country": "VN",
-      "language": "EN",
+      "language": "vi",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
     "title": "Big Data Hub (BDH)",
     "logo_url": "",
     "website_url": "https://www.rapid.space/products/bdh",
-    "created_year": "",
+    "created_year": null,
     "description": "A data hub platform for data engineering, AI and transactional applications. Rapid.Space BDH is a single platform which supports all data needs including high performance relational store, distributed object store, metadata management and recurring data processing tasks",
     "category_list": ["Big Data Hub"],
-    "similar_solution_list": "",
-    "licence_list": "",
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -177,7 +177,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "The City of Munich needs to monitor public infrastructure projects by collecting data from sensors and industrialising data science models. A custom version of Wendelin, the technology used by Rapid.Space BDH, is used by Woelfel GmbH to collect data, process it and produce reports. ",
@@ -185,18 +185,18 @@
       "industry": "Public infrastructure",
       "customer": "City of Munich",
       "country": "DE",
-      "language": "DE",
+      "language": "de",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
     "title": "Progressive Web Server (PWS)",
     "logo_url": "",
     "website_url": "https://www.rapid.space/products/pws",
-    "created_year": "",
+    "created_year": null,
     "description": "A headless web browser to run progressive web applications (PWA) on the cloud.",
-    "category_list": "web browser",
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["web browser"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -204,7 +204,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Progressive_web_application",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "Mynij is a startup company which develops a web search engine implemented as PWA. Mynij uses Rapid.Space PWS to crawl and index web sites in background with the same PWA as the one used on client browsers. The key advantages of Rapid.Space for this application are: a single code base for both client and server side, fair price and open source.",
@@ -212,18 +212,18 @@
       "industry": "IT",
       "customer": "Mynij",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
     "title": "Service Lifecycle Automation (SLA)",
     "logo_url": "",
     "website_url": "https://www.rapid.space/products/sla",
-    "created_year": "",
+    "created_year": null,
     "description": "Open source platform and IDE to create fully automated, cloud native services and applications.",
-    "category_list": "IDE",
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["IDE"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -231,7 +231,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "A custom version of Wendelin, the technology used by Rapid.Space BDH, is used by Woelfel GmbH to collect data, process it and produce reports. It is hosted on premise by Woelfel and operated automatically thanks to Rapid.Space SLA.",
@@ -239,7 +239,7 @@
       "industry": "Public infrastructures",
       "customer": "City of Munich",
       "country": "DE",
-      "language": "DE",
+      "language": "de",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -248,7 +248,7 @@
       "industry": "Software",
       "customer": "Nexedi SA",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -257,7 +257,7 @@
       "industry": "Freight Transportation Arrangement",
       "customer": "BIP&GO",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       },{
       "title": "use case",
@@ -266,18 +266,18 @@
       "industry": "Aerospace",
       "customer": "C-Astral",
       "country": "SI",
-      "language": "SL",
+      "language": "sl",
       "success_case_url": "https://www.rapid.space/products/"
       }]
     },{
     "title": "Point Of Delivery (POD)",
     "logo_url": "",
     "website_url": "https://www.rapid.space/products/pod",
-    "created_year": "",
+    "created_year": null,
     "description": "16 VPS or VPSBrute ready for deployment on premise or in a colocation data center",
-    "category_list": "servers",
-    "similar_solution_list": "",
-    "licence_list": "",
+    "category_list": ["servers"],
+    "similar_solution_list": [""],
+    "licence_list": [""],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -285,7 +285,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Point_of_delivery_(networking)#:~:text=A%20point%20of%20delivery%2C%20or,and%20manageability%20of%20data%20centers.%22",
-    "reference_list": "",
+    "reference_list": [""],
     "success_case_list": [{
       "title": "use case",
       "description": "Accton is one of the largest manufacturers of networking equipment in Europe. Accton has acquired a Rapid.Space POD to implement a hybrid cloud platform which is used for development and for commercial application, both internaly and for partners.",
@@ -293,7 +293,7 @@
       "industry": "Electronics",
       "customer": "Accton",
       "country": "TW",
-      "language": "ZH",
+      "language": "zh",
       "success_case_url": "https://www.rapid.space/products/"
     },{
       "title": "use case",
@@ -302,7 +302,7 @@
       "industry": "IT services",
       "customer": "Teralab",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
     }]
   }]
