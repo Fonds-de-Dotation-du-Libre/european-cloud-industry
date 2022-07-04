@@ -75,7 +75,7 @@
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
@@ -84,8 +84,8 @@
 			"logo_url": "",
 			"country": "",
 			"industry": ""
-		}]
-		"success_case_list": [""]
+		}],
+		"success_case_list": []
 	}, {
 		"title": "nxAccess",
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
@@ -105,12 +105,12 @@
 			"title": "OnShape",
 			"similiar_solution_url": "https://www.onshape.com/en/",
 			"category": "Application"
-		}]
+		}],
 		"licence_list": ["GPL-3.0"],
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
@@ -119,15 +119,15 @@
 			"logo_url": "",
 			"country": "",
 			"industry": ""
-		}]
-		"success_case_list": [""]
+		}],
+		"success_case_list": []
 	}, {
 		"title": "nxFeed",
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 		"website_url": "https://www.enyx.com/nxfeed/",
 		"created_year": null,
 		"description": "nxFeed is a feed handler which streamlines market data application development by processing data feeds on FPGA and making them available to applications via a simple, normalized API.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer Envrionment"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -137,7 +137,7 @@
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
@@ -146,15 +146,15 @@
 			"logo_url": "",
 			"country": "",
 			"industry": ""
-		}]
-		"success_case_list": [""]
+		}],
+		"success_case_list": []
 	}, {
 		"title": "nxFramework",
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 		"website_url": "https://www.enyx.com/nxframework/",
 		"created_year": null,
 		"description": "The Enyx Development Framework (nxFramework) is a hardware and software development environment designed to efficiently build and maintain ultra-low latency FPGA applications for the financial industry.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer Environment"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -164,7 +164,7 @@
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
@@ -173,8 +173,8 @@
 			"logo_url": "",
 			"country": "",
 			"industry": ""
-		}]
-		"success_case_list": [""]
+		}],
+		"success_case_list": []
 	}, {
 		"title": "Enyx IP Cores for FPGA developers",
 		"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
@@ -191,7 +191,7 @@
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
