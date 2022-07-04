@@ -15,13 +15,13 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.pengutronix.de/en/",
-  "founded_year": "2001",
+  "founded_year": 2001,
   "kpi_list": [],
   "solution_list": [{
     "title": "PTX Dist",
     "logo_url": "https://www.ptxdist.org/images/PTXdist_Logo_RGB.svg",
     "website_url": "https://www.ptxdist.org/index.html",
-    "created_year": "2001",
+    "created_year": 2001,
     "description": "PTXdist is a build system for firmware images. It is developed by an Open Source Community including Pengutronix since 2001. The configuration system Kconfig, known from the Linux kernel, is used to select and configure each package. The collection of recipes is based on GNU Make and Bash.",
     "category_list": ["Developer API"],
     "similar_solution_list": [{
