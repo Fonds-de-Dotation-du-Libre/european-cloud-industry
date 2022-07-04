@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-05",
 	"title": "Passbolt",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
 	"location": {
 		"title": "Passbolt SA",
@@ -15,13 +15,13 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.passbolt.com/",
-	"founded_year": "2016",
+	"founded_year": 2016,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Passbolt",
 		"logo_url": "https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
 		"website_url": "https://passbolt.com/",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Passbolt is an API-centric, privacy-focused and developer-first, free and open source password manager that allows team members to store and share credentials securely.",
 		"category_list": ["Identity"],
 		"similar_solution_list": [{
@@ -57,7 +57,7 @@
 			"industry": "Information Technology",
 			"customer": "bitExpert",
 			"country": "DE",
-			"language": "EN",
+			"language": "de",
 			"success_case_url": "https://blog.passbolt.com/passbolt-case-study-96b6d0d689c4"
 		}]
 	}]
