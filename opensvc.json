@@ -15,38 +15,38 @@
 	},
 	"subsidiary_location_list": "",
 	"website_url": "https://www.opensvc.com/",
-	"founded_year": "2009",
+	"founded_year": 2009,
 	"kpi_list": [{
-    		"year": "2020",
-    		"staff": "",
+    		"year": 2020,
+    		"staff": null,
     		"earnings": "107 286 EUR",
     		"total_assets": "1 043 246 EUR",
     		"revenues": "803 295 EUR",
     		"source_url": "https://www.verif.com/"
   		}, {
-    		"year": "2019",
-    		"staff": "",
+    		"year": 2019,
+    		"staff": null,
     		"earnings": "",
     		"total_assets": "798 979 EUR",
     		"revenues": "",
     		"source_url": "https://www.verif.com/"
   		},{
-   	 	"year": "2018",
-    		"staff": "",
+   	 	"year": 2018,
+    		"staff": null,
     		"earnings": "75 735 EUR",
     		"total_assets": "912 176 EUR",
     		"revenues": "645 229 EUR",
     		"source_url": "https://www.verif.com/"
   		},{
-    		"year": "2017",
-    		"staff": "",
+    		"year": 2017,
+    		"staff": null,
     		"earnings": "154 928 EUR",
     		"total_assets": "972 256 EUR",
     		"revenues": "768 214 EUR",
     		"source_url": "https://www.verif.com/"
   		},{
-    		"year": "2016",
-    		"staff": "",
+    		"year": 2016,
+    		"staff": null,
     		"earnings": "116 846 EUR",
     		"total_assets": "774 039 EUR",
     		"revenues": "622 888 EUR",
@@ -56,9 +56,9 @@
 		"title": "OpenSVC",
 		"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
 		"website_url": "https://www.opensvc.com/",
-		"created_year": "2019",
+		"created_year": 2019,
 		"description": "OpenSVC is a Open Source software product and the name of the commercial entity developping and supporting it.",
-		"category_list": "Application",
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "rudder",
 			"similiar_solution_url":"https://www.rudder.io/",
@@ -68,7 +68,7 @@
       			"similiar_solution_url":"https://www.zevenet.com/about-us/",
 			"category": "Application"
 		}],
-		"licence_list": "GNU General Public License v2",
+		"licence_list": ["GNU General Public License v2"],
 		"source_code_download": "https://github.com/opensvc/docs.opensvc.com.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -117,6 +117,6 @@
 			"country": "FR",
 			"industry": "Media & entertainment",
 			}]
-		"success_case_list": ""
+		"success_case_list": [""]
   }]
 }
