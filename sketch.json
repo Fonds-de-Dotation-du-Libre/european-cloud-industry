@@ -3,7 +3,7 @@
 	"title": "Sketch",
 	"subsidiary_country_list": [],
 	"website_url": "https://www.sketch.com/",
-	"type": "Corporation",
+	"type": "Company",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png",
 	"headquarter_country": "NL",
 	"location": {
@@ -22,9 +22,9 @@
 		"title": "Sketch",
 		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png",
 		"website_url": "https://www.sketch.com/",
-		"created_year": "2010",
+		"created_year": 2010,
 		"description": "A vector graphic editor operating on MacOS to design UIs and UXs in a collaborative way.",
-		"category_list": "Application",
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Figma",
 			"similar_solution_url": "https://www.figma.com/",
@@ -58,7 +58,7 @@
 			"industry": "Media and Entertainment",
 			"customer": "Yannick Lung",
 			"country": "DE",
-			"language": "EN",
+			"language": "de",
 			"success_case_url": "https://www.sketch.com/blog/2021/09/30/how-yannick-lung-uses-sketch-for-his-intricate-icon-designs/"
 		}, {
 			"title": "I, Robot: How Mark Jardine of Tapbots designs award-winning apps with Sketch",
@@ -67,7 +67,7 @@
 			"industry": "Information Technology",
 			"customer": "Tapbots",
 			"country": "US",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.sketch.com/blog/2021/04/06/how-mark-jardine-of-tapbots-designs-award-winning-apps-with-sketch/"
 		}, {
 			"title": "Keeping it real: How Nikola Lazarevic creates photorealistic objects in Sketch",
@@ -75,8 +75,8 @@
 			"image_url": "",
 			"industry": ["Information Technology", "Media and Entertainment"],
 			"customer": "Simplicity LLC",
-			"country": "RS",
-			"language": "EN",
+			"country": "CS",
+			"language": "sr",
 			"success_case_url": "https://www.sketch.com/blog/2020/12/21/keeping-it-real-nikola-lazarevic-on-photorealistic-design-in-sketch/"
 		}]
 	}]
