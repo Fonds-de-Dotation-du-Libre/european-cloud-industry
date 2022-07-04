@@ -1,7 +1,7 @@
 {
   "created": "07-04-2022",
   "title": "SSAB",
-  "type": "corporation",
+  "type": "company",
   "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
   "location": {
     "title": "SSAB AB",
@@ -17,36 +17,36 @@
   "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
   "founded_year": 1978,
   "kpi_list": [{
-    "year": "2020",
-    "staff": "13974",
+    "year": 2020,
+    "staff": 13974,
     "earnings": "6 658 600 934 SEK",
     "total_assets": "9 021 810 652 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   }, {
-    "year": "2019",
-    "staff": "14514",
+    "year": 2019,
+    "staff": 14514,
     "earnings": "7 791 865 654 SEK",
     "total_assets": "9 575 061 113 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
-    "year": "2018",
-    "staff": "15223",
+    "year": 2018,
+    "staff": 15223,
     "earnings": "7 634 646 659 SEK",
     "total_assets": "9 420 421 671 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
-    "year": "2017",
-    "staff": "14925",
+    "year": 2017,
+    "staff": 14925,
     "earnings": "6 729 788 465 SEK",
     "total_assets": "8 910 017 896 SEK",
     "revenues": "",
     "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
   },{
-    "year": "2016",
-    "staff": "14980",
+    "year": 2016,
+    "staff": 14980,
     "earnings": "5 639 212 084 SEK",
     "total_assets": "9 262 668 791 SEK",
     "revenues": "",
@@ -56,9 +56,8 @@
     "title": "ProviewR",
     "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
     "website_url": "http://www.proview.se/v3/index.php/about-proview-leftmenu-27",
-    "created_year": "",
+    "created_year": null,
     "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
-    "Solution type": "Software",    
     "category_list": ["Operation Management"],
     "similar_solution_list": [{
       "title": "",
