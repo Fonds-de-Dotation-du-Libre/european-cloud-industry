@@ -23,23 +23,23 @@
     "website_url": "https://www.misp-project.org/",
     "created_year": 2011,
     "description": " MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis.",
-    "category_list": ["Cybersecurity"],
+    "category_list": ["Cybersecurity", "Storage and Database"],
     "similar_solution_list": [{
       "title": "HELK",
       "similiar_solution_url": "https://thehelk.com/intro.html",
-      "category": "Application"
+      "category": "Storage and Database"
     },{
       "title": "sqhunter",
       "similiar_solution_url": "https://github.com/0x4D31/sqhunter.git",
-      "category": "Application"
+      "category": "Cybersecurity"
     }],
     "licence_list": ["AGPL v3.0"],
     "source_code_download": "https://github.com/CIRCL/misp-darwin.git",
     "source_code_profile": "https://www.openhub.net/p/MISPProject/analyses/latest/languages_summary",
     "commercial_support_url": "",
     "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malware_Information_Sharing_Platform",
     "reference_list": [],
     "success_case_list": []
