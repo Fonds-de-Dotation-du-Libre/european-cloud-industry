@@ -45,7 +45,7 @@
 		"source_code_download": "https://github.com/open-io",
 		"source_code_profile": "https://www.openio.io/",
 		"commercial_support_url": "",
-		"floss_software": true,
+		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
