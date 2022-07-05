@@ -112,8 +112,11 @@
 			    "type": "string"
 			},
 			"created_year": {
-			    "type": "string"
-			},
+        "anyOf": [
+          {"type": "integer"},
+          {"type": "string"}
+        ]
+      },
 			"description": {
 			    "type": "string"
 			},
