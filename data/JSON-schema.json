@@ -63,7 +63,7 @@
 		"type": "string"
 	    },
             "founded_year": {
-		"type": "string"
+		"type": "integer"
 	    },
             "kpi_list": {
                 "type": "array",
@@ -71,10 +71,10 @@
                     "type": "object",
                     "properties": {
                         "year": {
-			    "type": "string"
+			    "type": "integer"
 			},
                         "staff": {
-			    "type": "string"
+			    "type": "number"
 			},
                         "earnings": {
                             "type": "string",
