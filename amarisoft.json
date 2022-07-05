@@ -116,7 +116,7 @@
       			"industry": "Information Technology",
       			"customer": "Altair",
       			"country": "US",
-      			"language": "en",
+      			"language": "EN",
       			"success_case_url": "https://www.amarisoft.com/about-us/customers/"
 			}]
 		},{
@@ -225,9 +225,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Small_cell",
 		"reference_list": [],
 		"success_case_list": []
@@ -277,9 +277,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Routeur_4G/LTE",
 		"reference_list": [],
 		"success_case_list": []   
@@ -299,9 +299,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Private_network#:~:text=In%20Internet%20networking%2C%20a%20private,define%20private%20IP%20address%20ranges.",
 		"reference_list": [],
 		"success_case_list": [] 
@@ -329,9 +329,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
 		"reference_list": [],
 		"success_case_list": []
@@ -355,9 +355,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Radio_access_network",
 		"reference_list": [],
 		"success_case_list": []
@@ -373,9 +373,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "AW2S",
@@ -420,7 +420,7 @@
       			"industry": "design and engineering",
       			"customer": "AW2S",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "FR",
       			"success_case_url": "https://www.amarisoft.com/about-us/customers/"
     }]
   }]
