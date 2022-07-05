@@ -77,7 +77,7 @@
     "website_url": "https://abilian.com/fr/solutions/labandco/",
     "created_year": 2014,
     "description": "A software package enabling research or teaching and research institutions to streamline relations between researchers and the administration",
-    "category_list": "Operation Management",
+    "category_list": ["Operation Management"],
     "similar_solution_list": [{
       "title": "Odoo",
       "category": "software",
@@ -160,8 +160,8 @@
     "created_year": 2018,
     "description": "JNOV is a digital platform accessible via the Internet dedicated to managing interactions with companies or consortia proposing innovative solutions in the context of calls for expressions of interest, calls for projects or cascade funding programs , and to the evaluation of applications submitted by experts",
     "category_list": "Operation Management",
-    "similar_solution_list": [""],
-    "licence_list": [""],
+    "similar_solution_list": [],
+    "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -169,8 +169,8 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Abilian Joinux",
     "logo_url": "",
@@ -178,8 +178,8 @@
     "created_year": 2016,
     "description": "joinux is an admission and selection process management software, particularly adapted to the processes of application and selection of proposals during a conference call and application and selection of candidates for a university training (master, doctorate...) or not, for a competition, etc.",
     "category_list": ["Operation Management"],
-    "similar_solution_list": [""],
-    "licence_list": [""],
+    "similar_solution_list": [],
+    "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -213,7 +213,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
    }]
 }
