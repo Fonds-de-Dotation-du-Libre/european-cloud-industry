@@ -152,7 +152,7 @@
       "commercial_support_url": "",
       "floss_software": true,
       "commercial_support_open_source_version": true,
-      "commercial_support_available": null,
+      "commercial_support_available": false,
       "wikipedia_url": "",
       "reference_list": [
         {
@@ -194,7 +194,7 @@
       "commercial_support_url": "",
       "floss_software": true,
       "commercial_support_open_source_version": true,
-      "commercial_support_available": null,
+      "commercial_support_available": false,
       "wikipedia_url": "",
       "reference_list": [
         {
@@ -252,7 +252,7 @@
       "commercial_support_url": "",
       "floss_software": true,
       "commercial_support_open_source_version": true,
-      "commercial_support_available": null,
+      "commercial_support_available": false,
       "wikipedia_url": "",
       "reference_list": [
         {
