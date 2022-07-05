@@ -94,7 +94,7 @@
 				"title": "Gobierno del Estado de Tamaulipas",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
 				"country": "MX",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			},{
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
@@ -241,7 +241,7 @@
 				"title": "Metropolis and City of Perpignan",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
 				"country": "FR",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -459,7 +459,7 @@
 			"website_url": "https://www.al-enterprise.com/en/products/applications/soft-panel-manager",
 			"created_year": null,
 			"description": "Collect, combine and display business data or contact center statistics in real-time for operational monitoring.",		
-			"category_list": ["Storage and database"],
+			"category_list": ["Storage and Database"],
 			"similar_solution_list": [{
 				"title": "",
 				"similiar_solution_url": "",
@@ -567,7 +567,7 @@
 			"website_url": "https://www.al-enterprise.com/en/services/customization-services/iot-hub",
 			"created_year": null,
 			"description": "The IoT Hub is a secure, resilient and open platform, ready to host new types of IoT protocols. It can build notification-based scenarios and connect to 3rd party applications such as the Rainbow CPaaS Platform, to initiate this new type of conversation.",			
-			"category_list": ["IOT and industrial"],
+			"category_list": ["IOT and Industrial"],
 			"similar_software_list": [{
 				"title": "",
 				"similiar_solution_url": "",
@@ -603,7 +603,7 @@
 			"website_url": "https://www.al-enterprise.com/en/products/devices/wireless-intercom",
 			"created_year": null,
 			"description": "The Alcatel-Lucent DECT Intercom wireless indoor call box provides exceptional service to customers when they visit your offices, shops, and warehouses, with instant customer service.",			
-			"category_list": ["Radio base station"],
+			"category_list": ["Radio Base Station"],
 			"similar_solution_list": [{
 				"title": "",
 				"similiar_solution_url": "",
@@ -675,7 +675,7 @@
 			"website_url": "https://www.al-enterprise.com/en/products/devices/cloud-edition-deskphones",
 			"created_year": null,
 			"description": "SIP deskphones that provide an enterprise grade communication experience using your favorite cloud communication service.",			
-			"category_list": ["Radio base station"],
+			"category_list": ["Radio Base Station"],
 			"similar_solution_list": [{
 				"title": "",
 				"similiar_solution_url": "",
@@ -693,7 +693,7 @@
 				"title": "Medcare",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
 				"country": "AE",
-				"industry": "Healthcare"
+				"industry": "Health and Life Sciences"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -885,7 +885,7 @@
 				"title": "Metropolis and City of Perpignan",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
 				"country": "FR",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			}, {
 				"title": "SIG Combibloc Obeikan",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sig-combibloc-obeikan-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=11A801A3EC37B66FF3C9320D273791B2",
@@ -905,7 +905,7 @@
 				"title": "Medcare",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
 				"country": "AE",
-				"industry": "Healthcare"
+				"industry": "Health and Life Sciences"
 			}, {
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
@@ -920,7 +920,7 @@
 				"title": "Gobierno del Estado de Tamaulipas",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
 				"country": "MX",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -938,7 +938,7 @@
 			"website_url": "https://www.al-enterprise.com/en/products/wlan/omniaccess-stellar-access-point-1101",
 			"created_year": null,
 			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",			
-			"category_list": ["Radio base station"],
+			"category_list": ["Radio Base Station"],
 			"similar_solution_list": [{
 				"title": "Cisco Meraki Cloud-Managed Indoor Access Points",
 				"similiar_solution_url": "https://meraki.cisco.com/products/wi-fi/",
@@ -1092,12 +1092,12 @@
 				"title": "Azienda Ospedaliera della provincia di Lodi",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/azienda-ospedaliera-della-provincia-di-lodi-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20220406T150531Z&hash=41A7199965560C3B6FCCE72797BB4349",
 				"country": "IT",
-				"industry": "Healthcare"
+				"industry": "Health and Life Sciences"
 			},{
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -1133,7 +1133,7 @@
 				"title": "Hotel Palladia",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/image-palladia-logo-successstory-276x188.png?h=141&mh=200&mw=200&w=200&v=1&d=20200821T123047Z&hash=345F0B5CE5F951D4838B18FB323DB8EC",
 				"country": "FR",
-				"industry": "Hospitality"
+				"industry": "Housing and Real Estate"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -1169,7 +1169,7 @@
 				"title": "Fukuoka City",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/fukuoka-city-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T150737Z&hash=1B151467BCFE6F00EDC166466BB5778F",
 				"country": "JP",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			}, {
 				"title": "UIN Antasari Banjarmasin University",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
@@ -1179,7 +1179,7 @@
 				"title": "Azienda Ospedaliera della provincia di Lodi",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/azienda-ospedaliera-della-provincia-di-lodi-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20220406T150531Z&hash=41A7199965560C3B6FCCE72797BB4349",
 				"country": "IT",
-				"industry": "Healthcare"
+				"industry": "Health and Life Sciences"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -1267,7 +1267,7 @@
 				"title": "Fukuoka City",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/fukuoka-city-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T150737Z&hash=1B151467BCFE6F00EDC166466BB5778F",
 				"country": "JP",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			}],
 			"success_case_list": [{
 				"title": "",
@@ -1305,12 +1305,12 @@
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}, {
 				"title": "Medcare",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
 				"country": "AE",
-				"industry": "Healthcare"
+				"industry": "Health and Life Sciences"
 			}, {
 				"title": "SMC Electric Supply",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
@@ -1330,17 +1330,17 @@
 				"title": "Azienda Ospedaliera della provincia di Lodi",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/azienda-ospedaliera-della-provincia-di-lodi-logo-appli.jpg?h=61&mh=200&mw=200&w=200&v=1&d=20220406T150531Z&hash=41A7199965560C3B6FCCE72797BB4349",
 				"country": "IT",
-				"industry": "Healthcare"
+				"industry": "Health and Life Sciences"
 			}, {
 				"title": "Jumbo Electronics",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}, {
 				"title": "Gobierno del Estado de Tamaulipas",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
 				"country": "MX",
-				"industry": "Government"
+				"industry": "Government and Public Administration"
 			}],
 			"success_case_list": [{
 				"title": "",
