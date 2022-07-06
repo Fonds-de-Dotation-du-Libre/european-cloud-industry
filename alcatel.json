@@ -56,11 +56,11 @@
 			"title": "OmniPCX Enterprise Communication Server",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/platforms/omnipcx-enterprise-communication-server",
-			"created_year": null,
+			"created_year": "",
 			"description": "A flexible enterprise phone platform that delivers reliable, high quality digital age communications to grow your business.",				
 			"category_list": ["Communication"],
 			"similar_solution_list": [{
-				"title": "Skype for Busines",
+				"title": "Skype for Business",
 				"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
 				"category": "Communication"
 			}, {
@@ -101,21 +101,12 @@
 				"country": "AE",
 				"industry": "Retail"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "OpenTouch Enterprise Cloud",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/opentouch-enterprise-cloud-product-image-480x480.png?h=480&w=480&v=1&d=20220327T130135Z&hash=C8E29CDC64F2809D2709D35E86A9EB17",
 			"website_url": "https://www.al-enterprise.com/en/products/platforms/opentouch-enterprise-cloud",
-			"created_year": null,
+			"created_year": "",
 			"description": "a powerful suite of communication and collaboration services for small- and mid- to large-sized.",			
 			"category_list": ["Communication"],
 			"similar_solution_list": [{
@@ -146,28 +137,15 @@
 				"country": "US",
 				"industry": "Energy & Utilities"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "Oxo Connect",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/platforms/oxo-connect",
-			"created_year": null,
+			"created_year": "",
 			"description": "OXO Connect is a new generation of robust, connected and converged communication platforms, entirely dedicated to small and medium businesses.",			
 			"category_list": ["Switch"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -176,27 +154,13 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "Rainbow",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/rainbow",
-			"created_year": null,
+			"created_year": "",
 			"description": "Rainbow business communication solutions offer user friendly collaboration tools from voice to video, that connect people, machines, and processes.",			
 			"category_list": ["Communication"],
 			"similar_solution_list": [{
@@ -243,35 +207,26 @@
 				"country": "FR",
 				"industry": "Government and Public Administration"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "Rainbow Office",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/rainbow-office",
-			"created_year": null,
+			"created_year": "",
 			"description": "Rainbow Office offers secure modern communications on any device. You can collaborate from anywhere – by message, video and phone. Backed by comprehensive services, Rainbow Office is complemented with market leading telephony and networking products from ALE’s portfolio for a complete digital transformation.",			
-			"category_list": ["Workplace"],
+			"category_list": ["Workspace"],
 			"similar_solution_list": [{
 				"title": "Reachify",
 				"similiar_solution_url": "https://reachify.io/",
-				"category": "Workplace"
+				"category": "Workspace"
 			}, {
 				"title": "UC Performance Management",
 				"similiar_solution_url": "https://www.netscout.com/solutions/unified-communications-collaboration",
-				"category": "Workplace"
+				"category": "Workspace"
 			}, {
 				"title": "Collaborate Cloud",
 				"similiar_solution_url": "http://www.collaboratecloud.com/",
-				"category": "Workplace"
+				"category": "Workspace"
 			}],
 			"licence_list": ["Proprietary"],
 			"source_code_download": "",
@@ -281,70 +236,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "DECT Infrastructure",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/platforms/dect-infrastructure",
-			"created_year": null,
+			"created_year": "",
 			"description": "These integrated and external antennas form a robust infrastructure for DECT in buildings and outdoors, so your mobile workers are connected everywhere.",			
-			"category_list": ["Radio base station"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
-			"licence_list": [],
-			"source_code_download": "",
-			"source_code_profile": "",
-			"commercial_support_url": "https://www.al-enterprise.com/en/support",
-			"floss_software": "",
-			"commercial_support_open_source_version": true,
-			"commercial_support_available": true,
-			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
-		},{
-			"title": "Remote Visual Assistance",
-			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
-			"website_url": "https://www.al-enterprise.com/en/rainbow/remote-visual-assistance",
-			"created_year": null,
-			"description": "Remote Visual Assistance by Alcatel-Lucent Enterprise empowers field service employees to deliver operational excellence and improve customer satisfaction.",		
-			"category_list": ["Operation management"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Radio"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -353,27 +254,31 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
+		},{
+			"title": "Remote Visual Assistance",
+			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
+			"website_url": "https://www.al-enterprise.com/en/rainbow/remote-visual-assistance",
+			"created_year": "",
+			"description": "Remote Visual Assistance by Alcatel-Lucent Enterprise empowers field service employees to deliver operational excellence and improve customer satisfaction.",		
+			"category_list": ["Operation management"],
+			"similar_solution_list": [],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.al-enterprise.com/en/support",
+			"floss_software": false,
+			"commercial_support_open_source_version": true,
+			"commercial_support_available": true,
+			"wikipedia_url": "",
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "OmniPCX RECORD Suite",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/applications/omnipcx-record-suite",
-			"created_year": null,
+			"created_year": "",
 			"description": "Monitor, record and evaluate all employee-customer interactions with call recording, screen capture and real-time listening tools.",		
 			"category_list": ["Operation management"],
 			"similar_solution_list": [{
@@ -407,28 +312,15 @@
 				"country": "AE",
 				"industry": "Retail"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "OpenTouch Message Center",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/applications/opentouch-message-center",
-			"created_year": null,
+			"created_year": "",
 			"description": "Streamline operations and delight your customers with a complete omnichannel contact center solution that offers email, live chat, social media, phone calls and simplified management.",
 			"category_list": ["Communication"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -443,28 +335,15 @@
 				"country": "AE",
 				"industry": "Manufacturing"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "Soft Panel Manager",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/applications/soft-panel-manager",
-			"created_year": null,
+			"created_year": "",
 			"description": "Collect, combine and display business data or contact center statistics in real-time for operational monitoring.",		
-			"category_list": ["Storage and Database"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Storage and database"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -473,34 +352,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "Visual Automated Attendant",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/applications/visual-automated-attendant",
-			"created_year": null,
+			"created_year": "",
 			"description": "In business, a telephone call is often the first point of contact. Visual Automated Attendant provides a professional image with a virtual receptionist available 24/7, delivering a quality response to your customers.",			
 			"category_list": ["Communication"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -509,34 +370,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "ALE Connect",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/applications/ale-connect",
-			"created_year": null,
+			"created_year": "",
 			"description": "Streamline operations and delight your customers with a complete omnichannel contact center solution that offers email, live chat, social media, phone calls and simplified management.",			
 			"category_list": ["Communication"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -545,34 +388,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "IOT hub",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/services/customization-services/iot-hub",
-			"created_year": null,
+			"created_year": "",
 			"description": "The IoT Hub is a secure, resilient and open platform, ready to host new types of IoT protocols. It can build notification-based scenarios and connect to 3rd party applications such as the Rainbow CPaaS Platform, to initiate this new type of conversation.",			
-			"category_list": ["IOT and Industrial"],
-			"similar_software_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["IoT and industrial"],
+			"similar_software_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -581,34 +406,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "Wireless Intercom",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/devices/wireless-intercom",
-			"created_year": null,
+			"created_year": "",
 			"description": "The Alcatel-Lucent DECT Intercom wireless indoor call box provides exceptional service to customers when they visit your offices, shops, and warehouses, with instant customer service.",			
-			"category_list": ["Radio Base Station"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Radio"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -617,34 +424,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "Business Phones",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/devices/business-phones",
-			"created_year": null,
+			"created_year": "",
 			"description": "Business phones designed for the digital age; connect to the cloud with advanced AI capabilities and make every call memorable.",			
-			"category_list": ["Radio Base Station"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Radio"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -653,34 +442,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "https://www.al-enterprise.com/en/products/devices/business-phones",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "Cloud Edition DeskPhones",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/devices/cloud-edition-deskphones",
-			"created_year": null,
+			"created_year": "",
 			"description": "SIP deskphones that provide an enterprise grade communication experience using your favorite cloud communication service.",			
-			"category_list": ["Radio Base Station"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Radio"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -695,28 +466,15 @@
 				"country": "AE",
 				"industry": "Health and Life Sciences"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "Conferencing",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/devices/conferencing",
-			"created_year": null,
+			"created_year": "",
 			"description": "Enjoy better-quality conference calls on this dedicated IP conference phone, or use your own deskphone, PC or smartphone with our conferencing modules.",			
-			"category_list": ["Commmunication"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Communication"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -725,28 +483,14 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 
 		}, {
 			"title": "OmniVista 8770 Network Management System",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/communications-management-security/omnivista-8770-network-management-system",
-			"created_year": null,
+			"created_year": "",
 			"description": "A single management interface providing a unified view of OpenTouch and OmniPCX communication networks, including next-generation devices and applications.",		
 			"category_list": ["Networking"],
 			"similar_solution_list": [{
@@ -774,34 +518,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "OpenTouch Session Border Controller",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/communications-management-security/opentouch-session-border-controller",
-			"created_year": null,
+			"created_year": "",
 			"description": "Protecting your organization from malicious VoIP attacks, SIP denial of service, fraud and eavesdropping, the Alcatel-Lucent OpenTouch Session Border Controller (OpenTouch SBC) addresses the communication security needs of mid-sized and large organizations.",			
 			"category_list": ["Networking"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -810,28 +536,14 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 
 		}, {
 			"title": "OmniSwitch",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/switches",
-			"created_year": null,
+			"created_year": "",
 			"description": "Now there's even more ways to keep your office, campus and data center networks connected. Faster speeds. PoE. So dive in and discover the right switch for your business.",			
 			"category_list": ["Switch"],
 			"similar_solution_list": [{
@@ -922,55 +634,46 @@
 				"country": "MX",
 				"industry": "Government and Public Administration"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "OmniAcess Stellar Access Points",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/wlan/omniaccess-stellar-access-point-1101",
-			"created_year": null,
+			"created_year": "",
 			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",			
-			"category_list": ["Radio Base Station"],
+			"category_list": ["Radio"],
 			"similar_solution_list": [{
 				"title": "Cisco Meraki Cloud-Managed Indoor Access Points",
 				"similiar_solution_url": "https://meraki.cisco.com/products/wi-fi/",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "EX Switches",
 				"similiar_solution_url": "https://www.juniper.net/us/en/products/switches/ex-series.html",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "Aruba Gateways and Controllers HPE (Aruba)",
 				"similiar_solution_url": "https://www.arubanetworks.com/products/wireless/gateways-and-controllers/",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "Unifi Enterprise AP",
 				"similiar_solution_url": "https://unifi-mesh.ui.com/",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "Huawei Campus Switches",
 				"similiar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches/campus-switches",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "FortiGate",
 				"similiar_solution_url": "https://www.fortinet.com/products/next-generation-firewall",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "RUCKUS Wireless Access Points",
 				"similiar_solution_url": "https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}, {
 				"title": "TP-Link Wireless Access Points (Legacy)",
 				"similiar_solution_url": "https://www.tp-link.com/fr/press/news/15685/",
-				"category": "Radio Base Station"
+				"category": "Radio"
 			}],
 			"licence_list": [],
 			"source_code_download": "",
@@ -980,34 +683,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "OmniAccess Stellar Asset Tracking",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/asset-tracking",
-			"created_year": null,
+			"created_year": "",
 			"description": "Asset tracking provides smart connection to assets, so you can locate equipment and people in real-time, optimizing operations and reducing costs.",			
 			"category_list": ["Application"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1022,28 +707,15 @@
 				"country": "BR",
 				"industry": "Transportation"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "BLE Beacon",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/location-based-services/ble-beacons",
-			"created_year": null,
+			"created_year": "",
 			"description": "Easy-to-manage battery-powered Bluetooth beacons with iBeacon technology provide a personal, location-based experience for users.",			
-			"category_list": ["Radio Base Station"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"category_list": ["Radio"],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1052,34 +724,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "OmniAccess Stellar Location-Based Services (LBS)",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/location-based-services",
-			"created_year": null,
+			"created_year": "",
 			"description": "The OmniAccess Stellar LBS suite offers three game-changing location features to empower your company, broaden your services, gain insightful analytics and help you make better decisions.",			
 			"category_list": ["Networking"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1099,28 +753,15 @@
 				"country": "AE",
 				"industry": "Commerce and Retail"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "OmniAccess Stellar LBS Management Tools",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/location-based-services/management-tools",
-			"created_year": null,
+			"created_year": "",
 			"description": "Two powerful management tools to make the implementation, operation and maintenance of indoor location services easy.",			
 			"category_list": ["Operation management"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1135,28 +776,15 @@
 				"country": "FR",
 				"industry": "Housing and Real Estate"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "OmniVista",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/network-management-security/omnivista-2500-network-management-system",
-			"created_year": null,
+			"created_year": "",
 			"description": "The Alcatel-Lucent OmniVista® 2500 Network Management System (NMS) provides cohesive management and network-wide visibility, increasing IT efficiency and business agility. It provides a full set of management tools for converged mobile campus. This single platform enables operators to easily provision, manage and maintain a unified Campus Mobile infrastructure with its network elements, alarms, unified access security policies, and virtualization.",			
 			"category_list": ["Networking"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1181,21 +809,12 @@
 				"country": "IT",
 				"industry": "Health and Life Sciences"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}, {
 			"title": "Ucopia",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/network-management-security/ucopia",
-			"created_year": null,
+			"created_year": "",
 			"description": "Ucopia, a European leader in Wi-Fi guest access and Wi-Fi marketing management, helps enterprises unlock the potential of their Wi-Fi network.  Ucopia is fully compatible with all OmniAccess Stellar access points.",			
 			"category_list": ["Networking"],
 			"similar_solution_list": [{
@@ -1227,34 +846,16 @@
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
 			"wikipedia_url": "",
-			"reference_list": [{
-				"title": "",
-				"logo_url": "",
-				"country": "",
-				"industry": ""
-			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"reference_list": [],
+			"success_case_list": []
 		}, {
 			"title": "Clearpass Policy Management System",
 			"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 			"website_url": "https://www.al-enterprise.com/en/products/network-management-security/clearpass-policy-management-system",
-			"created_year": null,
+			"created_year": "",
 			"description": "Easily roll out BYOD services and control devices on your enterprise network with powerful network policy management",			
 			"category_list": ["Networking"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1269,16 +870,7 @@
 				"country": "JP",
 				"industry": "Government and Public Administration"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		},
 		{
 			"title": "OmniAcess Wireless Access Points",
@@ -1288,11 +880,7 @@
 			"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",
 			"Solution type": "Software",			
 			"category_list": ["Networking"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -1342,16 +930,7 @@
 				"country": "MX",
 				"industry": "Government and Public Administration"
 			}],
-			"success_case_list": [{
-				"title": "",
-				"description": "",
-				"image_url": "",
-				"industry": "",
-				"customer": "",
-				"country": "",
-				"language": "",
-				"success_case_url": ""
-			}]
+			"success_case_list": []
 		}
 	]
 }
