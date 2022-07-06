@@ -63,16 +63,16 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Ministry of Sciences and innovation of Spain",
 			"country": "ES",
-			"language": "es",
+			"language": "ES",
 			"success_case_url": "https://www.teclib-edition.com/en/glpi-success-case-ministry-of-science-and-innovation-of-spain/"
 		}, {
 			"title": "GLPI success case: CreditLogic",
 			"description": "We needed a simple and intuitive service portal for our clients that was capable of managing multiple clients, SSO and full separation of data, but with excellent features and extensibility.",
 			"image_url": "",
-			"industry": "Software development",
+			"industry": "Information Technology",
 			"customer": "Ministry of Sciences and innovation of Spain",
 			"country": "IE",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://glpi-project.org/fr/glpi-success-case-creditlogic/"
 		}]
 	}, {
@@ -95,22 +95,8 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Kimios DMS",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
@@ -140,21 +126,12 @@
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
 		"reference_list": [],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}, {
 		"title": "Limpid",
 		"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2015/09/limpid.png",
 		"website_url": "https://www.flyve-mdm.com/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
 		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
@@ -170,27 +147,13 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Secure Access",
 		"logo_url": "https://www.serenit.fr/wp-content/uploads/2021/12/Logo-secure-access-solution-de-teletravail.png",
 		"website_url": "https://www.serenit.fr/secure-access-solution-de-teletravail/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Secure Access is SaaS for remote work, that can be used through a web browser. It can handle simultaneously several hundreds connections and works with VNC, RDP and SSH protocols. It requires no software nor plugin installation. ",
 		"category_list": ["Desktop virtualisation"],
 		"similar_solution_list": [{
@@ -206,21 +169,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
