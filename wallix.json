@@ -56,7 +56,7 @@
 		"title": "WALLIX Authenticator",
 		"logo_url": "https://www.wallix.com/wp-content/uploads/2022/02/PFA_150.png",
 		"website_url": "https://www.wallix.com/fr/multi-factor-authentication",
-		"created_year": null,
+		"created_year": "",
 		"description": "WALLIX Authenticator offers strong, multi-factor authentication to protect access to IT assets, applications and data, with a high security connection wherever you are.",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [],
@@ -74,7 +74,7 @@
 		"title": "WALLIX Bastion Session Manager",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/privileged-access-management/session-manager/",
-		"created_year": null,
+		"created_year": "",
 		"description": "With the WALLIX Bastion Session Manager, gain a real-time view of privileged user activity to monitor actions, record user sessions, and automatically terminate suspicious activity for enhanced threat detection and response",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [],
@@ -92,7 +92,7 @@
 		"title": "Wallix Bation Password Manager",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/privileged-access-management/password-manager/",
-		"created_year": null,
+		"created_year": "",
 		"description": "With the WALLIX Bastion Password Manager, manage system passwords in a consolidated vault to simplify IT super administrators’ access and control over credentials.",
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [{
@@ -152,7 +152,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "NHS",
 			"country": "GB",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-stories/nhs-birmingham"
 		}, {
 			"title": "POST Luxembourg chose WALLIX Bastion to strengthen its internal infrastructure and customer security",
@@ -161,7 +161,7 @@
 			"industry": "Transport",
 			"customer": "Post Luxembourg",
 			"country": "LU",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://www.wallix.com/success-stories/post-luxembourg"
 		}, {
 			"title": "European Spallation Source (ESS) chose WALLIX Bastion to secure remote access to sensitive international research equipment",
@@ -170,7 +170,7 @@
 			"industry": "Academia and Research",
 			"customer": "European Spallation Source (ESS)",
 			"country": "SE",
-			"language": "sv",
+			"language": "SV",
 			"success_case_url": "https://www.wallix.com/success-stories/ess"
 		}, {
 			"title": "Bank of Africa chooses WALLIX Bastion to secure access to its IT systems",
@@ -179,14 +179,14 @@
 			"industry": "Banking and Finance",
 			"customer": "Bank of Africa",
 			"country": "FR",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://www.wallix.com/success-story/bank-of-africa"
 		}]
 	}, {
 		"title": "Wallix Access Manager",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/privileged-access-management/access-manager/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Securing and managing external access to critical IT assets is a priority in the current climate of remote access and rampant cyber threats.",
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [],
@@ -206,14 +206,14 @@
 			"industry": "Agriculture and Food",
 			"customer": "The Ministry of Agriculture, Forestry, and Water Management of the Republic of Serbia",
 			"country": "RS",
-			"language": "sr",
+			"language": "SR",
 			"success_case_url": "https://www.wallix.com/success-stories/ministry-of-agriculture-forestry-and-water-management-of-serbia"
 		}]
 	}, {
 		"title": "Wallix BestSafe",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
 		"website_url": "https://www.wallix.com/endpoint-privilege-management/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Eliminate the need for user accounts with elevated permissions thanks to innovative endpoint privilege management. Achieve unparalleled security across all endpoints with permissions controlled at the application and process level – without impacting user productivity.",
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [],
