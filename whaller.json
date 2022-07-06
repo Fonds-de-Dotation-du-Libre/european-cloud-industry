@@ -44,23 +44,23 @@
 		"website_url": "https://whaller.com/en/product",
 		"created_year": 2013,
 		"description": "Whaller gives organizations everything they need to accelerate their digital transformation, without sacrificing cybersecurity. Whaller is ideal for both small teams and very large networks.",
-		"category_list": ["Workplace"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
-			"category": "Workplace"
+			"category": "Workspace"
 		},{
 			"title": "Jamespot",
 			"similiar_solution_url": "https://www.fr.jamespot.com/",
-			"category": "Workplace"
+			"category": "Workspace"
 		},{
 			"title": "Talkspirit",
 			"similiar_solution_url": "https://en.talkspirit.com/",
-			"category": "Workplace"
+			"category": "Workspace"
 		},{
 			"title": "Wimi",
 			"similiar_solution_url": "https://www.wimi-teamwork.com/",
-			"category": "Workplace"
+			"category": "Workspace"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -140,7 +140,7 @@
 			"logo_url": "https://www.mcdonalds.fr/",
 			"country": "FR",
 			"industry": "Commerce and Retail"
-		},,{
+		},{
 			"title": "Laboratoire Initiatives",
 			"logo_url": "https://i1.wp.com/laboratoiredesinitiatives.fr/wp-content/uploads/2019/10/Logo-LAB-INI_Bourgogne-Franche-Comt%C3%A9_fond-transparent.png?w=1080",
 			"country": "FR",
