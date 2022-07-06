@@ -1,54 +1,12 @@
-# Industry Categories
+*This repository presents the European Cloud market with a comprehensive list of European Cloud solutions. The data from this repository will be used to build a EU Cloud Solutions & Technologies Directory (https://eu-cloud-directory.cleverapps.io/solutions/). It's part of the EUCLIDIA initiative to foster technological innovation and create a strong eco-system within Europe.*
 
-- Academia and Research
-- Agriculture and Food
-- Associations and NGOs
-- Aviation and Aerospace
-- Automotive
-- Banking and Finance
-- Chemicals
-- Commerce and Retail
-- Construction
-- Consulting and Training
-- Defense
-- Education
-- Energy and Utilities
-- Health and Life Sciences
-- Housing and Real Estate
-- Insurance
-- Information Technology
-- Manufacturing
-- Media and Entertainment
-- Public Administration and Government
-- Telecommunication
-- Transport
-- Travel and Tourism
+1. Please follow this JSON guideline to correctly fill out the JSON file: https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/JSON-guidelines.md
 
-# Solution Categories - software
+Here is a JSON file example to follow: https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/example/empty.json
 
-- Storage and database
-- Compute virtualisation
-- Desktop virtualisation
-- vRan (radio network virtualisation)
-- Operation management (OSS/BSS)
-- Service lifecycle automation
-- Networking
-- Identity
-- Cybersecurity
-- Application
-- Workspace
-- Developer (IDE, etc)
-- Communication (phone, video)
-- IOT and industrial (PLC, etc.)
-- Big Data hub
+2. After filling out the JSON file, please run it by the JSON validator: https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/validator.py
 
-# Solution Categories - hardware
+**About EUCLIDIA**
+The European Cloud Industrial Alliance is an industry alliance made up of SMEs active in the cloud industry. Members are cloud SMEs that develop and supply hardware or software for IaaS, PaaS or SaaS, and which are majority owned by European-based shareholders.
 
-- Servers
-- Switches
-- Boards
-- Routers
-- Rack
-- Cooling
-- CPU
-- Radio base station
+
