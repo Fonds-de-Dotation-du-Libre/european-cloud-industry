@@ -112,6 +112,32 @@ Possible solution_category 
 * CPU
 * Radio
 
+#Industrial categories 
+
+- Academia and Research
+- Agriculture and Food
+- Associations and NGOs
+- Aviation and Aerospace
+- Automotive
+- Banking and Finance
+- Chemicals
+- Commerce and Retail
+- Construction
+- Consulting and Training
+- Defense
+- Education
+- Energy and Utilities
+- Health and Life Sciences
+- Housing and Real Estate
+- Insurance
+- Information Technology
+- Manufacturing
+- Media and Entertainment
+- Public Administration and Government
+- Telecommunication
+- Transport
+- Travel and Tourism
+
 ISO Standards
 
 Country codes: https://www.ncbi.nlm.nih.gov/books/NBK7249/
