@@ -117,7 +117,7 @@
 			"industry": "Automotive",
 			"customer": "Daimler AG",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Exchange of Public, Private, and Confidential Information in Real Time",
@@ -126,7 +126,7 @@
 			"industry": "Automotive",
 			"customer": "Mercedes-Benz india",
 			"country": "IN",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Threema Work Integration: Alerting and Fast Information Distribution",
@@ -135,16 +135,16 @@
 			"industry": "Commerce and Retail",
 			"customer": "Edeka",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Service reporting and order placement via messenger",
 			"description": "TK Elevator offers service for elevators, escalators, and automatic doors throughout Germany. Thanks to a decentralized organization of the company’s location network, emergency calls can be answered around the clock, and issues are resolved promptly. Across Germany, the Service24 center and service technicians use Threema Work to communicate.",
 			"image_url": "",
-			"industry": "construction",
+			"industry": "Construction",
 			"customer": "TK Elevator",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Communication Services for Financial Market Participants",
@@ -153,7 +153,7 @@
 			"industry": "Banking and Finance",
 			"customer": "SIX",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		}]
 	}, {
@@ -186,7 +186,7 @@
 		"title": "ThreemaEducation",
 		"logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
 		"website_url": "https://threema.ch/en/education",
-		"created_year": null,
+		"created_year": "",
 		"description": "Thanks to Threema Education, instant messaging in school is secure and privacy-compliant. Since no personal information is required, it is safe to use Threema Work at any age. The Swiss chat solution offers the highest level of security and data protection, and it is compliant with European data protection laws.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
@@ -236,13 +236,13 @@
 			"logo_url": "https://threema.ch/images/work/clients/logos/threema-work-logo-frankfurt.svg",
 			"country": "DE",
 			"industry": "Public Administration and Government"
-		}]
+		}],
 		"success_case_list": []
 	}, {
 		"title": "Threema Broadcast",
 		"logo_url": "https://threema.ch/images/work/threema-work-app-icon.svg",
 		"website_url": "https://threema.ch/en/broadcast",
-		"created_year": null,
+		"created_year": "",
 		"description": "Threema Broadcast is your tool for fast, secure, and targeted one-to-many communication. With the click of a button, you send text/image messages, files, and polls to your entire workforce or to specific departments.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
@@ -264,7 +264,7 @@
 		"title": "Threema Gateway",
 		"logo_url": "https://gateway.threema.ch/images/logo.svg",
 		"website_url": "https://gateway.threema.ch/en",
-		"created_year": null,
+		"created_year": "",
 		"description": "Threema can be integrated into existing software applications. This allows companies and organizations to send, receive, and process Threema messages using their own software. Threema Gateway can be used for various purposes, the possibilities are virtually endless.", 
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
