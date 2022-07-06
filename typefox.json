@@ -18,35 +18,35 @@
 	"founded_year": 2017,
 	"kpi_list": [{
 		"year": 2020,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "70 751 747 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2019,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "49 407 814 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "60 750 840 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2017,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "71 978 810 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2016,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "37 675 414 EUR",
 		"revenues": "",
@@ -58,27 +58,27 @@
 		"website_url": "https://theia-ide.org/",
 		"created_year": 2017,
 		"description": "Eclipse Theia is a framework for building a fully customized, single-source IDE that runs in web browsers and as a native desktop application. It combines the design ideas and ecosystem from the Microsoft Visual Studio Code IDE with the flexibility and customization capabilities from the Eclipse IDE so it offers the best of both worlds. Plus, it runs in a browser.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Visual Studio Code",
 			"similiar_solution_url": "https://code.visualstudio.com/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "VSCodium",
 			"similiar_solution_url": "https://vscodium.com/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "Dodicad",
 			"similiar_solution_url": "http://codiad.com/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "Atheos IDE",
 			"similiar_solution_url": "https://www.atheos.io/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "Webrunner",
 			"similiar_solution_url": "https://webrunner.nexedi.com/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}],
 		"licence_list": ["Eclipse Public License 2.0 (EPL2)", "GNU General Public License, version 2 (GPLv2)", "classpath exception"],
 		"source_code_download": "https://github.com/eclipse-theia/theia",
@@ -186,7 +186,7 @@
 		},{
 			"title": "VuEngine Studio",
 			"logo_url": "https://api.eclipse.org/adopters/assets/images/adopters/logo-vuengine.png",
-			"country": "",
+			"country": "DE",
 			"industry": "Information Technology"
 		}],
 		"success_case_list": []
@@ -196,31 +196,31 @@
 		"website_url": "https://www.gitpod.io/",
 		"created_year": 2018,
 		"description": "Remote development without friction Gitpod continuously builds your git branches like a CI server so that you can start coding right away - no more waiting for dependencies to download and builds to finish.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Atom",
 			"similiar_solution_url": "https://atom.io/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "Notepad ++",
 			"similiar_solution_url": "https://notepad-plus-plus.org/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "SublimeText",
 			"similiar_solution_url": "https://www.sublimetext.com/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "VSCodium",
 			"similiar_solution_url": "https://vscodium.com/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "Vim",
 			"similiar_solution_url": "https://www.vim.org/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}, {
 			"title": "IntellijIdea",
 			"similiar_solution_url": "https://www.jetbrains.com/idea/",
-			"category": "Developer"
+			"category": "Developer environment"
 		}],
 		"licence_list": ["MIT License", "Gitpod Self-Hosted Free Licensing Terms", "AGPL"],
 		"source_code_download": "https://github.com/gitpod-io/gitpod",
@@ -230,12 +230,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "Scaling from 3 to 45 engineers in 5 months on the back of Gitpod",
 			"description": "Gitpod helped engineers at Shares.io become more productive and focused. It removed any friction in the onboarding process, dev environment management and the day to day collaboration.",
@@ -243,7 +238,7 @@
 			"industry": "Information Technology",
 			"customer": "Shares.io",
 			"country": "GB",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://www.gitpod.io/customers/shares-io"
 		},{
 			"title": "An internal hackathon as catalyst to 20% fewer hotfixes with Gitpod",
@@ -252,7 +247,7 @@
 			"industry": "Information Technology",
 			"customer": "Vizlib",
 			"country": "GB",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://www.gitpod.io/customers/vizlib"
 		},{
 			"title": "Increasing Redwood's development velocity by removing the friction to contribute",
@@ -261,7 +256,7 @@
 			"industry": "Information Technology",
 			"customer": "RedwoodJS",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://www.gitpod.io/customers/redwoodjs"
 		}]
 	}, {
@@ -270,7 +265,7 @@
 		"website_url": "https://www.eclipse.org/Xtext/",
 		"created_year": 2006,
 		"description": "Eclipse Xtext is a framework for development of programming languages and domain specific languages. It covers all aspects of a complete language infrastructure, from parsers, over linker, compiler or interpreter to fully-blown top-notch IDE integration for Eclipse and Web-based IDEs. Further, languages developed with Xtext can be integrated into editors supporting the Language Server Protocol (e.g. VS Code, Eclipse Che). Xtext comes with great defaults for all these aspects, which at the same time can be easily tailored to your individual needs.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
 		"licence_list": ["Eclipse Public License 2.0"],
 		"source_code_download": "https://github.com/eclipse/xtext",
@@ -286,9 +281,9 @@
 		"title": "Langium",
 		"logo_url": "https://langium.org/#",
 		"website_url": "https://langium.org/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Langium is an open source language engineering tool with first-class support for the Language Server Protocol, written in TypeScript and running in Node.js. This future-proof technology stack enables domain-specific languages in VS Code, Eclipse Theia, web applications, and more.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
 		"licence_list": ["MIT License"],
 		"source_code_download": "https://github.com/langium/langium",
@@ -304,9 +299,9 @@
 		"title": "Eclipse Sprotty",
 		"logo_url": "",
 		"website_url": "https://projects.eclipse.org/projects/ecd.sprotty",
-		"created_year": null,
+		"created_year": "",
 		"description": "Eclipse Sprotty™ is a next-generation, open-source, web-based diagramming framework. Instead of using a cross-compiler or an existing framework, we decided to start from scratch with web technologies: The client is implemented in TypeScript, SVG is used for rendering, and CSS for styling. We also use a unidirectional event-cycle with a virtual DOM as opposed to the traditional model-view-controller pattern to better fit the demands of web applications.",
-		"category_list": ["Developer"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
 		"licence_list": ["EPL-v2 license"],
 		"source_code_download": "https://github.com/eclipse/sprotty",
