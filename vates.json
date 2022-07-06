@@ -18,14 +18,14 @@
   "founded_year": 2012,
   "kpi_list": [{
     "year": 2020,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "2 017 605 EUR",
     "revenues": "",
     "source_url": "https://www.verif.com/"
   }, {
     "year": 2019,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "1 445 752 EUR",
     "revenues": "",
@@ -65,9 +65,9 @@
     "title": "Xen Orchestra",
     "logo_url": "https://xen-orchestra.com/assets/logo.png",
     "website_url": "https://xen-orchestra.com/#!/xo-home",
-    "created_year": null,
+    "created_year": "",
     "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
-    "category_list": ["Service Lifecycle Automation"],
+    "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
       "title": "Vagrant",
       "similiar_solution_url": "https://www.vagrantup.com/",
