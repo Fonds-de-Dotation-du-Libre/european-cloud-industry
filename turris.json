@@ -21,7 +21,7 @@
 		"title": "Turris Shield",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/shield/overview/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
@@ -78,13 +78,13 @@
 		"title": "Turris Mox",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/mox/overview/",
-		"created_year": null,
+		"created_year": "",
 		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
-		"category_list": ["Boards"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Olimex",
 			"similiar_solution_url": "https://olimex.com/",
-			"category": "Boards"
+			"category": "Developer environment"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -102,15 +102,15 @@
 		"website_url": "https://www.turris.com/en/omnia/overview/",
 		"created_year": 2016,
 		"description": "Turris Omnia can handle gigabit traffic and still be able to do much more. You can use it as a home server, NAS, printserver and it even has a virtual server built-in",
-		"category_list": ["Routers"],
+		"category_list": ["Router"],
 		"similar_solution_list": [{
 			"title": "eero Home WiFi System",
 			"similiar_solution_url": "https://eero.com/",
-			"category": "Routers"
+			"category": "Router"
 		}, {
 			"title": "Asus RT-AC5300",
 			"similiar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
-			"category": "Routers"
+			"category": "Router"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -143,14 +143,14 @@
 			"industry": "Information Technology",
 			"customer": "Mozilla",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://en.blog.nic.cz/2019/08/23/mozilla-is-solving-iot-issues-using-turris-omnia/"
 		}]
 	}, {
 		"title": "Turris OS",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
 		"website_url": "https://www.turris.com/en/turris-os/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [],
