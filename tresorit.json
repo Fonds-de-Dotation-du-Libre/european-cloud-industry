@@ -58,12 +58,12 @@
 			"title": "Marks and Clerk",
 			"logo_url": "https://www.marks-clerk.com/media/lrtlzzjs/marks-clerk-logo-white.svg",
 			"country": "GB",
-			"industry": "Consulting and Training"
+			"industry": "Consulting and training"
 		}, {
 			"title": "Deutsches Rotes Kreuz",
 			"logo_url": "https://cdn.tresorit.com/webv10/dist/gatsby/static/ef8d3add64363d99ef31f9bcd46a7f91/german-red-cross.svg",
 			"country": "DE",
-			"industry": "Association and NGOs"
+			"industry": "Associations and NGOs"
 		}, {
 			"title": "D-Orbit",
 			"logo_url": "https://static.wixstatic.com/media/64a0e4_fb570b3572674acbb304f06d2918b058~mv2_d_1775_1204_s_2.png/v1/crop/x_10,y_0,w_1765,h_1121/fill/w_170,h_108,al_c,usm_0.66_1.00_0.01,enc_auto/Negativo-RGB-transparent.png",
@@ -92,7 +92,7 @@
 			"industry": "Manufacturing",
 			"customer": "Viessmann",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-exchange-viessmann"		
 		}, {
 			"title": "Removing the barriers to creative workflows thanks to Tresorit's secure collaboration tool",
@@ -101,7 +101,7 @@
 			"industry": "Banking and Finance",
 			"customer": "Erste Bank",
 			"country": "AT",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/erste-bank-external-collaboration"		
 		},{
 			"title": "Enabling cloud integration: how Tresorit helped to digitize KB Flughafen’s workforce",
@@ -110,7 +110,7 @@
 			"industry": "Transport",
 			"customer": "Köln Bonn Flughafen",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/data-security-koln-bonn-airport"
 		},{
 			"title": "HR, uninterrupted: a start-up’s journey to success and safety",
@@ -119,25 +119,25 @@
 			"industry": "Banking and Finance",
 			"customer": "PayFit",
 			"country": "FR",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-data-management-for-payfit"
 		}, {
 			"title": "Security services streamlined thanks to Tresorit's fully compliant collaboration tool",
 			"description": "The Hungarian High Tech Security Services needed a solution to ensure the secure storage and sharing of highly confidential data for their numerous clients that respond to critical incidents and crisis. Therefore, Tresorit appeared to be the most satisfying provider for White Hat IT Security thanks to its encrypted storage and file sharing with multi-factor authentication for highly sensitive data, TISAX and GDPR compliant.",
 			"image_url": "https://whitehat.eu/wp-content/uploads/2021/10/wh_IT_long.png",
-			"industry": "Cybersecurity",
+			"industry": "Information Technology",
 			"customer": "White Hat IT Security",
 			"country": "HU",
-			"language": "hu",
+			"language": "HU",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/encrypted-cloud-collaboration-white-hat"
 		}, {
 			"title": "100 years of women working for peace and equality",
 			"description": "In 1932, long before the age of internet and social media activism, members of WILPF collected 6 million signatures for peace and delivered their petition to the World Disarmament Conference in Geneva. Not only did they demonstrate that people desperately wanted peace, they publicly showed the connection between wars and the arms industry for the first time. In 2016, one of WILPF’s focus areas is turning the international attention to human rights violations in conflict zones. WILPF has been cooperating with local activists who face threats every day, reporting crimes committed against people and showing the impact of the war on women.",
 			"image_url": "https://i0.wp.com/www.wilpf.org/wp-content/uploads/2021/06/WILPF_Logo_Long_1.png?resize=2048%2C761&ssl=1",
-			"industry": "Association and NGOs",
+			"industry": "Associations and NGOs",
 			"customer": "WILPF - Women's International League for Peace and Freedom",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/wilpf"
 		}, {
 			"title": "A safe distance: sharing uber-valuable intelligence across borders and in the cloud",
@@ -146,7 +146,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Bearstone Capital",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-cloud-storage-for-bearstone-global"
 		}, {
 			"title": "Reliability and security: It doesn’t have to be an either-or choice when going serverless",
@@ -155,7 +155,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Logivation",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/benefits-of-moving-to-the-cloud"
 		}, {
 			"title": "A matter of life and death: the importance of secure data sharing in healthcare",
@@ -164,7 +164,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Cardiovascular Research Institute Basel",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-and-data-sharing-in-healthcare"
 		}, {
 			"title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
@@ -173,16 +173,16 @@
 			"industry": "Agriculture and Food",
 			"customer": "Niedersachsen Mitte eG ",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-sharing-for-raiffeisen-mitte"
 		},{
 			"title": "Security, word for word: safe and easy collaboration between consultant interpreters and clients",
 			"description": "Calliope-Interpreters is a global network of interpretation service providers. Calliope-Interpreters delivers turnkey simultaneous interpretation services for meetings and events across the globe and does so in accordance with the highest international standards. During their missions clients have to share important sometimes classified files and the challenge for them was  serving clients across borders with security concerns  of confidential conference material. They tried few solutions such as Microsoft's SharePoint but it was complicated and too pricey. When they came across Tresorit, which seemed like a good, easy-to-use and secure solution for them according to Christoph Renfer, President of Calliope-Interpreters they test ran it for a year and found it  best suited for their business because of Tresorit's zero-knowledge, end-to-end encrypted file storage and secure share links which ensure quick and safe file sharing across collaborators",
 			"image_url": "https://cdn.tresorit.com/webv10/dist/img/landings/customer-stories/calliope-interpreters/logo.f56bbef4.png",
-			"industry": "Consulting",
+			"industry": "Consulting and Training",
 			"customer": "Calliope-interpreters",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-collaboration-for-calliope-interpreters"
 		},{
 			"title": "Saving lives with cloud security",
@@ -191,7 +191,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "Jiyan Foundation",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/cloud-security-for-ngos"
 		},{
 			"title": "Implementing Tresorit’s secure cloud storage system for storing patient records",
@@ -200,7 +200,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "Wings of Hope",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/cloud-storage-with-hipaa-compliance"
 		},{
 			"title": "GDPR compliant yet user friendly data management with Tresorit",
@@ -209,7 +209,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Intergroup",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/the-easy-way-toward-gdpr-compliance"
 		},{
 			"title": "A secure and convenient alternative to hard drives",
@@ -218,7 +218,7 @@
 			"industry": "Media and Entertainment",
 			"customer": "Riot studios",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/cloud-backup-external-hard-drive"
 		},{
 			"title": "Driving confidentiality: Tresorit to provide the highest level of security to automotive clients",
@@ -227,7 +227,7 @@
 			"industry": "Automotive",
 			"customer": "Forge Design",
 			"country": "UK",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/highest-level-of-security-for-automotive-clients"
 		},{
 			"title": "Building business with cloud security",
@@ -236,7 +236,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Apogee",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-cloud-storage-for-law-firms"
 		},{
 			"title": "A matter of life and death: the importance of secure data sharing in healthcare",
@@ -245,7 +245,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Cardiovascular Research Institute Basel",
 			"country": "CH",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-and-data-sharing-in-healthcare"
 		},{
 			"title": "Tresors on a mission: Using the cloud to combat the HIV epidemic",
@@ -254,7 +254,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "One Tent Health",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/hipaa-compliant-data-transfer"
 		},{
 			"title": "Trusted network: business and proprietary data in the best hands possible",
@@ -263,7 +263,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "ACPN",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/easy-to-use-file-storage-for-acpn-usa"
 		},{
 			"title": "Faster, safer and easier: Defending intellectual property rights the right way with Tresorit",
@@ -272,7 +272,7 @@
 			"industry": "Consulting and Training",
 			"customer": "Deshoulières Avocats",
 			"country": "FR",
-			"language": "fr",
+			"language": "FR",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/document-sharing-for-law-firms"
 		},{
 			"title": "Law and order: detectives protect and serve citizens using Tresorit’s cloud solution",
@@ -281,7 +281,7 @@
 			"industry": "Public Administration and Government",
 			"customer": "Boone County Sheriff’s Office",
 			"country": "US",
-			"language": "en",
+			"language": "EN",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-cloud-storage-and-collaboration"
 		},{
 			"title": "Rural, human, digital: farmers get current information remotely thanks to Tresorit",
@@ -290,7 +290,7 @@
 			"industry": "Agriculture and Food",
 			"customer": "Raiffeisen-Warengenossenschaft Niedersachsen Mitte eG",
 			"country": "DE",
-			"language": "de",
+			"language": "DE",
 			"success_case_url": "https://tresorit.com/resources/customer-stories/secure-file-sharing-for-raiffeisen-mitte"
 		}]
 	}]
