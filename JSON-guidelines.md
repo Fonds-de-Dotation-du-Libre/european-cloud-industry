@@ -112,7 +112,7 @@ Possible solution_category 
 * CPU
 * Radio
 
-#Industrial categories 
+Industrial categories 
 
 - Academia and Research
 - Agriculture and Food
