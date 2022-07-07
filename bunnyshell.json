@@ -16,22 +16,22 @@
   "subsidiary_location_list": [],
   "website_url": "https://www.bunnyshell.com/",
   "founded_year": 2018,
-  "kpi_list": [""],
+  "kpi_list": [],
   "solution_list": [{
     "title": "Bunnyshell",
     "logo_url": "https://www.bunnyshell.com/images/bunnyshell_logo.svg",
     "website_url": "https://www.bunnyshell.com/",
-    "created_year": null,
+    "created_year": "",
     "description": "Bunnyshell is an Environments as a Service platform that makes it incredibly easy to create and manage full-stack environments for development, staging and production so your team can deliver software faster and focus on building great products. ",
-    "category_list": ["Developer Environment"],
+    "category_list": ["Developer environment"],
     "similar_solution_list": [{
       "title": "Cloudways",
       "similiar_solution_url": "https://www.cloudways.com/en/",
-      "category": "Developer Environment"
+      "category": "Developer environment"
     },{
       "title": "Amazon CloudWatch",
       "similiar_solution_url": "https://aws.amazon.com/fr/cloudwatch/",
-      "category": "Developer Environment"
+      "category": "Developer environment"
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "",
