@@ -37,19 +37,19 @@
     "website_url": "https://scalingo.com/runtimes",
     "created_year": 2015,
     "description": "Scalingo is a France-based hosting company providing web developers with production-ready application hosting services. Its services have served more than 300 teams and hosted more than 2500 applications from more than 17 countries worldwide. Its hosting services are backed by a Tier III data center located in Paris, France. The Scalingo website is available in two languages: English and French.",
-    "category_list": ["Developer Environment"],
+    "category_list": ["Developer environment"],
     "similar_solution_list": [{
       "title": "OpenShift",
       "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
-      "category": "Developer Environment"
+      "category": "Developer environment"
     },{
       "title": "Heroku",
       "similiar_solution_url": "https://www.heroku.com/",
-      "category": "Developer Environment"
+      "category": "Developer environment"
     },{
       "title": "Clever Cloud",
       "similiar_solution_url": "https://www.clever-cloud.com/",
-      "category": "Developer Environment "
+      "category": "Developer environment "
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "https://github.com/Scalingo/documentation.git",
@@ -63,17 +63,17 @@
       "title": "Studo",
       "logo_url": "https://studo.com/typo3conf/ext/provider/Resources/Public/Images/LogoWhite.svgAT",
       "country": "AT",
-      "industry": "Digital solutions"
+      "industry": "Information Technology"
     },{
       "title": "Chargemap",
       "logo_url": "https://chargemap.com/client/chargemap/images/logo-inline.svg",
       "country": "FR",
-      "industry": "Digital solutions"
+      "industry": "Information Technology"
     },{
       "title": "Level Up Solutions",
       "logo_url": "",
       "country": "FR",
-      "industry": "Web application development"
+      "industry": "Information Technology"
     }],
     "success_case_list": [{
       "title": "How Le Wagon teaches thousands of students to code with Scalingo",
@@ -97,7 +97,7 @@
       "title": "Running a 15M€ E-commerce platform on Scalingo",
       "description": "Clément Joubert, CTO of HomeCinéSolutions, is in charge of the application created with Ruby on Rails in 2006 and also serving as ERP. This application was hosted on dedicated managed servers and Clément encountered problems such as communication with the outsourcing company was sub-optimal and the dedicated server that were under-utilized in no-high traffic peaks period. That's why in 2017 Clément started testing other services and his choice went to Scalingo because it offered the possibility of being hosted on a high-availability platform at the same price, with in particular multi-node clusters for Redis and PostgreSQL, which gave the technical team peace of mind and allowed them to make updates without any downtime. And also because of the reactive support that has corrected the performance problems detected during some specific scale-up tests.",
       "image_url": "https://www.datocms-assets.com/36416/1634720856-homecinesolutionlogo.svg",
-      "industry": "Retail",
+      "industry": "Commerce and Retail",
       "customer": "HomeCinéSolutions",
       "country": "FR",
       "language": "fr",
