@@ -99,16 +99,7 @@
 			"country": "CH",
 			"industry": "Information Technology"
 		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}, {
 		"title": "Collabora Online",
 		"logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
@@ -206,15 +197,6 @@
 			"country": "AU",
 			"industry": "Public Administration and Government"
 		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}]
 }
