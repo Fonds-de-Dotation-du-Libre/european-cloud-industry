@@ -23,7 +23,7 @@
 		"website_url": "https://www.bluemind.net/produit/",
 		"created_year": 2021,
 		"description": "BlueMind is a free software suite for enterprise messaging, calendaring and collaborative work. BlueMind is developed in France and is presented as an alternative to MS Exchange and M365.",
-		"category_list": "Workspace",
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "OBM 3",
 			"similiar_solution_url":"https://obm.org/",
@@ -208,7 +208,7 @@
       			"industry": "Public Administration and Government",
       			"customer": "The city and the agglomeration of Auxerre",
       			"country": "FR",
-				"language": "FR",
+				"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/auxerre-ville-et-agglo/"
    			 },{
       			"title": "The Group Gagneraud migrates 1500 users to the BlueMind solution",
@@ -226,7 +226,7 @@
       			"industry": "Public Administration and Government",
       			"customer": "Mairie de Saint-Ouen",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/mairie-de-saint-ouen/"
     			},{
 			"title": "Migration project of a messaging system based on OpenSource components to BlueMind and ActiveDirectory",
@@ -235,16 +235,16 @@
       			"industry": "Health and Life Sciences",
       			"customer": "Centre Hospitalier des Pyrénées",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/centre-hospitalier-des-pyrenees/"
     			},{
 			"title": "Migration from Exchange to BlueMind at S20 Industries",
       			"description": "S20 Industries used BlueMind to reduce costs; modernize and simplify the management of collaborative tools; define an extensible and open base for collaborative tools",
       			"image_url": "https://www.bluemind.net/wp-content/uploads/2017/10/S20-industries-logo.png",
-      			"industry": "Industry",
+      			"industry": "Manufacturing",
       			"customer": "S20 Industries",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/s20-industries/"
     			},{
       			"title": "Migration from Microsoft NT 4.0 to BlueMind at Douarnenez City Hall",
@@ -253,7 +253,7 @@
       			"industry": "Public Administration and Government",
       			"customer": "Mairie de Douarnenez",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/wp-content/uploads/2019/01/Ville-de-Douarnenez.pdf"
     			},{
       			"title": "Migration project from Gosa to the BlueMind solution concerning 350 user accounts.",
@@ -262,7 +262,7 @@
       			"industry": "Public Administration and Government",
       			"customer": "Mairie de Savigny-sur-Orge",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
      		 	"success_case_url": "https://www.bluemind.net/cas-clients/mairie-savigny-sur-orge/"
     			},{
       			"title": "Migration from Zimbra to BlueMind at Usharesoft",
@@ -271,7 +271,7 @@
       			"industry": "Information Technology",
       			"customer": "UShareSoft",
       			"country": "FR",
-      			"language": "FR",
+      			"language": "fr",
       			"success_case_url": "https://www.bluemind.net/cas-clients/usharesoft/"
     			}]
   		}]
