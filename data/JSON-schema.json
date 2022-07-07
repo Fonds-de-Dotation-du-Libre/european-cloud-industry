@@ -261,7 +261,7 @@
 				    },
 				    "language": {
 					"type": "string",
-					"pattern": "^[A-Z]{2}$",
+					"pattern": "^[a-z]{2}$",
 					"description": "A valid 2-digit ISO language code"
 				    },
 				    "success_case_url": {
