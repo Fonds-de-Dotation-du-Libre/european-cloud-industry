@@ -13,33 +13,33 @@
     "mail_contact": "contact@senx.io",
     "coordinate_list": [48.44201144215278, -4.414527459584225]
   },
-  "subsidiary_location_list": "",
+  "subsidiary_location_list": [],
   "website_url": "https://senx.io/",
   "founded_year": 2013,
   "kpi_list": [{
     "year": 2020,
-    "staff": null,
+    "staff": "",
     "earnings": "-295 818 EUR",
     "total_assets": "2 016 385 EUR",
     "revenues": "476 678 EUR",
     "source_url": "https://www.verif.com/"
   }, {
     "year": 2019,
-    "staff": null,
+    "staff": "",
     "earnings": "265 748 EUR",
     "total_assets": "2 112 440 EUR",
     "revenues": "684 400 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": 2018,
-    "staff": null,
+    "staff": "",
     "earnings": "-153 526 EUR",
     "total_assets": "1 527 215 EUR",
     "revenues": "687 133 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": 2017,
-    "staff": null,
+    "staff": "",
     "earnings": "127 356 EUR",
     "total_assets": "1 485 954 EUR",
     "revenues": "745 713 EUR",
@@ -51,7 +51,7 @@
     "website_url": "https://www.warp10.io/content/01_About",
     "created_year": 2013,
     "description": "Warp 10 is one of the most advanced time series platform, ensuring a seamless experience with existing data ecosystems. It addresses challenges posed by the data produced by consumer IoT devices. SenX, the company leading the Warp 10 development, invested heavily in the research and development of a high performance storage engine and an advanced analytics environment, both specifically crafted for time series augmented by location data (Geo Time Series).",
-    "category_list": ["Storage and Database","IOT and Industrial"]
+    "category_list": ["Storage and database","IoT and industrial"],
     "similar_solution_list": [{
       "title": "Minitab Statistical Solution",
       "similiar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
@@ -69,7 +69,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Warp_10",
-    "reference_list": [""],
+    "reference_list": [],
     "success_case_list": [{
       "title": "case study",
       "description": "AIM45 proposes a solution to store and analyze data produced by sailboats. This solution is based on Warp 10 and includes algorithms and visualizations designed by experts in yacht races. It is compatible with many types of data loggers, so the produced data can be easily retrieved and analyzed.",
@@ -92,7 +92,7 @@
       "title": "case study",
       "description": "As a bancassurance group, Arkea has a large IT infrastructure, and wanted to be able to have a global view of its entire fleet, without multiplying the tools to be put in place.A solution was needed to ingest a very large amount of data. Warp 10 turned out to be the only database that met our needs. Warp 10 is used today within several Arkea departments, especially to monitor the machine park (CPU, RAM, disks, …), including the mainframe. Beyond the IT scope, different departments use Warp 10 with more business-oriented objectives, for example, to know the number of connected users or the number of transactions.",
       "image_url": "https://senx.io/assets/img/logos/arkea.png",
-      "industry": "Banking",
+      "industry": "Banking and Finance",
       "customer": "ARKEA",
       "country": "FR",
       "language": "fr",
@@ -110,7 +110,7 @@
       "title": "case study",
       "description": "The surgical resuscitation team at the CHRU in Brest wanted to record intracranial pressure and blood pressure at 100Hz, to study the influence of the shape of the curve on the values reached. This recording must be continuous, 24 hours a day, 7 days a week. To avoid any human manipulations, such as manual data exports on a USB key, the CHRU wanted to develop a fully automated datalogger, with data feedback on the Internet as soon as the connection is available.The CHRU uses Warp 10 in its embedded version to ensure local storage and resynchronization of data with the Warp 10 SaaS base.",
       "image_url": "https://senx.io/assets/img/logos/CHRU_Brest.png",
-      "industry": "Healthcare",
+      "industry": "Health and Life Sciences",
       "customer": "CHRU Brest",
       "country": "FR",
       "language": "fr",
@@ -119,7 +119,7 @@
       "title": "case study",
       "description": "With a strong  desire to grow in a spirit of automating infrastructure management Clever cloud chose Warp 10 because they needed a database capable of ingesting and processing the large number of measurements made and sent at any time. They also needed a database that could handle high cardinality. Therefore they use different versions of Warp 10: a distributed version with the redundancy of essential components for data storage and analysis, and several «In Memory» versions for quick access to recent data.",
       "image_url": "https://senx.io/assets/img/logos/clevercloud.svg",
-      "industry": "Cloud services",
+      "industry": "Information Technology",
       "customer": "Clever cloud",
       "country": "FR",
       "language": "fr",
