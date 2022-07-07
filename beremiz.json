@@ -15,15 +15,15 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://beremiz.org/",
-  "founded_year": null,
+  "founded_year": "",
   "kpi_list": [],
   "solution_list": [{
     "title": "Beremiz",
     "logo_url": "https://beremiz.org/home_logo.png",
     "website_url": "https://beremiz.org/",
-    "created_year": null,
+    "created_year": "",
     "description": "Beremiz is an integrated development environment for machine automation. It is Free Software, conforming to IEC-61131 among other standards. It relies on open standards to be independent of the targeted device, and let you turn any processor into a PLC. Beremiz includes tools to create HMI, and to connect your PLC programs to existing supervisions, databases, or fieldbuses.",
-    "category_list": ["Developer"],
+    "category_list": ["Developer environment"],
     "similar_solution_list": [{
       "title": "Xul Dev",
       "similiar_solution_url": "http://xuldev.sourceforge.net/",
@@ -37,7 +37,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "",
-    "reference_list": "",
-    "success_case_list": ""
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
