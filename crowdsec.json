@@ -15,7 +15,7 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://crowdsec.net/",
-	"founded_year": "2019",
+	"founded_year": 2019,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Crowdsec",
@@ -45,21 +45,7 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.everybodywiki.com/CrowdSec",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
