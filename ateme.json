@@ -32,7 +32,7 @@
 		"source_url": "https://www.societe.com/bilan/ateme-382231991202012311.html"
 	}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "1 602 800 EUR",
 		"total_assets": "40 038 900 EUR",
 		"revenues": "51 727 600 EUR",
@@ -56,9 +56,9 @@
 		"title": "Atem NEA solution",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-video-content-delivery/",
-		"created_year": null,
+		"created_year": "",
 		"description": "With Ateme’s NEA solutions you can build a platform for streaming, OTT or IPTV services that captivates your audience with outstanding experiences – while unleashing monetization potential, reducing operational costs, and minimizing your carbon footprint.",
-		"category_list": ["Developer Environment"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -72,29 +72,15 @@
 	    "commercial_support_open_source_version": false,
 	    "commercial_support_available": true,
 	    "wikipedia_url": "https://fr.wikipedia.org/wiki/Ateme",
-	    "reference_list": [{
-	      "title": "",
-	      "logo_url": "",
-	      "country": "",
-	      "industry": ""
-	    }],
-	    "success_case_list": [{
-	      "title": "",
-	      "description": "",
-	      "image_url": "",
-	      "industry": "",
-	      "customer": "",
-	      "country": "",
-	      "language": "",
-	      "success_case_url": ""
-	    }]
+	    "reference_list": [],
+	    "success_case_list": []
 	},{
 		"title": "Titan Software Processing",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-titan-software/",
-		"created_year": null,
+		"created_year": "",
 		"description": "offer your viewers a premium experience on any platform – DTH, DTT, cable-TV, IPTV and OTT. And you do that while saving infrastructure costs and minimizing your carbon footprint.",
-		"category_list": ["Developer Environment"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -108,12 +94,7 @@
 	    "commercial_support_open_source_version": false,
 	    "commercial_support_available": true,
 	    "wikipedia_url": "https://fr.wikipedia.org/wiki/Ateme",
-	    "reference_list": [{
-	      "title": "",
-	      "logo_url": "",
-	      "country": "",
-	      "industry": ""
-	    }],
+	    "reference_list": [],
 	    "success_case_list": [{
 	      "title": "Defining Brazil’s standard for digital television: TV3.0",
 	      "description": "On November 30th, 2020, VVC was proposed by a consortium formed by Ateme, DiBEG, Fraunhofer HHI and InterDigital as the coding technology for TV3.0, and was evaluated by SBTVD during phase 2. The forum completed the second phase and selected VVC as the sole mandatory video coding system for Brazil’s new TV 3.0 standard, which will be used in the country’s next-generation digital terrestrial television system. The decision to adopt VVC follows a technical evaluation that used Ateme’s TITAN Live platform for the first implementation of VVC in a live environment, providing real-time encoding with low latency. This demonstrated VVC’s readiness for use in both live Over-The-Air (OTA) and OTT broadcast.",
@@ -121,16 +102,16 @@
 	      "industry": "Information Technology",
 	      "customer": "SBTVD Forum (Sistema Brasileiro de TV Digital)",
 	      "country": "BR",
-	      "language": "PT",
+	      "language": "pt",
 	      "success_case_url": "https://www.ateme.com/defining-brazils-standard-for-digital-television-tv3-0/"
 		}]
 	},{
 		"title": "Kyrion contribution encoders",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/kyrion-cm5000-the-latest-ateme-encoder-is-out-now/",
-		"created_year": null,
+		"created_year": "",
 		"description": "The Kyrion encoder has been designed for contribution over satellite, IP and ASI networks, with advanced features such as ultra-fast-boot, and added value features including ABR output and integrated Automatic Repeat reQuest (ARQ).",
-		"category_list": ["IOT and industrial"],
+		"category_list": ["IoT and industrial"],
 		"similar_solution_list": [{
 		  "title": "",
 		  "similiar_solution_url": "",
@@ -142,29 +123,15 @@
 	    "commercial_support_url": "https://www.ateme.com/support-services/",
 	    "floss_software": false,
 	    "commercial_support_open_source_version": false,
-	    "commercial_support_available": "",
+	    "commercial_support_available": false,
 	    "wikipedia_url": "https://fr.wikipedia.org/wiki/ATEME",
-	    "reference_list": [{
-	      "title": "",
-	      "logo_url": "",
-	      "country": "",
-	      "industry": ""
-	    }],
-	    "success_case_list": [{
-	      "title": "",
-	      "description": "",
-	      "image_url": "",
-	      "industry": "",
-	      "customer": "",
-	      "country": "",
-	      "language": "",
-	      "success_case_url": ""
-	    }]
+	    "reference_list": [],
+	    "success_case_list": []
 	},{
 		"title": "PILOT analytics & orchestration solutions",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-network-management-system/",
-		"created_year": null,
+		"created_year": "",
 		"description": "With Ateme’s PILOT management and orchestration solutions you simplify your video-delivery operations, create efficiencies, and exploit new revenue opportunities with business intelligence and automation – both on-premises and in the cloud.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
@@ -180,21 +147,7 @@
 	    "commercial_support_open_source_version": false,
 	    "commercial_support_available": true,
 	    "wikipedia_url": "",
-	    "reference_list": [{
-	      "title": "",
-	      "logo_url": "",
-	      "country": "",
-	      "industry": ""
-	    }],
-	    "success_case_list": [{
-	      "title": "",
-	      "description": "",
-	      "image_url": "",
-	      "industry": "",
-	      "customer": "",
-	      "country": "",
-	      "language": "",
-	      "success_case_url": ""
-	    }]
+	    "reference_list": [],
+	    "success_case_list": []
 		}]
 	}
