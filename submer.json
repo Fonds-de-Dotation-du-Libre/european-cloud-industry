@@ -16,12 +16,12 @@
 	"subsidiary_location_list": ["US"],
 	"website_url": "https://submer.com/",
 	"founded_year": 2015,
-	"kpi_list": [""],
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "MicroPod",
 		"logo_url": "https://submer.com/wp-content/uploads/2020/11/micropod-rooftop3-copy-1536x864.jpg",
 		"website_url": "https://submer.com/micropod/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Submer’s MicroPod is the perfect Immersion Cooling solution for Edge applications, colocation datacenters, telcos and cloud computing. Thanks to its compact, modular, plug-and-play, datacenter-in-a-box configuration, the MicroPod allows for fast deployment in any location, including direct sunlight and an easy plug-and-play installation with an unrivalled energy footprint anywhere on the globe.",
 		"category_list": ["Cooling"],
 		"similar_solution_list": [{
@@ -29,7 +29,7 @@
 			"similiar_solution_url": "https://www.grcooling.com/iceraq/",
 			"category": "Cooling"
 		}],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -41,223 +41,223 @@
 			"title": "Ingram Micro",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Green AI",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/GREEN-AI.png",
 			"country": "SE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "NTC Services AS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NTC-SERVICES.png",
 			"country": "NO",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Exuvi8",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "NBM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NBM.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "InfraBurst",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/infraburst.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Submerged Cooling solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
 			"country": "NL",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Trigonon",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Trigonon.png",
-			"country": "BG",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "IEAISA Ingenieria",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ieaisa.jpg",
 			"country": "ES",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Exertis",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Totalinux",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TOTALINUX.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Microcomms",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/microcomms.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Sonic Edge",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_sonicedge.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Data Centre",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/datacetreuk.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "FEL Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/felgroup.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Yonder Cloud",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/yondercloud.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Asanti",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/asanti.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "2BM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/2bm.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "2CRSi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/2crsi.jpg",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Gassecry",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/gassecry.jpg",
 			"country": "SE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Amax",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/amax.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "AccessPLUS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Logo_AccessPlus.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Retaam Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/retaamsolutions.jpg",
 			"country": "SA",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "TD Synnex",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TDSynnex.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "JAIBODSINGH ENERGY LIMITED",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/JAIBODSINGH.jpg",
 			"country": "TT",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Priseda",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-8.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Guyana Technologies Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-7.jpg",
 			"country": "GY",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "PTS Data Center Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/PTS.png",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Air Treatment Corporation",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ATC.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Cancom",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-6.jpg",
 			"country": "DE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Hypertec",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/hypertec.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Adacen",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ADACEN.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "north american systems international",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "i4DM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/i4DM.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "ASA Computers",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_asa.png",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "PTI Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-9.jpg",
 			"country": "CA",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Rahi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Mark III systems",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg ",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Utech Global",
 			"logo_url": "https://submer.com/wp-content/uploads/2022/04/utech-global-logo.png",
 			"country": "SG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Lambda Greentech",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-11.jpg",
 			"country": "MY",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Open Computing Singapore",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-16.png",
 			"country": "SG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "The Engineering Factory",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/the-engineering-factory.jpg",
 			"country": "AU",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}],
-		"success_case_list": [""]
+		"success_case_list": []
 	}, {
 		"title": "SmartPod",
 		"logo_url": "https://submer.com/wp-content/uploads/2021/03/SmartPod-Family.png",
 		"website_url": "https://submer.com/smartpod/",
-		"created_year": null,
+		"created_year": "",
 		"description": "the SmartPod is the very first commercially available OCP compatible Immersion Cooling system, that conforms to both standard server formats and to Open Compute Project (OCP) specifications for high-performance, supercomputing, hyperscale infrastructures, research and colocation",
 		"category_list": ["Cooling"],
-		"similar_solution_list": [""],
-		"licence_list": [""],
+		"similar_solution_list": [],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -265,13 +265,13 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [""],
-		"success_case_list": [""]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "MegaPod",
 		"logo_url": "https://submer.com/wp-content/uploads/2021/03/megapod-bandw.jpg",
 		"website_url": "https://submer.com/megapod/",
-		"created_year": null,
+		"created_year": "",
 		"description": "The MegaPod has been purpose-built to address the main pain points faced by our challenged industry. Deliver large amounts of sustainable compute capacity and ease site selection. No other technology can deliver this level of density and leverage dry-cooling infrastructure anywhere on the Globe. No other technology can deliver >95% of the IT energy captured in the form or warm water for heat reuse. Think out of the box by leveraging Immersion Cooling in a bigger box: The MegaPod.",
 		"category_list": ["Cooling"],
 		"similar_solution_list": [{
@@ -279,7 +279,7 @@
 			"similiar_solution_url": "https://www.grcooling.com/icetank/",
 			"category": "Cooling"
 		}],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -291,223 +291,223 @@
 			"title": "Ingram Micro",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Green AI",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/GREEN-AI.png",
 			"country": "SE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "NTC Services AS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NTC-SERVICES.png",
 			"country": "NO",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Exuvi8",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "NBM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NBM.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "InfraBurst",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/infraburst.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Submerged Cooling solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
 			"country": "NL",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Trigonon",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Trigonon.png",
 			"country": "BG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "IEAISA Ingenieria",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ieaisa.jpg",
 			"country": "ES",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Exertis",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Totalinux",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TOTALINUX.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Microcomms",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/microcomms.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Sonic Edge",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_sonicedge.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Data Centre",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/datacetreuk.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "FEL Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/felgroup.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Yonder Cloud",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/yondercloud.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Asanti",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/asanti.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "2BM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/2bm.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "2CRSi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/2crsi.jpg",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Gassecry",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/gassecry.jpg",
 			"country": "SE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Amax",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/amax.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "AccessPLUS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Logo_AccessPlus.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Retaam Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/retaamsolutions.jpg",
 			"country": "SA",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "TD Synnex",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TDSynnex.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "JAIBODSINGH ENERGY LIMITED",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/JAIBODSINGH.jpg",
 			"country": "TT",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Priseda",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-8.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Guyana Technologies Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-7.jpg",
 			"country": "GY",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "PTS Data Center Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/PTS.png",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Air Treatment Corporation",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ATC.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Cancom",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-6.jpg",
 			"country": "DE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Hypertec",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/hypertec.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Adacen",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ADACEN.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "north american systems international",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "i4DM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/i4DM.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "ASA Computers",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_asa.png",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "PTI Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-9.jpg",
 			"country": "CA",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Rahi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Mark III systems",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg ",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Utech Global",
 			"logo_url": "https://submer.com/wp-content/uploads/2022/04/utech-global-logo.png",
 			"country": "SG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Lambda Greentech",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-11.jpg",
 			"country": "MY",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Open Computing Singapore",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-16.png",
 			"country": "SG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "The Engineering Factory",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/the-engineering-factory.jpg",
 			"country": "AU",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}],
-		"success_case_list": [""]
+		"success_case_list": []
 	}, {
 		"title": "SmartCoolant",
 		"logo_url": "",
 		"website_url": "https://submer.com/smart-coolant-liquid/",
-		"created_year": null,
+		"created_year": "",
 		"description": "a synthetic fluid tailor-made for immersion cooling. It provides great benefits for hardware, humans, the planet.",
 		"category_list": ["Cooling"],
-		"similar_solution_list": [""],
-		"licence_list": [""],
+		"similar_solution_list": [],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -519,213 +519,213 @@
 			"title": "Ingram Micro",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ingrammicro-1.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Green AI",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/GREEN-AI.png",
 			"country": "SE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "NTC Services AS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NTC-SERVICES.png",
 			"country": "NO",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Exuvi8",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/EXUVI.png",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "NBM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/NBM.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "InfraBurst",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/infraburst.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Submerged Cooling solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/SUBMERGED.jpg",
 			"country": "NL",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Trigonon",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Trigonon.png",
 			"country": "BG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "IEAISA Ingenieria",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/ieaisa.jpg",
 			"country": "ES",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Exertis",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/exertis.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Totalinux",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TOTALINUX.png",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Microcomms",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/microcomms.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Sonic Edge",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_sonicedge.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Data Centre",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/datacetreuk.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "FEL Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/felgroup.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Yonder Cloud",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/yondercloud.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Asanti",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/asanti.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "2BM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/2bm.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "2CRSi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/2crsi.jpg",
 			"country": "FR",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Gassecry",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/gassecry.jpg",
 			"country": "SE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Amax",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/amax.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "AccessPLUS",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/Logo_AccessPlus.jpg",
-			"country": "UK",
-			"industry": "IT"
+			"country": "GB",
+			"industry": "Information Technology"
 		}, {
 			"title": "Retaam Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/retaamsolutions.jpg",
 			"country": "SA",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "TD Synnex",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/TDSynnex.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "JAIBODSINGH ENERGY LIMITED",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/JAIBODSINGH.jpg",
 			"country": "TT",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Priseda",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-8.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Guyana Technologies Group",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-7.jpg",
 			"country": "GY",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "PTS Data Center Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/PTS.png",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Air Treatment Corporation",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ATC.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Cancom",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-6.jpg",
 			"country": "DE",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Hypertec",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/hypertec.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Adacen",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/ADACEN.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "north american systems international",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "i4DM",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/i4DM.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "ASA Computers",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/logo_asa.png",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "PTI Solutions",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-9.jpg",
 			"country": "CA",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Rahi",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Mark III systems",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/RAHI.jpg ",
 			"country": "US",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Utech Global",
 			"logo_url": "https://submer.com/wp-content/uploads/2022/04/utech-global-logo.png",
 			"country": "SG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Lambda Greentech",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-11.jpg",
 			"country": "MY",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "Open Computing Singapore",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/12/MicrosoftTeams-image-16.png",
 			"country": "SG",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}, {
 			"title": "The Engineering Factory",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/the-engineering-factory.jpg",
 			"country": "AU",
-			"industry": "IT"
+			"industry": "Information Technology"
 		}],
-		"success_case_list": [""]
+		"success_case_list": []
 	}]
 }
