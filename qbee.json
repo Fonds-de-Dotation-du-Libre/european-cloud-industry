@@ -21,9 +21,9 @@
     "title": "IoT Device Management",
     "logo_url": "https://qbee.io/wp-content/uploads/2022/02/features_icon_linux_automisation.png",
     "website_url": "https://qbee.io/iot-configuration-management/",
-    "created_year": null,
+    "created_year": "",
     "description": "IoT configuration management for Linux, with built-in automations to handle all needs (passwords, updates, NTP servers, forewall, etc.) and can be accessed through a Rest API",
-    "category_list": ["IoT and Industrial"],
+    "category_list": ["IoT and industrial"],
     "similar_solution_list": [{
       "title": "",
       "similiar_solution_url": "",
@@ -37,12 +37,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
+    "reference_list": [],
     "success_case_list": [{
       "title": "Device Management helps agriculture robot to reduce herbicides by 95%",
       "description": "Development of an autonomous agricultural robot equipped with an high precison GPS, that only drops herbicide where it detects weeds, reducing by up to 95% the use of herbicides",
