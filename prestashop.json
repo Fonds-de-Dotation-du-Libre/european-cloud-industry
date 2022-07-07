@@ -54,21 +54,7 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PrestaShop",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
