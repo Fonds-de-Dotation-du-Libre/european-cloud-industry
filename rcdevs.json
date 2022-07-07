@@ -15,31 +15,31 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.rcdevs.com/",
-	"founded_year": null,
+	"founded_year": "",
 	"kpi_list": [{
 		"year": 2019,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "4 568 705 EUR",
 		"revenues": "838 814 EUR",
 		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
 	}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "2 741 166 EUR",
 		"revenues": "134 124 EUR",
 		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
 	}, {
 		"year": 2017,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 851 519 EUR",
 		"revenues": "378 661 EUR",
 		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
 	}, {
 		"year": 2016,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 348 799 EUR",
 		"revenues": "210 658 EUR",
@@ -49,14 +49,10 @@
 		"title": "OpenOTP Authentication Server",
 		"logo_url": "",
 		"website_url": "https://www.rcdevs.com/products/openotp/",
-		"created_year": null,
+		"created_year": "",
 		"description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
 		"category_list": ["Identity"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -65,15 +61,15 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [""],
-		"success_case_list": [""]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "SpanKey SSH Key Server Management",
 		"logo_url": "",
 		"website_url": "https://www.rcdevs.com/products/spankey/",
-		"created_year": null,
+		"created_year": "",
 		"description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
-		"category_list": ["Service Lifecycle Automation"],
+		"category_list": ["Service lifecycle automation"],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -82,39 +78,39 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [""],
-		"success_case_list": [""]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "WebADM Control Center",
 		"logo_url": "",
 		"website_url": "https://www.rcdevs.com/products/webadm/",
-		"created_year": null,
+		"created_year": "",
 		"description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
-		"category_list": ["Service Lifecycle Automation"],
+		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
 			"title": "Auth0",
 			"similiar_solution_url": "https://auth0.com/key",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}, {
 			"title": "Keycloak",
 			"similiar_solution_url": "https://www.keycloak.org/",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}, {
 			"title": "Amazon Cognito",
 			"similiar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}, {
 			"title": "Spring Security",
 			"similiar_solution_url": "https://spring.io/projects/spring-security",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}, {
 			"title": "Firebase Authentication",
 			"similiar_solution_url": "https://firebase.google.com/",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}, {
 			"title": "JSON web Token",
 			"similiar_solution_url": "https://jwt.io/",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
@@ -142,7 +138,7 @@
 		}, {
 			"title": "European Investment Bank",
 			"logo_url": "https://www.rcdevs.com/wp-content/uploads/EIB.png.webp",
-			"country": "",
+			"country": "EU",
 			"industry": "Banking and Finance"
 		}, {
 			"title": "Hyundai",
