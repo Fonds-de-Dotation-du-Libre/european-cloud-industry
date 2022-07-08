@@ -4,7 +4,70 @@
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "type": "object",
     "definitions": {
-      "saneUrl": { "format": "uri", "pattern": "^https?://" }
+      "sane_url": { "format": "uri", "pattern": "^https?://" },
+      "openhub_url": {"format": "uri", "pattern": "https://www.openhub.net/p/.*/analyses/latest/languages_summary"},
+      "wikipedia_url": {"format": "uri", "pattern": "https://en.wikipedia.org/wiki/.*"},
+      "organisation_list": {
+        "enum": [
+          "Organisation",
+          "Association",
+          "Other"
+        ]
+      },
+      "industry_list": {
+        "enum": [
+          "Academia and Research",
+          "Agriculture and Food",
+          "Associations and NGOs",
+          "Aviation and Aerospace",
+          "Automotive",
+          "Banking and Finance",
+          "Chemicals",
+          "Commerce and Retail",
+          "Construction",
+          "Consulting and Training",
+          "Defense",
+          "Education",
+          "Energy and Utilities",
+          "Health and Life Sciences",
+          "Housing and Real Estate",
+          "Insurance",
+          "Information Technology",
+          "Manufacturing",
+          "Media and Entertainment",
+          "Public Administration and Government",
+          "Telecommunication",
+          "Transport",
+          "Travel and Tourism"
+        ]
+      },
+      "category_list": {
+        "enum": [
+          "Storage and database",
+          "Compute virtualisation",
+          "Desktop virtualisation",
+          "vRan",
+          "Operation management",
+          "Service lifecycle automation",
+          "Networking",
+          "Identity",
+          "Cybersecurity",
+          "Application",
+          "Workspace",
+          "Developer environment",
+          "Developer API",
+          "Communication",
+          "IoT and industrial",
+          "Big Data Hub",
+          "Server",
+          "Switch",
+          "Router",
+          "Rack",
+          "Cooling",
+          "CPU",
+          "Radio"
+        ]
+      }
     },
     "properties": {
       "created": {
@@ -16,16 +79,11 @@
         "type": "string"
       },
       "type": {
-        "type": "string",
-        "enum": [
-          "Organisation",
-          "Association",
-          "Other"
-        ]
+        "$ref": "#/definitions/organisation_list"
       },
       "logo_url": {
         "anyOf": [{ 
-            "$ref": "#/definitions/saneUrl"
+            "$ref": "#/definitions/sane_url"
         }, { 
             "type": "string", 
             "maxLength": 0
@@ -77,9 +135,7 @@
             "type": "array",
             "maxItems": 2,
             "items": {
-              "type": "number",
-              "minimum": -180,
-              "maximum": 180
+              "type": "number"
             }
           }
         }
@@ -91,7 +147,7 @@
       },
       "website_url": {
         "anyOf": [{ 
-            "$ref": "#/definitions/saneUrl"
+            "$ref": "#/definitions/sane_url"
         }, { 
             "type": "string", 
             "maxLength": 0
@@ -142,7 +198,7 @@
             },
             "source_url": {
               "anyOf": [{ 
-                "$ref": "#/definitions/saneUrl"
+                "$ref": "#/definitions/sane_url"
               }, { 
                 "type": "string", 
                 "maxLength": 0
@@ -161,7 +217,7 @@
             },
             "logo_url": {
               "anyOf": [{ 
-                "$ref": "#/definitions/saneUrl"
+                "$ref": "#/definitions/sane_url"
               }, { 
                   "type": "string", 
                   "maxLength": 0
@@ -169,7 +225,7 @@
             },
             "website_url": {
               "anyOf": [{ 
-                  "$ref": "#/definitions/saneUrl"
+                  "$ref": "#/definitions/sane_url"
               }, { 
                   "type": "string", 
                   "maxLength": 0
@@ -188,31 +244,7 @@
             "category_list": {
               "type": "array",
               "items": {
-                "enum": [
-                  "Storage and database",
-                  "Compute virtualisation",
-                  "Desktop virtualisation",
-                  "vRan",
-                  "Operation management",
-                  "Service lifecycle automation",
-                  "Networking",
-                  "Identity",
-                  "Cybersecurity",
-                  "Application",
-                  "Workspace",
-                  "Developer environment",
-                  "Developer API",
-                  "Communication",
-                  "IoT and industrial",
-                  "Big Data Hub",
-                  "Server",
-                  "Switch",
-                  "Router",
-                  "Rack",
-                  "Cooling",
-                  "CPU",
-                  "Radio"
-                ]
+                "$ref": "#/definitions/category_list"
               }
             },
             "similar_solution_list": {
@@ -229,40 +261,14 @@
                     "pattern": "^[a-zA-Z0-9]"
                   },
                   "category": {
-                    "type": "string",
-                    "pattern": "^[a-zA-Z0-9]",
-                    "enum": [
-                      "Storage and database",
-                      "Compute virtualisation",
-                      "Desktop virtualisation",
-                      "vRan",
-                      "Operation management",
-                      "Service lifecycle automation",
-                      "Networking",
-                      "Identity",
-                      "Cybersecurity",
-                      "Application",
-                      "Workspace",
-                      "Developer environment",
-                      "Developer API",
-                      "Communication",
-                      "IoT and industrial",
-                      "Big Data Hub",
-                      "Server",
-                      "Switch",
-                      "Router",
-                      "Rack",
-                      "Cooling",
-                      "CPU",
-                      "Radio"
-                    ]
+                    "$ref": "#/definitions/category_list"
                   }
                 }
               }
             },
             "source_code_download": {
               "anyOf": [{ 
-                "$ref": "#/definitions/saneUrl"
+                "$ref": "#/definitions/sane_url"
               }, { 
                   "type": "string", 
                   "maxLength": 0
@@ -270,7 +276,7 @@
             },
             "source_code_profile": {
               "anyOf": [{ 
-                "$ref": "#/definitions/saneUrl"
+                "$ref": "#/definitions/openhub_url"
               }, { 
                   "type": "string", 
                   "maxLength": 0
@@ -278,7 +284,7 @@
             },
             "commercial_support_url": {
               "anyOf": [{ 
-                "$ref": "#/definitions/saneUrl"
+                "$ref": "#/definitions/sane_url"
               }, { 
                   "type": "string", 
                   "maxLength": 0
@@ -295,7 +301,7 @@
             },
             "wikipedia_url": {
               "anyOf": [{ 
-                "$ref": "#/definitions/saneUrl"
+                "$ref": "#/definitions/wikipedia_url"
               }, { 
                   "type": "string", 
                   "maxLength": 0
@@ -311,7 +317,7 @@
                     "pattern": "^[a-zA-Z0-9]"
                   },
                   "logo_url": {
-                    "$ref": "#/definitions/saneUrl"
+                    "$ref": "#/definitions/sane_url"
                   },
                   "country": {
                     "type": "string",
@@ -319,33 +325,7 @@
                     "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
                   },
                   "industry": {
-                    "type": "string",
-                    "pattern": "^[a-zA-Z0-9]",
-                    "enum": [
-                      "Academia and Research",
-                      "Agriculture and Food",
-                      "Associations and NGOs",
-                      "Aviation and Aerospace",
-                      "Automotive",
-                      "Banking and Finance",
-                      "Chemicals",
-                      "Commerce and Retail",
-                      "Construction",
-                      "Consulting and Training",
-                      "Defense",
-                      "Education",
-                      "Energy and Utilities",
-                      "Health and Life Sciences",
-                      "Housing and Real Estate",
-                      "Insurance",
-                      "Information Technology",
-                      "Manufacturing",
-                      "Media and Entertainment",
-                      "Public Administration and Government",
-                      "Telecommunication",
-                      "Transport",
-                      "Travel and Tourism"
-                    ]
+                    "$ref": "#/definitions/industry_list"
                   }
                 }
               }
@@ -365,38 +345,14 @@
                   },
                   "image_url": {
                     "anyOf": [{ 
-                      "$ref": "#/definitions/saneUrl"
+                      "$ref": "#/definitions/sane_url"
                     }, { 
                         "type": "string", 
                         "maxLength": 0
                     }]
                   },
                   "industry": {
-                    "enum": [
-                      "Academia and Research",
-                      "Agriculture and Food",
-                      "Associations and NGOs",
-                      "Aviation and Aerospace",
-                      "Automotive",
-                      "Banking and Finance",
-                      "Chemicals",
-                      "Commerce and Retail",
-                      "Construction",
-                      "Consulting and Training",
-                      "Defense",
-                      "Education",
-                      "Energy and Utilities",
-                      "Health and Life Sciences",
-                      "Housing and Real Estate",
-                      "Insurance",
-                      "Information Technology",
-                      "Manufacturing",
-                      "Media and Entertainment",
-                      "Public Administration and Government",
-                      "Telecommunication",
-                      "Transport",
-                      "Travel and Tourism"
-                    ]
+                    "$ref": "#/definitions/industry_list"
                   },
                   "customer": {
                     "type": "string",
@@ -413,7 +369,7 @@
                     "description": "A valid 2-digit ISO language code"
                   },
                   "success_case_url": {
-                    "$ref": "#/definitions/saneUrl"
+                    "$ref": "#/definitions/sane_url"
                   }
                 }
               }
