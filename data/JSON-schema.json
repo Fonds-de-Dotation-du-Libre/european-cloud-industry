@@ -73,7 +73,7 @@
             }]
           },
           "coordinate_list": {
-            "description": "Geographical coordinates of the entity",
+            "description": "Geographical coordinates of the entity, [latitude, longitude]",
             "type": "array",
             "maxItems": 2,
             "items": {
@@ -88,10 +88,22 @@
         "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
       },
       "website_url": {
-        "type": "string"
+        "anyOf": [{ 
+            "$ref": "#/definitions/saneUrl"
+        }, { 
+            "type": "string", 
+            "maxLength": 0
+        }]  
       },
       "founded_year": {
-        "type": "integer"
+        "anyOf": [
+          {
+            "type": "integer"
+          },
+          {
+            "type": "string"
+          }
+        ]
       },
       "kpi_list": {
         "type": "array",
@@ -102,7 +114,14 @@
               "type": "integer"
             },
             "staff": {
-              "type": "number"
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "string"
+                }
+              ]
             },
             "earnings": {
               "type": "string",
@@ -120,7 +139,12 @@
               "description": "The ISO 4217 currency code."
             },
             "source_url": {
-              "type": "string"
+              "anyOf": [{ 
+                "$ref": "#/definitions/saneUrl"
+              }, { 
+                "type": "string", 
+                "maxLength": 0
+              }] 
             }
           }
         }
@@ -134,20 +158,27 @@
               "type": "string"
             },
             "logo_url": {
-              "type": "string"
+              "anyOf": [{ 
+                "$ref": "#/definitions/saneUrl"
+              }, { 
+                  "type": "string", 
+                  "maxLength": 0
+              }] 
             },
             "website_url": {
-              "type": "string"
+              "anyOf": [{ 
+                  "$ref": "#/definitions/saneUrl"
+              }, { 
+                  "type": "string", 
+                  "maxLength": 0
+              }] 
             },
             "created_year": {
-              "anyOf": [
-                {
-                  "type": "integer"
-                },
-                {
-                  "type": "string"
-                }
-              ]
+              "anyOf": [{
+                "type": "integer"
+              }, {
+                "type": "string"
+              }]
             },
             "description": {
               "type": "string"
@@ -189,33 +220,67 @@
                 "properties": {
                   "title": {
                     "type": "string",
-                    "minLength":1
+                    "pattern": "^[a-zA-Z0-9]"
                   },
                   "similar_solution_url": {
                     "type": "string",
-                    "minLength":1
+                    "pattern": "^[a-zA-Z0-9]"
                   },
                   "category": {
                     "type": "string",
-                    "minLength":1
-
+                    "pattern": "^[a-zA-Z0-9]",
+                    "enum": [
+                      "Storage and database",
+                      "Compute virtualisation",
+                      "Desktop virtualisation",
+                      "vRan",
+                      "Operation management",
+                      "Service lifecycle automation",
+                      "Networking",
+                      "Identity",
+                      "Cybersecurity",
+                      "Application",
+                      "Workspace",
+                      "Developer environment",
+                      "Developer API",
+                      "Communication",
+                      "IoT and industrial",
+                      "Big Data Hub",
+                      "Server",
+                      "Switch",
+                      "Router",
+                      "Rack",
+                      "Cooling",
+                      "CPU",
+                      "Radio"
+                    ]
                   }
-                },
-                "anyOf": [
-                  {"required": ["title"] },
-                  {"required": ["similar_solution_url"] },
-                  {"required": ["category"] }
-                ]
+                }
               }
             },
             "source_code_download": {
-              "type": "string"
+              "anyOf": [{ 
+                "$ref": "#/definitions/saneUrl"
+              }, { 
+                  "type": "string", 
+                  "maxLength": 0
+              }]
             },
             "source_code_profile": {
-              "type": "string"
+              "anyOf": [{ 
+                "$ref": "#/definitions/saneUrl"
+              }, { 
+                  "type": "string", 
+                  "maxLength": 0
+              }]
             },
             "commercial_support_url": {
-              "type": "string"
+              "anyOf": [{ 
+                "$ref": "#/definitions/saneUrl"
+              }, { 
+                  "type": "string", 
+                  "maxLength": 0
+              }]
             },
             "floss_software": {
               "type": "boolean"
@@ -227,7 +292,12 @@
               "type": "boolean"
             },
             "wikipedia_url": {
-              "type": "string"
+              "anyOf": [{ 
+                "$ref": "#/definitions/saneUrl"
+              }, { 
+                  "type": "string", 
+                  "maxLength": 0
+              }]
             },
             "reference_list": {
               "type": "array",
@@ -235,10 +305,11 @@
                 "type": "object",
                 "properties": {
                   "title": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^[a-zA-Z0-9]"
                   },
                   "logo_url": {
-                    "type": "string"
+                    "$ref": "#/definitions/saneUrl"
                   },
                   "country": {
                     "type": "string",
@@ -246,7 +317,33 @@
                     "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
                   },
                   "industry": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^[a-zA-Z0-9]",
+                    "enum": [
+                      "Academia and Research",
+                      "Agriculture and Food",
+                      "Associations and NGOs",
+                      "Aviation and Aerospace",
+                      "Automotive",
+                      "Banking and Finance",
+                      "Chemicals",
+                      "Commerce and Retail",
+                      "Construction",
+                      "Consulting and Training",
+                      "Defense",
+                      "Education",
+                      "Energy and Utilities",
+                      "Health and Life Sciences",
+                      "Housing and Real Estate",
+                      "Insurance",
+                      "Information Technology",
+                      "Manufacturing",
+                      "Media and Entertainment",
+                      "Public Administration and Government",
+                      "Telecommunication",
+                      "Transport",
+                      "Travel and Tourism"
+                    ]
                   }
                 }
               }
@@ -257,13 +354,20 @@
                 "type": "object",
                 "properties": {
                   "title": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^[a-zA-Z0-9]"
                   },
                   "description": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^[a-zA-Z0-9]"
                   },
                   "image_url": {
-                    "type": "string"
+                    "anyOf": [{ 
+                      "$ref": "#/definitions/saneUrl"
+                    }, { 
+                        "type": "string", 
+                        "maxLength": 0
+                    }]
                   },
                   "industry": {
                     "enum": [
@@ -293,7 +397,8 @@
                     ]
                   },
                   "customer": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^[a-zA-Z0-9]"
                   },
                   "country": {
                     "type": "string",
@@ -306,7 +411,7 @@
                     "description": "A valid 2-digit ISO language code"
                   },
                   "success_case_url": {
-                    "type": "string"
+                    "$ref": "#/definitions/saneUrl"
                   }
                 }
               }
