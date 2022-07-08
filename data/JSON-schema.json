@@ -172,29 +172,41 @@
               "type": "integer"
             },
             "staff": {
-              "anyOf": [
-                {
-                  "type": "integer"
-                },
-                {
-                  "type": "string"
-                }
-              ]
+              "anyOf": [{
+                "type": "integer"
+              }, {
+                "type": "string"
+              }]
             },
             "earnings": {
-              "type": "string",
-              "pattern": "\\d*\\s{1}[A-Z]{3}",
-              "description": "The ISO 4217 currency code."
+              "anyOf": [{
+                "type": "string",
+                "pattern": "\\d*\\s{1}[A-Z]{3}",
+                "description": "The ISO 4217 currency code."
+              }, {
+                "type": "string",
+                "maxLength": 0
+              }]
             },
             "total_assets": {
-              "type": "string",
-              "pattern": "\\d*\\s{1}[A-Z]{3}",
-              "description": "The ISO 4217 currency code."
+              "anyOf": [{
+                "type": "string",
+                "pattern": "\\d*\\s{1}[A-Z]{3}",
+                "description": "The ISO 4217 currency code."
+              }, {
+                "type": "string",
+                "maxLength": 0
+              }]
             },
             "revenues": {
-              "type": "string",
-              "pattern": "\\d*\\s{1}[A-Z]{3}",
-              "description": "The ISO 4217 currency code."
+              "anyOf": [{
+                "type": "string",
+                "pattern": "\\d*\\s{1}[A-Z]{3}",
+                "description": "The ISO 4217 currency code."
+              }, {
+                "type": "string",
+                "maxLength": 0
+              }]
             },
             "source_url": {
               "anyOf": [{ 
