@@ -77,7 +77,9 @@
             "type": "array",
             "maxItems": 2,
             "items": {
-              "type": "number"
+              "type": "number",
+              "minimum": -180,
+              "maximum": 180
             }
           }
         }
