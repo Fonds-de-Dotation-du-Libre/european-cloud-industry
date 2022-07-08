@@ -1,7 +1,7 @@
 {
-	"created": "07-04-2022",
-	"title": "Codesys Group",
-	"type": "Company",
+	"created": "2022-04-07",
+	"title": "Codesys",
+	"type": "Organisation",
 	"logo_url": "https://www.codesys.com/typo3conf/ext/template87/Resources/Public/Images/CODESYS_logo_ds.svg",
 	"location": {
 		"title": "Codesys Group",
@@ -59,11 +59,7 @@
 			"created_year": "",
 			"description": "CODESYS is the leading software platform for IEC 61131-3 compliant project engineering. The development system combines classic programming of controller applications with the capabilities of professional software development for automation devices in the environment of Industry 4.0/IIoT (Industrial Internet of Things).",			
 			"category_list": ["Developer environment"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "https://github.com/topics/codesys",
 			"source_code_profile": "",
@@ -81,11 +77,7 @@
 			"created_year": "",
 			"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",			
 			"category_list": ["Developer environment"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": ["Single Device License"],
 			"source_code_download": "https://github.com/topics/codesys",
 			"source_code_profile": "",
@@ -103,11 +95,7 @@
 			"created_year": "",
 			"description": "For the administration of compatible devices, an industry 4.0 platform is available, which allows, for example, the storage of projects in source and binary code via web browser and their download to connected devices. The platform is hosted in a public cloud. ",			
 			"category_list": ["IoT and industrial"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -182,11 +170,7 @@
 			"created_year": "",
 			"description": "CODESYS provides seamlessly integrated configurators for a wide variety of fieldbus systems for configuring the process image of controllers:",			
 			"category_list": ["IoT and industrial"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -204,11 +188,7 @@
 			"created_year": "",
 			"description": "For the exchange of data with other devices in control networks, CODESYS can seamlessly integrate and use communication protocols. These include proprietary protocols, standardized protocols in automation technology, such as OPC and OPC UA, standard protocols for serial and Ethernet interfaces as well as standard protocols of web technology, such as MQTT or https. The latter are also offered in the form of encapsulated libraries for simplified access to public clouds from AWS or Microsoft (Azure).",			
 			"category_list": ["IoT and industrial"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -226,11 +206,7 @@
 			"created_year": "",
 			"description": "Logic control and motion integrated in one single IEC 61131-3 system: Development kit for everything from basic motion applications to advanced CNC and robotic controllers.",			
 			"category_list": ["IoT and industrial"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -248,11 +224,7 @@
 			"created_year": "",
 			"description": "Integrated Safety Software certified according to DIN 61508 - suitable solutions for all SIL2 and SIL3 application areas",			
 			"category_list": ["Cybersecurity"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
@@ -271,11 +243,7 @@
 			"created_year": "",
 			"description": "Training, consulting and development directly from the manufacturer of CODESYS.",			
 			"category_list": ["Communication"],
-			"similar_solution_list": [{
-				"title": "",
-				"similiar_solution_url": "",
-				"category": ""
-			}],
+			"similar_solution_list": [],
 			"licence_list": [],
 			"source_code_download": "",
 			"source_code_profile": "",
