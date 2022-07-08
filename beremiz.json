@@ -1,7 +1,7 @@
 {
   "created": "2022-05-02",
   "title": "Beremiz",
-  "type": "other",
+  "type": "Other",
   "logo_url": "https://beremiz.org/home_logo.png",
   "location": {
     "title": "Beremiz",
@@ -27,7 +27,7 @@
     "similar_solution_list": [{
       "title": "Xul Dev",
       "similiar_solution_url": "http://xuldev.sourceforge.net/",
-      "category": "developer"
+      "category": "Developer environment"
     }],
     "licence_list": [" GNU GENERAL PUBLIC LICENSE version 2"],
     "source_code_download": "https://beremiz.org/download",
