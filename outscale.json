@@ -59,11 +59,7 @@
 		"created_year": 2010,
 		"description": "Cloud Sprint is an intensive hands-on workshop that accelerates a customer's application migration to Google Cloud Platform (GCP).",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -72,29 +68,15 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Outscale for Entrepreneurs",
 		"logo_url": "https://en.outscale.com/wp-content/uploads/2019/03/Hexagone_O4E.png",
 		"website_url": "https://en.outscale.com/outscale-for-entrepreneurs/",
 		"created_year": 2010,
 		"description": "OUTSCALE for Entrepreneurs’ mission is to support fast-growing startups that encourage sustainable and responsible innovations, placing people at the heart of technological concerns for current and future generations, and enabling the industrial control of their growth.",
-		"category_list": ["Operation Management"],
+		"category_list": ["Operation management"],
 		"similar_solution_list": [{
 			"title": "",
 			"similiar_solution_url": "",
@@ -108,29 +90,15 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "3D Outscale",
 		"logo_url": "https://en.outscale.com/wp-content/uploads/2019/03/Hexagone_O4E.png",
 		"website_url": "https://en.outscale.com/outscale-for-entrepreneurs/",
 		"created_year": 2010,
 		"description": "Founded in 2010 and a strategic partner of Dassault Systèmes, 3DS OUTSCALE is at the forefront of Cloud Computing infrastructure services (IaaS). 3DS OUTSCALE’s technology makes an automated and adaptable Cloud available to businesses, supporting them in the most complex IT projects while controlling their operational aspects. You boost your IT infrastructure’s reactivity, with request responses that only take a few seconds.",
-		"category_list": ["Operation Management"],
+		"category_list": ["Operation management"],
 		"licence_list": ["BSD 3-Clause New or Revised"],
 		"source_code_download": "https://github.com/outscale/osc-cli",
 		"source_code_profile": "",
@@ -139,21 +107,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"ifndustry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
