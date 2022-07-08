@@ -56,7 +56,7 @@
 		"title": "Framasoft",
 		"logo_url": "https://framasoft.org/img/biglogo-notxt.png",
 		"website_url": "https://framasoft.org/en/",
-		"created_year": null,
+		"created_year": "",
 		"description": "A network dedicated to globally promoting “free” and particularly free software with many services and innovative projects freely put at the disposal of the general public.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [],
@@ -128,9 +128,9 @@
 		"source_code_download": "https://github.com/framasoft/framapad.git",
 		"source_code_profile": "https://www.openhub.net/p/etherpad_lite/analyses/latest/languages_summary",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
@@ -174,9 +174,9 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
@@ -204,43 +204,43 @@
 		"website_url": "https://joinpeertube.org/",
 		"created_year": 2018,
 		"description": "PeerTube is a free, open-source, decentralized video platform",
-		"category_list": ["Information Technology", "Media and Entertainment"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Youtube",
 			"similiar_solution_url": "https://www.youtube.com/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "WebTorrent",
 			"similiar_solution_url": "https://webtorrent.io/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "Vimeo",
 			"similiar_solution_url": "https://vimeo.com/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "Dailymotion",
 			"similiar_solution_url": "https://www.dailymotion.com/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "LBRY",
 			"similiar_solution_url": "https://lbry.com/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "Odysee",
 			"similiar_solution_url": "https://odysee.com/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "Twitch",
 			"similiar_solution_url": "https://www.twitch.tv/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "DTube",
 			"similiar_solution_url": "https://d.tube/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}, {
 			"title": "VidLii",
 			"similiar_solution_url": "https://www.vidlii.com/",
-			"category": ["Information Technology", "Media and Entertainment"]
+			"category": "Application"
 		}],
 		"licence_list": ["AGPLv3.0"],
 		"source_code_download": "https://github.com/Chocobozzz/PeerTube.git",
