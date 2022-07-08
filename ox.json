@@ -49,14 +49,10 @@
 		"title": "OX Dovecot Pro",
 		"logo_url": "https://www.open-xchange.com/hubfs/csm_IMAP-01_003fa58b26.png",
 		"website_url": "https://www.open-xchange.com/products/ox-dovecot-pro/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "The world’s market-leading IMAP server, OX Dovecot Pro, delivers dynamic scalability, high performance, efficient utilization of hardware and outstanding support to the world’s largest Telcos and ISP's.",
 		"category_list": ["Server"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
 		"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
@@ -65,34 +61,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OX PowerDNS Recursor",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-recursor/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "With OX PowerDNS Recursor, Internet Service Providers can provide a fast and reliable DNS service, enabling a secure internet experience for subscribers and their personal devices, including laptops, tablets and mobile phones, as well as the many IoT devices that are already in use.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
 		"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
@@ -101,34 +79,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "DNSdist",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/dnsdist/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "DNSdist is a unique DNS proxy and load balancer that brings out the best possible performance in any DNS deployment. It optimizes DNS traffic in front of the OX PowerDNS Recursor, and both are normally deployed together to provide an unrivaled feature set for DNS services.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
 		"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
@@ -137,34 +97,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OX PowerDNS Cloud Control",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-cloud-control/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "Increase scalability, reduce costs and manage your DNS more efficiently. Benefit from DNS containerization, automation, orchestration and lifecycle management, monitoring and alerting, combined in a single interface for configuration and operations.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
 		"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
@@ -173,34 +115,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OX PowerDNS Authoritative Server",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-powerdns-authoritative/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "The OX PowerDNS Authoritative Server is a versatile authoritative server for hosting domain names. It rapidly responds to recursive nameservers, helping hosters offer a high-performing authoritative service for their domain customers.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
 		"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
@@ -209,27 +133,13 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OX Protect for families",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-protect-for-families/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "Children nowadays not only play with the kids next door – the online world also plays an increasingly important role in their life from a young age and comes with many advantages. However, it also comes with some challenges, including access to inappropriate content such as gambling, violence, cyberbullying and adult content.",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
@@ -245,27 +155,13 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Ox Protect for malware",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-protect-for-malware/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "OX Protect for Malware secures your subscribers’ connected devices in their home network or while they are on the move in your mobile network. Smartphones, tablets and laptops, as well as IoT devices are all protected against malware, phishing and other malicious online threats.",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
@@ -289,34 +185,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OX Abuse shield",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-abuse-shield/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "OX Abuse Shield protects against threats in internet-connection authentication systems, including portals, webmail, IMAP and POP, SMTP and any other protocol.",
 		"category_list": ["Cybersecurity"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/open-xchange",
 		"source_code_profile": "https://www.openhub.net/p/open-xchange-frontend-old",
@@ -325,27 +203,13 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OX App Suite",
 		"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 		"website_url": "https://www.open-xchange.com/products/ox-app-suite/?hsLang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "OX App Suite just got better. Already in use by 150 million users worldwide. Our easy-to-use Small Businesses email and communication tools are now available as part of OX Cloud",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
@@ -361,21 +225,7 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Open-Xchange",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
