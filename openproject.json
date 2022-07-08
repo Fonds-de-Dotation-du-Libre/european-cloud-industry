@@ -364,43 +364,43 @@
 		}, {
 			"title": "Project Manager",
 			"similiar_solution_url": "https://www.projectmanager.com/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Basecamp",
 			"similiar_solution_url": "https://basecamp.com/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Redmine",
 			"similiar_solution_url": "https://www.redmine.org/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Asana",
 			"similiar_solution_url": "https://asana.com/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "ZenTao",
 			"similiar_solution_url": "https://www.zentao.pm/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Campr",
 			"similiar_solution_url": "https://campr.biz/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Roadmap Planner",
 			"similiar_solution_url": "https://www.roadmap-planner.io/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Jira",
 			"similiar_solution_url": "https://www.atlassian.com/software/jira",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Wrike",
 			"similiar_solution_url": "https://www.wrike.com/vm/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "TeamGantt",
 			"similiar_solution_url": "https://www.teamgantt.com/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}],
 		"licence_list": ["GPLv3"],
 		"source_code_download": "https://github.com/opf/openproject.git",
@@ -424,7 +424,7 @@
 			"title": "Sanofi",
 			"logo_url": "https://www.sanofi.com/-/media/Project/One-Sanofi-Web/shared/layout/new-branding/logo-header-color-large.png?h=20&la=fr&w=76&hash=1887F5B9845D9D9D93B76AE588937423",
 			"country": "FR",
-			"industry": "Healthcare"
+			"industry": "Health and Life Sciences"
 		}, {
 			"title": "Greenpeace",
 			"logo_url": "https://www.greenpeace.org/global/static/img/gp-logo.svg",
@@ -444,25 +444,25 @@
 			"title": "Fela",
 			"logo_url": "https://www.fela.ch/img/grundlayout/fela-gruppe-logo.jpg",
 			"country": "CH",
-			"industry": "Engineering"
+			"industry": "Manufacturing"
 		}, {
 			"title": "Thompson Reuters",
-			"logo_url": "",
+			"logo_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJw0yCmclzu3oEsEOniQ-nU6-qCNEC8Vu7r6Wg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1",
 			"country": "US",
 			"industry": "Banking and Finance"
 		}, {
 			"title": "Deloitte",
-			"logo_url": "",
+			"logo_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.I8oa8fJhLHp2SAzMNTD_1wHaBY%26pid%3DApi&f=1",
 			"country": "GB",
 			"industry": "Banking and Finance"
 		}, {
 			"title": "CITIC Group",
-			"logo_url": "",
+			"logo_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogok.org%2Fwp-content%2Fuploads%2F2015%2F03%2FCITIC-Group-logo.png&f=1&nofb=1",
 			"country": "CH",
 			"industry": "Banking and Finance"
 		}, {
 			"title": "Suzuki",
-			"logo_url": "",
+			"logo_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fcrash.net%2Fvisordown.com%2Ffield%2Fimage%2FSuzuki-logo.png&f=1&nofb=1",
 			"country": "JP",
 			"industry": "Automotive"
 		}, {
@@ -472,11 +472,11 @@
 			"industry": "Manufacturing"
 		}, {
 			"title": "EnBW",
-			"logo_url": "",
+			"logo_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.ctfassets.net%2Fupmoejz03x66%2F3Qp8saRgmqtiF5IacTzgkO%2Fd86e698e0dd4bd0e386f9eb8ce65db6d%2Fenbw-logo.jpg%3Ffl%3Dprogressive&f=1&nofb=1",
 			"country": "DE",
 			"industry": "Energy and Utilities"
 		},{
-			"title": "Todico",
+			"title": "T./odico",
 			"logo_url": "",
 			"country": "FR",
 			"industry": "Manufcaturing"
