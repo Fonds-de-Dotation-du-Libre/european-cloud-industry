@@ -37,15 +37,15 @@
 		"website_url": "https://www.olimex.com/wiki/OLinuXino#What_is_OLinuXino.3F",
 		"created_year": 2016,
 		"description": "OLinuXino are series of powerful Linux-enabled Open Source Software and Open Source Hardware Open Source Hardware boards, designed and manufactured by Olimex LTD in Plovdiv, Bulgaria. The boards from the OLinuXino family can be manufactured with components suitable for operation in either industrial (-40+85)C or commercial (0-70)C temerpature range. Different OLinuXino boards use processors from different manufacturers - Allwinner, Freescale, Rockchip and so on.",
-		"category_list": ["Servers"],
+		"category_list": ["Server"],
 		"similar_solution_list": [{
 			"title": "Raspberry Pi",
 			"similiar_solution_url": "https://www.raspberrypi.org/",
-			"category": "Servers"
+			"category": "Server"
 		}, {
 			"title": "Orange Pi",
 			"similiar_solution_url": "http://www.orangepi.org/",
-			"category": "Servers"
+			"category": "Server"
 		}],
 		"licence_list": ["GPL"],
 		"source_code_download": "",
