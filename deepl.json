@@ -19,28 +19,28 @@
 	"founded_year": 2017,
 	"kpi_list": [{
 		"year": 2020,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "21 579 422 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de"
 	}, {
 		"year": 2019,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "16 969 363 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "14 025 004 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2017,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "4 830 110 EUR",
 		"revenues": "",
@@ -104,7 +104,7 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.deepl.com/fr/pro?cta=header-prices/",
-		"floss_software": null,
+		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
