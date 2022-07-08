@@ -21,7 +21,7 @@
 		"title": "Dovecot",
 		"logo_url": "https://www.dovecot.org/wp-content/uploads/2021/09/dovecot_logo.png",
 		"website_url": "https://www.dovecot.org/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Dovecot is an open-source IMAP and POP3 server for Unix-like operating systems, written primarily with security in mind. Timo Sirainen originated Dovecot and first released it in July 2002. Dovecot developers primarily aim to produce a lightweight, fast and easy-to-set-up open-source email server.",		
 		"category_list": ["Server"],
 		"similar_solution_list": [{
@@ -37,21 +37,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Dovecot_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
