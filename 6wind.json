@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-23",
 	"title": "Worteks",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
 	"location": {
 		"title": "Worteks Siège Social",
@@ -136,15 +136,11 @@
 		"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
 		"category_list": ["Operation management"],
 		"similar_solution_list": [{
-			"title": "pwm-project",
-			"similiar_solution_url": "",
-			"category": "Operation management"
-			}, {
-			"title": "",
-			"similiar_solution_url": "",
-			"category": "Operation management"
-			}],
-		"licence_list": [""],
+		  "title": "pwm-project",
+		  "similiar_solution_url": "",
+		  "category": "Operation management"
+		}],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -161,15 +157,7 @@
 		"created_year": "",
 		"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
 		"category_list": ["Operation management"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": "Operation management"
-			}, {
-			"title": "",
-			"similiar_solution_url": "",
-			"category": "Operation management"
-			}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
