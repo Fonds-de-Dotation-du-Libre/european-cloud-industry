@@ -45,12 +45,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "France embraces Matrix to build Tchap.",
 			"description": "Recent years have seen a step-change in French politics. An unprecedented modernisation agenda has created new ways of working for government officials and civil servants.",
@@ -58,7 +53,7 @@
 			"industry": "Telecommunication",
 			"customer": "The French Government",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://element.io/case-studies/tchap"
 		}, {
 			"title": "Safe, inclusive communications for the University of Innsbruck",
@@ -67,7 +62,7 @@
 			"industry": "Telecommunication",
 			"customer": "The University of Innsbruck",
 			"country": "AT",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://element.io/case-studies/university-of-innsbruck"
 		}, {
 			"title": "The Bundeswehr builds on Matrix",
@@ -76,7 +71,7 @@
 			"industry": "Defense",
 			"customer": "Bundeswehr",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://element.io/case-studies/bundeswehr"
 		}, {
 			"title": "Handmade Seattle uses Element Matrix Services as pop-up hallways, water coolers and coffee shops",
@@ -85,7 +80,7 @@
 			"industry": "Information Technology",
 			"customer": "Handmade Seattle",
 			"country": "US",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://element.io/case-studies/handmade-seattle"
 		}]
 	}, {
@@ -108,27 +103,13 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "element Home",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
 		"website_url": "https://element.io/element-home",
-		"created_year": "2016",
+		"created_year": 2016,
 		"description": "Element Home gives you five user accounts, a customisable Element subdomain and matching IDs. And it’s all supported by a fully managed homeserver for fast performance.",		
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
@@ -144,22 +125,8 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "element Enterprise",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
@@ -184,22 +151,8 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "element App Store",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
@@ -220,22 +173,8 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "element Matrix services",
 		"logo_url": "https://element.io/images/logo-mark-primary.svg",
@@ -257,21 +196,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Element_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
