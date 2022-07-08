@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-25",
 	"title": "Open Project",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://www.openproject.org/assets/images/press/openproject-logo-original-color-96caa456.png",
 	"location": {
 		"title": "OpenProject GmbH",
@@ -18,49 +18,49 @@
 	"founded_year": 2012,
 	"kpi_list": [{
 		"year": 2019,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "704 528 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "641 079 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2017,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 401 447 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2016,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 313 605 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2015,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 504 384 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2014,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 438 235 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2013,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "1 188 022 EUR",
 		"revenues": "",
@@ -70,7 +70,7 @@
 		"title": "OpenProject Timeline",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/timeline-project-management/",
-		"created_year": null,
+		"created_year": "",
 		"description": "The timeline project management lets the user schedule asks and visualize the required steps to complete a project while being updated automatically in sync with the Gantt Chart, so the team is always informed about the current status, or possible delays and can act accordingly.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
@@ -128,7 +128,7 @@
 			"country": "DE",
 			"industry": "Information Technology"
 		}, {
-			"title": "",
+			"title": "Technische Universität Berlin",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tu-berlin-07fc6dfd.svg",
 			"country": "DE",
 			"industry": "Information Technology"
@@ -136,7 +136,7 @@
 			"title": "DB Bahn",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-deutsche-bahn-ad93ff9c.svg",
 			"country": "DE",
-			"industry": "Transportation"
+			"industry": "Transport"
 		}, {
 			"title": "Fraunhofer",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-fraunhofer-60ef0970.svg",
@@ -211,7 +211,7 @@
 			"title": "Giz",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-giz-894e438a.svg",
 			"country": "DE",
-			"industry": "Associationd and NGOs"
+			"industry": "Associations and NGOs"
 		}, {
 			"title": "Landtag Brandenburg",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-landtag-brandenburg-f2334a85.svg",
@@ -221,7 +221,7 @@
 			"title": "Kronos",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-kronos-d2352eaa.svg",
 			"country": "DE",
-			"industry": "Cosnulting and training"
+			"industry": "Consulting and Training"
 		}, {
 			"title": "Windmöller & Hölscher",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-windmoeller_960w-8fa91d66.webp",
@@ -230,7 +230,7 @@
 		}, {
 			"title": "EEX",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-eex-3977f204.svg",
-			"country": "",
+			"country": "EU",
 			"industry": "Energy and Utilities"
 		}, {
 			"title": "Deutshces Museum",
@@ -273,28 +273,15 @@
 			"country": "US",
 			"industry": "Academia and Research"
 		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}, {
 		"title": "OpenProject Agile & Scrum",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/scrum-agile-boards/",
-		"created_year": null,
+		"created_year": "",
 		"description": "The flexible Scrum and Agile Boards in OpenProject are designed to organize and prioritize teams’ work, keep an eye on everything that is important such as managing tasks, developing new features, and visualize the progress of work to be done in a project through unlimited boards, cards and lists that can be shared to facilitate collaborative work.",
-		"category_list": ["Workapce"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"category_list": ["Workspace"],
+		"similar_solution_list": [],
 		"licence_list": ["GPL"],
 		"source_code_download": "https://github.com/opf",
 		"source_code_profile": "",
@@ -303,34 +290,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OpenProject Task Management",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/task-management-software/",
-		"created_year": null,
+		"created_year": "",
 		"description": "OpenProject's task management software enables easy management of  work by creating, assigning tasks and keeping an eye on the teams’ progression thanks to the dynamic task list. Project planning is also made simpler with the Gantt Chart that allows you to navigate between projeects and set dates and relationships between tasks.",
 		"category_list": ["Workspace"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["GPL"],
 		"source_code_download": "https://github.com/opf",
 		"source_code_profile": "",
@@ -339,34 +308,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OpenProject Time Tracking",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/time-tracking-software/",
-		"created_year": null,
+		"created_year": "",
 		"description": "OpenProject enables professional project controlling and cost analysis. Time and costs can be easily tracked on tasks and budget dashboards provide a top-level overview of budgets as well as a detailed analysis of time and costs.",
 		"category_list": ["Workspace"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["GPL"],
 		"source_code_download": "https://github.com/opf",
 		"source_code_profile": "",
@@ -375,34 +326,16 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OpenProject Bug Tracking",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/bug-tracking-software/",
-		"created_year": null,
+		"created_year": "",
 		"description": "OpenProject enables structured software testing and bug tracking with detailed views on priorities, statuses and activities as well as customized workflows that allow best tracking and visibility, and provide an optimal base for decisions.",
 		"category_list": ["Workspace"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["GPL"],
 		"source_code_download": "https://github.com/opf",
 		"source_code_profile": "",
@@ -411,37 +344,23 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OpenProject Roadmap",
 		"logo_url": "",
 		"website_url": "https://www.openproject.org/collaboration-software-features/product-roadmap-software/",
-		"created_year": null,
+		"created_year": "",
 		"description": "The product Roadmap communicates what you are building and why you are working on this, providing an overview across multiple projects, a visual timeline to witness the progress, analyzes statuses, priorities assignments to only provide informations to authorized users.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Monday.com",
 			"similiar_solution_url": "https://monday.com/",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Trello",
 			"similiar_solution_url": "https://trello.com/home",
-			"category": "Information Technology"
+			"category": "Workspace"
 		}, {
 			"title": "Project Manager",
 			"similiar_solution_url": "https://www.projectmanager.com/",
