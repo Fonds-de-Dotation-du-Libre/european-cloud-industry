@@ -43,7 +43,7 @@
             "description": "Entity address"
           },
           "postal-code": {
-            "description": "Entity postal",
+            "description": "Entity postal code",
             "type": "string"
           },
           "city": {
@@ -60,8 +60,8 @@
             "type": "string"
           },
           "mail_contact": {
+            "description": "Entity email contact",
             "anyOf": [{ 
-              "description": "Entity email contact",
               "type": "string",
               "pattern": "^\\S+@\\S+\\.\\S+$",
               "format": "email",
