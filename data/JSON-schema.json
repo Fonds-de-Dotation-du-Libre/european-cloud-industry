@@ -6,7 +6,7 @@
     "definitions": {
       "sane_url": { "format": "uri", "pattern": "^https?://" },
       "openhub_url": {"format": "uri", "pattern": "https://www.openhub.net/p/.*/analyses/latest/languages_summary"},
-      "wikipedia_url": {"format": "uri", "pattern": "https://en.wikipedia.org/wiki/.*"},
+      "wikipedia_url": {"format": "uri", "pattern": "https://[a-z]+.wikipedia.org/wiki/.*"},
       "organisation_list": {
         "enum": [
           "Organisation",
