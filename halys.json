@@ -21,7 +21,7 @@
 		"title": "Halys PMR",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 		"website_url": "https://www.halys.fr/solutions?lang=en",
-		"created_year": null,
+		"created_year": "",
 		"description": "Halys' PMR solution enable to acces to a private and autonomous 4G/ 5G networks everywhere, using and accessing to applications and MCS (Mission Criticial Solutions).",
 		"category_list": ["Networking"],
 		"licence_list": [],
@@ -32,22 +32,8 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	},{
 		"title": "Halys MNO / MVNO",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
@@ -59,26 +45,12 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.halys.fr/contact",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	},{
 		"title": "Halys MNO / MVNO",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
@@ -90,25 +62,11 @@
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.halys.fr/contact",
-		"floss_software": false,
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
