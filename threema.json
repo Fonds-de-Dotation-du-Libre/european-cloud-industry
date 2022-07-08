@@ -1,7 +1,7 @@
 {
 	"created": "2022-06-30",
 	"title": "Threema GmbH",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://threema.ch/images/icons/threema-icon.svg",
 	"location": {
 		"title": "Threema GmbH",
@@ -117,7 +117,7 @@
 			"industry": "Automotive",
 			"customer": "Daimler AG",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Exchange of Public, Private, and Confidential Information in Real Time",
@@ -126,7 +126,7 @@
 			"industry": "Automotive",
 			"customer": "Mercedes-Benz india",
 			"country": "IN",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Threema Work Integration: Alerting and Fast Information Distribution",
@@ -135,7 +135,7 @@
 			"industry": "Commerce and Retail",
 			"customer": "Edeka",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Service reporting and order placement via messenger",
@@ -144,7 +144,7 @@
 			"industry": "Construction",
 			"customer": "TK Elevator",
 			"country": "DE",
-			"language": "DE",
+			"language": "de",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		},{
 			"title": "Communication Services for Financial Market Participants",
@@ -153,7 +153,7 @@
 			"industry": "Banking and Finance",
 			"customer": "SIX",
 			"country": "CH",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://threema.ch/en/work/clients"
 		}]
 	}, {

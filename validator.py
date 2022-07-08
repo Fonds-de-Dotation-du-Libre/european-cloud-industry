@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 
 import glob, json, os, sys
+
+sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/jsonschema-3.0.2-py2.7.egg")
+sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/attrs-18.2.0-py2.7.egg")
+sys.path.append('/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/six-1.12.0-py2.7.egg')
+sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/develop-eggs/pyrsistent-0.16.1-py2.7-linux-x86_64.egg")
+
+
 from jsonschema import validate
 from jsonschema.exceptions import ValidationError
 
@@ -25,7 +32,7 @@ for fn in filenames:
     try:
         validate(instance=data, schema=SCHEMA[0])
     except ValidationError as e:
-        invalid_json_list.append({"file":fn, "error": e.message})
+        invalid_json_list.append({"file":fn, "error": e.message, "path": e.absolute_path})
         continue
 
     print(f"{fn} -> OK")
@@ -39,5 +46,5 @@ for fn in incorrect_json_list:
 
 print("\nfollowing file are invalide:\n")
 for fn in invalid_json_list:
-  print(f"{fn['file']}: {fn['error']}")
+  print(f"{fn['file']}: {fn['error']} at {fn['path']}")
 

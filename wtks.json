@@ -1,10 +1,10 @@
 {
   "created": "2022-03-23",
   "title": "Worteks",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://www.worteks.com/assets/images/logo-barre-menu2.png",
   "location": {
-    "title": "Worteks Siège Social ",
+    "title": "Worteks",
     "address": "7 rue Diderot",
     "postal_code": "92000",
     "city": "Nanterre",

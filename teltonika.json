@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-06",
 	"title": "Teltonika IoT Group",
-	"type": "Comapny",
+	"type": "Organisation",
 	"logo_url": "https://teltonika-iot-group.com/images/branches/iot-white.svg",
 	"location": {
 		"title": "Teltonika",
@@ -27,7 +27,7 @@
 		"year": 2019,
 		"staff": "",
 		"earnings": "11 044 100 EUR",
-		"total_assets": "22 777 620 eUR",
+		"total_assets": "22 777 620 EUR",
 		"revenues": "79 228 742 EUR",
 		"source_url": "https://rekvizitai.vz.lt/en/company/teltonika/turnover/"
 	}, {

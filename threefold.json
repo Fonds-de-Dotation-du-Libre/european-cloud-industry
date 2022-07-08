@@ -1,7 +1,7 @@
 {
   "created": "2022-04-06",
   "title": "Threefold",
-  "type": "NGO",
+  "type": "Association",
   "logo_url": "https://threefold.io/assets/static/tft_color_logo.3e8a41b.7b655c36cc78de99d8ef9da582b8cc8c.svg",
   "location": {
     "title": "Threefold Tech",
@@ -54,7 +54,7 @@
       "category": "Application"
     }],
     "licence_list": ["Apache-2.0"],
-    "source_code_download": "hhttps://github.com/threefoldfoundation/home.git",
+    "source_code_download": "https://github.com/threefoldfoundation/home.git",
     "source_code_profile": "",
     "commercial_support_url": "",
     "floss_software": true,
