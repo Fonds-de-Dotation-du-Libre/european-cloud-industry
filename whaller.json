@@ -32,7 +32,7 @@
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "-452 444 EUR",
 		"total_assets": "644 587 EUR",
 		"revenues": "506 977 EUR",
@@ -82,12 +82,12 @@
 			"industry": "Academia and Research"
 		},{
 			"title": "EcolePolytechnique",
-			"logo_url": "",
+			"logo_url": "https://www.polytechnique.edu/sites/default/files/nc-project/footer/logo.png",
 			"country": "FR",
 			"industry": "Academia and Research"
 		},{
 			"title": "Université Paris Saclay",
-			"logo_url": "",
+			"logo_url": "https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg",
 			"country": "FR",
 			"industry": "Academia and Research"
 		},{
@@ -97,7 +97,7 @@
 			"industry": "Academia and Research"
 		},{
 			"title": "TEN-NIS",
-			"logo_url": "",
+			"logo_url": "https://www.fft.fr/sites/default/files/2019-05/fft.svg",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
@@ -113,11 +113,6 @@
 		},{
 			"title": "Espérance Banlieues",
 			"logo_url": "https://esperancebanlieues.org/wp-content/themes/EB1/assets/svg/logo-blue.svg",
-			"country": "FR",
-			"industry": "Associations and NGOs"
-		},{
-			"title": "LEGEBAD",
-			"logo_url": "",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
@@ -147,7 +142,7 @@
 			"industry": "Education"
 		},{
 			"title": "BNP Paribas",
-			"logo_url": "",
+			"logo_url": "https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png",
 			"country": "FR",
 			"industry": "Banking and Finance"
 		},{
@@ -167,7 +162,7 @@
 			"industry": "Public Administration and Government"
 		},{
 			"title": "France TV",
-			"logo_url": "",
+			"logo_url": "https://www.france.tv/images/france-tv-white.svg",
 			"country": "FR",
 			"industry": "Media and Entertainment"
 		},{
@@ -177,7 +172,7 @@
 			"industry": "Associations and NGOs"
 		},{
 			"title": "Club de sport, Coeur du Sport",
-			"logo_url": "",
+			"logo_url": "https://www.clubcardiosport.com/sites/www.clubcardiosport.com/themes/custom/specific/logo.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{

@@ -152,7 +152,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "NHS",
 			"country": "GB",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.wallix.com/success-stories/nhs-birmingham"
 		}, {
 			"title": "POST Luxembourg chose WALLIX Bastion to strengthen its internal infrastructure and customer security",
@@ -161,7 +161,7 @@
 			"industry": "Transport",
 			"customer": "Post Luxembourg",
 			"country": "LU",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://www.wallix.com/success-stories/post-luxembourg"
 		}, {
 			"title": "European Spallation Source (ESS) chose WALLIX Bastion to secure remote access to sensitive international research equipment",
@@ -170,7 +170,7 @@
 			"industry": "Academia and Research",
 			"customer": "European Spallation Source (ESS)",
 			"country": "SE",
-			"language": "SV",
+			"language": "en",
 			"success_case_url": "https://www.wallix.com/success-stories/ess"
 		}, {
 			"title": "Bank of Africa chooses WALLIX Bastion to secure access to its IT systems",
@@ -179,7 +179,7 @@
 			"industry": "Banking and Finance",
 			"customer": "Bank of Africa",
 			"country": "FR",
-			"language": "FR",
+			"language": "en",
 			"success_case_url": "https://www.wallix.com/success-story/bank-of-africa"
 		}]
 	}, {
@@ -206,7 +206,7 @@
 			"industry": "Agriculture and Food",
 			"customer": "The Ministry of Agriculture, Forestry, and Water Management of the Republic of Serbia",
 			"country": "RS",
-			"language": "SR",
+			"language": "sr",
 			"success_case_url": "https://www.wallix.com/success-stories/ministry-of-agriculture-forestry-and-water-management-of-serbia"
 		}]
 	}, {

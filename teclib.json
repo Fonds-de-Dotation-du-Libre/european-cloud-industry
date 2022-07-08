@@ -63,7 +63,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Ministry of Sciences and innovation of Spain",
 			"country": "ES",
-			"language": "ES",
+			"language": "en",
 			"success_case_url": "https://www.teclib-edition.com/en/glpi-success-case-ministry-of-science-and-innovation-of-spain/"
 		}, {
 			"title": "GLPI success case: CreditLogic",
@@ -72,7 +72,7 @@
 			"industry": "Information Technology",
 			"customer": "Ministry of Sciences and innovation of Spain",
 			"country": "IE",
-			"language": "EN",
+			"language": "en",
 			"success_case_url": "https://glpi-project.org/fr/glpi-success-case-creditlogic/"
 		}]
 	}, {
@@ -134,11 +134,7 @@
 		"created_year": "",
 		"description": "Limpid is an open source virtual desktop infrastructure (VDI) software for secure deployment of Windows or Linux desktops. Thanks to its architecture, Limpid allows all types of companies implement remote office simply and quickly …",
 		"category_list": ["Desktop virtualisation"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -156,11 +152,7 @@
 		"created_year": "",
 		"description": "Secure Access is SaaS for remote work, that can be used through a web browser. It can handle simultaneously several hundreds connections and works with VNC, RDP and SSH protocols. It requires no software nor plugin installation. ",
 		"category_list": ["Desktop virtualisation"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",

@@ -41,15 +41,15 @@
     "similar_solution_list": [{
       "title": "VM Ware",
       "similiar_solution_url": "https://www.virtualbox.org/",
-      "category": "Compute virtualisation "
+      "category": "Compute virtualisation"
     },{
       "title": "Proxmox Virtual Environment",
       "similiar_solution_url": "https://www.proxmox.com/",
-      "category": "Compute virtualisation "
+      "category": "Compute virtualisation"
     },{
       "title": "SlapOS",
       "similiar_solution_url": "https://slapos.nexedi.com/",
-      "category": "Compute virtualisation "
+      "category": "Compute virtualisation"
     }],
     "licence_list": ["GPL v2"],
     "source_code_download": "https://github.com/xcp-ng/xcp",
@@ -71,7 +71,7 @@
     "similar_solution_list": [{
       "title": "Vagrant",
       "similiar_solution_url": "https://www.vagrantup.com/",
-      "category": "Service Lifecycle Automation"
+      "category": "Service lifecycle automation"
     }],
     "licence_list": ["GPL v3+"],
     "source_code_download": "https://github.com/vatesfr/xen-orchestra/",
