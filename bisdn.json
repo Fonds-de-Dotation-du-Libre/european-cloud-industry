@@ -1,7 +1,7 @@
 {
-	"created": "05-04-2022",
+	"created": "2022-04-05",
 	"title": "BISDN GmbH",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://www.bisdn.de/wp-content/themes/bisdn2.1/images/logo_230x78-middle.png",
 	"location": {
 		"title": "BISDN GmnH",
@@ -59,11 +59,7 @@
 		"created_year": "",
 		"description": "The open source operating system for whitebox switches. Turns your switch into an SDN switch with an Open Flow interface, or – alternatively- you can have the SDN controller directly on the switch. ",
 		"category_list": ["Switch"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/bisdn",
 		"source_code_profile": "",
@@ -81,11 +77,7 @@
 		"created_year": "",
 		"description": "We have built a virtual Broadband Remote Access Server (vBRAS) prototype, based on the CUPS approach (Control User Plane Separation). ",
 		"category_list": ["Server"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/bisdn",
 		"source_code_profile": "",
@@ -125,11 +117,7 @@
 		"created_year": "",
 		"description": "We address the challenges of enhanced packet processing on non-ASIC environments and generic compute platforms with our eXtensible DataPath Daemon (xdpd) – a datapath framework that supports various packet processing platforms.",
 		"category_list": ["CPU"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/bisdn/xdpd",
 		"source_code_profile": "",
@@ -147,11 +135,7 @@
 		"created_year": "",
 		"description": "For those working on solutions in OpenFlow,our Revised OpenFlow Library (rofl) facilitates the development of controllers and datapath elements. Roflcommon is a C++ library offering a generic OpenFlow endpoint. Rofl-datapath is an ASNI-C implementation of an OpenFlow pipeline.  It is easily portable to multiple compute and switching platforms, including ARM, MIPS and FPGA.",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/bisdn/rofl-common",
 		"source_code_profile": "",
