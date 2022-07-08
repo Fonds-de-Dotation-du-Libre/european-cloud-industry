@@ -1,7 +1,7 @@
 {
   "created": "2020-03-30",
   "title": "InnoRoute GmbH ",
-  "type": "company",
+  "type": "Organisation",
   "logo_url": "https://innoroute.com/wp-content/uploads/2017/06/Logo_sizedforWebsite.png",
   "location": {
     "title": "InnoRoute GmbH",
@@ -35,7 +35,7 @@
     "title": "TrustNode",
     "logo_url": "https://innoroute.com/wp-content/uploads/2021/11/tn3_klein.png",
     "website_url": "https://innoroute.com/trustnode_router/",
-    "created_year": null,
+    "created_year": "",
     "description": "The TrustNode, e.g., in its Research Edition, is the enabling platform for this transformation for research labs, R&D, certification and test, network operators and cloud service providers to flexibly customize networks to their needs. ",
     "category_list": ["Networking"],
     "similar_solution_list": [],
@@ -47,16 +47,16 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [""],
+    "reference_list": [],
     "success_case_list": []
   },{
     "title": "RealTimeHAT",
     "logo_url": "https://innoroute.com/wp-content/uploads/2020/09/EhUD1TIXcAck2QH.jpeg",
     "website_url": "https://innoroute.com/realtimehat/",
-    "created_year": null,
+    "created_year": "",
     "description": "The new Real-Time HAT by InnoRoute adds IEEE1588 PTP support in hardware to a Raspberry Pi 4 nestled beneath. Based around a Xilinx Artix-7 FPGA and a handful of gigabit Ethernet PHY devices, the HAT acts as network-passthrough, adding accurate time-stamps to egress (outgoing) packets and stripping time-stamps from the ingress (incoming) side.",
     "category_list": ["Networking"],
-    "similar_solution_list": [""],
+    "similar_solution_list": [],
     "licence_list": [" GPL-3.0 License"],
     "source_code_download": "https://github.com/InnoRoute/RealtimeHAT",
     "source_code_profile": "",
@@ -73,29 +73,24 @@
     },{
       "title": "Raspberry Pi Pinout",
       "logo_url": "https://pinout.xyz/resources/pinout-logo.png",
-      "country": "",
+      "country": "UK",
       "industry": "Information Technology"
     },{
       "title": "Hackaday",
       "logo_url": "https://hackaday.com/wp-content/themes/hackaday-2/img/logo.png",
       "country": "US",
       "industry": "Information Technology"
-    },{
-      "title": "LinuxGismos.com",
-      "logo_url": "",
-      "country": "US",
-      "industry": "Information Technology"
     }],
-    "success_case_list": [""]
+    "success_case_list": []
   },{
     "title": "6Tree Network",
     "logo_url": "",
     "website_url": "https://innoroute.com/save/",
-    "created_year": null,
+    "created_year": "",
     "description": "In the 6Tree network, you can easily and immediately obtain your own static IP addresses for your smartphone and home network. You can then use your smartphone to directly access any device in the home network, for example to retrieve videos from the home server while on the move, to connect to surveillance cameras or to operate smart home components.",
     "category_list": ["Networking"],
-    "similar_solution_list": [""],
-    "licence_list": [""],
+    "similar_solution_list": [],
+    "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
@@ -103,7 +98,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
     }] 
 }
