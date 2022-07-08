@@ -59,7 +59,7 @@
     "description": "SOFTKLIX Virtual Desktop Infrastructure (VDI) software & hypervisors work in much the same way as they do with server virtualization. SOFTKLIX VDI defines, manages and deploys pools of individual virtual Windows desktops to users. When a user establishes a VDI instance via the SOFTKLIX connection broker, it assigns the Windows operating system (VDI-instance) to an available Virtual Desktop from the appropriate pool.",
     "category_list": ["Desktop virtualisation"],
     "similar_solution_list": [{
-      "title": "",
+      "title": "x",
       "similiar_solution_url": "",
       "category": ""
     }],
