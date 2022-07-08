@@ -21,7 +21,7 @@
 		"title": "Oxibox Resilient Storage",
 		"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
 		"website_url": "https://www.oxibox.com/en/solutions/resilient-storage.php",
-		"created_year": null,
+		"created_year": "",
 		"description": "Oxibox Resilient Storage plugs into your existing storage and Data Protection infrastructure to make backups immutable, protecting them from corruption by attackers. There's no need to overhaul your whole backup infrastructure: simply plug Oxibox Resilient Storage at the storage level. Your data silos are protected from malicious write operations thanks to our patented technology: historical snapshots are never write-accessible.",
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
@@ -77,27 +77,13 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Oxibox Plug-and-Protect",
 		"logo_url": "https://www.oxibox.com/static/img/logo_oxibox.svg",
 		"website_url": "https://www.oxibox.com/en/solutions/oxibox-fireproof.php",
-		"created_year": null,
+		"created_year": "",
 		"description": "Back up all data to a certified fireproof and waterproof backup server. The Oxibox Fireproof hardware is certified to withstand temperatures up to 850°C as well as a 3-meter immersion during 48 hours in freshwater and saltwater. From 1 to 120 TB, the Oxibox hardware is designed to withstand industrial disasters. Disaster recovery time is optimised thanks to the local availability of data on this hardened server. The hardware can resist to physical damages while the embedded Oxibox software ensuires it can resist to all cyberattacks!",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
@@ -125,21 +111,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
