@@ -1,7 +1,7 @@
 {
-	"created": "26-04-2022",
+	"created": "2022-04-26",
 	"title": "Clever Cloud",
-	"type": "Company",
+	"type": "Organsiation",
 	"logo_url": "https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/logo_on_white.svg",
 	"location": {
 		"title": "CLEVER Cloud",
@@ -139,11 +139,7 @@
 		"created_year": "",
 		"description": "A fully managed Redis service, with monitoring, backups and migration tools.",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["bsd-3-clause"],
 		"source_code_download": "https://github.com/redis/redis",
 		"source_code_profile": "https://www.openhub.net/p/redis",
@@ -161,11 +157,7 @@
 		"created_year": "",
 		"description": "An object storage service that is performant, economic and easy to use",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [""],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -183,11 +175,7 @@
 		"created_year": "",
 		"description": "This is Apache Pulsar on demand: a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API. Clever Cloud provides and manages a Pulsar instance for you, so you don't have to spend time on backups, upgrades or deployment.",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["w"],
 		"source_code_download": "https://github.com/apache/pulsar",
 		"source_code_profile": "https://www.openhub.net/p/apache-pulsar",
@@ -205,11 +193,7 @@
 		"created_year": "",
 		"description": "Deploy your Docker applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["apache-2.0"],
 		"source_code_download": "https://github.com/docker/docker.github.io",
 		"source_code_profile": "https://www.openhub.net/p/docker",
@@ -227,11 +211,7 @@
 		"created_year": "",
 		"description": "Deploy your Golang applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -249,11 +229,7 @@
 		"created_year": "",
 		"description": "Deploy your Haskell applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["gpl-3.0"],
 		"source_code_download": "https://github.com/CleverCloud/haskell-example",
 		"source_code_profile": "",
@@ -271,11 +247,7 @@
 		"created_year": "",
 		"description": "Host your Java Application Hassle Free",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -293,11 +265,7 @@
 		"created_year": "",
 		"description": "Deploy your Node.JS applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -315,11 +283,7 @@
 		"created_year": "",
 		"description": "Deploy your PHP Apps on a Resilient PaaS",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -337,11 +301,7 @@
 		"created_year": "",
 		"description": "Deploy your Python applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -359,11 +319,7 @@
 		"created_year": "",
 		"description": "Deploy your Ruby applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -381,11 +337,7 @@
 		"created_year": "",
 		"description": "Deploy your Rust applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -403,11 +355,7 @@
 		"created_year": "",
 		"description": "Deploy your Scala applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -425,11 +373,7 @@
 		"created_year": "",
 		"description": "Deploy your .NET applications",
 		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
