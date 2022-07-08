@@ -83,16 +83,14 @@
                         },
                         "total_assets": {
                             "type": "string",
-                           
-                            "description": "The ISO 4216 currency code."
+                            "description": "The ISO 4217 currency code."
                         },
                         "revenues": {
                             "type": "string",
-                           
                             "description": "The ISO 4217 currency code."
                         },
                         "source_url": {
-			    "type": "string"
+			     "type": "string"
 			}
                     }
                 }
