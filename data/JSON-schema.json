@@ -3,55 +3,82 @@
     "$id": "https://example.com/person.schema.json",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "type": "object",
+    "definitions": {
+      "saneUrl": { "format": "uri", "pattern": "^https?://" }
+    },
     "properties": {
       "created": {
         "type": "string",
-        "format": "date"
+        "format": "date",
+        "pattern": "^\\d{4}\\-(0?[1-9]|1[012])\\-(0?[1-9]|[12][0-9]|3[01])$"
       },
       "title": {
         "type": "string"
       },
       "type": {
-        "type": "string"
+        "type": "string",
+        "enum": [
+          "Organisation",
+          "Association",
+          "Other"
+        ]
       },
       "logo_url": {
-        "type": "string"
+        "anyOf": [{ 
+            "$ref": "#/definitions/saneUrl"
+        }, { 
+            "type": "string", 
+            "maxLength": 0
+        }] 
       },
       "location": {
         "type": "object",
         "properties": {
           "title": {
             "type": "string",
-            "description": "name"
+            "description": "Entity name"
           },
           "address": {
             "type": "string",
-            "description": "Company address"
+            "description": "Entity address"
           },
           "postal-code": {
-            "description": "Postal code must be composed of 5 numbers equal or greater than 0",
+            "description": "Entity postal",
             "type": "string"
           },
           "city": {
             "type": "string",
-            "description": "name"
+            "description": "Entity city"
           },
           "country": {
             "type": "string",
             "pattern": "^[A-Z]{2}$",
-            "description": "A valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
+            "description": "Entity country - a valid 2-digit ISO country code (ISO 3166-1 alpha-2)"
           },
           "phone_contact": {
-            "description": "Phone number which must be equal to or greater than zero preceded by",
+            "description": "Entity phone contact",
             "type": "string"
           },
           "mail_contact": {
-            "description": "",
-            "type": "string"
+            "anyOf": [{ 
+              "description": "Entity email contact",
+              "type": "string",
+              "pattern": "^\\S+@\\S+\\.\\S+$",
+              "format": "email",
+              "minLength": 6,
+              "maxLength": 127
+            }, { 
+              "type": "string", 
+              "maxLength": 0
+            }]
           },
           "coordinate_list": {
-            "description": "Geographical coordinates of the company",
-            "type": "array"
+            "description": "Geographical coordinates of the entity",
+            "type": "array",
+            "maxItems": 2,
+            "items": {
+              "type": "number"
+            }
           }
         }
       },
