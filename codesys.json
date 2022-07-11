@@ -10,7 +10,7 @@
 		"city": "Kempten",
 		"country": "DE",
 		"phone_contact": "+49 831 540310",
-		"mail_contact": "info @codesys.com",
+		"mail_contact": "info@codesys.com",
 		"coordinate_list": [47.74729370034747, 10.301062915340387]
 	},
 	"subsidiary_location_list": ["CN", "IT", "US"],
