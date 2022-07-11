@@ -214,7 +214,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": []
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "WINDELIN - Predictive Maintenance and Optimisation of Wind Turbines using an open-source Big Data Machine Learning Cloud",
 			"description": "WINDELIN is a R & D project developed under Eureka programme using machine learning and big data technologies for anomaly detection and predictive maintenance inside wind turbines.",
