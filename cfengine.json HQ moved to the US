@@ -29,7 +29,7 @@
     "source_code_download": "https://github.com/cfengine/core.git",
     "source_code_profile": "https://www.openhub.net/p/cfengine/analyses/latest/languages_summary",
     "commercial_support_url": "",
-    "floss_software": false,
+    "floss_software": true,
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/CFEngine",
