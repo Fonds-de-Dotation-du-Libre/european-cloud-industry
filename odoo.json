@@ -1,7 +1,7 @@
 {
   "created": "2022-04-04",
   "title": "Odoo",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "",
   "location": {
     "title": "Odoo HeadQuarters",
@@ -10,7 +10,7 @@
     "city": "Grand-Rosière-Ramillies",
     "country": "BE",
     "phone_contact": "+3281813700",
-    "mail_contact": "fp@openerp.com ",
+    "mail_contact": "fp@openerp.com",
     "coordinate_list": [50.63537307087549, 4.864376886205374]
   },
   "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
@@ -18,28 +18,28 @@
   "founded_year": 2002,
   "kpi_list": [{
     "year": 2020,
-    "staff": null,
+    "staff": "",
     "earnings": "140 822 EUR",
     "total_assets": "",
     "revenues": "43 871 968 EUR",
     "source_url": "https://www.companyweb.be/"
   },{
     "year": 2019,
-    "staff": null,
+    "staff": "",
     "earnings": "422 478 EUR",
     "total_assets": "",
     "revenues": "29 772 268 EUR",
     "source_url": "https://www.companyweb.be/"
   },{
     "year": 2018,
-    "staff": null,
+    "staff": "",
     "earnings": "-328 269 EUR",
     "total_assets": "",
     "revenues": "20 157 092 EUR",
     "source_url": "https://www.companyweb.be/"
   },{
     "year": 2017,
-    "staff": null,
+    "staff": "",
     "earnings": "194 682 EUR",
     "total_assets": "",
     "revenues": "13 595 391 EUR",
@@ -89,12 +89,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Odoo",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
+    "reference_list": [],
     "success_case_list": [{
       "title": "Intero Technologies: From User to Partner",
       "description": "Intero Technologies is a German software company focused on creating smart software solutions for smart teams to drive business success. Odoo provides them with full service agency: consulting, implementation, hosting, migration, training, support and app development since 2010.",
@@ -102,34 +97,34 @@
       "industry": "Information Technology",
       "customer": "Intero Technologies",
       "country": "DE",
-      "language": "de",
+      "language": "en",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/intero-technologies-from-user-to-partner-850#blog_content"
     },{
       "title": "Steersman Company takes business management by the horns",
       "description": "Partnering with Odoo since 2015, Steersman Company find in them the flexible ERP solution, both functional and adaptable.",
       "image_url": "https://ib.steersman.works/Qzg3z7exhCQLVI5g2F79-zlyrYPjw1LcESOG3zJE/steersman-logo-gradient-svg.svg",
-      "industry": "Business Solutions",
+      "industry": "Consulting and Training",
       "customer": "Steersman Company",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/steersman-company-takes-business-management-by-the-horns-764"
     },{
       "title": "bloopark: Letting Go of Old Methods",
       "description": "Bloopark is a German software company that works with Odoo since 2014. Bloopark’s expertise lies within the design, implementation and migration of Odoo. They are knowledgeable in agility, high quality, being dynamic and IoT.",
       "image_url": "https://www.bloopark.de/theme_bloopark/static/src/img/bloopark-logo-black.png",
-      "industry": "Infoarmation Technology",
+      "industry": "Information Technology",
       "customer": "bloopark",
       "country": "DE",
-      "language": "DE",
+      "language": "en",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/bloopark-letting-go-of-old-methods-736"
     },{
       "title": "Becoming a successful partner in a new market? Port Cities Vietnam became a certified Silver partner in just 7 months",
       "description": "Port Cities implementation in Vietnam in 2018 required a suitable ERP system to connect them with businesses and has since evolved with the use of new modules: document management, Internet of Things, etc. Since then Port Cities in Vietnam has been working to raise awareness about smart business management applications and helping Vietnamese companies grow by automating their business processes.",
       "image_url": "https://portcities.net/web/image/website/1/logo/Port%20Cities%20-%20the%20biggest%20Odoo%20partner%20in%20the%20world.?unique=8ce149d",
-      "industry": ["Business","Transport"],
+      "industry": "Transport",
       "customer": "Port Cities",
       "country": "HK",
-      "language": "ZH",
+      "language": "en",
       "success_case_url": "https://www.odoo.com/blog/partner-stories-8/becoming-a-successful-partner-in-a-new-market-port-cities-vietnam-became-a-certified-silver-partner-in-just-7-months-542"
     }]
   }]

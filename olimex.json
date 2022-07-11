@@ -1,7 +1,7 @@
 {
-	"created": "04-04-2022",
+	"created": "2022-04-04",
 	"title": "Olimex Ltd",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.olimex.com/_layout/images/logo.png",
 	"location": {
 		"title": "Olimex Ltd",
@@ -15,17 +15,10 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.olimex.com/",
-	"founded_year": null,
+	"founded_year": "",
 	"kpi_list": [{
-		"year": 2021,
-		"staff": null,
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
 		"year": 2020,
-		"staff": null,
+		"staff": "",
 		"earnings": "",
 		"total_assets": "23 151 508 EUR",
 		"revenues": "",
@@ -48,100 +41,50 @@
 			"category": "Server"
 		}],
 		"licence_list": ["GPL"],
-		"source_code_download": "",
-		"source_code_profile": "https://github.com/OLIMEX/OLINUXINOt",
-		"commercial_support_url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto",
+		"source_code_download": "https://github.com/OLIMEX/OLINUXINOt",
+		"source_code_profile": "",
+		"commercial_support_url": "",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
-		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "OLIMEX System-on-Module (SOM)",
 		"logo_url": "https://www.olimex.com/_layout/images/logo.png",
 		"website_url": "https://www.olimex.com/Products/SOM/",
-		"created_year": null,
+		"created_year": "",
 		"description": "OLIMEX System-on-Module (SOM) boards are powerful Linux-capable boards. They follow a low cost modular design which allows rapid product development. Each of these boards has two parts - the main part which nests the processor, the memory and the power control unit and the peripheral part which contains the USB ports, the video output and most of the connectors. SOM designs are targeted at customers who want to apply custom modifications and own solutions based on a specific processor without having to deal with multi layer PCBs with controlled impedance and BGA assembly. This makes it possible to create simple boards (that might be manufactured by your local board manufacturer) containing only the peripherals you need with the dimensions and shape suitable for your specific solution.",
 		"category_list": ["CPU"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/OLIMEX/SOM",
 		"source_code_profile": "",
-		"commercial_support_url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Support+Question&to=support@olimex.com",
+		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
-		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page#System_On_Module_.28SOM.29_Linux-enabled_boards",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}, {
 		"title": "Duino",
 		"logo_url": "https://www.olimex.com/_layout/images/logo.png",
 		"website_url": "https://www.olimex.com/Products/Duino/open-source-hardware",
-		"created_year": null,
+		"created_year": "",
 		"description": "Arduino is an open-source electronics prototyping platform, designed to make the process of using electronics in multidisciplinary projects more accessible. The hardware consists of a simple open hardware design for the Arduino board with an Atmel AVR processor and on-board I/O support. The software consists of a standard programming language and the boot loader that runs on the board.",
 		"category_list": ["CPU"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/ecto/duino",
 		"source_code_profile": "",
-		"commercial_support_url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Support+Question&to=support@olimex.com",
+		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
-		"wikipedia_url": "https://www.olimex.com/wiki/Main_Page#Duino",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
