@@ -172,7 +172,7 @@
 			"title": "2Test",
 			"logo-url": "https://www.amarisoft.com/app/uploads/2019/02/2TEST_logo_internet.png",
 			"country": "RU",
-			"industry": "Information Technolgoy"
+			"industry": "Information Technology"
 			},{
 			"title": "Air-lynx",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/AirLynx.png",
@@ -332,7 +332,7 @@
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
-		"wikipedia_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
+		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
   		},{
@@ -396,7 +396,7 @@
 			"title": "fairwaves",
       			"logo_url": "https://fairwaves.co/app/uploads/2015/03/logo.png",
       			"country": "GB",
-     			"industry": "Telecommunications"
+     			"industry": "Telecommunication"
 			},{
 			"title": "Ettus Research",
       			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/Ettus_LOGO-final-collateral-1.png",

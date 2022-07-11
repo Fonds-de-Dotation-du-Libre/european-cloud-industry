@@ -34,8 +34,8 @@
       "category": "Developer environment"
     }],
     "licence_list": ["Proprietary"],
-    "source_code_download": "",
-    "source_code_profile": "https://github.com/bunnyshell/qa-assignment.git",
+    "source_code_download": "https://github.com/bunnyshell/qa-assignment.git",
+    "source_code_profile": "",
     "commercial_support_url": "https://www.bunnyshell.com/pricing/",
     "floss_software": false,
     "commercial_support_open_source_version": false,
@@ -43,5 +43,5 @@
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
-  }]
+ }]
 }

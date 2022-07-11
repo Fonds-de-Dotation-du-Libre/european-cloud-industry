@@ -10,7 +10,7 @@
 		"city": "Berlin",
 		"country": "DE",
 		"phone_contact": "+49 30 610 816 100",
-		"mail_contact": " info@bisdn.de",
+		"mail_contact": "info@bisdn.de",
 		"coordinate_list": [52.50190555779476, 13.366874484659613]
 	},
 	"subsidiary_location_list": [],
@@ -95,11 +95,7 @@
 		"created_year": "",
 		"description": "In our capacity as Certified Integration Partner (CIP) for Tibit Communications, we have set up a lab in Berlin. Here we are showcasing the interoperability of the pluggable OLTs (Optical Line Terminals) with various switch platforms and with ONUs (Optical Network Units)",
 		"category_list": ["Switch"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/bisdn",
 		"source_code_profile": "",

@@ -58,7 +58,7 @@
       "title": "Medicen",
       "logo_url": "https://medicen.org/wp-content/uploads/2019/11/logo-medicen-bleu.svg",
       "country": "FR",
-      "industry": "Health and Life sciences"
+      "industry": "Health and Life Sciences"
     },{
       "title": "Cap Digital",
       "logo_url": "https://www.capdigital.com/wp-content/themes/capdigital/img/logo2x.png",
@@ -119,7 +119,7 @@
     }],
     "licence_list": ["LGPL-2.1 License"],
     "source_code_download": "https://github.com/abilian/abilian-sbe",
-    "source_code_profile": "https://www.openhub.net/p/abilian-sbe",
+    "source_code_profile": "https://www.openhub.net/p/abilian-sbe/analyses/latest/languages_summary",
     "commercial_support_url": "",
     "floss_software": true,
     "commercial_support_open_source_version": true,
@@ -198,16 +198,16 @@
     "category_list": ["Workspace"],
     "similar_solution_list": [{
       "title": "SuiteCRM",
-      "category": "software",
+      "category": "Workspace",
       "similar_solution_url": "https://suitecrm.com/"
     },{
       "title": "Odoo",
-      "category": "software",
+      "category": "Workspace",
       "similar_solution_url": "https://www.odoo.com/fr_FR/app/crm"
     }],
     "licence_list": ["LGPL-2.1 License"],
     "source_code_download": "https://github.com/abilian/abilian-crm-core",
-    "source_code_profile": "https://www.openhub.net/p/abilian-crm-core",
+    "source_code_profile": "https://www.openhub.net/p/abilian-crm-core/analyses/latest/languages_summary",
     "commercial_support_url": "",
     "floss_software": true,
     "commercial_support_open_source_version": true,

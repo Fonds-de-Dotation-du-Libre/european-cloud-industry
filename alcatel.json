@@ -79,12 +79,12 @@
 			"floss_software": false,
 			"commercial_support_open_source_version": false,
 			"commercial_support_available": true,
-			"wikipedia_url": "https://2nwiki.2n.cz/pages/viewpage.action?pageId=17236010",
+			"wikipedia_url": "",
 			"reference_list": [{
 				"title": "Sao Paulo International Airport - GRU Airport",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sao-paulo-airport-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151931Z&hash=C11E1708858EF12AF02079D5794C9D64",
 				"country": "BR",
-				"industry": "Transportation"
+				"industry": "Transport"
 			}, {
 				"title": "UIN Antasari Banjarmasin University",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
@@ -94,12 +94,12 @@
 				"title": "Gobierno del Estado de Tamaulipas",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
 				"country": "MX",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			},{
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}],
 			"success_case_list": []
 		}, {
@@ -135,7 +135,7 @@
 				"title": "SMC Electric Supply",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
 				"country": "US",
-				"industry": "Energy & Utilities"
+				"industry": "Energy and Utilities"
 			}],
 			"success_case_list": []
 		}, {
@@ -195,7 +195,7 @@
 			"floss_software": false,
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
-			"wikipedia_url": "https://wikitia.com/wiki/Rainbow_(software)",
+			"wikipedia_url": "",
 			"reference_list": [{
 				"title": "UIN Antasari Banjarmasin University",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
@@ -205,7 +205,7 @@
 				"title": "Metropolis and City of Perpignan",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
 				"country": "FR",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			}],
 			"success_case_list": []
 		}, {
@@ -310,7 +310,7 @@
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}],
 			"success_case_list": []
 		}, {
@@ -441,7 +441,7 @@
 			"floss_software": false,
 			"commercial_support_open_source_version": true,
 			"commercial_support_available": true,
-			"wikipedia_url": "https://www.al-enterprise.com/en/products/devices/business-phones",
+			"wikipedia_url": "",
 			"reference_list": [],
 			"success_case_list": []
 		}, {
@@ -592,12 +592,12 @@
 				"title": "Hotel Palladia",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/image-palladia-logo-successstory-276x188.png?h=141&mh=200&mw=200&w=200&v=1&d=20200821T123047Z&hash=345F0B5CE5F951D4838B18FB323DB8EC",
 				"country": "FR",
-				"industry": "Hospitality"
+				"industry": "Travel and Tourism"
 			}, {
 				"title": "Metropolis and City of Perpignan",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo-perpignan-mediterranee-metropole.png?h=200&mh=200&mw=200&w=200&v=1&d=20200821T123048Z&hash=6506409F81671D101D582B086797A2A5",
 				"country": "FR",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			}, {
 				"title": "SIG Combibloc Obeikan",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sig-combibloc-obeikan-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=11A801A3EC37B66FF3C9320D273791B2",
@@ -612,7 +612,7 @@
 				"title": "SMC Electric Supply",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
 				"country": "US",
-				"industry": "Energy & Utilities"
+				"industry": "Energy and Utilities"
 			}, {
 				"title": "Medcare",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/medcare-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151426Z&hash=BD5DDF05C919A38BF3C6517E84113D7D",
@@ -622,17 +622,17 @@
 				"title": "Zaker Trading",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/zaker-trading-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151240Z&hash=4C76C3DC7325EDDE0D70750FF879169F",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}, {
 				"title": "Jumbo Electronics",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 				"country": "AE",
-				"industry": "Retail"
+				"industry": "Commerce and Retail"
 			}, {
 				"title": "Gobierno del Estado de Tamaulipas",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
 				"country": "MX",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			}],
 			"success_case_list": []
 		}, {
@@ -705,7 +705,7 @@
 				"title": "Sao Paulo International Airport - GRU Airport",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/sao-paulo-airport-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151931Z&hash=C11E1708858EF12AF02079D5794C9D64",
 				"country": "BR",
-				"industry": "Transportation"
+				"industry": "Transport"
 			}],
 			"success_case_list": []
 		}, {
@@ -797,7 +797,7 @@
 				"title": "Fukuoka City",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/fukuoka-city-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T150737Z&hash=1B151467BCFE6F00EDC166466BB5778F",
 				"country": "JP",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			}, {
 				"title": "UIN Antasari Banjarmasin University",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/uin-antasari-banjarmasin-logo.png?h=68&mh=200&mw=200&w=200&v=1&d=20201207T171831Z&hash=832F9E4DF3D0429F5E9B37C20422DF5B",
@@ -868,7 +868,7 @@
 				"title": "Fukuoka City",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/fukuoka-city-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T150737Z&hash=1B151467BCFE6F00EDC166466BB5778F",
 				"country": "JP",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			}],
 			"success_case_list": []
 		},
@@ -903,7 +903,7 @@
 				"title": "SMC Electric Supply",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/n-to-s/smc-electric-supply-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151343Z&hash=42AA0381E18435EBF642286D654322C0",
 				"country": "US",
-				"industry": "Energy & Utilities"
+				"industry": "Energy and Utilities"
 			}, {
 				"title": "University of Johannesburg",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/t-to-z/university-of-johannesburg-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T151827Z&hash=EA6501409849063BBC3A07F80994A997",
@@ -928,7 +928,7 @@
 				"title": "Gobierno del Estado de Tamaulipas",
 				"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/a-to-g/gobierno-de-tamulipas-logo-cms.jpg?h=67&mh=200&mw=200&w=200&v=1&d=20220406T152129Z&hash=A5A91429E9F24FACF587F090057D37B0",
 				"country": "MX",
-				"industry": "Government and Public Administration"
+				"industry": "Public Administration and Government"
 			}],
 			"success_case_list": []
 		}
