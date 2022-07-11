@@ -1,8 +1,8 @@
 {
 
-	"created": "05-04-2022",
+	"created": "2022-04-05",
 	"title": "Prestashop",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
 	"location": {
 		"title": "Prestashop",
@@ -11,7 +11,7 @@
 		"city": "Paris",
 		"country": "FR",
 		"phone_contact": "+33 (0)1 76 23 25 25",
-		"mail_contact": " contact@prestashop.com",
+		"mail_contact": "contact@prestashop.com",
 		"coordinate_list": [48.8807269249733, 2.3275649826945304]
 	},
 	"subsidiary_location_list": [],
@@ -48,7 +48,7 @@
 		}],
 		"licence_list": ["OSL"],
 		"source_code_download": "https://github.com/PrestaShop/PrestaShop",
-		"source_code_profile": "https://www.openhub.net/p/PrestaShop",
+		"source_code_profile": "https://www.openhub.net/p/PrestaShop/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.prestashop.com/en/help",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,

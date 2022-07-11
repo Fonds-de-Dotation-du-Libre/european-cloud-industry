@@ -1,7 +1,7 @@
 {
-  "created": "07-04-2022",
+  "created": "2022-04-07",
   "title": "SSAB",
-  "type": "company",
+  "type": "Organisation",
   "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
   "location": {
     "title": "SSAB AB",
@@ -59,11 +59,7 @@
     "created_year": "",
     "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
     "category_list": ["Operation management"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": ["GNU/GPL"],
     "source_code_download": "https://sourceforge.net/projects/proview/files/proview/",
     "source_code_profile": "",

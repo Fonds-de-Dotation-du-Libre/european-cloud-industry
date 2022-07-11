@@ -1,7 +1,7 @@
 {
   "created": "2022-04-14",
   "title": "Paltform.sh SAS",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
   "location": {
     "title": "Platform.sh SAS",
@@ -39,7 +39,7 @@
     }],
     "licence_list": [" CC-BY-SA-4.0 License"],
     "source_code_download": "https://github.com/platformsh/platformsh-docs.git",
-    "source_code_profile": "https://docs.platform.sh/languages.html",
+    "source_code_profile": "",
     "commercial_support_url": "https://docs.platform.sh/overview/get-support.html",
     "floss_software": true,
     "commercial_support_open_source_version": true,
@@ -54,7 +54,7 @@
       "title": "Burst",
       "logo_url": "https://platform.sh/images/customers/bw/burst-bw.png",
       "country": "NL",
-      "industry": "Media and entertainment"
+      "industry": "Media and Entertainment"
     },{
       "title": "Perfetti Van Melle",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Perfetti_Van_Melle_logo.svg/375px-Perfetti_Van_Melle_logo.svg.png",
