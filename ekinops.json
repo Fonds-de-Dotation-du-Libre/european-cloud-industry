@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-06",
 	"title": "Ekinops",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.ekinops.com/images/logo-ekinops.png",
 	"location": {
 		"title": "EKINOPS SA",
@@ -10,8 +10,8 @@
 		"city": "Lannion",
 		"country": "FR",
 		"phone_contact": "+33296050030",
-		"mail_contact": "https://www.ekinops.com/fr/entreprise/a-propos/nous-contacter",
-		"coordinate_list": ["48.75932641072024, -3.4727646869010047"]
+		"mail_contact": "",
+		"coordinate_list": [48.75932641072024, -3.4727646869010047]
 	},
 	"subsidiary_location_list": ["AU", "BE", "BR", "DE", "ES", "IN", "US"],
 	"website_url": "https://www.ekinops.com/",
@@ -52,11 +52,7 @@
 		"created_year": "",
 		"description": "Ekinops360 provides multi-rate, multi-reach coherent optical transport and multi-level OTN switching combined with advanced management functionality capable of addressing any transport application from ultra-long haul to mobile Xhaul and everything in between.",
 		"category_list": ["Operation management"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -74,11 +70,7 @@
 		"created_year": "",
 		"description": "Through its OneAccess brand, Ekinops delivers network functions enabling Cloud and other managed services to SMB and enterprise customers around the world.  These functions are available in different form factors or packages. Service providers can select and combine these network functions in an open and flexible manner.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -96,11 +88,7 @@
 		"created_year": "",
 		"description": "Compose supports service providers in making their networks software-defined with a variety of software management tools and services, including the scalable SD-WAN Xpress. As service providers embrace SDN and NFV deployment models, Ekinops enables future-proofed deployment today, enabling operators to seamlessly migrate to an open, virtualized delivery model at a time of their choosing.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -118,11 +106,7 @@
 		"created_year": "",
 		"description": "OneOS6 is the modular software solution that enables a range of built-in services to be activated remotely and on-demand for the OneOS6 product range. It allows Service Providers to deliver innovative and high value business services to their customers.",
 		"category_list": ["Operation management"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -140,11 +124,7 @@
 		"created_year": "",
 		"description": "The Ekinops SD-WAN solution is an evolution rather than a revolution, Service providers can rapidly transform their traditional CPE router portfolio into a full-fledged SD-WAN solution and deliver unprecedented automation and visibility to their customers within a simple licence upgrade.",
 		"category_list": ["Operation management"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -162,11 +142,7 @@
 		"created_year": "",
 		"description": "Modular or stackable, active or passive, Ekinops WDM transport systems deliver the flexible capacity today’s networks need while providing a future proof platform to meet the next-generation of demand.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -184,11 +160,7 @@
 		"created_year": "",
 		"description": "The ETS Compact Chassis extend the combined power of OTN and WDM to the network edge.  Using advanced next-gen silicon, these small form factor solutions provide high capacity ODUk switching with the same agnostic cell-based fabric capable of switching both frames and packets as the larger ETSc-6. It also leverages the same software for unified management and control including the ASON-based control plane that provides automated provisioning as well as protection and restoration.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -206,11 +178,7 @@
 		"created_year": "",
 		"description": "OneAccess Ethernet Access Devices are carrier-grade, MEF-compliant access platforms. These flexible and future-proof platforms based make a comprehensive product range for Ethernet Access over Copper or Fiber.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -228,11 +196,7 @@
 		"created_year": "",
 		"description": "The uCPE or whitebox is the hardware on which the virtualization solution is built. It provides the resources for computation, storage and networking. Ekinops adopts a completely open approach for the support of these x86 based platforms.",
 		"category_list": ["Server"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -250,11 +214,7 @@
 		"created_year": "",
 		"description": "The ONE voice and data router series provides an unrivaled choice of routers to enable voice, data and services in Small Office & Branch office and for Mid to large enterprise.",
 		"category_list": ["Router"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -272,11 +232,7 @@
 		"created_year": "",
 		"description": "In converged, next generation networks and while migrating from static to dynamic services, the need of monitoring and automation is increasing. Whether in Optical transport, Routing and switching, NFV or Software Defined layers, management is an essential element of the delivered solutions.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
