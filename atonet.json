@@ -81,11 +81,7 @@
 		"created_year": "",
 		"description": "The Athonet 5G Core is the evolution of the world’s most proven private mobile core and is built on the track-record and field-deployment experience of our LTE mobile core.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -103,11 +99,7 @@
 		"created_year": "",
 		"description": "The Tactical Cube is a compact portable solution that includes a radio (RAN) and mobile core. The mobile core is hosted on off-the-shelf servers or on Athonet EX-BOX server providing IP65 protection while the radio acts as a base transceiver station with IP65 protection.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -125,11 +117,7 @@
 		"created_year": "",
 		"description": "Athonet IMS (IP Multimedia Subsystem) provides native voice and video services to LTE or 5G terminals and integration with mission critical push-to-talk applications or with enterprise IP-PBX and phone systems.",
 		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",

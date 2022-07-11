@@ -13,39 +13,39 @@
 		"mail_contact": "info@owncloud.com",
 		"coordinate_list": [49.48690797273724, 11.103847442342884]
 	},
-	"subsidiary_location_list": "",
+	"subsidiary_location_list": [],
 	"website_url": "https://owncloud.com/",
 	"founded_year": "2011",
 	"kpi_list": [{
-		"year": "2020",
+		"year": 2020,
 		"staff": "50",
 		"earnings": "388 696 EUR",
 		"total_assets": "4 974 402 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de"
 	}, {
-		"year": "2019",
+		"year": 2019,
 		"staff": "43",
 		"earnings": "-519 435 EUR",
 		"total_assets": "4 451 782 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
-		"year": "2018",
+		"year": 2018,
 		"staff": "35",
 		"earnings": "-521 392 EUR",
 		"total_assets": "3 819 996 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
-		"year": "2017",
+		"year": 2017,
 		"staff": "35",
 		"earnings": "-1 377 054 EUR",
 		"total_assets": "4 116 320 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
-		"year": "2016",
+		"year": 2016,
 		"staff": "",
 		"earnings": "-788 749 EUR",
 		"total_assets": "3 585 703 EUR",
@@ -58,7 +58,7 @@
 		"website_url": "https://owncloud.com/product/",
 		"created_year": "",
 		"description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device. It allows some integrations such as Microsoft, Collabora online, VNC and ONLYOFFICE.",
-		"category_list": "workspace",
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Nextcloud",
 			"similiar_solution_url": "https://nextcloud.com/",
@@ -85,7 +85,7 @@
 			"title": "Backblaze",
 			"logo_url": "https://owncloud.com/wp-content/uploads/2022/04/horizontal-red-navy-768x274.png",
 			"country": "US",
-			"industry": "Storage and Database"
+			"industry": "Information Technology"
 		}, {
 			"title": "BW-Tech GmbH",
 			"logo_url": "https://owncloud.com/wp-content/uploads/2020/08/ownCloud-partner-BW-Tech.png",
@@ -269,7 +269,7 @@
 		"website_url": "https://owncloud.online/",
 		"created_year": "",
 		"description": "Secure cloud storage for your data. Convenient collaboration for your team.",
-		"category_list": "Storage and Database",
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Dropbox",
 			"similiar_solution_url": "https://www.dropbox.com/",
@@ -283,7 +283,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": "",
-		"success_case_list": ""
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }

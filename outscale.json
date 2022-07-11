@@ -1,7 +1,7 @@
 {
-	"created": "04-04-2022",
+	"created": "2022-04-04",
 	"title": "Outscale SAS",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://en.outscale.com/wp-content/themes/Outscale_theme/includes/images/outscale_logo_white.svg",
 	"location": {
 		"title": "Outscale",
@@ -77,11 +77,7 @@
 		"created_year": 2010,
 		"description": "OUTSCALE for Entrepreneurs’ mission is to support fast-growing startups that encourage sustainable and responsible innovations, placing people at the heart of technological concerns for current and future generations, and enabling the industrial control of their growth.",
 		"category_list": ["Operation management"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/outscale/",
 		"source_code_profile": "",
