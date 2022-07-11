@@ -1,7 +1,7 @@
 {
   "created": "2022-03-31",
   "title": "Patrowl SAS",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://patrowl.io/wp-content/uploads/2022/01/logo.png",
   "location": {
     "title": "Patrowl SAS",
@@ -13,10 +13,10 @@
     "mail_contact": "getsupport@patrowl.io",
     "coordinate_list": [48.8732585256924, 2.3166082115960553]
   },
-  "subsidiary_location_list": "",
+  "subsidiary_location_list": [],
   "website_url": "https://patrowl.io/",
   "founded_year": 2020,
-  "kpi_list": [""],
+  "kpi_list": [],
   "solution_list": [{
     "title": "Patrowl",
     "logo_url": "https://patrowl.io/wp-content/uploads/2022/01/logo.png",
@@ -45,7 +45,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [""],
-    "success_case_list": [""]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
