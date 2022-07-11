@@ -467,72 +467,72 @@
 			"industry": "Automotive"
 		}, {
 			"title": "Skinest Group",
-			"logo_url": "",
+			"logo_url": "http://skinest.fi/wp-content/uploads/2013/06/Skinest_Finland_logo_netti.png",
 			"country": "EE",
 			"industry": "Manufacturing"
 		}, {
 			"title": "EnBW",
-			"logo_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.ctfassets.net%2Fupmoejz03x66%2F3Qp8saRgmqtiF5IacTzgkO%2Fd86e698e0dd4bd0e386f9eb8ce65db6d%2Fenbw-logo.jpg%3Ffl%3Dprogressive&f=1&nofb=1",
+			"logo_url": "https://www.enbw.com/media/cd-layout/images/logo-und-favicon/enbw_logo_kurzform_weissorange_srgb_1647598606187.svg",
 			"country": "DE",
 			"industry": "Energy and Utilities"
 		},{
-			"title": "T./odico",
-			"logo_url": "",
+			"title": "Todico",
+			"logo_url": "https://storage.snappages.site/xsomj8lh7w/assets/images/2147458_3300x555_500.png",
 			"country": "FR",
-			"industry": "Manufcaturing"
+			"industry": "Manufacturing"
 		},{
 			"title": "Augustus International Enterprises Medical Management",
-			"logo_url": "",
+			"logo_url": "https://augustusinternationalenterprises.com/wp-content/uploads/2020/08/logo.png",
 			"country": "US",
 			"industry": "Health and Life Sciences"
 		},{
 			"title": "Fracht",
-			"logo_url": "",
+			"logo_url": "https://www.fracht.com/img/logos/Logo_Fracht.png",
 			"country": "DE",
-			"industry": "commerce and Retail"
+			"industry": "Commerce and Retail"
 		},{
 			"title": "evozon",
-			"logo_url": "",
+			"logo_url": "https://www.evozon.com/wp-content/uploads/2021/03/Group-813.svg",
 			"country": "RO",
 			"industry": "Information Technology"
 		},{
 			"title": "Adult Literacy Rural Trust",
-			"logo_url": "",
+			"logo_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.netclipart.com%2Fpp%2Fm%2F449-4496962_ryalt-rural-youth-and-adult-literacy-trust.png&f=1&nofb=1",
 			"country": "US",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "Fokuza",
-			"logo_url": "",
+			"logo_url": "http://fokuza.org/config/logo.png?150px&34fd319567",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "One Happy Family",
-			"logo_url": "",
+			"logo_url": "https://ohf-lesvos.org/wp-content/themes/ohf-wp-theme/img/logo.png",
 			"country": "DE",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "bundesanzeiger-verlag",
-			"logo_url": "",
+			"logo_url": "https://www.bundesanzeiger-verlag.de/typo3conf/ext/bav/Resources/Public/img/logo/logo_bundesanzeiger_verlag.svg",
 			"country": "DE",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "ACLU",
-			"logo_url": "",
+			"logo_url": "https://www.aclu.org/wp-content/uploads/2022/06/BANS-OFF-BODIES-Full-Bleed-1-1400x700.jpg",
 			"country": "US",
 			"industry": "Associations and NGOs"
 		},{
 			"title": "ijgd",
-			"logo_url": "",
+			"logo_url": "https://www.ijgd.de/typo3conf/ext/ijgd_package/Resources/Public/Images/logo-ijgd_white.svg",
 			"country": "DE",
 			"industry": "Associations and NGOs"
 		},{
-			"title": "Česká televize",
-			"logo_url": "",
+			"title": "Ceska Televize",
+			"logo_url": "https://imgct.ceskatelevize.cz/global/images/logo-ceskatelevize-full.png?_ts=1366977075",
 			"country": "CZ",
 			"industry": "Media and Entertainment"
 		},{
 			"title": "Sea Watch",
-			"logo_url": "",
+			"logo_url": "https://sea-watch.org/wp-content/uploads/2016/09/sea-watch_logo_140.png",
 			"country": "DE",
 			"industry": "Associations and NGOs"
 		}],
