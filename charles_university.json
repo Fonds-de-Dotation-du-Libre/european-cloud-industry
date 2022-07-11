@@ -43,7 +43,7 @@
 		}],
 		"licence_list": ["GNU General Public License"],
 		"source_code_download": "https://github.com/CZ-NIC/bird",
-		"source_code_profile": "https://gitlab.nic.cz/labs/bird",
+		"source_code_profile": "",
 		"commercial_support_url": "https://bird.network.cz/?support",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
