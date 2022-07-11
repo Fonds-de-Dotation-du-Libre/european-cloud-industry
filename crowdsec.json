@@ -1,5 +1,5 @@
 {
-	"created": "07-04-2022",
+	"created": "2022-04-07",
 	"title": "Crowdsec SAS",
 	"type": "Organisation",
 	"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
@@ -10,7 +10,7 @@
 		"city": "MONTROUGE",
 		"country": "FR",
 		"phone_contact": "",
-		"mail_contact": " info@crowdsec.net",
+		"mail_contact": "info@crowdsec.net",
 		"coordinate_list": [48.82104913153437, 2.3136818115275255]
 	},
 	"subsidiary_location_list": [],
@@ -44,7 +44,7 @@
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
-		"wikipedia_url": "https://en.everybodywiki.com/CrowdSec",
+		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
 	}]
