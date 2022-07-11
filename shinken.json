@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-17",
 	"title": "Shinken",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
 	"headquarter_country": "FR",
 	"subsidiary_country_list": [],

@@ -1,13 +1,13 @@
 {
   "created": "2022-04-05",
   "title": "SenX",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://senx.io/assets/img/senx_header_dark.png",
   "location": {
-    "title": "SenX",
+    "title": "SenX SAS",
     "address": "55, rue Charles Nungesser",
     "postal_code": "29490",
-    "city": "GUIPAVAS",
+    "city": "Guipavas",
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "contact@senx.io",

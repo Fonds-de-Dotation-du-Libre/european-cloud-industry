@@ -1,7 +1,7 @@
 {
-	"created": "07-04-2022",
+	"created": "2022-04-07",
 	"title": "Rittal",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.rittal.com/imf/none/80_1157/",
 	"location": {
 		"title": "RITTAL GmbH & Co. KG",
@@ -59,11 +59,7 @@
 		"created_year": "",
 		"description": "The OCP rack offers the best possible packing density and space utilisation, because the 21 standard and 600 mm width ensure optimum rack utilisation.Special OCP servers are used in the racks, operating with an electrical supply voltage of 12 V / 48 V DC(direct current) and mechanically optimised for insertion in the 21 rack.",
 		"category_list": ["Storage and database"],
-		"similar_software_list": [{
-			"title": "",
-			"similiar_software_url": "",
-			"category": ""
-		}],
+		"similar_software_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -111,11 +107,7 @@
 		"created_year": "",
 		"description": "The digital transformation signifies a radical change and the production world will never be the same again. Industry 4.0 and mobile data offer new possibilities, because sensors, actuators, equipment and robots are networked so as to communicate with the central production control system and also with each other.",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -201,11 +193,7 @@
 		"created_year": "",
 		"description": "Rittal and its partner German Edge Cloud offer flexible infrastructure and cloud solutions in the form of “IT as a Service” models. These services are based on the RiMatrix BCC (Balanced Cloud Center) platform, with components such as racks, cooling and power supply already included in the predefined modules.",
 		"category_list": ["Cooling", "Rack"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -223,11 +211,7 @@
 		"created_year": "",
 		"description": "IT security begins with protection from physical threats, which could destroy the entire IT infrastructure and threaten a company’s very existence, especially in the Industry 4.0 era.",
 		"category_list": ["Cybersecurity"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -245,11 +229,7 @@
 		"created_year": "",
 		"description": "Industry 4.0, automated financial transactions, mobile streaming, and autonomous driving are all producing data that requires super-fast processing, extreme safeguarding, and uninterrupted availability.",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -267,11 +247,7 @@
 		"created_year": "",
 		"description": "Rittal‘s Secure Edge Data Center is a highly standardized and turn-key-ready complete solution data center for industrial use. ",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -289,11 +265,7 @@
 		"created_year": "",
 		"description": "The Rittal Micro Data Center Level E with iNNOVO Managed Service offers a secure environment for IT solutions and protects from physical risks like breaks-ins or fire. This is essential for confidential data. ",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -311,11 +283,7 @@
 		"created_year": "",
 		"description": "Lowest latency can be achieved with the Rittal SMDC solution with distributed infrastructure systems. The scalable edge solution includes the IT rack, cooling, power distributions and security, fire detection and extinguishing, and monitoring.",
 		"category_list": ["Cooling"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -333,11 +301,7 @@
 		"created_year": "",
 		"description": "Responsible for about 3% of global electricity consumption, worldwide, data centers are one of the fastest growing energy users. The Facebook group Open Compute Project (OCP) and its partners aims to optimize energy consumption of large IT infrastructures and increase the scalability of IT systems through the use of standardized modules.",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -355,11 +319,7 @@
 		"created_year": "",
 		"description": "In cooperation with iNNOVO, Rittal offers an edge solution that is scalable to the needs of the applications, and that provides data almost in real time: the RiMatrix Edge Data Center in High Availability Room (HVR).",
 		"category_list": ["Cooling"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -377,11 +337,7 @@
 		"created_year": "",
 		"description": "Rittal supports companies in the creation of this hierarchic, networked data center architecture. The edge data center includes rack, cooling power supply and security, fire detection and extinguishing, as well as monitoring and IP protection. The iNNOVO Cloud adds suitable Managed Services that are designed according to each customer’s needs.",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -399,11 +355,7 @@
 		"created_year": "",
 		"description": "Rittal Ethereum Blockchain as a Service is a complete solution that is delivered as a turn-key-ready Managed Service in a container. It is the result of a close cooperation between iNNOVO Cloud as an infrastructure provider, Chainlabs as the blockchain operator on the application level, and the Frankfurt School of Finance as scientific advisor. With iNNOVO Cloud EBaaS, new business models, especially for financial services, but also for IoT, Industry 4.0, healthcare, retail or government, can be securely and precisely realized. Existing IT platforms can be used for adding customer-specific blockchain applications. Proprietary smart contract processes can be executed more quickly and carried out more closely to the real location.",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",

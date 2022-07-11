@@ -1,7 +1,7 @@
 {
-	"created": "07-04-2022",
+	"created": "2022-04-07",
 	"title": "AG Project",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://ag-projects.com/images/aglogo.svg",
 	"location": {
 		"title": "AG Project",
@@ -28,21 +28,21 @@
 		"title": "Sylk suite",
 		"logo_url": "https://sylkserver.com/images/sylk.svg",
 		"website_url": "https://sylkserver.com/",
-		"created_year": null,
+		"created_year": "",
 		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",		
-		"category_list": ["Developer"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "MSRP",
 			"similiar_solution_url": "http://msrprelay.org/",
-			"category": "Developer"
+			"category": "Application"
 		}, {
 			"title": "Sipthor",
 			"similiar_solution_url": "https://sipthor.net/index.phtml",
-			"category": "Developer"
+			"category": "Application"
 		}, {
 			"title": "sip2sip",
 			"similiar_solution_url": "https://sip2sip.info/",
-			"category": "Developer"
+			"category": "Application"
 		}],
 		"licence_list": ["GNU General Public License version 3"],
 		"source_code_download": "https://github.com/AGProjects/sylk-mobile",
@@ -52,21 +52,7 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }

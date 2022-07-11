@@ -1,7 +1,7 @@
 {
   "created": "2022-04-05",
   "title": "Rapid.Space International SASU",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://www.rapid.space/rapidspace-Website.Logo?format=",
   "location": {
     "title": "Rapid.Space International SASU",
@@ -35,8 +35,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Virtual_private_server",
     "reference_list": [],
     "success_case_list": [{
-      "title": "use case",
-      "description": "/e/ (formerly Eelo) is a free and open-source Android-based mobile operating system and associated online services. E.foundation uses Rapid.Space VPS to build system images of e.OS for all the phones they support. A single VPS can run countless Docker containers at the same time, each with a different build. The key advantages of Rapid.Space for this application are: high performance, fair price, open hardware.",
+      "title": "e.foundation uses Rapid.Space for system build images",
+      "description": "e.foundation (formerly Eelo) is a free and open-source Android-based mobile operating system and associated online services. E.foundation uses Rapid.Space VPS to build system images of e.OS for all the phones they support. A single VPS can run countless Docker containers at the same time, each with a different build. The key advantages of Rapid.Space for this application are: high performance, fair price, open hardware.",
       "image_url": "https://www.rapid.space/RS2-Website-Partner.Logo.E.Foundation?display=thumbnail&format=png&quality=0.9",
       "industry": "Information Technology",
       "customer": "e.foundation",
@@ -44,7 +44,7 @@
       "language": "fr",
       "success_case_url": "https://www.rapid.space/products/"
       },{
-      "title": "use case",
+      "title": "Resiliency for Big&Go electronic toll subscription",
       "description": "Bip&Go is a French company, subsidiary of the Sanef group, in charge of marketing Liber-t electronic toll subscriptions, contract management and after-sales service. Rapid.Space VPS provides big servers for disaster recovery.",
       "image_url": "https://www.rapid.space/RS2-Website-Partner.Logo.Bip.And.Go?display=thumbnail&format=png&quality=0.9",
       "industry": "Transport",

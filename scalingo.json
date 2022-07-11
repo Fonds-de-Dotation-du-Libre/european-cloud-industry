@@ -1,7 +1,7 @@
 {
   "created": "2022-04-15",
   "title": "Scalingo SAS",
-  "type": "Other",
+  "type": "Organisation",
   "logo_url": "https://www.datocms-assets.com/36416/1640774309-transparent-scalingo-logo.png?fm=jpg&max-w=680",
   "location": {
     "title": "Scalingo SAS",
@@ -18,14 +18,14 @@
   "founded_year": 2014,
   "kpi_list": [{
     "year": 2017,
-    "staff": null,
+    "staff": "",
     "earnings": "-9 942 EUR",
     "total_assets": "62 173 EUR",
     "revenues": "134 767 EUR",
     "source_url": "https://www.verif.com/"
   },{
     "year": 2016,
-    "staff": null,
+    "staff": "",
     "earnings": "21 527 EUR",
     "total_assets": "49 142 EUR",
     "revenues": "68 194 EUR",
@@ -49,7 +49,7 @@
     },{
       "title": "Clever Cloud",
       "similiar_solution_url": "https://www.clever-cloud.com/",
-      "category": "Developer environment "
+      "category": "Developer environment"
     }],
     "licence_list": ["Proprietary"],
     "source_code_download": "https://github.com/Scalingo/documentation.git",
@@ -71,7 +71,7 @@
       "industry": "Information Technology"
     },{
       "title": "Level Up Solutions",
-      "logo_url": "",
+      "logo_url": "https://www.levups.com/images/logo-8f03cc45.png",
       "country": "FR",
       "industry": "Information Technology"
     }],
@@ -113,7 +113,7 @@
       "success_case_url": "https://scalingo.com/customers/cucumberstudio"
     },{
       "title": "Running Germany's largest online donation platform on Scalingo",
-      "description": "betterplace.me is a new donation platform that we launched on Scalingo in 2018. betterplace.me makes it easy for individuals - and initiatives who aren't part of a larger organization - to collect donations as well. They wanted to migrate a few of their applications off Heroku in preparation for the GDPR. Scalingo was the only European “drop-in” replacement that just worked. They also appreciated the personal contact with the team which quickly reacted if there was trouble.",
+      "description": "Betterplace.me is a new donation platform that we launched on Scalingo in 2018. betterplace.me makes it easy for individuals - and initiatives who aren't part of a larger organization - to collect donations as well. They wanted to migrate a few of their applications off Heroku in preparation for the GDPR. Scalingo was the only European “drop-in” replacement that just worked. They also appreciated the personal contact with the team which quickly reacted if there was trouble.",
       "image_url": "https://www.datocms-assets.com/36416/1634650343-betterplace-logo.svg",
       "industry": "Associations and NGOs",
       "customer": "Betterplace.org",
@@ -140,7 +140,7 @@
       "success_case_url": "https://scalingo.com/customers/baqio"
     },{
       "title": "Building an IoT Platform for the Smart City on Scalingo",
-      "description": "",
+      "description": "Toni Carrión, R&D Project Manager at Monrabal, tells the story of the Sigenty IoT project and their usage of our new TCP Gateway addon.",
       "image_url": "https://www.datocms-assets.com/36416/1634652783-moraballogo.svg",
       "industry": "Manufacturing",
       "customer": "Monrabal",
