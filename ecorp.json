@@ -1,7 +1,7 @@
 {
-  "created": "27-04-2022",
+  "created": "2022-04-27",
   "title": "ECORP SAS",
-  "type": "corporation",
+  "type": "Organisation",
   "logo_url": "",
   "location": {
     "title": "ECORP",
@@ -10,55 +10,13 @@
     "city": "Paris",
     "country": "FR",
     "phone_contact": " +1 650 555 0111",
-    "mail_contact": " info@e-corp.org",
+    "mail_contact": "info@e-corp.org",
     "coordinate_list": []
   },
   "subsidiary_location_list": [],
   "website_url": "https://ecorp.solutions/",
-  "founded_year": "2018",
-  "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2020",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "- 257 174 ",
-    "total_assets": "",
-    "revenues": "215 480",
-    "source_url": ""
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  }],
+  "founded_year": 2018,
+  "kpi_list": [],
   "solution_list": [{
     "title": "Murena Fairphone 4",
     "logo_url": "",
@@ -66,11 +24,7 @@
     "created_year": "",
     "description": "Like all Fairphone phones, it is built to last with its modular and repairable design. It features a removable 3905 mAh rechargeable battery. You can swap out the battery or the display on your own. No part of Murena Fairphone 4 is glued shut, so you can choose to easily repair it yourself with a standard screwdriver.",
     "category_list": ["Communication"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -88,11 +42,7 @@
     "created_year": "",
     "description": "The deGoogled Murena Fairphone 3+ is the next evolution in privacy conscious and sustainable phone. It features 2 new camera modules with 48MP camera and 16MP selfie camera for higher quality pictures and videos and it is made of 40% recycled plastics, the most post-consumer recycled plastic of any Fairphone.",
     "category_list": ["Communication"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -110,11 +60,7 @@
     "created_year": "",
     "description": "",
     "category_list": ["Communication"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -132,11 +78,7 @@
     "created_year": "",
     "description": "The deGoogled Murena Galaxy S9+ features a large gorgeous screen, a great camera with dual aperture and a similar premium design as the Galaxy S9. It is water and dust resistant with an IP68 rating and comes with expandable storage up to 512 GB.",
     "category_list": ["Communication"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -154,11 +96,7 @@
     "created_year": "",
     "description": "The deGoogled Murena Galaxy S9 features a gorgeous screen, a great camera and a premium design with metal and glass that makes it still one of the best smartphones in 2019. It is water and dust resistant with an IP68 rating and comes with expandable storage up to 512 GB.",
     "category_list": ["Communication"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
@@ -176,11 +114,7 @@
     "created_year": "",
     "description": "The Murena T2e is a fantastic combination toward better sustainability between its modular design, its replaceable battery next to the lightweight deGoogled OS. It has a 4000mAh replaceable battery, is DIY repairable, made from recycled material, and comes with a sturdy biodegradable case. It comes with a four-year warranty and a flat fee for accidental repairs because we know stuff happens. The Murena T2e is a great value for money and a great option to deGoogle your life!",
     "category_list": ["Communication"],
-    "similar_solution_list": [{
-      "title": "",
-      "similiar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
