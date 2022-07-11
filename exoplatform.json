@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-31",
 	"title": "eXo Platform",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/05/exo-70x30.png",
 	"location": {
 		"title": "eXo Platform Europe",
@@ -10,7 +10,7 @@
 		"city": "Paris",
 		"country": "FR",
 		"phone_contact": "+33182837731",
-		"mail_contact": "https://www.exoplatform.com/contact-us/",
+		"mail_contact": "",
 		"coordinate_list": [48.86898233653592, 2.330626921910098]
 	},
 	"subsidiary_location_list": ["US", "TN"],
@@ -24,11 +24,7 @@
 		"created_year": "",
 		"description": "A Digital Workplace solution conceived to facilitate collaboration through secured spaces, task managers, documents sharing and editing, communication through videoconference and messaging, making it easier to work from anywhere, and thought to boost productivity,",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-      			"title": "",
-      			"similiar_solution_url": "",
-      			"category": ""
-    		}],
+		"similar_solution_list": [],
     		"licence_list": ["GNU AGPL v3.0"],
 		"source_code_download": "https://github.com/exoplatform",
 		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
@@ -46,11 +42,7 @@
 		"created_year": "",
 		"description": "Designed to easily create and publish rich and engaging content and also simplify internal communication from management as well as between collaborators through communities. The functional devices help boost productivity, and connect employees to their projects, colleagues, and company. ",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-      			"title": "",
-      			"similiar_solution_url": "",
-      			"category": ""
-    		}],
+		"similar_solution_list": [],
     		"licence_list": ["GNU AGPL v3.0"],
 		"source_code_download": "https://github.com/exoplatform",
 		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
@@ -68,12 +60,8 @@
 		"created_year": "",
 		"description": "The Collaboration Platform facilitates project management with shared documents, tasks, calendars and notes on private secure workspaces, from any location. It enables internal communities thanks to chat and video-conference in real time and through activity streams, which also promotes multidisciplinarity collaboration and mutual help.",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-      			"title": "",
-      			"similiar_solution_url": "",
-      			"category": ""
-    		}],
-    		"licence_list": ["GNU AGPL v3.0"],
+		"similar_solution_list": [],
+    "licence_list": ["GNU AGPL v3.0"],
 		"source_code_download": "https://github.com/exoplatform",
 		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
@@ -90,12 +78,8 @@
 		"created_year": "",
 		"description": "Solution designed to store documents and other content types in contextual file systems that you can organize to help finding the relevant informations, through results filtering and a powerful unified search. The software enables direct knowledge contributions via articles or notes that the collaborators can browse and share.",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-      			"title": "",
-      			"similiar_solution_url": "",
-      			"category": ""
-    		}],
-    		"licence_list": ["GNU AGPL v3.0"],
+		"similar_solution_list": [],
+    "licence_list": ["GNU AGPL v3.0"],
 		"source_code_download": "https://github.com/exoplatform",
 		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.exoplatform.com/product-offer/",

@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-05",
 	"title": "Framasoft",
-	"type": "NGO",
+	"type": "Organisation",
 	"logo_url": "https://framasoft.org/img/biglogo-notxt.png",
 	"location": {
 		"title": "Framasoft",
@@ -10,8 +10,8 @@
 		"city": "Lyon",
 		"country": "FR",
 		"phone_contact": "",
-		"mail_contact": "https://contact.framasoft.org/",
-		"coordinate_list": ["45.751776645347455, 4.842907453532815"]
+		"mail_contact": "",
+		"coordinate_list": [45.751776645347455, 4.842907453532815]
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://framasoft.org/fr/",
@@ -77,11 +77,7 @@
 		"created_year": 2005,
 		"description": "Framagenda is an online agenda based on Nextcloud; It allows you to create and share multiple calendars, schedule appointments and tasks and keep contacts easily accessible from anywhere.",
 		"category_list": ["Workspace"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["AGPL-3.0"],
 		"source_code_download": "https://github.com/nextcloud/calendar.git",
 		"source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
@@ -160,7 +156,7 @@
 		}, {
 			"title": "jawanndenn",
 			"similiar_solution_url": "https://jawanndenn.de/",
-			"category": "Wokrspace"
+			"category": "Workspace"
 		}, {
 			"title": "Dudle",
 			"similiar_solution_url": "https://dudle.inf.tu-dresden.de/",
