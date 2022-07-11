@@ -10,7 +10,7 @@
 		"city": "Lyon",
 		"country": "FR",
 		"phone_contact": "+33972505670",
-		"mail_contact": "https://www.dawex.com/fr/a-propos/contacts/",
+		"mail_contact": "",
 		"coordinate_list": [45.768881807452125, 4.837626710687799]
 	},
 	"subsidiary_location_list": ["CA"],
@@ -114,7 +114,7 @@
 				"title": "Nexity",
 				"logo_url": "https://www.dawex.com/hubfs/nexity-logo.svg",
 				"country": "FR",
-				"industry": "Housing"
+				"industry": "Housing and Real Estate"
 			}, {
 				"title": "MyBus",
 				"logo_url": "https://www.mybus.io/wp-content/themes/mybus/assets/dist/images/logo.svg",
