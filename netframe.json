@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-23",
-	"title": "Netframe.co SAS",
-	"type": "Company",
+	"title": "Netframe",
+	"type": "Organisation",
 	"logo_url": "https://www.netframe.co/media/site/1750045209-1630959429/logo.jpg",
 	"location": {
 		"title": "Netframe.co SAS",
@@ -16,7 +16,7 @@
 	"subsidiary_location_list": "",
 	"website_url": "https://www.netframe.co/",
 	"founded_year": 2018,
-	"kpi_list": [""],
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Netframe",
 		"logo_url": "https://www.netframe.co/media/site/1750045209-1630959429/logo.jpg",
@@ -37,7 +37,7 @@
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Workspace"
 		}],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",

@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "NoMachine",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://www.nomachine.com/sites/all/themes/frontend/images/shared/abous-us-icon.png",
   "location": {
     "title": "NoMachine Luxembourg Headquarters",
@@ -10,7 +10,7 @@
     "city": "Luxembourg",
     "country": "LU",
     "phone_contact": "+35226262164",
-    "mail_contact": "https://www.nomachine.com/contact-request",
+    "mail_contact": "",
     "coordinate_list": [49.61078110385623, 6.128842828451777]
   },
   "subsidiary_location_list": ["DE","US"],
@@ -18,35 +18,35 @@
   "founded_year": 2002,
   "kpi_list": [{
     "year": 2020,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "6 219 681 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   }, {
     "year": 2019,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "6 192 463 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
     "year": 2018,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "5 096 173 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
     "year": 2017,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "4 122 374 EUR",
     "revenues": "",
     "source_url": "https://e-justice.europa.eu/"
   },{
     "year": 2016,
-    "staff": null,
+    "staff": "",
     "earnings": "",
     "total_assets": "3 837 492 EUR",
     "revenues": "",
@@ -92,12 +92,7 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/NX_technology",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
+    "reference_list": [],
     "success_case_list": [{
       "title": "ECI Telecom Case Study",
       "description": "A leading provider of networking infrastructure for some of the largest carrier and service provider networks, ECI Telecom finally finds session resiliency and high-speed remote access for their 3000 employees through NX.",
@@ -105,7 +100,7 @@
       "industry": "Telecommunication",
       "customer": "CI Telecom",
       "country": "IL",
-      "language": "HE",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/ECI-Telecom"
     },{
       "title": "CenturyTel Case Study",
@@ -114,7 +109,7 @@
       "industry": "Telecommunication",
       "customer": "CenturyTEl",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/CenturyTel"
     },{
       "title": "Silicon and Software Systems Case Study",
@@ -123,7 +118,7 @@
       "industry": "Information Technology",
       "customer": "3S - Silicon Software Systems",
       "country": "IE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Silicon-and-Software-Systems"
     },{
       "title": "Montavista Case Study",
@@ -132,7 +127,7 @@
       "industry": "Information Technology",
       "customer": "MontaVista",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/MontaVista"
     },{
       "title": "Steinhafels Case Study",
@@ -141,7 +136,7 @@
       "industry": "Commerce and Retail",
       "customer": "Steinhafels",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Steinhafels"
     },{
       "title": "Oak Ridge National Laboratory Case Study",
@@ -150,7 +145,7 @@
       "industry": "Academia and Research",
       "customer": "Oak Ridge National Laboratory",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Oak-Ridge-National-Laboratory"
     },{
       "title": "Norsk Regnesentral Case Study",
@@ -159,7 +154,7 @@
       "industry": "Academia and Research",
       "customer": "Norsk Regnesentral",
       "country": "NO",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Norsk-Regnesentral"
     },{
       "title": "GN ReSound Corporation Case Study",
@@ -168,7 +163,7 @@
       "industry": "Academia and Research",
       "customer": "GN ReSound Corporation",
       "country": "DK",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/GN-ReSound-Corporation"
     },{
       "title": "European Synchrotron Radiation Facility Case Study",
@@ -177,7 +172,7 @@
       "industry": "Academia and Research",
       "customer": "European Synchrotron Radiation Facility",
       "country": "FR",
-      "language": "FR",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/European-Synchrotron-Radiation-Facility"
     },{
       "title": "Diamond Light Source Case Study",
@@ -186,7 +181,7 @@
       "industry": "Academia and Research",
       "customer": "Diamond Light Source",
       "country": "GB",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Diamond-Light-Source"
     },{
       "title": "Argonne National Laboratory Case Study",
@@ -195,7 +190,7 @@
       "industry": "Academia and Research",
       "customer": "Argonne National Laboratory",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Argonne-National-Laboratory"
     },{
       "title": "University of Technology Sydney Case Study",
@@ -204,7 +199,7 @@
       "industry": "Academia and Research",
       "customer": "University of Technology, Sydney",
       "country": "AU",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Technology-Sydney"
     },{
       "title": "University of Limoges Case Study",
@@ -213,7 +208,7 @@
       "industry": "Academia and Research",
       "customer": "University of Limoges",
       "country": "FR",
-      "language": "FR",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Limoges"
     },{
       "title": "University of Leicester Case Study",
@@ -222,7 +217,7 @@
       "industry": "Academia and Research",
       "customer": "University of Leicester",
       "country": "GB",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Leicester"
     },{
       "title": "University of Colorado Case Study",
@@ -231,7 +226,7 @@
       "industry": "Academia and Research",
       "customer": "University of Colorado",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Colorado"
     },{
       "title": "University of Chicago Case Study",
@@ -240,7 +235,7 @@
       "industry": "Academia and Research",
       "customer": "University of Chicago",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/University-Chicago"
     },{
       "title": "NoPC Case Study",
@@ -249,7 +244,7 @@
       "industry": "Academia and Research",
       "customer": "NoPC",
       "country": "GB",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/NoPC-0"
     },{
       "title": "Mosaic Case Study",
@@ -258,7 +253,7 @@
       "industry": "Academia and Research",
       "customer": "Mosaic",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Mosaic"
     },{
       "title": "Riagg Rijnmond Case Study",
@@ -267,7 +262,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Riagg Rijnmond",
       "country": "NL",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Riagg-Rijnmond"
     },{
       "title": "Glendale Adventist Medical Center Case Study",
@@ -276,7 +271,7 @@
       "industry": "Health and Life Sciences",
       "customer": "Glendale Adventist Medical Center",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Glendale-Adventist-Medical-Center"
     },{
       "title": "Fred Hutchinson Cancer Research Center Case Study",
@@ -285,16 +280,16 @@
       "industry": "Health and Life Sciences",
       "customer": "Fred Hutchinson Cancer Research Center",
       "country": "US",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Fred-Hutchinson-Cancer-Research-Center"
     },{
       "title": "Schwaebisch Hall Case Study",
       "description": "A globally recognized migration from an expensive proprietary solution of one of Germany's town councils to Linux. It adopted NX in order to ease the transition and provide cost-effective civil services to its citizens.",
       "image_url": "",
-      "industry": "Public ADministration and Government",
+      "industry": "Public Administration and Government",
       "customer": "Schwaebisch Hall",
       "country": "DE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.nomachine.com/Schwaebisch-Hall" 
     }]
   }]

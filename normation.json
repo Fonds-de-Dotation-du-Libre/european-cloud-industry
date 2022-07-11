@@ -1,7 +1,7 @@
 {
   "created": "2022-04-04",
   "title": "Normation",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBowLoYTLpHOKXvhlhH-_zZFOEJzwXWKsvwA&usqp=CAU",
   "location": {
     "title": "Normation",
@@ -56,12 +56,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rudder_(software)",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
+    "reference_list": [],
     "success_case_list": [{
       "title": "Configuration and package management for an industrial company",
       "description": "An automative industrial company needed to select and implement a new solution for configuration and package management. The aim was to standardize the worldwide UNIX/Linux infrastructure and ensure compliance with security and IT policies.",
@@ -69,7 +64,7 @@
       "industry": "Automotive",
       "customer": "BMW",
       "country": "DE",
-      "language": "EN",
+      "language": "en",
       "success_case_url": "https://www.rudder.io/wp-content/uploads/2020/02/Success-Story-M.pdf"
     },{
       "title": "Jaguar Networks selects Rudder for the Continuous configuration management of its Stand-alone Servers ",
@@ -78,7 +73,7 @@
       "industry": "Information Technology",
       "customer": "Jaguar Network",
       "country": "FR",
-      "language": "FR",
+      "language": "fr",
       "success_case_url": "https://www.rudder.io/wp-content/uploads/2021/08/Jaguar-Network-Rudder.pdf"
     }]
   }]
