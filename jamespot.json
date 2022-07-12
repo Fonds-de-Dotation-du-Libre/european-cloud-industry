@@ -13,7 +13,7 @@
 		"mail_contact": "info@jamespot.com",
 		"coordinate_list": [48.852196813582395, 2.425986557687416]
 	},
-	"subsidiary_location_list": [""],
+	"subsidiary_location_list": [],
 	"website_url": "https://www.fr.jamespot.com/",
 	"founded_year": 2005,
 	"kpi_list": [{
@@ -23,35 +23,35 @@
 		"total_assets": "4 183 861 EUR",
 		"revenues": "3 165 101 EUR",
 		"source_url": "https://www.verif.com/"
-		}, {
+	}, {
 		"year": 2019,
 		"staff": 17,
 		"earnings": "292 357 EUR",
 		"total_assets": "3 168 957 EUR",
 		"revenues": "2 642 058 EUR",
 		"source_url": "https://www.verif.com/"
-		}, {
+	}, {
 		"year": 2018,
 		"staff": "",
 		"earnings": "575 849 EUR",
 		"total_assets": "2 776 611 EUR",
 		"revenues": "2 029 737 EUR",
 		"source_url": "https://www.verif.com/"
-		}, {
+	}, {
 		"year": 2017,
 		"staff": 13,
 		"earnings": "343 980 EUR",
 		"total_assets": "1 966 824 EUR",
-		"revenues": "1414382 EUR",
+		"revenues": "1 414 382 EUR",
 		"source_url": "https://www.verif.com/"
-		}, {
+	}, {
 		"year": 2016,
 		"staff": 13,
 		"earnings": "65 623 EUR",
 		"total_assets": "1 531 557 EUR",
 		"revenues": "1 159 671 EUR",
 		"source_url": "https://www.verif.com/"
-		}],
+	}],
 	"solution_list": [{
 		"title": "Open Agora",
 		"logo_url": "",
@@ -63,7 +63,7 @@
 			"title": "Google Workspace",
 			"similiar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
-			}, {
+		}, {
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Workspace"
@@ -78,31 +78,32 @@
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": [{
 			"title": "Groupe Renault",
-      			"logo_url": "https://www.renaultgroup.com/wp-content/themes/renault/assets/styles/images/logo-groupe-renault-sm.svg",
-      			"country": "FR",
-     			"industry": "Automotive"
-    			},{
+			"logo_url": "https://www.renaultgroup.com/wp-content/themes/renault/assets/styles/images/logo-groupe-renault-sm.svg",
+			"country": "FR",
+			"industry": "Automotive"
+		}, {
 			"title": "Raynal et Roquelaure",
-      			"logo_url": "https://www.raynal-roquelaure.fr/wp-content/themes/2.4.9/images/RR_logo_2.png?v=1588858469462",
-      			"country": "FR",
-     			"industry": "Agriculture and Food"
-    			},{
+			"logo_url": "https://www.raynal-roquelaure.fr/wp-content/themes/2.4.9/images/RR_logo_2.png?v=1588858469462",
+			"country": "FR",
+			"industry": "Agriculture and Food"
+		}, {
 			"title": "BNP Paribas Real Estate",
-      			"logo_url": "https://www.realestate.bnpparibas.fr/themes/custom/stellartheme/img/logo-bnpre.png",
-      			"country": "FR",
-     			"industry": "Housing and Real Estate"
-    			},{
+			"logo_url": "https://www.realestate.bnpparibas.fr/themes/custom/stellartheme/img/logo-bnpre.png",
+			"country": "FR",
+			"industry": "Housing and Real Estate"
+		}, {
 			"title": "Ilévia",
-      			"logo_url": "https://www.ilevia.fr/themes/transpole/img/Ilevia-long-RVB-fond-noir.svg",
-      			"country": "FR",
-     			"industry": "Transport"
-    			},{
+			"logo_url": "https://www.ilevia.fr/themes/transpole/img/Ilevia-long-RVB-fond-noir.svg",
+			"country": "FR",
+			"industry": "Transport"
+		}, {
 			"title": "La France Mutualiste",
-      			"logo_url": "https://www.la-france-mutualiste.fr/themes/custom/lfm_twerk/logo.svg",
-      			"country": "FR",
-     			"industry": "Insurance"
-    			},{
+			"logo_url": "https://www.la-france-mutualiste.fr/themes/custom/lfm_twerk/logo.svg",
+			"country": "FR",
+			"industry": "Insurance"
+		}, {
 			"title": "BPI France",
+<<<<<<< HEAD
       			"logo_url": "https://www.bpifrance.fr/themes/custom/bpi_main/logo.svg",
       			"country": "FR",
      			"industry": "Banking and Finance"
@@ -117,12 +118,44 @@
       			"country": "FR",
      			"industry": "Public Administration and Government"
     			},{
+=======
+			"logo_url": "https://www.bpifrance.fr/themes/custom/bpi_main/logo.svg",
+			"country": "FR",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "L'Assurance Maladie",
+			"logo_url": "https://www.ameli.fr/themes/custom/ameli/images/logo.svg",
+			"country": "FR",
+			"industry": "Insurance"
+		}, {
+			"title": "CSA",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_efd6278fd68941acb11d27397386c55b~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_efd6278fd68941acb11d27397386c55b~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Apec",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_d076074ef383425e9156bb7a90ed0f94~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_d076074ef383425e9156bb7a90ed0f94~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Direction Du Budget",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_bb64d7b6c0c74912850c6f5afe402328~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_bb64d7b6c0c74912850c6f5afe402328~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Seine-Saint-Denis",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_91c2e3e2d03b41069f8d7425a25d4da6~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_91c2e3e2d03b41069f8d7425a25d4da6~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+>>>>>>> 7139ac7 (update jamespot)
 			"title": "UCANSS",
-      			"logo_url": "https://www.ucanss.fr/modules/ucanss-portail-components/img/logo_ucanss_header.png",
-      			"country": "FR",
-     			"industry": "Public Administration and Government"
-    			},{
+			"logo_url": "https://static.wixstatic.com/media/9a1120_cf33cbadacea4a46bd3c4b0389c1d510~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_cf33cbadacea4a46bd3c4b0389c1d510~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
 			"title": "Cerema",
+<<<<<<< HEAD
       			"logo_url": "https://www.cerema.fr/themes/custom/uas_base/images/LogoCerema_horizontal_EN.svg",
       			"country": "FR",
      			"industry": "Public Administration and Government"
@@ -132,32 +165,54 @@
       			"country": "FR",
      			"industry": "Agriculture and Food"
     			},{
+=======
+			"logo_url": "https://static.wixstatic.com/media/9a1120_028e2d729a564e9d8cac7e778c76d1e3~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_028e2d729a564e9d8cac7e778c76d1e3~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Syntec Numérique",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_d7fde15be3fd41a6809c3a2dcf148453~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_d7fde15be3fd41a6809c3a2dcf148453~mv2.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "Mafter Bourgeat",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_953a033c1a5341efb69a582f9d92f5f6~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_953a033c1a5341efb69a582f9d92f5f6~mv2.png",
+			"country": "FR",
+			"industry": "Agriculture and Food"
+		}, {
+			"title": "Groupe Ozitem",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_e8c51c4cb1db48eaa54308dd87d5ea15~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_e8c51c4cb1db48eaa54308dd87d5ea15~mv2.png",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+>>>>>>> 7139ac7 (update jamespot)
 			"title": "Interiale Mutuelle",
-      			"logo_url": "https://www.interiale.fr/uploads/2021/01/logo_interiale.svg",
-      			"country": "FR",
-     			"industry": "Insurance"
-    			},{
+			"logo_url": "https://static.wixstatic.com/media/9a1120_ad2e7a72cf6448949ca1be36211a5d3e~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_ad2e7a72cf6448949ca1be36211a5d3e~mv2.png",
+			"country": "FR",
+			"industry": "Insurance"
+		}, {
 			"title": "INRAE",
-      			"logo_url": "https://www.inrae.fr/themes/custom/inrae_socle/logo.svg",
-      			"country": "FR",
-     			"industry": "Public Administration and Government"
-    			},{
+			"logo_url": "https://static.wixstatic.com/media/9a1120_e4ae5da1e41b4322b556009b61650710~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_e4ae5da1e41b4322b556009b61650710~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
 			"title": "Strada",
-      			"logo_url": "https://www.strada.fr/web/image/res.company/1/logo?unique=33d85f0",
-      			"country": "FR",
-     			"industry": "Information Technology"
-    			},{
+			"logo_url": "https://static.wixstatic.com/media/9a1120_375a1e8c2f9b4108a6b4d15bc7b8b481~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_375a1e8c2f9b4108a6b4d15bc7b8b481~mv2.png",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
 			"title": "France Clusters",
-      			"logo_url": "https://franceclusters.fr/wp-content/uploads/2016/02/logo_franceclusters.jpg",
-      			"country": "FR",
-     			"industry": "Consulting and Training"
-    			},{
+			"logo_url": "https://static.wixstatic.com/media/9a1120_ff47f90c0bf74038bd0e7d0456592ca6~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_ff47f90c0bf74038bd0e7d0456592ca6~mv2.png",
+			"country": "FR",
+			"industry": "Consulting and Training"
+		}, {
 			"title": "Marco Vasco",
-      			"logo_url": "https://c3.marcovasco.fr/sites/www.planetveo.com/files/webp/styles/full-width-headerbreakpoints_theme_mv_bootstrap_lg_1x/public/header_homepage.jpg.webp",
-      			"country": "FR",
-     			"industry": "Travel and Tourism"
-    			},{
+			"logo_url": "https://static.wixstatic.com/media/9a1120_c23c5e61ebcb487ba9d30fc0b956e5dc~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_c23c5e61ebcb487ba9d30fc0b956e5dc~mv2.png",
+			"country": "FR",
+			"industry": "Travel and Tourism"
+		}, {
 			"title": "Unapei",
+<<<<<<< HEAD
       			"logo_url": "https://www.unapei.org/wp-content/themes/wext/assets/img/logo_unapei.png",
       			"country": "FR",
      			"industry": "Associations and NGOs"
@@ -167,6 +222,22 @@
       			"country": "FR",
      			"industry": "Agriculture and Food"
 			}],
+=======
+			"logo_url": "https://static.wixstatic.com/media/9a1120_840872bf3c4140f9942b52a51719ce30~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_840872bf3c4140f9942b52a51719ce30~mv2.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		}, {
+			"title": "LPA-CGR",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_0890c01d6f7f4d948e78eb4f7ee8ca5c~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_0890c01d6f7f4d948e78eb4f7ee8ca5c~mv2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Groupe Cristal",
+			"logo_url": "https://static.wixstatic.com/media/9a1120_3494be4ff4584e90952ac6ed9c7ee30d~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_3494be4ff4584e90952ac6ed9c7ee30d~mv2.png",
+			"country": "FR",
+			"industry": "Agriculture and Food"
+		}],
+>>>>>>> 7139ac7 (update jamespot)
 		"success_case_list": [{
 			"title": "Communication improvement with Jamespot",
 			"description": "With a growing membership number in the association, communication through mails became so complex that the association wasn’t functioning efficiently. They used  Jamespot’s collaborative solution to improve the communication flow between members because of its user friendly platform.",
@@ -176,7 +247,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=326UtTSG70M"
-			}, {
+		}, {
 			"title": "Replacement of an outdated solution by Jamespot's communicative platform",
 			"description": "With a growing number of employees and new work approaches Groupe SeLoger used Jamespot's solution to replace their former platform. The solution fits well with their way of collaborate and their agile methodology used to run their projects",
 			"image_url": "https://www.groupeseloger.com/images/logo-seloger-header.png",
@@ -185,7 +256,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=Kpp75hVxGPs"
-			}, {
+		}, {
 			"title": "Communication improvement with Jamespot",
 			"description": "They used Jamespot's solution to improve communication with their members instead of emails because of it is flexible and user-friendly.",
 			"image_url": "",
@@ -194,7 +265,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=c0x6HdewD-I"
-			}, {
+		}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "With a growing membership number in the association, communication through any kind of channel was complex. After a trial with a less-known platform they decided to use Jamespot's solution instead because many features fit their needs",
 			"image_url": "https://franceclusters.fr/wp-content/uploads/2016/02/logo_franceclusters.jpg",
@@ -203,7 +274,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=Qo-IOWmE5JE"
-			}, {
+		}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They used Jamespot solution to improve their communication which was under the form of a newsletter spread to all members. With the solution they can create work groups and provide interaction between members",
 			"image_url": "https://www.gfii.fr/images/gfii.jpg",
@@ -212,7 +283,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=MVjDFbwHyJg"
-			}, {
+		}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They used Jamespot's solution because they needed to centralize in a one app all their communication flows and improve the way communication is spread through the company. With a friendly but professional platform, the solution was a good match for the company culture",
 			"image_url": "",
@@ -221,7 +292,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=szUIw-90BbU"
-			}, {
+		}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They launched a project to implement a new multilingual collaborative solution to improve communication, information sharing and collaborative work inside the company. They chose Jamespot's solution because it was the perfect match for the company culture",
 			"image_url": "https://www.unither-pharma.com/wp-content/uploads/2020/07/logo.png",
@@ -230,8 +301,8 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=i0HBqDK0chU"
-			}]
-		},{
+		}]
+	}, {
 		"title": "Fast Intranet",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/fast-intranet",
@@ -242,11 +313,11 @@
 			"title": "Microsoft sharePoint",
 			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
 			"category": "Application"
-			}, {
+		}, {
 			"title": "Workvivo",
 			"similiar_solution_url": "https://www.workvivo.com/product/",
 			"category": "Application"
-			}, {
+		}, {
 			"title": "Workplace from Meta",
 			"similiar_solution_url": "https://www.workplace.com/",
 			"category": "Application"
@@ -269,7 +340,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=FoDjU6rZhtE"
-			}, {
+		}, {
 			"title": "Better intranet platform with with Jamespot",
 			"description": "They were introduced to Jamespot because they were looking for some collaborative solutions to organize their work, documents and virtual meetings",
 			"image_url": "https://static.wixstatic.com/media/26d0fa_f409bfea69ca40f0888d564a0f042abc~mv2.png/v1/fill/w_325,h_113,al_c,usm_0.66_1.00_0.01,enc_auto/ias_agora_new_logo.png",
@@ -278,23 +349,23 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=8flM_4n_bFM"
-			}]
-		},{
+		}]
+	}, {
 		"title": "Diapazone",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/diapazone",
 		"created_year": "",
 		"description": "Diapazone gathers a set of applications allowing you to prepare and animate your meetings in an efficient way, whatever your objectives (team meetings, brainstorms, etc).",
-		"category_list": ["Application", "Communication"],
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Zoom",
 			"similiar_solution_url": "https://zoom.us/",
 			"category": "Application"
-			}, {
+		}, {
 			"title": "Webex",
 			"similiar_solution_url": "https://www.webex.com/fr/index.html",
 			"category": "Application"
-			}],
+		}],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -305,7 +376,11 @@
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": [],
 		"success_case_list": []
+<<<<<<< HEAD
 		}, {
+=======
+	}, {
+>>>>>>> 7139ac7 (update jamespot)
 		"title": "Wedoc",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/wedoc",
@@ -316,7 +391,7 @@
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Application"
-			}, {
+		}, {
 			"title": "Google workspace (Google Doc)",
 			"similiar_solution_url": "https://www.google.com/docs/about/",
 			"category": "Application"
