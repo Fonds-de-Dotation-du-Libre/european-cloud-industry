@@ -1,45 +1,45 @@
 {
 	"created": "2022-03-23",
 	"title": "LINBIT HA-Solutions GmbH",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://linbit.com/wp-content/uploads/2020/11/Linbit_Logo_White-1.png",
 	"location": {
 		"title": "LINBIT HA-Solutions GmbH",
 		"address": "Stiegergasse 18",
 		"postal_code": "1150",
 		"city": "Vienna",
-		"country": "AUT",
+		"country": "AU",
 		"phone_contact": "+43 1 817 82 92-0",
 		"mail_contact": "office@linbit.com",
 		"coordinate_list": [48.187729841731816, 16.33373116924222]
 		},
-	"subsidiary_location_list": "",
+	"subsidiary_location_list": [],
 	"website_url": "https://linbit.com/",
 	"founded_year": 2001,
-	"kpi_list": "",
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "LINSTOR",
 		"logo_url": "https://linbit.com/wp-content/uploads/2019/08/LINSTOR_Logo_v4.png",
 		"website_url": "https://linbit.com/linstor/",
-		"created_year": null,
+		"created_year": "",
 		"description": "LINSTOR is open-source software designed to manage block storage devices for large Linux server clusters. Its enterprise subscription LINBIT SDS, which includes DRBD, LINSTOR & Expert Support, is used for providing persistent Linux block storage for Kubernetes, OpenStack, OpenNebula, and OpenShift environments.",
-		"category_list": ["Developer Environment"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "SANsymphony",
 			"similiar_solution_url": "https://www.datacore.com/products/sansymphony/",
-			"category": ["Developer Environment"]
+			"category": "Developer environment"
 			},{
       			"title": "Storage for Solution Providers",
 			"similiar_solution_url": "https://storpool.com/storage-for-solution-providers/",
-			"category": ["Developer Environment"]
+			"category": "Developer environment"
     			}],
 		"licence_list": ["General Public License v3.0"],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/#linstor",
-		"source_code_profile": "https://github.com/LINBIT",
+		"source_code_profile": "",
 		"commercial_support_url": "",
-		"floss_software": null,
-		"commercial_support_open_source_version": null,
-		"commercial_support_available": null,
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available":false,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Microsoft Azure",
@@ -132,18 +132,18 @@
 			"country": "CN",
 			"industry": "Information Technology"
 			}],
-		"success_case_list": ""			
+		"success_case_list": []			
   		},{
 		"title": "DRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
 		"website_url": "https://linbit.com/drbd/",
-		"created_year": null,
+		"created_year": "",
 		"description": "software is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts.",
-		"category_list": ["Information Technology"],
-		"similar_solution_list": [""],
-		"licence_list": [""],
+		"category_list": ["Storage and database"],
+		"similar_solution_list": [],
+		"licence_list": [],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
-		"source_code_profile": "https://github.com/LINBIT",
+		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
@@ -254,95 +254,55 @@
       			"industry": "Manufacturing",
 			"customer": "Häfele",
       			"country": "DE",
-      			"language": "DE",
+      			"language": "de",
       			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/SSI_Schaefer_Case_Study.pdf"
-    			},{
-			"title": "case study SSI SCHAEFER",
-      			"description": "SSI SCHAEFER has developed its own warm-standby system to meet the customer’s requirements of high IT security and minimal operational restrictions. Originally, a redundant arrangement of external SAN storage solutions was envisaged. This, however, requires expensive HW and its separate network, which cause additional maintenance. Since May 2018 though, DRBD®, Linbit’s OSS, has been SSI SCHAEFER’s preferred solution for systems with a storage requirement of up to several terabytes. Easy to implement, remotely controllable and without expensive SAN hardware DRBD® allows operating highly available databases.",
-      			"industry": "Intralogistic",
-			"customer": "SSI SCHAEFER",
-      			"country": "DE",
-      			"language": "DE",
-      			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/SSI_Schaefer_Case_Study.pdf"
-    			},{
-			"title": "case study WEDOS",
-      			"description": "WEDOS’ former setup was based on PXE(LTSP) and Kubernetes and provided a fully automated environment. Overall, the system worked well. The best I/O results were seen with BeeGFS providing large shared drivers around the environment. However, due to unknown circumstances, the blades of the system rebooted randomly. . A mixture of upset customers and time consuming resynchronization demanded an urgent change of storage technology for the company. At first, WEDOS set up a DRBD® orchestration with iSCSI on their own, but then learned there was a much easier and much faster solution: LINSTOR®. WEDOS tested this thoroughly, and after yielding wonderful results, they now use LINSTOR for Kubernetes and OpenNebula. With LINSTOR, the use of ThinLVM and DRBD is simple",
-      			"industry": "Server hosting",
-			"customer": "WEDOS",
-      			"country": "CZ",
-      			"language": "CS",
-      			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/WEDOS-Case-Study.pdf"
-    			},{
-			"title": "case study Wow Tel",
-      			"description": "Recently, Wowtel required a complete greenfi eld communications system for a newly developed retirement village. The objective: Provide VoIP, IPTV, and Internet connectivity. Being a retirement community, the availability of the VoIP solution is of utmost importance. Enter DRBD®. Gene Fitzpatrick, network manager at Wowtel says, “LINBIT’s DRBD® solution suited Wowtel’s needs perfectly because of its reliability and robustness in replicating our primary server.” Adding the Heartbeat feature (High Availability service), would also ensure that all relative services would start up if the main server failed",
-      			"industry": "IP provider",
-			"customer": "Wow Tel",
-      			"country": "AU",
-      			"language": "EN",
-      			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_wowtel-nocrop-1_5.pdf"
     			},{
 			"title": "case study Clear Voice",
       			"description": "Clear Voice chose the DRBD® solution to provide High Availability for Asterisk PBX, MySQL, and LAMP-based Web services. With two commodity 1U servers containing 12 GB of RAM, four 250 GB SATA disks in RAID5, and CentOS Linux, DRBD® provided reliable and consistent data replication for these critical applications. ",
-      			"industry": "Telecommunications",
+      			"industry": "Telecommunication",
 			"customer": "Clear Voice",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_clearvoice-nocrop-1_5.pdf"
-			},{
-			"title": "case study Bon Studio SA",
-      			"description": "The solution they chose consists of a primary (active) server running SLES 11 SP3 with XEN hypervisor and DRBD® for data replication, and a secondary (passive) node with the same OS characteristics, which supports active and passive failover. The passive node is off-site over optical network. The new architecture was designed and deployed with maximum business continuity in mind, within a reasonable budget, and with minimum downtime and no data loss.",
-      			"industry": "Live entertainment",
-			"customer": "Bon Studio SA",
-      			"country": "GR",
-      			"language": "EL",
-      			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_bonstudio-nocrop-1_5.pdf"
-			},{
-			"title": "case study HR4YOU",
-      			"description": "HR4YOU chose LINBIT DRBD SDS to ensure scalability without sacrificing-critical aspect for the success of their system. Using commodity off the shelf (COTS) hardware, HR4YOU was able to contain costs and build their infrastructure quickly and efficiently.",
-      			"industry": "Human Ressources Management",
-			"customer": "HR4YOU",
-      			"country": "DE",
-      			"language": "DE",
-      			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_hr4you-1_5.pdf"
 			},{
 			"title": "case study BayNet",
       			"description": "BayNet focuses on implementing Open Source technologies for its clients, due to the superior quality support provided by Open Source vendors vs proprietary solutions. Because High Availability is a critical component in any infrastructure, Baynet researched several viable Open Source Linux HA solutions that they could offer to their clients. As a result of their research, BayNet chose LINBIT because of both product relevancy and shared philosophy of providing the highest quality support to clients. BayNet’s clients span across many markets. They require HA for systems such as mail servers, databases, hypervisors, and storage. The flexibility and robustness of the LINBIT HA software has allowed BayNet to solve a variety of customer requirements for storage replication, failover, and cluster administration.",
-      			"industry": "Technology support",
+      			"industry": "Information Technology",
 			"customer": "BayNet",
       			"country": "AR",
-      			"language": "ES",
+      			"language": "es",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_baynet-nocrop-1_5.pdf"
 			},{
 			"title": "case study Performance Matters",
       			"description": "Performance Matters had been searching for a software solution that would provide little to no database downtime. Performance Matters needed a solution that would be able to keep data up to date for each transaction to ensure data integrity. For one particular application, High Availability (HA) was critical to allow teachers to administer online tests. Performance Matters then learned that the Enterprise edition of DRBD® came packaged with support. LINBIT offered repositories that contain the most updated version, and direct access to the DRBD® engineering team. Working closely with employees at Performance Matters, LINBIT’s technical support helped rewrite the Corosync/Pacemaker configuration and was able to implement DRBD®, for real-time replication, into their clusters",
-      			"industry": "Educationnal",
+      			"industry": "Education",
 			"customer": "Performance Matters",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_performancematters-nocrop-1_5.pdf"
 			},{
 			"title": "case study Knapp",
       			"description": "One of Knapp’s most recent customers to rely on DRBD® is located in Germany. KNAPP managed to achieve a significant increase in efficiency for the family-run enterprise Cigaretten Ostermeier KG, which is based in Ottobrunn near Munich. ",
-      			"industry": "Logistics",
+      			"industry": "Information Technology",
 			"customer": "Knapp",
       			"country": "AT",
-      			"language": "DE",
+      			"language": "de",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_knapp-nocrop-1_5.pdf"
 			},{
 			"title": "case study TruckPro",
       			"description": "TruckPro’s POS platform was facing performance and technical challenges that distracted their sales associates and took attention away from focusing on customers. To remedy their situation, TruckPro required a modern, stable POS platform for their daily transactions that they could count on to stay up and running. To foster a seamless sales process, TruckPro sought out a High Availability solution that ensured access to their customer data at all times.",
-      			"industry": "Truck and trailer",
+      			"industry": "Information Technology",
 			"customer": "TruckPro",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_truckpro-nocrop-1_5.pdf"
 			},{
 			"title": "case study Adamson Systems",
       			"description": "Adamson is currently keeping their mission critical applications, such as their ERP and VoIP systems, up and running by using the LINBIT DRBD software backed High Availability (HA) cluster. LINBIT has provided Adamson with a competitive advantage by eliminating downtime of services and increasing system performance. By leveraging commodity “Off the Shelf” hardware, the LINBIT DRBD software provides an affordable HA cluster solution. With the support of LINBIT engineers, HA management is easy and painless, allowing Adamson to keep their IT team efficient.",
-      			"industry": "sound",
+      			"industry": "Information Technology",
 			"customer": "Adamson Systems",
       			"country": "CA",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_adamson-nocrop-1_5.pdf"
 			},{
 			"title": "case study AccuWeather",
@@ -350,15 +310,15 @@
       			"industry": "Media and Entertainment",
 			"customer": "AccuWeather",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_weatherdata-nocrop-1_5.pdf"
     			},{
 			"title": "case study Midland County Central Dispatch Authority",
       			"description": "Midland County 911 has a back up PSAP and wanted the ability to access the same information and equipment as the primary PSAP. Specifically, they wanted access to their Computer Aided Dispatch (CAD) system in order to provide the same level of service to the community and employees. They evaluated various options for running the Windows based CAD virtual machines, including replicated SAN arrays attached to VMware with VMotion. To deliver the stability and performance required at a viable price, Midland County 911 chose Xen virtualization using openSUSE Linux with storage replicated by DRBD.",
-      			"industry": "Public Safety",
+      			"industry": "Public Administration and Governement",
 			"customer": "Midland County Central Dispatch Authority",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_midland911-nocrop-1_5.pdf"
 			},{
 			"title": "case study The National Library of Medicine",
@@ -366,89 +326,89 @@
       			"industry": "Education",
 			"customer": "The National Library of Medicine",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_nih-nocrop-1_5.pdf"
 			},{
 			"title": "case study Portland State University",
       			"description": "Content management system (CMS) based in Drupal, PSU began evaluating the feasibility of placing 150+ departmental Web sites on a single server. Clearly, a High Availability cluster was required that would be capable of taking over in the event of hardware failure.  PSU  runs two DRBD® replicated devices to host the large Drupal multisite install. One DRBD® volume is active/active, running GFS, for the file storage. The other is a standard MySQL active/standby setup with Heartbeat. With a load balancer brokering traffic to each server, this also provides additional scalability on the Web processing front.",
-      			"industry": "Higher education",
+      			"industry": "Education",
 			"customer": "Portland State University",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_psu-nocrop-1_5.pdf"
 			},{
 			"title": "case study Athabasca University",
       			"description": "Athabasca Universitiy’s servers run exclusively on Red Hat Enterprise Linux, Citrix Xen and MySQL. To achieve High Availability on virtually every server at its data center, it relies on DRBD®",
-      			"industry": "Higher Education",
+      			"industry": "Education",
 			"customer": "Athabasca University",
       			"country": "CA",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_athabasca-nocrop-1_5.pdf"
 			},{
 			"title": "case study Salinen Austria",
       			"description": "Salinen Austria AG has servers installed at two different sites, located approximately 12 miles apart from each other. The storage capacity of the company’s IT infrastructure was originally designed for 2 TB pf net data, which given the annual increase in data volume of 30 percent, was only going to be suffi cient until 2009. After that, their servers were going to need to be upgraded again. Thanks to LINBIT’s solution, upgrades can be done any time, with any hard-ware, and even more importantly, without interruption of service. This also holds true for any maintenance work that may need to be completed. LINBIT’s iSCSI storage area network allows maintenance and upgrade activities during operation.",
-      			"industry": "Mining",
+      			"industry": "Energy and Utilities",
 			"customer": "Salinen Austria",
       			"country": "AT",
-      			"language": "DE",
+      			"language": "de",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_salinen-nocrop-1_5.pdf"
 			},{
 			"title": "case study Barkman Honey",
       			"description": "The challenge for Barkman Honey was to find software that could provide constant access to host their growing infrastructure. This included at least 25 virtual machines, a mail server messaging application, a firewall, and their internal SQL cluster. After an exhaustive search, J.R. Lillard chose DRBD® and DRBD Proxy®. As a system administrator, he knows that he needs block level replication in order to replicate all of Barkman Honey‘s applications in real-time. Using DRBD® and DRBD Proxy®, Barkman has exceeded their High Availability and Disaster Recovery goals. ",
-      			"industry": "Food manufacturing",
+      			"industry": "Manufacturing",
 			"customer": "Barkman Honey",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_barkman-nocrop-1_5.pdf"
 			},{
 			"title": "case study CISCO Systems",
       			"description": "As an OEM customer for LINBIT, Cisco’s Digital Media Systems products use LINBIT DRBD® and Pacemaker to enable HA inside of their appliance and ensure uptime. With Pacemaker, DRBD® allows services to recover from hardware and software failures automatically, often within seconds. The finalized solution enables Cisco’s customers to attain the infamous five nines (99.999%) of availability required to run business and mission critical functions",
-      			"industry": "Networking",
+      			"industry": "Information Technology",
 			"customer": "CISCO Systems",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_cisco-nocrop-1_5.pdf"
 			},{
 			"title": "case study Porsche Informatik",
       			"description": "Josef Hagler, managing director at Porsche Informatik GmbH, depends on DRBD® to ensure High Availability for a company that is developing at full speed.  Replacing the previous version, Hagler and his team implemented the new CROSSS 2 software during full operation. The software was all but developed from the ground up; 500,000 code lines were modified and nearly all components were changed. In addition, the base technology was set up from scratch. The database was changed from Informix to Oracle, the operating system was switched from AIX 4 to Linux, and a 64-bit Intel server was installed, replacing their IBM RS6000 server.",
-      			"industry": "IT services",
+      			"industry": "Information Technology",
 			"customer": "Porsche Informatik",
       			"country": "DE",
-      			"language": "DE",
+      			"language": "de",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_porsche-nocrop-1_5.pdf"
 			},{
 			"title": "case study Max Planck Institute",
       			"description": "The Institute installed 2 Clusters in separate buildings on the Max Planck Campus in Stuttgart. All central infrastructure services running on these clusters are implemented as Xenbased virtual Linux or Windows machines. The software components of the SUSE Linux Enterprise Distribution (SLES) that are in use are as follows: Pacemaker, Corosync, Clustered Logical Volume Manager (CLVM), LINBITs DRDB®. The basis for the data replication is a Dual Primary DRBD® resource in which logical volumes are defined for the Xenbased Vms.",
-      			"industry": "Research",
+      			"industry": "Academia and Research",
 			"customer": "Max Planck Institute",
       			"country": "DE",
-      			"language": "DE",
+      			"language": "de",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_maxplanck-nocrop-1_5.pdf"
 			}]		
 		},{
     		"title": "DRBD Proxy",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/09/DRBDProxy-1024x119.png",
 		"website_url": "https://linbit.com/drbd-proxy/",
-		"created_year": null,
+		"created_year": "",
 		"description": "DRBD®️ Proxy provides two significant advantages: data compression and cache operations. The biggest problems for disaster recovery solutions are when the connection between the two locations is cut off or when the connection quality is low.",
-		"category_list": ["Operation Management"],
-		"similar_solution_list": [""],
+		"category_list": ["Operation management"],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
-		"source_code_profile": "https://github.com/LINBIT",
+		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [""],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "case study Secure Payment Systems",
       			"description": "After diligent research, Secure Payment Systems chose DRBD® software for their local High Availability needs. Since DRBD can replicate data in a transaction safe manner, customer data is protected during hardware failures. For their new Disaster Recovery requirement, LINBIT’s DRBD Proxy Software fi t their regulatory needs. DRBD Proxy enables data to be compressed and replicated across long distances. Secure Payment Systems’ IT systems stay up and running in multiple locations across North America, allowing IT continuity —even during entire site outages. After evaluating cost, implementation stress, portability, reliability, support, and mission critical performance, Secure Payment Systems concluded that LINBIT is best in class.",
       			"industry": "Payments",
 			"customer": "Secure Payment Systems",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_securepaymentsystems-nocrop-1_5.pdf"
 			},{
 			"title": "case study The National Library of Medicine",
@@ -456,7 +416,7 @@
       			"industry": "Education",
 			"customer": "The National Library of Medicine",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_nih-nocrop-1_5.pdf"
 			},{
 			"title": "case study Barkman Honey",
@@ -464,26 +424,26 @@
       			"industry": "Food manufacturing",
 			"customer": "Barkman Honey",
       			"country": "US",
-      			"language": "EN",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_barkman-nocrop-1_5.pdf"
 			}]	
   		},{
     		"title": "winDRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
 		"website_url": "https://linbit.com/windrbd-replicated-disk-drives-for-windows/",
-		"created_year": null,
+		"created_year": "",
 		"description": "WinDRBD® is the port of Linbit’s DRBD kernel driver and userspace utilities to the Microsoft Windows family of operating systems (Windows Server, Windows 10). It is based on the original source code of DRBD, which makes it widely compatible with the Linux version of DRBD. Most features that come with Linux DRBD are also available on the WinDRBD port. In addition, WinDRBD can be used for booting a Windows client from a network resource",
-		"category_list": ["Developer Environment"],
-		"similar_solution_list": [""],
-		"licence_list": [""],
+		"category_list": ["Developer environment"],
+		"similar_solution_list": [],
+		"licence_list": [],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
-		"source_code_profile": "https://github.com/LINBIT",
+		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "",
-		"reference_list": [""],
-		"success_case_list": [""]
+		"reference_list": [],
+		"success_case_list": []
   }]
 }
