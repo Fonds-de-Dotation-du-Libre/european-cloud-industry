@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-05",
 	"title": "Kaleidos",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://avatars.githubusercontent.com/u/1219587?s=200&v=4",
 	"location": {
 		"title": "Kaleidos Open Source Main Office",
@@ -61,12 +61,12 @@
 			"title": "Secuoyas",
 			"logo_url": "https://secuoyas.com/img/secuoyas-logo.svg",
 			"country": "ES",
-			"industry": "Application"
+			"industry": "Information Technology"
 		}, {
 			"title": "Coolminds",
 			"logo_url": "https://coolminds.nl/res/assets/dist/img/logo-white-coolminds.svg",
 			"country": "NL",
-			"industry": "Application"
+			"industry": "Information Technology"
 		}],
 		"success_case_list": []
 	},{
