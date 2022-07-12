@@ -1,7 +1,7 @@
 {
   "created": "2022-04-07",
   "title": "LizardFS",
-  "type": "Company",
+  "type": "Organisation",
   "logo_url": "https://lizardfs.com/wp-content/themes/understrap-master/img/logo-white.svg",
   "location": {
     "title": "Distributed FS Sp. z o.o.",
@@ -10,8 +10,8 @@
     "city": "Warsaw",
     "country": "PL",
     "phone_contact": "+48 884 194 042",
-    "mail_contact": "contact@lizardfs.com ",
-    "coordinate_list": ["52.118921284167854, 21.017504167780267"]
+    "mail_contact": "contact@lizardfs.com",
+    "coordinate_list": [52.118921284167854, 21.017504167780267]
   },
   "subsidiary_location_list": [],
   "website_url": "https://lizardfs.com/",
@@ -21,21 +21,21 @@
     "title": "LizardFS",
     "logo_url": "https://lizardfs.com/wp-content/themes/understrap-master/img/logo-white.svg",
     "website_url": "https://lizardfs.com/about",
-    "created_year": null,
+    "created_year": "",
     "description": "LizardFS – Software Defined Storage is a distributed, scalable, fault-tolerant, and highly available file system. It allows combining disk space located on several servers into a single namespace visible on Unix-like and Windows systems in the same way as other file systems.",
-    "category_list": ["Storage and Database"],
+    "category_list": ["Storage and database"],
     "similar_solutioj_list": [{
       "title": "SeaweedFS",
       "similiar_solution_url": "https://github.com/chrislusf/seaweedfs",
-      "category": "Storage and Database"
+      "category": "Storage and database"
     },{
       "title": "Ceph",
       "similiar_solution_url": "https://ceph.com/en/",
-      "category": "Storage and Database"
+      "category": "Storage and database"
     },{
       "title": "XtreemFS",
       "similiar_solution_url": "http://www.xtreemfs.org/",
-      "category": "Storage and Database"  
+      "category": "Storage and database"  
     }],
     "licence_list": ["GPL-v3.0"],
     "source_code_download": "https://github.com/lizardfs/lizardfs.git",
@@ -45,12 +45,7 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/LizardFS",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
+    "reference_list": [],
     "success_case_list": [{
       "title": "LizardFS case study with Tinkoff financial ecosystem",
       "description": "Tinkoff is a data-driven company and has a heavily used and fast-growing DWH platform. Tinkoff needed scalable, fast, efficient and easy managed open source SDS to meet our growing requirements.",
@@ -58,7 +53,7 @@
       "industry": "Banking and Finance",
       "customer": "Tinkoff",
       "country": "RU",
-      "language": "RU",
+      "language": "ru",
       "success_case_url": "https://lizardfs.com/wp-content/uploads/Cases/Tinkoff_case_study.pdf"
     }]
   }]
