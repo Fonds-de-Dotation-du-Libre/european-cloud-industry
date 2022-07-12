@@ -8,7 +8,7 @@
 		"address": "Stiegergasse 18",
 		"postal_code": "1150",
 		"city": "Vienna",
-		"country": "DE",
+		"country": "AU",
 		"phone_contact": "+43 1 817 82 92-0",
 		"mail_contact": "office@linbit.com",
 		"coordinate_list": [48.187729841731816, 16.33373116924222]
@@ -315,7 +315,7 @@
     			},{
 			"title": "case study Midland County Central Dispatch Authority",
       			"description": "Midland County 911 has a back up PSAP and wanted the ability to access the same information and equipment as the primary PSAP. Specifically, they wanted access to their Computer Aided Dispatch (CAD) system in order to provide the same level of service to the community and employees. They evaluated various options for running the Windows based CAD virtual machines, including replicated SAN arrays attached to VMware with VMotion. To deliver the stability and performance required at a viable price, Midland County 911 chose Xen virtualization using openSUSE Linux with storage replicated by DRBD.",
-      			"industry": "Public Administration and Governement",
+      			"industry": "Public Administration and Government",
 			"customer": "Midland County Central Dispatch Authority",
       			"country": "US",
       			"language": "en",
@@ -405,7 +405,7 @@
 		"success_case_list": [{
 			"title": "case study Secure Payment Systems",
       			"description": "After diligent research, Secure Payment Systems chose DRBD® software for their local High Availability needs. Since DRBD can replicate data in a transaction safe manner, customer data is protected during hardware failures. For their new Disaster Recovery requirement, LINBIT’s DRBD Proxy Software fi t their regulatory needs. DRBD Proxy enables data to be compressed and replicated across long distances. Secure Payment Systems’ IT systems stay up and running in multiple locations across North America, allowing IT continuity —even during entire site outages. After evaluating cost, implementation stress, portability, reliability, support, and mission critical performance, Secure Payment Systems concluded that LINBIT is best in class.",
-      			"industry": "Payments",
+      			"industry": "Information Technology",
 			"customer": "Secure Payment Systems",
       			"country": "US",
       			"language": "en",
@@ -421,7 +421,7 @@
 			},{
 			"title": "case study Barkman Honey",
       			"description": "The challenge for Barkman Honey was to find software that could provide constant access to host their growing infrastructure. This included at least 25 virtual machines, a mail server messaging application, a firewall, and their internal SQL cluster. After an exhaustive search, J.R. Lillard chose DRBD® and DRBD Proxy®. As a system administrator, he knows that he needs block level replication in order to replicate all of Barkman Honey‘s applications in real-time. Using DRBD® and DRBD Proxy®, Barkman has exceeded their High Availability and Disaster Recovery goals. ",
-      			"industry": "Food manufacturing",
+      			"industry": "Manufacturing",
 			"customer": "Barkman Honey",
       			"country": "US",
       			"language": "en",
