@@ -1,7 +1,7 @@
 {
-	"created": "07-04-2022",
+	"created": "2022-04-07",
 	"title": "Greenbone Networks",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head_wht.png",
 	"location": {
 		"title": "Greenbone Networks GmbH",
@@ -66,14 +66,10 @@
 		"created_year": "",
 		"description": "They consist of the Greenbone Operating System (GOS) on which the Greenbone Enterprise Feed is installed, a scan service, the web interface and, in the case of the hardware appliances, a special hardware. The scan service uses vulnerability tests (VTs) to detect existing vulnerabilities on the inspected network.",
 		"category_list": ["Application"],
-		"similar_solution_list": [{
-			"title": "",
-			"similiar_solution_url": "",
-			"category": ""
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["GPLv2"],
 		"source_code_download": "https://github.com/greenbone",
-		"source_code_profile": "https://www.openhub.net/p/greenbone-gvm",
+		"source_code_profile": "https://www.openhub.net/p/greenbone-gvm/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.greenbone.net/en/technical-support/",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
@@ -103,7 +99,7 @@
 		}],
 		"licence_list": ["ODbLv1"],
 		"source_code_download": "https://github.com/greenbone",
-		"source_code_profile": "https://www.openhub.net/p/greenbone-gvm",
+		"source_code_profile": "https://www.openhub.net/p/greenbone-gvm/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.greenbone.net/en/technical-support/",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
