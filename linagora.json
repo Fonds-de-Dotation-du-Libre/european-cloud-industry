@@ -1,12 +1,12 @@
 {
-	"created": "2000",
+	"created": "2022-04-07",
 	"title": "Linagora corporation",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linagora-logo.png",
 	"location": {
 		"title": "Lingora corporation",
 		"address": "Tour Franklin, 100 Terr. Boieldieu ",
-		"postal_code": "92800 ",
+		"postal_code": "92800",
 		"city": "Puteaux",
 		"country": "FR",
 		"phone_contact": "+33 (0)1 46 96 63 63",
@@ -15,10 +15,10 @@
 	},
 	"subsidiary_location_list": ["CA", "TN", "RU", "VN"],
 	"website_url": "https://www.linagora.com/en/",
-	"founded_year": null,
+	"founded_year": "",
 	"kpi_list": [{
 		"year": 2020,
-		"staff": null,
+		"staff": "",
 		"earnings": "605 784 EUR",
 		"total_assets": "",
 		"revenues": "10 681 262 EUR",
@@ -39,7 +39,7 @@
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2017,
-		"staff": null,
+		"staff": "",
 		"earnings": "583 699 EUR",
 		"total_assets": "",
 		"revenues": "8 612 908 EUR",
@@ -56,43 +56,29 @@
 				"title": "Twake",
 				"logo_url": "https://twake.app/images/logo-twake.svg",
 				"website_url": "https://www.linagora.com/en/products/twake/",
-				"created_year": null,
+				"created_year": "",
 				"description": "digital workplace / Secure open source collaboration platform to improve organizational efficiency",		
-				"category_list": ["Workplace"],
+				"category_list": ["Workspace"],
 				"similar_solution_list": [{
 					"title": "Trello",
 					"similiar_solution_url": "https://trello.com/en",
-					"category": "Workplace"
+					"category": "Workspace"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "https://www.openhub.net/orgs/linagora",
+				"source_code_profile": "",
 				"commercial_support_url": "",
 				"floss_software": true,
 				"commercial_support_open_source_version": false,
 				"commercial_support_available": false,
 				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": " ",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}]
+				"reference_list": [],
+				"success_case_list": []
 			}, {
 				"title": "LinShare",
 				"logo_url": "https://www.linshare.org/wp-content/uploads/2020/08/cropped-linshare-logo.png",
 				"website_url": "https://www.linagora.com/en/products/linshare/",
-				"created_year": null,
+				"created_year": "",
 				"description": "file sharing / Secure open source enterprise file sharing",
 				"category_list": ["Application"],
 				"similar_solution_list": [{
@@ -102,197 +88,106 @@
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "https://www.openhub.net/orgs/linagora",
+				"source_code_profile": "",
 				"commercial_support_url": "",
 				"floss_software": true,
 				"commercial_support_open_source_version": false,
 				"commercial_support_available": false,
 				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": " ",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}]
+				"reference_list": [],
+				"success_case_list": []
 			}, {
 				"title": "Linto",
 				"logo_url": "https://www.linagora.com/assets/images/linto/top-image.png",
 				"website_url": "https://www.linagora.com/en/products/linto/",
-				"created_year": null,
+				"created_year": "",
 				"description": "voice assistant / Secure end-to-end open source voice platform",				
-				"category_list": ["workplace"],
+				"category_list": ["Workspace"],
 				"similar_solution_list": [{
 					"title": "Open assistant",
 					"similiar_solution_url": "https://www.sitelike.org/similar/openassistant.org/",
-					"category": "Workplace"
+					"category": "Workspace"
 				}],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "https://www.openhub.net/orgs/linagora",
+				"source_code_profile": "",
 				"commercial_support_url": "",
 				"floss_software": true,
 				"commercial_support_open_source_version": false,
 				"commercial_support_available": false,
 				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": " ",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}]
+				"reference_list": [],
+				"success_case_list": []
 			}, {
 				"title": "LinID",
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://linid.org/en/",
-				"created_year": null,
+				"created_year": "",
 				"description": "LinID is a software package for identity and access management and identity federation. LinID is LDAP compatible and supports WebSSO via the open source LemonLDAP::NG.",				
 				"category_list": ["Identity"],
-				"similar_solution_list": [{
-					"title": "",
-					"similiar_solution_url": "",
-					"category": ""
-				}],
+				"similar_solution_list": [],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "https://www.openhub.net/orgs/linagora",
+				"source_code_profile": "",
 				"commercial_support_url": "",
 				"floss_software": true,
 				"commercial_support_open_source_version": false,
 				"commercial_support_available": false,
 				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": " ",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}]
+				"reference_list": [],
+				"success_case_list": []
 			}, {
 				"title": "OSSA: Open Source Software Assurance",
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linagora-logo.png",
-				"created_year": null,
+				"created_year": "",
 				"description": "We support IT departments in the governance of their open source software catalog",				
-				"category_list": ["Operation Management"],
-				"similar_solution_list": [{
-					"title": "",
-					"similiar_solution_url": "",
-					"category": ""
-				}],
+				"category_list": ["Operation management"],
+				"similar_solution_list": [],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "https://www.openhub.net/orgs/linagora",
+				"source_code_profile": "",
 				"commercial_support_url": "https://linagora.com/en/ossa-support/open-source-software-assurance/",
 				"floss_software": false,
 				"commercial_support_open_source_version": false,
 				"commercial_support_available": true,
 				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}],
-				"success_case_list": [{
-					"title": "",
-					"description": " ",
-					"image_url": "",
-					"industry": "",
-					"customer": "",
-					"country": "",
-					"language": "",
-					"success_case_url": ""
-				}]
+				"reference_list": [],
+				"success_case_list": []
 			}, {
 				"title": "LUX",
 				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 				"website_url": "https://www.linagora.com/en/ossa-support/lux-model/",
-				"created_year": null,
+				"created_year": "",
 				"description": "a universal software unit that allows you to contract with LINAGORA for all our services, whether consulting, expertise and OSSA, our software insurance model or training.",
 				"category_list": ["Communication"],
-				"similar_solution_list": [{
-					"title": "",
-					"similiar_solution_url": "",
-					"category": ""
-				}],
+				"similar_solution_list": [],
 				"licence_list": ["open source license"],
 				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "https://www.openhub.net/orgs/linagora",
+				"source_code_profile": "",
 				"commercial_support_url": "",
 				"floss_software": true,
 				"commercial_support_open_source_version": false,
 				"commercial_support_available": false,
 				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [{
-					"title": "",
-					"logo_url": "",
-					"country": "",
-					"industry": ""
-				}]
+				"reference_list": []
 				}, {
 					"title": "LCS: LINAGORA Consulting Services",
 					"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
 					"website_url": "https://www.linagora.com/en/professional-services/linagora-consulting-services/",
-					"created_year": null,
+					"created_year": "",
 					"description": "To accompany you at each step of your actions of adoption and sharing of Open Source technologies, for the construction of a strategy of controlled use.", 					
-					"category_list": ["Operation Management"],
-					"similar_solution_list": [{
-						"title": "",
-						"similiar_solution_url": "",
-						"category": ""
-					}],
+					"category_list": ["Operation management"],
+					"similar_solution_list": [],
 					"licence_list": ["open source license"],
 					"source_code_download": "https://github.com/linagora",
-					"source_code_profile": "https://www.openhub.net/orgs/linagora",
+					"source_code_profile": "",
 					"commercial_support_url": "",
 					"floss_software": false,
 					"commercial_support_open_source_version": false,
 					"commercial_support_available": false,
 					"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-					"reference_list": [{
-						"title": "",
-						"logo_url": "",
-						"country": "",
-						"industry": ""
-					}],
-					"success_case_list": [{
-						"title": "",
-						"description": " ",
-						"image_url": "",
-						"industry": "",
-						"customer": "",
-						"country": "",
-						"language": "",
-						"success_case_url": ""
-					}]
+					"reference_list": [],
+					"success_case_list": []
 				}]
 			}
