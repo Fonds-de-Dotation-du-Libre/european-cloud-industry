@@ -1,7 +1,7 @@
 {
-	"created": "05-04-2022",
+	"created": "2022-04-05",
 	"title": "Mender",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
 	"location": {
 		"title": "mender",
@@ -50,17 +50,17 @@
 		}],
 		"licence_list": ["Apache License v2"],
 		"source_code_download": "https://github.com/mendersoftware",
-		"source_code_profile": "https://www.openhub.net/p/mender",
+		"source_code_profile": "https://www.openhub.net/p/mender/analyses/latest/languages_summary",
 		"commercial_support_url": "https://mender.io/contact-us",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
-		"wikipedia_url": "https://en.everybodywiki.com/Mender",
+		"wikipedia_url": "",
 		"reference_list": [{
 		"title": "Airbus Commercial Aircraft",
 			"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
 			"country": "FR",
-			"industry": "Aeronautics"
+			"industry": "Aviation and Aerospace"
 		},{
 			"title": "Alz.ai",
 			"logo_url": "https://alz-knox-prod-1.s3.amazonaws.com/img/logo_full.svg?AWSAccessKeyId=AKIAS6R4YICTPWVNYZG2&Signature=dq1KIhfTXlxravcY7i27rqktsdM%3D&Expires=1650358817",
@@ -82,15 +82,6 @@
 			"country": "US",
 			"industry": "Banking and Finance"
 		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}]
 }
