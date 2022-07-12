@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-22",
 	"title": "JAMESPOT",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://static.wixstatic.com/media/9a1120_719b2e86c4044944abdcdc0dc1e54ad4~mv2.png/v1/fill/w_283,h_50,al_c,usm_0.66_1.00_0.01,enc_auto/Logo%20Jamespot.png",
 	"location": {
 		"title": "JAMESPOT",
@@ -32,7 +32,7 @@
 		"source_url": "https://www.verif.com/"
 		}, {
 		"year": 2018,
-		"staff": null,
+		"staff": "",
 		"earnings": "575 849 EUR",
 		"total_assets": "2 776 611 EUR",
 		"revenues": "2 029 737 EUR",
@@ -56,7 +56,7 @@
 		"title": "Open Agora",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/open-agora",
-		"created_year": null,
+		"created_year": "",
 		"description": "Open Agora centralizes all of your organization's internal communication on a single, customizable, secure and easy-to-use platform. Information is structured in dedicated groups or discussions and is accessible in real time from anywhere.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
@@ -85,12 +85,12 @@
 			"title": "Raynal et Roquelaure",
       			"logo_url": "https://www.raynal-roquelaure.fr/wp-content/themes/2.4.9/images/RR_logo_2.png?v=1588858469462",
       			"country": "FR",
-     			"industry": "Food"
+     			"industry": "Agriculture and Food"
     			},{
 			"title": "BNP Paribas Real Estate",
       			"logo_url": "https://www.realestate.bnpparibas.fr/themes/custom/stellartheme/img/logo-bnpre.png",
       			"country": "FR",
-     			"industry": "Real Estate"
+     			"industry": "Housing and Real Estate"
     			},{
 			"title": "Ilévia",
       			"logo_url": "https://www.ilevia.fr/themes/transpole/img/Ilevia-long-RVB-fond-noir.svg",
@@ -105,30 +105,15 @@
 			"title": "BPI France",
       			"logo_url": "https://www.bpifrance.fr/themes/custom/bpi_main/logo.svg",
       			"country": "FR",
-     			"industry": "Banking"
+     			"industry": "Banking and Finance"
     			},{
 			"title": "L'Assurance Maladie",
       			"logo_url": "https://www.ameli.fr/themes/custom/ameli/images/logo.svg",
       			"country": "FR",
      			"industry": "Insurance"
     			},{
-			"title": "CSA",
-      			"logo_url": "",
-      			"country": "FR",
-     			"industry": "Public Administration and Government"
-    			},{
 			"title": "Apec",
       			"logo_url": "https://www.apec.fr/modules/apec-jahia-module/assets/img/edito/nav/logo-apec.svg",
-      			"country": "FR",
-     			"industry": "Public Administration and Government"
-    			},{
-			"title": "Direction Du Budget",
-      			"logo_url": "",
-      			"country": "FR",
-     			"industry": "Public Administration and Government"
-    			},{
-			"title": "Seine-Saint-Denis",
-      			"logo_url": "",
       			"country": "FR",
      			"industry": "Public Administration and Government"
     			},{
@@ -142,20 +127,10 @@
       			"country": "FR",
      			"industry": "Public Administration and Government"
     			},{
-			"title": "Syntec Numérique",
-      			"logo_url": "",
-      			"country": "FR",
-     			"industry": "Associations and NGOs"
-    			},{
 			"title": "Mafter Bourgeat",
       			"logo_url": "https://www.matferbourgeat.com/wp-content/uploads/2021/03/logo-matfer.png",
       			"country": "FR",
-     			"industry": "Food"
-    			},{
-			"title": "Groupe Ozitem",
-      			"logo_url": "",
-      			"country": "FR",
-     			"industry": "IT services"
+     			"industry": "Agriculture and Food"
     			},{
 			"title": "Interiale Mutuelle",
       			"logo_url": "https://www.interiale.fr/uploads/2021/01/logo_interiale.svg",
@@ -187,33 +162,28 @@
       			"country": "FR",
      			"industry": "Associations and NGOs"
     			},{
-			"title": "LPA-CGR",
-      			"logo_url": "",
-      			"country": "FR",
-     			"industry": "Law"
-    			},{
 			"title": "Groupe Cristal",
       			"logo_url": "https://groupecristal.fr/wp-content/themes/cristal/assets/img/logo.png",
       			"country": "FR",
-     			"industry": "Agriculture"
+     			"industry": "Agriculture and Food"
 			}],
 		"success_case_list": [{
 			"title": "Communication improvement with Jamespot",
 			"description": "With a growing membership number in the association, communication through mails became so complex that the association wasn’t functioning efficiently. They used  Jamespot’s collaborative solution to improve the communication flow between members because of its user friendly platform.",
 			"image_url": "https://pinkinnov.com/wp-content/uploads/2019/08/logo-pink-innov-v2.jpg",
-			"industry": "Association",
+			"industry": "Associations and NGOs",
 			"customer": "Pink Innov",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=326UtTSG70M"
 			}, {
 			"title": "Replacement of an outdated solution by Jamespot's communicative platform",
 			"description": "With a growing number of employees and new work approaches Groupe SeLoger used Jamespot's solution to replace their former platform. The solution fits well with their way of collaborate and their agile methodology used to run their projects",
 			"image_url": "https://www.groupeseloger.com/images/logo-seloger-header.png",
-			"industry": "Real Estate",
+			"industry": "Housing and Real Estate",
 			"customer": "Groupe SeLoger",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=Kpp75hVxGPs"
 			}, {
 			"title": "Communication improvement with Jamespot",
@@ -222,7 +192,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "Syndicat des professionnels du pneu",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=c0x6HdewD-I"
 			}, {
 			"title": "Communication improvement with with Jamespot",
@@ -231,7 +201,7 @@
 			"industry": "Associations and NGOs",
 			"customer": "France Clusters",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=Qo-IOWmE5JE"
 			}, {
 			"title": "Communication improvement with with Jamespot",
@@ -240,16 +210,16 @@
 			"industry": "Associations and NGOs",
 			"customer": "GFII",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=MVjDFbwHyJg"
 			}, {
 			"title": "Communication improvement with with Jamespot",
 			"description": "They used Jamespot's solution because they needed to centralize in a one app all their communication flows and improve the way communication is spread through the company. With a friendly but professional platform, the solution was a good match for the company culture",
 			"image_url": "",
-			"industry": "Travel and Trourism",
+			"industry": "Travel and Tourism",
 			"customer": "MARCO VASCO",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=szUIw-90BbU"
 			}, {
 			"title": "Communication improvement with with Jamespot",
@@ -258,14 +228,14 @@
 			"industry": "Health and Life Sciences",
 			"customer": "Unither Pharmaceuticals",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=i0HBqDK0chU"
 			}]
 		},{
 		"title": "Fast Intranet",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/fast-intranet",
-		"created_year": null,
+		"created_year": "",
 		"description": "Fast Intranet gives meaning to your internal communication by providing simplified access to information (news, reference documents, key figures ...) and information systems of your organization (HRIS, GED, CRM ...)",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
@@ -279,7 +249,7 @@
 			}, {
 			"title": "Workplace from Meta",
 			"similiar_solution_url": "https://www.workplace.com/",
-			"category": "Appliation"
+			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
 		"source_code_download": "",
@@ -289,7 +259,7 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
-		"reference_list": [""],
+		"reference_list": [],
 		"success_case_list": [{
 			"title": "Better intranet platform with with Jamespot",
 			"description": "They used Jamespot’s fast intranet solution to fulfill two objectives that their former intranet platform failed to ensure: being able to communicate with each other more easily and share document with the employees",
@@ -303,17 +273,17 @@
 			"title": "Better intranet platform with with Jamespot",
 			"description": "They were introduced to Jamespot because they were looking for some collaborative solutions to organize their work, documents and virtual meetings",
 			"image_url": "https://static.wixstatic.com/media/26d0fa_f409bfea69ca40f0888d564a0f042abc~mv2.png/v1/fill/w_325,h_113,al_c,usm_0.66_1.00_0.01,enc_auto/ias_agora_new_logo.png",
-			"industry": "Consultinga and Training",
+			"industry": "Consulting and Training",
 			"customer": "Iasagora",
 			"country": "FR",
-			"language": "FR",
+			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=8flM_4n_bFM"
 			}]
 		},{
 		"title": "Diapazone",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/diapazone",
-		"created_year": null,
+		"created_year": "",
 		"description": "Diapazone gathers a set of applications allowing you to prepare and animate your meetings in an efficient way, whatever your objectives (team meetings, brainstorms, etc).",
 		"category_list": ["Application", "Communication"],
 		"similar_solution_list": [{
@@ -333,15 +303,15 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
-		"reference_list": [""],
-		"success_case_list": [""]
+		"reference_list": [],
+		"success_case_list": []
 		}, {
 		"title": "Wedoc",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/wedoc",
-		"created_year": null,
+		"created_year": "",
 		"description": "Wedoc organizes the creation of your documents: edit several times and in real time, store your document in folders and find it easily by typing a keyword. It's as easy as pie",
-		"category_list": "Application",
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
 			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
@@ -359,7 +329,7 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
-		"reference_list": [""],
-		"success_case_list": [""]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
