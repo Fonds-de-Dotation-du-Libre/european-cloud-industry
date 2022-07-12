@@ -1,7 +1,7 @@
 {
-	"created": "07-04-2022",
+	"created": "2022-04-07",
 	"title": "Meetecho",
-	"type": "company",
+	"type": "Organisation",
 	"logo_url": "https://www.meetecho.com/en/img/meetecho.png",
 	"location": {
 		"title": "Meetecho",
@@ -23,47 +23,33 @@
 		"website_url": "https://janus.conf.meetecho.com/",
 		"created_year": 2014,
 		"description": "Janus is a WebRTC Server developed by Meetecho conceived to be a general purpose one. As such, it doesn't provide any functionality per se other than implementing the means to set up a WebRTC media communication with a browser, exchanging JSON messages with it, and relaying RTP/RTCP and messages between browsers and the server-side application logic they're attached to",
-		"category_list": ["Developer"],
+		"category_list": ["Developer API"],
 		"similar_solution_list": [{
 			"title": "NetSuite",
 			"similiar_solution_url": "https://www.netsuite.com/portal/home.shtml",
-			"category": "Developer"
+			"category": "Developer API"
 		}, {
 			"title": "Sage Intaact",
 			"similiar_solution_url": "https://www.sageintacct.com/",
-			"category": "Developer"
+			"category": "Developer API"
 		}, {
 			"title": "Acumatica",
 			"similiar_solution_url": "https://www.acumatica.com/",
-			"category": "Developer"
+			"category": "Developer API"
 		}, {
 			"title": "Deltek Vantagepoint",
 			"similiar_solution_url": "https://www.deltek.com/en-gb/products/vantagepoint",
-			"category": "Developer"
+			"category": "Developer API"
 		}],
 		"licence_list": ["GNU General Public License Version 3"],
 		"source_code_download": "https://github.com/meetecho/janus-gateway",
-		"source_code_profile": "https://www.openhub.net/p/janus-gateway",
+		"source_code_profile": "https://www.openhub.net/p/janus-gateway/analyses/latest/languages_summary",
 		"commercial_support_url": "https://janus.conf.meetecho.com/support.html",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
-		"wikipedia_url": "https://wiki.opensourceecology.org/wiki/Janus",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
 	}]
 }
