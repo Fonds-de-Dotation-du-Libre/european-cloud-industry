@@ -1,7 +1,7 @@
 {
-	"created": "29-04-2022",
+	"created": "2022-04-29",
 	"title": "Kopano",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 	"location": {
 		"title": "Kopano Head Office",
@@ -38,7 +38,7 @@
 		}],
 		"licence_list": ["AGPL3 AGPL version 3.0"],
 		"source_code_download": "https://github.com/Kopano-dev",
-		"source_code_profile": "https://www.openhub.net/p/kopano",
+		"source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
 		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
@@ -50,7 +50,7 @@
 			"country": "IE",
 			"industry": "Public Administration and Government"
 		},{
-			"title": " Municipality of Ede - Holland",
+			"title": "Municipality of Ede",
 			"logo_url": "https://www.omnis-systems.com/images/stories/images/zarafa/references/Ede-logo.jpg",
 			"country": "NL",
 			"industry": "Public Administration and Government"
@@ -65,16 +65,7 @@
 			"country": "NL",
 			"industry": "Health and Life Sciences"
 		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"success_case_list": []
 	}, {
 		"title": "Kopano meet",
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
@@ -89,28 +80,14 @@
 		}],
 		"licence_list": ["AGPL3 AGPL version 3.0"],
 		"source_code_download": "https://github.com/Kopano-dev",
-		"source_code_profile": "https://www.openhub.net/p/kopano",
+		"source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
 		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
-		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
-		}],
-		"success_case_list": [{
-			"title": "",
-			"description": "",
-			"image_url": "",
-			"industry": "",
-			"customer": "",
-			"country": "",
-			"language": "",
-			"success_case_url": ""
-		}]
+		"reference_list": [],
+		"success_case_list": []
 	}]
 
 }
