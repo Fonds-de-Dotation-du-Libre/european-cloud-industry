@@ -13,7 +13,7 @@
 		"mail_contact": "contact@netframe.co",
 		"coordinate_list": [48.86697066030983, 2.3485931422848796]
 	},
-	"subsidiary_location_list": "",
+	"subsidiary_location_list": [],
 	"website_url": "https://www.netframe.co/",
 	"founded_year": 2018,
 	"kpi_list": [],
@@ -49,12 +49,7 @@
 			"title": "Energo",
 			"logo_url": "https://energo.green/wp-content/uploads/2021/06/energologo200px.png",
 			"country": "FR",
-			"industry": "Energy"
-		}, {
-			"title": "Better Business Bureau",
-			"logo_url": "",
-			"country": "US",
-			"industry": "Associations and NGOs"
+			"industry": "Energy and Utilities"
 		}, {
 			"title": "Clichy-sous-Bois",
 			"logo_url": "https://www.clichy-sous-bois.fr/wp-content/uploads/2019/05/logo-header.png",
