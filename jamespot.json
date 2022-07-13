@@ -103,7 +103,6 @@
 			"industry": "Insurance"
 		}, {
 			"title": "BPI France",
-<<<<<<< HEAD
       			"logo_url": "https://www.bpifrance.fr/themes/custom/bpi_main/logo.svg",
       			"country": "FR",
      			"industry": "Banking and Finance"
@@ -118,44 +117,12 @@
       			"country": "FR",
      			"industry": "Public Administration and Government"
     			},{
-=======
-			"logo_url": "https://www.bpifrance.fr/themes/custom/bpi_main/logo.svg",
-			"country": "FR",
-			"industry": "Banking and Finance"
-		}, {
-			"title": "L'Assurance Maladie",
-			"logo_url": "https://www.ameli.fr/themes/custom/ameli/images/logo.svg",
-			"country": "FR",
-			"industry": "Insurance"
-		}, {
-			"title": "CSA",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_efd6278fd68941acb11d27397386c55b~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_efd6278fd68941acb11d27397386c55b~mv2.png",
-			"country": "FR",
-			"industry": "Public Administration and Government"
-		}, {
-			"title": "Apec",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_d076074ef383425e9156bb7a90ed0f94~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_d076074ef383425e9156bb7a90ed0f94~mv2.png",
-			"country": "FR",
-			"industry": "Public Administration and Government"
-		}, {
-			"title": "Direction Du Budget",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_bb64d7b6c0c74912850c6f5afe402328~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_bb64d7b6c0c74912850c6f5afe402328~mv2.png",
-			"country": "FR",
-			"industry": "Public Administration and Government"
-		}, {
-			"title": "Seine-Saint-Denis",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_91c2e3e2d03b41069f8d7425a25d4da6~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_91c2e3e2d03b41069f8d7425a25d4da6~mv2.png",
-			"country": "FR",
-			"industry": "Public Administration and Government"
-		}, {
->>>>>>> 7139ac7 (update jamespot)
 			"title": "UCANSS",
 			"logo_url": "https://static.wixstatic.com/media/9a1120_cf33cbadacea4a46bd3c4b0389c1d510~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_cf33cbadacea4a46bd3c4b0389c1d510~mv2.png",
 			"country": "FR",
 			"industry": "Public Administration and Government"
 		}, {
 			"title": "Cerema",
-<<<<<<< HEAD
       			"logo_url": "https://www.cerema.fr/themes/custom/uas_base/images/LogoCerema_horizontal_EN.svg",
       			"country": "FR",
      			"industry": "Public Administration and Government"
@@ -165,27 +132,6 @@
       			"country": "FR",
      			"industry": "Agriculture and Food"
     			},{
-=======
-			"logo_url": "https://static.wixstatic.com/media/9a1120_028e2d729a564e9d8cac7e778c76d1e3~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_028e2d729a564e9d8cac7e778c76d1e3~mv2.png",
-			"country": "FR",
-			"industry": "Public Administration and Government"
-		}, {
-			"title": "Syntec Numérique",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_d7fde15be3fd41a6809c3a2dcf148453~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_d7fde15be3fd41a6809c3a2dcf148453~mv2.png",
-			"country": "FR",
-			"industry": "Associations and NGOs"
-		}, {
-			"title": "Mafter Bourgeat",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_953a033c1a5341efb69a582f9d92f5f6~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_953a033c1a5341efb69a582f9d92f5f6~mv2.png",
-			"country": "FR",
-			"industry": "Agriculture and Food"
-		}, {
-			"title": "Groupe Ozitem",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_e8c51c4cb1db48eaa54308dd87d5ea15~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_e8c51c4cb1db48eaa54308dd87d5ea15~mv2.png",
-			"country": "FR",
-			"industry": "Information Technology"
-		}, {
->>>>>>> 7139ac7 (update jamespot)
 			"title": "Interiale Mutuelle",
 			"logo_url": "https://static.wixstatic.com/media/9a1120_ad2e7a72cf6448949ca1be36211a5d3e~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_ad2e7a72cf6448949ca1be36211a5d3e~mv2.png",
 			"country": "FR",
@@ -212,7 +158,6 @@
 			"industry": "Travel and Tourism"
 		}, {
 			"title": "Unapei",
-<<<<<<< HEAD
       			"logo_url": "https://www.unapei.org/wp-content/themes/wext/assets/img/logo_unapei.png",
       			"country": "FR",
      			"industry": "Associations and NGOs"
@@ -222,22 +167,6 @@
       			"country": "FR",
      			"industry": "Agriculture and Food"
 			}],
-=======
-			"logo_url": "https://static.wixstatic.com/media/9a1120_840872bf3c4140f9942b52a51719ce30~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_840872bf3c4140f9942b52a51719ce30~mv2.png",
-			"country": "FR",
-			"industry": "Associations and NGOs"
-		}, {
-			"title": "LPA-CGR",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_0890c01d6f7f4d948e78eb4f7ee8ca5c~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_0890c01d6f7f4d948e78eb4f7ee8ca5c~mv2.png",
-			"country": "FR",
-			"industry": "Public Administration and Government"
-		}, {
-			"title": "Groupe Cristal",
-			"logo_url": "https://static.wixstatic.com/media/9a1120_3494be4ff4584e90952ac6ed9c7ee30d~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_3494be4ff4584e90952ac6ed9c7ee30d~mv2.png",
-			"country": "FR",
-			"industry": "Agriculture and Food"
-		}],
->>>>>>> 7139ac7 (update jamespot)
 		"success_case_list": [{
 			"title": "Communication improvement with Jamespot",
 			"description": "With a growing membership number in the association, communication through mails became so complex that the association wasn’t functioning efficiently. They used  Jamespot’s collaborative solution to improve the communication flow between members because of its user friendly platform.",
@@ -376,11 +305,7 @@
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
 		"reference_list": [],
 		"success_case_list": []
-<<<<<<< HEAD
 		}, {
-=======
-	}, {
->>>>>>> 7139ac7 (update jamespot)
 		"title": "Wedoc",
 		"logo_url": "",
 		"website_url": "https://www.fr.jamespot.com/wedoc",
@@ -407,4 +332,4 @@
 		"reference_list": [],
 		"success_case_list": []
 	}]
-}
+    }
