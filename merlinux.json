@@ -1,7 +1,7 @@
 {
 	"created": "2022-04-01",
 	"title": "Merlinux",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://delta.chat/assets/logos/delta-chat.svg",
 	"location": {
 		"title": "Merlinux GmbH",
@@ -35,7 +35,7 @@
 		}],
 		"licence_list": ["GPL-3.0-or-later"],
 		"source_code_download": "https://github.com/deltachat/",
-		"source_code_profile": "https://www.openhub.net/p/Delta-Chat",
+		"source_code_profile": "https://www.openhub.net/p/Delta-Chat/analyses/latest/languages_summary",
 		"commercial_support_url": "https://support.delta.chat/",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
