@@ -85,19 +85,19 @@
 			"title": "ERP5 Implementation in Aerospace Industry: Integrated Order Management Solution for TerraSAR-X Commercial Service Segment",
 			"description": "Airbus DS Geo GmbH, a 100% subsidiary of Airbus Defence and Space, holds the exclusive commercial exploitation rights for the TerraSAR-X radar earth observation satellite and uses ERP5 as part of the service segment for the commercial distribution of data from the TerraSAR-X Mission . The initial implementation of the ERP5 for the TerraSAR-X Service Segment was realised by Nexedi and Logica and went into production in 2006, after which Nexedi took sole responsibility for managing the system and its technical evolution.",
 			"image_url": "https://www.nexedi.com/web_page_module/4536",
-			"industry": "Aerospace",
+			"industry": "Aviation and Aerospace",
 			"customer": "Airbus DS Geo Gmbh",
 			"country": "DE",
-			"language": "en",
+			"language": "de",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Airbus.Success.Case"
 			}, {
 			"title": "Complete Coverage ERP Implementation for Japanese Pesticide Producer",
 			"description": "Sankei Chemical chose ERP5 because of its ability to implement the highly complex price models used in Japanese pesticide industry. Sankei runs an integrated ERP5 solution to manage pesticide production, purchase, sales, shipment and inventory. Thanks to ERP5s flexible design philosophy, the system could be fully customized to Sankeis business processes including interfaces for electronic trading data exchange with large industry organizations and key customers. The success case shows the importance of client-side project management for an ERP implementation project and why sometimes perseverance is required for a perfect requirement analysis.",
 			"image_url": "https://www.nexedi.com/web_page_module/3959",
-			"industry": "Chemical Manufacturing",
+			"industry": "Manufacturing",
 			"customer": "Sankei Chemical",
 			"country": "JP",
-			"language": "en",
+			"language": "ja",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Sankei.Success.Case"
 			}, {
 			"title": "Local HTML5 App and central ERP5 to manage supply-production-sales data for 14 companies",
@@ -106,13 +106,13 @@
 			"industry": "Manufacturing",
 			"customer": "GKR international group",
 			"country": "CN",
-			"language": "en",
+			"language": "zh",
 			"success_case_url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
 			}, {
 			"title": "Zawee runs its local fashion shops and eCommerce web site with ERP5",
 			"description": "Zawee run its fashion retail business with two shops in Paris and its online shop weinparis.com with ERP5. Thanks to ERP5 Trade, ERP5 PDM and ERP5 POS, Zawee has complete control over its inventory of clothes, bags and accessories in all variations of colours and sizes. With EPR5 eCommerce Zawee can use the same product catalogue for online and offline sales. ERP5‘s social network integration allows Zawee to motivate its clients to promote Zawee products by rewarding facebook likes with loyalty points for shop discounts.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Zawee?display=thumbnail&format=png",
-			"industry": "Retail",
+			"industry": "Commerce and Retail",
 			"customer": "Zawee",
 			"country": "FR",
 			"language": "en",
@@ -121,46 +121,46 @@
 			"title": "Single integrated front and back office solution to power an eBusiness",
 			"description": "Sanef Tolling has chosen ERP5 to power its eBusiness related to management of Electronic Toll Collection for British citizens driving on French motorways. The Sanef Tolling website and the related eBusiness was able to be launched within one month from the beginning of the project because both the Frontoffice and Backoffice had been fully integrated thanks to ERP5.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Sanef?display=thumbnail&format=png",
-			"industry": "Warehousing and auxiliary transport services",
+			"industry": "Transport",
 			"customer": "Sanef",
 			"country": "FR",
-			"language": "en",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-SanefTolling.Success.Case"
 			}, {
 			"title": "Cloud-based financial management and consolidated OLAP reporting for an international NGO",
 			"description": "Aide et Action International is a non-governmental organisation focused on achieving access to quality education for all. Based in Genève (Switzerland), the organisation has more than 1000 employees and leads 120 projects all over the world. To improve the quality and transparency of the financial information and to increase the productivity of its financial teams, Aide et Action has deployed a cloud-based ERP5 configuration that covers general and analytical accounting as well as budget management for 30 distinct entities located in 22 countries.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Aide.Et.Action?display=thumbnail&format=png",
-			"industry": "NGO",
+			"industry": "Associations and NGOs",
 			"customer": "Aide et Action International",
 			"country": "CH",
-			"language": "en",
+			"language": "zh",
 			"success_case_url": "https://www.nexedi.com/success/erp5-NGO.Success.Case"
 			}, {
 			"title": "Running a Massive Open Online Course with ERP5 for 1500 students for Technische Universität Dresden and Supinfo",
 			"description": "Technische Universität Dresden and Supinfo have chosen ERP5 to power the world-wide first Massive Open Online Course (MOOC) teaching Enterprise Resource Planning and the first MOOC which uses machine-learning-based mass individual assessment. ERP5 was used to implement a course management and correction system which allows online assessment and semi-automatic correction of praxis projects. The system allowed to teach and asses 1500 students distributed over 18 countries by a team of 28 tutors with differing experience levels working from nine different sites.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Tu.Dresden?display=thumbnail&format=png",
-			"industry": "Higher Education",
+			"industry": "Education",
 			"customer": "Technische Universität Dresden and Supinfo",
 			"country": "FR",
-			"language": "en",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MOOC.Success.Case"
 			}, {
 			"title": "MMC Rus Success Case",
 			"description": "MMC Rus runs ERP5 to manage their internal contract and organisation approving procedures information system.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Mmc?display=thumbnail&format=png",
-			"industry": "Automobile manufacturing",
+			"industry": "Manufacturing",
 			"customer": "Mitsubishi Motors",
 			"country": "RU",
-			"language": "en",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MMC.Rus.Success.Case"
 			}, {
 			"title": "Flexible Configurable Workflows and Advanced Security for Core Business Processes of a Central Bank",
 			"description": "A Central Bank runs its 64 regulatory workflows with ERP5: currency issuing, monetary circulation and banking transactions. Extensive scalability testing and rule based security management were key technical factors of success. Document orientation of the implementation process helper reducing project management bandwidth and budget. Use of Open Source from system to application through database enabled reactive support of a mission critical application.",
 			"image_url": "",
-			"industry": "Banking",
+			"industry": "Banking and Finance",
 			"customer": "central bank",
 			"country": "FR",
-			"language": "en",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Central.Bank.Success.Case"
 			}]
 		}, {
@@ -169,11 +169,11 @@
 		"website_url": "https://slapos.nexedi.com/",
 		"created_year": 2010,
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
-		"category_list": ["Service Lifecycle Automation"],
+		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
 			"title": "YunoHost",
 			"similiar_solution_url": "https://yunohost.org/#/",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 	  	}],
 		"licence_list": ["GNU GPL v3"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
@@ -188,7 +188,7 @@
 			"title": "SlapOS powers TeraLab, Institut Mines Télécom's Big Data Platform",
 			"description": "Within three months, Institut Mines Télécom and Nexedi automated through SlapOS the provisioning and operation of clusters of virtual machines that power Terelab Big Data platform. This project demonstrate how SlapOS hyperconvergent operating system can be used to power a corporate Big Data platform with strict security requirements, under strict time and budget constraints.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Teralab?display=thumbnail&format=png",
-			"industry": "Higher Education",
+			"industry": "Education",
 			"customer": "Institut Mines Télécom",
 			"country": "FR",
 			"language": "en",
@@ -219,10 +219,10 @@
 			"title": "WINDELIN - Predictive Maintenance and Optimisation of Wind Turbines using an open-source Big Data Machine Learning Cloud",
 			"description": "WINDELIN is a R & D project developed under Eureka programme using machine learning and big data technologies for anomaly detection and predictive maintenance inside wind turbines.",
 			"image_url": "",
-			"industry": "R&D",
+			"industry": "Academia and Research",
 			"customer": "Eureka programme",
 			"country": "FR",
-			"language": "en",
+			"language": "fr",
 			"success_case_url": "https://www.nexedi.com/success/P-WIND-WINDELIN.Success.Story"
 		}]
 	}]
