@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-29",
 	"title": "OpenSVC SAS",
-	"type": "Other",
+	"type": "Company",
 	"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
 	"location": {
 		"title": "OpenSVC SAS",
@@ -10,7 +10,7 @@
 		"city": "Gouvieux",
 		"country": "FR",
 		"phone_contact": "+33972509802",
-		"mail_contact": "support@opensvc.com",
+		"mail_contact": "contact@opensvc.com",
 		"coordinate_list": [49.18354587333739, 2.4159547229393996]
 	},
 	"subsidiary_location_list": [],
@@ -53,23 +53,55 @@
 		"source_url": "https://www.verif.com/"
 	}],
 	"solution_list": [{
-		"title": "OpenSVC",
+		"title": "OpenSVC Agent",
 		"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
 		"website_url": "https://www.opensvc.com/",
-		"created_year": 2019,
-		"description": "OpenSVC is a Open Source software product and the name of the commercial entity developping and supporting it.",
+		"created_year": 2009,
+		"description": "OpenSVC is an open source orchestrator for traditional and containerized applications across multiple hosts.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
-			"title": "rudder",
-			"similiar_solution_url": "https://www.rudder.io/",
+			"title": "Veritas Infoscale (Formerly Veritas Cluster Server)",
+			"similiar_solution_url": "https://www.veritas.com/availability/infoscale/",
 			"category": "Application"
 		}, {
-			"title": "ZEVENET",
-			"similiar_solution_url": "https://www.zevenet.com/about-us/",
+                        "title": "Kubernetes",
+                        "similiar_solution_url": "https://kubernetes.io",
+                        "category": "Application"
+                }, {
+			"title": "Red Hat High Availability Cluster (Red Hat Cluster Suite)",
+			"similiar_solution_url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/cluster_suite_overview/index",
 			"category": "Application"
-		}],
-		"licence_list": ["GNU General Public License v2"],
-		"source_code_download": "https://github.com/opensvc/docs.opensvc.com.git",
+		}, {
+                        "title": "Rancher",
+                        "similiar_solution_url": "https://rancher.com",
+                        "category": "Application"
+                }, {
+                        "title": "SUSE Linux Enterprise High Availability",
+                        "similiar_solution_url": "https://www.suse.com/products/highavailability/",
+                        "category": "Application"
+		}, {
+                        "title": "Mesos",
+                        "similiar_solution_url": "https://mesos.apache.org",
+                        "category": "Application"
+                }, {
+                        "title": "Oracle Solaris Cluster (Formerly Sun Solaris Cluster)",
+                        "similiar_solution_url": "https://www.oracle.com/solaris/technologies/cluster-overview.html",
+                        "category": "Application"
+		}, {
+                        "title": "Docker Swarm",
+                        "similiar_solution_url": "https://docs.docker.com/engine/swarm/",
+                        "category": "Application"
+                }, {
+                        "title": "IBM PowerHA (Formerly IBM HACMP)",
+                        "similiar_solution_url": "https://www.ibm.com/products/powerha",
+                        "category": "Application"
+                }, {
+                        "title": "HP Serviceguard",
+                        "similiar_solution_url": "https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-c02960047-2",
+                        "category": "Application"
+                }],
+		"licence_list": ["gpl-2.0"],
+		"source_code_download": "https://github.com/opensvc/opensvc.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": true,
@@ -77,6 +109,11 @@
 		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
+                        "title": "Ministry of the Interior (National Gendarmerie)",
+                        "logo_url": "https://www.opensvc.com/init/static/images/references/logo_gendarmerie_marianne.jpg",
+                        "country": "FR",
+                        "industry": "Public Administration and Government"
+                }, {
 			"title": "Amundi",
 			"logo_url": "https://www.opensvc.com/init/static/images/references/amundi_logo.png",
 			"country": "FR",
@@ -87,35 +124,30 @@
 			"country": "FR",
 			"industry": "Banking and Finance"
 		}, {
-			"title": "Groupe CGR",
-			"logo_url": "https://www.opensvc.com/init/static/images/references/cgr.gif",
+			"title": "Société Générale",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/societe-generale-logo.png",
 			"country": "FR",
-			"industry": "Media and Entertainment"
+			"industry": "Banking and Finance"
+		}, {
+			"title": "BPCE-IT (Caisse d'Epargne, Banque Populaire, Natixis, ...)",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/bpce-it.jpg",
+			"country": "FR",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "LG - Ericsson",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/ericsson-lg.png",
+			"country": "KR",
+			"industry": "Telecommunication"
+		}, {
+			"title": "CGR International",
+			"logo_url": "https://www.opensvc.com/init/static/images/references/cgr-international.png",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
 		}, {
 			"title": "Somfy",
 			"logo_url": "https://www.opensvc.com/init/static/images/references/somfy.gif",
 			"country": "FR",
 			"industry": "Automotive"
-		}, {
-			"title": "Exane",
-			"logo_url": "https://www.opensvc.com/init/static/images/references/exane.gif",
-			"country": "FR",
-			"industry": "Banking and Finance"
-		}, {
-			"title": "Vinci energies",
-			"logo_url": "https://www.opensvc.com/init/static/images/references/vinci-energie.jpg",
-			"country": "FR",
-			"industry": "Construction"
-		}, {
-			"title": "SNCF",
-			"logo_url": "https://www.opensvc.com/init/static/images/references/sncf.jpg",
-			"country": "FR",
-			"industry": "Transport"
-		}, {
-			"title": "Canal+",
-			"logo_url": "https://www.opensvc.com/init/static/images/references/canal.jpeg",
-			"country": "FR",
-			"industry": "Media and Entertainment"
 		}],
 		"success_case_list": []
 	}]
