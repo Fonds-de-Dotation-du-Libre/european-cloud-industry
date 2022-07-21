@@ -411,7 +411,7 @@
     "category_list": ["Identity", "Cybersecurity"],
     "similar_solution_list": [{
       "title": "Jumpcloud",
-      "similiar_solution_url": "https://jumpcloud.com/",
+      "similar_solution_url": "https://jumpcloud.com/",
       "category": "Identity"
     }],
     "licence_list": ["GNU General Public License"],
