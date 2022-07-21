@@ -82,19 +82,19 @@
 			"category_list": ["Big Data Hub"],
 			"similar_solution_list": [{
 				"title": "Crunchbase",
-				"similiar_solution_url": "https://www.crunchbase.com/",
+				"similar_solution_url": "https://www.crunchbase.com/",
 				"category": "Storage and database"
 			}, {
 				"title": "PartnerLinQ",
-				"similiar_solution_url": "https://www.partnerlinq.net/",
+				"similar_solution_url": "https://www.partnerlinq.net/",
 				"category": "Application"
 			}, {
 				"title": "Weld",
-				"similiar_solution_url": "https://weld.app/",
+				"similar_solution_url": "https://weld.app/",
 				"category": "Application"
 			}, {
 				"title": "Explorium",
-				"similiar_solution_url": "https://www.explorium.ai/",
+				"similar_solution_url": "https://www.explorium.ai/",
 				"category": "Application"
 			}],
 			"licence_list": ["Proprietary"],
