@@ -40,11 +40,11 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "spicework service desk",
-			"similiar_solution_url": "https://www.spiceworks.com/",
+			"similar_solution_url": "https://www.spiceworks.com/",
 			"category": "Networking"
 		}, {
 			"title": "jira service management",
-			"similiar_solution_url": "https://www.atlassian.com/software/jira/service-management",
+			"similar_solution_url": "https://www.atlassian.com/software/jira/service-management",
 			"category": "Networking"
 		}],
 		"licence_list": ["Free software GPL v2"],
@@ -84,7 +84,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Hexanode UEM",
-			"similiar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
+			"similar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
 			"category": "Application"
 		}],
 		"licence_list": ["LGPL v3.0"],
@@ -106,15 +106,15 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Mayan EDMS",
-			"similiar_solution_url": "https://www.mayan-edms.com/",
+			"similar_solution_url": "https://www.mayan-edms.com/",
 			"category": "Application"
 		}, {
 			"title": "eXo Platform",
-			"similiar_solution_url": "https://www.exoplatform.com/",
+			"similar_solution_url": "https://www.exoplatform.com/",
 			"category": "Application"
 		}, {
 			"title": "Alfresco Community Edition",
-			"similiar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
+			"similar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
 			"category": "Application"
 		}],
 		"licence_list": ["Affero GPL v2"],
