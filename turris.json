@@ -16,7 +16,7 @@
 	"subsidiary_location_list": [],
 	"website_url": "https://www.nic.cz/page/357/kontakt/",
 	"founded_year": 1998,
-  "kpi_list": [],
+  	"kpi_list": [],
 	"solution_list": [{
 		"title": "Turris Shield",
 		"logo_url": "https://www.turris.com/static/img/logo-light.ad524696c384.svg",
@@ -26,7 +26,7 @@
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "OpenWRT",
-			"similiar_solution_url": "https://openwrt.org/",
+			"similar_solution_url": "https://openwrt.org/",
 			"category": "Cybersecurity"
 		}],
 		"licence_list": [],
@@ -83,7 +83,7 @@
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Olimex",
-			"similiar_solution_url": "https://olimex.com/",
+			"similar_solution_url": "https://olimex.com/",
 			"category": "Developer environment"
 		}],
 		"licence_list": [],
@@ -105,11 +105,11 @@
 		"category_list": ["Router"],
 		"similar_solution_list": [{
 			"title": "eero Home WiFi System",
-			"similiar_solution_url": "https://eero.com/",
+			"similar_solution_url": "https://eero.com/",
 			"category": "Router"
 		}, {
 			"title": "Asus RT-AC5300",
-			"similiar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
+			"similar_solution_url": "https://www.asus.com/us/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC5300/",
 			"category": "Router"
 		}],
 		"licence_list": [],
