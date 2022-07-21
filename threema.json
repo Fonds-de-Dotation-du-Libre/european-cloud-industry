@@ -26,19 +26,19 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Skype",
-			"similiar_solution_url": "https://skype.gmw.cn/",
+			"similar_solution_url": "https://skype.gmw.cn/",
 			"category": "Networking"
 		}, {
 			"title": "Hangout",
-			"similiar_solution_url": "https://hangouts.google.com/",
+			"similar_solution_url": "https://hangouts.google.com/",
 			"category": "Networking"
 		}, {
 			"title": "Telegram",
-			"similiar_solution_url": "https://telegram.org/",
+			"similar_solution_url": "https://telegram.org/",
 			"category": "Networking"
 		}, {
 			"title": "Whatsapp",
-			"similiar_solution_url": "https://www.whatsapp.com/",
+			"similar_solution_url": "https://www.whatsapp.com/",
 			"category": "Networking"
 		}],
 		"licence_list": ["GNU Affero General Public License version 3"],
@@ -60,15 +60,15 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Element",
-			"similiar_solution_url": "https://element.io/",
+			"similar_solution_url": "https://element.io/",
 			"category": "Networking"
 		}, {
 			"title": "Imo",
-			"similiar_solution_url": "https://imo.im/",
+			"similar_solution_url": "https://imo.im/",
 			"category": "Networking"
 		}, {
 			"title": "Tox",
-			"similiar_solution_url": "https://tox.chat/",
+			"similar_solution_url": "https://tox.chat/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
@@ -165,11 +165,11 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Signal",
-			"similiar_solution_url": "https://signal.org/en/",
+			"similar_solution_url": "https://signal.org/en/",
 			"category": "Networking"
 		}, {
 			"title": "Wire",
-			"similiar_solution_url": "https://wire.com/en/",
+			"similar_solution_url": "https://wire.com/en/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
@@ -191,11 +191,11 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "StealthChat",
-			"similiar_solution_url": "https://stealthchat.com/",
+			"similar_solution_url": "https://stealthchat.com/",
 			"category": "Networking"
 		}, {
 			"title": "Wickr",
-			"similiar_solution_url": "https://wickr.com/",
+			"similar_solution_url": "https://wickr.com/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
@@ -247,7 +247,7 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Nimbuzz",
-			"similiar_solution_url": "https://nimbuzz.com/",
+			"similar_solution_url": "https://nimbuzz.com/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
@@ -269,15 +269,15 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Subrosa",
-			"similiar_solution_url": "https://subrosabrand.com/",
+			"similar_solution_url": "https://subrosabrand.com/",
 			"category": "Networking"
 		}, {
 			"title": "google allo",
-			"similiar_solution_url": "https://allo.google.com/",
+			"similar_solution_url": "https://allo.google.com/",
 			"category": "Networking"
 		}, {
 			"title": "Ayttm",
-			"similiar_solution_url": "http://ayttm.sourceforge.net/",
+			"similar_solution_url": "http://ayttm.sourceforge.net/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
