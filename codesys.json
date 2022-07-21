@@ -142,15 +142,15 @@
 			"category_list": ["IoT and industrial"],
 			"similar_solution_list": [{
 				"title": "Indusof Web Studio",
-				"similiar_solution_url": "https://www.aveva.com/en/products/edge/",
+				"similar_solution_url": "https://www.aveva.com/en/products/edge/",
 				"category": "IoT and industrial"
 			}, {
 				"title": "Cimicity",
-				"similiar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+				"similar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
 				"category": "IoT and industrial"
 			}, {
 				"title": "SIMATIC WinCC",
-				"similiar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
+				"similar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html",
 				"category": "IoT and industrial"
 			}],
 			"licence_list": [],
