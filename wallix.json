@@ -28,7 +28,7 @@
 		"staff": 141,
 		"earnings": "284 129 EUR",
 		"total_assets": "24 561 856 EUR",
-		"revenues": "15734723 EUR",
+		"revenues": "15 734 723 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}, {
 		"year": 2018,
@@ -97,43 +97,43 @@
 		"category_list": ["Cybersecurity"],
 		"similar_software_list": [{
 			"title": "JumpCloud Directory Platform",
-			"similiar_solution_url": "https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/jumpcloud-2022-logo.png",
+			"similar_solution_url": "https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/jumpcloud-2022-logo.png",
 			"category": "Cybersecurity"
 		}, {
 			"title": "SecureLink",
-			"similiar_solution_url": "https://www.securelink.com/",
+			"similar_solution_url": "https://www.securelink.com/",
 			"category": "Cybersecurity"
 		}, {
 			"title": "OneLogin",
-			"similiar_solution_url": "https://app.onelogin.com/login",
+			"similar_solution_url": "https://app.onelogin.com/login",
 			"category": "Cybersecurity"
 		}, {
 			"title": "FoxPass",
-			"similiar_solution_url": "https://www.foxpass.com/",
+			"similar_solution_url": "https://www.foxpass.com/",
 			"category": "Cybersecurity"
 		},{
 			"title": "CyberArk",
-			"similiar_solution_url": "https://www.cyberark.com/",
+			"similar_solution_url": "https://www.cyberark.com/",
 			"category": "Cybersecurity"
     },{
 			"title": "One Identity",
-			"similiar_solution_url": "https://www.oneidentity.com/",
+			"similar_solution_url": "https://www.oneidentity.com/",
 			"category": "Cybersecurity"
     },{
 			"title": "Delinea",
-			"similiar_solution_url": "https://delinea.com/",
+			"similar_solution_url": "https://delinea.com/",
 			"category": "Cybersecurity"
     },{
 			"title": "BeyondTrust",
-			"similiar_solution_url": "https://www.beyondtrust.com/",
+			"similar_solution_url": "https://www.beyondtrust.com/",
 			"category": "Cybersecurity"
     },{
 			"title": "Micro Focus",
-			"similiar_solution_url": "https://www.microfocus.com/",
+			"similar_solution_url": "https://www.microfocus.com/",
 			"category": "Cybersecurity"
     },{
 			"title": "Jumpcloud",
-			"similiar_solution_url": "https://jumpcloud.com/",
+			"similar_solution_url": "https://jumpcloud.com/",
 			"category": "Cybersecurity"
     }],
 		"licence_list": [],
