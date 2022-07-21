@@ -26,19 +26,19 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "FRRouting",
-			"similiar_solution_url": "https://frrouting.org/",
+			"similar_solution_url": "https://frrouting.org/",
 			"category": "Networking"
 		},{
 			"title": "Quagga",
-			"similiar_solution_url": "https://www.quagga.net/",
+			"similar_solution_url": "https://www.quagga.net/",
 			"category": "Networking"
 		},{
 			"title": "FreeRouter",
-			"similiar_solution_url": "https://freerouting.org/",
+			"similar_solution_url": "https://freerouting.org/",
 			"category": "Networking"
 		},{
 			"title": "Xorp",
-			"similiar_solution_url": "http://xorp.com/",
+			"similar_solution_url": "http://xorp.com/",
 			"category": "Networking"
 		}],
 		"licence_list": ["GNU General Public License"],
