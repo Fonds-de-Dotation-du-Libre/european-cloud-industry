@@ -61,7 +61,7 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Handprint",
-			"similiar_solution_url": "https://handprint.tech/",
+			"similar_solution_url": "https://handprint.tech/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
@@ -135,6 +135,7 @@
 		"created_year": "",
 		"description": "A full-featured, standalone LTE and 5G network solution that is trusted and field-proven for secure, tactical and rapid deployment.",
 		"category_list": ["Networking"],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://github.com/athonet-open",
 		"source_code_profile": "",
