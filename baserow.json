@@ -26,19 +26,19 @@
     "category_list": ["Storage and database"],
     "similar_solution_list": [{
        "title": "Airtable",
-      "similiar_solution_url": "https://www.airtable.com/",
+      "similar_solution_url": "https://www.airtable.com/",
       "category": "Storage and database"
     },{
        "title": "NocoDB",
-      "similiar_solution_url": "https://nocodb.com/",
+      "similar_solution_url": "https://nocodb.com/",
       "category": "Storage and database"
     },{
        "title": "Avocode",
-      "similiar_solution_url": "https://avocode.com/",
+      "similar_solution_url": "https://avocode.com/",
       "category": "Storage and database"
     },{
        "title": "Assembla",
-      "similiar_solution_url": "https://www.assembla.com/home",
+      "similar_solution_url": "https://www.assembla.com/home",
       "category": "Storage and database"
     }],
     "licence_list": ["MIT"],
