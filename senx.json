@@ -54,7 +54,7 @@
     "category_list": ["Storage and database","IoT and industrial"],
     "similar_solution_list": [{
       "title": "Minitab Statistical Solution",
-      "similiar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
+      "similar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
       "category": "Storage and database"
     },{
       "title": "Azure Time Series Insights",
