@@ -55,31 +55,31 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Nagios",
-			"similiar_solution_url": "https://www.nagios.org/",
+			"similar_solution_url": "https://www.nagios.org/",
 			"category": "Application"
 		}, {
 			"title": "Opsview Core",
-			"similiar_solution_url": "https://www.opsview.com/",
+			"similar_solution_url": "https://www.opsview.com/",
 			"category": "Application"
 		}, {
 			"title": "Icinga",
-			"similiar_solution_url": "https://icinga.com/",
+			"similar_solution_url": "https://icinga.com/",
 			"category": "Application"
 		}, {
 			"title": "Mod-Gearman",
-			"similiar_solution_url": "https://mod-gearman.org/",
+			"similar_solution_url": "https://mod-gearman.org/",
 			"category": "Application"
 		}, {
 			"title": "The NOC Project",
-			"similiar_solution_url": "https://getnoc.com/",
+			"similar_solution_url": "https://getnoc.com/",
 			"category": "Application"
 		}, {
 			"title": "Webmin",
-			"similiar_solution_url": "https://www.webmin.com/",
+			"similar_solution_url": "https://www.webmin.com/",
 			"category": "Application"
 		}, {
 			"title": "Check MK",
-			"similiar_solution_url": "https://checkmk.com/",
+			"similar_solution_url": "https://checkmk.com/",
 			"category": "Application"
 		}],
 		"licence_list": ["GNU Affero General Public License v3.0"],
