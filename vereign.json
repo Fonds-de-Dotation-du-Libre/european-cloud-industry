@@ -26,19 +26,19 @@
     "category_list": ["Identity"],
     "similar_solution_list": [{
       "title": "Adips",
-      "similiar_solution_url": "https://adips.com/",
+      "similar_solution_url": "https://adips.com/",
       "category": "Identity"
      },{
       "title": "PingOne Fraud",
-      "similiar_solution_url": "https://www.pingidentity.com/en.html",
+      "similar_solution_url": "https://www.pingidentity.com/en.html",
       "category": "Identity"
      },{
       "title": "Xage Security",
-      "similiar_solution_url": "https://xage.com/",
+      "similar_solution_url": "https://xage.com/",
       "category": "Identity"
      },{
       "title": "SaferPass",
-      "similiar_solution_url": "https://saferpass.com/",
+      "similar_solution_url": "https://saferpass.com/",
       "category": "Identity"
     }],
     "licence_list": [],
