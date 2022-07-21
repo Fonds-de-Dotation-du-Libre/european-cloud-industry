@@ -47,19 +47,19 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
 			"category": "Workspace"
 		},{
 			"title": "Jamespot",
-			"similiar_solution_url": "https://www.fr.jamespot.com/",
+			"similar_solution_url": "https://www.fr.jamespot.com/",
 			"category": "Workspace"
 		},{
 			"title": "Talkspirit",
-			"similiar_solution_url": "https://en.talkspirit.com/",
+			"similar_solution_url": "https://en.talkspirit.com/",
 			"category": "Workspace"
 		},{
 			"title": "Wimi",
-			"similiar_solution_url": "https://www.wimi-teamwork.com/",
+			"similar_solution_url": "https://www.wimi-teamwork.com/",
 			"category": "Workspace"
 		}],
 		"licence_list": [],
