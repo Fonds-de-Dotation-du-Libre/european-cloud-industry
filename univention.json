@@ -61,27 +61,27 @@
     "category_list": ["Operation management"],
     "similar_solution_list": [{
       "title": "Manjaro Linux",
-      "similiar_solution_url": "https://manjaro.org/",
+      "similar_solution_url": "https://manjaro.org/",
       "category": "Operation management"
     },{
       "title": "Fedora",
-      "similiar_solution_url": "https://getfedora.org/",
+      "similar_solution_url": "https://getfedora.org/",
       "category": "Operation management"
     },{
       "title": "Pop!_OS",
-      "similiar_solution_url": "https://pop.system76.com/",
+      "similar_solution_url": "https://pop.system76.com/",
       "category": "Operation management"
     },{
       "title": "openSUSE",
-      "similiar_solution_url": "https://www.opensuse.org/",
+      "similar_solution_url": "https://www.opensuse.org/",
       "category": "Operation management"
     },{
       "title": "YunoHost",
-      "similiar_solution_url": "https://yunohost.org/#/",
+      "similar_solution_url": "https://yunohost.org/#/",
       "category": "Operation management"
     },{
       "title": "Solus",
-      "similiar_solution_url": "https://getsol.us/home/",
+      "similar_solution_url": "https://getsol.us/home/",
       "category": "Operation management"
     }],
     "licence_list": ["AGPL v3.0"],
