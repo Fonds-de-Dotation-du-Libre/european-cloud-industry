@@ -55,27 +55,27 @@
 		"category_list": ["Application"],
 		"similar_solutions_list": [{
 			"title": "Google Translate",
-			"similiar_solutio_url": "https://translate.google.com",
+			"similar_solutio_url": "https://translate.google.com",
 			"category": "Application"
 		}, {
 			"title": "Reverso",
-			"similiar_solution_url": "https://www.reverso.net/text-translation",
+			"similar_solution_url": "https://www.reverso.net/text-translation",
 			"category": "Application"
 		}, {
 			"title": "Linguee",
-			"similiar_solution_url": "https://www.linguee.com/",
+			"similar_solution_url": "https://www.linguee.com/",
 			"category": "Application"
 		}, {
 			"title": "Systran",
-			"similiar_solution_url": "https://www.systran.net/en/translate/",
+			"similar_solution_url": "https://www.systran.net/en/translate/",
 			"category": "Application"
 		}, {
 			"title": "Unbabel",
-			"similiar_solution_url": "https://unbabel.com/",
+			"similar_solution_url": "https://unbabel.com/",
 			"category": "Application"
 		}, {
 			"title": "Catapult",
-			"similiar_solution_url": "https://taia.io/catapult/",
+			"similar_solution_url": "https://taia.io/catapult/",
 			"category": "Application"
 		}],
 		"licence_list": ["MIT"],
@@ -97,7 +97,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Memoq",
-			"similiar_solution_url": "https://www.memoq.com/",
+			"similar_solution_url": "https://www.memoq.com/",
 			"category": "Application"
 		}],
 		"licence_list": ["MIT"],
