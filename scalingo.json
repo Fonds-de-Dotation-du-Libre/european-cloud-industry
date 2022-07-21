@@ -40,15 +40,15 @@
     "category_list": ["Developer environment"],
     "similar_solution_list": [{
       "title": "OpenShift",
-      "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+      "similar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
       "category": "Developer environment"
     },{
       "title": "Heroku",
-      "similiar_solution_url": "https://www.heroku.com/",
+      "similar_solution_url": "https://www.heroku.com/",
       "category": "Developer environment"
     },{
       "title": "Clever Cloud",
-      "similiar_solution_url": "https://www.clever-cloud.com/",
+      "similar_solution_url": "https://www.clever-cloud.com/",
       "category": "Developer environment"
     }],
     "licence_list": ["Proprietary"],
