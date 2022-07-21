@@ -26,15 +26,15 @@
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Google Cloud Security Command Center",
-      "similiar_solution_url": "https://cloud.google.com/security-command-center",
+      "similar_solution_url": "https://cloud.google.com/security-command-center",
       "category": "Cybersecurity"
       },{
       "title": "Crashtest Security",
-      "similiar_solution_url": "https://crashtest-security.com/",
+      "similar_solution_url": "https://crashtest-security.com/",
       "category": "Cybersecurity"
       },{
       "title": "Invicti Security",
-      "similiar_solution_url": "https://www.invicti.com/",
+      "similar_solution_url": "https://www.invicti.com/",
       "category": "Cybersecurity"
       }],
     "licence_list": ["AGPL-3.0 License"],
