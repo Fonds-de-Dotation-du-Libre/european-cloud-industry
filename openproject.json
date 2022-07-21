@@ -75,43 +75,43 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Monday",
-			"similiar_solution_url": "https://monday.com/lang/fr/",
+			"similar_solution_url": "https://monday.com/lang/fr/",
 			"category": "Workspace"
 		}, {
 			"title": "Notion",
-			"similiar_solution_url": "https://www.notion.so/fr-fr",
+			"similar_solution_url": "https://www.notion.so/fr-fr",
 			"category": "Workspace"
 		}, {
 			"title": "Trello",
-			"similiar_solution_url": "https://trello.com/",
+			"similar_solution_url": "https://trello.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Quire",
-			"similiar_solution_url": "https://quire.io/",
+			"similar_solution_url": "https://quire.io/",
 			"category": "Workspace"
 		}, {
 			"title": "Asana",
-			"similiar_solution_url": "https://asana.com/fr",
+			"similar_solution_url": "https://asana.com/fr",
 			"category": "Workspace"
 		}, {
 			"title": "Redmine",
-			"similiar_solution_url": "https://www.redmine.org/",
+			"similar_solution_url": "https://www.redmine.org/",
 			"category": "Workspace"
 		}, {
 			"title": "Basecamp",
-			"similiar_solution_url": "https://basecamp.com/",
+			"similar_solution_url": "https://basecamp.com/",
 			"category": "Workspace"
 		}, {
 			"title": "taiga.io",
-			"similiar_solution_url": "https://www.taiga.io/",
+			"similar_solution_url": "https://www.taiga.io/",
 			"category": "Workspace"
 		}, {
 			"title": "Clickup",
-			"similiar_solution_url": "https://clickup.com/",
+			"similar_solution_url": "https://clickup.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Amazing Marvin",
-			"similiar_solution_url": "https://amazingmarvin.com/",
+			"similar_solution_url": "https://amazingmarvin.com/",
 			"category": "Workspace"
 		}],
 		"licence_list": ["GPL"],
@@ -355,51 +355,51 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Monday.com",
-			"similiar_solution_url": "https://monday.com/",
+			"similar_solution_url": "https://monday.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Trello",
-			"similiar_solution_url": "https://trello.com/home",
+			"similar_solution_url": "https://trello.com/home",
 			"category": "Workspace"
 		}, {
 			"title": "Project Manager",
-			"similiar_solution_url": "https://www.projectmanager.com/",
+			"similar_solution_url": "https://www.projectmanager.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Basecamp",
-			"similiar_solution_url": "https://basecamp.com/",
+			"similar_solution_url": "https://basecamp.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Redmine",
-			"similiar_solution_url": "https://www.redmine.org/",
+			"similar_solution_url": "https://www.redmine.org/",
 			"category": "Workspace"
 		}, {
 			"title": "Asana",
-			"similiar_solution_url": "https://asana.com/",
+			"similar_solution_url": "https://asana.com/",
 			"category": "Workspace"
 		}, {
 			"title": "ZenTao",
-			"similiar_solution_url": "https://www.zentao.pm/",
+			"similar_solution_url": "https://www.zentao.pm/",
 			"category": "Workspace"
 		}, {
 			"title": "Campr",
-			"similiar_solution_url": "https://campr.biz/",
+			"similar_solution_url": "https://campr.biz/",
 			"category": "Workspace"
 		}, {
 			"title": "Roadmap Planner",
-			"similiar_solution_url": "https://www.roadmap-planner.io/",
+			"similar_solution_url": "https://www.roadmap-planner.io/",
 			"category": "Workspace"
 		}, {
 			"title": "Jira",
-			"similiar_solution_url": "https://www.atlassian.com/software/jira",
+			"similar_solution_url": "https://www.atlassian.com/software/jira",
 			"category": "Workspace"
 		}, {
 			"title": "Wrike",
-			"similiar_solution_url": "https://www.wrike.com/vm/",
+			"similar_solution_url": "https://www.wrike.com/vm/",
 			"category": "Workspace"
 		}, {
 			"title": "TeamGantt",
-			"similiar_solution_url": "https://www.teamgantt.com/",
+			"similar_solution_url": "https://www.teamgantt.com/",
 			"category": "Workspace"
 		}],
 		"licence_list": ["GPLv3"],
