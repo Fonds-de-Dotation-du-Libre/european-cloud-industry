@@ -62,27 +62,27 @@
 		"category_list": ["Workspace","Application"],
 		"similar_software_list": [{
 			"title": "LibreOffice",
-			"similiar_software_url": "https://www.libreoffice.org/",
+			"similar_software_url": "https://www.libreoffice.org/",
 			"category": "Application"
 		}, {
 			"title": "Apache OpenOffice",
-			"similiar_software_url": "https://www.openoffice.org/",
+			"similar_software_url": "https://www.openoffice.org/",
 			"category": "Application"
 		}, {
 			"title": "OnlyOffice",
-			"similiar_software_url": "https://www.onlyoffice.com/en/",
+			"similar_software_url": "https://www.onlyoffice.com/en/",
 			"category": "Application"
 		}, {
 			"title": "Calligra",
-			"similiar_software_url": "https://calligra.org/",
+			"similar_software_url": "https://calligra.org/",
 			"category": "Application"
 		}, {
 			"title": "Microsoft Office Suite",
-			"similiar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
+			"similar_software_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
 			"category": "Application"
 		}, {
 			"title": "WPS Office",
-			"similiar_software_url": "https://www.wps.com/",
+			"similar_software_url": "https://www.wps.com/",
 			"category": "Application"
 		}],
 		"licence_list": ["MPL 2.0"],
@@ -109,23 +109,23 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "LibreOffice",
-			"similiar_solution_url": "https://www.libreoffice.org/",
+			"similar_solution_url": "https://www.libreoffice.org/",
 			"category": "Application"
 		}, {
 			"title": "Google Docs",
-			"similiar_solution_url": "https://www.docs.google.com/",
+			"similar_solution_url": "https://www.docs.google.com/",
 			"category": "Application"
 		}, {
 			"title": "Apache OpenOffice",
-			"similiar_solution_url": "https://www.openoffice.org/",
+			"similar_solution_url": "https://www.openoffice.org/",
 			"category": "Application"
 		}, {
 			"title": "Microsoft Office Suite",
-			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
+			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
 			"category": "Application"
 		}, {
 			"title": "WPS Office",
-			"similiar_solution_url": "https://www.wps.com/",
+			"similar_solution_url": "https://www.wps.com/",
 			"category": "Application"
 		}],
 		"licence_list": ["MPL 2.0"],
