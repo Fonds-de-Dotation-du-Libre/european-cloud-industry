@@ -61,11 +61,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "rudder",
-			"similiar_solution_url": "https://www.rudder.io/",
+			"similar_solution_url": "https://www.rudder.io/",
 			"category": "Application"
 		}, {
 			"title": "ZEVENET",
-			"similiar_solution_url": "https://www.zevenet.com/about-us/",
+			"similar_solution_url": "https://www.zevenet.com/about-us/",
 			"category": "Application"
 		}],
 		"licence_list": ["GNU General Public License v2"],
