@@ -26,11 +26,11 @@
     "category_list": ["Developer environment"],
     "similar_solution_list": [{
       "title": "Cloudways",
-      "similiar_solution_url": "https://www.cloudways.com/en/",
+      "similar_solution_url": "https://www.cloudways.com/en/",
       "category": "Developer environment"
     },{
       "title": "Amazon CloudWatch",
-      "similiar_solution_url": "https://aws.amazon.com/fr/cloudwatch/",
+      "similar_solution_url": "https://aws.amazon.com/fr/cloudwatch/",
       "category": "Developer environment"
     }],
     "licence_list": ["Proprietary"],
