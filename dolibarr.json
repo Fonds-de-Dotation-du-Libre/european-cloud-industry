@@ -26,31 +26,31 @@
     "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Odoo",
-      "similiar_solution_url": "https://www.odoo.com/",
+      "similar_solution_url": "https://www.odoo.com/",
       "category": "Application"
     },{
       "title": "Tryton",
-      "similiar_solution_url": "https://www.tryton.org/",
+      "similar_solution_url": "https://www.tryton.org/",
       "category": "Application"
     },{
       "title": "ERPNext",
-      "similiar_solution_url": "https://erpnext.com/",
+      "similar_solution_url": "https://erpnext.com/",
       "category": "Application"
     },{
       "title": "Akaunting",
-      "similiar_solution_url": "https://akaunting.com/",
+      "similar_solution_url": "https://akaunting.com/",
       "category": "Application"
     },{
       "title": "inoERP",
-      "similiar_solution_url": "https://github.com/inoerp/inoERP",
+      "similar_solution_url": "https://github.com/inoerp/inoERP",
       "category": "Application"
     },{
       "title": "OrangeHRM",
-      "similiar_solution_url": "https://www.orangehrm.com/",
+      "similar_solution_url": "https://www.orangehrm.com/",
       "category": "Application"
     },{
       "title": "ProjeQtOr",
-      "similiar_solution_url": "https://www.projeqtor.org/en/",
+      "similar_solution_url": "https://www.projeqtor.org/en/",
       "category": "Application"
     }],
     "licence_list": ["GNU 3.0"],
