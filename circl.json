@@ -26,11 +26,11 @@
     "category_list": ["Cybersecurity", "Storage and database"],
     "similar_solution_list": [{
       "title": "HELK",
-      "similiar_solution_url": "https://thehelk.com/intro.html",
+      "similar_solution_url": "https://thehelk.com/intro.html",
       "category": "Storage and database"
     },{
       "title": "sqhunter",
-      "similiar_solution_url": "https://github.com/0x4D31/sqhunter.git",
+      "similar_solution_url": "https://github.com/0x4D31/sqhunter.git",
       "category": "Cybersecurity"
     }],
     "licence_list": ["AGPL v3.0"],
