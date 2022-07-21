@@ -61,23 +61,23 @@
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Visual Studio Code",
-			"similiar_solution_url": "https://code.visualstudio.com/",
+			"similar_solution_url": "https://code.visualstudio.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "VSCodium",
-			"similiar_solution_url": "https://vscodium.com/",
+			"similar_solution_url": "https://vscodium.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "Dodicad",
-			"similiar_solution_url": "http://codiad.com/",
+			"similar_solution_url": "http://codiad.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "Atheos IDE",
-			"similiar_solution_url": "https://www.atheos.io/",
+			"similar_solution_url": "https://www.atheos.io/",
 			"category": "Developer environment"
 		}, {
 			"title": "Webrunner",
-			"similiar_solution_url": "https://webrunner.nexedi.com/",
+			"similar_solution_url": "https://webrunner.nexedi.com/",
 			"category": "Developer environment"
 		}],
 		"licence_list": ["Eclipse Public License 2.0 (EPL2)", "GNU General Public License, version 2 (GPLv2)", "classpath exception"],
