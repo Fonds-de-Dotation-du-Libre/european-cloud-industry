@@ -47,23 +47,23 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Keycloak",
-			"similiar_solution_url": "https://www.keycloak.org/",
+			"similar_solution_url": "https://www.keycloak.org/",
 			"category": "Identity"
 		}, {
 			"title": "CAS",
-			"similiar_solution_url": "https://github.com/apereo/cas.git",
+			"similar_solution_url": "https://github.com/apereo/cas.git",
 			"category": "Identity"
 		}, {
 			"title": "Ory",
-			"similiar_solution_url": "https://www.ory.sh/",
+			"similar_solution_url": "https://www.ory.sh/",
 			"category": "Identity"
 		}, {
 			"title": "Shibboleth",
-			"similiar_solution_url": "https://www.shibboleth.net/",
+			"similar_solution_url": "https://www.shibboleth.net/",
 			"category": "Identity"
 		}, {
 			"title": "10 Duke",
-			"similiar_solution_url": "https://www.10duke.com/products/identity-provider/",
+			"similar_solution_url": "https://www.10duke.com/products/identity-provider/",
 			"category": "Identity"
 		}],
 		"licence_list": ["GPL-3.0"],
@@ -85,19 +85,19 @@
 		"category_list": ["Identity"],
 		"similar_solution_list": [{
 			"title": "pwm-project",
-			"similiar_solution_url": "https://github.com/pwm-project/pwm.git",
+			"similar_solution_url": "https://github.com/pwm-project/pwm.git",
 			"category": "Identity"
 			}, {
 			"title": "PassCore",
-			"similiar_solution_url": "https://github.com/unosquare/passcore.git",
+			"similar_solution_url": "https://github.com/unosquare/passcore.git",
 			"category": "Identity"
 			}, {
 			"title": "ADReset",
-			"similiar_solution_url": "https://github.com/mprahl/ADReset.git",
+			"similar_solution_url": "https://github.com/mprahl/ADReset.git",
 			"category": "Identity"
 			}, {
 			"title": "JiJi Self Service Password",
-			"similiar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+			"similar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
 			"category": "Identity"
 			}],
 		"licence_list": ["GPL-3.0"],
@@ -137,7 +137,7 @@
 		"category_list": ["Operation management"],
 		"similar_solution_list": [{
 		  "title": "pwm-project",
-		  "similiar_solution_url": "",
+		  "similar_solution_url": "",
 		  "category": "Operation management"
 		}],
 		"licence_list": [],
