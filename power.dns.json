@@ -33,15 +33,15 @@
 		"category_list": ["Server"],
 		"similar_solution_list": [],
 		"licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": true,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
+	    "source_code_download": "",
+	    "source_code_profile": "",
+	    "commercial_support_url": "",
+	    "floss_software": true,
+	    "commercial_support_open_source_version": false,
+	    "commercial_support_available": false,
+	    "wikipedia_url": "",
+	    "reference_list": [],
+	    "success_case_list": []
 	}, {
 		"title": "PowerDNS dnsdist",
 		"logo_url": "https://www.powerdns.com/img/pDNS_logo_positive_claim_down_screen_xsmall.png",
@@ -51,7 +51,7 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Google Cloud DNS",
-			"similiar_solution_url": "https://cloud.google.com/dns",
+			"similar_solution_url": "https://cloud.google.com/dns",
 			"category": "Networking"
 		}],
 		"licence_list": ["GNU General Public License v2"],
@@ -168,7 +168,7 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "CoreDNS",
-			"similiar_solution_url": "https://coredns.io/",
+			"similar_solution_url": "https://coredns.io/",
 			"category": "Networking"
 		}],
 		"licence_list": ["GNU General Public License v2"],
