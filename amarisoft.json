@@ -26,11 +26,11 @@
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "Nutaq PicoLTE",
-			"similiar_solution_url":"https://nutaq.com/fr/",
+			"similar_solution_url":"https://nutaq.com/fr/",
 			"category": "vRan"
 			}, {
 			"title": "Valid8 UE emulator",
-      			"similiar_solution_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
+      			"similar_solution_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
 			"category": "vRan"
 			}],
 		"licence_list": [],
@@ -128,11 +128,11 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "ABot",
-			"similiar_solution_url":"https://www.rebaca.com/telecom/solutions#",
+			"similar_solution_url":"https://www.rebaca.com/telecom/solutions#",
 			"category": "Networking"
 			},{
 			"title": "dsTest",
-      			"similiar_solution_url":"https://www.developingsolutions.com/products/about-dstest/",
+      			"similar_solution_url":"https://www.developingsolutions.com/products/about-dstest/",
 			"category": "Networking"
 			}],
 		"licence_list": [],
@@ -214,11 +214,11 @@
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "Indoor Small cell 5G network AIR 1279",
-			"similiar_solution_url":"https://www.ericsson.com/en/small-cells/indoor-coverage",
+			"similar_solution_url":"https://www.ericsson.com/en/small-cells/indoor-coverage",
 			"category": "vRan"
 			}, {
 			"title": "Garuda",
-      			"similiar_solution_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
+      			"similar_solution_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
 			"category": "vRan"
 		}],
 		"licence_list": [],
@@ -240,11 +240,11 @@
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "Macrocell solutions",
-			"similiar_solution_url":"https://www.tessco.com/commercial/solutions/macrocell-solutions",
+			"similar_solution_url":"https://www.tessco.com/commercial/solutions/macrocell-solutions",
 			"category": "vRan"
 			}, {
 			"title": "Macrocell sites",
-     			"similiar_solution_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
+     			"similar_solution_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
 			"category": "vRan"
 		}],
 		"licence_list": [],
@@ -266,7 +266,7 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "LTE/5G products",
-			"similiar_solution_url":"https://mikrotik.com/products/group/lte-5g-products",
+			"similar_solution_url":"https://mikrotik.com/products/group/lte-5g-products",
 			"category": "Networking"
           		},{
       			"title": "LTE",
@@ -292,7 +292,7 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Private Networks",
-			"similiar_solution_url":"https://www.scaleway.com/en/private-networks/",
+			"similar_solution_url":"https://www.scaleway.com/en/private-networks/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
@@ -314,11 +314,11 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "ION-U",
-			"similiar_solution_url":"https://www.commscope.com/product-type/in-building-cellular-systems/distributed-antenna-systems-das/ion-u/",
+			"similar_solution_url":"https://www.commscope.com/product-type/in-building-cellular-systems/distributed-antenna-systems-das/ion-u/",
 			"category": "Networking"
 			}, {
 			"title": "idDAS",
-      			"similiar_solution_url":"https://axellwireless.com/product/iddas/",
+      			"similar_solution_url":"https://axellwireless.com/product/iddas/",
 			"category": "Networking"
     			}, {
       			"title": "DAS",
@@ -344,11 +344,11 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Open vRAN",
-			"similiar_solution_url":"https://blogs.cisco.com/sp/open-vran-collaboration-to-accelerate-solution-deployments",
+			"similar_solution_url":"https://blogs.cisco.com/sp/open-vran-collaboration-to-accelerate-solution-deployments",
 			"category": "Networking"
 			}, {
 			"title": "vRAN",
-      			"similiar_solution_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
+      			"similar_solution_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
 			"category": "Networking"
 		}],
 		"licence_list": [],
