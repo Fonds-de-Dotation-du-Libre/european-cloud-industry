@@ -53,7 +53,7 @@
 		"created_year": 2017,
 		"description": "Free IA-based translator that makes it the most efficient web translator. Available in 26 languages it performs several times better than its competitors.",
 		"category_list": ["Application"],
-		"similar_solutions_list": [{
+		"similar_solution_list": [{
 			"title": "Google Translate",
 			"similar_solutio_url": "https://translate.google.com",
 			"category": "Application"
