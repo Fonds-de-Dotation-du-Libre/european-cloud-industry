@@ -26,15 +26,15 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "OBM 3",
-			"similiar_solution_url":"https://obm.org/",
+			"similar_solution_url":"https://obm.org/",
 			"category": "Workspace"
 			}, {
 			"title": "Kolab",
-      			"similiar_solution_url":"https://www.kolab.org/",
+      			"similar_solution_url":"https://www.kolab.org/",
 			"category": "Workspace"
 			}, {
 			"title": "Kopano",
-     			"similiar_solution_url":"https://kopano.com/",
+     			"similar_solution_url":"https://kopano.com/",
 			"category": "Workspace"
 		}],
 		"licence_list": ["AGPL v3"],
