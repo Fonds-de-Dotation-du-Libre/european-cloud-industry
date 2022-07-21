@@ -40,15 +40,15 @@
     "category_list": ["Compute virtualisation"],
     "similar_solution_list": [{
       "title": "VM Ware",
-      "similiar_solution_url": "https://www.virtualbox.org/",
+      "similar_solution_url": "https://www.virtualbox.org/",
       "category": "Compute virtualisation"
     },{
       "title": "Proxmox Virtual Environment",
-      "similiar_solution_url": "https://www.proxmox.com/",
+      "similar_solution_url": "https://www.proxmox.com/",
       "category": "Compute virtualisation"
     },{
       "title": "SlapOS",
-      "similiar_solution_url": "https://slapos.nexedi.com/",
+      "similar_solution_url": "https://slapos.nexedi.com/",
       "category": "Compute virtualisation"
     }],
     "licence_list": ["GPL v2"],
@@ -70,7 +70,7 @@
     "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
       "title": "Vagrant",
-      "similiar_solution_url": "https://www.vagrantup.com/",
+      "similar_solution_url": "https://www.vagrantup.com/",
       "category": "Service lifecycle automation"
     }],
     "licence_list": ["GPL v3+"],
