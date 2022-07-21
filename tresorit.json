@@ -26,19 +26,19 @@
 		"category_list": ["Storage and database", "Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Nextcloud",
-			"similiar_solution_url": "https://nextcloud.com/",
+			"similar_solution_url": "https://nextcloud.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "Dropbox",
-			"similiar_solution_url": "https://www.dropbox.com/",
+			"similar_solution_url": "https://www.dropbox.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "pCloud",
-			"similiar_solution_url": "https://www.pcloud.com/fr/eu?ref=8097",
+			"similar_solution_url": "https://www.pcloud.com/fr/eu?ref=8097",
 			"category": "Storage and database"
 		}, {
 			"title": "Cryptomator",
-			"similiar_solution_url": "https://cryptomator.org/",
+			"similar_solution_url": "https://cryptomator.org/",
 			"category": "Storage and database"
 		}],
 		"licence_list": [],
