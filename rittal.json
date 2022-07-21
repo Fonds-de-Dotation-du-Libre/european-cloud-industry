@@ -79,15 +79,15 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "Let's encrypt",
-			"similiar_solution_url": "https://letsencrypt.org/",
+			"similar_solution_url": "https://letsencrypt.org/",
 			"category": "Networking"
 		}, {
 			"title": "BlueHost",
-			"similiar_solution_url": "https://www.bluehost.com/",
+			"similar_solution_url": "https://www.bluehost.com/",
 			"category": "Networking"
 		}, {
 			"title": "ZeroSSL",
-			"similiar_solution_url": "https://zerossl.com/",
+			"similar_solution_url": "https://zerossl.com/",
 			"category": "Networking"
 		}],
 		"licence_list": [],
