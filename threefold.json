@@ -26,31 +26,31 @@
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Akash",
-      "similiar_solution_url": "https://akash.network/",
+      "similar_solution_url": "https://akash.network/",
       "category": "Storage and database"
     },{
       "title": "Dfinity",
-      "similiar_solution_url": "https://dfinity.org/",
+      "similar_solution_url": "https://dfinity.org/",
       "category": "Application"
     },{
       "title": "Golem",
-      "similiar_solution_url": "https://www.golem.network/",
+      "similar_solution_url": "https://www.golem.network/",
       "category": "Application"
     },{
       "title": "Syntropy",
-      "similiar_solution_url": "https://www.syntropynet.com/",
+      "similar_solution_url": "https://www.syntropynet.com/",
       "category": "Application"
     },{
       "title": "Siacoin",
-      "similiar_solution_url": "https://sia.tech/",
+      "similar_solution_url": "https://sia.tech/",
       "category": "Application"
     },{
       "title": "Filecoin",
-      "similiar_solution_url": "https://filecoin.io/",
+      "similar_solution_url": "https://filecoin.io/",
       "category": "Application"
     },{
       "title": "Helium",
-      "similiar_solution_url": "https://www.helium.com/",
+      "similar_solution_url": "https://www.helium.com/",
       "category": "Application"
     }],
     "licence_list": ["Apache-2.0"],
