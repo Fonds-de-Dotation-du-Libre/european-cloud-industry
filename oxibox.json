@@ -26,47 +26,47 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "EaseUs Todo Backup",
-			"similiar_solution_url": "https://www.easeus.fr/logiciel-de-sauvegarde/index.html",
+			"similar_solution_url": "https://www.easeus.fr/logiciel-de-sauvegarde/index.html",
 			"category": "Storage and database"
 		}, {
 			"title": "Storeware",
-			"similiar_solution_url": "https://storware.eu/",
+			"similar_solution_url": "https://storware.eu/",
 			"category": "Storage and database"
 		}, {
 			"title": "Carbonite",
-			"similiar_solution_url": "https://www.carbonite.com/",
+			"similar_solution_url": "https://www.carbonite.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "Datto Cloud Continuity",
-			"similiar_solution_url": "https://www.datto.com/products/cloud-continuity/",
+			"similar_solution_url": "https://www.datto.com/products/cloud-continuity/",
 			"category": "Storage and database"
 		}, {
 			"title": "IDrive",
-			"similiar_solution_url": "https://www.idrive.com/fr/",
+			"similar_solution_url": "https://www.idrive.com/fr/",
 			"category": "Storage and database"
 		}, {
 			"title": "StorCentric Retrospect",
-			"similiar_solution_url": "https://storcentric.com/our-products/on-premises-cloud-backup/retrospect/",
+			"similar_solution_url": "https://storcentric.com/our-products/on-premises-cloud-backup/retrospect/",
 			"category": "Storage and database"
 		}, {
 			"title": "SafeStore",
-			"similiar_solution_url": "http://safestor.fr/",
+			"similar_solution_url": "http://safestor.fr/",
 			"category": "Storage and database"
 		}, {
 			"title": "Catalogic DPX",
-			"similiar_solution_url": "https://solutionsreview.com/backup-disaster-recovery/catalogic-dpx/",
+			"similar_solution_url": "https://solutionsreview.com/backup-disaster-recovery/catalogic-dpx/",
 			"category": "Storage and database"
 		}, {
 			"title": "Xopero",
-			"similiar_solution_url": "https://xopero.com/",
+			"similar_solution_url": "https://xopero.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "Commvault Backup & Recovery",
-			"similiar_solution_url": "https://www.commvault.com/complete-data-protection/backup-and-recovery",
+			"similar_solution_url": "https://www.commvault.com/complete-data-protection/backup-and-recovery",
 			"category": "Storage and database"
 		}, {
 			"title": "Bocada",
-			"similiar_solution_url": "https://www.bocada.com/",
+			"similar_solution_url": "https://www.bocada.com/",
 			"category": "Storage and database"
 		}],
 		"licence_list": [],
@@ -88,19 +88,19 @@
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "SpinOne",
-			"similiar_solution_url": "https://spintechnologies.net/",
+			"similar_solution_url": "https://spintechnologies.net/",
 			"category": "Cybersecurity"
 		}, {
 			"title": "Acronis Cyber Backup",
-			"similiar_solution_url": "https://www.acronis.com/en-us/",
+			"similar_solution_url": "https://www.acronis.com/en-us/",
 			"category": "Cybersecurity"
 		}, {
 			"title": "BackupAssist",
-			"similiar_solution_url": "https://www.backupassist.com/",
+			"similar_solution_url": "https://www.backupassist.com/",
 			"category": "Cybersecurity"
 		}, {
 			"title": "Commvault Complete Data Protection",
-			"similiar_solution_url": "https://www.commvault.com/complete-data-protection",
+			"similar_solution_url": "https://www.commvault.com/complete-data-protection",
 			"category": "Cybersecurity"
 		}],
 		"licence_list": [],
