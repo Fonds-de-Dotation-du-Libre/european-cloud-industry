@@ -61,15 +61,15 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Confluence",
-			"similiar_solution_url": "https://www.atlassian.com/software/confluence",
+			"similar_solution_url": "https://www.atlassian.com/software/confluence",
 			"category": "Workspace"
 		}, {
 			"title": "MediaWiki",
-			"similiar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
+			"similar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
 			"category": "Workspace"
 		}, {
 			"title": "Sharepoint",
-			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
 			"category": "Workspace"
 		}],
 		"licence_list": ["LGPL-2.1"],
