@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-07",
-	"title": "Crowdsec SAS",
+	"title": "Crowdsec",
 	"type": "Organisation",
 	"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
 	"location": {
-		"title": "Crowdsec",
+		"title": "Crowdsec SAS",
 		"address": "20 RUE MAURICE ARNOUX",
 		"postal_code": "92120",
 		"city": "MONTROUGE",
