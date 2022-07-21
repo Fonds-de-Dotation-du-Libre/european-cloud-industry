@@ -25,27 +25,27 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Solr",
-			"similiar_solution_url": "https://solr.apache.org/",
+			"similar_solution_url": "https://solr.apache.org/",
 			"category":"Storage and database"
 		}, {
 			"title": "InfluxDB",
-			"similiar_solution_url": "https://www.influxdata.com/",
+			"similar_solution_url": "https://www.influxdata.com/",
 			"category":"Storage and database"
 		}, {
 			"title": "TypeSense",
-			"similiar_solution_url": "https://typesense.org/",
+			"similar_solution_url": "https://typesense.org/",
 			"category":"Storage and database"
 		}, {
 			"title": "Algolia",
-			"similiar_solution_url": "https://www.algolia.com/",
+			"similar_solution_url": "https://www.algolia.com/",
 			"category":"Storage and database"
 		}, {
 			"title": "Sphinx",
-			"similiar_solution_url": "http://www.sphinxsearch.com/",
+			"similar_solution_url": "http://www.sphinxsearch.com/",
 			"category":"Storage and database"
 		}, {
 			"title": "Amazon Cloud Search",
-			"similiar_solution_url": "https://aws.amazon.com/fr/cloudsearch/",
+			"similar_solution_url": "https://aws.amazon.com/fr/cloudsearch/",
 			"category":"Storage and database"
 		}],
 		"licence_list": ["licence apache 2.0"],
@@ -67,19 +67,19 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Hostwinds",
-			"similiar_solution_url": "https://www.hostwinds.com/",
+			"similar_solution_url": "https://www.hostwinds.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "InterServer",
-			"similiar_solution_url": "https://www.interserver.net/",
+			"similar_solution_url": "https://www.interserver.net/",
 			"category": "Storage and database"
 		}, {
 			"title": "Kamatera",
-			"similiar_solution_url": "https://www.kamatera.com/",
+			"similar_solution_url": "https://www.kamatera.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "LiquidWeb",
-			"similiar_solution_url": "LiquidWeb.com",
+			"similar_solution_url": "LiquidWeb.com",
 			"category": "Storage and database"
 		}],
 		"licence_list": ["server side public license v1"],
@@ -101,7 +101,7 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Microsoft Azure",
-			"similiar_solution_url": "https://azure.microsoft.com/fr-fr/",
+			"similar_solution_url": "https://azure.microsoft.com/fr-fr/",
 			"category": "Storage and database"
 		}],
 		"licence_list": ["GPL-2.0"],
