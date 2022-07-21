@@ -61,11 +61,11 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Nextcloud",
-			"similiar_solution_url": "https://nextcloud.com/",
+			"similar_solution_url": "https://nextcloud.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Seafile",
-			"similiar_solution_url": "https://www.seafile.com/en/home/",
+			"similar_solution_url": "https://www.seafile.com/en/home/",
 			"category": "Workspace"
 		}],
 		"licence_list": ["AGPLv3"],
@@ -272,7 +272,7 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "Dropbox",
-			"similiar_solution_url": "https://www.dropbox.com/",
+			"similar_solution_url": "https://www.dropbox.com/",
 			"category": "Storage and database"
 		}],
 		"licence_list": "",
