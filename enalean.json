@@ -87,7 +87,7 @@
 			"similar_solution_url": "https://kanboard.org/",
 			"category": "Application"
 		}],
-		"licence_list": ["GPL v.2"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/Enalean/tuleap.git",
 		"source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.tuleap.org/fr/tarifs/sur-site",
