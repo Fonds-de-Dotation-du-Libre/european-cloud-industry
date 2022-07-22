@@ -65,23 +65,23 @@
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Nixos",
-			"similiar_solution_url": "https://nixos.org/",
+			"similar_solution_url": "https://nixos.org/",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Virtuozzo/OnApp",
-			"similiar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+			"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
 			"category": "Service lifecycle automation"
     		}, {
 			"title": "Google Anthos",
-			"similiar_solution_url": "https://cloud.google.com/anthos",
+			"similar_solution_url": "https://cloud.google.com/anthos",
 			"category": "Service lifecycle automation"
     		}, {
 			"title": "Kubernetes",
-			"similiar_solution_url": "https://kubernetes.io/",
+			"similar_solution_url": "https://kubernetes.io/",
 			"category": "Service lifecycle automation"
     		}, {
 			"title": "SlapOS",
-			"similiar_solution_url": "https://slapos.nexedi.com/",
+			"similar_solution_url": "https://slapos.nexedi.com/",
 			"category": "Service lifecycle automation"
     		}],
 		"licence_list": ["GNU General Public License v2"],
