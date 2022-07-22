@@ -33,19 +33,19 @@
     "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Ansible",
-      "similiar_solution_url": "https://www.ansible.com/",
+      "similar_solution_url": "https://www.ansible.com/",
       "category": "Application"
     },{
       "title": "Puppet",
-      "similiar_solution_url": "https://puppet.com/",
+      "similar_solution_url": "https://puppet.com/",
       "category": "Application"
     },{
       "title": "Salt",
-      "similiar_solution_url": "https://saltproject.io/",
+      "similar_solution_url": "https://saltproject.io/",
       "category":"Application"
     },{
       "title": "Otter",
-      "similiar_solution_url": "https://inedo.com/otter",
+      "similar_solution_url": "https://inedo.com/otter",
       "category":"Application"
     }],
     "licence_list": ["GPL v3.0"],
