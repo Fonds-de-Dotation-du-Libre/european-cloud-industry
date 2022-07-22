@@ -54,34 +54,34 @@
     "category_list": ["Workspace"],
     "similar_solution_list": [{
       "title": "ERPNext",
-      "similiar_solution_url": "https://erpnext.com/",
+      "similar_solution_url": "https://erpnext.com/",
       "category": "Workspace"
      },{
       "title": "Dolibarr",
-      "similiar_solution_url": "https://www.dolibarr.org/",
+      "similar_solution_url": "https://www.dolibarr.org/",
       "category": "Workspace"
     },{
       "title": "EspoCRM",
-      "similiar_solution_url": "https://www.espocrm.com/",
+      "similar_solution_url": "https://www.espocrm.com/",
       "category": "Workspace"
     },{
       "title": "ZenTao",
-      "similiar_solution_url": "https://www.zentao.pm/",
+      "similar_solution_url": "https://www.zentao.pm/",
       "category": "Workspace"
     },{
       "title": "Tryton",
-      "similiar_solution_url": "https://www.tryton.org/",
+      "similar_solution_url": "https://www.tryton.org/",
       "category": "Workspace"
     },{
       "title": "Crust CRM",
-      "similiar_solution_url": "https://www.planetcrust.com/solutions/crm/",
+      "similar_solution_url": "https://www.planetcrust.com/solutions/crm/",
       "category": "Application"
     },{
       "title": "Invoice Planehttps://www.invoiceplane.com/https://www.invoiceplane.com/",
-      "similiar_solution_url": "https://www.invoiceplane.com/",
+      "similar_solution_url": "https://www.invoiceplane.com/",
       "category": "Application"
     }],
-    "licence_list": ["LGPLv3"],
+    "licence_list": ["LGPL v3.0"],
     "source_code_download": "https://github.com/odoo/odoo.git",
     "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.odoo.com/pricing#pl=66&version_id=33&num_users=1&num_iot_boxes=1&hosting=online&odoosh_workers=1&odoosh_storage=1&odoosh_staging=1&implementation_service=self&pack=25&force_country=FR&integrating_partner_id=0&price_by=yearly",
