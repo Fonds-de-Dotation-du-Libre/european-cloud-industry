@@ -84,7 +84,7 @@
       "similar_solution_url": "https://getsol.us/home/",
       "category": "Operation management"
     }],
-    "licence_list": ["AGPL v3.0"],
+    "licence_list": ["AGPL v.3.0"],
     "source_code_download": "https://github.com/univention/univention-corporate-server.git",
     "source_code_profile": "https://www.openhub.net/p/univention/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.univention.com/products/prices-and-subscriptions/",
@@ -413,7 +413,7 @@
     "description": "UCS@school is an identity and authorization management system optimized for the educational sector to centrally manage users, services, applications, and digital media. Important basic services such as the provision of WLAN, authentication, printing or file storage are integrated. Other solutions such as e-learning, file sharing or e-mail can simply be connected to the management system.",
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [],
-    "licence_list": ["AGPL-3.0 license"],
+    "licence_list": ["AGPL v.3.0"],
     "source_code_download": "https://www.univention.com/products/univention-app-center/app-catalog/ucsschool/",
     "source_code_profile": "https://www.openhub.net/p/ucs-at-school/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.univention.com/products/support/contact-support/support-form/",
