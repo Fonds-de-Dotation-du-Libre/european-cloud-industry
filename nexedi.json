@@ -164,17 +164,37 @@
 			"success_case_url": "https://www.nexedi.com/success/erp5-Central.Bank.Success.Case"
 			}]
 		}, {
-		"title": "SlapOS Managed Cloud",
+		"title": "SlapOS",
 		"logo_url": "https://www.nexedi.com/service/nexedi-service-slapos/graphic-SlapOS.vector.logo?display=thumbnail&format=png",
 		"website_url": "https://slapos.nexedi.com/",
 		"created_year": 2010,
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
 		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
-			"title": "YunoHost",
-			"similiar_solution_url": "https://yunohost.org/#/",
+			"title": "OpenNebula",
+			"similar_solution_url": "https://opennebula.io/",
 			"category": "Service lifecycle automation"
-	  	}],
+		}, {
+			"title": "Nixos",
+			"similiar_solution_url": "https://nixos.org/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Virtuozzo/OnApp",
+			"similiar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Google Anthos",
+			"similiar_solution_url": "https://cloud.google.com/anthos",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Kubernetes",
+			"similiar_solution_url": "https://kubernetes.io/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "OpenSVC",
+			"similiar_solution_url": "https://www.opensvc.com/",
+			"category": "Service lifecycle automation"
+    		}],
 		"licence_list": ["GNU GPL v3"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
 		"source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
