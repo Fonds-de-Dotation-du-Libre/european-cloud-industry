@@ -1,20 +1,20 @@
 {
 	"created": "2022-04-01",
-	"title": "OX",
+	"title": "Open-Xchange",
 	"type": "Organisation",
 	"logo_url": "https://www.open-xchange.com/hs-fs/hubfs/ox-logo-darkstay-open-UA.png?width=264&name=ox-logo-darkstay-open-UA.png",
 	"location": {
-		"title": "Open-Xchange",
+		"title": "Open-Xchange AG",
 		"address": "Hohenzollernring 72",
 		"postal_code": "50672",
-		"city": "Koln",
+		"city": "Köln",
 		"country": "DE",
 		"phone_contact": "+49 2761 83850",
 		"mail_contact": "",
 		"coordinate_list": [50.94101816789219, 6.941165851460005]
 	},
 	"subsidiary_location_list": ["IT", "NL", "FI"],
-	"website_url": "https://www.open-xchange.com/?hsLang=en",
+	"website_url": "https://www.open-xchange.com/",
 	"founded_year": 2005,
 	"kpi_list": [{
 		"year": 2020,
