@@ -61,7 +61,7 @@
 				"category_list": ["Workspace"],
 				"similar_solution_list": [{
 					"title": "Trello",
-					"similiar_solution_url": "https://trello.com/en",
+					"similar_solution_url": "https://trello.com/en",
 					"category": "Workspace"
 				}],
 				"licence_list": ["GPL v3.0"],
@@ -83,7 +83,7 @@
 				"category_list": ["Application"],
 				"similar_solution_list": [{
 					"title": "NextCloud",
-					"similiar_solution_url": "https://nextcloud.com/",
+					"similar_solution_url": "https://nextcloud.com/",
 					"category": "Application"
 				}],
 				"licence_list": [],
