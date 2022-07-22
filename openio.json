@@ -41,7 +41,7 @@
 			"similar_solution_url": "https://www.veeam.com/virtualization-management-one-solution.html",
 			"category": "Storage and database"
 		}],
-		"licence_list": ["AGPL v3.0", "LGPLv3"],
+		"licence_list": ["AGPL v3.0", "LGPL v3.0"],
 		"source_code_download": "https://github.com/open-io",
 		"source_code_profile": "",
 		"commercial_support_url": "",
