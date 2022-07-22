@@ -26,14 +26,14 @@
     "category_list": ["Workspace"],
     "similar_solution_list": [{
       "title": "MS Office online",
-      "similiar_solution_url": "https://docs.google.com/document/u/0/",
+      "similar_solution_url": "https://docs.google.com/document/u/0/",
       "category": "Workspace"
     },{
       "title": "Google Docs",
-      "similiar_solution_url": "https://workspace.google.com/products/docs/",
+      "similar_solution_url": "https://workspace.google.com/products/docs/",
       "category": "Workspace"
     }],
-    "licence_list": ["GNU AGPL v.3"],
+    "licence_list": ["AGPL v3.0"],
     "source_code_download": "https://github.com/ONLYOFFICE/DocumentServer",
     "source_code_profile": "https://www.openhub.net/p/ONLYOFFICE/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.onlyoffice.com/support-contact-form.aspx?from=office-suite",
@@ -88,10 +88,10 @@
     "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Zoho",
-      "similiar_solution_url": "https://www.zoho.com/fr/crm/?utm_medium=cpc&utm_campaign=Z-CRM&utm_content=CRM&utm_source=capterra",
+      "similar_solution_url": "https://www.zoho.com/fr/crm/?utm_medium=cpc&utm_campaign=Z-CRM&utm_content=CRM&utm_source=capterra",
       "category": "Application"
     }],
-    "licence_list": ["GNU AGPL v3"],
+    "licence_list": ["AGPL v3.0"],
     "source_code_download": "https://github.com/ONLYOFFICE/DocumentServer",
     "source_code_profile": "https://www.openhub.net/p/ONLYOFFICE/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.onlyoffice.com/support-contact-form.aspx?from=office-suite",
