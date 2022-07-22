@@ -73,7 +73,7 @@ For industry types (type) :
 * Individual;
 * Other.
 
-For license types: use "licence keywords" from Github (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) lfkfkf
+For license types: use "licence keywords" from Github (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) 
 
 * afl-3.0
 * apache-2.0
