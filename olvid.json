@@ -26,26 +26,26 @@
 		"category_list": ["Communication","Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Signal",
-			"similiar_solution_url": "https://signal.org/",
+			"similar_solution_url": "https://signal.org/",
 			"category": "Communication"
 		}, {
 			"title": "Telegram",
-			"similiar_solution_url": "https://telegram.org/",
+			"similar_solution_url": "https://telegram.org/",
 			"category": "Communication"
 		}, {
 			"title": "Wire",
-			"similiar_solution_url": "https://wire.com/en/",
+			"similar_solution_url": "https://wire.com/en/",
 			"category": "Communication"
 		}, {
 			"title": "Element",
-			"similiar_solution_url": "https://element.io/",
+			"similar_solution_url": "https://element.io/",
 			"category": "Communication"
 		}, {
 			"title": "Jitsi",
-			"similiar_solution_url": "https://jitsi.org/",
+			"similar_solution_url": "https://jitsi.org/",
 			"category": "Communication"
 		}],
-		"licence_list": ["AGPLv3"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/olvid-io/olvid-android.git",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.olvid.io/enterprise/fr/",
