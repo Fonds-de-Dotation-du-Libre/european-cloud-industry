@@ -154,7 +154,7 @@
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [],
-		"licence_list": ["GNU General Public License v2.0"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/CZ-NIC/turris-os",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.turris.com/en/support/",
