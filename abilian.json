@@ -87,7 +87,7 @@
       "category": "Workspace",
       "similar_solution_url": "https://www.netsuite.com/"
     }],
-    "licence_list": ["Apache License 2.0"],
+    "licence_list": ["Apache v2.0"],
     "source_code_download": "https://github.com/abilian/labandco",
     "source_code_profile": "https://www.openhub.net/p/labandco/analyses/latest/languages_summary",
     "commercial_support_url": "https://abilian.com/fr/solutions/labandco/",
@@ -117,7 +117,7 @@
       "category": "Workspace",
       "similar_solution_url": "https://socialhome.network/"
     }],
-    "licence_list": ["LGPL-2.1 License"],
+    "licence_list": ["LGPL v2.1"],
     "source_code_download": "https://github.com/abilian/abilian-sbe",
     "source_code_profile": "https://www.openhub.net/p/abilian-sbe/analyses/latest/languages_summary",
     "commercial_support_url": "",
@@ -205,7 +205,7 @@
       "category": "Workspace",
       "similar_solution_url": "https://www.odoo.com/fr_FR/app/crm"
     }],
-    "licence_list": ["LGPL-2.1 License"],
+    "licence_list": ["LGPL v2.1"],
     "source_code_download": "https://github.com/abilian/abilian-crm-core",
     "source_code_profile": "https://www.openhub.net/p/abilian-crm-core/analyses/latest/languages_summary",
     "commercial_support_url": "",
