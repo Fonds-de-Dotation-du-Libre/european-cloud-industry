@@ -68,11 +68,11 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "PostgreSQL",
-			"similiar_solution_url": "https://www.postgresql.org/",
+			"similar_solution_url": "https://www.postgresql.org/",
 			"category": "Storage and database"
 		}, {
 			"title": "MySQL",
-			"similiar_solution_url": "https://www.mysql.com/fr/",
+			"similar_solution_url": "https://www.mysql.com/fr/",
 			"category": "Storage and database"
 		}],
 		"licence_list": ["GPL v2.0"],
