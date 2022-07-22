@@ -75,7 +75,7 @@
 			"similiar_solution_url": "https://www.mysql.com/fr/",
 			"category": "Storage and database"
 		}],
-		"licence_list": ["GNU Public License v2"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/MariaDB/server",
 		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
 		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
@@ -112,11 +112,11 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "MongoDB",
-			"similiar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
+			"similar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
 			"category": "Storage and database"
 		}, {
 			"title": "Microsoft SQL Server",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads",
 			"category": "Storage and database"
 		}],
 		"licence_list": [],
