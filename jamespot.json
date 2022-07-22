@@ -61,11 +61,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Google Workspace",
-			"similiar_solution_url": "https://workspace.google.com/",
+			"similar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Microsoft Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Workspace"
 		}],
 		"licence_list": ["Proprietary"],
@@ -288,11 +288,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Zoom",
-			"similiar_solution_url": "https://zoom.us/",
+			"similar_solution_url": "https://zoom.us/",
 			"category": "Application"
 		}, {
 			"title": "Webex",
-			"similiar_solution_url": "https://www.webex.com/fr/index.html",
+			"similar_solution_url": "https://www.webex.com/fr/index.html",
 			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
