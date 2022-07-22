@@ -95,7 +95,7 @@
 		"created_year": 2010,
 		"description": "Founded in 2010 and a strategic partner of Dassault Systèmes, 3DS OUTSCALE is at the forefront of Cloud Computing infrastructure services (IaaS). 3DS OUTSCALE’s technology makes an automated and adaptable Cloud available to businesses, supporting them in the most complex IT projects while controlling their operational aspects. You boost your IT infrastructure’s reactivity, with request responses that only take a few seconds.",
 		"category_list": ["Operation management"],
-		"licence_list": ["BSD 3-Clause New or Revised"],
+		"licence_list": ["BSD 3-clause new or revised"],
 		"source_code_download": "https://github.com/outscale/osc-cli",
 		"source_code_profile": "",
 		"commercial_support_url": "https://en.outscale.com/technical-support/",
