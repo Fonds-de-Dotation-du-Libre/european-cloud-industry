@@ -37,7 +37,7 @@
 			"similar_solution_url": "https://www.pfsense.org/",
 			"category": "Cybersecurity"
 		}],
-		"licence_list": ["MIT License"],
+		"licence_list": ["MIT"],
 		"source_code_download": "https://github.com/crowdsecurity/crowdsec",
 		"source_code_profile": "",
 		"commercial_support_url": "https://crowdsec.net/contact-crowdsec/",
