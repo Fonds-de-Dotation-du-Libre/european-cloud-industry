@@ -4,8 +4,8 @@
 	"type": "Organisation",
 	"logo_url": "https://www.powerdns.com/img/pDNS_logo_positive_claim_down_screen_xsmall.png",
 	"location": {
-		"title": "PowerDNS",
-		"address": "PowerDNS.COM BV Koninginnegracht 14L",
+		"title": "PowerDNS.COM BV",
+		"address": "Koninginnegracht 14L",
 		"postal_code": "2514",
 		"city": "AA Den Haag",
 		"country": "NL",
