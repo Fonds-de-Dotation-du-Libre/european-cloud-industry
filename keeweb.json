@@ -26,19 +26,19 @@
 		"category_list": [],
 		"similar_solution_list": [{
 			"title": "LastPass",
-			"similiar_solution_url":"https://www.lastpass.com/",
+			"similar_solution_url":"https://www.lastpass.com/",
 			"category": "Identity"
 		}, {
 			"title": "1Password",
-      			"similiar_solution_url":"https://1password.com/",
+      			"similar_solution_url":"https://1password.com/",
 			"category": "Identity"
 		}, {
 			"title": "EnPass",
-     		 	"similiar_solution_url":"https://www.enpass.io/",
+     		 	"similar_solution_url":"https://www.enpass.io/",
 			"category": "Identity"
 		}, {
 			"title": "Dashlane",
-      			"similiar_solution_url":"https://www.dashlane.com/",
+      			"similar_solution_url":"https://www.dashlane.com/",
 			"category": "Identity"
 		}],
 		"licence_list": ["MIT"],
