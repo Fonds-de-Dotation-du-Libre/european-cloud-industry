@@ -4,8 +4,8 @@
 	"type": "Organisation",
 	"logo_url": "https://en.outscale.com/wp-content/themes/Outscale_theme/includes/images/outscale_logo_white.svg",
 	"location": {
-		"title": "Outscale",
-		"address": "1 RUE ROYALE 319 BUREAUX DE LA COLLINE",
+		"title": "Outscale SASU",
+		"address": "1 Rue Royale, 319 Bureaux de la Colline",
 		"postal_code": "92210",
 		"city": "Paris",
 		"country": "FR",
