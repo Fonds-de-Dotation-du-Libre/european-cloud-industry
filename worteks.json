@@ -1,10 +1,10 @@
 {
   "created": "2022-03-23",
-  "title": "Worteks SAS",
+  "title": "Worteks",
   "type": "Organisation",
   "logo_url": "https://www.worteks.com/assets/images/Fond-site-banniere_Worteks2.png",
   "location": {
-		"title": "Worteks",
+		"title": "Worteks SAS",
 		"address": "7 rue Diderot",
 		"postal_code": "92000",
 		"city": "Nanterre",
