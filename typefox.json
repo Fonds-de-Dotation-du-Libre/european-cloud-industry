@@ -199,27 +199,27 @@
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Atom",
-			"similiar_solution_url": "https://atom.io/",
+			"similar_solution_url": "https://atom.io/",
 			"category": "Developer environment"
 		}, {
 			"title": "Notepad ++",
-			"similiar_solution_url": "https://notepad-plus-plus.org/",
+			"similar_solution_url": "https://notepad-plus-plus.org/",
 			"category": "Developer environment"
 		}, {
 			"title": "SublimeText",
-			"similiar_solution_url": "https://www.sublimetext.com/",
+			"similar_solution_url": "https://www.sublimetext.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "VSCodium",
-			"similiar_solution_url": "https://vscodium.com/",
+			"similar_solution_url": "https://vscodium.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "Vim",
-			"similiar_solution_url": "https://www.vim.org/",
+			"similar_solution_url": "https://www.vim.org/",
 			"category": "Developer environment"
 		}, {
 			"title": "IntellijIdea",
-			"similiar_solution_url": "https://www.jetbrains.com/idea/",
+			"similar_solution_url": "https://www.jetbrains.com/idea/",
 			"category": "Developer environment"
 		}],
 		"licence_list": ["MIT", "Gitpost Self-Hosted", "AGPL"],
