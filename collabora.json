@@ -85,7 +85,7 @@
 			"similar_software_url": "https://www.wps.com/",
 			"category": "Application"
 		}],
-		"licence_list": ["MPL 2.0"],
+		"licence_list": ["MPL v2.0"],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
@@ -128,7 +128,7 @@
 			"similar_solution_url": "https://www.wps.com/",
 			"category": "Application"
 		}],
-		"licence_list": ["MPL 2.0"],
+		"licence_list": ["MPL v2.0"],
 		"source_code_download": "https://github.com/CollaboraOnline/online.git",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
