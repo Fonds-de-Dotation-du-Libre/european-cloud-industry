@@ -78,7 +78,7 @@
 		"description": "Framagenda is an online agenda based on Nextcloud; It allows you to create and share multiple calendars, schedule appointments and tasks and keep contacts easily accessible from anywhere.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [],
-		"licence_list": ["AGPL-3.0"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/nextcloud/calendar.git",
 		"source_code_profile": "https://www.openhub.net/p/framacontrib/analyses/latest/languages_summary",
 		"commercial_support_url": "https://soutenir.framasoft.org/fr/",
@@ -97,30 +97,30 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "LibreOffice - Writer",
-			"similiar_solution_url": "https://www.libreoffice.org/discover/writer/",
+			"similar_solution_url": "https://www.libreoffice.org/discover/writer/",
 			"category": "Workspace"
 		}, {
 			"title": "Nuclino",
-			"similiar_solution_url": "https://www.nuclino.com/",
+			"similar_solution_url": "https://www.nuclino.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Etherpad",
-			"similiar_solution_url": "https://etherpad.org/",
+			"similar_solution_url": "https://etherpad.org/",
 			"category": "Workspace"
 		}, {
 			"title": "Twake",
-			"similiar_solution_url": "https://twake.app/https://twake.app/",
+			"similar_solution_url": "https://twake.app/https://twake.app/",
 			"category": "Workspace"
 		}, {
 			"title": "HackMD",
-			"similiar_solution_url": "https://hackmd.io/",
+			"similar_solution_url": "https://hackmd.io/",
 			"category": "Workspace"
 		}, {
 			"title": "WPS Office",
-			"similiar_solution_url": "https://www.wps.com/",
+			"similar_solution_url": "https://www.wps.com/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["Apache 2.0"],
+		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://github.com/framasoft/framapad.git",
 		"source_code_profile": "https://www.openhub.net/p/etherpad_lite/analyses/latest/languages_summary",
 		"commercial_support_url": "",
@@ -139,31 +139,31 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Doodle",
-			"similiar_solution_url": "https://doodle.com/",
+			"similar_solution_url": "https://doodle.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Rally",
-			"similiar_solution_url": "https://rallly.co/",
+			"similar_solution_url": "https://rallly.co/",
 			"category": "Workspace"
 		}, {
 			"title": "FullCalendar",
-			"similiar_solution_url": "https://fullcalendar.io/",
+			"similar_solution_url": "https://fullcalendar.io/",
 			"category": "Workspace"
 		}, {
 			"title": "Timegrid",
-			"similiar_solution_url": "https://github.com/timegridio/timegrid",
+			"similar_solution_url": "https://github.com/timegridio/timegrid",
 			"category": "Workspace"
 		}, {
 			"title": "jawanndenn",
-			"similiar_solution_url": "https://jawanndenn.de/",
+			"similar_solution_url": "https://jawanndenn.de/",
 			"category": "Workspace"
 		}, {
 			"title": "Dudle",
-			"similiar_solution_url": "https://dudle.inf.tu-dresden.de/",
+			"similar_solution_url": "https://dudle.inf.tu-dresden.de/",
 			"category": "Workspace"
 		}, {
 			"title": "Xoyondo",
-			"similiar_solution_url": "https://xoyondo.com/",
+			"similar_solution_url": "https://xoyondo.com/",
 			"category": "Workspace"
 		}],
 		"licence_list": [],
@@ -184,7 +184,7 @@
 		"description": "",
 		"category_list": [],
 		"similar_solution_list": [],
-		"licence_list": ["AGPLv3.0"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/framasoft/framindmap.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -203,42 +203,42 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Youtube",
-			"similiar_solution_url": "https://www.youtube.com/",
+			"similar_solution_url": "https://www.youtube.com/",
 			"category": "Application"
 		}, {
 			"title": "WebTorrent",
-			"similiar_solution_url": "https://webtorrent.io/",
+			"similar_solution_url": "https://webtorrent.io/",
 			"category": "Application"
 		}, {
 			"title": "Vimeo",
-			"similiar_solution_url": "https://vimeo.com/",
+			"similar_solution_url": "https://vimeo.com/",
 			"category": "Application"
 		}, {
 			"title": "Dailymotion",
-			"similiar_solution_url": "https://www.dailymotion.com/",
+			"similar_solution_url": "https://www.dailymotion.com/",
 			"category": "Application"
 		}, {
 			"title": "LBRY",
-			"similiar_solution_url": "https://lbry.com/",
+			"similar_solution_url": "https://lbry.com/",
 			"category": "Application"
 		}, {
 			"title": "Odysee",
-			"similiar_solution_url": "https://odysee.com/",
+			"similar_solution_url": "https://odysee.com/",
 			"category": "Application"
 		}, {
 			"title": "Twitch",
-			"similiar_solution_url": "https://www.twitch.tv/",
+			"similar_solution_url": "https://www.twitch.tv/",
 			"category": "Application"
 		}, {
 			"title": "DTube",
-			"similiar_solution_url": "https://d.tube/",
+			"similar_solution_url": "https://d.tube/",
 			"category": "Application"
 		}, {
 			"title": "VidLii",
-			"similiar_solution_url": "https://www.vidlii.com/",
+			"similar_solution_url": "https://www.vidlii.com/",
 			"category": "Application"
 		}],
-		"licence_list": ["AGPLv3.0"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/Chocobozzz/PeerTube.git",
 		"source_code_profile": "https://www.openhub.net/p/PeerTube/analyses/latest/languages_summary",
 		"commercial_support_url": "https://framasoft.org/fr/#soutenir",
