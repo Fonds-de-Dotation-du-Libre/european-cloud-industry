@@ -61,11 +61,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Odoo",
-			"similiar_solution_url": "https://www.odoo.com/fr_FR",
+			"similar_solution_url": "https://www.odoo.com/fr_FR",
 			"category": "Application"
 			}, {
 			"title": "Dolibarr",
-			"similiar_solution_url": "https://www.dolibarr.org/",
+			"similar_solution_url": "https://www.dolibarr.org/",
 			"category": "Application"
 			},{
       			"title": "Metasfresh",
@@ -176,23 +176,23 @@
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Nixos",
-			"similiar_solution_url": "https://nixos.org/",
+			"similar_solution_url": "https://nixos.org/",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Virtuozzo/OnApp",
-			"similiar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+			"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
 			"category": "Service lifecycle automation"
     		}, {
 			"title": "Google Anthos",
-			"similiar_solution_url": "https://cloud.google.com/anthos",
+			"similar_solution_url": "https://cloud.google.com/anthos",
 			"category": "Service lifecycle automation"
     		}, {
 			"title": "Kubernetes",
-			"similiar_solution_url": "https://kubernetes.io/",
+			"similar_solution_url": "https://kubernetes.io/",
 			"category": "Service lifecycle automation"
     		}, {
 			"title": "OpenSVC",
-			"similiar_solution_url": "https://www.opensvc.com/",
+			"similar_solution_url": "https://www.opensvc.com/",
 			"category": "Service lifecycle automation"
     		}],
 		"licence_list": ["GNU GPL v3"],
@@ -223,7 +223,7 @@
 		"category_list": ["Big Data Hub"],
 		"similar_solution_list": [{
 			"title": "Hadoop",
-			"similiar_solution_url": "https://hadoop.apache.org/",
+			"similar_solution_url": "https://hadoop.apache.org/",
 			"category": "Big Data Hub"
   		 }],
 		"licence_list": ["GNU GPL v3"],
