@@ -26,14 +26,14 @@
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "SANsymphony",
-			"similiar_solution_url": "https://www.datacore.com/products/sansymphony/",
+			"similar_solution_url": "https://www.datacore.com/products/sansymphony/",
 			"category": "Developer environment"
 			},{
       			"title": "Storage for Solution Providers",
-			"similiar_solution_url": "https://storpool.com/storage-for-solution-providers/",
+			"similar_solution_url": "https://storpool.com/storage-for-solution-providers/",
 			"category": "Developer environment"
     			}],
-		"licence_list": ["General Public License v3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/#linstor",
 		"source_code_profile": "",
 		"commercial_support_url": "",
