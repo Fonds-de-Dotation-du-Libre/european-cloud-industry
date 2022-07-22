@@ -61,7 +61,7 @@
       "similar_solution_url": "https://azure.microsoft.com/en-us/services/time-series-insights/#product-overview",
       "category": "Storage and database"
     }],
-    "licence_list": ["Apache-2.0 License"],
+    "licence_list": ["Apache v2.0"],
     "source_code_download": "https://github.com/senx/warp10-platform",
     "source_code_profile": "https://www.openhub.net/p/warp10-platform/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.warp10.io/content/30_Commercial_support",
