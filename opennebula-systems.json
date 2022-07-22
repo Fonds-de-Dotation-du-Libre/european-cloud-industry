@@ -76,10 +76,95 @@
 		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenNebula",
 		"reference_list": [{
-			"title": "",
-			"logo_url": "",
-			"country": "",
-			"industry": ""
+			"title": "Blackberry",
+			"logo_url": "https://www.blackberry.com/",
+			"country": "CA",
+			"industry": "Telecommunication"
+		}, {
+			"title": "Telefonica",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Telef%C3%B3nica_Telecom_logo.svg/1200px-Telef%C3%B3nica_Telecom_logo.svg.png",
+			"country": "ES",
+			"industry": "Telecommunication"
+		}, {
+			"title": "Alcatel-Lucent",
+			"logo_url": "FR",
+			"country": "https://logos-download.com/wp-content/uploads/2016/08/Alcatel-Lucent_logo.png",
+			"industry": "Telecommunication"
+		}, {
+			"title": "Telekom",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2021/12/Deutsche-Telekom-Logo.png",
+			"country": "DE",
+			"industry": "Telecommunication"
+		}, {
+			"title": "Hewlett Packard",
+			"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hewlett_Packard_Enterprise_logo.svg/490px-Hewlett_Packard_Enterprise_logo.svg.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Hitachi",
+			"logo_url": "https://logos-download.com/wp-content/uploads/2016/04/Hitachi_logo_logotype_black.png",
+			"country": "JP",
+			"industry": "Information Technology"
+		}, {
+			"title": "Siemens",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2020/07/siemens.jpg",
+			"country": "DE",
+			"industry": "Information Technology"
+		}, {
+			"title": "Cisco",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2022/06/Cisco-OpenNebula-User.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Boeing",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2022/06/Boeing-Logo-OpenNebula-User.png",
+			"country": "US",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "Ministère d'Éducation Nationale",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2020/07/MinistereEducationNationale.jpg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Wells Fargo",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2021/12/Wells-Fargo-Logo.png",
+			"country": "US",
+			"industry": "Banking and Finance"
+		}, {
+			"title": "BBC",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2019/05/bbc1.png",
+			"country": "UK",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "Sky",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2022/06/Sky-UK-OpenNebula-Users.png",
+			"country": "UK",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "Booking.com",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2019/05/Booking_logo.png",
+			"country": "NL",
+			"industry": "Travel and Tourism"
+		}, {
+			"title": "Fermilab",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2019/05/fermilab.png",
+			"country": "US",
+			"industry": "Academia and Research"
+		}, {
+			"title": "Easa",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2019/05/esac.png",
+			"country": "ES",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "NASA",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2019/05/nasa.png",
+			"country": "US",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "Institut Mines Telecom",
+			"logo_url": "https://opennebula.io/wp-content/uploads/2019/05/telecom-sudparis.png",
+			"country": "US",
+			"industry": "Academia and Research"
 		}],
 		"success_case_list": [{
 			"title": "Open Source to Spur Agile Digital Governments",
