@@ -4,9 +4,9 @@
 	"type": "Organisation",
 	"logo_url": "https://www.olvid.io/assets/img/olvid-logo.png",
 	"location": {
-		"title": "Olvid - WAI BNP Paris",
-		"address": "19 Boulevard Poissonnière",
-		"postal_code": "75002",
+		"title": "Olvid SAS",
+		"address": "9 rue Charlot",
+		"postal_code": "75003",
 		"city": "Paris",
 		"country": "FR",
 		"phone_contact": "+33677582341",
