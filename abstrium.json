@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-07",
-	"title": "Pydio",
+	"title": "Abstrium",
 	"type": "Organisation",
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"location": {
-		"title": "Pydio Cells",
+		"title": "Abstrium SAS",
 		"address": "160 bis rue du Temple",
 		"postal_code": "75003",
 		"city": "Paris",
