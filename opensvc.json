@@ -58,16 +58,32 @@
 		"website_url": "https://www.opensvc.com/",
 		"created_year": 2019,
 		"description": "OpenSVC is a Open Source software product and the name of the commercial entity developping and supporting it.",
-		"category_list": ["Application"],
+		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
-			"title": "rudder",
-			"similar_solution_url": "https://www.rudder.io/",
-			"category": "Application"
+			"title": "OpenNebula",
+			"similar_solution_url": "https://opennebula.io/",
+			"category": "Service lifecycle automation"
 		}, {
-			"title": "ZEVENET",
-			"similar_solution_url": "https://www.zevenet.com/about-us/",
-			"category": "Application"
-		}],
+			"title": "Nixos",
+			"similiar_solution_url": "https://nixos.org/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Virtuozzo/OnApp",
+			"similiar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Google Anthos",
+			"similiar_solution_url": "https://cloud.google.com/anthos",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Kubernetes",
+			"similiar_solution_url": "https://kubernetes.io/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "SlapOS",
+			"similiar_solution_url": "https://slapos.nexedi.com/,
+			"category": "Service lifecycle automation"
+    		}],
 		"licence_list": ["GNU General Public License v2"],
 		"source_code_download": "https://github.com/opensvc/docs.opensvc.com.git",
 		"source_code_profile": "",
