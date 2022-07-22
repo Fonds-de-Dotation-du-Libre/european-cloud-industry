@@ -78,7 +78,7 @@
 			"description": "CODESYS is the leading manufacturer-independent IEC 61131-3 development system. Programmable Logic Controllers (PLCs), ECUs/mobile controllers, visualization devices, motion controllers and additional automation devices in various industries are programmed with this automation software.",			
 			"category_list": ["Developer environment"],
 			"similar_solution_list": [],
-			"licence_list": ["Single Device License"],
+			"licence_list": ["Single Device"],
 			"source_code_download": "https://github.com/topics/codesys",
 			"source_code_profile": "",
 			"commercial_support_url": "https://www.codesys.com/support-training/codesys-support.html",
