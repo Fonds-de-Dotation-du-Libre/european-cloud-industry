@@ -414,7 +414,7 @@
       "similar_solution_url": "https://jumpcloud.com/",
       "category": "Identity"
     }],
-    "licence_list": ["GNU General Public License"],
+    "licence_list": ["AGPL v.3.0"],
     "source_code_download": "https://github.com/LemonLDAPNG/lemonldap-ng",
     "source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
     "commercial_support_url": "https://lemonldap-ng.org/contact.html",
