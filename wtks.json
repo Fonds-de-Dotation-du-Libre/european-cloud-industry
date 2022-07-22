@@ -66,7 +66,7 @@
       "similar_solution_url": "https://www.10duke.com/products/identity-provider/",
       "category": "Identity"
     }],
-    "licence_list": [ "GPL-3.0"],
+    "licence_list": [ "GPL v3.0"],
     "source_code_download": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng.git",
     "source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.lemonldap-ng.org/professionalservices.html",
@@ -100,7 +100,7 @@
       "similar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
       "category": "Identity"
     }],
-    "licence_list": ["GPL-3.0"],
+    "licence_list": ["GPL v3.0"],
     "source_code_download": "https://github.com/ltb-project/self-service-password.git",
     "source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
     "commercial_support_url": "",
@@ -166,7 +166,7 @@
     "description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
     "category_list": ["Identity"],
     "similar_solution_list": [],
-    "licence_list": ["GPL-3.0"],
+    "licence_list": ["GPL v3.0"],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
