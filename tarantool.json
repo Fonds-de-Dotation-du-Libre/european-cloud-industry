@@ -25,7 +25,7 @@
 			"description": "Tarantool keeps all the data in random-access memory (RAM). Solutions of this class are fast, but they often lack data persistence. Tarantool helps overcome these problems. Try Tarantool to see how fast, flexible, and scalable it is.",
 			"category_list": ["Storage and database"],
 			"similar_solution_list": [],
-			"licence_list": ["BSD 2-clause Simplified License"],
+			"licence_list": ["BSD 2-clause simplified"],
 			"source_code_download": "https://github.com/tarantool/tarantool.git",
 			"source_code_profile": "https://www.openhub.net/p/tarantool/analyses/latest/languages_summary",
 			"commercial_support_url": "https://www.tarantool.io/en/request_support/",
