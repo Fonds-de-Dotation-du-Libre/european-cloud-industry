@@ -72,7 +72,7 @@
       			"similar_solution_url": "https://metasfresh.com/en/",
       			"category": "Application"
    			}],
-		"licence_list": ["General Public License v3.0 with Free Software exception"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/erp5.git",
 		"source_code_profile": "https://www.openhub.net/p/erp5/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.nexedi.com/service/nexedi-service-erp5/contact",
@@ -195,7 +195,7 @@
 			"similar_solution_url": "https://www.opensvc.com/",
 			"category": "Service lifecycle automation"
     		}],
-		"licence_list": ["GNU GPL v3"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
 		"source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
 		"commercial_support_url": "",
@@ -226,7 +226,7 @@
 			"similar_solution_url": "https://hadoop.apache.org/",
 			"category": "Big Data Hub"
   		 }],
-		"licence_list": ["GNU GPL v3"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin.git",
 		"source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
 		"commercial_support_url": "",
