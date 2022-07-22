@@ -29,7 +29,7 @@
       "similar_solution_url": "https://www.onetrust.com/",
       "category": "Cybersecurity"
     }],
-    "licence_list": ["GPL"],
+    "licence_list": ["GPL v3.0"],
     "source_code_download": "https://github.com/signal18/replication-manager",
     "source_code_profile": "https://www.openhub.net/p/replication-manager/analyses/latest/languages_summary",
     "commercial_support_url": "https://signal18.io/contact-us",
