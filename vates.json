@@ -51,7 +51,7 @@
       "similar_solution_url": "https://slapos.nexedi.com/",
       "category": "Compute virtualisation"
     }],
-    "licence_list": ["GPL v2"],
+    "licence_list": ["GPL v2.0"],
     "source_code_download": "https://github.com/xcp-ng/xcp",
     "source_code_profile": "",
     "commercial_support_url": "https://xcp-ng.com/service.html",
@@ -72,8 +72,8 @@
       "title": "Vagrant",
       "similar_solution_url": "https://www.vagrantup.com/",
       "category": "Service lifecycle automation"
-    }],
-    "licence_list": ["GPL v3+"],
+    }]
+    "licence_list": ["GPL v3.0"],
     "source_code_download": "https://github.com/vatesfr/xen-orchestra/",
     "source_code_profile": "https://www.openhub.net/p/xen-orchestra/analyses/latest/languages_summary",
     "commercial_support_url": "https://xen-orchestra.com/#!/xo-features/support",
