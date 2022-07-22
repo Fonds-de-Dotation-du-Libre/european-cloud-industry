@@ -26,30 +26,30 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Open Project",
-			"similiar_solution_url": "https://www.openproject.org/",
+			"similar_solution_url": "https://www.openproject.org/",
 			"category": "Application"
 		}, {
 			"title": "Asana",
-			"similiar_solution_url": "https://asana.com/",
+			"similar_solution_url": "https://asana.com/",
 			"category": "Application"
 		}, {
 			"title": "Quire",
-			"similiar_solution_url": "https://quire.io/",
+			"similar_solution_url": "https://quire.io/",
 			"category":"Application"
 		}, {
 			"title": "Wekan",
-			"similiar_solution_url": "https://wekan.github.io/",
+			"similar_solution_url": "https://wekan.github.io/",
 			"category": "Application"
 		}, {
 			"title": "Kanboard",
-			"similiar_solution_url": "https://kanboard.org/",
+			"similar_solution_url": "https://kanboard.org/",
 			"category": "Application"
 		}, {
 			"title": "Redmine",
-			"similiar_solution_url": "https://www.redmine.org/",
+			"similar_solution_url": "https://www.redmine.org/",
 			"category": "Application"
 		}],
-		"licence_list": ["MPL 2.0"],
+		"licence_list": ["MPL v2.0"],
 		"source_code_download": "https://github.com/kaleidos-ventures/taiga-back.git",
 		"source_code_profile": "https://www.openhub.net/p/taigaio/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.kaleido.io/pricing",
@@ -78,18 +78,18 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Diagrams.net",
-			"similiar_solution_url": "https://www.diagrams.net/",
+			"similar_solution_url": "https://www.diagrams.net/",
 			"category": "Application"
 		}, {
 			"title": "Pencil Project",
-			"similiar_solution_url": "https://pencil.evolus.vn/",
+			"similar_solution_url": "https://pencil.evolus.vn/",
 			"category": "Application"
 		}, {
 			"title": "Figma",
-			"similiar_solution_url": "https://www.figma.com/",
+			"similar_solution_url": "https://www.figma.com/",
 			"category": "Application"
 		}],
-		"licence_list": ["MPL 2.0"],
+		"licence_list": ["MPL v2.0"],
 		"source_code_download": "https://github.com/penpot/penpot.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",
