@@ -26,19 +26,19 @@
 		"category_list": ["Developer API"],
 		"similar_solution_list": [{
 			"title": "NetSuite",
-			"similiar_solution_url": "https://www.netsuite.com/portal/home.shtml",
+			"similar_solution_url": "https://www.netsuite.com/portal/home.shtml",
 			"category": "Developer API"
 		}, {
 			"title": "Sage Intaact",
-			"similiar_solution_url": "https://www.sageintacct.com/",
+			"similar_solution_url": "https://www.sageintacct.com/",
 			"category": "Developer API"
 		}, {
 			"title": "Acumatica",
-			"similiar_solution_url": "https://www.acumatica.com/",
+			"similar_solution_url": "https://www.acumatica.com/",
 			"category": "Developer API"
 		}, {
 			"title": "Deltek Vantagepoint",
-			"similiar_solution_url": "https://www.deltek.com/en-gb/products/vantagepoint",
+			"similar_solution_url": "https://www.deltek.com/en-gb/products/vantagepoint",
 			"category": "Developer API"
 		}],
 		"licence_list": ["GPL v3.0"],
