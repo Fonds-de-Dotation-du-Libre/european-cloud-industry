@@ -60,7 +60,7 @@
 		"description": "Yate (Yet Another Telephony Engine) is free and open source communications software with support for video, voice and instant messaging. It is an extensible PBX under the GPL-2.0-only license. It is written in C++ with a modular design, allowing the use of scripting languages like Perl, Python and PHP to create external functionality.",
 		"category_list": ["vRan"],
 		"similar_solution_list": [],
-		"licence_list": ["GPL-2.0-only"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "http://docs.yate.ro/wiki/Download",
 		"source_code_profile": "https://www.openhub.net/p/yate/analyses/latest/languages_summary",
 		"commercial_support_url": "",
@@ -79,10 +79,10 @@
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
 		      "title": "OpenBTS",
-		      "similiar_solution_url": "https://openbts.org/",
+		      "similar_solution_url": "https://openbts.org/",
 		      "category": "vRan"
 		}],
-		"licence_list": ["GPL v2"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://yatebts.com/open_source/#svn",
 		"source_code_profile": "https://www.openhub.net/p/yatebts/analyses/latest/languages_summary",
 		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
@@ -116,7 +116,7 @@
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
       			"title": "SlapOS: Converged Edge/SDR NMS - Nexedi",
-      			"similiar_solution_url": "https://slapos.nexedi.com/NXD-Document.Press.Release.SlapOS.NMS.Multistack.Showcase.MWC.2019",
+      			"similar_solution_url": "https://slapos.nexedi.com/NXD-Document.Press.Release.SlapOS.NMS.Multistack.Showcase.MWC.2019",
      			"category": "vRan"
     		}],
 		"licence_list": ["GPL"],
