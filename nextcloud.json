@@ -26,18 +26,18 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Cryptpad",
-			"similiar_solution_url": "https://cryptpad.fr/",
+			"similar_solution_url": "https://cryptpad.fr/",
 			"category": "Workspace"
 			}, {
 			"title": "Google workspace",
-			"similiar_solution_url": "https://workspace.google.com/",
+			"similar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
 			}, {
 			"title": "Microsoft 365",
 			"similar_solution_url": "https://www.microsoft.com/en/microsoft-365",
 			"category": "Workspace"
 		}],
-		"licence_list": ["General Public License v3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/nextcloud",
 		"source_code_profile": "https://www.openhub.net/p/nextcloud/analyses/latest/languages_summary'",
 		"commercial_support_url": "https://nextcloud.com/support/",
@@ -168,18 +168,18 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "LibreOffice",
-			"similiar_solution_url": "https://www.libreoffice.org/",
+			"similar_solution_url": "https://www.libreoffice.org/",
 			"category": "Workspace"
 			}, {
 			"title": "Google Docs",
-			"similiar_solution_url": "https://workspace.google.com/products/docs/",
+			"similar_solution_url": "https://workspace.google.com/products/docs/",
 			"category": "Workspace"
 			}, {
 			"title": "Open Office",
 			"similar_solution_url": "https://www.openoffice.org/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["MPL-2.0"],
+		"licence_list": ["MPL v2.0"],
 		"source_code_download": "https://github.com/CollaboraOnline/online",
 		"source_code_profile": "",
 		"commercial_support_url": "https://nextcloud.com/enterprise/quote/",
@@ -226,18 +226,18 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
      			"title": "LibreOffice",
-			"similiar_solution_url": "https://www.libreoffice.org/",
+			"similar_solution_url": "https://www.libreoffice.org/",
 			"category": "Workspace"
 			}, {
 			"title": "Google Docs",
-			"similiar_solution_url": "https://workspace.google.com/products/docs/",
+			"similar_solution_url": "https://workspace.google.com/products/docs/",
 			"category": "Workspace"
 			}, {
 			"title": "Open Office",
 			"similar_solution_url": "https://www.openoffice.org/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["GNU AGPL v.3"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/ONLYOFFICE/DocumentBuilder",
 		"source_code_profile": "https://www.openhub.net/p/ONLYOFFICE/analyses/latest/languages_summary'",
 		"commercial_support_url": "",
