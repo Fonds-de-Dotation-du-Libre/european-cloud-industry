@@ -54,7 +54,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Hostwinds",
-			"similiar_solution_url": "https://www.hostwinds.com/",
+			"similar_solution_url": "https://www.hostwinds.com/",
 			"category": "Application"
 		}],
 		"licence_list": [],
@@ -138,7 +138,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "DigitalOcean",
-			"similiar_solution_url": "https://www.digitalocean.com/",
+			"similar_solution_url": "https://www.digitalocean.com/",
 			"category": "Application"
 		}],
 		"licence_list": [],
