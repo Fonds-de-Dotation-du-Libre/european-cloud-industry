@@ -41,7 +41,7 @@
 			"similar_solution_url": "http://xorp.com/",
 			"category": "Networking"
 		}],
-		"licence_list": ["GNU General Public License"],
+		"licence_list": ["GPL"],
 		"source_code_download": "https://github.com/CZ-NIC/bird",
 		"source_code_profile": "",
 		"commercial_support_url": "https://bird.network.cz/?support",
