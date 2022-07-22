@@ -4,7 +4,7 @@
 	"type": "Organisation",
 	"logo_url": "https://opennebula.io/wp-content/uploads/2020/04/opennebula_cloud_logo_white_bg.svg",
 	"location": {
-   "title": "OpenNebula Systems SL",
+		"title": "OpenNebula Systems SL",
 		"address": "Paseo del Club Deportivo 1 – Edificio 13 / Parque Empresarial La Finca",
 		"postal_code": "28223 Pozuelo de Alarcón",
 		"city": "Madrid",
@@ -46,27 +46,27 @@
 			"title": "Nixos",
 			"similar_solution_url": "https://nixos.org/",
 			"category": "Service lifecycle automation"
-    }, {
+		}, {
 			"title": "Virtuozzo/OnApp",
 			"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
 			"category": "Service lifecycle automation"
-    }, {
+		}, {
 			"title": "Google Anthos",
 			"similar_solution_url": "https://cloud.google.com/anthos",
 			"category": "Service lifecycle automation"
-    }, {
+		}, {
 			"title": "Kubernetes",
 			"similar_solution_url": "https://kubernetes.io/",
 			"category": "Service lifecycle automation"
-    }, {
+		}, {
 			"title": "OpenSVC",
 			"similar_solution_url": "https://www.opensvc.com/",
 			"category": "Service lifecycle automation"
-    }, {
-      "title": "VMWare",
-      "similar_solution_url": "https://www.vmware.com/",
-      "category": "Service lifecycle automation"
-    }],
+		}, {
+			"title": "VMWare",
+			"similar_solution_url": "https://www.vmware.com/",
+			"category": "Service lifecycle automation"
+		}],
 		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://opennebula.io/use/#download_opennebula",
 		"source_code_profile": "https://www.openhub.net/p/opennebula/analyses/latest/languages_summary",
@@ -80,7 +80,7 @@
 			"logo_url": "",
 			"country": "",
 			"industry": ""
-		},
+		}],
 		"success_case_list": [{
 			"title": "Open Source to Spur Agile Digital Governments",
 			"description": "The Flemish Department of Environment and Spatial Planning (dOMG) has been using OpenNebula for the last five years, with almost 800 deployments every week, four clusters (six compute hosts each), four storage clusters (Ceph +/-400 TB each) and 2000 VM’s and counting (of which 500 are Postgres DBs).",
@@ -90,7 +90,7 @@
 			"country": "BE",
 			"language": "en",
 			"success_case_url": "https://opennebula.io/case-studies/domg-case-study/"
-    },{
+		}, {
 			"title": "Keeping Things Moving with OpenNebula",
 			"description": "The Dustin Group, an organization whose rapid growth through the past few decades can largely be attributed to several business acquisitions, has a focus and an underlying need for standardization. Managing an environment with a large spread of acquired technologies is costly to operate, both from an economic and a complexity perspective. Yet, not only for its internal organization, but also to adapt to customer needs with great customer experience, their services and solutions are based on standardized, configurable modules.",
 			"image_url": "https://opennebula.io/wp-content/uploads/2021/01/dustin-case-study.png",
@@ -99,7 +99,7 @@
 			"country": "SE",
 			"language": "en",
 			"success_case_url": "https://opennebula.io/case-studies/dustin-case-study/"
-    },{
+		}, {
 			"title": "Developing a Custom Private and Public Cloud",
 			"description": "At Perspecta, they wanted to develop a custom private and/or public cloud. They were starting from scratch, giving them the opportunity to evaluate many solutions. “In the past they had experience with other solutions but needed something new that was flexible and provided us the ability to customize the software at the code level while also avoiding restrictive licensing agreements,” said Kenneth Van Alstyne, Systems Architect at Perspecta. ",
 			"image_url": "https://opennebula.io/wp-content/uploads/2021/01/perspecta-case-study.png",
@@ -108,7 +108,7 @@
 			"country": "US",
 			"language": "en",
 			"success_case_url": "https://opennebula.io/case-studies/perspecta-case-study/"
-    },{
+		}, {
 			"title": "OpenNebula for C/I – Running over 4 million VMs per year",
 			"description": "The Qt Company develops and delivers the Qt development framework under commercial and open source licenses. They enable the reuse of software code across all operating systems, platforms and screen types, from desktops and embedded systems to wearables and mobile devices. Qt is used by more than one million developers worldwide and is the leading independent technology behind millions of devices and applications. ",
 			"image_url": "https://opennebula.io/wp-content/uploads/2021/01/qt-company-case-study.png",
@@ -117,6 +117,6 @@
 			"country": "FI",
 			"language": "en",
 			"success_case_url": "https://opennebula.io/case-studies/qt-case-study/"
-    },]
+		}]
 	}]
 }
