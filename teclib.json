@@ -47,7 +47,7 @@
 			"similar_solution_url": "https://www.atlassian.com/software/jira/service-management",
 			"category": "Networking"
 		}],
-		"licence_list": ["Free software GPL v2"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/glpi-project/glpi.git",
 		"source_code_profile": "https://www.openhub.net/p/glpi-project/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
@@ -117,7 +117,7 @@
 			"similar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
 			"category": "Application"
 		}],
-		"licence_list": ["Affero GPL v2"],
+		"licence_list": ["AGPL v2.0"],
 		"source_code_download": "https://github.com/kimios/kimios.git",
 		"source_code_profile": "https://www.openhub.net/p/kimios/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
