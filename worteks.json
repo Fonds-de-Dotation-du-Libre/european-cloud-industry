@@ -1,9 +1,9 @@
 {
-  "created": "2022-03-23",
-  "title": "Worteks",
-  "type": "Organisation",
-  "logo_url": "https://www.worteks.com/assets/images/Fond-site-banniere_Worteks2.png",
-  "location": {
+	"created": "2022-03-23",
+	"title": "Worteks",
+	"type": "Organisation",
+	"logo_url": "https://www.worteks.com/assets/images/Fond-site-banniere_Worteks2.png",
+	"location": {
 		"title": "Worteks SAS",
 		"address": "7 rue Diderot",
 		"postal_code": "92000",
@@ -13,646 +13,703 @@
 		"mail_contact": "info@worteks.com",
 		"coordinate_list": [48.887029190768544, 2.2098383478066896]
 	},
-"subsidiary_country_list": [],
-  "website_url": "https://www.worteks.com/",
-  "founded_year": 2016,
-  "kpi_list": [{
-    "year": 2020,
-    "staff": 9,
-    "earnings": "703 270 EUR",
-    "total_assets": "1 939 929 EUR",
-    "revenues": "1 870 645 EUR",
-    "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
-  },{
-    "year": 2019,
-    "staff": 9,
-    "earnings": "415 850 EUR",
-    "total_assets": "591 225 EUR",
-    "revenues": "1 531 379 EUR",
-    "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
-  },{
-    "year": 2018,
-    "staff": 8,
-    "earnings": "363 411 EUR",
-    "total_assets": "375 374 EUR",
-    "revenues": "1 159 508 EUR",
-    "source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
-  }],
-  "solution_list": [{
-    "title": "W'Sweet",
-    "logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
-    "website_url": "https://www.wsweet.org/",
-    "created_year": "",
-    "description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
-    "category_list": ["Workspace"],
-    "similar_solution_list": [{	
-	"title": "Trello",
-	"similar_solution_url": "https://trello.com/",
-	"category": "Workspace"
-    },{	
-	"title": "Slack",
-	"similar_solution_url": "https://slack.com/",
-	"category": "Workspace"
-    },{	
-	"title": "Asana",
-	"similar_solution_url": "https://asana.com/",
-	"category": "Workspace"
-    }, {	
-	"title": "Teamwork",
-	"similar_solution_url": "https://www.teamwork.com/",
-	"category": "Workspace"
-    }],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": false,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "ACMS",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/acms.svg",
-      "country": "FR",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "CDC Habitat",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/adoma-cdc2.jpg",
-      "country": "FR",
-      "industry": "Housing and Real Estate"
-    },{
-      "title": "Agirc-Arrco",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/agirc-arrco.svg",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Airbus",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/airbus.svg",
-      "country": "FR",
-      "industry": "Aviation and Aerospace"
-    },{
-     "title": "Alstom",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/alstom.svg",
-      "country": "FR",
-      "industry": "Transport"
-    },{
-      "title": "Altice",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/altice.png",
-      "country": "FR",
-      "industry": "Telecommunication"
-    },{
-      "title": "Amadeus",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/amadeus.svg",
-      "country": "ES",
-      "industry": "Travel and Tourism"
-    },{
-      "title": "ANFR",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/anfr.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Agence du Numérique en Sante",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/ans.png",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Assistance Publique des Hôpitaux de Paris",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/aphp.svg",
-      "country": "FR",
-      "industry": "Health and Life Sciences"
-    },{
-      "title": "Arval",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/arval.jpg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "Atos",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/atos.svg",
-      "country": "FR",
-      "industry": "Information Technology"
-    },{
-      "title": "Auchan",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/auchan.svg",
-      "country": "FR",
-      "industry": "Commerce and Retail"
-    },{
-      "title": "Aviva",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/aviva.svg",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Axa",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/axa.svg",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Banque de France",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/banqueFrance.png",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "BIS",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bis.svg",
-      "country": "CH",
-      "industry": "Banking and Finance"
-    },{
-      "title": "BNP Paribas",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bnp-paribas.svg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "BNP Paribas Learning Solutions",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bnp.svg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "Groupe BPCE",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bpce_groupe.svg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "BPI France",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bpifrance.svg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "BRED-Banque Populaire",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bred.svg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "Bruxelles Formation",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/bruxelleFormation.png",
-      "country": "BE",
-      "industry": "Education"
-    },{
-      "title": "Campus Condorcet",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/campus-condorcet.svg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Cap Gemini",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/chronopost.svg",
-      "country": "FR",
-      "industry": "Consulting and Training"
-    },{
-      "title": "Chronopost",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/chronopost.svg",
-      "country": "FR",
-      "industry": "Transport"
-    },{
-      "title": "Clermont Auvergne Métropole",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/clermont_auvergne_metropole.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Allocations Familiales",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/cnaf.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Ameli",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/cnam.svg",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "CNES",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/cnes.svg",
-      "country": "FR",
-      "industry": "Aviation and Aerospace"
-    },{
-      "title": "CSTB",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/cstb.svg",
-      "country": "FR",
-      "industry": "Construction"
-    },{
-      "title": "Cité Internationale Universitaire de Paris",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/cuif.png",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Finances Publiques",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/dgfp.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Douanes & Droits Indirects",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/douane.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "EDF",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/edf.svg",
-      "country": "FR",
-      "industry": "Energy and Utilities"
-    },{
-      "title": "Enedis",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/enedis.svg",
-      "country": "FR",
-      "industry": "Energy and Utilities"
-    },{
-      "title": "Europcar",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/europcar.svg",
-      "country": "FR",
-      "industry": "Transport"
-    },{
-      "title": "Fédération des Entreprises Romandes (Genève)",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/fer-geneve.png",
-      "country": "CH",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "Institut Pasteur",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/institut-pasteur.svg",
-      "country": "FR",
-      "industry": "Health and Life Sciences"
-    },{
-      "title": "MACIF",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/macif.svg",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Ville de Marseille",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/marseille.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Ministère de l'Économie des Finances et de la Rélance",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Minist%C3%A8re_de_l'%C3%89conomie,_des_Finances_et_de_la_Relance.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Ministère des Armées",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Minist%C3%A8re_des_Arm%C3%A9es.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Ministère de l'Intérieur",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/ministere_interieur.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Ministère de l'Agriculture et de l'Alimentation",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/ministere-agri-alimentation.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Ministère de l'Éducation nationale de la jeunesse et des sports",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Minist%C3%A8re-%C3%89ducation-Nationale-Jeunesse-Sports.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Montpellier Métropole",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Montpellier_M%C3%A9diterran%C3%A9e_M%C3%A9tropole.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Nantes Métropole",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Nantes_M%C3%A9tropole.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Nevers",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Nevers_Agglom%C3%A9ration.jpg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Orange",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Orange.svg",
-      "country": "FR",
-      "industry": "Telecommunication"
-    },{
-      "title": "Red Hat",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/red_hat.svg",
-      "country": "US",
-      "industry": "Information Technology"
-    },{
-      "title": "Région Normandie",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/R%C3%A9gion_Normandie.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Métropole Rennes",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Rennes_M%C3%A9tropole.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Société Générale",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/socgen.svg",
-      "country": "FR",
-      "industry": "Banking and Finance"
-    },{
-      "title": "Sopra-Steria",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Sopra_Steria_logo.svg",
-      "country": "FR",
-      "industry": "Construction"
-    },{
-      "title": "SPB",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/spb.png",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Thales",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/thales.svg",
-      "country": "FR",
-      "industry": "Defense"
-    },{
-      "title": "The Open Group",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/The_Open_Group.svg",
-      "country": "US",
-      "industry": "Information Technology"
-    },{
-      "title": "Université Paris Dauphine",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/universite-dauphine.svg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Université de Lille",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Universit%C3%A9_de_Lille.svg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Villeurbanne",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/villeurbanne.svg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Wikimedia France ",
-      "logo_url": "https://www.worteks.com/assets/images/logos-client/Wikimedia_France.svg",
-      "country": "FR",
-      "industry": "Information Technology"
-    }],
-    "success_case_list": []
- },{
-    "title": "W'Opla",
-    "logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
-    "website_url": "https://www.worteks.com/edition/wopla/",
-    "created_year": "",
-    "description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-    "category_list": ["Service lifecycle automation""],
-    "similar_solution_list": [{
-		"title": "OpenNebula",
-		"similar_solution_url": "https://opennebula.io/",
-		"category": "Service lifecycle automation"
+	"subsidiary_country_list": [],
+	"website_url": "https://www.worteks.com/",
+	"founded_year": 2016,
+	"kpi_list": [{
+		"year": 2020,
+		"staff": 9,
+		"earnings": "703 270 EUR",
+		"total_assets": "1 939 929 EUR",
+		"revenues": "1 870 645 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}, {
-		"title": "Nixos",
-		"similar_solution_url": "https://nixos.org/",
-		"category": "Service lifecycle automation"
+		"year": 2019,
+		"staff": 9,
+		"earnings": "415 850 EUR",
+		"total_assets": "591 225 EUR",
+		"revenues": "1 531 379 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}, {
-		"title": "Virtuozzo/OnApp",
-		"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
-		"category": "Service lifecycle automation"
-	}, {
-		"title": "Google Anthos",
-		"similar_solution_url": "https://cloud.google.com/anthos",
-		"category": "Service lifecycle automation"
-	}, {
-		"title": "Kubernetes",
-		"similar_solution_url": "https://kubernetes.io/",
-		"category": "Service lifecycle automation"
-	}, {
-		"title": "OpenSVC",
-		"similar_solution_url": "https://www.opensvc.com/",
-		"category": "Service lifecycle automation"
-	}, {
-		"title": "OpenStack",
-		"similar_solution_url": "https://www.openstack.org/",
-		"category": "Service lifecycle automation"
+		"year": 2018,
+		"staff": 8,
+		"earnings": "363 411 EUR",
+		"total_assets": "375 374 EUR",
+		"revenues": "1 159 508 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/WORTEKS-824429708/"
 	}],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": false,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
- },{
-    "title": "W'IDaaS",
-    "logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
-    "website_url": "https://www.worteks.com/edition/widaas/",
-    "created_year": "",
-    "description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
-    "category_list": ["Identity"],
-    "similar_solution_list": [{	
-		"title": "Okta SSO",
-		"similar_solution_url": "https://www.okta.com/",
-		"category": "Identity"
-	}, {	
-		"title": "OneLogin",
-		"similar_solution_url": "https://www.onelogin.com/",
-		"category": "Identity"
-	}, {	
-		"title": "PingIdentity",
-		"similar_solution_url": "https://www.pingidentity.com/",
-		"category": "Identity"
-	}, {	
-		"title": "JumpCloud",
-		"similar_solution_url": "https://jumpcloud.com/",
-		"category": "Identity"
-	}, {	
-		"title": "Cisco Duo",
-		"similar_solution_url": "https://duo.com/",
-		"category": "Identity"
-	}, {	
-		"title": "Keycloak",
-		"similar_solution_url": "https://www.keycloak.org/",
-		"category": "Identity"
-	}, {
-		"title": "Ory",
-		"similar_solution_url": "https://www.ory.sh/",
-		"category": "Identity"
-	}],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": false,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
-  },{
-    "title": "LEMONLDAP::NG",
-    "logo_url": "https://lemonldap-ng.org/images/logo_llng_600px.png",
-    "website_url": "https://lemonldap-ng.org/",
-    "created_year": 2004,
-    "description": "LemonLDAP::NG is an open source software, created in 2004 by the French Gendarmerie Nationale, by forking the LemonLDAP software. It provides a distributed single sign-on solution with centralized rights management under the GPL. The software is maintened by Worteks",
-    "category_list": ["Identity", "Cybersecurity"],
-    "similar_solution_list": [{	
-		"title": "Okta SSO",
-		"similar_solution_url": "https://www.okta.com/",
-		"category": "Identity"
-	}, {	
-		"title": "OneLogin",
-		"similar_solution_url": "https://www.onelogin.com/",
-		"category": "Identity"
-	}, {	
-		"title": "PingIdentity",
-		"similar_solution_url": "https://www.pingidentity.com/",
-		"category": "Identity"
-	}, {	
-		"title": "JumpCloud",
-		"similar_solution_url": "https://jumpcloud.com/",
-		"category": "Identity"
-	}, {	
-		"title": "Cisco Duo",
-		"similar_solution_url": "https://duo.com/",
-		"category": "Identity"
-	}, {	
-		"title": "",
-		"similar_solution_url": "",
-		"category": "Identity"
-	}, {	
-		"title": "Keycloak",
-		"similar_solution_url": "https://www.keycloak.org/",
-		"category": "Identity"
-	}, {
-		"title": "Ory",
-		"similar_solution_url": "https://www.ory.sh/",
-		"category": "Identity"
-	}],
-    "licence_list": ["AGPL v.3.0"],
-    "source_code_download": "https://github.com/LemonLDAPNG/lemonldap-ng",
-    "source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
-    "commercial_support_url": "https://lemonldap-ng.org/contact.html",
-    "floss_software": true,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": true,
-    "wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
-    "reference_list": [{
-      "title": "Abuledu",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_abuledu.png",
-      "country": "FR",
-      "industry": "Information Technology"
-    },{
-      "title": "ADIE",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_adie.jpg",
-      "country": "FR",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "Air Corsica",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_aircorsica.png",
-      "country": "FR",
-      "industry": "Transport"
-    },{
-      "title": "Bibliothèke Centre Pompidou",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_bpi.png",
-      "country": "FR",
-      "industry": "Media and Entertainment"
-    },{
-      "title": "Campus Condorcet",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo-campus.png",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Centre Psychothérapie d'Ain",
-      "logo_url": "https://lemonldap-ng.org/images/references/screenshot_cpa01.jpg",
-      "country": "FR",
-      "industry": "Health and Life Sciences"
-    },{
-      "title": "CRDP Aix-Marseille",
-      "logo_url": "https://lemonldap-ng.org/images/logos/crdpaixmarseille.jpg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Ecolo",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_ecolo.png",
-      "country": "BE",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "EHESS",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_ehess.jpg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "Féstival Balélec",
-      "logo_url": "https://lemonldap-ng.org/images/references/screenshot_blek.jpg",
-      "country": "FR",
-      "industry": "Media and Entertainment"
-    },{
-      "title": "Fusion Directory",
-      "logo_url": "https://lemonldap-ng.org/images/logo-fusiondirectory.jpg",
-      "country": "FR",
-      "industry": "Information Technology"
-    },{
-      "title": "Gendarmerie Nationale",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_gn.png",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Groupe SNI - CDC Habitat",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_groupesni.jpg",
-      "country": "FR",
-      "industry": "Housing and Real Estate"
-    },{
-      "title": "Ministère de Justice",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_ministere_justice.jpg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Nantes Métropole",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_nantesmetropole.jpg",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Orange Application for Business",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_obs.png",
-      "country": "FR",
-      "industry": "Telecommunication"
-    },{
-      "title": "Police Nationale",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo-pn.png",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Radio France",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_radiofrance.jpg",
-      "country": "FR",
-      "industry": "Media and Entertainment"
-    },{
-      "title": "Region Basse-Normandie",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_rbn.png",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "SGS",
-      "logo_url": "https://lemonldap-ng.org/images/logos/sgs_white_small.jpg",
-      "country": "CH",
-      "industry": "Information Technology"
-    },{
-      "title": "The Camp",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_thecamp-blue.jpg",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "The document foundation",
-      "logo_url": "https://lemonldap-ng.org/images/logos/libreoffice_initial-artwork-logo_colorlogobasic_500px.png",
-      "country": "DE",
-      "industry": "Associations and NGOs"
-    },{
-      "title": "UCANSS",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_ucanss.png",
-      "country": "FR",
-      "industry": "Insurance"
-    },{
-      "title": "Université de Limoges",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo-ul.png",
-      "country": "FR",
-      "industry": "Academia and Research"
-    },{
-      "title": "University de Namur",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_unamur.png",
-      "country": "BE",
-      "industry": "Academia and Research"
-    },{
-      "title": "Ville de Villeurbanne",
-      "logo_url": "https://lemonldap-ng.org/images/logos/logo_villeurbanne.png",
-      "country": "FR",
-      "industry": "Public Administration and Government"
-    }],
-    "success_case_list": []
-  }]
+	"solution_list": [{
+			"title": "W'Sweet",
+			"logo_url": "https://www.worteks.com/assets/images/logo_wsweet.png",
+			"website_url": "https://www.wsweet.org/",
+			"created_year": "",
+			"description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
+			"category_list": ["Workspace"],
+			"similar_solution_list": [{
+				"title": "Trello",
+				"similar_solution_url": "https://trello.com/",
+				"category": "Workspace"
+			}, {
+				"title": "Slack",
+				"similar_solution_url": "https://slack.com/",
+				"category": "Workspace"
+			}, {
+				"title": "Asana",
+				"similar_solution_url": "https://asana.com/",
+				"category": "Workspace"
+			}, {
+				"title": "Teamwork",
+				"similar_solution_url": "https://www.teamwork.com/",
+				"category": "Workspace"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.worteks.com/services/",
+			"floss_software": false,
+			"commercial_support_open_source_version": false,
+			"commercial_support_available": true,
+			"wikipedia_url": "",
+			"reference_list": [{
+				"title": "ACMS",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/acms.svg",
+				"country": "FR",
+				"industry": "Associations and NGOs"
+			}, {
+				"title": "CDC Habitat",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/adoma-cdc2.jpg",
+				"country": "FR",
+				"industry": "Housing and Real Estate"
+			}, {
+				"title": "Agirc-Arrco",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/agirc-arrco.svg",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "Airbus",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/airbus.svg",
+				"country": "FR",
+				"industry": "Aviation and Aerospace"
+			}, {
+				"title": "Alstom",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/alstom.svg",
+				"country": "FR",
+				"industry": "Transport"
+			}, {
+				"title": "Altice",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/altice.png",
+				"country": "FR",
+				"industry": "Telecommunication"
+			}, {
+				"title": "Amadeus",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/amadeus.svg",
+				"country": "ES",
+				"industry": "Travel and Tourism"
+			}, {
+				"title": "ANFR",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/anfr.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Agence du Numérique en Sante",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/ans.png",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Assistance Publique des Hôpitaux de Paris",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/aphp.svg",
+				"country": "FR",
+				"industry": "Health and Life Sciences"
+			}, {
+				"title": "Arval",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/arval.jpg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "Atos",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/atos.svg",
+				"country": "FR",
+				"industry": "Information Technology"
+			}, {
+				"title": "Auchan",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/auchan.svg",
+				"country": "FR",
+				"industry": "Commerce and Retail"
+			}, {
+				"title": "Aviva",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/aviva.svg",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "Axa",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/axa.svg",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "Banque de France",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/banqueFrance.png",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "BIS",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bis.svg",
+				"country": "CH",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "BNP Paribas",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bnp-paribas.svg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "BNP Paribas Learning Solutions",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bnp.svg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "Groupe BPCE",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bpce_groupe.svg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "BPI France",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bpifrance.svg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "BRED-Banque Populaire",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bred.svg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "Bruxelles Formation",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/bruxelleFormation.png",
+				"country": "BE",
+				"industry": "Education"
+			}, {
+				"title": "Campus Condorcet",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/campus-condorcet.svg",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Cap Gemini",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/chronopost.svg",
+				"country": "FR",
+				"industry": "Consulting and Training"
+			}, {
+				"title": "Chronopost",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/chronopost.svg",
+				"country": "FR",
+				"industry": "Transport"
+			}, {
+				"title": "Clermont Auvergne Métropole",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/clermont_auvergne_metropole.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Allocations Familiales",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/cnaf.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Ameli",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/cnam.svg",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "CNES",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/cnes.svg",
+				"country": "FR",
+				"industry": "Aviation and Aerospace"
+			}, {
+				"title": "CSTB",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/cstb.svg",
+				"country": "FR",
+				"industry": "Construction"
+			}, {
+				"title": "Cité Internationale Universitaire de Paris",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/cuif.png",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Finances Publiques",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/dgfp.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Douanes & Droits Indirects",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/douane.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "EDF",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/edf.svg",
+				"country": "FR",
+				"industry": "Energy and Utilities"
+			}, {
+				"title": "Enedis",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/enedis.svg",
+				"country": "FR",
+				"industry": "Energy and Utilities"
+			}, {
+				"title": "Europcar",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/europcar.svg",
+				"country": "FR",
+				"industry": "Transport"
+			}, {
+				"title": "Fédération des Entreprises Romandes (Genève)",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/fer-geneve.png",
+				"country": "CH",
+				"industry": "Associations and NGOs"
+			}, {
+				"title": "Institut Pasteur",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/institut-pasteur.svg",
+				"country": "FR",
+				"industry": "Health and Life Sciences"
+			}, {
+				"title": "MACIF",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/macif.svg",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "Ville de Marseille",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/marseille.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Ministère de l'Économie des Finances et de la Rélance",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Minist%C3%A8re_de_l'%C3%89conomie,_des_Finances_et_de_la_Relance.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Ministère des Armées",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Minist%C3%A8re_des_Arm%C3%A9es.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Ministère de l'Intérieur",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/ministere_interieur.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Ministère de l'Agriculture et de l'Alimentation",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/ministere-agri-alimentation.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Ministère de l'Éducation nationale de la jeunesse et des sports",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Minist%C3%A8re-%C3%89ducation-Nationale-Jeunesse-Sports.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Montpellier Métropole",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Montpellier_M%C3%A9diterran%C3%A9e_M%C3%A9tropole.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Nantes Métropole",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Nantes_M%C3%A9tropole.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Nevers",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Nevers_Agglom%C3%A9ration.jpg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Orange",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Orange.svg",
+				"country": "FR",
+				"industry": "Telecommunication"
+			}, {
+				"title": "Red Hat",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/red_hat.svg",
+				"country": "US",
+				"industry": "Information Technology"
+			}, {
+				"title": "Région Normandie",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/R%C3%A9gion_Normandie.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Métropole Rennes",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Rennes_M%C3%A9tropole.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Société Générale",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/socgen.svg",
+				"country": "FR",
+				"industry": "Banking and Finance"
+			}, {
+				"title": "Sopra-Steria",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Sopra_Steria_logo.svg",
+				"country": "FR",
+				"industry": "Construction"
+			}, {
+				"title": "SPB",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/spb.png",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "Thales",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/thales.svg",
+				"country": "FR",
+				"industry": "Defense"
+			}, {
+				"title": "The Open Group",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/The_Open_Group.svg",
+				"country": "US",
+				"industry": "Information Technology"
+			}, {
+				"title": "Université Paris Dauphine",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/universite-dauphine.svg",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Université de Lille",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Universit%C3%A9_de_Lille.svg",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Villeurbanne",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/villeurbanne.svg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Wikimedia France ",
+				"logo_url": "https://www.worteks.com/assets/images/logos-client/Wikimedia_France.svg",
+				"country": "FR",
+				"industry": "Information Technology"
+			}],
+			"success_case_list": []
+		}, {
+			"title": "W'Opla",
+			"logo_url": "https://www.worteks.com/assets/images/logo_wopla.png",
+			"website_url": "https://www.worteks.com/edition/wopla/",
+			"created_year": "",
+			"description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
+			"category_list": ["Service lifecycle automation"],
+			"similar_solution_list": [{
+				"title": "OpenNebula",
+				"similar_solution_url": "https://opennebula.io/",
+				"category": "Service lifecycle automation"
+			}, {
+				"title": "Nixos",
+				"similar_solution_url": "https://nixos.org/",
+				"category": "Service lifecycle automation"
+			}, {
+				"title": "Virtuozzo/OnApp",
+				"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+				"category": "Service lifecycle automation"
+			}, {
+				"title": "Google Anthos",
+				"similar_solution_url": "https://cloud.google.com/anthos",
+				"category": "Service lifecycle automation"
+			}, {
+				"title": "Kubernetes",
+				"similar_solution_url": "https://kubernetes.io/",
+				"category": "Service lifecycle automation"
+			}, {
+				"title": "OpenSVC",
+				"similar_solution_url": "https://www.opensvc.com/",
+				"category": "Service lifecycle automation"
+			}, {
+				"title": "OpenStack",
+				"similar_solution_url": "https://www.openstack.org/",
+				"category": "Service lifecycle automation"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.worteks.com/services/",
+			"floss_software": false,
+			"commercial_support_open_source_version": false,
+			"commercial_support_available": true,
+			"wikipedia_url": "",
+			"reference_list": [],
+			"success_case_list": []
+		},
+		{
+			"title": "W'IDaaS",
+			"logo_url": "https://www.worteks.com/assets/images/logo_widaas.png",
+			"website_url": "https://www.worteks.com/edition/widaas/",
+			"created_year": "",
+			"description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
+			"category_list": ["Identity"],
+			"similar_solution_list": [{
+				"title": "Okta SSO",
+				"similar_solution_url": "https://www.okta.com/",
+				"category": "Identity"
+			}, {
+				"title": "OneLogin",
+				"similar_solution_url": "https://www.onelogin.com/",
+				"category": "Identity"
+			}, {
+				"title": "PingIdentity",
+				"similar_solution_url": "https://www.pingidentity.com/",
+				"category": "Identity"
+			}, {
+				"title": "JumpCloud",
+				"similar_solution_url": "https://jumpcloud.com/",
+				"category": "Identity"
+			}, {
+				"title": "Cisco Duo",
+				"similar_solution_url": "https://duo.com/",
+				"category": "Identity"
+			}, {
+				"title": "Keycloak",
+				"similar_solution_url": "https://www.keycloak.org/",
+				"category": "Identity"
+			}, {
+				"title": "Ory",
+				"similar_solution_url": "https://www.ory.sh/",
+				"category": "Identity"
+			}],
+			"licence_list": [],
+			"source_code_download": "",
+			"source_code_profile": "",
+			"commercial_support_url": "https://www.worteks.com/services/",
+			"floss_software": false,
+			"commercial_support_open_source_version": false,
+			"commercial_support_available": true,
+			"wikipedia_url": "",
+			"reference_list": [],
+			"success_case_list": []
+		},
+		{
+			"title": "LEMONLDAP::NG",
+			"logo_url": "https://lemonldap-ng.org/images/logo_llng_600px.png",
+			"website_url": "https://lemonldap-ng.org/",
+			"created_year": 2004,
+			"description": "LemonLDAP::NG is an open source software, created in 2004 by the French Gendarmerie Nationale, by forking the LemonLDAP software. It provides a distributed single sign-on solution with centralized rights management under the GPL. The software is maintened by Worteks",
+			"category_list": ["Identity", "Cybersecurity"],
+			"similar_solution_list": [{
+				"title": "Okta SSO",
+				"similar_solution_url": "https://www.okta.com/",
+				"category": "Identity"
+			}, {
+				"title": "OneLogin",
+				"similar_solution_url": "https://www.onelogin.com/",
+				"category": "Identity"
+			}, {
+				"title": "PingIdentity",
+				"similar_solution_url": "https://www.pingidentity.com/",
+				"category": "Identity"
+			}, {
+				"title": "JumpCloud",
+				"similar_solution_url": "https://jumpcloud.com/",
+				"category": "Identity"
+			}, {
+				"title": "Cisco Duo",
+				"similar_solution_url": "https://duo.com/",
+				"category": "Identity"
+			}, {
+				"title": "",
+				"similar_solution_url": "",
+				"category": "Identity"
+			}, {
+				"title": "Keycloak",
+				"similar_solution_url": "https://www.keycloak.org/",
+				"category": "Identity"
+			}, {
+				"title": "Ory",
+				"similar_solution_url": "https://www.ory.sh/",
+				"category": "Identity"
+			}],
+			"licence_list": ["AGPL v.3.0"],
+			"source_code_download": "https://github.com/LemonLDAPNG/lemonldap-ng",
+			"source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
+			"commercial_support_url": "https://lemonldap-ng.org/contact.html",
+			"floss_software": true,
+			"commercial_support_open_source_version": false,
+			"commercial_support_available": true,
+			"wikipedia_url": "https://fr.wikipedia.org/wiki/LemonLDAP::NG",
+			"reference_list": [{
+				"title": "Abuledu",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_abuledu.png",
+				"country": "FR",
+				"industry": "Information Technology"
+			}, {
+				"title": "ADIE",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_adie.jpg",
+				"country": "FR",
+				"industry": "Associations and NGOs"
+			}, {
+				"title": "Air Corsica",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_aircorsica.png",
+				"country": "FR",
+				"industry": "Transport"
+			}, {
+				"title": "Bibliothèke Centre Pompidou",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_bpi.png",
+				"country": "FR",
+				"industry": "Media and Entertainment"
+			}, {
+				"title": "Campus Condorcet",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo-campus.png",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Centre Psychothérapie d'Ain",
+				"logo_url": "https://lemonldap-ng.org/images/references/screenshot_cpa01.jpg",
+				"country": "FR",
+				"industry": "Health and Life Sciences"
+			}, {
+				"title": "CRDP Aix-Marseille",
+				"logo_url": "https://lemonldap-ng.org/images/logos/crdpaixmarseille.jpg",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Ecolo",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_ecolo.png",
+				"country": "BE",
+				"industry": "Associations and NGOs"
+			}, {
+				"title": "EHESS",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_ehess.jpg",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Féstival Balélec",
+				"logo_url": "https://lemonldap-ng.org/images/references/screenshot_blek.jpg",
+				"country": "FR",
+				"industry": "Media and Entertainment"
+			}, {
+				"title": "Fusion Directory",
+				"logo_url": "https://lemonldap-ng.org/images/logo-fusiondirectory.jpg",
+				"country": "FR",
+				"industry": "Information Technology"
+			}, {
+				"title": "Gendarmerie Nationale",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_gn.png",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Groupe SNI - CDC Habitat",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_groupesni.jpg",
+				"country": "FR",
+				"industry": "Housing and Real Estate"
+			}, {
+				"title": "Ministère de Justice",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_ministere_justice.jpg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Nantes Métropole",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_nantesmetropole.jpg",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Orange Application for Business",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_obs.png",
+				"country": "FR",
+				"industry": "Telecommunication"
+			}, {
+				"title": "Police Nationale",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo-pn.png",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "Radio France",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_radiofrance.jpg",
+				"country": "FR",
+				"industry": "Media and Entertainment"
+			}, {
+				"title": "Region Basse-Normandie",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_rbn.png",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}, {
+				"title": "SGS",
+				"logo_url": "https://lemonldap-ng.org/images/logos/sgs_white_small.jpg",
+				"country": "CH",
+				"industry": "Information Technology"
+			}, {
+				"title": "The Camp",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_thecamp-blue.jpg",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "The document foundation",
+				"logo_url": "https://lemonldap-ng.org/images/logos/libreoffice_initial-artwork-logo_colorlogobasic_500px.png",
+				"country": "DE",
+				"industry": "Associations and NGOs"
+			}, {
+				"title": "UCANSS",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_ucanss.png",
+				"country": "FR",
+				"industry": "Insurance"
+			}, {
+				"title": "Université de Limoges",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo-ul.png",
+				"country": "FR",
+				"industry": "Academia and Research"
+			}, {
+				"title": "University de Namur",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_unamur.png",
+				"country": "BE",
+				"industry": "Academia and Research"
+			}, {
+				"title": "Ville de Villeurbanne",
+				"logo_url": "https://lemonldap-ng.org/images/logos/logo_villeurbanne.png",
+				"country": "FR",
+				"industry": "Public Administration and Government"
+			}],
+			"success_case_list": []
+		},
+		{
+			"title": "LDAP Tool box",
+			"logo_url": "https://www.ltb-project.org/images/ltb-logo.png",
+			"website_url": "https://www.ltb-project.org/",
+			"created_year": 2008,
+			"description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory. The application can be used on standard LDAPv3 directories (OpenLDAP, OpenDS, ApacheDS, Sun Oracle DSEE, Novell, etc.) and also on Active Directory.",
+			"category_list": ["Identity"],
+			"similar_solution_list": [{
+				"title": "pwm-project",
+				"similar_solution_url": "https://github.com/pwm-project/pwm.git",
+				"category": "Identity"
+			}, {
+				"title": "PassCore",
+				"similar_solution_url": "https://github.com/unosquare/passcore.git",
+				"category": "Identity"
+			}, {
+				"title": "ADReset",
+				"similar_solution_url": "https://github.com/mprahl/ADReset.git",
+				"category": "Identity"
+			}, {
+				"title": "JiJi Self Service Password",
+				"similar_solution_url": "https://www.jijitechnologies.com/jiji-self-service-password-reset.aspx",
+				"category": "Identity"
+			}],
+			"licence_list": ["GPL v3.0"],
+			"source_code_download": "https://github.com/ltb-project/self-service-password.git",
+			"source_code_profile": "https://www.openhub.net/p/ltb-project/analyses/latest/languages_summary",
+			"commercial_support_url": "",
+			"floss_software": true,
+			"commercial_support_open_source_version": true,
+			"commercial_support_available": false,
+			"wikipedia_url": "",
+			"reference_list": [],
+			"success_case_list": []
+		},
+		{
+			"title": "LDAP Synchronization Connector Project",
+			"logo_url": "https://www.lsc-project.org/_media/lsc_logo_400px.png",
+			"website_url": "https://www.lsc-project.org/start",
+			"created_year": 2018,
+			"description": "Ldap Synchronization Connector synchronize data from any data source including databases, LDAP directories or files by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.",
+			"category_list": ["Big Data Hub", "Storage and database"],
+			"similar_solution_list": [],
+			"licence_list": ["GPL v3.0"],
+			"source_code_download": "https://github.com/lsc-project/lsc.git",
+			"source_code_profile": "https://www.openhub.net/p/lsc/analyses/latest/languages_summary",
+			"commercial_support_url": "",
+			"floss_software": true,
+			"commercial_support_open_source_version": true,
+			"commercial_support_available": false,
+			"wikipedia_url": "",
+			"reference_list": [],
+			"success_case_list": []
+		}
+	]
 }
