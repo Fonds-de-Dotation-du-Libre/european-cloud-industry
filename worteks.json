@@ -45,12 +45,28 @@
     "created_year": "",
     "description": "W’Sweet is an Open Source collaborative and modulable portal developed by Worteks, based on the messaging application BlueMind as well as the LemonLDAP::NG, Rocket.chat, Jitsi Meet and Nextcloud softwares.",
     "category_list": ["Workspace"],
-    "similar_solution_list": [],
+    "similar_solution_list": [{	
+	"title": "Trello",
+	"similar_solution_url": "https://trello.com/",
+	"category": "Workspace"
+    },{	
+	"title": "Slack",
+	"similar_solution_url": "https://slack.com/",
+	"category": "Workspace"
+    },{	
+	"title": "Asana",
+	"similar_solution_url": "https://asana.com/",
+	"category": "Workspace"
+    }, {	
+	"title": "Teamwork",
+	"similar_solution_url": "https://www.teamwork.com/",
+	"category": "Workspace"
+    }],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": true,
+    "floss_software": false,
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
@@ -372,13 +388,41 @@
     "website_url": "https://www.worteks.com/edition/wopla/",
     "created_year": "",
     "description": "W'Opla is a complex infrastructure management solution containing a virtual machine, an instance and containers, installed and hosted by Worteks on an open source and sovereign infrastructureor the company's own servers.",
-    "category_list": ["Operation management"],
-    "similar_solution_list": [],
+    "category_list": ["Service lifecycle automation""],
+    "similar_solution_list": [{
+		"title": "OpenNebula",
+		"similar_solution_url": "https://opennebula.io/",
+		"category": "Service lifecycle automation"
+	}, {
+		"title": "Nixos",
+		"similar_solution_url": "https://nixos.org/",
+		"category": "Service lifecycle automation"
+	}, {
+		"title": "Virtuozzo/OnApp",
+		"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+		"category": "Service lifecycle automation"
+	}, {
+		"title": "Google Anthos",
+		"similar_solution_url": "https://cloud.google.com/anthos",
+		"category": "Service lifecycle automation"
+	}, {
+		"title": "Kubernetes",
+		"similar_solution_url": "https://kubernetes.io/",
+		"category": "Service lifecycle automation"
+	}, {
+		"title": "OpenSVC",
+		"similar_solution_url": "https://www.opensvc.com/",
+		"category": "Service lifecycle automation"
+	}, {
+		"title": "OpenStack",
+		"similar_solution_url": "https://www.openstack.org/",
+		"category": "Service lifecycle automation"
+	}],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": true,
+    "floss_software": false,
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
@@ -390,13 +434,41 @@
     "website_url": "https://www.worteks.com/edition/widaas/",
     "created_year": "",
     "description": "Worteks IDentity as a Service (W'IDaaS) provides a Cloud-based identity and access management platform, accessible through Web interfaces and driven by REST APIs.",
-    "category_list": ["Identity", "Cybersecurity"],
-    "similar_solution_list": [],
+    "category_list": ["Identity"],
+    "similar_solution_list": [{	
+		"title": "Okta SSO",
+		"similar_solution_url": "https://www.okta.com/",
+		"category": "Identity"
+	}, {	
+		"title": "OneLogin",
+		"similar_solution_url": "https://www.onelogin.com/",
+		"category": "Identity"
+	}, {	
+		"title": "PingIdentity",
+		"similar_solution_url": "https://www.pingidentity.com/",
+		"category": "Identity"
+	}, {	
+		"title": "JumpCloud",
+		"similar_solution_url": "https://jumpcloud.com/",
+		"category": "Identity"
+	}, {	
+		"title": "Cisco Duo",
+		"similar_solution_url": "https://duo.com/",
+		"category": "Identity"
+	}, {	
+		"title": "Keycloak",
+		"similar_solution_url": "https://www.keycloak.org/",
+		"category": "Identity"
+	}, {
+		"title": "Ory",
+		"similar_solution_url": "https://www.ory.sh/",
+		"category": "Identity"
+	}],
     "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.worteks.com/services/",
-    "floss_software": true,
+    "floss_software": false,
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
@@ -409,11 +481,39 @@
     "created_year": 2004,
     "description": "LemonLDAP::NG is an open source software, created in 2004 by the French Gendarmerie Nationale, by forking the LemonLDAP software. It provides a distributed single sign-on solution with centralized rights management under the GPL. The software is maintened by Worteks",
     "category_list": ["Identity", "Cybersecurity"],
-    "similar_solution_list": [{
-      "title": "Jumpcloud",
-      "similar_solution_url": "https://jumpcloud.com/",
-      "category": "Identity"
-    }],
+    "similar_solution_list": [{	
+		"title": "Okta SSO",
+		"similar_solution_url": "https://www.okta.com/",
+		"category": "Identity"
+	}, {	
+		"title": "OneLogin",
+		"similar_solution_url": "https://www.onelogin.com/",
+		"category": "Identity"
+	}, {	
+		"title": "PingIdentity",
+		"similar_solution_url": "https://www.pingidentity.com/",
+		"category": "Identity"
+	}, {	
+		"title": "JumpCloud",
+		"similar_solution_url": "https://jumpcloud.com/",
+		"category": "Identity"
+	}, {	
+		"title": "Cisco Duo",
+		"similar_solution_url": "https://duo.com/",
+		"category": "Identity"
+	}, {	
+		"title": "",
+		"similar_solution_url": "",
+		"category": "Identity"
+	}, {	
+		"title": "Keycloak",
+		"similar_solution_url": "https://www.keycloak.org/",
+		"category": "Identity"
+	}, {
+		"title": "Ory",
+		"similar_solution_url": "https://www.ory.sh/",
+		"category": "Identity"
+	}],
     "licence_list": ["AGPL v.3.0"],
     "source_code_download": "https://github.com/LemonLDAPNG/lemonldap-ng",
     "source_code_profile": "https://www.openhub.net/p/lemonldap-ng/analyses/latest/languages_summary",
