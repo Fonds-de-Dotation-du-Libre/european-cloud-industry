@@ -43,8 +43,9 @@
       "country": "FR",
       "industry": "Media and Entertainment"
     },{
-      "title": "Groupe LeDuff
-      "logo-url": "https://www.groupeleduff.com/app/themes/leduffv2/img/logo_2x.png"
+      "title": "Groupe LeDuff",
+      "logo-url": "https://www.groupeleduff.com/app/themes/leduffv2/img/logo_2x.png",
+      "country": "FR",
       "industry": "Commerce and Retail"
     }],
     "success_case_list": []
