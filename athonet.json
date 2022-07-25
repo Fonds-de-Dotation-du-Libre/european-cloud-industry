@@ -204,7 +204,7 @@
 		"similar_solution_list": [{
 			"title": "Bitium",
 			"similar_solution_url": "https://www.bittium.com/tactical-communications/bittium-tactical-lte-access-point",
-			"category: "vRAN"
+			"category": "vRAN"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -241,7 +241,7 @@
 		"created_year": "",
 		"description": "A full-featured, standalone LTE and 5G network solution that is trusted and field-proven for secure, tactical and rapid deployment.",
 		"category_list": ["vRAN"],
-		"similar_solution_list": [, {
+		"similar_solution_list": [{
 			"title": "ECX Pack",
 			"similar_solution_url": "https://quortus.com/solutions/ecx-pack/",
 		      	"category": "vRAN"
