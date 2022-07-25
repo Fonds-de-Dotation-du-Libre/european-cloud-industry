@@ -84,6 +84,7 @@ List of validated sources for financial data:
 * verif.com (FR); 
 * societe.com (FR);
 * bundesanzeiger.de '(DE);
+* https://infocamere.it/ (IT)
 * find-and-update.company-information.service.gov.uk (GB).
 
 Possible solution_category 
