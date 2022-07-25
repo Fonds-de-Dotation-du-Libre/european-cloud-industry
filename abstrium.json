@@ -5,18 +5,53 @@
 	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
 	"location": {
 		"title": "Abstrium SAS",
-		"address": "160 bis rue du Temple",
-		"postal_code": "75003",
+		"address": "40 Rue Alexandre Dumas",
+		"postal_code": "75011",
 		"city": "Paris",
 		"country": "FR",
 		"phone_contact": "+33 1 76361075",
 		"mail_contact": "",
-		"coordinate_list": [48.86578282205288, 2.36091068453969]
+		"coordinate_list": [48.85373396743177, 2.3932859980339547]
 	},
 	"subsidiary_location_list": ["US"],
 	"website_url": "https://pydio.com/en",
 	"founded_year": 2012,
-	"kpi_list": [],
+	"kpi_list": [{
+		"year": 2020,
+		"staff": "",
+		"earnings": "-53 331 EUR",
+		"total_assets": "607 848 EUR",
+		"revenues": "583 636 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2019,
+		"staff": "",
+		"earnings": "-8 156  EUR",
+		"total_assets": "559 186 EUR",
+		"revenues": "626 408 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2018,
+		"staff": 6,
+		"earnings": "42 918  EUR",
+		"total_assets": "619 684 EUR",
+		"revenues": "613 173 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2017,
+		"staff": 6,
+		"earnings": "-36 400  EUR",
+		"total_assets": "629 050 EUR",
+		"revenues": "560 394 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2015,
+		"staff": "",
+		"earnings": "- 143 855 EUR",
+		"total_assets": "911 054 EUR",
+		"revenues": "315 894 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	}],
 	"solution_list": [{
 		"title": "Pydio for Manufacturing",
 		"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
