@@ -1,0 +1,52 @@
+{
+  "created": "2022-07-25",
+  "title": "Cloud-IAM SAS",
+  "type": "company",
+  "logo_url": "https://uploads-ssl.webflow.com/5f50dc76ddedbedd50e51328/6100755898e686562f48c80e_raw-blue.svg",
+  "location": {
+    "title": "Cloud-IAM SAS",
+    "address": "37 Boulevard Solférino Immeuble Eurosquare",
+    "postal_code": "35000",
+    "city": "Rennes",
+    "country": "FR",
+    "phone_contact": "+33 (0)2 99 68 41 24",
+    "mail_contact": "support@cloud-iam.com",
+    "coordinate_list": []
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.cloud-iam.com/en/about",
+  "founded_year": "",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Keycloak",
+    "logo_url": "",
+    "website_url": "https://www.cloud-iam.com/#fully-managed-keycloak",
+    "created_year": 2014,
+    "description": "Keycloak is an open source software product to allow single sign-on with Identity and Access Management aimed at modern applications and services",
+    "category_list": ["Identity"],
+    "similar_solution_list": [{
+      "title": "OpenAM",
+      "similar_solution_url": "https://www.openidentityplatform.org/openam",
+      "category": "Identity"
+    }],
+    "licence_list": ["Apache v2.0"],
+    "source_code_download": "https://www.openhub.net/p/keycloak",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [{
+      "title": "Ouest-France",
+      "logo_url": "https://www.ouest-france.fr/",
+      "country": "FR",
+      "industry": "Media and Entertainment"
+    },{
+      "title": "Groupe LeDuff
+      "logo-url": "https://www.groupeleduff.com/app/themes/leduffv2/img/logo_2x.png"
+      "industry": "Commerce and Retail"
+    }],
+    "success_case_list": []
+  }]
+}
