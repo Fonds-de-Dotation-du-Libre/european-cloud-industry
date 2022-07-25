@@ -218,7 +218,19 @@
 		"created_year": "",
 		"description": "LTE/GSM Core Network for private networks set up easily in hard to reach places.",
 		"category_list": ["vRan"],
-		"similar_solution_list": [],
+		"similar_solution_list": [{
+			"title": "Amarisoft Callbox",
+		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Athonet 5G Core",
+			"similar_solution_url": "https://athonet.com/products/athonet-5g-core/",
+		      	"category": "vRAN"
+		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -236,7 +248,19 @@
 		"created_year": "",
 		"description": "MiniCore combines our YateHSS/HLR, YateUCN and YateSMSC in a small package. It can be used a second core network for testing.",
 		"category_list": ["vRan"],
-		"similar_solution_list": [],
+		"similar_solution_list": [{
+			"title": "Amarisoft Callbox",
+		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Athonet 5G Core",
+			"similar_solution_url": "https://athonet.com/products/athonet-5g-core/",
+		      	"category": "vRAN"
+		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -254,7 +278,19 @@
 		"created_year": "",
 		"description": "MiniCore is a Software-defined compact Core Network that can be used as a test 5G network, LTE/IMS or GSM/GPRS Core Network. It combines our YateHSS/HLR (AUSF/UDM), YateUCN (SMF/UPF) and YateNRF in a small package for full functionality of all generation network technologies.",
 		"category_list": ["vRan"],
-		"similar_solution_list": [],
+		"similar_solution_list": [{
+			"title": "Amarisoft Callbox",
+		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Athonet 5G Core",
+			"similar_solution_url": "https://athonet.com/products/athonet-5g-core/",
+		      	"category": "vRAN"
+		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
