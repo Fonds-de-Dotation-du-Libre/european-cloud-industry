@@ -47,7 +47,15 @@
 			"title": "Valid8 UE emulator",
       			"similar_solution_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
 			"category": "vRan"
-		}],
+		}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Athonet 5G Core",
+		      	"similar_solution_url": "https://athonet.com/products/athonet-5g-sa/",
+		      	"category": "vRAN"
+	    	}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
