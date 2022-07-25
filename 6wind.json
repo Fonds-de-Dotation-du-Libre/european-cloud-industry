@@ -1,0 +1,334 @@
+{
+  "created": "25-07-2022",
+  "title": "6Wind",
+  "type": "Organisation",
+  "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/signature-6wind-retina.png",
+  "location": {
+    "title": "6wind",
+    "address": "3 AV DES PRES",
+    "postal_code": "78180",
+    "city": "MONTIGNY-LE-BRETONNEUX",
+    "country": "FR",
+    "phone_contact": "+33(0)139309210",
+    "mail_contact": "",
+    "coordinate_list": []
+  },
+  "subsidiary_location_list": ["US", "SG"],
+  "website_url": "https://www.6wind.com/",
+  "founded_year": "2000",
+  "kpi_list": [{
+    "year": "2021",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2020",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }, {
+    "year": "2019",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2018",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2017",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  },{
+    "year": "2016",
+    "staff": "",
+    "earnings": "",
+    "total_assets": "",
+    "revenues": "",
+    "source_url": ""
+  }],
+  "solution_list": [{
+    "title": "6WINDCloud",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2021/03/6windcloud-logo-light.png.webp",
+    "website_url": "https://www.6wind.com/6windcloud-cloud-native/",
+    "created_year": "",
+    "description": "6WINDCloud is an innovative disaggregated networking software solution that embraces the Cloud Native architecture to boost your network growth and simplify the network’s operational model while reducing costs and increasing profitability.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+      "title": "",
+      "similar_solution_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/orgs/6WIND/repositories",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.6wind.com/resources/support/",
+    "floss_software": false,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "Witcom",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/Capture-de%CC%81cran-2020-08-06-a%CC%80-15.17.08.png",
+      "country": "NL",
+      "industry": "Automotive"
+    },{
+      "title": "Nec",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/11/nec-logo-1.png",
+      "country": "JP",
+      "industry": "Information Technology"
+    },{
+      "title": "Marvell",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/Marvell_Logo.svg_-150x87-1.png",
+      "country": "GB",
+      "industry": "Telecommunication"
+    },{
+      "title": "Marlink",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/marlink.png",
+      "country": "FR",
+      "industry": "Telecommunication"
+    },{
+      "title": "Netscout",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/netscout_logo.png",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Nokia",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/nokia.jpg",
+      "country": "FI",
+      "industry": "Telecommunication"
+    },{
+      "title": "Trend Micro",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/11/trend-micro-logo.png",
+      "country": "JP",
+      "industry": "Information Technology"
+    },{
+      "title": "Cisco",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/cisco.jpg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "AT&T",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/att-logo-600x247.png",
+      "country": "US",
+      "industry": "Telecommunication"
+    },{
+      "title": "nuagenetworks",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/nuagenetwork-600x406.png",
+      "country": "FI",
+      "industry": "Telecommunication"
+    },{
+      "title": "Mavenir",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/08/mavenir-1.jpg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Zyxel",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/zyxel-logo-600x146.png",
+      "country": "TW",
+      "industry": "Telecommunication"
+    },{
+      "title": "Mellanox",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/mellanox-logo-square-blue-600x600.jpg",
+      "country": "IL",
+      "industry": "Telecommunication"
+    },{
+      "title": "Infoblox",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/11/infoblox-logo-1.jpg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Open Systems",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/open-system-logo-600x464.png",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "Asavie",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/asavie-logo-600x300.jpg",
+      "country": "GB",
+      "industry": "Information Technology"
+    },{
+      "title": "Viasat",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/09/Viasat-150x150-1.jpg",
+      "country": "US",
+      "industry": "Information Technology"
+    },{
+      "title": "China Mobile",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2021/05/china-mobile-logo.png",
+      "country": "CN",
+      "industry": "Telecommunication"
+    },{
+      "title": "Telenor",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2021/05/Telenor-logo-vector.png",
+      "country": "NO",
+      "industry": "Telecommunication"
+    },{
+      "title": "Verizon",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2021/05/Verizon-Logo-600x338.png",
+      "country": "US",
+      "industry": "Telecommunication"
+    },{
+      "title": "PaloAlto",
+      "logo_url": "https://www.6wind.com/wp-content/uploads/2020/11/small_logo-palo-alto-600x267.png",
+      "country": "US",
+      "industry": "Information Technology"
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  },{
+    "title": "Virtual Service Router (VSR)",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/virtual-router-icon.png.webp",
+    "website_url": "https://www.6wind.com/vrouter-vsr-solutions/",
+    "created_year": "",
+    "description": "6WIND Virtual Service Router (VSR) is a high-performance and scalable virtualized software router optimized for Communication Service Providers and Enterprises. It is deployed bare-metal, virtualized, or containerized on COTS servers in private and public clouds.",
+    "category_list": ["Router"],
+    "similar_solution_list": [{
+      "title": "",
+      "similar_solution_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/orgs/6WIND/repositories",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.6wind.com/resources/support/",
+    "floss_software": false,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "Netscout Arbor Replaces VyOS vRouters with 6WIND Virtual Border Router",
+      "description": "6WIND Virtual Router met Netscout's requirements to replace the VyOS virtual routers directly on its existing servers. Based on DPDK (Data Plane Development Kit) for performance, 6WIND Virtual Router separates its full featured data plane and control plane for use case flexibility and ease-of-migration. ",
+      "image_url": "",
+      "industry": "Information Technology",
+      "customer": "Netscout",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://www.6wind.com/wp-content/uploads/success-stories/netscout-success-story.pdf"
+    },{
+      "title": "Togglebox Boosts Cloud Hosting Performance and Security with 6WIND vRouters ",
+      "description": "The flexible 6WIND vRouter solution helps Togglebox continue its mission to provide the highest level of customer service, performance, and innovation, at the best cost vs performance ratio with unparalelled functionality and reliability",
+      "image_url": "",
+      "industry": "Information Technology",
+      "customer": "Tooglebox",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://www.6wind.com/wp-content/uploads/success-stories/togglebox-success-story.pdf"
+    },{
+      "title": "Voxology selects 6WIND vRouter to support its expansion",
+      "description": "6WIND Virtual Routers met Voxology’s requirements. The Voxology team deployed the Virtual Routers configured with peerings to major cloud providers, 3rd party exchanges, and to direct customers. Voxology primarily depends on 6WIND Virtual Router’s BGP and OSPF features. The team plans to eventually replace their remaining Cisco ASRs with 6WIND Virtual Routers.",
+      "image_url": "",
+      "industry": "Information Technology",
+      "customer": "Voxology",
+      "country": "US",
+      "language": "en",
+      "success_case_url": "https://www.6wind.com/wp-content/uploads/success-stories/voxology-success-story.pdf"
+    },{
+      "title": "WiTCOM deploys open multi-vendor solution to power smart city initiative",
+      "description": "WITCOM chose the 6WIND Virtual IPsec vRouter The solution is deployed on a central hub site as well as remote spoke sites. Security is an essential element of the solution, and is provided by the 6WIND Virtual IPse vRouter. The vRouter is deployed in virtual machines (VMs) at each of the spokes, and at the hub as an aggregator.",
+      "image_url": "",
+      "industry": "Automotive",
+      "customer": "Witcom",
+      "country": "NL",
+      "language": "en",
+      "success_case_url": "https://www.6wind.com/wp-content/uploads/success-stories/witcom-customer-success-story.pdf"
+    }]
+  },{ 
+    "title": "Virtual Accelerator",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/cloud-router-icon.png.webp",
+    "website_url": "https://www.6wind.com/virtual-host-acceleration/#card-va",
+    "created_year": "",
+    "description": "6WIND Virtual Accelerator® is a host network acceleration software that provides a solution to power the virtual networking infrastructure with the required features, performance and scalability. Used in Network Function Virtualization infrastructure (NFVi), Data Center Virtualization or Network Appliance Virtualization use cases.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+      "title": "",
+      "similar_solution_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/orgs/6WIND/repositories",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.6wind.com/resources/support/",
+    "floss_software": false,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  },{
+    "title": "6WINDGate",
+    "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/windgate-light.png.webp",
+    "website_url": "https://www.6wind.com/6windgate/#card-windgate",
+    "created_year": "",
+    "description": "6WINDGate provides the foundation for next-generation networking applications. Deployed in Tier 1 networks, 6WINDGate delivers the much-needed software solutions that enable OEMs to build networking products for 5G, SD-WAN, and IoT markets. This includes IP backhaul solutions, Unified Threat Management (UTM) products, universal Customer Premises Equipment (uCPE), Radio Access Network (RAN) solutions, and much more.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+      "title": "",
+      "similar_solution_url": "",
+      "category": ""
+    }],
+    "licence_list": [],
+    "source_code_download": "https://github.com/orgs/6WIND/repositories",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.6wind.com/resources/support/",
+    "floss_software": false,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
+    "reference_list": [{
+      "title": "",
+      "logo_url": "",
+      "country": "",
+      "industry": ""
+    }],
+    "success_case_list": [{
+      "title": "",
+      "description": "",
+      "image_url": "",
+      "industry": "",
+      "customer": "",
+      "country": "",
+      "language": "",
+      "success_case_url": ""
+    }]
+  }]
+}
