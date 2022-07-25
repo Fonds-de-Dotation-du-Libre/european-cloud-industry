@@ -5,11 +5,11 @@
 	"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 	"location": {
 		"title": "Ateme SA",
-		"address": "6 RUE DEWOITINE ",
+		"address": "6 Rue Dewoitine",
 		"postal_code": "78140",
-		"city": "VELIZY-VILLACOUBLAY",
+		"city": "Velizy-Villacoublay",
 		"country": "FR",
-		"phone_contact": "08 90 10 92 33",
+		"phone_contact": "+33 8 90 10 92 33",
 		"mail_contact": "",
 		"coordinate_list": [48.78323044986587, 2.215849069319226]
 	},
@@ -53,85 +53,114 @@
 		"source_url": "https://www.societe.com/bilan/ateme-382231991201612311.html"
 	}],
 	"solution_list": [{
-		"title": "Atem NEA solution",
+		"title": "TITAN & KYRION",
+		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
+		"website_url": "https://www.ateme.com/product-titan-software/",
+		"created_year": "",
+		"description": "With Ateme’s TITAN & KYRION video-processing solutions, from contribution to delivery, you offer your viewers a premium experience on any platform – DTH, DTT, cable-TV, IPTV and OTT. And you do that while saving infrastructure costs and minimizing your carbon footprint.",
+		"category_list": ["Networking"],
+		"similar_solution_list": [{
+			"title": "Harmonic",
+			"similar_solution_url": "https://www.harmonicinc.com/",
+			"category": "Networking"
+		}, {
+			"title": "Soliton",
+			"similar_solution_url": "https://www.solitonsystems.com/",
+			"category": "Networking"
+		}, {
+			"title": "StreamWide",
+			"similar_solution_url": "https://www.streamwide.com/",
+			"category": "Networking"
+		}],
+	    	"licence_list": [],
+	    	"source_code_download": "",
+	    	"source_code_profile": "",
+	    	"commercial_support_url": "https://www.ateme.com/support-services/",
+	    	"floss_software": false,
+	    	"commercial_support_open_source_version": false,
+	    	"commercial_support_available": true,
+	    	"wikipedia_url": "https://en.wikipedia.org/wiki/Ateme",
+	    	"reference_list": [],
+	    	"success_case_list": [{
+		      "title": "Defining Brazil’s standard for digital television: TV3.0",
+		      "description": "On November 30th, 2020, VVC was proposed by a consortium formed by Ateme, DiBEG, Fraunhofer HHI and InterDigital as the coding technology for TV3.0, and was evaluated by SBTVD during phase 2. The forum completed the second phase and selected VVC as the sole mandatory video coding system for Brazil’s new TV 3.0 standard, which will be used in the country’s next-generation digital terrestrial television system. The decision to adopt VVC follows a technical evaluation that used Ateme’s TITAN Live platform for the first implementation of VVC in a live environment, providing real-time encoding with low latency. This demonstrated VVC’s readiness for use in both live Over-The-Air (OTA) and OTT broadcast.",
+		      "image_url": "",
+		      "industry": "Information Technology",
+		      "customer": "SBTVD Forum (Sistema Brasileiro de TV Digital)",
+		      "country": "BR",
+		      "language": "en",
+		      "success_case_url": "https://www.ateme.com/defining-brazils-standard-for-digital-television-tv3-0/"
+		}, {
+		"title": "NEA CDN & Delivery Products",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-video-content-delivery/",
 		"created_year": "",
 		"description": "With Ateme’s NEA solutions you can build a platform for streaming, OTT or IPTV services that captivates your audience with outstanding experiences – while unleashing monetization potential, reducing operational costs, and minimizing your carbon footprint.",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-	    "licence_list": [],
-	    "source_code_download": "https://github.com/ATEME",
-	    "source_code_profile": "",
-	    "commercial_support_url": "https://www.ateme.com/support-services/",
-	    "floss_software": false,
-	    "commercial_support_open_source_version": false,
-	    "commercial_support_available": true,
-	    "wikipedia_url": "https://fr.wikipedia.org/wiki/Ateme",
-	    "reference_list": [],
-	    "success_case_list": []
-	},{
-		"title": "Titan Software Processing",
-		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
-		"website_url": "https://www.ateme.com/product-titan-software/",
-		"created_year": "",
-		"description": "offer your viewers a premium experience on any platform – DTH, DTT, cable-TV, IPTV and OTT. And you do that while saving infrastructure costs and minimizing your carbon footprint.",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-	    "licence_list": [],
-	    "source_code_download": "https://github.com/ATEME",
-	    "source_code_profile": "",
-	    "commercial_support_url": "https://www.ateme.com/support-services/",
-	    "floss_software": false,
-	    "commercial_support_open_source_version": false,
-	    "commercial_support_available": true,
-	    "wikipedia_url": "https://fr.wikipedia.org/wiki/Ateme",
-	    "reference_list": [],
-	    "success_case_list": [{
-	      "title": "Defining Brazil’s standard for digital television: TV3.0",
-	      "description": "On November 30th, 2020, VVC was proposed by a consortium formed by Ateme, DiBEG, Fraunhofer HHI and InterDigital as the coding technology for TV3.0, and was evaluated by SBTVD during phase 2. The forum completed the second phase and selected VVC as the sole mandatory video coding system for Brazil’s new TV 3.0 standard, which will be used in the country’s next-generation digital terrestrial television system. The decision to adopt VVC follows a technical evaluation that used Ateme’s TITAN Live platform for the first implementation of VVC in a live environment, providing real-time encoding with low latency. This demonstrated VVC’s readiness for use in both live Over-The-Air (OTA) and OTT broadcast.",
-	      "image_url": "",
-	      "industry": "Information Technology",
-	      "customer": "SBTVD Forum (Sistema Brasileiro de TV Digital)",
-	      "country": "BR",
-	      "language": "pt",
-	      "success_case_url": "https://www.ateme.com/defining-brazils-standard-for-digital-television-tv3-0/"
-		}]
-	},{
-		"title": "Kyrion contribution encoders",
-		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
-		"website_url": "https://www.ateme.com/kyrion-cm5000-the-latest-ateme-encoder-is-out-now/",
-		"created_year": "",
-		"description": "The Kyrion encoder has been designed for contribution over satellite, IP and ASI networks, with advanced features such as ultra-fast-boot, and added value features including ABR output and integrated Automatic Repeat reQuest (ARQ).",
-		"category_list": ["IoT and industrial"],
-		"similar_solution_list": [],
-	    "licence_list": [],
-	    "source_code_download": "https://github.com/ATEME",
-	    "source_code_profile": "",
-	    "commercial_support_url": "https://www.ateme.com/support-services/",
-	    "floss_software": false,
-	    "commercial_support_open_source_version": false,
-	    "commercial_support_available": false,
-	    "wikipedia_url": "https://fr.wikipedia.org/wiki/ATEME",
-	    "reference_list": [],
-	    "success_case_list": []
-	},{
-		"title": "PILOT analytics & orchestration solutions",
+		"category_list": ["Networking"],
+		"similar_solution_list": [{
+			"title": "Akami",
+			"similar_solution_url": "https://www.akamai.com/",
+			"category": "Networking"
+		}, {
+			"title": "Fastly",
+			"similar_solution_url": "https://www.fastly.com/",
+			"category": "Networking"
+		}, {
+			"title": "Cloudflare",
+			"similar_solution_url": "https://www.cloudflare.com/",
+			"category": "Networking"
+		}, {
+			"title": "CDN77",
+			"similar_solution_url": "https://www.cdn77.com/",
+			"category": "Networking"
+		}, {
+			"title": "Rapid.Space CDN",
+			"similar_solution_url": "",
+			"category": "Networking"
+		}, {
+			"title": "KeyCDN",
+			"similar_solution_url": "https://www.keycdn.com/",
+			"category": "Networking"
+		}, {
+			"title": StackPath",
+			"similar_solution_url": "https://www.stackpath.com/products/cdn/",
+			"category": "Networking"
+		}],
+	    	"licence_list": [],
+	    	"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.ateme.com/support-services/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Ateme",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Pilot",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-network-management-system/",
 		"created_year": "",
 		"description": "With Ateme’s PILOT management and orchestration solutions you simplify your video-delivery operations, create efficiencies, and exploit new revenue opportunities with business intelligence and automation – both on-premises and in the cloud.",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
-	    "licence_list": [],
-	    "source_code_download": "https://github.com/ATEME",
-	    "source_code_profile": "",
-	    "commercial_support_url": "https://www.ateme.com/support-services/",
-	    "floss_software": false,
-	    "commercial_support_open_source_version": false,
-	    "commercial_support_available": true,
-	    "wikipedia_url": "",
-	    "reference_list": [],
-	    "success_case_list": []
-		}]
-	}
+		"category_list": ["Service Lifecycle Automation"],
+		"similar_solution_list": [{
+			"title": "Dynatrace",
+			"similar_solution_url": "https://www.dynatrace.com/",
+			"category": "Service Lifecycle Automation"
+		}, {
+			"title": "SlapOS",
+			"similar_solution_url": "https://slapos.nexedi.com",
+			"category": "Service Lifecycle Automation"
+		}],
+	    	"licence_list": [],
+	    	"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.ateme.com/support-services/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Ateme",
+		"reference_list": [],
+		"success_case_list": []
+	}]
+}
