@@ -25,21 +25,29 @@
 		"source_url": "https://www.verif.com/bilans-gratuits/AMARISOFT-753998269/"
 	}],
 	"solution_list": [{
-		"title": "Amari callbox series (mini, classic, advanced, ultimate)",
-		"logo_url": "",
+		"title": "Amarisoft Callbox Series",
+		"logo_url": "https://www.amarisoft.com/app/uploads/2019/01/logo_amarisoft_white.png",
 		"website_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
 		"created_year": "",
 		"description": "AMARI Callbox is the ideal solution for testing 5G NSA and SA, LTE, LTE-M and NB-IoT devices.  It acts as a 3GPP compliant eNB/gNB and EPC/5GC allowing functional and performance testing. ",
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
+			"title": "STL",
+			"similar_solution_url":"https://www.stl.tech/",
+			"category": "vRan"
+		}, {
+			"title": "Cablefree",
+			"similar_solution_url":"https://www.cablefree.net/",
+			"category": "vRan"
+		}, {
 			"title": "Nutaq PicoLTE",
 			"similar_solution_url":"https://nutaq.com/fr/",
 			"category": "vRan"
-			}, {
+		}, {
 			"title": "Valid8 UE emulator",
       			"similar_solution_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
 			"category": "vRan"
-			}],
+		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -52,63 +60,63 @@
 			"title": "AW2S",
       			"logo_url": "https://www.aw2s.com/images/AW2S/logo-white.png",
       			"country": "FR",
-     			"industry": "Aviation and Aerospace"
-    			},{
+     			"industry": "Telecommunication"
+		},{
 			"title": "Envinex",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/LOGO-Envinex.png",
 			"country": "CN",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "Geeflex",
 			"logo_url": "https://www.geeflex.com/images/geeflex_logo.jpg",
 			"country": "CN",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "Weiron",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/06/weiron_500.jpg",
 			"country": "CN",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "Paralink",
 			"logo_url": "http://www.paralink.com.tw/upload/2016/10/13/1476351239.jpg",
 			"country": "CN",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "2Test",
 			"logo-url": "https://www.amarisoft.com/app/uploads/2019/02/2TEST_logo_internet.png",
 			"country": "RU",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Air-lynx",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/AirLynx.png",
 			"country": "FR",
-			"industry": "Manufacturing"
-			},{
+			"industry": "Telecommmunication"
+		},{
 			"title": "Expway",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/Expway-Black_Transparent-Background.png",
 			"country": "FR",
-			"industry": "Information Technology"
-			},{
+			"industry": "Telecommunication"
+		},{
 			"title": "valid8.com",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/valid8logo.png",
 			"country": "US",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "testforce",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2021/04/L_Testforce.png",
 			"country": "IE",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "NOFFZ",
 			"logo_url": "https://noffz.com/wp-content/uploads/2015/07/noffz-logo-275x60.png",
 			"country": "DE",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "Artiza",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2022/03/Artiza_logo_color-002.png",
 			"country": "JP",
 			"industry": "Telecommunication"
-			}],
+		}],
 		"success_case_list": [{
 			"title": "Casa Systems, Inc. uses our AMARI LTE Callbox Pro to testFixed Wireless products",
       			"description": "The Amarisoft LTE network software and SDR cards have provided a flexible environment for testing multiple LTE devices, eg. simulating multiple LTE cells, MIMO and carrier aggregation testing, Voice over LTE, Cat M1/NB1, etc. The software’s text configuration files can be easily customised, the LTE protocol logs are helpful for debugging, and its extensive Remote API is a good option for automation. Most importantly, Amarisoft have been quick to provide solutions whenever we have encountered a setup issue or software bug.",
@@ -125,10 +133,10 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "https://www.amarisoft.com/about-us/customers/"
-			}]
-		},{
-    		"title": "Amari UE Simbox/UE Simbox E",
-		"logo_url": "",
+		}]
+	}, {
+    		"title": "Amari UE Simbox Series",
+		"logo_url": "https://www.amarisoft.com/app/uploads/2019/01/logo_amarisoft_white.png",
 		"website_url": "https://www.amarisoft.com/products/test-measurements/amari-ue-simbox/",
 		"created_year": "",
 		"description": "AMARI UE Simbox is an ideal solution to support functional and performance testing of LTE eNodeB, 5G NR gNodeB in NSA or SA mode as well as LTE and 5G core networks. The major enhancement for AMARI Simbox E Series compared to AMARI UE Simbox Series is the support of 100 MHz cells.",
@@ -137,11 +145,11 @@
 			"title": "ABot",
 			"similar_solution_url":"https://www.rebaca.com/telecom/solutions#",
 			"category": "Networking"
-			},{
+		},{
 			"title": "dsTest",
       			"similar_solution_url":"https://www.developingsolutions.com/products/about-dstest/",
 			"category": "Networking"
-			}],
+		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -155,280 +163,62 @@
       			"logo_url": "https://www.aw2s.com/images/AW2S/logo-white.png",
       			"country": "FR",
      			"industry": "Information Technology"
-    			},{
+		},{
 			"title": "Envinex",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/LOGO-Envinex.png",
 			"country": "CN",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Geeflex",
 			"logo_url": "https://www.geeflex.com/images/geeflex_logo.jpg",
 			"country": "CN",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Weiron",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/06/weiron_500.jpg",
 			"country": "CN",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Paralink",
 			"logo_url": "http://www.paralink.com.tw/upload/2016/10/13/1476351239.jpg",
 			"country": "CN",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "2Test",
 			"logo-url": "https://www.amarisoft.com/app/uploads/2019/02/2TEST_logo_internet.png",
 			"country": "RU",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Air-lynx",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/AirLynx.png",
 			"country": "FR",
 			"industry": "Manufacturing"
-			},{
+		},{
 			"title": "Expway",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/Expway-Black_Transparent-Background.png",
 			"country": "FR",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "valid8.com",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/valid8logo.png",
 			"country": "US",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "testforce",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2021/04/L_Testforce.png",
 			"country": "IE",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "NOFFZ",
 			"logo_url": "https://noffz.com/wp-content/uploads/2015/07/noffz-logo-275x60.png",
 			"country": "DE",
 			"industry": "Telecommunication"
-			},{
+		},{
 			"title": "Artiza",
 			"logo_url": "https://www.amarisoft.com/app/uploads/2022/03/Artiza_logo_color-002.png",
 			"country": "JP",
 			"industry": "Telecommunication"
-			}] ,
+		}] ,
 		"success_case_list": []
-  		},{
-    		"title": "Small Cell",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/network-deployment/",
-		"created_year": "",
-		"description": "An Amarisoft based 4G, NB-IoT or 5G small cell is simply a Radio Front End added to a mother board running our software! Get advanced features and unmatched number of scheduled UEs on a compact form factor",
-		"category_list": ["vRan"],
-		"similar_solution_list": [{
-			"title": "Indoor Small cell 5G network AIR 1279",
-			"similar_solution_url":"https://www.ericsson.com/en/small-cells/indoor-coverage",
-			"category": "vRan"
-			}, {
-			"title": "Garuda",
-      			"similar_solution_url":"https://www.stl.tech/pdf/Garuda-Brochure.pdf",
-			"category": "vRan"
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Small_cell",
-		"reference_list": [],
-		"success_case_list": []
-   		},{
-    		"title": "Macro Cell",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/network-deployment/",
-		"created_year": "",
-		"description": "Cost effective, multi-sector and carrier grade Base Band Unit (BBU) and Remote Radio Head (RRH) supporting TDD and FDD, achieving 400 Mbps per Sector thanks to MIMO4x4 technology and 256QAM modulation.",
-		"category_list": ["vRan"],
-		"similar_solution_list": [{
-			"title": "Macrocell solutions",
-			"similar_solution_url":"https://www.tessco.com/commercial/solutions/macrocell-solutions",
-			"category": "vRan"
-			}, {
-			"title": "Macrocell sites",
-     			"similar_solution_url":"https://www.commscope.com/solutions/5g-mobile/macro-cell-sites/",
-			"category": "vRan"
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Macrocell",
-		"reference_list": [],
-		"success_case_list": [] 
-   	   	},{
-    		"title": "LTE access point",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/network-deployment/",
-		"created_year": "",
-		"description": "Amarisoft based Base Station can also run a local compact EPC and 5G Core. Deploying in a few minutes a node acting as an LTE or 5G access point.",
-		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "LTE/5G products",
-			"similar_solution_url":"https://mikrotik.com/products/group/lte-5g-products",
-			"category": "Networking"
-          		},{
-      			"title": "LTE",
-    	  		"similar_solution_url": "https://www.anritsu.com/en-gb/test-measurement/technologies/lte",
-			"category": "Networking"
-			}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Routeur_4G/LTE",
-		"reference_list": [],
-		"success_case_list": []   
-  	 	 },{
-   		"title": "Private Network",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/network-deployment/",
-		"created_year": "",
-		"description": "Partner’s private networks can fit Entreprise and Mission Critical requirement with the agility of software based solution.",
-		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "Private Networks",
-			"similar_solution_url":"https://www.scaleway.com/en/private-networks/",
-			"category": "Networking"
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Private_network#:~:text=In%20Internet%20networking%2C%20a%20private,define%20private%20IP%20address%20ranges.",
-		"reference_list": [],
-		"success_case_list": [] 
-	  	},{
-    		"title": "DAS",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/network-deployment/",
-		"created_year": "",
-		"description": "Adding a multi carrier eNodeB or gNodeB to a DAS system allows a simple S1 or N2 connection to the core network",
-		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "ION-U",
-			"similar_solution_url":"https://www.commscope.com/product-type/in-building-cellular-systems/distributed-antenna-systems-das/ion-u/",
-			"category": "Networking"
-			}, {
-			"title": "idDAS",
-      			"similar_solution_url":"https://axellwireless.com/product/iddas/",
-			"category": "Networking"
-    			}, {
-      			"title": "DAS",
-      			"similar_solution_url": "https://www.bouyguestelecom-entreprises.fr/telephonie-mobile/couverture-reseau-indoor/das",
-      			"category": "Networking"
-			}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-  		},{
-    		"title": "vRAN",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/network-deployment/",
-		"created_year": "",
-		"description": "Our expertise on RAN software allows us to provide one of the most advanced 4G and 5G vRAN solution in the industry",
-		"category_list": ["Networking"],
-		"similar_solution_list": [{
-			"title": "Open vRAN",
-			"similar_solution_url":"https://blogs.cisco.com/sp/open-vran-collaboration-to-accelerate-solution-deployments",
-			"category": "Networking"
-			}, {
-			"title": "vRAN",
-      			"similar_solution_url":"https://www.fujitsu.com/global/about/resources/news/press-releases/2022/0224-01.html#footnote1",
-			"category": "Networking"
-		}],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Radio_access_network",
-		"reference_list": [],
-		"success_case_list": []
-		},{
-		"title": "AMARI NW Series",
-		"logo_url": "",
-		"website_url": "https://www.amarisoft.com/products/custom-projects/",
-		"created_year": "",
-		"description": "Amarisoft LTE and NR network software suit is a unique full software LTE and NR solution capable to operate as a standalone system or as an integrated component in a larger network deployment. It includes eNodeB, gNodeB in SA or NSA mode, 5G Core, EPC, eMBMS gateway and IMS server running on generic x86 hardware, natively ready for virtualized environments. ",
-		"category_list": ["Networking"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "AW2S",
-      			"logo_url": "https://www.aw2s.com/images/AW2S/logo-white.png",
-      			"country": "FR",
-     			"industry": "Telecommunication"
-    			},{
-			"title": "WeGoes",
-      			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/wegoes_03.jpg",
-      			"country": "KR",
-     			"industry": "Energy and Utilities"
-			},{
-			"title": "SST Corporation",
-      			"logo_url": "https://www.amarisoft.com/app/uploads/2019/04/SST-CI%E8%8B%B1%E6%96%87%E3%82%BF%E3%83%86.jpg",
-      			"country": "JP",
-     			"industry": "Commerce and Retail"
-			},{
-			"title": "fairwaves",
-      			"logo_url": "https://fairwaves.co/app/uploads/2015/03/logo.png",
-      			"country": "GB",
-     			"industry": "Telecommunication"
-			},{
-			"title": "Ettus Research",
-      			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/Ettus_LOGO-final-collateral-1.png",
-      			"country": "US",
-     			"industry": "Telecommunication"
-			},{
-			"title": "Lime mycrosystems",
-      			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/lms.png",
-      			"country": "GB",
-     			"industry": "Energy and Utilities"
-			},{
-			"title": "Neutral Wireless",
-      			"logo_url": "https://www.amarisoft.com/app/uploads/2019/02/lms.png",
-      			"country": "GB",
-     			"industry": "Telecommunication"
-			}],
-		"success_case_list": [{
-			"title": "AW2S uses AMARI LTE 100 to build Macro and Small cells",
-      			"description": "AW2S integrates Amarisoft software to build a ready-to-deploy LTE and 5G macro base stations and small cells. We are delighted to associate our RRH to an Amarisoft BBU to provide carrier grade products which cover operator deployment, fixed wireless, network densification and private network markets. This technology offers a very flexible solution and makes easy new feature implementation and upgrades after initial deployment.  While for private network we use the compact Amarisoft EPC, we rely on third party EPC for bigger deployment, the S1 integration is really straight forward.",
-      			"image_url": "https://www.aw2s.com/images/AW2S/logo-white.png",
-      			"industry": "Telecommunication",
-      			"customer": "AW2S",
-      			"country": "FR",
-      			"language": "fr",
-      			"success_case_url": "https://www.amarisoft.com/about-us/customers/"
-    }]
-  }]
+	}]
 }
