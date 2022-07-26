@@ -40,6 +40,10 @@
 			"title": "Xorp",
 			"similar_solution_url": "http://xorp.com/",
 			"category": "Networking"
+		},{
+			"title": "Babel",
+			"similar_solution_url": "https://www.irif.fr/~jch/software/babel/",
+			"category": "Networking"
 		}],
 		"licence_list": ["GPL"],
 		"source_code_download": "https://github.com/CZ-NIC/bird",
