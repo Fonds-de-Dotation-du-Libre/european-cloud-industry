@@ -16,12 +16,40 @@
   "subsidiary_location_list": [],
   "website_url": "https://www.bunnyshell.com/",
   "founded_year": 2018,
-  "kpi_list": [],
+  "kpi_list": [{
+		"year": 2021,
+		"staff": "13",
+		"earnings": "-596 554 EUR",
+		"total_assets": "70 148 EUR",
+		"revenues": "341 688 EUR",
+		"source_url": "https://www.romanian-companies.eu/bunnyshell-srl-39062815/"
+	},{
+		"year": 2020,
+		"staff": "9",
+		"earnings": "-206 970 EUR",
+		"total_assets": "243 513 EUR",
+		"revenues": "231 097 EUR",
+		"source_url": "https://www.romanian-companies.eu/bunnyshell-srl-39062815/"
+	},{
+		"year": 2019,
+		"staff": "12",
+		"earnings": "-17 787 EUR",
+		"total_assets": "634 161 EUR",
+		"revenues": "194 446 EUR",
+		"source_url": "https://www.romanian-companies.eu/bunnyshell-srl-39062815/"
+	},{
+		"year": 2018,
+		"staff": "4",
+		"earnings": "-42 038 EUR",
+		"total_assets": "49 806 EUR",
+		"revenues": "28 571 EUR",
+		"source_url": "https://www.romanian-companies.eu/bunnyshell-srl-39062815/"
+	}],
   "solution_list": [{
     "title": "Bunnyshell",
     "logo_url": "https://www.bunnyshell.com/images/bunnyshell_logo.svg",
     "website_url": "https://www.bunnyshell.com/",
-    "created_year": "",
+    "created_year": "2018",
     "description": "Bunnyshell is an Environments as a Service platform that makes it incredibly easy to create and manage full-stack environments for development, staging and production so your team can deliver software faster and focus on building great products. ",
     "category_list": ["Developer environment"],
     "similar_solution_list": [{
@@ -29,19 +57,58 @@
       "similar_solution_url": "https://www.cloudways.com/en/",
       "category": "Developer environment"
     },{
-      "title": "Amazon CloudWatch",
-      "similar_solution_url": "https://aws.amazon.com/fr/cloudwatch/",
+      "title": "Heroku",
+      "similar_solution_url": "https://www.heroku.com/",
+      "category": "Developer environment"
+    },{
+      "title": "Digital Ocean App Platform",
+      "similar_solution_url": "https://try.digitalocean.com/app-platform/",
+      "category": "Developer environment"
+    },{
+      "title": "Engine Yard",
+      "similar_solution_url": "https://www.engineyard.com/",
+      "category": "Developer environment"
+    },{
+      "title": "Google Firebase",
+      "similar_solution_url": "https://firebase.google.com/",
+      "category": "Developer environment"
+    },{
+      "title": "Google App Engine",
+      "similar_solution_url": "https://cloud.google.com/appengine",
+      "category": "Developer environment"
+    },{
+      "title": "Amazon Elastic Beanstalk",
+      "similar_solution_url": "https://aws.amazon.com/de/elasticbeanstalk/",
+      "category": "Developer environment"
+    },{
+      "title": "Scalingo",
+      "similar_solution_url": "https://scalingo.com/",
       "category": "Developer environment"
     }],
-    "licence_list": ["Proprietary"],
-    "source_code_download": "https://github.com/bunnyshell/qa-assignment.git",
+    "licence_list": [],
+    "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.bunnyshell.com/pricing/",
     "floss_software": false,
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [],
+    "reference_list": [{
+			"title": "GoMag",
+			"logo_url": "https://www.bunnyshell.com/images/icons/company-logos/gomag_logo_white.svg",
+			"country": "RO",
+			"industry": "Commerce and Retail"
+		}, {
+			"title": "Kinderpedia",
+			"logo_url": "https://www.bunnyshell.com/images/icons/company-logos/kinderpedia_logo_white.svg",
+			"country": "RO",
+			"industry": "Information Technology"
+		}, {
+			"title": "Best Value",
+			"logo_url": "https://www.bunnyshell.com/images/icons/company-logos/best_value_logo_white.svg",
+			"country": "RO",
+			"industry": "Commerce and Retail"
+    }],
     "success_case_list": []
  }]
 }
