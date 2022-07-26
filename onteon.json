@@ -1,5 +1,5 @@
 {
-  "created": "2022-07-26 ",
+  "created": "2022-07-26",
   "title": "ONTEON TECH SP. Z O.O.",
   "type": "Organisation",
   "logo_url": "https://onteon.com/wp-content/uploads/2021/05/Onteon-logo.svg",
@@ -29,7 +29,7 @@
       "similar_solution_url": "https://aws.amazon.com/fr/",
       "category": "Application"
     }],
-    "licence_list": ["Proprietary],
+    "licence_list": ["Proprietary"],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",
