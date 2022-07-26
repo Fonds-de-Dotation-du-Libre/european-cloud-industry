@@ -4,14 +4,14 @@
   "type": "Organisation",
   "logo_url": "https://baserow.io/_nuxt/img/logo.1421f77.svg",
   "location": {
-    "title": "Baserow",
-    "address": "",
-    "postal_code": "",
-    "city": "Amsterdam",
+    "title": "Baserow B.V.",
+    "address": "Koning Davidstraat 93",
+    "postal_code": "1502 DM",
+    "city": "Zaandam",
     "country": "NL",
     "phone_contact": "",
-    "mail_contact": "bram@baserow.io.",
-    "coordinate_list": [52.36743430655752, 4.90155583321372]
+    "mail_contact": "bram@baserow.io",
+    "coordinate_list": [52.45292512773457, 4.822188637436801]
   },
   "subsidiary_location_list": [],
   "website_url": "https://baserow.io/",
@@ -23,26 +23,34 @@
     "website_url": "https://baserow.io/",
     "created_year": 2019,
     "description": "Baserow is an open-source online database tool. The interface is a spreadsheet so users can create a database without any technical experience. This no-code platform allows fast and easy creation of databeses and also make it simple to create plugins without leaving your browser or having technical knowledge.",
-    "category_list": ["Storage and database"],
+    "category_list": ["Application"],
     "similar_solution_list": [{
        "title": "Airtable",
       "similar_solution_url": "https://www.airtable.com/",
-      "category": "Storage and database"
-    },{
-       "title": "NocoDB",
-      "similar_solution_url": "https://nocodb.com/",
-      "category": "Storage and database"
-    },{
-       "title": "Avocode",
-      "similar_solution_url": "https://avocode.com/",
-      "category": "Storage and database"
-    },{
-       "title": "Assembla",
-      "similar_solution_url": "https://www.assembla.com/home",
-      "category": "Storage and database"
+      "category": "Application"
+    }, {
+       "title": "Basecamp",
+      "similar_solution_url": "https://basecamp.com/",
+      "category": "Application"
+    }, {
+       "title": "Jira",
+      "similar_solution_url": "https://www.atlassian.com/software/jira",
+      "category": "Application"
+    }, {
+       "title": "Asana",
+      "similar_solution_url": "https://asana.com/",
+      "category": "Application"
+    }, {
+       "title": "Trello",
+      "similar_solution_url": "https://trello.com/",
+      "category": "Application"
+    }, {
+       "title": "Wrike",
+      "similar_solution_url": "https://wrike.com",
+      "category": "Application"
     }],
     "licence_list": ["MIT"],
-    "source_code_download": "https://gitlab.com/bramw/baserow",
+    "source_code_download": "https://baserow.io/docs/index",
     "source_code_profile": "",
     "commercial_support_url": "https://github.com/sponsors/bram2w",
     "floss_software": true,
