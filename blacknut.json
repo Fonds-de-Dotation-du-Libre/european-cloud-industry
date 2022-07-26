@@ -25,26 +25,47 @@
     "source_url": "https://www.verif.com/"
   }],
   "solution_list": [{
-    "title": "Blacknut",
+    "title": "Blacknut Cloud Gaming Service",
     "logo_url": "https://images.blacknut.com/website/brand/horizontal-logotype.png",
-    "website_url": "https://www.blacknut.com/fr/deeplink/welcome",
+    "website_url": "https://www.blacknut.biz/telecom-carrier-service-providers",
     "created_year": 2016,
     "description": " Blacknut is the world's leading pure player cloud gaming service, with a hybrid public-private cloud architecture, that has Blacknut Wikipédiathe largest catalogue of premium games for the whole family, all included in a monthly subscription.",
-    "category_list": ["Application"],
+    "category_list": ["Desktop virtualisation"],
     "similar_solution_list": [{
       "title": "Stadia",
       "similar_solution_url": "https://stadia.google.com/",
-      "category": "Application"
+      "category": "Desktop virtualisation"
+    },{
+      "title": "Hiberworld",
+      "similar_solution_url": "https://hiberworld.com/",
+      "category": "Desktop virtualisation"
+    },{
+      "title": "Twitch",
+      "similar_solution_url": "https://www.twitch.tv/",
+      "category": "Desktop virtualisation"
+    },{
+      "title": "Winzogames",
+      "similar_solution_url": "https://www.winzogames.com/",
+      "category": "Desktop virtualisation"
+    },{
+      "title": "Douyu",
+      "similar_solution_url": "https://www.douyu.com/",
+      "category": "Desktop virtualisation"
     }],
-    "licence_list": ["Proprietary"],
+    "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
-    "commercial_support_url": "https://profile.blacknut.com/fr/register",
+    "commercial_support_url": "",
     "floss_software": false,
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
     "wikipedia_url": "",
-    "reference_list": [],
+    "reference_list": [{
+			"title": "Post Luxembourg",
+			"logo_url": "https://images.blacknut.com/website/logo-partners/post.svg",
+			"country": "LU",
+			"industry": "XXX"
+		}],
     "success_case_list": []
   }]
 }
