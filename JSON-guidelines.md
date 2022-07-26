@@ -81,11 +81,12 @@ For license types: use "licence keywords" from Github: https://docs.github.com/e
 
 List of validated sources for financial data:
 
-* verif.com (FR); 
-* societe.com (FR);
-* bundesanzeiger.de '(DE);
-* https://infocamere.it/ (IT)
-* find-and-update.company-information.service.gov.uk (GB).
+* [https://www.verif.com/](verif.com) (FR); 
+* [https://www.societe.com/](societe.com) (FR);
+* [https://www.infogreffe.fr/](infogreffe.fr) (FR-official)
+* [https://www.bundesanzeiger.de/](bundesanzeiger.de) (DE-official);
+* [https://infocamere.it/](italianbusinessregister.it) (IT);
+* [https://find-and-update.company-information.service.gov.uk/](find-and-update.company-information.service.gov.uk) (UK).
 
 Possible solution_category 
 
