@@ -1,13 +1,13 @@
 {
   "created": "2022-05-02",
   "title": "Beremiz",
-  "type": "Other",
+  "type": "Organisation",
   "logo_url": "https://beremiz.org/home_logo.png",
   "location": {
-    "title": "Beremiz",
-    "address": "13 RUE DU LAVOIR",
+    "title": "Beremiz SASU",
+    "address": "13 Rue du Lavoir",
     "postal_code": "66500",
-    "city": "RIA SIRACH",
+    "city": "Ria Sirach",
     "country": "FR",
     "phone_contact": "",
     "mail_contact": "",
@@ -25,17 +25,33 @@
     "description": "Beremiz is an integrated development environment for machine automation. It is Free Software, conforming to IEC-61131 among other standards. It relies on open standards to be independent of the targeted device, and let you turn any processor into a PLC. Beremiz includes tools to create HMI, and to connect your PLC programs to existing supervisions, databases, or fieldbuses.",
     "category_list": ["Developer environment"],
     "similar_solution_list": [{
-      "title": "Xul Dev",
-      "similar_solution_url": "http://xuldev.sourceforge.net/",
+      "title": "Codesys",
+      "similar_solution_url": "https://www.codesys.com/",
+      "category": "Developer environment"
+    }, {
+      "title": "ProviewR",
+      "similar_solution_url": "https://www.proview.se/",
+      "category": "Developer environment"
+    }, {
+      "title": "Siemens Simatic WinCC",
+      "similar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html ",
+      "category": "Developer environment"
+    }, {
+      "title": "GE Cimplicity",
+      "similar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+      "category": "Developer environment"
+    }, {
+      "title": "InduSoft WebStudio",
+      "similar_solution_url": "https://on.factorysoftware.fr/indusoft-web-studio-devient-aveva-edge",
       "category": "Developer environment"
     }],
-    "licence_list": [" GPL v2.0"],
+    "licence_list": ["GPL v2.0"],
     "source_code_download": "https://beremiz.org/download",
     "source_code_profile": "https://www.openhub.net/p/beremiz/analyses/latest/languages_summary",
-    "commercial_support_url": "",
+    "commercial_support_url": "https://beremiz.org/support/",
     "floss_software": true,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": false,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
