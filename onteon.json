@@ -1,0 +1,43 @@
+{
+  "created": "2022-07-26 ",
+  "title": "ONTEON TECH SP. Z O.O.",
+  "type": "Organisation",
+  "logo_url": "https://onteon.com/wp-content/uploads/2021/05/Onteon-logo.svg",
+  "location": {
+    "title": "ONTEON TECH SP. Z O.O.",
+    "address": "Plac na Groblach 21",
+    "postal_code": "31-101",
+    "city": "Krakow",
+    "country": "PL",
+    "phone_contact": "+48 604 178 300",
+    "mail_contact": "contact@onteon.com",
+    "coordinate_list": [50.05566434711565, 19.93312541349454]
+  },
+  "subsidiary_location_list": ["US"],
+  "website_url": "https://onteon.com/company/",
+  "founded_year": 2015,
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Onteon",
+    "logo_url": "",
+    "website_url": "https://onteon.com/what-onteon-is/",
+    "created_year": "",
+    "description": "Onteon is a software stack to orchestrate, scale, communicate and manage modern applications and legacy ones in an efficient and effortless way",
+    "category_list": ["Application"],
+    "similar_solution_list": [{
+      "title": "AWS",
+      "similar_solution_url": "https://aws.amazon.com/fr/",
+      "category": "Application"
+    }],
+    "licence_list": ["Proprietary],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}
