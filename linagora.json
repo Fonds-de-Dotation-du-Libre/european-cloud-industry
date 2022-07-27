@@ -82,7 +82,7 @@
 				"description": "file sharing / Secure open source enterprise file sharing",
 				"category_list": ["Application"],
 				"similar_solution_list": [{
-					"title": "NextCloud",
+					"title": "Nextcloud",
 					"similar_solution_url": "https://nextcloud.com/",
 					"category": "Application"
 				}],
