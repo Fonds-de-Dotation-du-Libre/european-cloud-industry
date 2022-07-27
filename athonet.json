@@ -30,19 +30,19 @@
 		"website_url": "https://athonet.com/products/athonet-5g-sa/",
 		"created_year": "",
 		"description": "The Athonet 5G Core network is the evolution of the world’s most proven private mobile core network platform and is built on the proven track-record and field-deployment experience of our LTE mobile core. It allows the professional user to deploy the most advanced and sophisticated 5G networks with Wi-Fi-like simplicity while using any 5G-radio from any vendor. Key functionalities include the AMF, AUSF, UDM, SMF and UPF. It also supports advanced networking capabilities such as network slicing and voice services using VoNR.",
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "Amarisoft Callbox",
 		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}, {
 			"title": "Rapid.Space ORS",
 		      	"similar_solution_url": "https://www.rapid.space/products/ors",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}, {
 			"title": "Yates MiniCore",
 			"similar_solution_url": "https://yatebts.com/products/minicore/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
