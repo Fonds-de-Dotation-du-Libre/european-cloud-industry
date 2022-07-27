@@ -90,7 +90,8 @@
 		      "country": "BR",
 		      "language": "en",
 		      "success_case_url": "https://www.ateme.com/defining-brazils-standard-for-digital-television-tv3-0/"
-		}, {
+		}]
+	}, {
 		"title": "NEA CDN & Delivery Products",
 		"logo_url": "https://www.ateme.com/wp-content/uploads/2021/10/logo-ateme.png",
 		"website_url": "https://www.ateme.com/product-video-content-delivery/",
@@ -122,7 +123,7 @@
 			"similar_solution_url": "https://www.keycdn.com/",
 			"category": "Networking"
 		}, {
-			"title": StackPath",
+			"title": "StackPath",
 			"similar_solution_url": "https://www.stackpath.com/products/cdn/",
 			"category": "Networking"
 		}],
