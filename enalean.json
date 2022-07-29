@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-05",
-	"title": "Enalean SAS",
+	"title": "Enalean",
 	"type": "Organisation",
 	"logo_url": "https://www.enalean.com/assets/logo-enalean.47fe4ce8.svg",
 	"location": {
-		"title": "Enalean Siège Social",
+		"title": "Enalean SAS",
 		"address": "87 avenue de Chambéry",
 		"postal_code": "73230",
 		"city": "Saint-Alban-Leysse",
@@ -68,26 +68,26 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Github",
-			"similiar_solution_url": "https://github.com/",
+			"similar_solution_url": "https://github.com/",
 			"category": "Application"
 		}, {
 			"title": "GitLab",
-			"similiar_solution_url": "https://about.gitlab.com/",
+			"similar_solution_url": "https://about.gitlab.com/",
 			"category": "Application"
 		}, {
 			"title": "Gitea",
-			"similiar_solution_url": "https://gitea.com/",
+			"similar_solution_url": "https://gitea.com/",
 			"category": "Application"
 		}, {
 			"title": "Jira",
-			"similiar_solution_url": "https://www.atlassian.com/software/jira",
+			"similar_solution_url": "https://www.atlassian.com/software/jira",
 			"category": "Application"
 		}, {
 			"title": "Kanboard",
-			"similiar_solution_url": "https://kanboard.org/",
+			"similar_solution_url": "https://kanboard.org/",
 			"category": "Application"
 		}],
-		"licence_list": ["GPL v.2"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/Enalean/tuleap.git",
 		"source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.tuleap.org/fr/tarifs/sur-site",

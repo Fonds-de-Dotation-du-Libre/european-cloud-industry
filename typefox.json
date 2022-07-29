@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-05",
-	"title": "Typefox Gmbh",
+	"title": "Typefox",
 	"type": "Organisation",
 	"logo_url": "https://api.eclipse.org/adopters/assets/images/adopters/logo-typefox.png",
   "location": {
@@ -61,23 +61,23 @@
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Visual Studio Code",
-			"similiar_solution_url": "https://code.visualstudio.com/",
+			"similar_solution_url": "https://code.visualstudio.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "VSCodium",
-			"similiar_solution_url": "https://vscodium.com/",
+			"similar_solution_url": "https://vscodium.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "Dodicad",
-			"similiar_solution_url": "http://codiad.com/",
+			"similar_solution_url": "http://codiad.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "Atheos IDE",
-			"similiar_solution_url": "https://www.atheos.io/",
+			"similar_solution_url": "https://www.atheos.io/",
 			"category": "Developer environment"
 		}, {
 			"title": "Webrunner",
-			"similiar_solution_url": "https://webrunner.nexedi.com/",
+			"similar_solution_url": "https://webrunner.nexedi.com/",
 			"category": "Developer environment"
 		}],
 		"licence_list": ["Eclipse Public License 2.0 (EPL2)", "GNU General Public License, version 2 (GPLv2)", "classpath exception"],
@@ -199,30 +199,30 @@
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Atom",
-			"similiar_solution_url": "https://atom.io/",
+			"similar_solution_url": "https://atom.io/",
 			"category": "Developer environment"
 		}, {
 			"title": "Notepad ++",
-			"similiar_solution_url": "https://notepad-plus-plus.org/",
+			"similar_solution_url": "https://notepad-plus-plus.org/",
 			"category": "Developer environment"
 		}, {
 			"title": "SublimeText",
-			"similiar_solution_url": "https://www.sublimetext.com/",
+			"similar_solution_url": "https://www.sublimetext.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "VSCodium",
-			"similiar_solution_url": "https://vscodium.com/",
+			"similar_solution_url": "https://vscodium.com/",
 			"category": "Developer environment"
 		}, {
 			"title": "Vim",
-			"similiar_solution_url": "https://www.vim.org/",
+			"similar_solution_url": "https://www.vim.org/",
 			"category": "Developer environment"
 		}, {
 			"title": "IntellijIdea",
-			"similiar_solution_url": "https://www.jetbrains.com/idea/",
+			"similar_solution_url": "https://www.jetbrains.com/idea/",
 			"category": "Developer environment"
 		}],
-		"licence_list": ["MIT License", "Gitpod Self-Hosted Free Licensing Terms", "AGPL"],
+		"licence_list": ["MIT", "Gitpost Self-Hosted", "AGPL"],
 		"source_code_download": "https://github.com/gitpod-io/gitpod",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.gitpod.io/support",
@@ -267,7 +267,7 @@
 		"description": "Eclipse Xtext is a framework for development of programming languages and domain specific languages. It covers all aspects of a complete language infrastructure, from parsers, over linker, compiler or interpreter to fully-blown top-notch IDE integration for Eclipse and Web-based IDEs. Further, languages developed with Xtext can be integrated into editors supporting the Language Server Protocol (e.g. VS Code, Eclipse Che). Xtext comes with great defaults for all these aspects, which at the same time can be easily tailored to your individual needs.",
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
-		"licence_list": ["Eclipse Public License 2.0"],
+		"licence_list": ["EPL v2.0"],
 		"source_code_download": "https://github.com/eclipse/xtext",
 		"source_code_profile": "https://www.openhub.net/p/xtext/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.typefox.io/language-engineering/",
@@ -285,7 +285,7 @@
 		"description": "Langium is an open source language engineering tool with first-class support for the Language Server Protocol, written in TypeScript and running in Node.js. This future-proof technology stack enables domain-specific languages in VS Code, Eclipse Theia, web applications, and more.",
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
-		"licence_list": ["MIT License"],
+		"licence_list": ["MIT"],
 		"source_code_download": "https://github.com/langium/langium",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.typefox.io/language-engineering/",
@@ -303,7 +303,7 @@
 		"description": "Eclipse Sprotty™ is a next-generation, open-source, web-based diagramming framework. Instead of using a cross-compiler or an existing framework, we decided to start from scratch with web technologies: The client is implemented in TypeScript, SVG is used for rendering, and CSS for styling. We also use a unidirectional event-cycle with a virtual DOM as opposed to the traditional model-view-controller pattern to better fit the demands of web applications.",
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
-		"licence_list": ["EPL-v2 license"],
+		"licence_list": ["EPL v2.0"],
 		"source_code_download": "https://github.com/eclipse/sprotty",
 		"source_code_profile": "",
 		"commercial_support_url": "",

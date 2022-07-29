@@ -1,6 +1,6 @@
 {
   "created": "2020-03-30",
-  "title": "InnoRoute GmbH ",
+  "title": "InnoRoute",
   "type": "Organisation",
   "logo_url": "https://innoroute.com/wp-content/uploads/2017/06/Logo_sizedforWebsite.png",
   "location": {
@@ -57,7 +57,7 @@
     "description": "The new Real-Time HAT by InnoRoute adds IEEE1588 PTP support in hardware to a Raspberry Pi 4 nestled beneath. Based around a Xilinx Artix-7 FPGA and a handful of gigabit Ethernet PHY devices, the HAT acts as network-passthrough, adding accurate time-stamps to egress (outgoing) packets and stripping time-stamps from the ingress (incoming) side.",
     "category_list": ["Networking"],
     "similar_solution_list": [],
-    "licence_list": [" GPL-3.0 License"],
+    "licence_list": ["GPL v3.0"],
     "source_code_download": "https://github.com/InnoRoute/RealtimeHAT",
     "source_code_profile": "",
     "commercial_support_url": "https://innoroute.com/contact-us/",

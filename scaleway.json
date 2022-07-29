@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-28",
-	"title": "SCALEWAY SAS",
+	"title": "Scaleway",
 	"type": "Organisation",
 	"logo_url": "https://images-www.scaleway.com/wp-content/uploads/2019/12/12084637/Logo-Scaleway-Elements.svg",
 	"location": {
-		"title": "SCALEWAY SAS",
+		"title": "Scaleway SAS",
 		"address": "8 rue de la Ville l’Evêque",
 		"postal_code": "75008",
 		"city": "Paris",

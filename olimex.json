@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-04",
-	"title": "Olimex Ltd",
+	"title": "Olimex",
 	"type": "Organisation",
 	"logo_url": "https://www.olimex.com/_layout/images/logo.png",
 	"location": {
@@ -33,11 +33,11 @@
 		"category_list": ["Server"],
 		"similar_solution_list": [{
 			"title": "Raspberry Pi",
-			"similiar_solution_url": "https://www.raspberrypi.org/",
+			"similar_solution_url": "https://www.raspberrypi.org/",
 			"category": "Server"
 		}, {
 			"title": "Orange Pi",
-			"similiar_solution_url": "http://www.orangepi.org/",
+			"similar_solution_url": "http://www.orangepi.org/",
 			"category": "Server"
 		}],
 		"licence_list": ["GPL"],

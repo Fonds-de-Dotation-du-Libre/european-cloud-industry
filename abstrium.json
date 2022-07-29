@@ -1,0 +1,158 @@
+{
+	"created": "2022-04-07",
+	"title": "Abstrium",
+	"type": "Organisation",
+	"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+	"location": {
+		"title": "Abstrium SAS",
+		"address": "40 Rue Alexandre Dumas",
+		"postal_code": "75011",
+		"city": "Paris",
+		"country": "FR",
+		"phone_contact": "+33 1 76361075",
+		"mail_contact": "",
+		"coordinate_list": [48.85373396743177, 2.3932859980339547]
+	},
+	"subsidiary_location_list": ["US"],
+	"website_url": "https://pydio.com/en",
+	"founded_year": 2012,
+	"kpi_list": [{
+		"year": 2020,
+		"staff": "",
+		"earnings": "-53 331 EUR",
+		"total_assets": "607 848 EUR",
+		"revenues": "583 636 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2019,
+		"staff": "",
+		"earnings": "-8 156  EUR",
+		"total_assets": "559 186 EUR",
+		"revenues": "626 408 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2018,
+		"staff": 6,
+		"earnings": "42 918  EUR",
+		"total_assets": "619 684 EUR",
+		"revenues": "613 173 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2017,
+		"staff": 6,
+		"earnings": "-36 400  EUR",
+		"total_assets": "629 050 EUR",
+		"revenues": "560 394 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	},{
+		"year": 2015,
+		"staff": "",
+		"earnings": "- 143 855 EUR",
+		"total_assets": "911 054 EUR",
+		"revenues": "315 894 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ABSTRIUM-752256966/"
+	}],
+	"solution_list": [{
+		"title": "Pydio Cells",
+		"logo_url": "https://pydio.com/sites/default/files/import/user/PydioLogo250.png",
+		"website_url": "https://pydio.com/",
+		"created_year": "2007",
+		"description": "Pydio Cells, previously known as just Pydio and formerly known as AjaXplorer, is an open-source file-sharing and synchronisation software that runs on the user's own server[2] or in the cloud.",
+		"category_list": ["Storage and database"],
+		"similar_solution_list": [{
+			"title": "EUbackups",
+			"similar_solution_url": "https://eubackups.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Nextcloud",
+			"similar_solution_url": "https://nextcloud.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Dropbox",
+			"similar_solution_url": "https://www.dropbox.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "pCloud",
+			"similar_solution_url": "https://www.pcloud.com/fr/eu?ref=8097",
+			"category": "Storage and database"
+		},{
+			"title": "Tresorit",
+			"similar_solution_url": "https://tresorit.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Google Workspace",
+			"similar_solution_url": "https://workspace.google.com/b",
+			"category": "Storage and database"
+		}],
+		"licence_list": ["AGPL v3.0"],
+		"source_code_download": "https://pydio.com/en/download",
+		"source_code_profile": "https://www.openhub.net/p/pydio/analyses/latest/languages_summary",
+		"commercial_support_url": "https://pydio.com/en/pricing/contact",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Pydio",
+		"reference_list": [{
+			"title": "Orange",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-1.png",
+			"country": "FR",
+			"industry": "Telecommunication"
+		},{
+			"title": "PaysafeCard",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-1.png",
+			"country": "AT",
+			"industry": "Banking and Finance"
+		},{
+			"title": "Volvo",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-2.png",
+			"country": "SE",
+			"industry": "Automotive"
+		},{
+			"title": "US Air Force",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-3.png",
+			"country": "US",
+			"industry": "Defense"
+		},{
+			"title": "FI Group",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-3.png",
+			"country": "UK",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Fujitsu",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-3.png",
+			"country": "JP",
+			"industry": "Manufacturing"
+		},{
+			"title": "Ademe",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-2.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Darva",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-2.png",
+			"country": "FR",
+			"industry": "Insurance"
+		},{
+			"title": "Nikon",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-2.png",
+			"country": "JP",
+			"industry": "Manufacturing"
+		},{
+			"title": "Megéve",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-3.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "IPG",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-1.png",
+			"country": "US",
+			"industry": "Consulting and Training"
+		},{
+			"title": "CA",
+			"logo_url": "https://pydio.com/sites/default/files/styles/tinypng_optimisation/public/section/logos-1.png",
+			"country": "FR",
+			"industry": "Banking and Finance"
+		}],
+		"success_case_list": []	
+	}]
+}

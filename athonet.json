@@ -1,0 +1,268 @@
+{
+	"created": "2022-04-04",
+	"title": "Athonet",
+	"type": "Organisation",
+	"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg",
+	"location": {
+		"title": "Athonet S.R.L.",
+		"address": "Via Padriciano 99",
+		"postal_code": "34149",
+		"city": "Trieste",
+		"country": "IT",
+		"phone_contact": "+39 0444 750045",
+		"mail_contact": "",
+		"coordinate_list": [45.657409376884274, 13.828707893254231]
+	},
+	"subsidiary_location_list": ["US", "FR", "UK"],
+	"website_url": "https://athonet.com/",
+	"founded_year": 2009,
+	"kpi_list": [{
+		"year": 2020,
+		"staff": "",
+		"earnings": " EUR",
+		"total_assets": " EUR",
+		"revenues": " EUR",
+		"source_url": "https://www.infocamere.it/"
+	}],
+	"solution_list": [{
+		"title": "Athonet 5G Core",
+		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg",
+		"website_url": "https://athonet.com/products/athonet-5g-sa/",
+		"created_year": "",
+		"description": "The Athonet 5G Core network is the evolution of the world’s most proven private mobile core network platform and is built on the proven track-record and field-deployment experience of our LTE mobile core. It allows the professional user to deploy the most advanced and sophisticated 5G networks with Wi-Fi-like simplicity while using any 5G-radio from any vendor. Key functionalities include the AMF, AUSF, UDM, SMF and UPF. It also supports advanced networking capabilities such as network slicing and voice services using VoNR.",
+		"category_list": ["vRan"],
+		"similar_solution_list": [{
+			"title": "Amarisoft Callbox",
+		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
+		      	"category": "vRan"
+	    	}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRan"
+	    	}, {
+			"title": "Yates MiniCore",
+			"similar_solution_url": "https://yatebts.com/products/minicore/",
+		      	"category": "vRan"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "ENEL",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/ENEL-300x180.png",
+      			"country": "IT",
+      			"industry": "Energy and Utilities"
+		}, {
+			"title": "ETIM",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/tim-300x180.png",
+      			"country": "IT",
+      			"industry": "Housing and Real Estate"
+		}, {
+			"title": "Windtre",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/wind-tre-300x180.png",
+      			"country": "IT",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Telenor",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/telenor-300x180.png",
+      			"country": "NO",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "JMA",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/jma-1-300x180.png",
+      			"country": "JP",
+      			"industry": "Manufacturing"
+		}, {
+			"title": "Freshwave",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/freshwave-300x180.png",
+      			"country": "UK",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Paris Airport",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/paris-aeroport-300x180.png",
+      			"country": "FR",
+      			"industry": "Transport"
+		}, {
+			"title": "Ministère d'Intérieur",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/ministe%CC%80re-de-linte%CC%80rieur-300x180.png",
+      			"country": "FR",
+      			"industry": "Public Administration and Government"
+		}, {
+			"title": "HubOne",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/hub-one-300x180.png",
+      			"country": "FR",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Marubun Corporation",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/marubun-300x180.png",
+      			"country": "JP",
+      			"industry": "Manufacturing"
+		}, {
+			"title": "EMS Business Solutions",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/electronic-media-services-1-300x180.png",
+      			"country": "IT",
+      			"industry": "Consulting and Training"
+		}, {
+			"title": "Orange",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/telia-300x180.png",
+      			"country": "FR",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Telekom",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/deutsche-telekom-300x180.png",
+      			"country": "DE",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Vilicom",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/vilicom-300x180.png",
+      			"country": "IR",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Bearcom",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/bearcom-300x180.png",
+      			"country": "US",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Axione",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/axione-300x180.png",
+      			"country": "FR",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "EDZCom",
+      			"logo_url": "https://athonet.com/app/uploads/2022/07/edzcom-300x180.png",
+      			"country": "FI",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Cellnex Telecom",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/cellnex-300x180.png",
+      			"country": "ES",
+      			"industry": "Telecommunication"
+		}, {
+			"title": "Pauley Construction",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/pauley-300x180.png",
+      			"country": "US",
+      			"industry": "Construction"
+		}, {
+			"title": "Orotezione Civile Italiana",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/protezione-civile-italiana-300x180.png",
+      			"country": "IT",
+      			"industry": "Public Administration and Government"
+		}, {
+			"title": "Area Science Park",
+      			"logo_url": "https://athonet.com/app/uploads/2022/04/area-science-park-300x180.png",
+      			"country": "IT",
+      			"industry": "Housing and Real Estate"
+		}, {
+			"title": "Camebridge Wireless",
+      			"logo_url": "https://athonet.com/app/uploads/2022/06/cambridge-wireless-300x173.png",
+      			"country": "UK",
+      			"industry": "Academia and Research"
+		}],
+		"success_case_list": []
+	}, {
+		"title": "Athonet EPC",
+		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg",
+		"website_url": "https://athonet.com/products/athonet-epc/",
+		"created_year": 2006,
+		"description": "Athonet EPC is a carrier-grade core that has been deployed in the field for more than 15 years, with over 700,00 active private SIMs and 1000 licensed installations. The Athonet EPC is certified to work with radio access networks (RAN) from many of the top vendors and innovative new companies.",
+		"category_list": ["vRAN"],
+		"similar_solution_list": [{
+			"title": "Amarisoft Callbox",
+		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Yates MiniCore",
+			"similar_solution_url": "https://yatebts.com/products/minicore/",
+		      	"category": "vRAN"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Athonet Tactical Cube",
+		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg",
+		"website_url": "https://athonet.com/products/athonet-tactical-solution-cube/",
+		"created_year": "",
+		"description": "The Tactical Cube is a compact portable solution that includes a radio (RAN) and mobile core. The mobile core is hosted on off-the-shelf servers or on Athonet EX-BOX server providing IP65 protection while the radio acts as a base transceiver station with IP65 protection.",
+		"category_list": ["vRAN"],
+		"similar_solution_list": [{
+			"title": "Bitium",
+			"similar_solution_url": "https://www.bittium.com/tactical-communications/bittium-tactical-lte-access-point",
+			"category": "vRAN"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Athonet IMS",
+		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg",
+		"website_url": "https://athonet.com/products/athonet-ims/",
+		"created_year": "",
+		"description": "Athonet IMS (IP Multimedia Subsystem) provides native voice and video services to LTE or 5G terminals and integration with mission critical push-to-talk applications or with enterprise IP-PBX and phone systems.",
+		"category_list": ["vRAN"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Athonet Tactical Backpack",
+		"logo_url": "https://athonet.com/app/themes/athonet/public/images/logo-athonet.svg",
+		"website_url": "https://athonet.com/products/athonet-tactical-solution-backpack/x",
+		"created_year": "",
+		"description": "A full-featured, standalone LTE and 5G network solution that is trusted and field-proven for secure, tactical and rapid deployment.",
+		"category_list": ["vRAN"],
+		"similar_solution_list": [{
+			"title": "ECX Pack",
+			"similar_solution_url": "https://quortus.com/solutions/ecx-pack/",
+		      	"category": "vRAN"
+		}, {
+			"title": "Lociva",
+			"similar_solution_url": "https://www.lociva.com/",
+			"category": "vRAN"
+		}, {
+			"title": "Atos Lifelink networks systems",
+			"similar_solution_url": "https://atos.net/en/solutions/critical-communications-systems-ccs/private-lte-networks-systems",
+			"category": "vRAN"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}]
+}

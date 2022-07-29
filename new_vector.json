@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-01",
-	"title": "matrix",
+	"title": "New Vector",
 	"type": "Organisation",
 	"logo_url": "https://element.io/images/logo-mark-primary.svg",
 	"location": {
@@ -26,18 +26,18 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Whatsapp",
-			"similiar_solution_url": "https://www.whatsapp.com/",
+			"similar_solution_url": "https://www.whatsapp.com/",
 			"category": "Communication"
 		}, {
 			"title": "Signal",
-			"similiar_solution_url": "https://signal.org/en/",
+			"similar_solution_url": "https://signal.org/en/",
 			"category": "Communication"
 		}, {
 			"title": "Telegram",
-			"similiar_solution_url": "https://telegram.org/",
+			"similar_solution_url": "https://telegram.org/",
 			"category": "Communication"
 		}],
-		"licence_list": ["Apache License v2.0"],
+		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
@@ -92,10 +92,10 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Wire",
-			"similiar_solution_url": "https://wire.com/en/",
+			"similar_solution_url": "https://wire.com/en/",
 			"category": "Communication"
 		}],
-		"licence_list": ["Apache License v2.0"],
+		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
@@ -114,10 +114,10 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Communication"
 		}],
-		"licence_list": ["Apache License v2.0"],
+		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
@@ -136,14 +136,14 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "rundeck",
-			"similiar_solution_url": "https://www.rundeck.com/",
+			"similar_solution_url": "https://www.rundeck.com/",
 			"category": "Communication"
 		}, {
 			"title": "JAMS Enterprise Job Scheduler",
-			"similiar_solution_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
+			"similar_solution_url": "https://www.jamsscheduler.com/platforms/enterprise-job-scheduling/",
 			"category": "Communication"
 		}],
-		"licence_list": ["Apache License v2.0"],
+		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",
@@ -162,7 +162,7 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "weavy",
-			"similiar_solution_url": "https://www.weavy.com/",
+			"similar_solution_url": "https://www.weavy.com/",
 			"category": "Communication"
 		}],
 		"licence_list": [""],
@@ -185,10 +185,10 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "ConnectWiseControl",
-			"similiar_solution_url": "https://control.connectwise.com/",
+			"similar_solution_url": "https://control.connectwise.com/",
 			"category": "Communication"
 		}],
-		"licence_list": ["Apache License v2.0"],
+		"licence_list": ["Apache v2.0"],
 		"source_code_download": "https://github.com/vector-im",
 		"source_code_profile": "",
 		"commercial_support_url": "https://element.io/help",

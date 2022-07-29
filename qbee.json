@@ -25,7 +25,7 @@
     "description": "IoT configuration management for Linux, with built-in automations to handle all needs (passwords, updates, NTP servers, forewall, etc.) and can be accessed through a Rest API",
     "category_list": ["IoT and industrial"],
     "similar_solution_list": [],
-    "licence_list": ["Apache License 2.0"],
+    "licence_list": ["Apache v2.0"],
     "source_code_download": "https://github.com/qbee-io/software-management-action.git",
     "source_code_profile": "https://www.openhub.net/p/qbee/analyses/latest/languages_summary",
     "commercial_support_url": "https://qbee.io/pricing/",

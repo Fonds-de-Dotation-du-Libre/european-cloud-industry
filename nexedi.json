@@ -1,6 +1,6 @@
 {
 	"created": "2022-03-24",
-	"title": "Nexedi SA",
+	"title": "Nexedi",
 	"type": "Organisation",
 	"logo_url": "https://erp5.nexedi.net/web_site_module/erp5_community/NXD-Logo.Image?quality=75.0&display=large&format=png",
 	"location": {
@@ -61,18 +61,18 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Odoo",
-			"similiar_solution_url": "https://www.odoo.com/fr_FR",
+			"similar_solution_url": "https://www.odoo.com/fr_FR",
 			"category": "Application"
 			}, {
 			"title": "Dolibarr",
-			"similiar_solution_url": "https://www.dolibarr.org/",
+			"similar_solution_url": "https://www.dolibarr.org/",
 			"category": "Application"
 			},{
       			"title": "Metasfresh",
       			"similar_solution_url": "https://metasfresh.com/en/",
       			"category": "Application"
    			}],
-		"licence_list": ["General Public License v3.0 with Free Software exception"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/erp5.git",
 		"source_code_profile": "https://www.openhub.net/p/erp5/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.nexedi.com/service/nexedi-service-erp5/contact",
@@ -164,18 +164,42 @@
 			"success_case_url": "https://www.nexedi.com/success/erp5-Central.Bank.Success.Case"
 			}]
 		}, {
-		"title": "SlapOS Managed Cloud",
+		"title": "SlapOS",
 		"logo_url": "https://www.nexedi.com/service/nexedi-service-slapos/graphic-SlapOS.vector.logo?display=thumbnail&format=png",
 		"website_url": "https://slapos.nexedi.com/",
 		"created_year": 2010,
 		"description": "SlapOS provides a compact and unified solution to automate provisioning, orchestration, monitoring, accounting, disaster recovery, invoicing, issue tracking and preventive maintenance of software services that can be deployed in data centers, edge nodes, user terminals or embedded systems, either on bare metal, container or virtual machine.",
 		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
-			"title": "YunoHost",
-			"similiar_solution_url": "https://yunohost.org/#/",
+			"title": "OpenNebula",
+			"similar_solution_url": "https://opennebula.io/",
 			"category": "Service lifecycle automation"
-	  	}],
-		"licence_list": ["GNU GPL v3"],
+		}, {
+			"title": "Nixos",
+			"similar_solution_url": "https://nixos.org/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Virtuozzo/OnApp",
+			"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Google Anthos",
+			"similar_solution_url": "https://cloud.google.com/anthos",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Kubernetes",
+			"similar_solution_url": "https://kubernetes.io/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "OpenSVC",
+			"similar_solution_url": "https://www.opensvc.com/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "OpenStack",
+			"similar_solution_url": "https://www.openstack.org/",
+			"category": "Service lifecycle automation"
+		}],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
 		"source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
 		"commercial_support_url": "",
@@ -203,10 +227,10 @@
 		"category_list": ["Big Data Hub"],
 		"similar_solution_list": [{
 			"title": "Hadoop",
-			"similiar_solution_url": "https://hadoop.apache.org/",
+			"similar_solution_url": "https://hadoop.apache.org/",
 			"category": "Big Data Hub"
   		 }],
-		"licence_list": ["GNU GPL v3"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin.git",
 		"source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
 		"commercial_support_url": "",

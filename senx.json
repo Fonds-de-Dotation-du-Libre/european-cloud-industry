@@ -54,14 +54,14 @@
     "category_list": ["Storage and database","IoT and industrial"],
     "similar_solution_list": [{
       "title": "Minitab Statistical Solution",
-      "similiar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
+      "similar_solution_url": "https://www.minitab.com/en-us/products/minitab/",
       "category": "Storage and database"
     },{
       "title": "Azure Time Series Insights",
       "similar_solution_url": "https://azure.microsoft.com/en-us/services/time-series-insights/#product-overview",
       "category": "Storage and database"
     }],
-    "licence_list": ["Apache-2.0 License"],
+    "licence_list": ["Apache v2.0"],
     "source_code_download": "https://github.com/senx/warp10-platform",
     "source_code_profile": "https://www.openhub.net/p/warp10-platform/analyses/latest/languages_summary",
     "commercial_support_url": "https://www.warp10.io/content/30_Commercial_support",

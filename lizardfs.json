@@ -26,18 +26,18 @@
     "category_list": ["Storage and database"],
     "similar_solutioj_list": [{
       "title": "SeaweedFS",
-      "similiar_solution_url": "https://github.com/chrislusf/seaweedfs",
+      "similar_solution_url": "https://github.com/chrislusf/seaweedfs",
       "category": "Storage and database"
     },{
       "title": "Ceph",
-      "similiar_solution_url": "https://ceph.com/en/",
+      "similar_solution_url": "https://ceph.com/en/",
       "category": "Storage and database"
     },{
       "title": "XtreemFS",
-      "similiar_solution_url": "http://www.xtreemfs.org/",
+      "similar_solution_url": "http://www.xtreemfs.org/",
       "category": "Storage and database"  
     }],
-    "licence_list": ["GPL-v3.0"],
+    "licence_list": ["GPL v3.0"],
     "source_code_download": "https://github.com/lizardfs/lizardfs.git",
     "source_code_profile": "https://www.openhub.net/p/lizardfs/analyses/latest/languages_summary",
     "commercial_support_url": "https://lizardfs.com/support",

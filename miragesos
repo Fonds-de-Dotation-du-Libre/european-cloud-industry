@@ -34,14 +34,14 @@
     "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "Remprun",
-      "similiar_solution_url": "https://github.com/rumpkernel/rumprun.git",
+      "similar_solution_url": "https://github.com/rumpkernel/rumprun.git",
       "category": "Application"
     },{
       "title": "OSv",
-      "similiar_solution_url": "http://osv.io/",
+      "similar_solution_url": "http://osv.io/",
       "category": "Application"
     }],
-    "licence_list": ["LGPLv2","ISC"],
+    "licence_list": ["LGPL v2.1","ISC"],
     "source_code_download": "https://github.com/mirage/mirage.git",
     "source_code_profile": "https://www.openhub.net/p/mirageOS/analyses/latest/languages_summary",
     "commercial_support_url": "",

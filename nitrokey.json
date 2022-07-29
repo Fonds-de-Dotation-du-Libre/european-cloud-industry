@@ -26,11 +26,11 @@
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Yubico",
-      "similiar_solution_url": "https://www.yubico.com/products/security-key/",
+      "similar_solution_url": "https://www.yubico.com/products/security-key/",
       "category": "Cybersecurity"
       },{
       "title": "iStorage",
-      "similiar_solution_url": "https://istorage-uk.com/product-category/encrypted-flash-drives/",
+      "similar_solution_url": "https://istorage-uk.com/product-category/encrypted-flash-drives/",
       "category": "Cybersecurity"
       }],
     "licence_list": [],

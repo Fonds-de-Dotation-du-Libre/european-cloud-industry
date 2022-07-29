@@ -1,11 +1,10 @@
 {
-
 	"created": "2022-04-05",
 	"title": "Prestashop",
 	"type": "Organisation",
 	"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
 	"location": {
-		"title": "Prestashop",
+		"title": "Prestashop SA",
 		"address": "4 rue Jules Lefebvre",
 		"postal_code": "75009",
 		"city": "Paris",
@@ -27,23 +26,23 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Ecwid",
-			"similiar_solution_url": "https://www.ecwid.com/",
+			"similar_solution_url": "https://www.ecwid.com/",
 			"category": "Application"
 		}, {
 			"title": "shopify",
-			"similiar_solution_url": "https://www.shopify.com/",
+			"similar_solution_url": "https://www.shopify.com/",
 			"category": "Application"
 		}, {
 			"title": "woocommerce",
-			"similiar_solution_url": "https://woocommerce.com/",
+			"similar_solution_url": "https://woocommerce.com/",
 			"category": "Application"
 		}, {
 			"title": "bigcommerce",
-			"similiar_solution_url": "https://www.bigcommerce.com/",
+			"similar_solution_url": "https://www.bigcommerce.com/",
 			"category": "Application"
 		}, {
 			"title": "nopcommerce",
-			"similiar_solution_url": "https://www.nopcommerce.com/en",
+			"similar_solution_url": "https://www.nopcommerce.com/en",
 			"category": "Application"
 		}],
 		"licence_list": ["OSL"],

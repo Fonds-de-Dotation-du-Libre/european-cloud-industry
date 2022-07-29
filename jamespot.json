@@ -1,6 +1,6 @@
 {
 	"created": "2022-03-22",
-	"title": "JAMESPOT",
+	"title": "Jamespot",
 	"type": "Organisation",
 	"logo_url": "https://static.wixstatic.com/media/9a1120_719b2e86c4044944abdcdc0dc1e54ad4~mv2.png/v1/fill/w_283,h_50,al_c,usm_0.66_1.00_0.01,enc_auto/Logo%20Jamespot.png",
 	"location": {
@@ -61,11 +61,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Google Workspace",
-			"similiar_solution_url": "https://workspace.google.com/",
+			"similar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Microsoft Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Workspace"
 		}],
 		"licence_list": ["Proprietary"],
@@ -240,15 +240,15 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Microsoft sharePoint",
-			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
 			"category": "Application"
 		}, {
 			"title": "Workvivo",
-			"similiar_solution_url": "https://www.workvivo.com/product/",
+			"similar_solution_url": "https://www.workvivo.com/product/",
 			"category": "Application"
 		}, {
 			"title": "Workplace from Meta",
-			"similiar_solution_url": "https://www.workplace.com/",
+			"similar_solution_url": "https://www.workplace.com/",
 			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
@@ -288,11 +288,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Zoom",
-			"similiar_solution_url": "https://zoom.us/",
+			"similar_solution_url": "https://zoom.us/",
 			"category": "Application"
 		}, {
 			"title": "Webex",
-			"similiar_solution_url": "https://www.webex.com/fr/index.html",
+			"similar_solution_url": "https://www.webex.com/fr/index.html",
 			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],
@@ -314,11 +314,11 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Application"
 		}, {
 			"title": "Google workspace (Google Doc)",
-			"similiar_solution_url": "https://www.google.com/docs/about/",
+			"similar_solution_url": "https://www.google.com/docs/about/",
 			"category": "Application"
 		}],
 		"licence_list": ["Proprietary"],

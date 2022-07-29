@@ -61,27 +61,27 @@
     "category_list": ["Desktop virtualisation"],
     "similar_solution_list": [{
       "title": "Remmina",
-      "similiar_solution_url": "https://remmina.org/",
+      "similar_solution_url": "https://remmina.org/",
       "category": "Desktop virtualisation"
     },{
       "title": "mRemoteNG",
-      "similiar_solution_url": "https://mremoteng.org/",
+      "similar_solution_url": "https://mremoteng.org/",
       "category": "Desktop virtualisation"
     },{
       "title": "DWService",
-      "similiar_solution_url": "https://www.dwservice.net/",
+      "similar_solution_url": "https://www.dwservice.net/",
       "category": "Desktop virtualisation"
     },{
       "title": "Tight VNC",
-      "similiar_solution_url": "https://www.tightvnc.com/",
+      "similar_solution_url": "https://www.tightvnc.com/",
       "category": "Desktop virtualisation"
     },{
       "title": "X2Go",
-      "similiar_solution_url": "https://wiki.x2go.org/doku.php/start",
+      "similar_solution_url": "https://wiki.x2go.org/doku.php/start",
       "category": "Desktop virtualisation"
     },{
       "title": "AnyDesk",
-      "similiar_solution_url": "https://anydesk.com/gb",
+      "similar_solution_url": "https://anydesk.com/gb",
       "category": "Desktop virtualisation"
     }],
     "licence_list": ["Proprietary"],

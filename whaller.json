@@ -4,7 +4,7 @@
 	"type": "Organisation",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whaller_logo_simple.png/1200px-Whaller_logo_simple.png",
 	"location": {
-		"title": "Whaller",
+		"title": "Whaller SAS",
 		"address": "3 Rue Salomon De Rothschild",
 		"postal_code": "92150",
 		"city": "Suresnes",
@@ -20,14 +20,14 @@
 		"year": 2020,
 		"staff": 11,
 		"earnings": "39 671 EUR",
-		"total_assets": "1 068959 EUR",
+		"total_assets": "1 068 959 EUR",
 		"revenues": "1 293 797 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
 		"year": 2019,
 		"staff": 9,
 		"earnings": "-179 286 EUR",
-		"total_assets": "100 3326 EUR",
+		"total_assets": "1 003 326 EUR",
 		"revenues": "850 062 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/WHALLER-519139497/"
 	}, {
@@ -47,19 +47,19 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
 			"category": "Workspace"
 		},{
 			"title": "Jamespot",
-			"similiar_solution_url": "https://www.fr.jamespot.com/",
+			"similar_solution_url": "https://www.fr.jamespot.com/",
 			"category": "Workspace"
 		},{
 			"title": "Talkspirit",
-			"similiar_solution_url": "https://en.talkspirit.com/",
+			"similar_solution_url": "https://en.talkspirit.com/",
 			"category": "Workspace"
 		},{
 			"title": "Wimi",
-			"similiar_solution_url": "https://www.wimi-teamwork.com/",
+			"similar_solution_url": "https://www.wimi-teamwork.com/",
 			"category": "Workspace"
 		}],
 		"licence_list": [],

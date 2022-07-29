@@ -33,10 +33,10 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft 365",
-			"similiar_solution_url": "https://www.office.com/",
+			"similar_solution_url": "https://www.office.com/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["AGPL3 AGPL version 3.0"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/Kopano-dev",
 		"source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
 		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
@@ -78,7 +78,7 @@
 			"similiar_solution_url": "https://rocket.chat/",
 			"category": "Communication"
 		}],
-		"licence_list": ["AGPL3 AGPL version 3.0"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/Kopano-dev",
 		"source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
 		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",

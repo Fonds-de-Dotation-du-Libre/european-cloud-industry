@@ -26,14 +26,14 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Telegram",
-			"similiar_solution_url": "https://telegram.org/",
+			"similar_solution_url": "https://telegram.org/",
 			"category": "Communication"
 		},{
 			"title": "Whatsapp",
-			"similiar_solution_url": "https://www.whatsapp.com/",
+			"similar_solution_url": "https://www.whatsapp.com/",
 			"category": "Communication"
 		}],
-		"licence_list": ["GPL-3.0-or-later"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/deltachat/",
 		"source_code_profile": "https://www.openhub.net/p/Delta-Chat/analyses/latest/languages_summary",
 		"commercial_support_url": "https://support.delta.chat/",

@@ -1,6 +1,6 @@
 {
 	"created": "2022-03-28",
-	"title": "Spreed",
+	"title": "Struktur",
 	"type": "Organisation",
 	"logo_url": "https://www.spreed.eu/media/SpreedEU_white.png",
 	"location": {
@@ -26,47 +26,47 @@
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Jitsi",
-			"similiar_solution_url": "https://meet.jit.si/",
+			"similar_solution_url": "https://meet.jit.si/",
 			"category": "Communication"
 		}, {
 			"title": "Mumble",
-			"similiar_solution_url": "https://www.mumble.com/",
+			"similar_solution_url": "https://www.mumble.com/",
 			"category": "Communication"
 		}, {
 			"title": "Wire",
-			"similiar_solution_url": "https://wire.com/en/",
+			"similar_solution_url": "https://wire.com/en/",
 			"category": "Communication"
 		}, {
 			"title": "Signal",
-			"similiar_solution_url": "https://signal.org/",
+			"similar_solution_url": "https://signal.org/",
 			"category": "Communication"
 		}, {
 			"title": "Big Blue Button",
-			"similiar_solution_url": "https://bigbluebutton.org/",
+			"similar_solution_url": "https://bigbluebutton.org/",
 			"category": "Communication"
 		}, {
 			"title": "Briefing",
-			"similiar_solution_url": "https://brie.fi/ng",
+			"similar_solution_url": "https://brie.fi/ng",
 			"category": "Communication"
 		}, {
 			"title": "Matrix",
-			"similiar_solution_url": "https://matrix.org/",
+			"similar_solution_url": "https://matrix.org/",
 			"category": "Communication"
 		}, {
 			"title": "Zoom",
-			"similiar_solution_url": "https://zoom.us/",
+			"similar_solution_url": "https://zoom.us/",
 			"category": "Communication"
 		}, {
 			"title": "Teams",
-			"similiar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
 			"category": "Communication"
 		}, {
 			"title": "Hangouts",
-			"similiar_solution_url": "https://hangouts.google.com/",
+			"similar_solution_url": "https://hangouts.google.com/",
 			"category": "Communication"
 		}, {
 			"title": "Skype",
-			"similiar_solution_url": "https://www.skype.com/",
+			"similar_solution_url": "https://www.skype.com/",
 			"category": "Communication"
 		}],
 		"licence_list": ["AGPL-3.0"],

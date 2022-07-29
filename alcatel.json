@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-07",
-	"title": "Alcatel-Lucent SA",
+	"title": "Alcatel-Lucent",
 	"type": "Organisation",
 	"logo_url": "https://web-assets.al-enterprise.com/-/media/assets/internet/images/h-to-m/logo.png?h=449&w=1683&v=1&d=20220406T150630Z&hash=A2E8B78EA20241EBEA68C37F439C10CF",
 	"location": {
-		"title": "ALE International",
+		"title": "ALE International (Alcatel-Lucent)",
 		"address": "32 Avenue Kleber",
 		"postal_code": "92700",
 		"city": "Colombes",
@@ -61,15 +61,15 @@
 			"category_list": ["Communication"],
 			"similar_solution_list": [{
 				"title": "Skype for Business",
-				"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
+				"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
 				"category": "Communication"
 			}, {
 				"title": "Cisco Unified Communications Manager",
-				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
+				"similar_solution_url": "https://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html",
 				"category": "Communication"
 			}, {
 				"title": "Avaya IP Office",
-				"similiar_solution_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
+				"similar_solution_url": "https://www.avaya.com/en/documents/fs-ipo-platform-sme8093en.pdf?t=0",
 				"category": "Communication"
 			}],
 			"licence_list": [],
@@ -111,11 +111,11 @@
 			"category_list": ["Communication"],
 			"similar_solution_list": [{
 				"title": "Webex Calling",
-				"similiar_solution_url": "https://www.cisco.com/c/en/us/solutions/collaboration/webex-calling/index.html",
+				"similar_solution_url": "https://www.cisco.com/c/en/us/solutions/collaboration/webex-calling/index.html",
 				"category": "Communication"
 			}, {
 				"title": "Microsoft Teams",
-				"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+				"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
 				"category": "Communication"
 			}],
 			"licence_list": [],
@@ -165,27 +165,27 @@
 			"category_list": ["Communication"],
 			"similar_solution_list": [{
 				"title": "Zoom",
-				"similiar_solution_url": "https://zoom.us/",
+				"similar_solution_url": "https://zoom.us/",
 				"category": "Communication"
 			}, {
 				"title": "Google Chat",
-				"similiar_solution_url": "https://mail.google.com/chat/u/0/",
+				"similar_solution_url": "https://mail.google.com/chat/u/0/",
 				"category": "Communication"
 			}, {
 				"title": "RingCentralMVP",
-				"similiar_solution_url": "https://www.ringcentral.com/office/how-it-works.html",
+				"similar_solution_url": "https://www.ringcentral.com/office/how-it-works.html",
 				"category": "Communication"
 			}, {
 				"title": "Webex",
-				"similiar_solution_url": "https://www.webex.com/cloud-calling.html",
+				"similar_solution_url": "https://www.webex.com/cloud-calling.html",
 				"category": "Communication"
 			}, {
 				"title": "GoTo",
-				"similiar_solution_url": "https://www.goto.com/connect",
+				"similar_solution_url": "https://www.goto.com/connect",
 				"category": "Communication"
 			}, {
 				"title": "Tata Communications Unified Communications as a Service",
-				"similiar_solution_url": "https://www.tatacommunications.com/solutions/unified-communications/unified-communications-as-a-service/",
+				"similar_solution_url": "https://www.tatacommunications.com/solutions/unified-communications/unified-communications-as-a-service/",
 				"category": "Communication"
 			}],
 			"licence_list": ["Proprietary"],
@@ -217,15 +217,15 @@
 			"category_list": ["Workspace"],
 			"similar_solution_list": [{
 				"title": "Reachify",
-				"similiar_solution_url": "https://reachify.io/",
+				"similar_solution_url": "https://reachify.io/",
 				"category": "Workspace"
 			}, {
 				"title": "UC Performance Management",
-				"similiar_solution_url": "https://www.netscout.com/solutions/unified-communications-collaboration",
+				"similar_solution_url": "https://www.netscout.com/solutions/unified-communications-collaboration",
 				"category": "Workspace"
 			}, {
 				"title": "Collaborate Cloud",
-				"similiar_solution_url": "http://www.collaboratecloud.com/",
+				"similar_solution_url": "http://www.collaboratecloud.com/",
 				"category": "Workspace"
 			}],
 			"licence_list": ["Proprietary"],
@@ -283,19 +283,19 @@
 			"category_list": ["Operation management"],
 			"similar_solution_list": [{
 				"title": "TelStrat Record",
-				"similiar_solution_url": "https://www.serenova.com/wp-content/uploads/2019/08/Serenova_TelStratWFO.pdf",
+				"similar_solution_url": "https://www.serenova.com/wp-content/uploads/2019/08/Serenova_TelStratWFO.pdf",
 				"category": "Operation management"
 			}, {
 				"title": "VoIP Recording software",
-				"similiar_solution_url": "https://www.voip-info.org/",
+				"similar_solution_url": "https://www.voip-info.org/",
 				"category": "Operation management"
 			}, {
 				"title": "Enghouse Smart Interaction Recording",
-				"similiar_solution_url": "https://www.enghousenetworks.com/portfolio/digital-transformation/customer-interaction-management/smart-interaction-recording/",
+				"similar_solution_url": "https://www.enghousenetworks.com/portfolio/digital-transformation/customer-interaction-management/smart-interaction-recording/",
 				"category": "Operation management"
 			}, {
 				"title": "CallN",
-				"similiar_solution_url": "https://calln.com/",
+				"similar_solution_url": "https://calln.com/",
 				"category": "Operation management"
 			}],
 			"licence_list": [],
@@ -495,19 +495,19 @@
 			"category_list": ["Networking"],
 			"similar_solution_list": [{
 				"title": "Junos Space Network Management Platform",
-				"similiar_solution_url": "https://www.juniper.net/us/en/products/sdn-and-orchestration/junos-space-platform.html",
+				"similar_solution_url": "https://www.juniper.net/us/en/products/sdn-and-orchestration/junos-space-platform.html",
 				"category": "Networking"
 			}, {
 				"title": "SolarWinds",
-				"similiar_solution_url": "https://www.solarwinds.com/network-management-software",
+				"similar_solution_url": "https://www.solarwinds.com/network-management-software",
 				"category": "Networking"
 			}, {
 				"title": "Cisco Meraki",
-				"similiar_solution_url": "https://meraki.cisco.com/",
+				"similar_solution_url": "https://meraki.cisco.com/",
 				"category": "Networking"
 			}, {
 				"title": "SAS/ACCESS",
-				"similiar_solution_url": "https://www.sas.com/en_us/software/access.html",
+				"similar_solution_url": "https://www.sas.com/en_us/software/access.html",
 				"category": "Networking"
 			}],
 			"licence_list": [],
@@ -548,31 +548,31 @@
 			"category_list": ["Switch"],
 			"similar_solution_list": [{
 				"title": "Cisco Catalyst Switches",
-				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/switches/index.html",
+				"similar_solution_url": "https://www.cisco.com/c/en/us/products/switches/index.html",
 				"category": "Switch"
 			}, {
 				"title": "HPE Networking Switches",
-				"similiar_solution_url": "https://www.hpe.com/us/en/networking/switches.html",
+				"similar_solution_url": "https://www.hpe.com/us/en/networking/switches.html",
 				"category": "Switch"
 			}, {
 				"title": "Juniper Networks Switching",
-				"similiar_solution_url": "https://www.juniper.net/us/en/products/switches.html",
+				"similar_solution_url": "https://www.juniper.net/us/en/products/switches.html",
 				"category": "Switch"
 			}, {
 				"title": "Dell EMC Switch",
-				"similiar_solution_url": "https://www.dell.com/en-us/dt/networking/index.htm#tab0=0",
+				"similar_solution_url": "https://www.dell.com/en-us/dt/networking/index.htm#tab0=0",
 				"category": "Switch"
 			}, {
 				"title": "Huawei Ethernet Switch",
-				"similiar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches",
+				"similar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches",
 				"category": "Switch"
 			}, {
 				"title": "Cisco Industrial switching ",
-				"similiar_solution_url": "https://www.cisco.com/c/en/us/products/switches/industrial-ethernet-switches/index.html",
+				"similar_solution_url": "https://www.cisco.com/c/en/us/products/switches/industrial-ethernet-switches/index.html",
 				"category": "Switch"
 			}, {
 				"title": "Netgear Unmanaged Switches",
-				"similiar_solution_url": "https://www.netgear.com/business/wired/switches/unmanaged/",
+				"similar_solution_url": "https://www.netgear.com/business/wired/switches/unmanaged/",
 				"category": "Switch"
 			}],
 			"licence_list": [],
@@ -644,35 +644,35 @@
 			"category_list": ["Radio"],
 			"similar_solution_list": [{
 				"title": "Cisco Meraki Cloud-Managed Indoor Access Points",
-				"similiar_solution_url": "https://meraki.cisco.com/products/wi-fi/",
+				"similar_solution_url": "https://meraki.cisco.com/products/wi-fi/",
 				"category": "Radio"
 			}, {
 				"title": "EX Switches",
-				"similiar_solution_url": "https://www.juniper.net/us/en/products/switches/ex-series.html",
+				"similar_solution_url": "https://www.juniper.net/us/en/products/switches/ex-series.html",
 				"category": "Radio"
 			}, {
 				"title": "Aruba Gateways and Controllers HPE (Aruba)",
-				"similiar_solution_url": "https://www.arubanetworks.com/products/wireless/gateways-and-controllers/",
+				"similar_solution_url": "https://www.arubanetworks.com/products/wireless/gateways-and-controllers/",
 				"category": "Radio"
 			}, {
 				"title": "Unifi Enterprise AP",
-				"similiar_solution_url": "https://unifi-mesh.ui.com/",
+				"similar_solution_url": "https://unifi-mesh.ui.com/",
 				"category": "Radio"
 			}, {
 				"title": "Huawei Campus Switches",
-				"similiar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches/campus-switches",
+				"similar_solution_url": "https://e.huawei.com/en/products/enterprise-networking/switches/campus-switches",
 				"category": "Radio"
 			}, {
 				"title": "FortiGate",
-				"similiar_solution_url": "https://www.fortinet.com/products/next-generation-firewall",
+				"similar_solution_url": "https://www.fortinet.com/products/next-generation-firewall",
 				"category": "Radio"
 			}, {
 				"title": "RUCKUS Wireless Access Points",
-				"similiar_solution_url": "https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/",
+				"similar_solution_url": "https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/",
 				"category": "Radio"
 			}, {
 				"title": "TP-Link Wireless Access Points (Legacy)",
-				"similiar_solution_url": "https://www.tp-link.com/fr/press/news/15685/",
+				"similar_solution_url": "https://www.tp-link.com/fr/press/news/15685/",
 				"category": "Radio"
 			}],
 			"licence_list": [],
@@ -819,23 +819,23 @@
 			"category_list": ["Networking"],
 			"similar_solution_list": [{
 				"title": "Purple",
-				"similiar_solution_url": "https://purple.ai/",
+				"similar_solution_url": "https://purple.ai/",
 				"category": "Networking"
 			}, {
 				"title": "Adentro",
-				"similiar_solution_url": "http://www.adentro.fr/en/",
+				"similar_solution_url": "http://www.adentro.fr/en/",
 				"category": "Networking"
 			}, {
 				"title": "MyWifiNetworks",
-				"similiar_solution_url": "https://www.mywifinetworks.com/",
+				"similar_solution_url": "https://www.mywifinetworks.com/",
 				"category": "Networking"
 			}, {
 				"title": "Cloud4wi",
-				"similiar_solution_url": "https://splashportal.cloud4wi.com/",
+				"similar_solution_url": "https://splashportal.cloud4wi.com/",
 				"category": "Networking"
 			}, {
 				"title": "Local Mesure",
-				"similiar_solution_url": "https://www.localmeasure.com/",
+				"similar_solution_url": "https://www.localmeasure.com/",
 				"category": "Networking"
 			}],
 			"licence_list": [],

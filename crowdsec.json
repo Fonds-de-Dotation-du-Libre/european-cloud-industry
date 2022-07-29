@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-07",
-	"title": "Crowdsec SAS",
+	"title": "Crowdsec",
 	"type": "Organisation",
 	"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
 	"location": {
-		"title": "Crowdsec",
+		"title": "Crowdsec SAS",
 		"address": "20 RUE MAURICE ARNOUX",
 		"postal_code": "92120",
 		"city": "MONTROUGE",
@@ -26,18 +26,18 @@
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Check Point Next Generation Firewalls",
-			"similiar_solution_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
+			"similar_solution_url": "https://www.checkfirewalls.com/Next-Generation-Firewalls.asp",
 			"category": "Cybersecurity"
 		}, {
 			"title": "Sumo logic",
-			"similiar_solution_url": "https://www.sumologic.com/",
+			"similar_solution_url": "https://www.sumologic.com/",
 			"category": "Cybersecurity"
 		}, {
 			"title": "PfSense",
-			"similiar_solution_url": "https://www.pfsense.org/",
+			"similar_solution_url": "https://www.pfsense.org/",
 			"category": "Cybersecurity"
 		}],
-		"licence_list": ["MIT License"],
+		"licence_list": ["MIT"],
 		"source_code_download": "https://github.com/crowdsecurity/crowdsec",
 		"source_code_profile": "",
 		"commercial_support_url": "https://crowdsec.net/contact-crowdsec/",

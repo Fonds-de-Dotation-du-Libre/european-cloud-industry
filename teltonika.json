@@ -1,15 +1,15 @@
 {
 	"created": "2022-04-06",
-	"title": "Teltonika IoT Group",
+	"title": "Teltonika",
 	"type": "Organisation",
 	"logo_url": "https://teltonika-iot-group.com/images/branches/iot-white.svg",
 	"location": {
-		"title": "Teltonika",
+		"title": "Teltonika IOT Group UAB",
 		"address": "Geležinio Vilko g. 18A",
 		"postal_code": "LT-08104",
 		"city": "Vilnius",
 		"country": "LT",
-		"phone_contact": "+37052127472",
+		"phone_contact": "+37 052127472",
 		"mail_contact": "info@teltonika.lt",
 		"coordinate_list": [54.6998347921484, 25.262166007388295]
 	},

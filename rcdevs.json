@@ -89,27 +89,27 @@
 		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
 			"title": "Auth0",
-			"similiar_solution_url": "https://auth0.com/key",
+			"similar_solution_url": "https://auth0.com/key",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Keycloak",
-			"similiar_solution_url": "https://www.keycloak.org/",
+			"similar_solution_url": "https://www.keycloak.org/",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Amazon Cognito",
-			"similiar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
+			"similar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Spring Security",
-			"similiar_solution_url": "https://spring.io/projects/spring-security",
+			"similar_solution_url": "https://spring.io/projects/spring-security",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "Firebase Authentication",
-			"similiar_solution_url": "https://firebase.google.com/",
+			"similar_solution_url": "https://firebase.google.com/",
 			"category": "Service lifecycle automation"
 		}, {
 			"title": "JSON web Token",
-			"similiar_solution_url": "https://jwt.io/",
+			"similar_solution_url": "https://jwt.io/",
 			"category": "Service lifecycle automation"
 		}],
 		"licence_list": ["Proprietary"],

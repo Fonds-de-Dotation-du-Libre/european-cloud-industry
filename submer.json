@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-07",
-	"title": "SUBMER TECHNOLOGIES, S.L.",
+	"title": "Submer",
 	"type": "Organisation",
 	"logo_url": "https://submer.com/wp-content/uploads/2020/04/submer-logo.svg",
 	"location": {
-		"title": "SUBMER TECHNOLOGIES, S.L.",
+		"title": "Submer Technologies S.L.",
 		"address": "Calle Metal·lúrgica 49",
 		"postal_code": "08908",
 		"city": "Barcelona",
@@ -26,7 +26,7 @@
 		"category_list": ["Cooling"],
 		"similar_solution_list": [{
 			"title": "ICEraQ",
-			"similiar_solution_url": "https://www.grcooling.com/iceraq/",
+			"similar_solution_url": "https://www.grcooling.com/iceraq/",
 			"category": "Cooling"
 		}],
 		"licence_list": [],
@@ -276,7 +276,7 @@
 		"category_list": ["Cooling"],
 		"similar_solution_list": [{
 			"title": "ICEtank",
-			"similiar_solution_url": "https://www.grcooling.com/icetank/",
+			"similar_solution_url": "https://www.grcooling.com/icetank/",
 			"category": "Cooling"
 		}],
 		"licence_list": [],
@@ -448,7 +448,7 @@
 			"country": "US",
 			"industry": "Information Technology"
 		}, {
-			"title": "north american systems international",
+			"title": "North American Systems International",
 			"logo_url": "https://submer.com/wp-content/uploads/2021/06/nasi.jpg",
 			"country": "US",
 			"industry": "Information Technology"

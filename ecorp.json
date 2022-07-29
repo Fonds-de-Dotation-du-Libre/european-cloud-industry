@@ -1,10 +1,10 @@
 {
   "created": "2022-04-27",
-  "title": "ECORP SAS",
+  "title": "ECORP",
   "type": "Organisation",
   "logo_url": "",
   "location": {
-    "title": "ECORP",
+    "title": "ECORP SAS",
     "address": "14 rue Charles V",
     "postal_code": "75003",
     "city": "Paris",

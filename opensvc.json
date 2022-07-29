@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-29",
 	"title": "OpenSVC SAS",
-	"type": "Company",
+	"type": "Organisation",
 	"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
 	"location": {
 		"title": "OpenSVC SAS",
@@ -100,7 +100,7 @@
                         "similiar_solution_url": "https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-c02960047-2",
                         "category": "Application"
                 }],
-		"licence_list": ["gpl-2.0"],
+		"licence_list": ["GPV v2.0"],
 		"source_code_download": "https://github.com/opensvc/opensvc.git",
 		"source_code_profile": "",
 		"commercial_support_url": "",

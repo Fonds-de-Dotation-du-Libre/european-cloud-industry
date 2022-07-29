@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-07",
-	"title": "OnApp Limited",
+	"title": "OnApp",
 	"type": "Organisation",
 	"logo_url": "https://onapp.com/wp-content/uploads/2021/08/white-vz-onapp-100.png",
 	"location": {
@@ -8,7 +8,7 @@
 		"address": "Brentano Suite Hamstead Garden Suburb First Floor Lyttelton House 2 Lyttelton Road",
 		"postal_code": "N2 0EF",
 		"city": "London",
-		"country": "GB",
+		"country": "UK",
 		"phone_contact": "+448001588600",
 		"mail_contact": "amteam@onapp.com",
 		"coordinate_list": [51.585490071650085, -0.1803875595375914]
@@ -54,7 +54,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Hostwinds",
-			"similiar_solution_url": "https://www.hostwinds.com/",
+			"similar_solution_url": "https://www.hostwinds.com/",
 			"category": "Application"
 		}],
 		"licence_list": [],
@@ -138,7 +138,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "DigitalOcean",
-			"similiar_solution_url": "https://www.digitalocean.com/",
+			"similar_solution_url": "https://www.digitalocean.com/",
 			"category": "Application"
 		}],
 		"licence_list": [],

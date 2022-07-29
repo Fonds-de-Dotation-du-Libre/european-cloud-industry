@@ -1,10 +1,10 @@
 {
   "created": "2022-04-06",
-  "title": "Shadow SAS",
+  "title": "Shadow",
   "type": "Organisation",
   "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_Shadow_Cloud_Gaming.jpg/280px-Logo_Shadow_Cloud_Gaming.jpg",
   "location": {
-    "title": "Shadow",
+    "title": "Shadow SAS",
     "address": " 151 Rue Saint-Denis",
     "postal_code": "75002",
     "city": "Paris",
@@ -26,23 +26,23 @@
     "category_list": ["Desktop virtualisation"],
     "similar_solution_list": [{
       "title": "GeForce Now",
-      "similiar_solution_url": "https://www.nvidia.com/fr-fr/geforce-now/",
+      "similar_solution_url": "https://www.nvidia.com/fr-fr/geforce-now/",
       "category": "Desktop virtualisation"
     },{
       "title": "Google Stadia",
-      "similiar_solution_url": "https://stadia.google.com/",
+      "similar_solution_url": "https://stadia.google.com/",
       "category": "Desktop virtualisation"
     },{
       "title": "Vortex",
-      "similiar_solution_url": "https://vortex.gg/",
+      "similar_solution_url": "https://vortex.gg/",
       "category": "Desktop virtualisation"
     },{
       "title": "Playstation Now",
-      "similiar_solution_url": "https://www.playstation.com/en-us/ps-now/",
+      "similar_solution_url": "https://www.playstation.com/en-us/ps-now/",
       "category": "Desktop virtualisation"
     },{
       "title": "Xbox Cloud Gaming",
-      "similiar_solution_url": "https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming",
+      "similar_solution_url": "https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming",
       "category": "Desktop virtualisation"
     }],
     "licence_list": ["Proprietary"],

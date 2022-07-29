@@ -25,20 +25,28 @@
 		"description": "Tresorit is an online cloud storage that uses end-to-end encryption to guarantee the safety of all the data you share and store.",
 		"category_list": ["Storage and database", "Cybersecurity"],
 		"similar_solution_list": [{
+			"title": "EUbackups",
+			"similar_solution_url": "https://eubackups.com/",
+			"category": "Storage and database"
+		}, {
 			"title": "Nextcloud",
-			"similiar_solution_url": "https://nextcloud.com/",
+			"similar_solution_url": "https://nextcloud.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "Dropbox",
-			"similiar_solution_url": "https://www.dropbox.com/",
+			"similar_solution_url": "https://www.dropbox.com/",
 			"category": "Storage and database"
 		}, {
 			"title": "pCloud",
-			"similiar_solution_url": "https://www.pcloud.com/fr/eu?ref=8097",
+			"similar_solution_url": "https://www.pcloud.com/fr/eu?ref=8097",
+			"category": "Storage and database"
+		},{
+			"title": "Pydio",
+			"similar_solution_url": "https://pydio.com/",
 			"category": "Storage and database"
 		}, {
-			"title": "Cryptomator",
-			"similiar_solution_url": "https://cryptomator.org/",
+			"title": "Google Workspace",
+			"similar_solution_url": "https://workspace.google.com/b",
 			"category": "Storage and database"
 		}],
 		"licence_list": [],

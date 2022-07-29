@@ -1,6 +1,6 @@
 {
   "created": "2022-03-31",
-  "title": "ng-voice",
+  "title": "Ng-voice",
   "type": "Organisation",
   "logo_url": "https://www.ng-voice.com/wp-content/uploads/2021/04/ng-voice-logo-1.svg",
   "location": {
@@ -26,15 +26,15 @@
     "category_list": ["Compute virtualisation"],
     "similar_solution_list": [{
       "title": "Cloud IMS",
-      "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
+      "similar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
       "category": "Compute virtualisation"
     },{
       "title": "IMS",
-      "similiar_solution_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
+      "similar_solution_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
       "category": "Compute virtualisation"
     },{
       "title": "Cloud-native IMS",
-      "similiar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
+      "similar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
       "category": "Compute virtualisation"
     }],
     "licence_list": [],
@@ -86,11 +86,11 @@
     "category_list": ["Operation management"],
     "similar_solution_list": [{
       "title": "Service-Aware Policy Controller (SAPC)",
-      "similiar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-unified-data-management-and-policy/policy-control/service-aware-policy-controller",
+      "similar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-unified-data-management-and-policy/policy-control/service-aware-policy-controller",
       "category": "Operation management"
        },{
       "title": "Nokia Policy Controller",
-      "similiar_solution_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
+      "similar_solution_url": "https://www.nokia.com/networks/products/nokia-policy-controller/",
       "category": "Operation management"
     }],
     "licence_list": [],
@@ -131,7 +131,7 @@
     "description": "Our application servers provide the full range of supplementary services.",
     "category_list": ["Server"],
     "similar_solution_list": [],
-    "licence_list": [""],
+    "licence_list": [],
     "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "",

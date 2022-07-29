@@ -73,7 +73,7 @@ For industry types (type) :
 * Individual;
 * Other.
 
-For license types: use "licence keywords" from Github (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) 
+For license types: use "licence keywords" from Github: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 
 * afl-3.0
 * apache-2.0
@@ -81,10 +81,14 @@ For license types: use "licence keywords" from Github (https://docs.github.com/e
 
 List of validated sources for financial data:
 
-* verif.com (FR); 
-* societe.com (FR);
-* bundesanzeiger.de '(DE);
-* find-and-update.company-information.service.gov.uk (GB).
+* [https://www.verif.com/](verif.com) (FR); 
+* [https://www.societe.com/](societe.com) (FR);
+* [https://www.infogreffe.fr/](infogreffe.fr) (FR-official);
+* [https://www.bundesanzeiger.de/](bundesanzeiger.de) (DE-official);
+* [https://infocamere.it/](italianbusinessregister.it) (IT-official);
+* [https://find-and-update.company-information.service.gov.uk/](find-and-update.company-information.service.gov.uk) (UK);
+* [https://www.romanian-companies.eu/](https://www.romanian-companies.eu/) (RO-official);
+* [https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/](KVK.nl) (NL-official).
 
 Possible solution_category 
 

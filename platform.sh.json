@@ -1,6 +1,6 @@
 {
   "created": "2022-04-14",
-  "title": "Paltform.sh SAS",
+  "title": "Paltform.sh",
   "type": "Organisation",
   "logo_url": "https://remote-europe.com/sites/default/files/2020-10/Platformsh.png",
   "location": {
@@ -9,7 +9,7 @@
     "postal_code": "75002",
     "city": "Paris",
     "country": "FR",
-    "phone_contact": "+33140093000",
+    "phone_contact": "+33 140093000",
     "mail_contact": "",
     "coordinate_list": [48.86850099779175, 2.3532601674151876]
   },
@@ -26,18 +26,18 @@
     "category_list": ["Application"],
     "similar_solution_list": [{
       "title": "OpenShift",
-      "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+      "similar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
       "category": "Application"
     },{
       "title": "OpenStack",
-      "similiar_solution_url": "https://www.openstack.org/",
+      "similar_solution_url": "https://www.openstack.org/",
       "category": "Application"
     },{
       "title": "Microsoft Azure",
-      "similiar_solution_url": "https://azure.microsoft.com/fr-fr/",
+      "similar_solution_url": "https://azure.microsoft.com/fr-fr/",
       "category": "Application"
     }],
-    "licence_list": [" CC-BY-SA-4.0 License"],
+    "licence_list": ["CC-BY-SA-4.0"],
     "source_code_download": "https://github.com/platformsh/platformsh-docs.git",
     "source_code_profile": "",
     "commercial_support_url": "https://docs.platform.sh/overview/get-support.html",

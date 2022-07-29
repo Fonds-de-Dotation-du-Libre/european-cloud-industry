@@ -1,6 +1,6 @@
 {
   "created": "2022-03-31",
-  "title": "Patrowl SAS",
+  "title": "Patrowl",
   "type": "Organisation",
   "logo_url": "https://patrowl.io/wp-content/uploads/2022/01/logo.png",
   "location": {
@@ -26,18 +26,18 @@
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Google Cloud Security Command Center",
-      "similiar_solution_url": "https://cloud.google.com/security-command-center",
+      "similar_solution_url": "https://cloud.google.com/security-command-center",
       "category": "Cybersecurity"
       },{
       "title": "Crashtest Security",
-      "similiar_solution_url": "https://crashtest-security.com/",
+      "similar_solution_url": "https://crashtest-security.com/",
       "category": "Cybersecurity"
       },{
       "title": "Invicti Security",
-      "similiar_solution_url": "https://www.invicti.com/",
+      "similar_solution_url": "https://www.invicti.com/",
       "category": "Cybersecurity"
       }],
-    "licence_list": ["AGPL-3.0 License"],
+    "licence_list": ["AGPL v3.0"],
     "source_code_download": "https://github.com/Patrowl/PatrowlManager.git",
     "source_code_profile": "",
     "commercial_support_url": "https://patrowl.io/en/contact/",

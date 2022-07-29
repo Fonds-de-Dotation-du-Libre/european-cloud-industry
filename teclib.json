@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-04",
-	"title": "Teclib Group",
+	"title": "Teclib",
 	"type": "Organisation",
 	"logo_url": "https://www.teclib-edition.com/wp-content/uploads/2016/04/logo-teclib-185x60-3.png",
 	"location": {
-		"title": "Teclib Group",
+		"title": "Teclib Group SAS",
 		"address": "231 Rue St Honoré",
 		"postal_code": "75001",
 		"city": "Paris",
@@ -17,6 +17,27 @@
 	"website_url": "https://www.teclib-edition.com/en/",
 	"founded_year": 2009,
 	"kpi_list": [{
+		"year": 2020,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "5 091 508 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
+	},{
+		"year": 2019,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "4 826 387 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
+	},{
+		"year": 2018,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "4 732 194 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/TECLIB-513893503/"
+	},{
 		"year": 2017,
 		"staff": 49,
 		"earnings": "-2 400 EUR",
@@ -40,14 +61,14 @@
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
 			"title": "spicework service desk",
-			"similiar_solution_url": "https://www.spiceworks.com/",
+			"similar_solution_url": "https://www.spiceworks.com/",
 			"category": "Networking"
 		}, {
 			"title": "jira service management",
-			"similiar_solution_url": "https://www.atlassian.com/software/jira/service-management",
+			"similar_solution_url": "https://www.atlassian.com/software/jira/service-management",
 			"category": "Networking"
 		}],
-		"licence_list": ["Free software GPL v2"],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/glpi-project/glpi.git",
 		"source_code_profile": "https://www.openhub.net/p/glpi-project/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",
@@ -84,7 +105,7 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Hexanode UEM",
-			"similiar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
+			"similar_solution_url": "https://www.hexnode.com/mobile-device-management/unified-endpoint-management/",
 			"category": "Application"
 		}],
 		"licence_list": ["LGPL v3.0"],
@@ -106,18 +127,18 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Mayan EDMS",
-			"similiar_solution_url": "https://www.mayan-edms.com/",
+			"similar_solution_url": "https://www.mayan-edms.com/",
 			"category": "Application"
 		}, {
 			"title": "eXo Platform",
-			"similiar_solution_url": "https://www.exoplatform.com/",
+			"similar_solution_url": "https://www.exoplatform.com/",
 			"category": "Application"
 		}, {
 			"title": "Alfresco Community Edition",
-			"similiar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
+			"similar_solution_url": "https://www.alfresco.com/ecm-software/alfresco-community-editions",
 			"category": "Application"
 		}],
-		"licence_list": ["Affero GPL v2"],
+		"licence_list": ["AGPL v2.0"],
 		"source_code_download": "https://github.com/kimios/kimios.git",
 		"source_code_profile": "https://www.openhub.net/p/kimios/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.teclib-edition.com/en/contact-us/",

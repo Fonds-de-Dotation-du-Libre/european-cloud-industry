@@ -1,6 +1,6 @@
 {
 	"created": "2022-03-18",
-	"title": "Bluemind SAS",
+	"title": "Bluemind",
 	"type": "Organisation",
 	"logo_url": "https://www.bluemind.net/identity/static/abm/logo-bm.png",
 	"location": {
@@ -15,30 +15,65 @@
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://www.bluemind.net/",
-	"founded_year": 2021,
-	"kpi_list": [],
+	"founded_year": 2010,
+	"kpi_list": [{
+		"year": 2020,
+		"staff": 24,
+		"earnings": "",
+		"total_assets": "3 322 329 EUR",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": 2019,
+		"staff": 20,
+		"earnings": "",
+		"total_assets": "2 040 776 EUR",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": 2018,
+		"staff": 17,
+		"earnings": "",
+		"total_assets": "1 919 145 EUR",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": 2017,
+		"staff": 15,
+		"earnings": "",
+		"total_assets": "1 631 704 EUR",
+		"revenues": "",
+		"source_url": ""
+	}, {
+		"year": 2016,
+		"staff": 15,
+		"earnings": "",
+		"total_assets": "1 480 973 EUR",
+		"revenues": "",
+		"source_url": ""
+	}],
 	"solution_list": [{
 		"title": "BlueMind",
 		"logo_url": "https://www.bluemind.net/identity/static/abm/logo-bm.png",
-		"website_url": "https://www.bluemind.net/produit/",
-		"created_year": 2021,
+		"website_url": "https://www.bluemind.net/en/the-bluemind-solution/",
+		"created_year": 2012,
 		"description": "BlueMind is a free software suite for enterprise messaging, calendaring and collaborative work. BlueMind is developed in France and is presented as an alternative to MS Exchange and M365.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
-			"title": "OBM 3",
-			"similiar_solution_url":"https://obm.org/",
+			"title": "Microsoft 365",
+			"similar_solution_url": "https://www.office.com/",
 			"category": "Workspace"
-			}, {
-			"title": "Kolab",
-      			"similiar_solution_url":"https://www.kolab.org/",
+		}, {
+			"title": "Nextcloud",
+      			"similar_solution_url":"https://nextcloud.com/",
 			"category": "Workspace"
-			}, {
+		}, {
 			"title": "Kopano",
-     			"similiar_solution_url":"https://kopano.com/",
+     			"similar_solution_url":"https://kopano.com/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["AGPL v3"],
-		"source_code_download": "",
+		"licence_list": ["AGPL v3.0"],
+		"source_code_download": "https://download.bluemind.net/bm-download/register",
 		"source_code_profile": "",
 		"commercial_support_url": "",
 		"floss_software": true,
@@ -50,157 +85,157 @@
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/07/logo-lightbg-sq.png",
       			"country": "FR",
       			"industry": "Information Technology"
-    			},{
+		},{
      	 		"title": "FactorFx",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2016/03/LogoFFX-3.jpg",
       			"country": "FR",
-      			"industry": "Information Technology"
-    			},{
+			"industry": "Information Technology"
+		},{
      	 		"title": "HELPLINE",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/03/logo_helpline-cmjn.png",
       			"country": "FR",
       			"industry": "Information Technology"
-    			},{
+		},{
      	 		"title": "Yellow Network",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-yellownetwork.png",
       			"country": "FR",
       			"industry": "Information Technology"
-    			},{
+		},{
 			"title": "Gematique",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/10/logo-gematique.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "POP-IT",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/lol-popit.jpg",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "365IT",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-3651it.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Alter Way",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo_alterway_cartouche_RVB-1-320x146.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Coaxis",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-coaxis.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Caplaser",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-caplaser.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Magic Online",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2016/05/MAgic-online-1.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Issal",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/05/logo-ISSAL-multicolor-1-320x146.png",
       			"country": "DZ",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Impro Solutions",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/11/impro-320x146.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Téicée",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-teicee.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Héliantis",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-heliantis.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Syloé",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/10/logo-syloe.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Orix",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2016/04/ORIX-logo-2.jpg",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Data expertise",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/03/dataexpertise-1.png",
       			"country": "FR",
       			"industry": "Information Technology"
 			},{
-			"title": "Aramys",
+		"title": "Aramys",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/05/aramys-sans-contour-logo-.png",
       			"country": "FR",
       			"industry": "Information Technology"
 			},{
-			"title": "SOS Consulting",
+		"title": "SOS Consulting",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/07/logo-sos-1.jpg",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Computic",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/07/logo-computic.png",
       			"country": "BE",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Centaur",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/05/centaur-logo-288-dpi-320x146.jpg",
       			"country": "DE",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Fonia",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/02/logo-fonia-header-320x146.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "GPLExpert",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/02/GPLExpert-1-320x146.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Hélium",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/02/unnamed-1-320x146.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "M.G.M Solutions",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/11/MGM-solutions-320x146.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "DECOIT",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/11/carre-210x146.png",
       			"country": "DE",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Smile CI",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/Smile-CI-1.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Eoris IT Solutions",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/Eoris-2.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "INFOTELECOM",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/logo-infotelecom-red-white-1.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Atémis",
       			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/atemis-1.png",
       			"country": "FR",
       			"industry": "Information Technology"
-			}],
+		}],
 		"success_case_list": [{
       			"title": "The city and the agglomeration of Auxerre migrate their 1100 users accounts to BlueMind",
      			"description": "The city of Auxerre and the community of Agglomeration used BlueMind in their approach of mutualization of services as well as to better define the collaborative base to be proposed to its users by starting from a first perimeter: shared agenda, contacts, mobility, tasks... extensible towards extended collaboration.",
@@ -208,70 +243,70 @@
       			"industry": "Public Administration and Government",
       			"customer": "The city and the agglomeration of Auxerre",
       			"country": "FR",
-				"language": "fr",
+			"language": "en",
       			"success_case_url": "https://www.bluemind.net/cas-clients/auxerre-ville-et-agglo/"
-   			 },{
+		 },{
       			"title": "The Group Gagneraud migrates 1500 users to the BlueMind solution",
       			"description": "Groupe Gagneraud used BlueMind to optimize the overall cost of its messaging system and use a multi-platform collaborative solution",
       			"image_url": "https://www.bluemind.net/wp-content/uploads/2016/03/Groupe-Gagneraud-1.jpg",
       			"industry": "Construction",
       			"customer": "Groupe Gagneraud",
       			"country": "FR",
-     			"language": "fr",
+     			"language": "en",
       			"success_case_url": "https://www.bluemind.net/wp-content/uploads/2016/03/casclient-gagneraud.pdf"
-    			},{
+		},{
       			"title": "Migration project from Lotus Domino to the BlueMind solution concerning more than 1300 user accounts.",
       			"description": "Mairie de Saint-Ouen used BlueMind to reduce costs, modernize and simplify the management of collaborative tools and define an extensible and open base for collaborative tools",
       			"image_url": "https://www.bluemind.net/wp-content/uploads/2016/01/sto_quadri_base-300x209.jpg",
       			"industry": "Public Administration and Government",
       			"customer": "Mairie de Saint-Ouen",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "en",
       			"success_case_url": "https://www.bluemind.net/cas-clients/mairie-de-saint-ouen/"
-    			},{
+		},{
 			"title": "Migration project of a messaging system based on OpenSource components to BlueMind and ActiveDirectory",
       			"description": "Centre Hospitalier des Pyrénées used BlueMind in order to provide agents with a tool that has a battery of modern and practical functionalities; To allow agents to have all functionalities available wherever they are in the institution; To modernize and simplify the daily administration of the collaborative tools; To define an extensible and open base for the collaborative tools",
       			"image_url": "https://www.bluemind.net/wp-content/uploads/2016/03/logo-ch-pyr-1.jpg",
       			"industry": "Health and Life Sciences",
       			"customer": "Centre Hospitalier des Pyrénées",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "en",
       			"success_case_url": "https://www.bluemind.net/cas-clients/centre-hospitalier-des-pyrenees/"
-    			},{
+		},{
 			"title": "Migration from Exchange to BlueMind at S20 Industries",
       			"description": "S20 Industries used BlueMind to reduce costs; modernize and simplify the management of collaborative tools; define an extensible and open base for collaborative tools",
       			"image_url": "https://www.bluemind.net/wp-content/uploads/2017/10/S20-industries-logo.png",
       			"industry": "Manufacturing",
       			"customer": "S20 Industries",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "en",
       			"success_case_url": "https://www.bluemind.net/cas-clients/s20-industries/"
-    			},{
+		},{
       			"title": "Migration from Microsoft NT 4.0 to BlueMind at Douarnenez City Hall",
      			"description": "The implementation of BlueMind follows a complete overhaul of the information system started in 2011. In 2014 the city launched an economic and technological study to find a new collaborative messaging solution. They chose BlueMind which fulfilled all the functional criteria in addition to being French, open source and much less expensive than American solutions.",
       			"image_url": "",
       			"industry": "Public Administration and Government",
       			"customer": "Mairie de Douarnenez",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "en",
       			"success_case_url": "https://www.bluemind.net/wp-content/uploads/2019/01/Ville-de-Douarnenez.pdf"
-    			},{
+		},{
       			"title": "Migration project from Gosa to the BlueMind solution concerning 350 user accounts.",
      			"description": "They used BlueMind to modernize and simplify the management of collaborative tools, define an extensible and open base for collaborative tools",
 			"image_url": "https://www.bluemind.net/wp-content/uploads/2017/11/mairie-savigny-sur-orge-68x150.png",
       			"industry": "Public Administration and Government",
       			"customer": "Mairie de Savigny-sur-Orge",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "en",
      		 	"success_case_url": "https://www.bluemind.net/cas-clients/mairie-savigny-sur-orge/"
-    			},{
+		},{
       			"title": "Migration from Zimbra to BlueMind at Usharesoft",
       			"description": "UShareSoft used BlueMind to reduce costs, modernize and simplify the management of collaborative tools such as calendars, aliases and shared mailboxes",
       			"image_url": "https://www.bluemind.net/wp-content/uploads/2017/09/UShareSoft-logo.png",
       			"industry": "Information Technology",
       			"customer": "UShareSoft",
       			"country": "FR",
-      			"language": "fr",
+      			"language": "en",
       			"success_case_url": "https://www.bluemind.net/cas-clients/usharesoft/"
     			}]
   		}]

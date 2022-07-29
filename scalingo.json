@@ -1,6 +1,6 @@
 {
   "created": "2022-04-15",
-  "title": "Scalingo SAS",
+  "title": "Scalingo",
   "type": "Organisation",
   "logo_url": "https://www.datocms-assets.com/36416/1640774309-transparent-scalingo-logo.png?fm=jpg&max-w=680",
   "location": {
@@ -39,16 +39,36 @@
     "description": "Scalingo is a France-based hosting company providing web developers with production-ready application hosting services. Its services have served more than 300 teams and hosted more than 2500 applications from more than 17 countries worldwide. Its hosting services are backed by a Tier III data center located in Paris, France. The Scalingo website is available in two languages: English and French.",
     "category_list": ["Developer environment"],
     "similar_solution_list": [{
-      "title": "OpenShift",
-      "similiar_solution_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+      "title": "Cloudways",
+      "similar_solution_url": "https://www.cloudways.com/en/",
       "category": "Developer environment"
     },{
       "title": "Heroku",
-      "similiar_solution_url": "https://www.heroku.com/",
+      "similar_solution_url": "https://www.heroku.com/",
       "category": "Developer environment"
     },{
-      "title": "Clever Cloud",
-      "similiar_solution_url": "https://www.clever-cloud.com/",
+      "title": "Digital Ocean App Platform",
+      "similar_solution_url": "https://try.digitalocean.com/app-platform/",
+      "category": "Developer environment"
+    },{
+      "title": "Engine Yard",
+      "similar_solution_url": "https://www.engineyard.com/",
+      "category": "Developer environment"
+    },{
+      "title": "Google Firebase",
+      "similar_solution_url": "https://firebase.google.com/",
+      "category": "Developer environment"
+    },{
+      "title": "Google App Engine",
+      "similar_solution_url": "https://cloud.google.com/appengine",
+      "category": "Developer environment"
+    },{
+      "title": "Amazon Elastic Beanstalk",
+      "similar_solution_url": "https://aws.amazon.com/de/elasticbeanstalk/",
+      "category": "Developer environment"
+    },{
+      "title": "Scalingo",
+      "similar_solution_url": "https://scalingo.com/",
       "category": "Developer environment"
     }],
     "licence_list": ["Proprietary"],

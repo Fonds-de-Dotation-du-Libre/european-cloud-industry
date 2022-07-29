@@ -4,7 +4,7 @@
   "type": "Association",
   "logo_url": "https://threefold.io/assets/static/tft_color_logo.3e8a41b.7b655c36cc78de99d8ef9da582b8cc8c.svg",
   "location": {
-    "title": "Threefold Tech",
+    "title": "Threefold Tech NV",
     "address": "Antwerpse Steenweg 19",
     "postal_code": "9080",
     "city": "Lochristi",
@@ -26,34 +26,34 @@
     "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "Akash",
-      "similiar_solution_url": "https://akash.network/",
+      "similar_solution_url": "https://akash.network/",
       "category": "Storage and database"
     },{
       "title": "Dfinity",
-      "similiar_solution_url": "https://dfinity.org/",
+      "similar_solution_url": "https://dfinity.org/",
       "category": "Application"
     },{
       "title": "Golem",
-      "similiar_solution_url": "https://www.golem.network/",
+      "similar_solution_url": "https://www.golem.network/",
       "category": "Application"
     },{
       "title": "Syntropy",
-      "similiar_solution_url": "https://www.syntropynet.com/",
+      "similar_solution_url": "https://www.syntropynet.com/",
       "category": "Application"
     },{
       "title": "Siacoin",
-      "similiar_solution_url": "https://sia.tech/",
+      "similar_solution_url": "https://sia.tech/",
       "category": "Application"
     },{
       "title": "Filecoin",
-      "similiar_solution_url": "https://filecoin.io/",
+      "similar_solution_url": "https://filecoin.io/",
       "category": "Application"
     },{
       "title": "Helium",
-      "similiar_solution_url": "https://www.helium.com/",
+      "similar_solution_url": "https://www.helium.com/",
       "category": "Application"
     }],
-    "licence_list": ["Apache-2.0"],
+    "licence_list": ["Apache v2.0"],
     "source_code_download": "https://github.com/threefoldfoundation/home.git",
     "source_code_profile": "",
     "commercial_support_url": "",

@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-06",
-	"title": "Enyx SA",
+	"title": "Enyx",
 	"type": "Organisation",
 	"logo_url": "https://enyx.com/wp-content/uploads/2018/07/enyx-logo-horizontal-v-2015@3x.png",
 	"location": {
@@ -25,7 +25,7 @@
 		"description": "nxLink is a suite of next-generation network products designed to address performance problems such as latency, link management and bandwidth optimization. Leveraging FPGA technology, nxLink makes networks smarter by performing high level processing while sustaining wire-speed and offering nanosecond scale latency",
 		"category_list": ["Networking"],
 		"similar_solution_list": [],
-		"licence_list": ["GPL-3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
@@ -44,18 +44,18 @@
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "SolidWorks",
-			"similiar_solution_url": "https://www.solidworks.com/fr",
+			"similar_solution_url": "https://www.solidworks.com/fr",
 			"category": "Application"
 		}, {
 			"title": "Fusion 360",
-			"similiar_solution_url": "https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription",
+			"similar_solution_url": "https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription",
 			"category": "Application"
 		}, {
 			"title": "OnShape",
-			"similiar_solution_url": "https://www.onshape.com/en/",
+			"similar_solution_url": "https://www.onshape.com/en/",
 			"category": "Application"
 		}],
-		"licence_list": ["GPL-3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
@@ -73,7 +73,7 @@
 		"description": "nxFeed is a feed handler which streamlines market data application development by processing data feeds on FPGA and making them available to applications via a simple, normalized API.",
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
-		"licence_list": ["GPL-3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
@@ -91,7 +91,7 @@
 		"description": "The Enyx Development Framework (nxFramework) is a hardware and software development environment designed to efficiently build and maintain ultra-low latency FPGA applications for the financial industry.",
 		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
-		"licence_list": ["GPL-3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",
@@ -109,7 +109,7 @@
 		"description": "Best-in-class soft-hardware IP cores",
 		"category_list": ["CPU"],
 		"similar_solution_list": [],
-		"licence_list": ["GPL-3.0"],
+		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://github.com/enyx-opensource",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.enyx.com/support/",

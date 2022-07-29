@@ -1,6 +1,6 @@
 {
   "created": "2022-03-22",
-  "title": "OpenNode OÜ",
+  "title": "OpenNode",
   "type": "Organisation",
   "logo_url": "https://docs.waldur.com/assets/waldur-logo.svg",
   "headquarter_country": "EE",
@@ -69,23 +69,23 @@
     "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
       "title": "SlapOS",
-      "similiar_solution_url": "https://slapos.nexedi.com/",
+      "similar_solution_url": "https://slapos.nexedi.com/",
       "category": "Service lifecycle automation"
     }, {
       "title": "Kubernetes",
-      "similiar_solution_url": "https://kubernetes.io/",
+      "similar_solution_url": "https://kubernetes.io/",
       "category": "Service lifecycle automation"
     }, {
       "title": "Virtengine",
-      "similiar_solution_url": "https://virtengine.com/",
+      "similar_solution_url": "https://virtengine.com/",
       "category": "Storage and database"
    },{
       "title": "Vscaler",
-      "similiar_software_url": "https://www.vscaler.com/",
+      "similar_software_url": "https://www.vscaler.com/",
       "category": "Storage and database"
     },{
       "title": "OpenStack",
-      "similiar_software_url":"https://www.openstack.org/",
+      "similar_software_url":"https://www.openstack.org/",
       "category": "Storage and database"
     }],
     "licence_list": ["MIT"],

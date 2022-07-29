@@ -1,11 +1,11 @@
 {
 	"created": "2022-04-04",
-	"title": "Outscale SAS",
+	"title": "Outscale",
 	"type": "Organisation",
 	"logo_url": "https://en.outscale.com/wp-content/themes/Outscale_theme/includes/images/outscale_logo_white.svg",
 	"location": {
-		"title": "Outscale",
-		"address": "1 RUE ROYALE 319 BUREAUX DE LA COLLINE",
+		"title": "Outscale SASU",
+		"address": "1 Rue Royale, 319 Bureaux de la Colline",
 		"postal_code": "92210",
 		"city": "Paris",
 		"country": "FR",
@@ -95,7 +95,7 @@
 		"created_year": 2010,
 		"description": "Founded in 2010 and a strategic partner of Dassault Systèmes, 3DS OUTSCALE is at the forefront of Cloud Computing infrastructure services (IaaS). 3DS OUTSCALE’s technology makes an automated and adaptable Cloud available to businesses, supporting them in the most complex IT projects while controlling their operational aspects. You boost your IT infrastructure’s reactivity, with request responses that only take a few seconds.",
 		"category_list": ["Operation management"],
-		"licence_list": ["BSD 3-Clause New or Revised"],
+		"licence_list": ["BSD 3-clause new or revised"],
 		"source_code_download": "https://github.com/outscale/osc-cli",
 		"source_code_profile": "",
 		"commercial_support_url": "https://en.outscale.com/technical-support/",

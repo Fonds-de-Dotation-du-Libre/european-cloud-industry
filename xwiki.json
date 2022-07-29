@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-12",
-	"title": "XWiki SAS",
+	"title": "XWiki",
 	"type": "Organisation",
 	"logo_url": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
 	"location": {
@@ -61,18 +61,18 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Confluence",
-			"similiar_solution_url": "https://www.atlassian.com/software/confluence",
+			"similar_solution_url": "https://www.atlassian.com/software/confluence",
 			"category": "Workspace"
 		}, {
 			"title": "MediaWiki",
-			"similiar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
+			"similar_solution_url": "https://www.mediawiki.org/wiki/MediaWiki",
 			"category": "Workspace"
 		}, {
 			"title": "Sharepoint",
-			"similiar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
 			"category": "Workspace"
 		}],
-		"licence_list": ["LGPL-2.1"],
+		"licence_list": ["LGPL v2.1"],
 		"source_code_download": "https://www.xwiki.org/xwiki/bin/view/Download/",
 		"source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.xwiki.org/xwiki/bin/view/Main/Support#HProfessionalSupport",
@@ -330,7 +330,7 @@
 			"similar_solution_url": "https://simplenote.com/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["AGPL v3"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/xwiki-labs/cryptpad",
 		"source_code_profile": "https://www.openhub.net/p/cryptpad/analyses/latest/languages_summary",
 		"commercial_support_url": "https://cryptpad.fr/support/#tickets",

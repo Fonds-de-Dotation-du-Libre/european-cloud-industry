@@ -9,7 +9,7 @@
     "postal_code": "D6 Box 70 101 21",
     "city": "Stockholm",
     "country": "SE",
-    "phone_contact": "+4684545ssab700",
+    "phone_contact": "",
     "mail_contact": "",
     "coordinate_list": [59.331269459235685, 18.057021940761906]
   },
@@ -59,7 +59,27 @@
     "created_year": "",
     "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
     "category_list": ["Operation management"],
-    "similar_solution_list": [],
+    "similar_solution_list": [{
+      "title": "Codesys",
+      "similar_solution_url": "https://www.codesys.com/",
+      "category": "Developer environment"
+    }, {
+      "title": "Beremiz",
+      "similar_solution_url": "https://beremiz.org/",
+      "category": "Developer environment"
+    }, {
+      "title": "Siemens Simatic WinCC",
+      "similar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html ",
+      "category": "Developer environment"
+    }, {
+      "title": "GE Cimplicity",
+      "similar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+      "category": "Developer environment"
+    }, {
+      "title": "InduSoft WebStudio",
+      "similar_solution_url": "https://on.factorysoftware.fr/indusoft-web-studio-devient-aveva-edge",
+      "category": "Developer environment"
+    }],
     "licence_list": ["GNU/GPL"],
     "source_code_download": "https://sourceforge.net/projects/proview/files/proview/",
     "source_code_profile": "",
