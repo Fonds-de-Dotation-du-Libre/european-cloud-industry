@@ -76,8 +76,24 @@
 		"website_url": "https://mobilizon.fr/",
 		"created_year": 2019,
 		"description": "Mobilizon is free and open source software maintained and funded by the French non-profit organization Framasoft. Mobilizon is a tool to find, post and organize events. It's is not a huge platform, but a multitude of networked websites. This federated architecture avoids monopolies and allows for a variety of terms of use",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+      "title": "Eventbrite",
+      "category": "Workspace",
+      "similar_solution_url": "https://www.eventbrite.com/"
+    }, {
+    	"title": "Meetup.com",
+	"category": "Workspace",
+	"similar_solution_url": "https://www.meetup.com/"
+    }, {
+    	"title": "Ex Ordo",
+	"category": "Workspace",
+	"similar_solution_url": "https://www.exordo.com/"
+    }, {
+    	"title": "Abilian BCMS",
+	"category": "Worksplace",
+	"similar_solution_url": "https://abilian.com/fr/solutions/conventions-affaires/"
+    }],
 		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/framasoft/mobilizon",
 		"source_code_profile": "",
