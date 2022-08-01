@@ -143,15 +143,15 @@
 		"website_url": "https://www.ateme.com/product-network-management-system/",
 		"created_year": "",
 		"description": "With Ateme’s PILOT management and orchestration solutions you simplify your video-delivery operations, create efficiencies, and exploit new revenue opportunities with business intelligence and automation – both on-premises and in the cloud.",
-		"category_list": ["Service Lifecycle Automation"],
+		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
 			"title": "Dynatrace",
 			"similar_solution_url": "https://www.dynatrace.com/",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}, {
 			"title": "SlapOS",
 			"similar_solution_url": "https://slapos.nexedi.com",
-			"category": "Service Lifecycle Automation"
+			"category": "Service lifecycle automation"
 		}],
 	    	"licence_list": [],
 	    	"source_code_download": "",
