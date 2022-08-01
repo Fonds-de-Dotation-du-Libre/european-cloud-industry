@@ -4,60 +4,25 @@
   "type": "Organisation",
   "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/signature-6wind-retina.png",
   "location": {
-    "title": "6wind",
+    "title": "6wind SA",
     "address": "3 AV Des Pres",
     "postal_code": "78180",
     "city": "Montigny le Bretonneux",
     "country": "FR",
     "phone_contact": "+33(0)139309210",
     "mail_contact": "",
-    "coordinate_list": []
+    "coordinate_list": [48.787500212346075, 2.0458126932546468]
   },
   "subsidiary_location_list": ["US", "SG"],
   "website_url": "https://www.6wind.com/",
   "founded_year": "2000",
   "kpi_list": [{
-    "year": "2021",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
     "year": "2020",
-    "staff": "",
+    "staff": "34",
     "earnings": "",
-    "total_assets": "",
+    "total_assets": "7 382 055 EUR",
     "revenues": "",
-    "source_url": ""
-  }, {
-    "year": "2019",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2018",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2017",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
-  },{
-    "year": "2016",
-    "staff": "",
-    "earnings": "",
-    "total_assets": "",
-    "revenues": "",
-    "source_url": ""
+    "source_url": "https://www.verif.com/bilans-gratuits/6-WIND-432424356/"
   }],
   "solution_list": [{
     "title": "6WINDCloud",
@@ -65,18 +30,14 @@
     "website_url": "https://www.6wind.com/6windcloud-cloud-native/",
     "created_year": "",
     "description": "6WINDCloud is an innovative disaggregated networking software solution that embraces the Cloud Native architecture to boost your network growth and simplify the network’s operational model while reducing costs and increasing profitability.",
-    "category_list": ["Networking"],
-    "similar_solution_list": [{
-      "title": "",
-      "similar_solution_url": "",
-      "category": ""
-    }],
+    "category_list": ["Service lifecycle automation"],
+    "similar_solution_list": [],
     "licence_list": [],
-    "source_code_download": "https://github.com/orgs/6WIND/repositories",
+    "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.6wind.com/resources/support/",
     "floss_software": false,
-    "commercial_support_open_source_version": true,
+    "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
     "reference_list": [{
@@ -185,16 +146,7 @@
       "country": "US",
       "industry": "Information Technology"
     }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "success_case_list": []
   },{
     "title": "Virtual Service Router (VSR)",
     "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/virtual-router-icon.png.webp",
@@ -202,25 +154,16 @@
     "created_year": "",
     "description": "6WIND Virtual Service Router (VSR) is a high-performance and scalable virtualized software router optimized for Communication Service Providers and Enterprises. It is deployed bare-metal, virtualized, or containerized on COTS servers in private and public clouds.",
     "category_list": ["Router"],
-    "similar_solution_list": [{
-      "title": "",
-      "similar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
-    "source_code_download": "https://github.com/orgs/6WIND/repositories",
+    "source_code_download": "",
     "source_code_profile": "",
     "commercial_support_url": "https://www.6wind.com/resources/support/",
     "floss_software": false,
-    "commercial_support_open_source_version": true,
+    "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
+    "reference_list": [],
     "success_case_list": [{
       "title": "Netscout Arbor Replaces VyOS vRouters with 6WIND Virtual Border Router",
       "description": "6WIND Virtual Router met Netscout's requirements to replace the VyOS virtual routers directly on its existing servers. Based on DPDK (Data Plane Development Kit) for performance, 6WIND Virtual Router separates its full featured data plane and control plane for use case flexibility and ease-of-migration. ",
@@ -265,11 +208,7 @@
     "created_year": "",
     "description": "6WIND Virtual Accelerator® is a host network acceleration software that provides a solution to power the virtual networking infrastructure with the required features, performance and scalability. Used in Network Function Virtualization infrastructure (NFVi), Data Center Virtualization or Network Appliance Virtualization use cases.",
     "category_list": ["Networking"],
-    "similar_solution_list": [{
-      "title": "",
-      "similar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "https://github.com/orgs/6WIND/repositories",
     "source_code_profile": "",
@@ -278,22 +217,8 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "6WINDGate",
     "logo_url": "https://www.6wind.com/wp-content/uploads/2020/10/windgate-light.png.webp",
@@ -301,34 +226,16 @@
     "created_year": "",
     "description": "6WINDGate provides the foundation for next-generation networking applications. Deployed in Tier 1 networks, 6WINDGate delivers the much-needed software solutions that enable OEMs to build networking products for 5G, SD-WAN, and IoT markets. This includes IP backhaul solutions, Unified Threat Management (UTM) products, universal Customer Premises Equipment (uCPE), Radio Access Network (RAN) solutions, and much more.",
     "category_list": ["Networking"],
-    "similar_solution_list": [{
-      "title": "",
-      "similar_solution_url": "",
-      "category": ""
-    }],
+    "similar_solution_list": [],
     "licence_list": [],
     "source_code_download": "https://github.com/orgs/6WIND/repositories",
     "source_code_profile": "",
     "commercial_support_url": "https://www.6wind.com/resources/support/",
     "floss_software": false,
-    "commercial_support_open_source_version": true,
+    "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/6WIND",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   }]
 }
