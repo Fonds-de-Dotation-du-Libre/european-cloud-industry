@@ -170,19 +170,19 @@
 		"website_url": "https://athonet.com/products/athonet-epc/",
 		"created_year": 2006,
 		"description": "Athonet EPC is a carrier-grade core that has been deployed in the field for more than 15 years, with over 700,00 active private SIMs and 1000 licensed installations. The Athonet EPC is certified to work with radio access networks (RAN) from many of the top vendors and innovative new companies.",
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "Amarisoft Callbox",
 		      	"similar_solution_url": "https://www.amarisoft.com/products/test-measurements/amari-lte-callbox/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}, {
 			"title": "Rapid.Space ORS",
 		      	"similar_solution_url": "https://www.rapid.space/products/ors",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}, {
 			"title": "Yates MiniCore",
 			"similar_solution_url": "https://yatebts.com/products/minicore/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -200,11 +200,11 @@
 		"website_url": "https://athonet.com/products/athonet-tactical-solution-cube/",
 		"created_year": "",
 		"description": "The Tactical Cube is a compact portable solution that includes a radio (RAN) and mobile core. The mobile core is hosted on off-the-shelf servers or on Athonet EX-BOX server providing IP65 protection while the radio acts as a base transceiver station with IP65 protection.",
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "Bitium",
 			"similar_solution_url": "https://www.bittium.com/tactical-communications/bittium-tactical-lte-access-point",
-			"category": "vRAN"
+			"category": "vRan"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -222,7 +222,7 @@
 		"website_url": "https://athonet.com/products/athonet-ims/",
 		"created_year": "",
 		"description": "Athonet IMS (IP Multimedia Subsystem) provides native voice and video services to LTE or 5G terminals and integration with mission critical push-to-talk applications or with enterprise IP-PBX and phone systems.",
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
@@ -240,19 +240,19 @@
 		"website_url": "https://athonet.com/products/athonet-tactical-solution-backpack/x",
 		"created_year": "",
 		"description": "A full-featured, standalone LTE and 5G network solution that is trusted and field-proven for secure, tactical and rapid deployment.",
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 		"similar_solution_list": [{
 			"title": "ECX Pack",
 			"similar_solution_url": "https://quortus.com/solutions/ecx-pack/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 		}, {
 			"title": "Lociva",
 			"similar_solution_url": "https://www.lociva.com/",
-			"category": "vRAN"
+			"category": "vRan"
 		}, {
 			"title": "Atos Lifelink networks systems",
 			"similar_solution_url": "https://atos.net/en/solutions/critical-communications-systems-ccs/private-lte-networks-systems",
-			"category": "vRAN"
+			"category": "vRan"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
