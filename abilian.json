@@ -137,11 +137,19 @@
     "similar_solution_list": [{
       "title": "Eventbrite",
       "category": "Workspace",
-      "similar_solution_url": "https://www.eventbrite.ie/"
-    },{
-      "title": "Ex Ordo",
-      "category": "Workspace",
-      "similar_solution_url": "https://www.exordo.com/"
+      "similar_solution_url": "https://www.eventbrite.com/"
+    }, {
+    	"title": "Meetup.com",
+	"category": "Workspace",
+	"similar_solution_url": "https://www.meetup.com/"
+    }, {
+    	"title": "Ex Ordo",
+	"category": "Workspace",
+	"similar_solution_url": "https://www.exordo.com/"
+    }, {
+    	"title": "Abilian BCMS",
+	"category": "Worksplace",
+	"similar_solution_url": "https://abilian.com/fr/solutions/conventions-affaires/"
     }],
     "licence_list": [],
     "source_code_download": "",
