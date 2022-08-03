@@ -81,6 +81,161 @@
 			"logo_url": "https://cdn.shopify.com/s/files/1/0051/3949/7078/files/BenchSentryGenie_Logo_FLAT_Oct2021_Web_WhiteText_250x.png?v=1635540910",
 			"country": "US",
 			"industry": "Banking and Finance"
+		},{
+			"title": "Biamp",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/biamp-logo.png",
+			"country": "US",
+			"industry": "Telecommunication"
+		},{
+			"title": "Blokable",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/blokable.png",
+			"country": "US",
+			"industry": "Housing and Real Estate"
+		},{
+			"title": "Carnegie Technologies",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/carnegie.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Clinomic",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/clinomic.png",
+			"country": "DE",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "E.on",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/eon.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Flightcell",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/flightcell.png",
+			"country": "NZ",
+			"industry": "Aviation and Aerospace"
+		},{
+			"title": "GridX",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/gridx.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Gunnebo",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/gunnebo.png",
+			"country": "SE",
+			"industry": "Defense"
+		},{
+			"title": "i-bee",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/ibee.png",
+			"country": "US",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Iotas",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/iotas.png",
+			"country": "US",
+			"industry": "Housing and Real Estate"
+		},{
+			"title": "Jolt",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/jolt-logo-new_blue-tranparent-1.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Kinestral",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/kinestral.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "KVH",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/kvh.png",
+			"country": "US",
+			"industry": "Telecommunication"
+		},{
+			"title": "Lafon Technologies",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/lafon.png",
+			"country": "US",
+			"industry": "Defense"
+		},{
+			"title": "Lyft",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/lyft.png",
+			"country": "US",
+			"industry": "Automotive"
+		},{
+			"title": "Macgregor",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/macgregor.png",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "Moia",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/MOIA.png",
+			"country": "DE",
+			"industry": "Automotive"
+		},{
+			"title": "Nike",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/nike.png",
+			"country": "US",
+			"industry": "Commerce and Retail"
+		},{
+			"title": "Northvolt",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/northvolt.png",
+			"country": "SE",
+			"industry": "Information Technology"
+		},{
+			"title": "Panasonic",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/panasonic.png",
+			"country": "JP",
+			"industry": "Manufacturing"
+		},{
+			"title": "Powervault",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/powervault.png",
+			"country": "US",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Proterra",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/Proterra.png",
+			"country": "US",
+			"industry": "Automotive"
+		},{
+			"title": "Schindler",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/schindler.png",
+			"country": "CH",
+			"industry": "Manufacturing"
+		},{
+			"title": "Siemens",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/siemens.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Smart Start",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/smartstart.png",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "Thales",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/thales.png",
+			"country": "FR",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Vaillant Group",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/vaillant.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Whirlpool",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/Whirlpool.png",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "Xaptum",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/xaptum.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "XY Sense",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/xysense.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Zeiss",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/zeiss.png",
+			"country": "DE",
+			"industry": "Information Technology"
 		}],
 		"success_case_list": []
 	}]
