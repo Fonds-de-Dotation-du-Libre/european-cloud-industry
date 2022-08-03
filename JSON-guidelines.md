@@ -88,7 +88,8 @@ List of validated sources for financial data:
 * [https://infocamere.it/](italianbusinessregister.it) (IT-official);
 * [https://find-and-update.company-information.service.gov.uk/](find-and-update.company-information.service.gov.uk) (UK);
 * [https://www.romanian-companies.eu/](https://www.romanian-companies.eu/) (RO-official);
-* [https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/](KVK.nl) (NL-official).
+* [https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/](KVK.nl) (NL-official);
+* [https://www.brreg.no/](Bronnoysund register) (NO-official).
 
 Possible solution_category 
 
