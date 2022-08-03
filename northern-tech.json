@@ -72,7 +72,7 @@
     "website_url": "https://cfengine.com/",
     "created_year": "1993",
     "description": "CFEngine is an open-source configuration management system, written by Mark Burgess. Its primary function is to provide automated configuration and maintenance of large-scale computer systems, including the unified management of servers, desktops, consumer and industrial devices, embedded networked devices, mobile smartphones, and tablet computers.",
-    "category_list": ["Software lifecycle automation"],
+    "category_list": ["Service lifecycle automation"],
     "similar_software_list": [],
     "licence_list": ["GPL v3.0"],
     "source_code_download": "https://cfengine.com/downloads/cfengine-community/",
