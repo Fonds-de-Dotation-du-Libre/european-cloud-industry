@@ -4,8 +4,8 @@
 	"type": "Organisation",
 	"logo_url": "https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/logo_on_white.svg",
 	"location": {
-		"title": "CLEVER Cloud",
-		"address": "3 RUE DE L ALLIER",
+		"title": "Clever Cloud SAS",
+		"address": "3 Rue de l'Allier",
 		"postal_code": "44000",
 		"city": "Nantes",
 		"country": "FR",
@@ -15,374 +15,130 @@
 	"subsidiary_location_list": [],
 	"website_url": "https://www.clever-cloud.com/",
 	"founded_year": 2010,
-	"kpi_list": [],
+	"kpi_list": [{
+		"year": 2018,
+		"staff": "-",
+		"earnings": "",
+		"total_assets": "1 234 604 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/CLEVER-CLOUD-524172699/"
+	}, {
+		"year": 2017,
+		"staff": 6,
+		"earnings": "",
+		"total_assets": "931 504 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/CLEVER-CLOUD-524172699/"
+	}],
 	"solution_list": [{
-		"title": "Add-on Elastic Stack Platinum",
+		"title": "Clever Cloud",
 		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/05/Elastic_NV_logo.svg",
 		"website_url": "https://www.clever-cloud.com/elasticsearch-hosting/",
 		"created_year": "",
-		"description": "A fully managed Elastic stack cluster in platinum version, with monitoring, backups and migration tools.",
-		"category_list": ["Storage and database"],
+		"description": "Solution that helps developers deploy and run their apps with bulletproof infrastructure, automatic scaling, fair pricing and other awesome features. Clever Cloud aims to make an easy-to-use service, without any vendor lock-in and able to grow with users needs.",
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
-			"title": "Solr",
-			"similar_solution_url": "https://solr.apache.org/",
-			"category":"Storage and database"
-		}, {
-			"title": "InfluxDB",
-			"similar_solution_url": "https://www.influxdata.com/",
-			"category":"Storage and database"
-		}, {
-			"title": "TypeSense",
-			"similar_solution_url": "https://typesense.org/",
-			"category":"Storage and database"
-		}, {
-			"title": "Algolia",
-			"similar_solution_url": "https://www.algolia.com/",
-			"category":"Storage and database"
-		}, {
-			"title": "Sphinx",
-			"similar_solution_url": "http://www.sphinxsearch.com/",
-			"category":"Storage and database"
-		}, {
-			"title": "Amazon Cloud Search",
-			"similar_solution_url": "https://aws.amazon.com/fr/cloudsearch/",
-			"category":"Storage and database"
+		      "title": "Cloudways",
+		      "similar_solution_url": "https://www.cloudways.com/en/",
+		      "category": "Developer environment"
+	    	},{
+		      "title": "Heroku",
+		      "similar_solution_url": "https://www.heroku.com/",
+		      "category": "Developer environment"
+		},{
+		      "title": "Digital Ocean App Platform",
+		      "similar_solution_url": "https://try.digitalocean.com/app-platform/",
+		      "category": "Developer environment"
+		},{
+		      "title": "Engine Yard",
+		      "similar_solution_url": "https://www.engineyard.com/",
+		      "category": "Developer environment"
+		},{
+		      "title": "Google Firebase",
+		      "similar_solution_url": "https://firebase.google.com/",
+		      "category": "Developer environment"
+		},{
+		      "title": "Google App Engine",
+		      "similar_solution_url": "https://cloud.google.com/appengine",
+		      "category": "Developer environment"
+		},{
+		      "title": "Amazon Elastic Beanstalk",
+		      "similar_solution_url": "https://aws.amazon.com/de/elasticbeanstalk/",
+		      "category": "Developer environment"
+		},{
+		      "title": "Scalingo",
+		      "similar_solution_url": "https://scalingo.com/",
+		      "category": "Developer environment"
 		}],
-		"licence_list": ["Apache v2.0"],
-		"source_code_download": "https://github.com/CleverCloud/clever-tools.git",
-		"source_code_profile": "https://www.openhub.net/p/CleverClouds_fmkcms_site/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.elastic.co/fr/subscriptions",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Elasticsearch",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Cloud MongoDB hosting",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/04/mongodb.svg",
-		"website_url": "https://www.clever-cloud.com/mongodb-hosting/",
-		"created_year": "",
-		"description": "A fully cloud managed MongoDB hosting, with monitoring, backups and migration tools.",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "Hostwinds",
-			"similar_solution_url": "https://www.hostwinds.com/",
-			"category": "Storage and database"
-		}, {
-			"title": "InterServer",
-			"similar_solution_url": "https://www.interserver.net/",
-			"category": "Storage and database"
-		}, {
-			"title": "Kamatera",
-			"similar_solution_url": "https://www.kamatera.com/",
-			"category": "Storage and database"
-		}, {
-			"title": "LiquidWeb",
-			"similar_solution_url": "LiquidWeb.com",
-			"category": "Storage and database"
-		}],
-		"licence_list": ["Server side public v1"],
-		"source_code_download": "https://github.com/mongodb/mongo",
-		"source_code_profile": "https://www.openhub.net/p/mongodb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Add on MySQL",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/mysql.svg",
-		"website_url": "https://www.clever-cloud.com/deploy-cloud-managed-mysql/",
-		"created_year": "",
-		"description": "A fully managed MySQL service, with monitoring, backups and migration tools.",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "Microsoft Azure",
-			"similar_solution_url": "https://azure.microsoft.com/fr-fr/",
-			"category": "Storage and database"
-		}],
-		"licence_list": ["GPL v2.0"],
-		"source_code_download": "https://github.com/mysql/mysql-server",
-		"source_code_profile": "https://www.openhub.net/p/mysql//analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Add-on PostgreSQL",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/postgresql.svg",
-		"website_url": "https://www.clever-cloud.com/postgresql-hosting/",
-		"created_year": "",
-		"description": "Deploy PostgreSQL applications",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Add On Redis",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/02/redis.svg",
-		"website_url": "https://www.clever-cloud.com/redis-hosting/",
-		"created_year": "",
-		"description": "A fully managed Redis service, with monitoring, backups and migration tools.",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [],
-		"licence_list": ["BSD 3-clause"],
-		"source_code_download": "https://github.com/redis/redis",
-		"source_code_profile": "https://www.openhub.net/p/redis/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.clever-cloud.com/redis-hosting/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Cellar Object Storage",
-		"logo_url": "https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/logo_on_white.svg",
-		"website_url": "https://www.clever-cloud.com/cellar-s3-hosting/",
-		"created_year": "",
-		"description": "An object storage service that is performant, economic and easy to use",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [],
-		"licence_list": [""],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
+		"commercial_support_url": "https://www.clever-cloud.com/doc/find-help/support/",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Pulsar as a Service",
-		"logo_url": "https://www.clever-cloud.com/app/themes/cc-wp-theme/assets/img/brand-assets/logo_on_white.svg",
-		"website_url": "https://www.clever-cloud.com/pulsar-hosting/",
-		"created_year": "",
-		"description": "This is Apache Pulsar on demand: a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API. Clever Cloud provides and manages a Pulsar instance for you, so you don't have to spend time on backups, upgrades or deployment.",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": ["Apache v2.0"],
-		"source_code_download": "https://github.com/apache/pulsar",
-		"source_code_profile": "https://www.openhub.net/p/apache-pulsar/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Docker",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/docker.svg",
-		"website_url": "https://www.clever-cloud.com/runtime-docker/",
-		"created_year": "",
-		"description": "Deploy your Docker applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": ["Apache v2.0"],
-		"source_code_download": "https://github.com/docker/docker.github.io",
-		"source_code_profile": "https://www.openhub.net/p/docker/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Golang",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/gopher.svg",
-		"website_url": "https://www.clever-cloud.com/golang-hosting/",
-		"created_year": "",
-		"description": "Deploy your Golang applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Haskell",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/haskell.svg",
-		"website_url": "https://www.clever-cloud.com/haskell-hosting/",
-		"created_year": "",
-		"description": "Deploy your Haskell applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": ["GPL v3.0"],
-		"source_code_download": "https://github.com/CleverCloud/haskell-example",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Java",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/03/Java.svg",
-		"website_url": "https://www.clever-cloud.com/java-hosting/",
-		"created_year": "",
-		"description": "Host your Java Application Hassle Free",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Node",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/JS.svg",
-		"website_url": "https://www.clever-cloud.com/nodejs-hosting/",
-		"created_year": "",
-		"description": "Deploy your Node.JS applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime PhP",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/04/php-logo.svg",
-		"website_url": "https://www.clever-cloud.com/php-hosting/",
-		"created_year": "",
-		"description": "Deploy your PHP Apps on a Resilient PaaS",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Python",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/python.svg",
-		"website_url": "https://www.clever-cloud.com/python-hosting/",
-		"created_year": "",
-		"description": "Deploy your Python applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Ruby",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/03/Ruby.svg",
-		"website_url": "https://www.clever-cloud.com/ruby-hosting/",
-		"created_year": "",
-		"description": "Deploy your Ruby applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime Rust",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/rust.svg",
-		"website_url": "https://www.clever-cloud.com/rust-hosting/",
-		"created_year": "",
-		"description": "Deploy your Rust applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime scala",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/scala.svg",
-		"website_url": "https://www.clever-cloud.com/scala-hosting/",
-		"created_year": "",
-		"description": "Deploy your Scala applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Runtime .NET",
-		"logo_url": "https://cdn.clever-cloud.com/uploads/2022/02/NET_Logo-2.svg",
-		"website_url": "https://www.clever-cloud.com/runtime-dot-net/",
-		"created_year": "",
-		"description": "Deploy your .NET applications",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.clever-cloud.com/legal-terms/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
+		"reference_list": [{
+			"title": "MAIF",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/maif.svg",
+			"country": "FR",
+			"industry": "Insurance"
+		}, {
+			"title": "Docaposte",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/08/Logo-docaposte.svg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "Airbus",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/airbus.svg",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "Solocal",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/08/logo-solocal-fa0718f68e.svg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "Cegid",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/04/Cegid_logo_2018.svg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "AXA",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/axa.svg",
+			"country": "FR",
+			"industry": "Insurance"
+		}, {
+			"title": "LeMonde",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/lemonde.svg",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "Iadvize",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/iadvize.svg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "France Television",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/france-tv.svg",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "Devoxx",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/devoxx.svg",
+			"country": "FR",
+			"industry": "Information Technology"
+		}, {
+			"title": "TWBA",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/tbwa.svg",
+			"country": "US",
+			"industry": "Consulting and Training"
+		}, {
+			"title": "Sigfox",
+			"logo_url": "https://cdn.clever-cloud.com/uploads/2021/01/sigfox.svg",
+			"country": "FR",
+			"industry": "Communication"
+		}],
 		"success_case_list": []
 	}]
 }
