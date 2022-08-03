@@ -1,14 +1,14 @@
 {
 	"created": "2022-03-21",
-	"title": "Collabora Online",
+	"title": "Collabora",
 	"type": "Organisation",
 	"logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2019/03/collabora-productivity-nav-icon.png",
 	"headquarter_country": "UK",
 	"subsidiary_country_list": ["CA"],
 	"website_url": "https://www.collaboraoffice.com/",
 	"location": {
-		"title": "The Platinum Building",
-		"address": "St John’s Innovation Park",
+		"title": "Collabora Limited",
+		"address": "The Platinum Building, St John’s Innovation Park",
 		"postal_code": "CB4 0DS",
 		"city": "Cambridge",
 		"country": "UK",
@@ -58,8 +58,8 @@
 		"logo_url": "https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png",
 		"website_url": "https://www.collaboraoffice.com/solutions/collabora-office/",
 		"created_year": 2013,
-		"description": "Collabora is a software consultancy firm that offers planning, guiding, integrating, optimising, building and training services for open source-based projects.",
-		"category_list": ["Workspace","Application"],
+		"description": "The enterprise-ready edition of LibreOffice Collabora Office is the PC desktop office suite of LibreOffice. We provide installation and administration utilities together with long-term maintenance and contracted support to deliver successful deployments with expertise.",
+		"category_list": ["Application"],
 		"similar_software_list": [{
 			"title": "LibreOffice",
 			"similar_software_url": "https://www.libreoffice.org/",
@@ -85,7 +85,7 @@
 			"similar_software_url": "https://www.wps.com/",
 			"category": "Application"
 		}],
-		"licence_list": ["MPL v2.0"],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
@@ -105,7 +105,7 @@
 		"logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Collabora_Online_primary_logo.svg/1200px-Collabora_Online_primary_logo.svg.png",
 		"website_url": "https://www.collaboraoffice.com/collabora-online/",
 		"created_year": 2016,
-		"description": "Collabora Online is a feature rich online collaboration office suite with great support for all major document, spreadsheet and presentation file formats. It is based on LibreOffice and used in combination with software for managing, sharing, files.",
+		"description": "Your own private office suite in the Cloud Collabora Online is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate into your own infrastructure.Key features are collaborative editing and excellent office file format support.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "LibreOffice",
@@ -129,7 +129,7 @@
 			"category": "Application"
 		}],
 		"licence_list": ["MPL v2.0"],
-		"source_code_download": "https://github.com/CollaboraOnline/online.git",
+		"source_code_download": "https://github.com/CollaboraOnline/online",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.collaboraoffice.com/subscriptions/",
 		"floss_software": true,
