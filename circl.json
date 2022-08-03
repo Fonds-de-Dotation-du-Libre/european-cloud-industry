@@ -1,10 +1,10 @@
 {
   "created": "2022-04-04",
   "title": "CIRCL",
-  "type": "Organisation",
-  "logo_url": "https://www.circl.lu/assets/images/circl-logo.png",
+  "type": "Other",
+  "logo_url": "https://circl.lu/assets/images/circl-logo.png",
   "location": {
-    "title": "CIRCL - Computer Incident Response Center Luxembourg",
+    "title": "Computer Incident Response Center Luxembourg",
     "address": "16 Boulevard d'Avranches",
     "postal_code": "1160",
     "city": "Luxembourg",
@@ -23,7 +23,7 @@
     "website_url": "https://www.misp-project.org/",
     "created_year": 2011,
     "description": " MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis.",
-    "category_list": ["Cybersecurity", "Storage and database"],
+    "category_list": ["Cybersecurity"],
     "similar_solution_list": [{
       "title": "HELK",
       "similar_solution_url": "https://thehelk.com/intro.html",
