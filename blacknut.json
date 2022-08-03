@@ -2,9 +2,9 @@
   "created": "2022-04-07",
   "title": "Blacknut",
   "type": "Organisation",
-  "logo_url": "https://www.blacknut.com/assets/logo/blacknut.svg",
+  "logo_url": "https://images.blacknut.com/website/logo/blacknut-business-solutions.svg",
   "location": {
-    "title": "Blacknut",
+    "title": "Blacknut SAS",
     "address": "4 Square du Chêne Germain",
     "postal_code": "35510",
     "city": "Cesson-Sévigné",
@@ -26,7 +26,7 @@
   }],
   "solution_list": [{
     "title": "Blacknut Cloud Gaming Service",
-    "logo_url": "https://images.blacknut.com/website/brand/horizontal-logotype.png",
+    "logo_url": "https://images.blacknut.com/website/logo/blacknut-business-solutions.svg",
     "website_url": "https://www.blacknut.biz/telecom-carrier-service-providers",
     "created_year": 2016,
     "description": " Blacknut is the world's leading pure player cloud gaming service, with a hybrid public-private cloud architecture, that has Blacknut Wikipédiathe largest catalogue of premium games for the whole family, all included in a monthly subscription.",
@@ -61,161 +61,161 @@
     "commercial_support_available": false,
     "wikipedia_url": "",
     "reference_list": [{
-			"title": "Post Luxembourg",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/post.svg",
-			"country": "LU",
-			"industry": "XXX"
-		},{
-			"title": "AIS",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/ais.svg",
-			"country": "TH",
-			"industry": "XXX"
-		},{
-			"title": "A1",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/a1.png",
-			"country": "AT",
-			"industry": "XXX"
-		},{
-			"title": "NOS",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/nos.png",
-			"country": "PT",
-			"industry": "XXX"
-		},{
-			"title": "Celcom",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/celcom.png",
-			"country": "MY",
-			"industry": "XXX"
-		},{
-			"title": "M1",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/m1.png",
-			"country": "SG",
-			"industry": "XXX"
-		},{
-			"title": "Microsoft",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/microsoft.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "AWS",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/aws.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Google",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/google.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Amazon",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/amazon.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Gameloft",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/gameloft.png",
-			"country": "FR",
-			"industry": "XXX"
-		},{
-			"title": "TIM",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/tim.svg",
-			"country": "IT",
-			"industry": "XXX"
-		},{
-			"title": "Drei",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/drei.svg",
-			"country": "AT",
-			"industry": "XXX"
-		},{
-			"title": "Partner",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/partner.svg",
-			"country": "IL",
-			"industry": "XXX"
-		},{
-			"title": "Swisscom",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/swisscom.png",
-			"country": "CH",
-			"industry": "XXX"
-		},{
-			"title": "Amdocs",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/amdocs.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Ericsson",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/ericsson.svg",
-			"country": "SE",
-			"industry": "XXX"
-		},{
-			"title": "Nokia",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/nokia.svg",
-			"country": "FI",
-			"industry": "XXX"
-		},{
-			"title": "Nvidia",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/nvidia.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Interdigital",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/interdigital.png",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Samsung",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/samsung.svg",
-			"country": "KR",
-			"industry": "XXX"
-		},{
-			"title": "Deep Silver",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/deep-silver.svg",
-			"country": "DE",
-			"industry": "XXX"
-		},{
-			"title": "Outright Games",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/outright-games.png",
-			"country": "GB",
-			"industry": "XXX"
-		},{
-			"title": "Wired Productions",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/wired.png",
-			"country": "GB",
-			"industry": "XXX"
-		},{
-			"title": "Disney",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/disney.svg",
-			"country": "US",
-			"industry": "XXX"
-		},{
-			"title": "Team17",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/team17.svg",
-			"country": "GB",
-			"industry": "XXX"
-		},{
-			"title": "Square Enix",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/square-enix.svg",
-			"country": "JP",
-			"industry": "XXX"
-		},{
-			"title": "Milestone",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/milestone.svg",
-			"country": "IT",
-			"industry": "XXX"
-		},{
-			"title": "Nacon",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/nacon.svg",
-			"country": "IT",
-			"industry": "XXX"
-		},{
-			"title": "Genbadigital",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/genbadigital.png",
-			"country": "GB",
-			"industry": "XXX"
-		},{
-			"title": "Handy Games",
-			"logo_url": "https://images.blacknut.com/website/logo-partners/handy-games.png",
-			"country": "DE",
-			"industry": "XXX"
-		}],
+		"title": "Post Luxembourg",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/post.svg",
+		"country": "LU",
+		"industry": "Transport"
+	},{
+		"title": "AIS",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/ais.svg",
+		"country": "TH",
+		"industry": "Telecommunication"
+	},{
+		"title": "A1",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/a1.png",
+		"country": "AT",
+		"industry": "Telecommunication"
+	},{
+		"title": "NOS",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/nos.png",
+		"country": "PT",
+		"industry": "Telecommunication"
+	},{
+		"title": "Celcom",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/celcom.png",
+		"country": "MY",
+		"industry": "Telecommunication"
+	},{
+		"title": "M1",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/m1.png",
+		"country": "SG",
+		"industry": "Telecommunication"
+	},{
+		"title": "Microsoft",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/microsoft.svg",
+		"country": "US",
+		"industry": "Information Technology"
+	},{
+		"title": "AWS",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/aws.svg",
+		"country": "US",
+		"industry": "Information Technology"
+	},{
+		"title": "Google",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/google.svg",
+		"country": "US",
+		"industry": "Information Technology"
+	},{
+		"title": "Amazon",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/amazon.svg",
+		"country": "US",
+		"industry": "Information Technology"
+	},{
+		"title": "Gameloft",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/gameloft.png",
+		"country": "FR",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "TIM",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/tim.svg",
+		"country": "IT",
+		"industry": "Telecommunication"
+	},{
+		"title": "Drei",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/drei.svg",
+		"country": "AT",
+		"industry": "Telecommunication"
+	},{
+		"title": "Partner",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/partner.svg",
+		"country": "IL",
+		"industry": "Telecommunication"
+	},{
+		"title": "Swisscom",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/swisscom.png",
+		"country": "CH",
+		"industry": "Telecommunication"
+	},{
+		"title": "Amdocs",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/amdocs.svg",
+		"country": "IL",
+		"industry": "Information Technology"
+	},{
+		"title": "Ericsson",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/ericsson.svg",
+		"country": "SE",
+		"industry": "Manufacturing"
+	},{
+		"title": "Nokia",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/nokia.svg",
+		"country": "FI",
+		"industry": "Manufacturing"
+	},{
+		"title": "Nvidia",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/nvidia.svg",
+		"country": "US",
+		"industry": "Manufacturing"
+	},{
+		"title": "Interdigital",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/interdigital.png",
+		"country": "US",
+		"industry": "Information Technology"
+	},{
+		"title": "Samsung",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/samsung.svg",
+		"country": "KR",
+		"industry": "Manufacturing"
+	},{
+		"title": "Deep Silver",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/deep-silver.svg",
+		"country": "DE",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Outright Games",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/outright-games.png",
+		"country": "GB",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Wired Productions",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/wired.png",
+		"country": "GB",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Disney",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/disney.svg",
+		"country": "US",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Team17",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/team17.svg",
+		"country": "GB",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Square Enix",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/square-enix.svg",
+		"country": "JP",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Milestone",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/milestone.svg",
+		"country": "IT",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Nacon",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/nacon.svg",
+		"country": "IT",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Genbadigital",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/genbadigital.png",
+		"country": "GB",
+		"industry": "Media and Entertainment"
+	},{
+		"title": "Handy Games",
+		"logo_url": "https://images.blacknut.com/website/logo-partners/handy-games.png",
+		"country": "DE",
+		"industry": "Media and Entertainment"
+	}],
     "success_case_list": []
   }]
 }
