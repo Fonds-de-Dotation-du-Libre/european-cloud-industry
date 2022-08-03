@@ -5,9 +5,9 @@
 	"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
 	"location": {
 		"title": "Crowdsec SAS",
-		"address": "20 RUE MAURICE ARNOUX",
+		"address": "20 Rue Maurice Arnoux",
 		"postal_code": "92120",
-		"city": "MONTROUGE",
+		"city": "Montrouge",
 		"country": "FR",
 		"phone_contact": "",
 		"mail_contact": "info@crowdsec.net",
@@ -20,9 +20,9 @@
 	"solution_list": [{
 		"title": "Crowdsec",
 		"logo_url": "https://crowdsec.net/wp-content/uploads/2021/03/logo_crowdsec.svg",
-		"website_url": "https://crowdsec.net/",
-		"created_year": 2019,
-		"description": "CrowdSec is a free, open-source and collaborative IPS. Analyze behaviors, respond to attacks & share signals across the community",
+		"website_url": "https://www.crowdsec.net/",
+		"created_year": "2019",
+		"description": "Local detection, global remediation CrowdSec Agent defends against intrusions by analyzing logs to identify and block offending IPs. Flagged IPs are then sent to the community blocklist to protect the Crowd.",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [{
 			"title": "Check Point Next Generation Firewalls",
@@ -46,6 +46,33 @@
 		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
-		"success_case_list": []
+		"success_case_list": [{
+			"title": "User testimonial with Lookopen: make your security smarter with CrowdSec",
+			"description": "Did you know that every day across the Internet, each IP address is scanned hundreds of times? Or that more than 2,000 attacks are perpetrated, stealing 1.4 million personal records? That’s right, every single day!",
+			"image_url": "https://global-uploads.webflow.com/62654d3158a08cb4c5e2c1c6/627d20a56400cbfc187eed35_lookopen-logo.png",
+			"industry": "Information Technology",
+			"customer": "Lookopen",
+			"country": "SA",
+			"language": "en",
+			"success_case_url": "https://www.crowdsec.net/blog/user-testimonial-lookopen"
+		},{
+			"title": "User Testimonial with Yannick from Siegler Informatique",
+			"description": "I have been an auto-entrepreneur for several years. I  run my own company, Siegler Informatique, offering managed services and VPS. I look after 40 servers hosting websites and emails as well as their security,  back-ups and also fix system issues. Beyond my managing role, I am a system administrator on a daily basis.",
+			"image_url": "https://global-uploads.webflow.com/62654d3158a08cb4c5e2c1c6/629520cac0479a379f7a1a2c_siegler-informatique-img-square.svg",
+			"industry": "Information Technology",
+			"customer": "Siegler Informatique",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://www.crowdsec.net/blog/user-testimonial-siegler-informatique"
+		},{
+			"title": "From blocking web crawlers to becoming a CrowdSec ambassador",
+			"description": "Bennet also works at Esyoil where they are actively using CrowdSec in their production environment as he will explain in the interview. Actually, Bennet first reached out to us with suggestions for improvement but then ended up liking CrowdSec so much that he enrolled as an ambassador. We’re very happy about that and for everything, he’s done to help out. Especially in the Discord community where Bennet takes part in a team of moderators to keep everything going in a good way and keep our Discord server a helpful and inclusive community.",
+			"image_url": "https://global-uploads.webflow.com/62654d3158a08cb4c5e2c1c6/629520dd2525fd9412b1d97c_esyoil-img-square.svg",
+			"industry": "Information Technology",
+			"customer": "Esyoil",
+			"country": "DE",
+			"language": "EN",
+			"success_case_url": "https://www.crowdsec.net/blog/from-blocking-web-crawlers-to-becoming-a-crowdsec-ambassador"
+		}]
 	}]
 }
