@@ -81,15 +81,15 @@ For license types: use "licence keywords" from Github: https://docs.github.com/e
 
 List of validated sources for financial data:
 
-* [https://www.verif.com/](verif.com) (FR); 
-* [https://www.societe.com/](societe.com) (FR);
-* [https://www.infogreffe.fr/](infogreffe.fr) (FR-official);
-* [https://www.bundesanzeiger.de/](bundesanzeiger.de) (DE-official);
-* [https://www.infocamere.it/](italianbusinessregister.it) (IT-official);
-* [https://www.find-and-update.company-information.service.gov.uk/](find-and-update.company-information.service.gov.uk) (UK);
-* [https://www.romanian-companies.eu/](https://www.romanian-companies.eu/) (RO-official);
-* [https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/](KVK.nl) (NL-official);
-* [https://www.brreg.no/](Bronnoysund register) (NO-official).
+* https://www.verif.com/ (FR); 
+* https://www.societe.com/ (FR);
+* https://www.infogreffe.fr/ (FR-official);
+* https://www.bundesanzeiger.de/ (DE-official);
+* https://www.infocamere.it/ (IT-official);
+* https://www.find-and-update.company-information.service.gov.uk/ (UK);
+* https://www.romanian-companies.eu/ (RO-official);
+* https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/ (NL-official);
+* https://www.brreg.no/ (NO-official).
 
 Possible solution_category 
 
