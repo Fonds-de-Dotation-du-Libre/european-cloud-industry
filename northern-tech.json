@@ -1,0 +1,146 @@
+{
+  "created": "2022-04-04",
+  "title": "Northern.Tech",
+  "type": "Organisation",
+  "logo_url": "",
+  "location": {
+    "title": "Northern.Tech",
+    "address": "Gaustadalleen 21",
+    "postal_code": "N-0349",
+    "city": "Oslo",
+    "country": "NO",
+    "phone_contact": "+4723961782",
+    "mail_contact": "contact@northern.tech",
+    "coordinate_list": [59.94237714575006, 10.716545766829254]
+  },
+  "subsidiary_location_list": ["US"],
+  "website_url": "https://northern.tech/",
+  "founded_year": "1993",
+  "kpi_list": [{
+		"year": 2015,
+		"staff": "8",
+		"earnings": "479 382 EUR",
+		"total_assets": "2 701 783 EUR",
+		"revenues": "2 018 044 EUR",
+		"source_url": "https://www.brreg.no/"
+	}, {
+		"year": 2016,
+		"staff": "8",
+		"earnings": "1 259 796 EUR",
+		"total_assets": "4 178 256 EUR",
+		"revenues": "2 916 361 EUR",
+		"source_url": "https://www.brreg.no/"
+	}, {
+		"year": 2017,
+		"staff": "",
+		"earnings": "787 446 EUR",
+		"total_assets": "4 359 244 EUR",
+		"revenues": "2 344 970 EUR",
+		"source_url": "https://www.brreg.no/"
+	}, {
+		"year": 2018,
+		"staff": "",
+		"earnings": "138 954 EUR",
+		"total_assets": "4 502 099 EUR",
+		"revenues": "3 013 947 EUR",
+		"source_url": "https://www.brreg.no/"
+	}, {
+		"year": 2019,
+		"staff": "-",
+		"earnings": "270 458 EUR",
+		"total_assets": "5 967 539 EUR",
+		"revenues": "2 582 202 EUR",
+		"source_url": "https://www.brreg.no/"
+	}, {
+		"year": 2020,
+		"staff": "-",
+		"earnings": "713 028 EUR",
+		"total_assets": "7 967 129 EUR",
+		"revenues": "2 390 484 EUR",
+		"source_url": "https://www.brreg.no/"
+	}, {
+		"year": 2021,
+		"staff": "-",
+		"earnings": "625 059 EUR",
+		"total_assets": "9 661 707 EUR",
+		"revenues": "2 933 086 EUR",
+		"source_url": "https://www.brreg.no/"
+	}],
+  "solution_list": [{
+    "title": "CFEngine",
+    "logo_url": "https://cfengine.com/images/cfengine-logo.svg",
+    "website_url": "https://cfengine.com/",
+    "created_year": "1993",
+    "description": "CFEngine is an open-source configuration management system, written by Mark Burgess. Its primary function is to provide automated configuration and maintenance of large-scale computer systems, including the unified management of servers, desktops, consumer and industrial devices, embedded networked devices, mobile smartphones, and tablet computers.",
+    "category_list": ["Software lifecycle automation"],
+    "similar_software_list": [],
+    "licence_list": ["GPL v3.0"],
+    "source_code_download": "https://cfengine.com/downloads/cfengine-community/",
+    "source_code_profile": "https://www.openhub.net/p/cfengine/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/CFEngine",
+    "reference_list": [],
+    "success_case_list": [{
+			"title": "OpenNebula",
+			"similar_solution_url": "https://opennebula.io/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Nixos",
+			"similar_solution_url": "https://nixos.org/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Virtuozzo/OnApp",
+			"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Google Anthos",
+			"similar_solution_url": "https://cloud.google.com/anthos",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "Kubernetes",
+			"similar_solution_url": "https://kubernetes.io/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "OpenSVC",
+			"similar_solution_url": "https://www.opensvc.com/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "OpenStack",
+			"similar_solution_url": "https://www.openstack.org/",
+			"category": "Service lifecycle automation"
+		}]
+  }, {
+    "title": "Mender",
+    "logo_url": "",
+    "website_url": "https://mender.io/",
+    "created_year": "",
+    "description": "Mender is a secure and robust end-to-end over-the-air (OTA) software update manager for IoT devices. Mender makes it easy to deploy updates to a large number of devices by providing efficiency and risk tolerant OTA deployments.",
+    "category_list": ["Service lifecycle automation"],
+    "similar_software_list": [{
+			"title": "SWUpdate",
+			"similar_solution_url": "https://kubernetes.io/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "OSTree",
+			"similar_solution_url": "https://www.opensvc.com/",
+			"category": "Service lifecycle automation"
+    		}, {
+			"title": "swupd",
+			"similar_solution_url": "https://www.openstack.org/",
+			"category": "Service lifecycle automation"
+		}],
+    "licence_list": ["APL v2.0"],
+    "source_code_download": "https://github.com/mendersoftware/mender",
+    "source_code_profile": "https://www.openhub.net/p/mender/analyses/latest/languages_summary",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}
