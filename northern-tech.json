@@ -82,7 +82,37 @@
     "commercial_support_open_source_version": false,
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/CFEngine",
-    "reference_list": [],
+    "reference_list": [{
+      "title": "Deutshe Telekom",
+      "logo_url": "https://cfengine.com/images/partners/dtag.png",
+      "country": "DE",
+      "industry": "Telecommunication"
+    },{
+      "title": "Panasonic",
+      "logo_url": "https://cfengine.com/images/partners/panasonic.png",
+      "country": "JP",
+      "industry": "Energy and Utilities"
+    },{
+      "title": "Samsung",
+      "logo_url": "https://cfengine.com/images/partners/samsung.png",
+      "country": "KP",
+      "industry": "Telecommunication"
+    },{
+      "title": "Linkedin",
+      "logo_url": "https://cfengine.com/images/partners/linkedin.png",
+      "country": "US",
+      "industry": "Telecommunication"
+    },{
+      "title": "Pfizer",
+      "logo_url": "https://cfengine.com/images/partners/pfizer.png",
+      "country": "DE",
+      "industry": "Health and Life Sciences"
+    },{
+      "title": "DHL",
+      "logo_url": "https://cfengine.com/images/partners/dhl.png",
+      "country": "DE",
+      "industry": "Transport"
+    }],
     "success_case_list": [{
 			"title": "OpenNebula",
 			"similar_solution_url": "https://opennebula.io/",
