@@ -4,99 +4,142 @@
 	"type": "Organisation",
 	"logo_url": "https://www.dawex.com/hubfs/migration-assets/img/dwx-logo-no-tagline_blue.svg",
 	"location": {
-		"title": "Dawex",
+		"title": "Dawex Systems SAS",
 		"address": "20 Place Louis Pradel",
 		"postal_code": "69001",
 		"city": "Lyon",
 		"country": "FR",
 		"phone_contact": "+33972505670",
-		"mail_contact": "",
+		"mail_contact": "contact@dawex.com",
 		"coordinate_list": [45.768881807452125, 4.837626710687799]
 	},
 	"subsidiary_location_list": ["CA"],
 	"website_url": "https://www.dawex.com/",
 	"founded_year": 2015,
-	"kpi_list": [],
+	"kpi_list": [{
+		"year": 2021,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "16 389 077 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/DAWEX-SYSTEMS-810307207/"
+	},{
+		"year": 2020,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "13 418 021 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/DAWEX-SYSTEMS-810307207/"
+	},{
+		"year": 2019,
+		"staff": 38,
+		"earnings": "",
+		"total_assets": "9 416 344 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/DAWEX-SYSTEMS-810307207/"
+	},{
+		"year": 2018,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "3 965 727 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/DAWEX-SYSTEMS-810307207/"
+	}],
 	"solution_list": [{
-			"title": "Data Exchange Platform",
-			"logo_url": "",
-			"website_url": "https://www.dawex.com/en/data-exchange-platform/",
-			"created_year": "",
-			"description": "Dawex Data Exchange Platform is a fully customized white-label SaaS platform to distribute, source, commercialize and/or orchestrate data ecosystems. Dawex Data Exchange Platform incorporates a Data Exchange governance model encapsulating control and security, traceability, licensing and regulatory compliance. Operated in managed, distributed or decentralized mode, supporting various data exchange business models (free, subscription, transactional, performance-based).",
-			"category_list": ["Application"],
-			"similar_solution_list": [],
-			"licence_list": ["Proprietary"],
-			"source_code_download": "",
-			"source_code_profile": "",
-			"commercial_support_url": "",
-			"floss_software": false,
-			"commercial_support_open_source_version": false,
-			"commercial_support_available": true,
-			"wikipedia_url": "",
-			"reference_list": [],
-			"success_case_list": [{
-				"title": "success story",
-				"description": "Agdatahub has made available a secure data exchange platform to meet the needs of farmers and sectors. This API-AGRO platform aims to guarantee the development of digital agriculture in France and Europe, to help the actors of the agricultural sector to adapt to the market changes and to value the data they collect every day. Agdatahub relies on Dawex Data Exchange technology to operate a secure ecosystem and offer a shared and sovereign platform that allows the European agricultural community to disseminate, exchange, share and value its data",
-				"image_url": "https://www.dawex.com/hs-fs/hubfs/345-115_customer-success-stories-logo_aag.png?width=200&name=345-115_customer-success-stories-logo_aag.png",
-				"industry": "Information Technology",
-				"customer": "Agdatahub",
-				"country": "FR",
-				"language": "fr",
-				"success_case_url": "https://www.dawex.com/fr/pourquoi-data-exchange/cas-clients/"
-			}, {
-				"title": "success story",
-				"description": "Since the G20 summit in Osaka in 2019, which promoted Data Free Flow with Trust, Japan has been actively working to define standards and norms to guide data exchange. In September 2020, Kanematsu and Japan Data Exchange launched JDEX, an innovative platform based on Dawex Data Exchange technology that aims to promote secure data exchange in Japan and develop a powerful community of large companies around data.",
-				"image_url": "https://www.dawex.com/hs-fs/hubfs/345-115_customer-success-stories-logo_jdex.png?width=225&name=345-115_customer-success-stories-logo_jdex.png",
-				"industry": "Information Technology",
-				"customer": "Japan Data Exchange",
-				"country": "JP",
-				"language": "ja",
-				"success_case_url": "https://www.dawex.com/fr/pourquoi-data-exchange/cas-clients/"
-			}]
-		},
-		{
-			"title": "Data Marketplace",
-			"logo_url": "",
-			"website_url": "https://www.dawex.com/en/data-exchange-platform/data-marketplace/",
-			"created_year": "",
-			"description": "Data marketplace accelerates and facilitates data circulation amongst many stakeholders, allowing them to source, distribute, commercialize and exchange data securely, in full compliance with regulations.",
-			"category_list": ["Storage and database"],
-			"similar_solution_list": [],
-			"licence_list": ["Proprietary"],
-			"source_code_download": "",
-			"source_code_profile": "",
-			"commercial_support_url": "",
-			"floss_software": false,
-			"commercial_support_open_source_version": false,
-			"commercial_support_available": true,
-			"wikipedia_url": "",
-			"reference_list": [],
-			"success_case_list": []
-		},
-		{
-			"title": "Data Hub",
-			"logo_url": "",
-			"website_url": "https://www.dawex.com/en/data-exchange-platform/data-hub/",
-			"created_year": "",
-			"description": "Facilitate the secure sharing of data and the provision of data-related services to build data partnerships, foster innovation and stimulate value creation.",
-			"category_list": ["Big Data Hub"],
-			"similar_solution_list": [{
-				"title": "Crunchbase",
-				"similar_solution_url": "https://www.crunchbase.com/",
-				"category": "Storage and database"
-			}, {
-				"title": "PartnerLinQ",
-				"similar_solution_url": "https://www.partnerlinq.net/",
-				"category": "Application"
-			}, {
-				"title": "Weld",
-				"similar_solution_url": "https://weld.app/",
-				"category": "Application"
-			}, {
-				"title": "Explorium",
-				"similar_solution_url": "https://www.explorium.ai/",
-				"category": "Application"
-			}],
+		"title": "Data Exchange Platform",
+		"logo_url": "https://www.dawex.com/hubfs/migration-assets/img/dwx-logo-no-tagline_blue.svg",
+		"website_url": "https://www.dawex.com/en/data-exchange-platform/",
+		"created_year": "",
+		"description": "Dawex Data Exchange Platform is a fully customized white-label SaaS platform to distribute, source, commercialize and/or orchestrate data ecosystems. Dawex Data Exchange Platform incorporates a Data Exchange governance model encapsulating control and security, traceability, licensing and regulatory compliance. Operated in managed, distributed or decentralized mode, supporting various data exchange business models (free, subscription, transactional, performance-based).",
+		"category_list": ["Big Data Hub"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.dawex.com/en/services/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "Scor",
+			"logo_url": "https://www.dawex.com/hs-fs/hubfs/scor-logo.png?width=225&name=scor-logo.png",
+			"country": "FR",
+			"industry": "Insurance"
+		},{
+			"title": "SB Energy",
+			"logo_url": "https://www.dawex.com/hs-fs/hubfs/softbank-energy-logo.png?width=225&name=softbank-energy-logo.png",
+			"country": "FR",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "BNF",
+			"logo_url": "https://www.dawex.com/hs-fs/hubfs/BNF-logo.png?width=189&name=BNF-logo.png",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		},{
+			"title": "APRR",
+			"logo_url": "https://www.dawex.com/hs-fs/hubfs/aprr-logo.png?width=263&name=aprr-logo.png",
+			"country": "FR",
+			"industry": "Transport"
+		}],
+		"success_case_list": [{
+			"title": "Agdatahub, a groundbreaking agricultural Data Exchange",
+			"description": "Agdatahub has made available a secure data exchange platform to meet the needs of farmers and sectors. This API-AGRO platform aims to guarantee the development of digital agriculture in France and Europe, to help the actors of the agricultural sector to adapt to the market changes and to value the data they collect every day. Agdatahub relies on Dawex Data Exchange technology to operate a secure ecosystem and offer a shared and sovereign platform that allows the European agricultural community to disseminate, exchange, share and value its data",
+			"image_url": "https://www.dawex.com/hs-fs/hubfs/345-115_customer-success-stories-logo_aag.png?width=200&name=345-115_customer-success-stories-logo_aag.png",
+			"industry": "Information Technology",
+			"customer": "Agdatahub",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://info.dawex.com/agdatahub-case-study"
+		},{
+			"title": "COVID-19 Data Exchange, an initiative to curb the virus’ propagation and limit its economic impact",
+			"description": "From the very beginning of the COVID-19 pandemic, various institutions like the World Health Organization or the European Union stressed that facilitating data circulation was critical to impede the virus’ dissemination and address the consequences it generated. In March 2020, Dawex launched the COVID-19 Data Exchange, a pro bono initiative aiming at facilitating the access and exchange of non-personal data between public and private organizations.",
+			"image_url": "https://www.dawex.com/hs-fs/hubfs/345-115_customer-success-stories-logo_co19.png?width=225&name=345-115_customer-success-stories-logo_co19.png",
+			"industry": "Information Technology",
+			"customer": "Dawex",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://www.dawex.com/en/why-data-exchange/success-stories/covid-19-data-exchange-initiative/"
+		}]
+	}, {
+		"title": "Data Marketplace",
+		"logo_url": "",
+		"website_url": "https://www.dawex.com/en/data-exchange-platform/data-marketplace/",
+		"created_year": "",
+		"description": "Data marketplace accelerates and facilitates data circulation amongst many stakeholders, allowing them to source, distribute, commercialize and exchange data securely, in full compliance with regulations.",
+		"category_list": ["Big Data Hub"],
+		"similar_solution_list": [],
+		"licence_list": ["Proprietary"],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "The largest 2-sided Global Data Marketplace",
+			"description": "Dawex operates the Global Data Marketplace, where thousands of organizations worldwide, from 20+ industries -such as agriculture, air & space, automobile, financial services & insurance, construction, energy, logistics & transportation, retail, telco, travel & hospitality- meet to sell, buy and share data securely, in full compliance with regulations.",
+			"image_url": "https://www.dawex.com/hs-fs/hubfs/dawex_logo.png?width=201&name=dawex_logo.png",
+			"industry": "Information Technology",
+			"customer": "Dawex",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://www.dawex.com/en/why-data-exchange/success-stories/global-data-marketplace/"
+		}]
+	}, {
+		"title": "Data Hub",
+		"logo_url": "",
+		"website_url": "https://www.dawex.com/en/data-exchange-platform/data-hub/",
+		"created_year": "",
+		"description": "Facilitate the secure sharing of data and the provision of data-related services to build data partnerships, foster innovation and stimulate value creation.",
+		"category_list": ["Big Data Hub"],
+		"similar_solution_list": [{
+			"title": "Explorium",
+			"similar_solution_url": "https://www.explorium.ai/",
+			"category": "Application"
+		}],
 			"licence_list": ["Proprietary"],
 			"source_code_download": "",
 			"source_code_profile": "",
