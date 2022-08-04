@@ -29,28 +29,12 @@
       "similar_solution_url": "https://www.odoo.com/",
       "category": "Application"
     },{
-      "title": "Tryton",
-      "similar_solution_url": "https://www.tryton.org/",
+      "title": "ERP5",
+      "similar_solution_url": "https://erp5.nexedi.com/",
       "category": "Application"
     },{
       "title": "ERPNext",
       "similar_solution_url": "https://erpnext.com/",
-      "category": "Application"
-    },{
-      "title": "Akaunting",
-      "similar_solution_url": "https://akaunting.com/",
-      "category": "Application"
-    },{
-      "title": "inoERP",
-      "similar_solution_url": "https://github.com/inoerp/inoERP",
-      "category": "Application"
-    },{
-      "title": "OrangeHRM",
-      "similar_solution_url": "https://www.orangehrm.com/",
-      "category": "Application"
-    },{
-      "title": "ProjeQtOr",
-      "similar_solution_url": "https://www.projeqtor.org/en/",
       "category": "Application"
     }],
     "licence_list": ["GPL v3.0"],
