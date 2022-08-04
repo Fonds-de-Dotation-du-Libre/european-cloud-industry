@@ -19,22 +19,22 @@
 	"founded_year": 2017,
 	"kpi_list": [{
 		"year": 2020,
-		"staff": "",
-		"earnings": "",
+		"staff": "86",
+		"earnings": "142 180 EUR",
 		"total_assets": "21 579 422 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de"
 	}, {
 		"year": 2019,
-		"staff": "",
-		"earnings": "",
+		"staff": "45",
+		"earnings": "954 987 EUR",
 		"total_assets": "16 969 363 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2018,
-		"staff": "",
-		"earnings": "",
+		"staff": "22",
+		"earnings": "1 021 883 EUR",
 		"total_assets": "14 025 004 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
@@ -78,13 +78,13 @@
 			"similar_solution_url": "https://taia.io/catapult/",
 			"category": "Application"
 		}],
-		"licence_list": ["MIT"],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.deepl.com/pro?cta=header-prices",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/DeepL_Translator",
 		"reference_list": [],
 		"success_case_list": []
@@ -100,7 +100,7 @@
 			"similar_solution_url": "https://www.memoq.com/",
 			"category": "Application"
 		}],
-		"licence_list": ["MIT"],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.deepl.com/fr/pro?cta=header-prices/",
