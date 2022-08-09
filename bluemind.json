@@ -91,150 +91,35 @@
       			"country": "FR",
 			"industry": "Information Technology"
 		},{
-     	 		"title": "HELPLINE",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/03/logo_helpline-cmjn.png",
+     	 		"title": "LaForêt",
+      			"logo_url": "https://www.laforet.com/logo-rect.svg",
       			"country": "FR",
-      			"industry": "Information Technology"
+      			"industry": "Real Estate"
 		},{
-     	 		"title": "Yellow Network",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-yellownetwork.png",
+     	 		"title": "Institut Pasteur",
+      			"logo_url": "https://www.pasteur.fr/sites/default/files/institut-pasteur-logo-2020.png",
       			"country": "FR",
-      			"industry": "Information Technology"
+      			"industry": "Health"
 		},{
-			"title": "Gematique",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/10/logo-gematique.png",
+			"title": "Ministère de l'Intérieur",
+      			"logo_url": "https://www.interieur.gouv.fr/var/miomcti/storage/images/media/mi/images/bloc-marque-minint/981901-1-fre-FR/Bloc-marque-minint_large.png",
       			"country": "FR",
-      			"industry": "Information Technology"
+      			"industry": "Public Administration"
 		},{
-			"title": "POP-IT",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/lol-popit.jpg",
+			"title": "Airbus",
+      			"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
       			"country": "FR",
-      			"industry": "Information Technology"
+      			"industry": "Aeronautics"
 		},{
-			"title": "365IT",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-3651it.png",
+			"title": "INSA Toulouse",
+      			"logo_url": "https://www.insa-toulouse.fr/skins/Insa-v2/resources/img/logo-insa.jpg",
       			"country": "FR",
-      			"industry": "Information Technology"
+      			"industry": "Education"
 		},{
-			"title": "Alter Way",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo_alterway_cartouche_RVB-1-320x146.png",
+			"title": "Ville de Marseille",
+      			"logo_url": "https://www.marseille.fr/sites/default/files/logo_ville_de_marseille.png",
       			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Coaxis",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-coaxis.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Caplaser",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-caplaser.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Magic Online",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2016/05/MAgic-online-1.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Issal",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/05/logo-ISSAL-multicolor-1-320x146.png",
-      			"country": "DZ",
-      			"industry": "Information Technology"
-		},{
-			"title": "Impro Solutions",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/11/impro-320x146.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Téicée",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-teicee.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Héliantis",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/11/logo-heliantis.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Syloé",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2015/10/logo-syloe.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Orix",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2016/04/ORIX-logo-2.jpg",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Data expertise",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/03/dataexpertise-1.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-			},{
-		"title": "Aramys",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/05/aramys-sans-contour-logo-.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-			},{
-		"title": "SOS Consulting",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/07/logo-sos-1.jpg",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Computic",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2017/07/logo-computic.png",
-      			"country": "BE",
-      			"industry": "Information Technology"
-		},{
-			"title": "Centaur",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/05/centaur-logo-288-dpi-320x146.jpg",
-      			"country": "DE",
-      			"industry": "Information Technology"
-		},{
-			"title": "Fonia",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/02/logo-fonia-header-320x146.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "GPLExpert",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/02/GPLExpert-1-320x146.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Hélium",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2021/02/unnamed-1-320x146.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "M.G.M Solutions",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/11/MGM-solutions-320x146.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "DECOIT",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/11/carre-210x146.png",
-      			"country": "DE",
-      			"industry": "Information Technology"
-		},{
-			"title": "Smile CI",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/Smile-CI-1.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Eoris IT Solutions",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/Eoris-2.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "INFOTELECOM",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/logo-infotelecom-red-white-1.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
-		},{
-			"title": "Atémis",
-      			"logo_url": "https://www.bluemind.net/wp-content/uploads/2020/02/atemis-1.png",
-      			"country": "FR",
-      			"industry": "Information Technology"
+      			"industry": "Public Administration"
 		}],
 		"success_case_list": [{
       			"title": "The city and the agglomeration of Auxerre migrate their 1100 users accounts to BlueMind",
