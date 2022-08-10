@@ -4,7 +4,7 @@
 	"type": "Organisation",
 	"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/05/exo-70x30.png",
 	"location": {
-		"title": "eXo Platform Europe",
+		"title": "eXo Platform SAS",
 		"address": "7 rue de la Paix",
 		"postal_code": "75002",
 		"city": "Paris",
@@ -18,102 +18,34 @@
 	"founded_year": 2003,
 	"kpi_list": [],
 	"solution_list": [{
-		"title": "Digital Workplace",
-		"logo_url": "",
+		"title": "eXo Digital Workplace",
+		"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/05/exo-70x30.png",
 		"website_url": "https://www.exoplatform.com/digital-workplace/",
-		"created_year": "",
+		"created_year": "2003",
 		"description": "A Digital Workplace solution conceived to facilitate collaboration through secured spaces, task managers, documents sharing and editing, communication through videoconference and messaging, making it easier to work from anywhere, and thought to boost productivity,",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
-    		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/exoplatform",
-		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Company Intranet",
-		"logo_url": "",
-		"website_url": "https://www.exoplatform.com/company-intranet-software/",
-		"created_year": "",
-		"description": "Designed to easily create and publish rich and engaging content and also simplify internal communication from management as well as between collaborators through communities. The functional devices help boost productivity, and connect employees to their projects, colleagues, and company. ",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
-    		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/exoplatform",
-		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Collaboration Platform",
-		"logo_url": "",
-		"website_url": "https://www.exoplatform.com/digital-collaboration-software/",
-		"created_year": "",
-		"description": "The Collaboration Platform facilitates project management with shared documents, tasks, calendars and notes on private secure workspaces, from any location. It enables internal communities thanks to chat and video-conference in real time and through activity streams, which also promotes multidisciplinarity collaboration and mutual help.",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
-    "licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/exoplatform",
-		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Knowledge Management",
-		"logo_url": "",
-		"website_url": "https://www.exoplatform.com/knowledge-management-software/",
-		"created_year": "",
-		"description": "Solution designed to store documents and other content types in contextual file systems that you can organize to help finding the relevant informations, through results filtering and a powerful unified search. The software enables direct knowledge contributions via articles or notes that the collaborators can browse and share.",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
-    "licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/exoplatform",
-		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Entreprise Social Network",
-		"logo_url": "",
-		"website_url": "https://www.exoplatform.com/enterprise-social-network/",
-		"created_year": "",
-		"description": "The ESN encourages collaborators to interact about work projects but also interests in order for them to grow closer, while making sure the informations are properly distributed. eXo Platform's NSE analyzes the engagement, data and contributions to increase and valorize the communication's efficiency.  ",
-		"category_list": ["Application"],
+		"category_list": ["Workspace"],
 		"similar_solution_list": [{
-			"title": "Slack",
-			"similar_solution_url": "https://slack.com/intl/en-gb/",
-			"category": "Application"
-		}, {
+			"title": "Box",
+			"similar_solution_url": "https://www.box.com/",
+			"category": "Workspace"
+		},{
+			"title": "Google Workspace",
+			"similar_solution_url": "https://workspace.google.com/",
+			"category": "Workspace"
+		},{
+			"title": "Workplace",
+			"similar_solution_url": "https://work.workplace.com/",
+			"category": "Workspace"
+		},{
 			"title": "Basecamp",
 			"similar_solution_url": "https://basecamp.com/",
-			"category": "Application"
-		}, {
-			"title": "Humhub",
-			"similar_solution_url": "https://www.humhub.com/en",
-			"category": "Application"
+			"category": "Workspace"
 		}, {
 			"title": "Jamespot",
-			"similar_solution_url": "https://www.en.jamespot.com/",
-			"category": "Application"
+			"similar_solution_url": "https://www.jamespot.com/",
+			"category": "Workspace"
 		}],
-		"licence_list": ["AGPL v3.0"],
+    		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/exoplatform",
 		"source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.exoplatform.com/product-offer/",
@@ -121,7 +53,304 @@
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/EXo_Platform",
-		"reference_list": [],
-		"success_case_list": []
+		"reference_list": [{
+			"title": "Department of Defense",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/06/DOD-3.2.svg",
+			"country": "US",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Ministère des Armees",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/06/Ministere-armees-fr.svg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "NATO",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/06/Nato-3.2.svg",
+			"country": "BE",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Elysee",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/06/Elysee-3.2.svg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Gendarmerie Nationale",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/06/Gendarmerie-3.2.svg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "UNAPEI",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/12/Case-Study-Unapei-360x205-1.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "APAS-BTP",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/09/Case-Study-APAS-BTP-360x205-1.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "ProEPI",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/01/Proepi-case-study-360x205-1.png",
+			"country": "BR",
+			"industry": "Consulting and Training"
+		},{
+			"title": "CERFrance",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/01/Cerfrance-case-study-360x205-1.png",
+			"country": "FR",
+			"industry": "Consulting and Training"
+		},{
+			"title": "France Benevolat",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/12/France-benevolat-case-study-360x205-1.png",
+			"country": "FR",
+			"industry": "Associtations and NGOs"
+		},{
+			"title": "CESEM",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/11/CSEM-6-360x205-1.png",
+			"country": "CH",
+			"industry": "Academia and Research"
+		},{
+			"title": "Ministère de l'Europe et des Affaires Etrangères",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/MAE-360x205-1.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Val d'Oise",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/Valdoise-360x205-1.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "UCSF",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/UCSF-360x205-1.png",
+			"country": "US",
+			"industry": "Academia and Research"
+		},{
+			"title": "Retrait de l'État",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/retraite-360x205-1.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Métropole de Rennes",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/rennes-360x205-1.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Naftogaz",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/Naftogaz-360x205-1.png",
+			"country": "UK",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Interarts",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/Case-Study-Interarts-360x205-1.png",
+			"country": "ES",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Mutavi",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/Case-Study-Mutavie-360x205-2.png",
+			"country": "FR",
+			"industry": "Insurance"
+		},{
+			"title": "Generali",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/Case-Study-Generali-360x205-1.png",
+			"country": "FR",
+			"industry": "Insurance"
+		},{
+			"title": "ALD Automotive",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/10/Case-Study-ALD-Automotive-360x205-1.png",
+			"country": "FR",
+			"industry": "Automotive"
+		},{
+			"title": "AEF",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/09/Case-Study-AEF-360x205-1.png",
+			"country": "FR",
+			"industry": "Media and Entertainment"
+		},{
+			"title": "NCTSN",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2021/01/Case-Study-NCTSN-360x205-1.png",
+			"country": "US",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Astia",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/09/Case-Study-ASTIA-360x205-1.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Vivalto",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/09/Case-Study-Vivalto-360x205-2.png",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Magiq Software",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/09/Case-Study-Magique-Software-360x205-1.png",
+			"country": "NZ",
+			"industry": "Information Technology"
+		},{
+			"title": "Valbirse",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/08/Case-Study-Valbirse-360x205-1.png",
+			"country": "CH",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Excellene Vegetale",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/07/Case-Study-Excellence-vegetale-360x205-1.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "ADMR",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/07/ADMR-case-study-360x205-3.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Bureau Veritas",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/07/Case-Study-Veritas-360x205-1.png",
+			"country": "FR",
+			"industry": "Consulting and Training"
+		},{
+			"title": "HSBC",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/06/HSBC-360x205-2.png",
+			"country": "UK",
+			"industry": "Banking and Finance"
+		},{
+			"title": "First Capital",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/06/Case-Study-First-capital-360x205-1.png",
+			"country": "CI",
+			"industry": "Banking and Finance"
+		},{
+			"title": "Weishardt",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/03/Case-Study-Weishardt-360x205-1.png",
+			"country": "FR",
+			"industry": "Manufacturing"
+		},{
+			"title": "Togo Ministry of Telecommunications",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/02/Case-Study-MPEN-360x205-2.png",
+			"country": "TG",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Turkish Statistical Institute",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/02/Case-Study-TUIK-360x205-1.png",
+			"country": "TK",
+			"industry": "Academia and Research"
+		},{
+			"title": "Paraguay Ministry of Finance",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2020/02/SET-paraguay-360x205-2.png",
+			"country": "PG",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Metor",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2019/10/Case-Study-Metor-360x205-1.png",
+			"country": "VE",
+			"industry": "Chemicals"
+		},{
+			"title": "Monvéto",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2019/09/Case-Study-Monveto-360x205-1.png",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Degaulle and Associates",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2019/07/DGFLA-360x205-1.png",
+			"country": "FR",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Oman Business Forum",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2019/05/OMAN-360x205-2.png",
+			"country": "OM",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "TIM",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2019/05/TIM-EN-360x205-1.png",
+			"country": "IT",
+			"industry": "Telecommunications"
+		},{
+			"title": "Opalia Pharma",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2019/01/Opalia-360x205-2.png",
+			"country": "TN",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Orange Ivory Coast",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2018/12/Case-Study-Orange-360x205-1.png",
+			"country": "IC",
+			"industry": "Telecommunications"
+		},{
+			"title": "Codere",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2018/06/Case-Study-Codere-360x205-1.png",
+			"country": "IT",
+			"industry": "Information Technology"
+		},{
+			"title": "Aerospace Valley",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2018/05/Case-Study-Aerospace-360x205-1.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Aunde",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2018/01/Case-Study-Aunde-360x205-1.png",
+			"country": "DE",
+			"industry": "Manufacturing"
+		}, {
+			"title": "University of Santa Maria",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-Federal-University-360x205-1.png",
+			"country": "VE",
+			"industry": "Education"
+		}, {
+			"title": "Sigma",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-Sigma-360x205-1.png",
+			"country": "FR",
+			"industry": "Manufacturing"
+		}, {
+			"title": "Resourcial",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-Ressourcial-360x205-2.png",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		}, {
+			"title": "iN Demand",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-InDemand-360x205-1.png",
+			"country": "US",
+			"industry": "Media and Entertainment"
+		}, {
+			"title": "cLog",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-CLog-360x205-1.png",
+			"country": "FR",
+			"industry": "Transport"
+		}, {
+			"title": "Almaredo",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-Almarelo-360x205-1.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "ONA Investigacon",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-ONA-360x205-2.png",
+			"country": "ES",
+			"industry": "Academia and Research"
+		}, {
+			"title": "Caixa Bank",
+			"logo_url": "https://www.exoplatform.com/wp-content/uploads/2017/01/Case-Study-caixa-360x205-1.png",
+			"country": "BR",
+			"industry": "Banking and Finance"
+		}],
+		"success_case_list": [{
+			"title": "CETIH strengthens its corporate culture with help from eXo Platform",
+			"description": "CETIH has grown significantly in recent years and has expanded its operations through a series of acquisitions to include six brands and seven industrial sites. CETIH wanted to group and unify its brands, sites and teams around a single interface that reflected the company’s rich corporate culture and social life. The envisioned platform, ‘Agora’, needed to act not only as a tool, but as a philosophy and as a way of collaborating based on three simple values: simplicity, clarity and collaboration.",
+			"image_url": "https://www.exoplatform.com/wp-content/uploads/2021/03/cetih-website.png",
+			"industry": "Manufacturing",
+			"customer": "CETIH",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://www.exoplatform.com/client-story/cetih/"
+		},{
+			"title": "Élysée optimizes staff efficiency through a collaborative and mobile intranet",
+			"description": "The very pulse of the state, led by a hyper-busy office, the Presidency of the Republic is a well oiled machine that absorbs and generates a lot of information . So much so that the traditional tools like email and shared folders are over-used. In the interest of collective effectiveness, it was necessary to provide an anchor for all these information exchanges.",
+			"image_url": "https://www.exoplatform.com/wp-content/uploads/2021/03/elysee-600.png",
+			"industry": "Public Administration and Government",
+			"customer": "Elysee",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://www.exoplatform.com/client-story/elysee-palace/"
+		},{
+			"title": "UCLA partners with eXo to build a social e-learning platform for health specialists",
+			"description": "Since 2001, the US Department of Health and Human Services has mandated UCLA to build the National Child Traumatic Stress Network (NCTSN). The aim of the network is to raise the standard of care and improve access to services for traumatised children, their families, and their communities throughout the US. The goal was to deploy a holistic platform to provide workforce training to military providers. A web-based system where they could acquire knowledge and experience, form online communities, share best practices and lessons learned from their collective experiences.",
+			"image_url": "https://www.exoplatform.com/wp-content/uploads/2021/03/UCLA-Client-story-banner.png",
+			"industry": "Academia and Research",
+			"customer": "UCLA",
+			"country": "US",
+			"language": "en",
+			"success_case_url": "https://www.exoplatform.com/client-story/ucla/"
+		}]
 	}]
 }
