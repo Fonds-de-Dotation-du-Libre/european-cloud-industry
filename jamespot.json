@@ -239,7 +239,7 @@
 		"description": "Fast Intranet gives meaning to your internal communication by providing simplified access to information (news, reference documents, key figures ...) and information systems of your organization (HRIS, GED, CRM ...)",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
-			"title": "Microsoft sharePoint",
+			"title": "Microsoft SharePoint",
 			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
 			"category": "Application"
 		}, {
@@ -317,7 +317,7 @@
 			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
 			"category": "Application"
 		}, {
-			"title": "Google workspace (Google Doc)",
+			"title": "Google Workspace",
 			"similar_solution_url": "https://www.google.com/docs/about/",
 			"category": "Application"
 		}],
