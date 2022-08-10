@@ -1,0 +1,154 @@
+{
+  "created": "2022_04_04",
+  "title": "Ercom",
+  "type": "Company",
+  "logo_url": "https://www.ercom.fr/themes/custom/ercom_OLD/img/logo.png",
+  "location": {
+    "title": "Engineering Réseaux Communication ERCOM",
+    "address": "6 Rue Dewoitine",
+    "postal_code": "78140",
+    "city": "Vélizy-Villacoublay",
+    "country": "FR",
+    "phone_contact": "+33139465050",
+    "mail_contact": "",
+    "coordinate_list": ["48.78278778198387, 2.2169147528672393"]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.ercom.fr/",
+  "founded_year": 1986,
+  "kpi_list": [{
+		"year": 2018,
+		"staff": "",
+		"earnings": "20 000 EUR",
+		"total_assets": "4 126 000 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/bilans-gratuits/ERCOM-TELECOM-480559186/"
+	}],
+  "solution_list": [{
+    "title": "Citadel TEAM",
+    "logo_url": "https://assets.website-files.com/5ed4be9f7eda2a3b7bd2dfaf/5f0732aede672a69a553a428_Logo%20Name%20Horizontal.png",
+    "website_url": "https://en.citadel.team/",
+    "created_year": "",
+    "description": "L'alternative de confiance aux solutions de messagerie instantanée grand public.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+			"title": "Skype",
+			"similar_solution_url": "https://skype.gmw.cn/",
+			"category": "Networking"
+		}, {
+			"title": "Hangout",
+			"similar_solution_url": "https://hangouts.google.com/",
+			"category": "Networking"
+		}, {
+			"title": "Telegram",
+			"similar_solution_url": "https://telegram.org/",
+			"category": "Networking"
+		}, {
+			"title": "Whatsapp",
+			"similar_solution_url": "https://www.whatsapp.com/",
+			"category": "Networking"
+		}],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://citadel-faq.stonly.com/kb/fr",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }, {
+    "title": "Cryptobox",
+    "logo_url": "https://www.ercom.com/sites/default/files/2021-05/home-cryptobox.png",
+    "website_url": "https://www.ercom.fr/solutions/cryptobox-presentation",
+    "created_year": "",
+    "description": "Cryptobox est la solution de travail collaboratif et de transfert de fichiers agréée Diffusion Restreinte par l’ANSSI qui chiffre vos données de bout en bout, disponible dans n’importe quel environnement, Cloud ou On Premise.",
+    "category_list": ["Storage and database"],
+    "similar_solution_list": [{
+			"title": "Nextcloud",
+			"similar_solution_url": "https://nextcloud.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Dropbox",
+			"similar_solution_url": "https://www.dropbox.com/",
+			"category": "Storage and database"
+		},{
+			"title": "Tresorit",
+			"similar_solution_url": "https://tresorit.com/",
+			"category": "Storage and database"
+		}],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Ercom",
+    "reference_list": [{
+			"title": "Acyan",
+			"logo_url": "https://www.acyan.fr/",
+			"country": "FR",
+			"industry": "Consulting and Training"
+		}, {
+			"title": "CNES",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/cnes.png",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "Telespazio",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/telespazio.png",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
+		}, {
+			"title": "Dassault Aviation",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/dassault.png",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
+		}],
+    "success_case_list": []
+  }, {
+    "title": "Cryptosmart",
+    "logo_url": "https://www.ercom.com/sites/default/files/2021-05/home-cryptosmart.png",
+    "website_url": "https://www.ercom.fr/solutions/cryptosmart-mobile",
+    "created_year": "",
+    "description": "Cryptosmart is the only “Restricted” French & NATO certified solution, jointly developed with Samsung, to secure end-to-end mobile communications on consumer devices.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+      "title": "Threema",
+      "similar_solution_url": "https://threema.ch/",
+      "category": "Networking"
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [{
+			"title": "Elysee.fr",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/elysee.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Ministère des Armées",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/arm%C3%A9e.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Ministère de l'Interieur",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/interieur.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Ministère de l'Europe et des affaires étrangères",
+			"logo_url": "https://www.ercom.fr/sites/default/files/2021-09/affaires%20etrang%C3%A8res_0.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}],
+    "success_case_list": []
+  }]
+}
