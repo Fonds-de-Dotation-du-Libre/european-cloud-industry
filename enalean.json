@@ -65,27 +65,19 @@
 		"website_url": "https://www.tuleap.org/",
 		"created_year": 2010,
 		"description": "Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.",
-		"category_list": ["Application"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
 			"title": "Github",
 			"similar_solution_url": "https://github.com/",
-			"category": "Application"
+			"category": "Developer environment"
 		}, {
 			"title": "GitLab",
 			"similar_solution_url": "https://about.gitlab.com/",
-			"category": "Application"
-		}, {
-			"title": "Gitea",
-			"similar_solution_url": "https://gitea.com/",
-			"category": "Application"
-		}, {
+			"category": "Developer environment"
+		},{
 			"title": "Jira",
 			"similar_solution_url": "https://www.atlassian.com/software/jira",
-			"category": "Application"
-		}, {
-			"title": "Kanboard",
-			"similar_solution_url": "https://kanboard.org/",
-			"category": "Application"
+			"category": "Developer environment"
 		}],
 		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/Enalean/tuleap.git",
@@ -153,7 +145,7 @@
 			"industry": "Aviation and Aerospace",
 			"customer": "Airbus Group",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-new-era-of-alm-in-airbus-with-tuleap"
 		}, {
 			"title": "TThe French Defense Procurement Agency (DGA) launches its agile transformation with an innovative Digital Workplace",
@@ -162,7 +154,7 @@
 			"industry": "Defense",
 			"customer": "DGA",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-french-dga-launches-its-agile-digital-transformation"
 		}, {
 			"title": "How does Sleepinnov Technology ensure its compliance to ISO 13485 and IEC 62304 standards for medical device software with Tuleap?",
@@ -171,7 +163,7 @@
 			"industry": "Health and Life Sciences",
 			"customer": "SleepInnov Technology",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/sleepinnov-techno-achieving-iso-medical-device-compliance"
 		}, {
 			"title": "Thales develops an integrated environment with full traceability for defense projects",
@@ -180,7 +172,7 @@
 			"industry": "Defense",
 			"customer": "Thales",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/thales-develops-an-integrated-environment-with-full-traceability-for-defense-projects"
 		}, {
 			"title": "STMicroelectronics gains full control over complex software systems application lifecycle",
@@ -189,7 +181,7 @@
 			"industry": "Information Technology",
 			"customer": "STMicroelectronics",
 			"country": "CH",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/stmicroelectronics-controls-complex-software-application-lifecycle"
 		}, {
 			"title": "Vignal Group optimizes its Quality Management System to ensure compliance with IATF software standards with Tuleap",
@@ -198,7 +190,7 @@
 			"industry": "Manufacturing",
 			"customer": "Vignal Group",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/vignal-group-optimizes-its-quality-management-system-to-ensure-compliance-with-iatf-software-standards-with-tuleap"
 		}, {
 			"title": "Sodern implements a future-proof environment for long-term software projects",
@@ -207,7 +199,7 @@
 			"industry": "Aviation and Aerospace",
 			"customer": "Sodern (ArianeGroup) ",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/sodern-quality-open-source-keys-future-proof-alm"
 		}, {
 			"title": "JTEKT achieves Compliance in the Automotive Industry: ISO 26262 and ASPICE with Tuleap",
@@ -216,7 +208,7 @@
 			"industry": "Automotive",
 			"customer": "JTEKT",
 			"country": "JP",
-			"language": "ja",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/jtekt-achieving-automotive-spice"
 		}, {
 			"title": "The UGA merged its IT departments and succeeded in its agile transformation, from values to tools",
@@ -225,7 +217,7 @@
 			"industry": "Academia and Research",
 			"customer": "Université Grenoble Alpes",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/the-uga-merges-its-it-departments-and-succeeds-in-its-agile-transformation-from-values-to-tools"
 		}, {
 			"title": "3 French ministries built an app to manage large volumes of data with Scrum",
@@ -234,7 +226,7 @@
 			"industry": "Public Administration and Government",
 			"customer": "VITAM Program (French Government)",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.tuleap.org/resources/success-stories/3-french-ministries-are-developing-an-app-to-manage-large-volumes-of-data-with-scrum-of-scrum"
 		}]
 	}]
