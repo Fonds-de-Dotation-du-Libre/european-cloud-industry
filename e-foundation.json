@@ -1,0 +1,81 @@
+{
+  "created": "2022-04-27",
+  "title": "E.Foundation",
+  "type": "Association",
+  "logo_url": "https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png",
+  "location": {
+    "title": "E.Foundation",
+    "address": "28 rue de Hauteville",
+    "postal_code": "75010",
+    "city": "Paris",
+    "country": "FR",
+    "phone_contact": "",
+    "mail_contact": "contact@e.email",
+    "coordinate_list": [48.87284470736138, 2.3510244779089224]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://e.foundation/",
+  "founded_year": 2018,
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "/e/OS",
+    "logo_url": "https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png",
+    "website_url": "https://e.foundation/e-os/",
+    "created_year": "2017",
+    "description": "/e/OS is an open-source mobile operating system paired with carefully selected applications. They form a privacy-enabled internal system for your smartphone. And it’s not just claims: open-source means auditable privacy.",
+    "category_list": ["Application"],
+    "similar_solution_list": [{
+			"title": "Android OS",
+			"similar_solution_url": "https://www.android.com/",
+			"category": "Application"
+		},{
+			"title": "iOS",
+			"similar_solution_url": "https://www.apple.com/ios/ios-15/",
+			"category": "Application"
+		}],
+    "licence_list": ["APL v2.0", "MIT"],
+    "source_code_download": "https://doc.e.foundation/devices",
+    "source_code_profile": "",
+    "commercial_support_url": "https://e.foundation/contact-e-2/",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki//e/_(operating_system)",
+    "reference_list": [],
+    "success_case_list": []
+  },{
+    "title": "/e/Cloud",
+    "logo_url": "https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png",
+    "website_url": "https://e.foundation/ecloud/",
+    "created_year": "",
+    "description": "/e/ is not only a great degoogled operating system, it is also a great set of online services, called ecloud. We felt that if we stopped at the OS, we were leaving many users without options for their emails and cloud storage, but to use proprietary solutions like Google Docs or Microsoft Office 365. So our efforts to bring people to a more privacy-friendly environment would be in vain. Here is where ecloud comes in.",
+    "category_list": ["Application"],
+    "similar_solution_list": [{
+			"title": "LibreOffice",
+			"similar_solution_url": "https://www.libreoffice.org/",
+			"category": "Application"
+		}, {
+			"title": "Google Docs",
+			"similar_solution_url": "https://www.docs.google.com/",
+			"category": "Application"
+		}, {
+			"title": "Apache OpenOffice",
+			"similar_solution_url": "https://www.openoffice.org/",
+			"category": "Application"
+		}, {
+			"title": "Microsoft Office 365",
+			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-office",
+			"category": "Application"
+		}],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://e.foundation/business-inquiries-2/",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}
