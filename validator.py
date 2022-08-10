@@ -44,7 +44,7 @@ print("\nfollowing file are incorrect:\n")
 for fn in incorrect_json_list:
    print(f"{fn}")
 
-print("\nfollowing file are invalide:\n")
+print("\nfollowing file are invalid:\n")
 for fn in invalid_json_list:
-  print(f"{fn['file']}: {fn['error']} at {fn['path']}")
+  print(f"{fn['file']}:\n  {fn['error']} at {fn['path']}\n")
 
