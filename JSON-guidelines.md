@@ -85,7 +85,8 @@ List of validated sources for financial data:
 * https://www.societe.com/ (FR);
 * https://www.infogreffe.fr/ (FR-official);
 * https://www.bundesanzeiger.de/ (DE-official);
-* https://www.infocamere.it/ (IT-official);
+* https://www.infocamere.it/ (IT);
+* https://italianbusinessregister.it/en/annual-accounts (IT);
 * https://www.find-and-update.company-information.service.gov.uk/ (UK);
 * https://www.romanian-companies.eu/ (RO-official);
 * https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/ (NL-official);
