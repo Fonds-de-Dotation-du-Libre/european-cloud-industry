@@ -1,0 +1,114 @@
+{
+	"created": "2022-08-12",
+	"title": "Detectify",
+	"type": "Organisation",
+	"logo_url": "https://detectify.com/site/themes/detectify/img/detectify_logo_black.svg",
+	"location": {
+		"title": "Detectify AB",
+		"address": "Mäster Samuelsgatan 56",
+		"postal_code": "111 21",
+		"city": "Stockholm",
+		"country": "SE",
+		"phone_contact": "",
+		"mail_contact": "hello@detectify.com",
+		"coordinate_list": [59.33280390648779, 18.06113659325464]
+	},
+	"subsidiary_location_list": ["US"],
+	"website_url": "https://detectify.com/",
+	"founded_year": 2013,
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Detectify Surface Monitoring",
+		"logo_url": "https://detectify.com/site/themes/detectify/img/detectify_logo_black.svg",
+		"website_url": "https://detectify.com/product/surface-monitoring",
+		"created_year": "",
+		"description": "Monitor what you expose on the web: Surface Monitoring strengthens the security of your applications' Internet-facing subdomains and detects exposed files, vulnerabilities, and misconfigurations continuously.",
+		"category_list": ["Cybersecurity"],
+		"similar_solution_list": [{
+			"title": "Nessus",
+			"similar_solution_url": "https://www.tenable.com/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "OpenVAS",
+			"similar_solution_url": "https://www.openvas.org/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "Invicti",
+			"similar_solution_url": "https://www.invicti.com/",
+			"category": "Cybersecurity"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "How Bühler Group leverages Detectify external attack surface monitoring",
+			"description": "Bühler Group covers their entire external-facing attack surface with Surface Monitoring and targets business-critical applications with individual Application Scanning profiles for stateful testing.",
+			"image_url": "https://detectify.com/assets/resources/case_studies/casestudy_buhler.png",
+			"industry": "Manufacturing",
+			"customer": "Bühler Group",
+			"country": "CH",
+			"language": "en",
+			"success_case_url": "https://detectify.com/resources/case-studies/buhler-group"
+		}, {
+			"title": "How Grammarly combines Detectify with bug bounty to optimize their security posture",
+			"description": "Grammarly strengthened its security position by utilizing the power of automation and expertise gathered from the ethical hacking community. They chose Detectify to deliver unobtainable results that could only come from Crowdsource.",
+			"image_url": "https://detectify.com/assets/resources/case_studies/casestudy_grammarly-(1).png",
+			"industry": "Information Technology",
+			"customer": "Grammarly",
+			"country": "US",
+			"language": "en",
+			"success_case_url": "https://detectify.com/resources/case-studies/grammarly"
+		},{
+			"title": "How Auth0 scales security to match their growing organization",
+			"description": "Auth0 safeguards billions of login transactions each month. When it comes to web app security, they chose Detectify because of its ability to quickly find the latest vulnerabilities in Auth0’s applications.",
+			"image_url": "https://detectify.com/assets/resources/case_studies/casestudy_auto0.png",
+			"industry": "Information Technology",
+			"customer": "Auth0",
+			"country": "US",
+			"language": "en",
+			"success_case_url": "https://detectify.com/resources/case-studies/auth0"
+		},{
+			"title": "How Photobox transformed security into an enabler for faster product development",
+			"description": "Photobox selected Application Scanning for dynamic scanning and Surface Monitoring to track internet-facing assets and improve visibility.",
+			"image_url": "https://detectify.com/assets/resources/case_studies/casestudy_photobox.png",
+			"industry": "Information Technology",
+			"customer": "Photobox",
+			"country": "UK",
+			"language": "en",
+			"success_case_url": "https://detectify.com/resources/case-studies/photobox"
+		},{
+			"title": "Preventing subdomain takeovers and receiving fewer false positives",
+			"description": "By using Detectify, Visma saw a reduced time in determining security issues, found more relevant findings, and got help with discovering previously unknown security issues in newly acquired companies.",
+			"image_url": "https://detectify.com/assets/resources/case_studies/casestudy_visma.png",
+			"industry": "Information Technology",
+			"customer": "Visma",
+			"country": "NO",
+			"language": "en",
+			"success_case_url": "https://detectify.com/resources/case-studies/visma"
+		}]
+	},{
+		"title": "Detectify App Scanning",
+		"logo_url": "https://detectify.com/site/themes/detectify/img/detectify_logo_black.svg",
+		"website_url": "https://detectify.com/product/application-scanning",
+		"created_year": "",
+		"description": "Web app scanning for deeper coverage of your assets: Automatically scan custom-built apps, find business-critical security vulnerabilities and strengthen your web app security with Application Scanning.",
+		"category_list": ["Cybersecurity"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}]
+}
