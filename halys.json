@@ -5,66 +5,136 @@
 	"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 	"location": {
 		"title": "Halys SAS",
-		"address": "16 RUE JEAN JACQUES ROUSSEAU",
+		"address": "16 Rue Jean Jacques Rousseau",
 		"postal_code": "92130",
-		"city": "ISSY-LES-MOULINEAUX",
+		"city": "Issy-les-Moulineaux",
 		"country": "FR",
-		"phone_contact": "+33 (0) 1 55 95 96 36 ",
+		"phone_contact": "+33(0)155959636",
 		"mail_contact": "contact@halys.fr",
 		"coordinate_list": [48.82336173247497, 2.258747153978838]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://www.halys.fr/?lang=en",
+	"website_url": "https://www.halys.fr/",
 	"founded_year": 2003,
-	"kpi_list": [],
+	"kpi_list": [{
+		"year": 2020,
+		"staff": "",
+		"earnings": "",
+		"total_assets": "2 519 074 EUR",
+		"revenues": "",
+		"source_url": "https://www.verif.com/"
+	}],
 	"solution_list": [{
 		"title": "Halys PMR",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 		"website_url": "https://www.halys.fr/solutions?lang=en",
 		"created_year": "",
 		"description": "Halys' PMR solution enable to acces to a private and autonomous 4G/ 5G networks everywhere, using and accessing to applications and MCS (Mission Criticial Solutions).",
-		"category_list": ["Networking"],
+		"category_list": ["vRAN"],
+	  	"similar_solution_list": [{
+			"title": "STL",
+			"similar_solution_url":"https://www.stl.tech/",
+			"category": "vRan"
+		}, {
+			"title": "Cablefree",
+			"similar_solution_url":"https://www.cablefree.net/",
+			"category": "vRan"
+		}, {
+			"title": "Nutaq PicoLTE",
+			"similar_solution_url":"https://nutaq.com/fr/",
+			"category": "vRan"
+		}, {
+			"title": "Valid8 UE emulator",
+      			"similar_solution_url":"https://www.valid8.com/datasheets/mobile-ue-emulator",
+			"category": "vRan"
+		}, {
+			"title": "Rapid.Space ORS",
+		      	"similar_solution_url": "https://www.rapid.space/products/ors",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Athonet 5G Core",
+		      	"similar_solution_url": "https://athonet.com/products/athonet-5g-sa/",
+		      	"category": "vRAN"
+	    	}, {
+			"title": "Amarisoft Callbox Series",
+		      	"similar_solution_url": "https://www.amarisoft.com/",
+		      	"category": "vRAN"
+	    	}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.halys.fr/contact",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [],
+		"reference_list": [{
+			"title": "Axione",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_4f3bad8a3e3940a99eb3a43acfd97fea~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_4f3bad8a3e3940a99eb3a43acfd97fea~mv2.jpg",
+			"country": "FR",
+			"industry": "Telecommunication"
+		},{
+			"title": "Alsatis",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_6004ba53139d4acb8ac21d6052a9e32c~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_6004ba53139d4acb8ac21d6052a9e32c~mv2.jpg",
+			"country": "FR",
+			"industry": "Telecommunication"
+		},{
+			"title": "Astrid",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_95149fea4b3146148cdaf6524d936f12~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_95149fea4b3146148cdaf6524d936f12~mv2.jpg",
+			"country": "BE",
+			"industry": "Telecommunication"
+		},{
+			"title": "Comfone",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_4b79aa68a4bd483aba1918a8b9a8ae23~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_4b79aa68a4bd483aba1918a8b9a8ae23~mv2.jpg",
+			"country": "CH",
+			"industry": "Telecommunication"
+		},{
+			"title": "Dauphin Telecom",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_94e33c8be48f4d8397ac14b1866630be~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_94e33c8be48f4d8397ac14b1866630be~mv2.jpg",
+			"country": "FR",
+			"industry": "Telecommunication"
+		},{
+			"title": "Malitel",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_3d5b3c5c1be045a5bba741983f3bcda0~mv2.png/v1/fill/w_216,h_216,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fa846a_3d5b3c5c1be045a5bba741983f3bcda0~mv2.png",
+			"country": "MA",
+			"industry": "Telecommunication"
+		},{
+			"title": "Monaco Telecom",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_09b3fc23b7e540e89b40a761d8d65bad~mv2.png/v1/fill/w_216,h_216,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fa846a_09b3fc23b7e540e89b40a761d8d65bad~mv2.png",
+			"country": "MC",
+			"industry": "Telecommunication"
+		},{
+			"title": "Orange",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_9f0df20e92cb4f029a6c6316038ecf6d~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_9f0df20e92cb4f029a6c6316038ecf6d~mv2.jpg",
+			"country": "FR",
+			"industry": "Telecommunication"
+		},{
+			"title": "SNCF",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_77d24e88e5354868962c28be83bf10f9~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_77d24e88e5354868962c28be83bf10f9~mv2.jpg",
+			"country": "FR",
+			"industry": "Transport"
+		},{
+			"title": "Telcel",
+			"logo_url": "https://static.wixstatic.com/media/fa846a_d12f817731d746b09b79f36e5c286a92~mv2.jpg/v1/fill/w_216,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fa846a_d12f817731d746b09b79f36e5c286a92~mv2.jpg",
+			"country": "MX",
+			"industry": "Telecommunication"
+		}],
 		"success_case_list": []
 	},{
-		"title": "Halys MNO / MVNO",
+		"title": "Halys MNO/MVNO",
 		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
 		"website_url": "https://www.halys.fr/test-nos-offres",
 		"created_year": 2006,
 		"description": "Solutions 3G / 4G / 5G for voice, text and date. From two to many million people",
-		"category_list": ["Networking"],
+		"similar_solution_list": [],
+		"category_list": ["vRAN"],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.halys.fr/contact",
-		"floss_software": true,
+		"floss_software": false,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	},{
-		"title": "Halys MNO / MVNO",
-		"logo_url": "https://static.wixstatic.com/media/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg/v1/fill/w_258,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/75b555_20ded2b2cf3b4543baadc03ff7a0b3ec~mv2.jpg",
-		"website_url": "https://www.halys.fr/test-nos-offres",
-		"created_year": 2006,
-		"description": "Solutions 3G / 4G / 5G for voice, text and date. From two to many million people",
-		"category_list": ["Networking"],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.halys.fr/contact",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
