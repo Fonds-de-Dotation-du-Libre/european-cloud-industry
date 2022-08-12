@@ -14,58 +14,88 @@
 		"coordinate_list": [52.27300770084475, 8.046926084659615]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://www.greenbone.net/en/",
+	"website_url": "https://www.greenbone.net/",
 	"founded_year": 2008,
 	"kpi_list": [{
 		"year": 2021,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
+		"staff": "66",
+		"earnings": "944 459 EUR",
+		"total_assets": "8 110 571 EUR",
 		"revenues": "",
-		"source_url": ""
-	}, {
+		"source_url": "https://www.bundesanzeiger.de/"
+	},{
 		"year": 2020,
 		"staff": "",
-		"earnings": "",
-		"total_assets": "484 277 113 EUR",
+		"earnings": "129 560 EUR",
+		"total_assets": "4 842 771 EUR",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?6"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2019,
 		"staff": "",
-		"earnings": "",
-		"total_assets": "414 439 530 EUR",
+		"earnings": "-286 927 EUR",
+		"total_assets": "4 144 395 EUR",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?6"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2018,
 		"staff": "",
-		"earnings": "",
-		"total_assets": "364 887 448 EUR",
+		"earnings": "-210 654 EUR",
+		"total_assets": "3 648 874 EUR",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?9"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2017,
 		"staff": "",
-		"earnings": "",
-		"total_assets": "236 198 338 EUR",
+		"earnings": "-185 364 EUR",
+		"total_assets": "2 361 983 EUR",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?12"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}, {
 		"year": 2016,
 		"staff": "",
-		"earnings": "",
-		"total_assets": "167 567 662 EUR",
+		"earnings": "-133 280 EUR",
+		"total_assets": "1 675 676 EUR",
 		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/pub/en/search-result?15"
+		"source_url": "https://www.bundesanzeiger.de/"
 	}],
 	"solution_list": [{
+		"title": "OpenVAS",
+		"logo_url": "https://www.openvas.org/img/inmenulogo.png",
+		"website_url": "https://www.openvas.org/",
+		"created_year": "2005",
+		"description": "It scans your IT infrastructure for security gaps in only a few steps and then delivers a report containing all found vulnerabilities, sorted by severity.",
+		"category_list": ["Cybersecurity"],
+		"similar_solution_list": [{
+			"title": "Nessus",
+			"similar_solution_url": "https://www.tenable.com/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "Detectify",
+			"similar_solution_url": "https://detectify.com/",
+			"category": "Cybersecurity"
+		}, {
+			"title": "Invicti",
+			"similar_solution_url": "https://www.invicti.com/",
+			"category": "Cybersecurity"
+		}],
+		"licence_list": ["AGPL v3.O"],
+		"source_code_download": "https://github.com/greenbone",
+		"source_code_profile": "https://www.openhub.net/p/greenbone-gvm/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.greenbone.net/en/technical-support/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenVAS",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
 		"title": "Greenbone Enterprise Appliances",
 		"logo_url": "https://www.greenbone.net/wp-content/uploads/Gb_New-logo_horizontal_head_wht.png",
 		"website_url": "https://www.greenbone.net/en/products/",
 		"created_year": "",
 		"description": "They consist of the Greenbone Operating System (GOS) on which the Greenbone Enterprise Feed is installed, a scan service, the web interface and, in the case of the hardware appliances, a special hardware. The scan service uses vulnerability tests (VTs) to detect existing vulnerabilities on the inspected network.",
-		"category_list": ["Application"],
+		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [],
 		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/greenbone",
@@ -84,19 +114,7 @@
 		"created_year": "",
 		"description": "It scans your IT infrastructure for security gaps in only a few steps and then delivers a report containing all found vulnerabilities, sorted by severity.",
 		"category_list": ["Cybersecurity"],
-		"similar_solution_list": [{
-			"title": "Orca Security",
-			"similar_solution_url": "https://orca.security/",
-			"category": "Cybersecurity"
-		}, {
-			"title": "Acunetix",
-			"similar_solution_url": "https://www.acunetix.com/",
-			"category": "Cybersecurity"
-		}, {
-			"title": "Invicti",
-			"similar_solution_url": "https://www.invicti.com/",
-			"category": "Cybersecurity"
-		}],
+		"similar_solution_list": [],
 		"licence_list": ["AGPL v3.O"],
 		"source_code_download": "https://github.com/greenbone",
 		"source_code_profile": "https://www.openhub.net/p/greenbone-gvm/analyses/latest/languages_summary",
