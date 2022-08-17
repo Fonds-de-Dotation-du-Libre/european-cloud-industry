@@ -26,15 +26,15 @@
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Jamespot",
-			"similar_solution_url": "https://www.fr.jamespot.com/",
+			"similar_solution_url": "https://www.jamespot.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Google Workspace",
 			"similar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
 		}, {
-			"title": "Miscrosoft Teams",
-			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"title": "Microsoft Teams",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/",
 			"category": "Workspace"
 		}],
 		"licence_list": [],
