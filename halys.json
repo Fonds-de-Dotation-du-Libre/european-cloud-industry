@@ -30,7 +30,7 @@
 		"website_url": "https://www.halys.fr/solutions?lang=en",
 		"created_year": "",
 		"description": "Halys' PMR solution enable to acces to a private and autonomous 4G/ 5G networks everywhere, using and accessing to applications and MCS (Mission Criticial Solutions).",
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 	  	"similar_solution_list": [{
 			"title": "STL",
 			"similar_solution_url":"https://www.stl.tech/",
@@ -50,15 +50,15 @@
 		}, {
 			"title": "Rapid.Space ORS",
 		      	"similar_solution_url": "https://www.rapid.space/products/ors",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}, {
 			"title": "Athonet 5G Core",
 		      	"similar_solution_url": "https://athonet.com/products/athonet-5g-sa/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}, {
 			"title": "Amarisoft Callbox Series",
 		      	"similar_solution_url": "https://www.amarisoft.com/",
-		      	"category": "vRAN"
+		      	"category": "vRan"
 	    	}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -127,7 +127,7 @@
 		"created_year": 2006,
 		"description": "Solutions 3G / 4G / 5G for voice, text and date. From two to many million people",
 		"similar_solution_list": [],
-		"category_list": ["vRAN"],
+		"category_list": ["vRan"],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
