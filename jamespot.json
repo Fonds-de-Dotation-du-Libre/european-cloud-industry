@@ -14,7 +14,7 @@
 		"coordinate_list": [48.852196813582395, 2.425986557687416]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://www.fr.jamespot.com/",
+	"website_url": "https://www.en.jamespot.com/",
 	"founded_year": 2005,
 	"kpi_list": [{
 		"year": 2020,
@@ -53,22 +53,30 @@
 		"source_url": "https://www.verif.com/"
 	}],
 	"solution_list": [{
-		"title": "Open Agora",
-		"logo_url": "",
-		"website_url": "https://www.fr.jamespot.com/open-agora",
+		"title": "Jamespot",
+		"logo_url": "https://static.wixstatic.com/media/9a1120_719b2e86c4044944abdcdc0dc1e54ad4~mv2.png/v1/fill/w_283,h_50,al_c,usm_0.66_1.00_0.01,enc_auto/Logo%20Jamespot.png",
+		"website_url": "https://www.en.jamespot.com/",
 		"created_year": "",
-		"description": "Open Agora centralizes all of your organization's internal communication on a single, customizable, secure and easy-to-use platform. Information is structured in dedicated groups or discussions and is accessible in real time from anywhere.",
+		"description": "Jamespot publishes a highly configurable enterprise social network solution that can be tailored to your business context. Bring a social dimension to your business!",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
+			"title": "Jamespot",
+			"similar_solution_url": "https://www.jamespot.com/",
+			"category": "Workspace"
+		}, {
 			"title": "Google Workspace",
 			"similar_solution_url": "https://workspace.google.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Microsoft Teams",
-			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/",
+			"category": "Workspace"
+		}, {
+			"title": "Meta Workplace",
+			"similar_solution_url": "https://www.workplace.com/",
 			"category": "Workspace"
 		}],
-		"licence_list": ["Proprietary"],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.en.jamespot.com/pricing",
@@ -106,17 +114,17 @@
       			"logo_url": "https://www.bpifrance.fr/themes/custom/bpi_main/logo.svg",
       			"country": "FR",
      			"industry": "Banking and Finance"
-    			},{
+		},{
 			"title": "L'Assurance Maladie",
       			"logo_url": "https://www.ameli.fr/themes/custom/ameli/images/logo.svg",
       			"country": "FR",
      			"industry": "Insurance"
-    			},{
+		},{
 			"title": "Apec",
       			"logo_url": "https://www.apec.fr/modules/apec-jahia-module/assets/img/edito/nav/logo-apec.svg",
       			"country": "FR",
      			"industry": "Public Administration and Government"
-    			},{
+		},{
 			"title": "UCANSS",
 			"logo_url": "https://static.wixstatic.com/media/9a1120_cf33cbadacea4a46bd3c4b0389c1d510~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_cf33cbadacea4a46bd3c4b0389c1d510~mv2.png",
 			"country": "FR",
@@ -126,12 +134,12 @@
       			"logo_url": "https://www.cerema.fr/themes/custom/uas_base/images/LogoCerema_horizontal_EN.svg",
       			"country": "FR",
      			"industry": "Public Administration and Government"
-    			},{
+		},{
 			"title": "Mafter Bourgeat",
       			"logo_url": "https://www.matferbourgeat.com/wp-content/uploads/2021/03/logo-matfer.png",
       			"country": "FR",
      			"industry": "Agriculture and Food"
-    			},{
+		},{
 			"title": "Interiale Mutuelle",
 			"logo_url": "https://static.wixstatic.com/media/9a1120_ad2e7a72cf6448949ca1be36211a5d3e~mv2.png/v1/fill/w_135,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a1120_ad2e7a72cf6448949ca1be36211a5d3e~mv2.png",
 			"country": "FR",
@@ -161,12 +169,12 @@
       			"logo_url": "https://www.unapei.org/wp-content/themes/wext/assets/img/logo_unapei.png",
       			"country": "FR",
      			"industry": "Associations and NGOs"
-    			},{
+		},{
 			"title": "Groupe Cristal",
       			"logo_url": "https://groupecristal.fr/wp-content/themes/cristal/assets/img/logo.png",
       			"country": "FR",
      			"industry": "Agriculture and Food"
-			}],
+		}],
 		"success_case_list": [{
 			"title": "Communication improvement with Jamespot",
 			"description": "With a growing membership number in the association, communication through mails became so complex that the association wasn’t functioning efficiently. They used  Jamespot’s collaborative solution to improve the communication flow between members because of its user friendly platform.",
@@ -230,37 +238,7 @@
 			"country": "FR",
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=i0HBqDK0chU"
-		}]
-	}, {
-		"title": "Fast Intranet",
-		"logo_url": "",
-		"website_url": "https://www.fr.jamespot.com/fast-intranet",
-		"created_year": "",
-		"description": "Fast Intranet gives meaning to your internal communication by providing simplified access to information (news, reference documents, key figures ...) and information systems of your organization (HRIS, GED, CRM ...)",
-		"category_list": ["Application"],
-		"similar_solution_list": [{
-			"title": "Microsoft SharePoint",
-			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
-			"category": "Application"
 		}, {
-			"title": "Workvivo",
-			"similar_solution_url": "https://www.workvivo.com/product/",
-			"category": "Application"
-		}, {
-			"title": "Workplace from Meta",
-			"similar_solution_url": "https://www.workplace.com/",
-			"category": "Application"
-		}],
-		"licence_list": ["Proprietary"],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.en.jamespot.com/pricing",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
-		"reference_list": [],
-		"success_case_list": [{
 			"title": "Better intranet platform with with Jamespot",
 			"description": "They used Jamespot’s fast intranet solution to fulfill two objectives that their former intranet platform failed to ensure: being able to communicate with each other more easily and share document with the employees",
 			"image_url": "",
@@ -279,57 +257,5 @@
 			"language": "fr",
 			"success_case_url": "https://www.youtube.com/watch?v=8flM_4n_bFM"
 		}]
-	}, {
-		"title": "Diapazone",
-		"logo_url": "",
-		"website_url": "https://www.fr.jamespot.com/diapazone",
-		"created_year": "",
-		"description": "Diapazone gathers a set of applications allowing you to prepare and animate your meetings in an efficient way, whatever your objectives (team meetings, brainstorms, etc).",
-		"category_list": ["Application"],
-		"similar_solution_list": [{
-			"title": "Zoom",
-			"similar_solution_url": "https://zoom.us/",
-			"category": "Application"
-		}, {
-			"title": "Webex",
-			"similar_solution_url": "https://www.webex.com/fr/index.html",
-			"category": "Application"
-		}],
-		"licence_list": ["Proprietary"],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.en.jamespot.com/pricing",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
-		"reference_list": [],
-		"success_case_list": []
-		}, {
-		"title": "Wedoc",
-		"logo_url": "",
-		"website_url": "https://www.fr.jamespot.com/wedoc",
-		"created_year": "",
-		"description": "Wedoc organizes the creation of your documents: edit several times and in real time, store your document in folders and find it easily by typing a keyword. It's as easy as pie",
-		"category_list": ["Application"],
-		"similar_solution_list": [{
-			"title": "Microsoft Teams",
-			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
-			"category": "Application"
-		}, {
-			"title": "Google Workspace",
-			"similar_solution_url": "https://www.google.com/docs/about/",
-			"category": "Application"
-		}],
-		"licence_list": ["Proprietary"],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.en.jamespot.com/pricing",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Jamespot",
-		"reference_list": [],
-		"success_case_list": []
 	}]
     }
