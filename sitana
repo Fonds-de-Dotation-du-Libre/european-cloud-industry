@@ -1,0 +1,114 @@
+{
+	"created": "2022-08-17",
+	"title": "Sitana",
+	"type": "Organisation",
+	"logo_url": "https://www.sitana.pt/static/media/logo.5b9b8389f51f61312edf.png",
+	"location": {
+		"title": "Sitana - Soluções Digitais (Sede)",
+		"address": "Rua José Joaquim Marques n.º 110",
+		"postal_code": "2870-348",
+		"city": "Montijo",
+		"country": "PT",
+		"phone_contact": "(+351) 912 524 751",
+		"mail_contact": "admin@sitana.pt",
+		"coordinate_list": [38.704017323228086, -8.969773022259462]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.sitana.pt/en/",
+	"founded_year": "",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Veks",
+		"logo_url": "https://www.veks.net/images/logo-final.svg",
+		"website_url": "https://www.veks.net/pt/",
+		"created_year": "",
+		"description": "VEKS is a hosting management platform for your website. It allows you to consult the resources available on your server, create email accounts and associate other forwarding addresses for your domain, or even make specific settings for managing your hosting. It is available through our various packages of servers, virtual machines and cloud units.",
+		"category_list": ["Deverloper Environment"],
+		"similar_solution_list": [{
+      "title": "Cloudways",
+      "similar_solution_url": "https://www.cloudways.com/en/",
+      "category": "Deverloper Environment"
+    },{
+      "title": "Heroku",
+      "similar_solution_url": "https://www.heroku.com/",
+      "category": "Deverloper Environment"
+    },{
+      "title": "Scalingo",
+      "similar_solution_url": "https://scalingo.com/",
+      "category": "Deverloper Environment"
+    }],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.veks.net/en/contact-us",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Inoveh",
+			"description": "One of the great providers of IT solutions and commercial automation in the Brazilian northeast. It offers several business management and billing solutions with greater emphasis on the retail sector. With an avant-garde and realistic vision of the sector's needs, Inoveh entrusted us with the installation of its critical systems in our VEKS server infrastructures, in the cloud and with machine management made-to-measure virtual.",
+			"image_url": "https://www.sitana.pt/images/banner/dev.inoveh-bYbhClEU.jpg",
+			"industry": "Information Technology",
+			"customer": "Inoveh",
+			"country": "BR",
+			"language": "en",
+			"success_case_url": "https://www.sitana.pt/en/customers/inoveh"
+		},{
+			"title": "SPMS",
+			"description": "The network of institutions is formed by some companies in the state that are responsible for the services provided by the ministry of health, among them is the Shared Services of the Ministry of Health (SPMS) which aims to centralize, optimize and rationalize the acquisition of goods and services on the SNS.",
+			"image_url": "https://www.sitana.pt/images/banner/SPMS-HhNJu03G.jpg",
+			"industry": "Public Administration and Government",
+			"customer": "SPMS",
+			"country": "PT",
+			"language": "en",
+			"success_case_url": "https://www.sitana.pt/en/customers/spms"
+		}, {
+			"title": "Esporão",
+			"description": "One of the most renowned producers of wine and olive oil in Portugal with the quality and excellence of its products recognized internationally. We are proud to have worked for several years with Esporão, a company family with a focus on people, the environment and the future. creative and nonconformist, has maintained over the years a strong investment in technology, namely in the development of websites and web applications.",
+			"image_url": "https://www.sitana.pt/images/banner/estandarte-esporAo-OIlPB8VB.jpg",
+			"industry": "Manufacturing",
+			"customer": "Esporão",
+			"country": "PT",
+			"language": "en",
+			"success_case_url": "https://www.sitana.pt/en/customers/esporao"
+		}]
+	}, {
+		"title": "Netuno",
+		"logo_url": "https://www.sitana.pt/images/listing_item/Netuno-joCL4ISN.jpg",
+		"website_url": "https://netuno.org/en/",
+		"created_year": "",
+		"description": "NETUNO is a platform for developing web-based enterprise software that works in the cloud or on-premises. It uses the latest technologies for the frontend and the most robust technologies for the backend. It can be applied in areas: industrial, administrative, management and many more. The versatility of Neptune allows its integration with a wide range of platforms, in order to improve and automate your business processes.",
+		"category_list": ["Deverloper Environment"],
+		"similar_solution_list": [],
+		"licence_list": ["APL v2.0"],
+		"source_code_download": "https://netuno.org/en/download/",
+		"source_code_profile": "",
+		"commercial_support_url": "https://forum.netuno.org/",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Navigator",
+			"description": "Sitana takes on this successful partnership with The Navigator Company being responsible for the development of the management and manufacturing information of production lines in their various factories. Our contribution is also visible in the systems that deal with the large volume of data that store the more than 20 years of history that the Navigator has to tell. Our team is also responsible for development of other systems such as the application management online, and production occurrence, helping in recent years to improve and automate the processes of this global giant of cellulose and paper.",
+			"image_url": "https://www.sitana.pt/images/banner/navigator-u5B9rcJV.jpg",
+			"industry": "Manufacturing",
+			"customer": "Navigator",
+			"country": "PT",
+			"language": "en",
+			"success_case_url": "https://www.sitana.pt/en/customers/navigator"
+		}, {
+			"title": "Advance Care",
+			"description": "Since its genesis, AdvanceCare has been complementing its offer in order to provide services at all stages of the value chain, from brand management to after-sales service. The group differs for quality and innovation, assuming the importance of providing a stable platform with services that allow greater proximity and customer satisfaction.",
+			"image_url": "https://www.sitana.pt/images/listing_item/AdvanceCare-DMjWk9O9.jpg",
+			"industry": "Information Technology",
+			"customer": "Advance Care",
+			"country": "PT",
+			"language": "en",
+			"success_case_url": "https://www.sitana.pt/en/customers/advancecare"
+		}]
+	}]
+}
