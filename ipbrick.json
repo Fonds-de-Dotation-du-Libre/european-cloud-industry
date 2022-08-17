@@ -1,0 +1,322 @@
+{
+	"created": "2022-08-15",
+	"title": "IPBrick",
+	"type": "Organisation",
+	"logo_url": "https://www.ipbrick.com/wp-content/uploads/2021/08/LOGO-IPBRICK-M.png",
+	"location": {
+		"title": "IP Brick SA - by expandindustria",
+		"address": "Avenida de França, 821",
+		"postal_code": "4250-214",
+		"city": "Porto",
+		"country": "PT",
+		"phone_contact": "+351 220 126 900",
+		"mail_contact": "marketing@ipbrickdi.com",
+		"coordinate_list": [41.16627889007601, -8.62686593753096]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.ipbrick.com/",
+	"founded_year": 2005,
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "IP Brick",
+		"logo_url": "https://www.ipbrick.com/wp-content/uploads/2021/08/LOGO-IPBRICK-M.png",
+		"website_url": "https://www.ipbrick.com/en/",
+		"created_year": "2000",
+		"description": "IPBrick is a platform for corporate communications that supports the solutions document and process management, unified communications, digital worksplace and email and collabrative tools",
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "Google Workspace",
+			"similar_solution_url": "https://workspace.google.com/",
+			"category": "Workspace"
+		}, {
+			"title": "Microsoft Teams",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software?rtc=1",
+			"category": "Workspace"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.ipbrick.com/en/ipbrick-os/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "Porto Leixoes-Cinza",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/porto-leixoes-cinza-01.png",
+			"country": "PT",
+			"industry": "Transport"
+		},{
+			"title": "SMAS Almada",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/smas-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Globalvia Transmontana",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/globalvia-cinza-01.png",
+			"country": "PT",
+			"industry": "Construction"
+		},{
+			"title": "CCDR-N",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/ccdrn-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Agência Portuguesa do Ambiente",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/apa-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Universito de Minho",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/uminho-cinza-01.png",
+			"country": "PT",
+			"industry": "Academia and Research"
+		},{
+			"title": "Groupo JAP",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/jap-cinza-01.png",
+			"country": "PT",
+			"industry": "Manufacturing"
+		},{
+			"title": "IPCA",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/ipca-cinza-01.png",
+			"country": "PT",
+			"industry": "Academia and Research"
+		},{
+			"title": "Porto - Câmara Municipal",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/camara-porto-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Aguas Porto",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/aguas-porto-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Agência Nacional de Inovação",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/ani-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Porto Lazer",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/porto-lazer-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "CIN",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/cin-cinza-01.png",
+			"country": "PT",
+			"industry": "Construction"
+		},{
+			"title": "Trofa Municipio",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/trofa-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Dorso Azul",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/douro-azul-cinza-01.png",
+			"country": "PT",
+			"industry": "Transport"
+		},{
+			"title": "Azinor",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/azinor-cinza-01.png",
+			"country": "PT",
+			"industry": "Transport"
+		},{
+			"title": "Aguas de Norte",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/aguas-norte-cinza-01.png",
+			"country": "PT",
+			"industry": "Energy and Utility"
+		},{
+			"title": "Burmester & Stüve",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/burmester-cinza-01.png",
+			"country": "PT",
+			"industry": "Transport"
+		},{
+			"title": "AMA",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/ama-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Aguas de Centro Litoral",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/aguas-litoral-cinza-01.png",
+			"country": "PT",
+			"industry": "Energy and Utility"
+		},{
+			"title": "Centro Hospitalier",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/hospitalar-porto-cinza-01.png",
+			"country": "PT",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Vale de Cavado",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/vale-cavado-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Parque des Nacoes",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/parque-nacoes-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Mondim de Basto",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/mondim-basto-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Torrestir",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/torrestir-cinza-01.png",
+			"country": "PT",
+			"industry": "Transport"
+		},{
+			"title": "Vilamoura",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/vilamoura-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Ordem dos Arcitectos",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/ordem-arq-cinza-01.png",
+			"country": "PT",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "CHMA",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/medio-ave-cinza-01.png",
+			"country": "PT",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Hospital Lovar",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/hosp-ovar-cinza-01.png",
+			"country": "PT",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Amporto",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/amporto-cinza-01.png",
+			"country": "PT",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Municipio des Resende",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/resende-cinza-final-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Trust Saude",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/trust-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Eurospuma",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/eurospuma-cinza-01.png",
+			"country": "PT",
+			"industry": "Manufacturing"
+		},{
+			"title": "SPMS",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/spms-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Efacec",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/efacec-cinza-01.png",
+			"country": "PT",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Modetax",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/modatex-cinza-01.png",
+			"country": "PT",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "CITEX",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/01/citex-cinza-01.png",
+			"country": "PT",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Alto ACM",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/acm-cinza-01.png",
+			"country": "PT",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Sao Joao",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/saojoao-cinza-01.png",
+			"country": "PT",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Ponto Delgada",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/cm-ponta-delgada-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Cerealis",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/cerealis-cinza-01.png",
+			"country": "PT",
+			"industry": "Manufacturing"
+		},{
+			"title": "CIMPOR",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/cimpor-cinza-01.png",
+			"country": "PT",
+			"industry": "Construction"
+		},{
+			"title": "Unicer Super Bock",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/unicer-cinza-01.png",
+			"country": "PT",
+			"industry": "Manufacturing"
+		},{
+			"title": "Wall Street English",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/wall-street-cinza-01.png",
+			"country": "PT",
+			"industry": "Consulting and Training"
+		},{
+			"title": "ANPME",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/anpme-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Infracinta",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/infraquinta-cinza-01.png",
+			"country": "PT",
+			"industry": "Housing and Real Estate"
+		},{
+			"title": "Inova+",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/inovamais-cinza-01.png",
+			"country": "PT",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "IPDJ",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/ipdj-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "RSN",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/rsn-cinza-01.png",
+			"country": "PT",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Brisa",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/brisa-cinza-01.png",
+			"country": "PT",
+			"industry": "Transport"
+		},{
+			"title": "EPOLI",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/epoli-cinza-01.png",
+			"country": "PT",
+			"industry": "Manufacturing"
+		},{
+			"title": "IPB",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/ipb-cinza-01.png",
+			"country": "PT",
+			"industry": "Academia and Research"
+		},{
+			"title": "IGAC Portugal",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/igac-cinza-01.png",
+			"country": "PT",
+			"industry": "Public Administration and NGOs"
+		},{
+			"title": "Ordem dos Advocados",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/ordem-adv-cinza-01.png",
+			"country": "PT",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Madeira wine Company",
+			"logo_url": "https://www.ipbrick.com/wp-content/uploads/2019/07/madeira-cinza-01.png",
+			"country": "PT",
+			"industry": "Manufacturing"
+		}],
+		"success_case_list": []
+	}]
+}
