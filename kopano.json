@@ -4,7 +4,7 @@
 	"type": "Organisation",
 	"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 	"location": {
-		"title": "Kopano Head Office",
+		"title": "Kopano BV",
 		"address": "Elektronicaweg 18",
 		"postal_code": "2628 ",
 		"city": "Delft",
@@ -28,21 +28,33 @@
 		"title": "Kopano Groupware",
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/groupware/",
-		"created_year": 2020,
-		"description": "an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange.",		
+		"created_year": 2017,
+		"description": "Kopano Groupware is an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange. Kopano Groupware installations can be operated with more than 100,000 users.",		
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
 			"title": "Microsoft 365",
 			"similar_solution_url": "https://www.office.com/",
 			"category": "Workspace"
+		}, {
+			"title": "Zimbra Collaboration Suite",
+			"similar_solution_url": "https://www.zimbra.com/business-email-collaboration/",
+			"category": "Workspace"
+		}, {
+			"title": "Mailo",
+			"similar_solution_url": "https://www.mailo.com/",
+			"category": "Workspace"
+		}{
+			"title": "Google Workspace",
+			"similar_solution_url": "https://workspace.google.com/",
+			"category": "Workspace"
 		}],
 		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/Kopano-dev",
+		"source_code_download": "https://stash.kopano.io/projects",
 		"source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
-		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
+		"commercial_support_url": "https://kopano.com/pricing/",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
 		"reference_list": [{
 			"title": "Limerick City Council",
@@ -64,28 +76,83 @@
 			"logo_url": "https://www.omnis-systems.com/images/stories/images/zarafa/references/logo-interaktcontour.png",
 			"country": "NL",
 			"industry": "Health and Life Sciences"
+		},{
+			"title": "ÖBV",
+			"logo_url": "https://kopano.com/wp-content/uploads/2020/07/customer-icon-oebv.png",
+			"country": "AT",
+			"industry": "Media and Entertainment"
+		},{
+			"title": "Lernstatt Paderborn",
+			"logo_url": "https://kopano.com/wp-content/uploads/2020/07/logo-lernstatt_paderborn.jpg",
+			"country": "DE",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Gebeco",
+			"logo_url": "https://kopano.com/wp-content/uploads/2020/07/customer-icon-gebeco.png",
+			"country": "DE",
+			"industry": "Travel and Tourism"
+		},{
+			"title": "Evangelische Kirche im Rheinland",
+			"logo_url": "https://kopano.com/wp-content/uploads/2020/07/customer-icon-ekir.png",
+			"country": "DE",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Landkreis OPR",
+			"logo_url": "https://kopano.com/wp-content/uploads/2020/07/customer-icon-landkreis_opr.png",
+			"country": "DE",
+			"industry": "Public Administration and Government"
 		}],
-		"success_case_list": []
+		"success_case_list": [{
+		      "title": "Moderne Open Source E-Mail & Groupwareplattform von Kopano für den öbv",
+		      "description": "Der Österreichische Bundesverlag (öbv) ist heute einer der größten und bekanntesten Bildungsverlage Österreichs. Die 70 MitarbeiterInnen im Innen- und Außendienst stellen hohe Anforderungen an die IT, vor allem an die E-Mail und Groupwarelösung, die überwiegend für E-Mails, Terminkoordination, Aufgabenplanung, Ressourcenbuchung, Webmeetings, Chats und Files verwendet wird.",
+		      "image_url": "https://kopano.com/wp-content/uploads/2020/07/customer-icon-oebv.png",
+		      "industry": "Media and Entertainment",
+		      "customer": "ÖBV",
+		      "country": "AT",
+		      "language": "de",
+		      "success_case_url": "https://www.siedl.net/page.asp/-/147.htm"
+	    	}, {
+		      "title": "Digital Collaboration with Kopano at Lernstatt Paderborn",
+		      "description": "The city of Paderborn, Germany is special. Not only because of its beautiful Romanesque Cathedral, but because of its school system. Why? Nearly 20 years ago, local political decision-makers decided to take an important step towards digital collaboration. In 2000, they started “Lernstatt Paderborn”, a pioneer project that digitally links all schools in Paderborn, from elementary to high-school level. Kopano is proud to have been a part of the Lernstatt project since 2011. Today, more than 20,000 students and teachers have a digital Lernstatt identity: students receive an account (which includes Kopano email and calendaring) when they start primary school and keep it until the end of their Paderborn educational career.",
+		      "image_url": "https://kopano.com/wp-content/uploads/2020/07/logo-lernstatt_paderborn.jpg",
+		      "industry": "Consulting and Training",
+		      "customer": "City of Paderborn",
+		      "country": "DE",
+		      "language": "en",
+		      "success_case_url": "https://kopano.com/featured/digital-collaboration-kopano-lernstatt-paderborn/"
+	    	}]
 	}, {
-		"title": "Kopano meet",
+		"title": "Kopano Meet",
 		"logo_url": "https://kopano.com/wp-content/themes/betheme-zarafa-childtheme/images/kopano-sitelogo.svg",
 		"website_url": "https://kopano.com/products/meet/",
-		"created_year": 2019,
-		"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted.",
+		"created_year": "",
+		"description": "Digital sovereign video meetings mean providing users with secure communication channels on a system that is completely under your control. Kopano Meet is open source, lean, end-to-end encrypted and self-hosted. Thanks to progressive web apps, you don’t even need an app store to install a client.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Rocket.Chat",
 			"similiar_solution_url": "https://rocket.chat/",
 			"category": "Communication"
+		}, {
+			"title": "Vonage",
+			"similar_solution_url": "https://www.vonage.com/",
+			"category": "Desktop virtualisation"
+		}, {
+			"title": "Galène",
+			"similar_solution_url": "https://galene.org/",
+			"category": "Desktop virtualisation"
+		}, {
+			"title": "Jitsi",
+			"similar_solution_url": "https://jitsi.org/",
+			"category": "Desktop virtualisation"
 		}],
 		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/Kopano-dev",
-		"source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
-		"commercial_support_url": "https://kopano.com/pricing/support-professional-services/",
+		"source_code_profile": "",
+		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
+		"commercial_support_available": false,
+		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
 	}]
