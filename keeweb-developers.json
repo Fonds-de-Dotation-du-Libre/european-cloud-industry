@@ -7,11 +7,11 @@
 		"title": "KeeWeb",
 		"address": "",
 		"postal_code": "",
-		"city": "",
+		"city": "Utrecht",
 		"country": "NL",
 		"phone_contact": "",
 		"mail_contact": "",
-		"coordinate_list": [52.14968875457042, 5.248451888512935]
+		"coordinate_list": [52.0841659, 5.0122804]
 	},
 	"subsidiary_location_list": [],
 	"website_url": "https://keeweb.info",
@@ -42,14 +42,19 @@
 			"category": "Identity"
 		}],
 		"licence_list": ["MIT"],
-		"source_code_download": "https://antelle.net",
+		"source_code_download": "https://github.com/keeweb/keeweb",
 		"source_code_profile": "https://www.openhub.net/p/keeweb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://opencollective.com/keeweb#support",
+		"commercial_support_url": "",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/KeeWeb",
-		"reference_list": [],
+		"reference_list": [{
+			"title": "Nextcloud",
+			"logo_url": "https://nextcloud.com/wp-content/uploads/2021/12/logo.png",
+			"country": "DE",
+			"industry": "Information Technology"
+		}],
 		"success_case_list": []
 	}]
 }
