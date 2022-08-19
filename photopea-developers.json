@@ -16,7 +16,14 @@
 	"subsidiary_location_list": [],
 	"website_url": "https://www.photopea.com/",
 	"founded_year": "2013",
-	"kpi_list": [],
+	"kpi_list": [{
+   		"year": 2021,
+   		"staff": "1",
+   		"earnings": "",
+   		"total_assets": "",
+   		"revenues": "1 000 000 EUR",
+   		"source_url": ""
+   	}],
 	"solution_list": [{
 		"title": "Photopea",
 		"logo_url": "https://images.assets-landingi.com/4purx2ZndyLWUPgi/logo_horizontal.png",
