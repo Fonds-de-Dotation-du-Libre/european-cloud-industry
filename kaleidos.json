@@ -4,7 +4,7 @@
 	"type": "Organisation",
 	"logo_url": "https://avatars.githubusercontent.com/u/1219587?s=200&v=4",
 	"location": {
-		"title": "Kaleidos Open Source Main Office",
+		"title": "Kaleidos Ventures SL",
 		"address": "La Botánica 4",
 		"postal_code": "28028",
 		"city": "Madrid",
@@ -22,33 +22,33 @@
 		"logo_url": "https://images.assets-landingi.com/4purx2ZndyLWUPgi/logo_horizontal.png",
 		"website_url": "https://www.taiga.io/",
 		"created_year": 2014,
-		"description": "Taiga is an Open Source project management platform for cross-domain agile teams.",
+		"description": "Taiga is an Open Source project management platform for cross-domain agile teams. Its rich feature set and intuitive user interface is enjoyed by 1M+ users worldwide.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
-			"title": "Open Project",
-			"similar_solution_url": "https://www.openproject.org/",
-			"category": "Application"
-		}, {
-			"title": "Asana",
-			"similar_solution_url": "https://asana.com/",
-			"category": "Application"
-		}, {
-			"title": "Quire",
-			"similar_solution_url": "https://quire.io/",
-			"category":"Application"
-		}, {
-			"title": "Wekan",
-			"similar_solution_url": "https://wekan.github.io/",
-			"category": "Application"
-		}, {
-			"title": "Kanboard",
-			"similar_solution_url": "https://kanboard.org/",
-			"category": "Application"
-		}, {
-			"title": "Redmine",
-			"similar_solution_url": "https://www.redmine.org/",
-			"category": "Application"
-		}],
+		       "title": "Airtable",
+		      "similar_solution_url": "https://www.airtable.com/",
+		      "category": "Application"
+	    	}, {
+		       "title": "Basecamp",
+		      "similar_solution_url": "https://basecamp.com/",
+		      "category": "Application"
+	    	}, {
+		       "title": "Jira",
+		      "similar_solution_url": "https://www.atlassian.com/software/jira",
+		      "category": "Application"
+	    	}, {
+		       "title": "Asana",
+		      "similar_solution_url": "https://asana.com/",
+		      "category": "Application"
+	    	}, {
+		       "title": "Trello",
+		      "similar_solution_url": "https://trello.com/",
+		      "category": "Application"
+	    	}, {
+		       "title": "Wrike",
+		      "similar_solution_url": "https://wrike.com",
+		      "category": "Application"
+	    	}],
 		"licence_list": ["MPL v2.0"],
 		"source_code_download": "https://github.com/kaleidos-ventures/taiga-back.git",
 		"source_code_profile": "https://www.openhub.net/p/taigaio/analyses/latest/languages_summary",
@@ -74,7 +74,7 @@
 		"logo_url": "https://avatars.githubusercontent.com/u/30179644?s=200&v=4",
 		"website_url": "https://penpot.app/",
 		"created_year": 2016,
-		"description": "The open-source solution for design and prototyping digital products and platforms.",
+		"description": "The open-source solution for design and prototyping digital products and platforms. Early stage, but already considered as a potential Figma-killer.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Diagrams.net",
