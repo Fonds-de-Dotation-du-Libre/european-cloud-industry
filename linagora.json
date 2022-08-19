@@ -17,31 +17,38 @@
 	"website_url": "https://www.linagora.com/en/",
 	"founded_year": "",
 	"kpi_list": [{
+		"year": 2021,
+		"staff": "",
+		"earnings": "-1 107 689 EUR",
+		"total_assets": "16 807 173 EUR",
+		"revenues": "10 056 991 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
+	},{
 		"year": 2020,
 		"staff": "",
 		"earnings": "605 784 EUR",
-		"total_assets": "",
+		"total_assets": "18 394 981 EUR",
 		"revenues": "10 681 262 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2019,
 		"staff": 85,
 		"earnings": "1 099 751 EUR",
-		"total_assets": "",
+		"total_assets": "14 420 586 EUR",
 		"revenues": "12 197 070 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2018,
 		"staff": 88,
 		"earnings": "731 732 EUR",
-		"total_assets": "",
+		"total_assets": "10 985 407 EUR",
 		"revenues": "9 640 991 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
 		"year": 2017,
 		"staff": "",
 		"earnings": "583 699 EUR",
-		"total_assets": "",
+		"total_assets": "11 338 747 EUR",
 		"revenues": "8 612 908 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}, {
@@ -53,141 +60,136 @@
 		"source_url": "https://www.verif.com/bilans-gratuits/LINAGORA-431473669/"
 	}],
 	"solution_list": [{
-				"title": "Twake",
-				"logo_url": "https://twake.app/images/logo-twake.svg",
-				"website_url": "https://www.linagora.com/en/products/twake/",
-				"created_year": "",
-				"description": "digital workplace / Secure open source collaboration platform to improve organizational efficiency",		
-				"category_list": ["Workspace"],
-				"similar_solution_list": [{
-					"title": "Trello",
-					"similar_solution_url": "https://trello.com/en",
-					"category": "Workspace"
-				}],
-				"licence_list": ["GPL v3.0"],
-				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "",
-				"commercial_support_url": "",
-				"floss_software": true,
-				"commercial_support_open_source_version": false,
-				"commercial_support_available": false,
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [],
-				"success_case_list": []
-			}, {
-				"title": "LinShare",
-				"logo_url": "https://www.linshare.org/wp-content/uploads/2020/08/cropped-linshare-logo.png",
-				"website_url": "https://www.linagora.com/en/products/linshare/",
-				"created_year": "",
-				"description": "file sharing / Secure open source enterprise file sharing",
-				"category_list": ["Application"],
-				"similar_solution_list": [{
-					"title": "Nextcloud",
-					"similar_solution_url": "https://nextcloud.com/",
-					"category": "Application"
-				}],
-				"licence_list": [],
-				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "",
-				"commercial_support_url": "",
-				"floss_software": true,
-				"commercial_support_open_source_version": false,
-				"commercial_support_available": false,
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [],
-				"success_case_list": []
-			}, {
-				"title": "Linto",
-				"logo_url": "https://www.linagora.com/assets/images/linto/top-image.png",
-				"website_url": "https://www.linagora.com/en/products/linto/",
-				"created_year": "",
-				"description": "voice assistant / Secure end-to-end open source voice platform",				
-				"category_list": ["Workspace"],
-				"similar_solution_list": [{
-					"title": "Open assistant",
-					"similar_solution_url": "https://www.sitelike.org/similar/openassistant.org/",
-					"category": "Workspace"
-				}],
-				"licence_list": [],
-				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "",
-				"commercial_support_url": "",
-				"floss_software": true,
-				"commercial_support_open_source_version": false,
-				"commercial_support_available": false,
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [],
-				"success_case_list": []
-			}, {
-				"title": "LinID",
-				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
-				"website_url": "https://linid.org/en/",
-				"created_year": "",
-				"description": "LinID is a software package for identity and access management and identity federation. LinID is LDAP compatible and supports WebSSO via the open source LemonLDAP::NG.",				
-				"category_list": ["Identity"],
-				"similar_solution_list": [],
-				"licence_list": [],
-				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "",
-				"commercial_support_url": "",
-				"floss_software": true,
-				"commercial_support_open_source_version": false,
-				"commercial_support_available": false,
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [],
-				"success_case_list": []
-			}, {
-				"title": "OSSA: Open Source Software Assurance",
-				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
-				"website_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linagora-logo.png",
-				"created_year": "",
-				"description": "We support IT departments in the governance of their open source software catalog",				
-				"category_list": ["Operation management"],
-				"similar_solution_list": [],
-				"licence_list": [],
-				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "",
-				"commercial_support_url": "https://linagora.com/en/ossa-support/open-source-software-assurance/",
-				"floss_software": false,
-				"commercial_support_open_source_version": false,
-				"commercial_support_available": true,
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": [],
-				"success_case_list": []
-			}, {
-				"title": "LUX",
-				"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
-				"website_url": "https://www.linagora.com/en/ossa-support/lux-model/",
-				"created_year": "",
-				"description": "a universal software unit that allows you to contract with LINAGORA for all our services, whether consulting, expertise and OSSA, our software insurance model or training.",
-				"category_list": ["Communication"],
-				"similar_solution_list": [],
-				"licence_list": [],
-				"source_code_download": "https://github.com/linagora",
-				"source_code_profile": "",
-				"commercial_support_url": "",
-				"floss_software": true,
-				"commercial_support_open_source_version": false,
-				"commercial_support_available": false,
-				"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-				"reference_list": []
-				}, {
-					"title": "LCS: LINAGORA Consulting Services",
-					"logo_url": "https://linid.org/wp-content/uploads/2020/10/cropped-logo-linid-2.png",
-					"website_url": "https://www.linagora.com/en/professional-services/linagora-consulting-services/",
-					"created_year": "",
-					"description": "To accompany you at each step of your actions of adoption and sharing of Open Source technologies, for the construction of a strategy of controlled use.", 					
-					"category_list": ["Operation management"],
-					"similar_solution_list": [],
-					"licence_list": [],
-					"source_code_download": "https://github.com/linagora",
-					"source_code_profile": "",
-					"commercial_support_url": "",
-					"floss_software": false,
-					"commercial_support_open_source_version": false,
-					"commercial_support_available": false,
-					"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
-					"reference_list": [],
-					"success_case_list": []
-				}]
-			}
+		"title": "Twake",
+		"logo_url": "https://twake.app/images/logo-twake.svg",
+		"website_url": "https://twake.app/",
+		"created_year": "",
+		"description": "The Open Digital Workplace - Secure open source collaboration platform to improve organizational efficiency ",		
+		"category_list": ["Workspace"],
+		"similar_solution_list": [{
+			"title": "Trello",
+			"similar_solution_url": "https://trello.com/en",
+			"category": "Workspace"
+		}, {
+			"title": "Microsoft 365",
+			"similar_solution_url": "https://www.office.com/",
+			"category": "Workspace"
+		}, {
+			"title": "Google Workspace",
+			"similar_solution_url": "https://workspace.google.com/",
+			"category": "Workspace"
+		}],
+		"licence_list": ["AGPL v2.0"],
+		"source_code_download": "https://github.com/linagora/Twake",
+		"source_code_profile": "https://www.openhub.net/p/Twake/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.linagora.com/en/professional-services/expertise-and-support/",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
+		"reference_list": [{
+			"title": "MTS",
+			"logo_url": "https://images.weserv.nl/?url=https://twake.app/images/MTS_Logo_eng_r.png&output=webp",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "European Parliament",
+			"logo_url": "https://images.weserv.nl/?url=https://twake.app/images/logo-parlement3.svg&output=webp",
+			"country": "BE",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "EDF",
+			"logo_url": "https://images.weserv.nl/?url=https://twake.app/images/logo-edf.svg&output=webp",
+			"country": "FR",
+			"industry": "Energy and Utilities"
+		}],
+		"success_case_list": []
+	}, {
+		"title": "LinShare",
+		"logo_url": "https://www.linshare.org/wp-content/uploads/2020/08/cropped-linshare-logo.png",
+		"website_url": "https://www.linshare.org/",
+		"created_year": "",
+		"description": "LinShare is an Open Source secure file sharing application intended to cover your business security and file transfer needs. If  confidentiality and traceability are paramount for your business file transfer, the LinShare is your solution and better yet it’s free ! We also offer high quality support services provided by our IT teams to suit your network at best.",
+		"category_list": ["Application"],
+		"similar_solution_list": [{
+			"title": "Nextcloud",
+			"similar_solution_url": "https://nextcloud.com/",
+			"category": "Application"
+		},{
+			"title": "Dropbox",
+			"similar_solution_url": "https://www.dropbox.com/",
+			"category": "Application"
+		},{
+			"title": "Tresorit",
+			"similar_solution_url": "https://tresorit.com/",
+			"category": "Application"
+		}],
+		"licence_list": ["AGPL v3.0"],
+		"source_code_download": "https://github.com/linagora/linshare",
+		"source_code_profile": "https://www.openhub.net/p/Linshare/analyses/latest/languages_summary",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
+		"reference_list": [{
+			"title": "CNI",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/cni.png",
+			"country": "TN",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Ministère des finances et des comptes publics",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/finances.jpg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Groupe Casino",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/casino.jpg",
+			"country": "FR",
+			"industry": "Commerce and Retail"
+		},{
+			"title": "Cours des Comptes",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/Cour_des_comptes.jpg",
+			"country": "FR",
+			"industry": "Associations and NGOs"
+		},{
+			"title": "Brake",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/brake.gif",
+			"country": "FR",
+			"industry": "Manufacturing"
+		},{
+			"title": "Ministère de l'Intérieur",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/logo_ministere_interieur.jpg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		},{
+			"title": "Ville de Marseille",
+			"logo_url": "https://www.linshare.org/wp-content/uploads/2020/07/marseille.png",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}],
+		"success_case_list": []
+	}, {
+		"title": "Linto",
+		"logo_url": "https://www.linagora.com/assets/images/linto/top-image.png",
+		"website_url": "https://linto.ai/",
+		"created_year": "",
+		"description": "Your open source end-to-end platform for voice-operated solutions",				
+		"category_list": ["Application"],
+		"similar_solution_list": [{
+			"title": "Open assistant",
+			"similar_solution_url": "https://openassistant.org/wp/",
+			"category": "Application"
+		}],
+		"licence_list": [],
+		"source_code_download": "https://github.com/linto-ai",
+		"source_code_profile": "https://www.openhub.net/p/linto/analyses/latest/languages_summary",
+		"commercial_support_url": "https://linto.ai/enterprises",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Linagora",
+		"reference_list": [],
+		"success_case_list": []
+	}]
+}
