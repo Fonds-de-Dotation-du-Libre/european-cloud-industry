@@ -1,0 +1,47 @@
+{
+	"created": "2022-08-19",
+	"title": "Photopea",
+	"type": "Other",
+	"logo_url": "",
+	"location": {
+		"title": "Photopea Developer (Ivan Kutskir)",
+		"address": "",
+		"postal_code": "",
+		"city": "",
+		"country": "CZ",
+		"phone_contact": "",
+		"mail_contact": "support@photopea.com",
+		"coordinate_list": [50.0595849, 14.3251984]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.photopea.com/",
+	"founded_year": "2013",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Photopea",
+		"logo_url": "https://images.assets-landingi.com/4purx2ZndyLWUPgi/logo_horizontal.png",
+		"website_url": "https://www.photopea.com/",
+		"created_year": 2013,
+		"description": "Photopea is a web-based photo and graphics editor. It is used for image editing, making illustrations, web design or converting between different image formats. Photopea is advertising-supported software. It is compatible with all modern web browsers, including Opera, Edge, Chrome, and Firefox.[2] The app is compatible with raster and vector graphics, such as Photoshop’s PSD as well as JPEG, PNG, DNG, GIF, SVG, PDF and other image file formats. While browser-based, Photopea stores all files locally, and does not upload any data to a server.",
+		"category_list": ["Application"],
+		"similar_solution_list": [{
+		      "title": "Adobe Photoshop",
+		      "similar_solution_url": "https://www.adobe.com/products/photoshop.html",
+		      "category": "Application"
+    },{
+		      "title": "GIMP",
+		      "similar_solution_url": "https://www.gimp.org/",
+		      "category": "Application"
+    }],
+		"licence_list": ["MPL v2.0"],
+		"source_code_download": "https://github.com/photopea/photopea",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.photopea.com/api/accounts",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Photopea",
+		"reference_list": [],
+		"success_case_list": []
+	}]
+	}
