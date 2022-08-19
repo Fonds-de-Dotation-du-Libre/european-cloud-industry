@@ -12,251 +12,263 @@
 		"phone_contact": "+43 1 817 82 92-0",
 		"mail_contact": "office@linbit.com",
 		"coordinate_list": [48.187729841731816, 16.33373116924222]
-		},
-	"subsidiary_location_list": [],
+	},
+	"subsidiary_location_list": ["US"],
 	"website_url": "https://linbit.com/",
 	"founded_year": 2001,
 	"kpi_list": [],
 	"solution_list": [{
-		"title": "LINSTOR",
-		"logo_url": "https://linbit.com/wp-content/uploads/2019/08/LINSTOR_Logo_v4.png",
+		"title": "Linstor",
+		"logo_url": "https://linbit.com/wp-content/uploads/2022/03/Asset-1-1024x160.png",
 		"website_url": "https://linbit.com/linstor/",
 		"created_year": "",
 		"description": "LINSTOR is open-source software designed to manage block storage devices for large Linux server clusters. Its enterprise subscription LINBIT SDS, which includes DRBD, LINSTOR & Expert Support, is used for providing persistent Linux block storage for Kubernetes, OpenStack, OpenNebula, and OpenShift environments.",
-		"category_list": ["Developer environment"],
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
-			"title": "SANsymphony",
-			"similar_solution_url": "https://www.datacore.com/products/sansymphony/",
-			"category": "Developer environment"
-			},{
-      			"title": "Storage for Solution Providers",
-			"similar_solution_url": "https://storpool.com/storage-for-solution-providers/",
-			"category": "Developer environment"
-    			}],
+			"title": "Dell EMC",
+			"similar_solution_url": "https://www.dell.com/fr-fr/dt/storage/powermax.htm",
+			"category": "Storage and database"
+		}, {
+			"title": "Netapp",
+			"similar_solution_url": "https://www.netapp.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Red Hat Ceph",
+			"similar_solution_url": "https://www.redhat.com/en/technologies/storage/ceph",
+			"category": "Storage and database"
+		}],
 		"licence_list": ["GPL v3.0"],
-		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/#linstor",
+		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://linbit.com/contact-us/",
 		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available":false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available":true,
 		"wikipedia_url": "",
 		"reference_list": [{
 			"title": "Microsoft Azure",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Microsoft.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Amazon web services",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__amazon.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Google Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Google.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Proxmox",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-3-2048x331.png",
 			"country": "AT",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Cloudstack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-2.jpg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Open Nebula",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenNebula.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Open Stack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenStack.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Openshift",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/03/OpenShift-LogoType.svg.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Logzilla",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Logzilla-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Randtronics",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-randtronics-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Netiant",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo_netiant_blue_hauteur-300-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Transitiv Technologies",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Transitiv-150x150.png",
 			"country": "UK",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Trilio",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/09/logo-Ttrilio-150x150-1-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "OSEC",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-osec-150x150.png",
 			"country": "PL",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Scalix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-scalix-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Procolix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/logo-1-300x55.png",
 			"country": "NL",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Hashi Corp",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/08/hashiCorpNomad-1024x343.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Dao Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2022/03/daocloud.png",
 			"country": "CN",
 			"industry": "Information Technology"
-			}],
+		}],
 		"success_case_list": []			
-  		},{
+	},{
 		"title": "DRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
 		"website_url": "https://linbit.com/drbd/",
-		"created_year": "",
-		"description": "software is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts.",
+		"created_year": "2007",
+		"description": "The DRBD software is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts. DRBD is traditionally used in high availability (HA) computer clusters, but beginning with DRBD version 9, it can also be used to create larger software defined storage pools with a focus on cloud integration.",
 		"category_list": ["Storage and database"],
-		"similar_solution_list": [],
-		"licence_list": [],
+		"similar_solution_list": [{
+			"title": "Netapp",
+			"similar_solution_url": "https://www.netapp.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Red Hat Ceph",
+			"similar_solution_url": "https://www.redhat.com/en/technologies/storage/ceph",
+			"category": "Storage and database"
+		}],
+		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
+		"commercial_support_url": "https://linbit.com/contact-us/",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Distributed_Replicated_Block_Device",
 		"reference_list": [{
 			"title": "Microsoft Azure",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Microsoft.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Amazon web services",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__amazon.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Google Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__Google.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Proxmox",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-3-2048x331.png",
 			"country": "AT",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Cloudstack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/07/download-2.jpg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Open Nebula",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenNebula.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Open Stack",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/Logo__OpenStack.svg",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Openshift",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/03/OpenShift-LogoType.svg.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Logzilla",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Logzilla-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Randtronics",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-randtronics-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Netiant",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo_netiant_blue_hauteur-300-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Transitiv Technologies",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-Transitiv-150x150.png",
 			"country": "UK",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Trilio",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/09/logo-Ttrilio-150x150-1-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "OSEC",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-osec-150x150.png",
 			"country": "PL",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Scalix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2020/01/logo-scalix-150x150.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Procolix",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/02/logo-1-300x55.png",
 			"country": "NL",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Hashi Corp",
 			"logo_url": "https://linbit.com/wp-content/uploads/2021/08/hashiCorpNomad-1024x343.png",
 			"country": "US",
 			"industry": "Information Technology"
-			},{
+		},{
 			"title": "Dao Cloud",
 			"logo_url": "https://linbit.com/wp-content/uploads/2022/03/daocloud.png",
 			"country": "CN",
 			"industry": "Information Technology"
-			}],
+		}],
 		"success_case_list": [{
 			"title": "case study Edding ARG",
       			"description": "LINBIT HA allowed edding Argentina to integrate its different platforms that cover all the technological needs and distributed solutions based on SUSE Linux, Windows servers and SAP ERP. Since the implementation of LINBIT in 2015, edding Argentina has increased the availability of its services by 100%. LINBIT HA also enables the business to recover quickly and survive virtually any interruption with minimal downtime and little or no data loss.",
       			"industry": "Manufacturing",
 			"customer": "Edding",
       			"country": "AR",
-      			"language": "es",
+      			"language": "en",
       			"success_case_url": "https://linbit.com/wp-content/uploads/2021/05/edding_ARG.pdf"
-    			},{
+		},{
 			"title": "case study Häfele",
       			"description": "In the case of Häfele, and like many other businesses, high Availability is a crucial requirement. After a long deliberation from their side, the company’s management team was unanimous that DRBD is the solution for their particular problem. By using DRBD, Häfele takes full advantage of its Linux environment and the high number of Linux containers (LXC). DRBD allows them to manage their SSD collection with the fastest possible speeds. ",
       			"industry": "Manufacturing",
 			"customer": "Häfele",
       			"country": "DE",
-      			"language": "de",
+      			"language": "en",
       			"success_case_url": "https://linbit.com/wp-content/uploads/2020/08/SSI_Schaefer_Case_Study.pdf"
-    			},{
+		},{
 			"title": "case study Clear Voice",
       			"description": "Clear Voice chose the DRBD® solution to provide High Availability for Asterisk PBX, MySQL, and LAMP-based Web services. With two commodity 1U servers containing 12 GB of RAM, four 250 GB SATA disks in RAID5, and CentOS Linux, DRBD® provided reliable and consistent data replication for these critical applications. ",
       			"industry": "Telecommunication",
@@ -264,15 +276,15 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_clearvoice-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study BayNet",
       			"description": "BayNet focuses on implementing Open Source technologies for its clients, due to the superior quality support provided by Open Source vendors vs proprietary solutions. Because High Availability is a critical component in any infrastructure, Baynet researched several viable Open Source Linux HA solutions that they could offer to their clients. As a result of their research, BayNet chose LINBIT because of both product relevancy and shared philosophy of providing the highest quality support to clients. BayNet’s clients span across many markets. They require HA for systems such as mail servers, databases, hypervisors, and storage. The flexibility and robustness of the LINBIT HA software has allowed BayNet to solve a variety of customer requirements for storage replication, failover, and cluster administration.",
       			"industry": "Information Technology",
 			"customer": "BayNet",
       			"country": "AR",
-      			"language": "es",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_baynet-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Performance Matters",
       			"description": "Performance Matters had been searching for a software solution that would provide little to no database downtime. Performance Matters needed a solution that would be able to keep data up to date for each transaction to ensure data integrity. For one particular application, High Availability (HA) was critical to allow teachers to administer online tests. Performance Matters then learned that the Enterprise edition of DRBD® came packaged with support. LINBIT offered repositories that contain the most updated version, and direct access to the DRBD® engineering team. Working closely with employees at Performance Matters, LINBIT’s technical support helped rewrite the Corosync/Pacemaker configuration and was able to implement DRBD®, for real-time replication, into their clusters",
       			"industry": "Education",
@@ -280,15 +292,15 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_performancematters-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Knapp",
       			"description": "One of Knapp’s most recent customers to rely on DRBD® is located in Germany. KNAPP managed to achieve a significant increase in efficiency for the family-run enterprise Cigaretten Ostermeier KG, which is based in Ottobrunn near Munich. ",
       			"industry": "Information Technology",
 			"customer": "Knapp",
       			"country": "AT",
-      			"language": "de",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_knapp-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study TruckPro",
       			"description": "TruckPro’s POS platform was facing performance and technical challenges that distracted their sales associates and took attention away from focusing on customers. To remedy their situation, TruckPro required a modern, stable POS platform for their daily transactions that they could count on to stay up and running. To foster a seamless sales process, TruckPro sought out a High Availability solution that ensured access to their customer data at all times.",
       			"industry": "Information Technology",
@@ -296,7 +308,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_truckpro-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Adamson Systems",
       			"description": "Adamson is currently keeping their mission critical applications, such as their ERP and VoIP systems, up and running by using the LINBIT DRBD software backed High Availability (HA) cluster. LINBIT has provided Adamson with a competitive advantage by eliminating downtime of services and increasing system performance. By leveraging commodity “Off the Shelf” hardware, the LINBIT DRBD software provides an affordable HA cluster solution. With the support of LINBIT engineers, HA management is easy and painless, allowing Adamson to keep their IT team efficient.",
       			"industry": "Information Technology",
@@ -304,7 +316,7 @@
       			"country": "CA",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_adamson-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study AccuWeather",
 			"description": "With DRBD®, all WeatherData needed was two commercial off-the-shelf servers with lots of disk space, which was much more cost-effective. Since DRBD® can be installed in-place, on existing servers with internal SAN or direct-attached storage, implementing High Availability NFS services on existing servers is a snap. With no downtime, WeatherData implemented remote replication to ease the burden of swapping data center sites. Realizing the value of what it had built, WeatherData now runs High Availability NFS services to protect against hardware failure for further operations at its new site.",
       			"industry": "Media and Entertainment",
@@ -312,7 +324,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_weatherdata-nocrop-1_5.pdf"
-    			},{
+		},{
 			"title": "case study Midland County Central Dispatch Authority",
       			"description": "Midland County 911 has a back up PSAP and wanted the ability to access the same information and equipment as the primary PSAP. Specifically, they wanted access to their Computer Aided Dispatch (CAD) system in order to provide the same level of service to the community and employees. They evaluated various options for running the Windows based CAD virtual machines, including replicated SAN arrays attached to VMware with VMotion. To deliver the stability and performance required at a viable price, Midland County 911 chose Xen virtualization using openSUSE Linux with storage replicated by DRBD.",
       			"industry": "Public Administration and Government",
@@ -320,7 +332,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_midland911-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study The National Library of Medicine",
       			"description": "The National Library of Medicine (NLM) faced a number of challenging obstacles while rebuilding their IT infrastructure. Their project had very ambitious goals, providing a biomedical image search engine to the general public with: High Performance clustered storage, fully redundant fault tolerant architecture with no single point of failure, and a means of scaling an effective search engine application. NLM chose  DRBD® and DRBD® Proxy because they offered the flexibility, performance, uptime, and reliability the it was looking for, all while meeting their budgetary requirements. LINBIT’s reputation as a leader in High Availability made it a clear and simple decision on integrating DRBD® into NLM’s technology portfolio.",
       			"industry": "Education",
@@ -328,7 +340,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_nih-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Portland State University",
       			"description": "Content management system (CMS) based in Drupal, PSU began evaluating the feasibility of placing 150+ departmental Web sites on a single server. Clearly, a High Availability cluster was required that would be capable of taking over in the event of hardware failure.  PSU  runs two DRBD® replicated devices to host the large Drupal multisite install. One DRBD® volume is active/active, running GFS, for the file storage. The other is a standard MySQL active/standby setup with Heartbeat. With a load balancer brokering traffic to each server, this also provides additional scalability on the Web processing front.",
       			"industry": "Education",
@@ -336,7 +348,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_psu-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Athabasca University",
       			"description": "Athabasca Universitiy’s servers run exclusively on Red Hat Enterprise Linux, Citrix Xen and MySQL. To achieve High Availability on virtually every server at its data center, it relies on DRBD®",
       			"industry": "Education",
@@ -344,15 +356,15 @@
       			"country": "CA",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_athabasca-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Salinen Austria",
       			"description": "Salinen Austria AG has servers installed at two different sites, located approximately 12 miles apart from each other. The storage capacity of the company’s IT infrastructure was originally designed for 2 TB pf net data, which given the annual increase in data volume of 30 percent, was only going to be suffi cient until 2009. After that, their servers were going to need to be upgraded again. Thanks to LINBIT’s solution, upgrades can be done any time, with any hard-ware, and even more importantly, without interruption of service. This also holds true for any maintenance work that may need to be completed. LINBIT’s iSCSI storage area network allows maintenance and upgrade activities during operation.",
       			"industry": "Energy and Utilities",
 			"customer": "Salinen Austria",
       			"country": "AT",
-      			"language": "de",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_salinen-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Barkman Honey",
       			"description": "The challenge for Barkman Honey was to find software that could provide constant access to host their growing infrastructure. This included at least 25 virtual machines, a mail server messaging application, a firewall, and their internal SQL cluster. After an exhaustive search, J.R. Lillard chose DRBD® and DRBD Proxy®. As a system administrator, he knows that he needs block level replication in order to replicate all of Barkman Honey‘s applications in real-time. Using DRBD® and DRBD Proxy®, Barkman has exceeded their High Availability and Disaster Recovery goals. ",
       			"industry": "Manufacturing",
@@ -360,7 +372,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_barkman-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study CISCO Systems",
       			"description": "As an OEM customer for LINBIT, Cisco’s Digital Media Systems products use LINBIT DRBD® and Pacemaker to enable HA inside of their appliance and ensure uptime. With Pacemaker, DRBD® allows services to recover from hardware and software failures automatically, often within seconds. The finalized solution enables Cisco’s customers to attain the infamous five nines (99.999%) of availability required to run business and mission critical functions",
       			"industry": "Information Technology",
@@ -368,38 +380,38 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_cisco-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Porsche Informatik",
       			"description": "Josef Hagler, managing director at Porsche Informatik GmbH, depends on DRBD® to ensure High Availability for a company that is developing at full speed.  Replacing the previous version, Hagler and his team implemented the new CROSSS 2 software during full operation. The software was all but developed from the ground up; 500,000 code lines were modified and nearly all components were changed. In addition, the base technology was set up from scratch. The database was changed from Informix to Oracle, the operating system was switched from AIX 4 to Linux, and a 64-bit Intel server was installed, replacing their IBM RS6000 server.",
       			"industry": "Information Technology",
 			"customer": "Porsche Informatik",
       			"country": "DE",
-      			"language": "de",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_porsche-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Max Planck Institute",
       			"description": "The Institute installed 2 Clusters in separate buildings on the Max Planck Campus in Stuttgart. All central infrastructure services running on these clusters are implemented as Xenbased virtual Linux or Windows machines. The software components of the SUSE Linux Enterprise Distribution (SLES) that are in use are as follows: Pacemaker, Corosync, Clustered Logical Volume Manager (CLVM), LINBITs DRDB®. The basis for the data replication is a Dual Primary DRBD® resource in which logical volumes are defined for the Xenbased Vms.",
       			"industry": "Academia and Research",
 			"customer": "Max Planck Institute",
       			"country": "DE",
-      			"language": "de",
+      			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_maxplanck-nocrop-1_5.pdf"
-			}]		
-		},{
+		}]		
+	},{
     		"title": "DRBD Proxy",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/09/DRBDProxy-1024x119.png",
 		"website_url": "https://linbit.com/drbd-proxy/",
 		"created_year": "",
-		"description": "DRBD®️ Proxy provides two significant advantages: data compression and cache operations. The biggest problems for disaster recovery solutions are when the connection between the two locations is cut off or when the connection quality is low.",
-		"category_list": ["Operation management"],
+		"description": "DRBD Proxy provides two significant advantages: data compression and cache operations. The biggest problems for disaster recovery solutions are when the connection between the two locations is cut off or when the connection quality is low.",
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
+		"commercial_support_url": "https://linbit.com/contact-us/",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": [{
@@ -410,7 +422,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_securepaymentsystems-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study The National Library of Medicine",
       			"description": "The National Library of Medicine (NLM) faced a number of challenging obstacles while rebuilding their IT infrastructure. Their project had very ambitious goals, providing a biomedical image search engine to the general public with: High Performance clustered storage, fully redundant fault tolerant architecture with no single point of failure, and a means of scaling an effective search engine application. NLM chose  DRBD® and DRBD® Proxy because they offered the flexibility, performance, uptime, and reliability the it was looking for, all while meeting their budgetary requirements. LINBIT’s reputation as a leader in High Availability made it a clear and simple decision on integrating DRBD® into NLM’s technology portfolio.",
       			"industry": "Education",
@@ -418,7 +430,7 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_nih-nocrop-1_5.pdf"
-			},{
+		},{
 			"title": "case study Barkman Honey",
       			"description": "The challenge for Barkman Honey was to find software that could provide constant access to host their growing infrastructure. This included at least 25 virtual machines, a mail server messaging application, a firewall, and their internal SQL cluster. After an exhaustive search, J.R. Lillard chose DRBD® and DRBD Proxy®. As a system administrator, he knows that he needs block level replication in order to replicate all of Barkman Honey‘s applications in real-time. Using DRBD® and DRBD Proxy®, Barkman has exceeded their High Availability and Disaster Recovery goals. ",
       			"industry": "Manufacturing",
@@ -426,24 +438,24 @@
       			"country": "US",
       			"language": "en",
       			"success_case_url": "http://www.linbit.com/wp-content/uploads/2020/03/linbit-case-studies_barkman-nocrop-1_5.pdf"
-			}]	
-  		},{
+		}]	
+	},{
     		"title": "winDRBD",
 		"logo_url": "https://linbit.com/wp-content/uploads/2020/02/88014081_136452147644381_1989788301615169536_n-1024x257.png",
 		"website_url": "https://linbit.com/windrbd-replicated-disk-drives-for-windows/",
 		"created_year": "",
-		"description": "WinDRBD® is the port of Linbit’s DRBD kernel driver and userspace utilities to the Microsoft Windows family of operating systems (Windows Server, Windows 10). It is based on the original source code of DRBD, which makes it widely compatible with the Linux version of DRBD. Most features that come with Linux DRBD are also available on the WinDRBD port. In addition, WinDRBD can be used for booting a Windows client from a network resource",
-		"category_list": ["Developer environment"],
+		"description": "WinDRBD® is the port of Linbit’s DRBD kernel driver and userspace utilities to the Microsoft Windows family of operating systems (Windows Server, Windows 10). It is based on the original source code of DRBD, which makes it widely compatible with the Linux version of DRBD. Most features that come with Linux DRBD are also available on the WinDRBD port. In addition, WinDRBD can be used for booting a Windows client from a network resource.",
+		"category_list": ["Storage and database"],
 		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "https://linbit.com/linbit-software-download-page-for-linstor-and-drbd-linux-driver/",
 		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
+		"commercial_support_url": "https://linbit.com/contact-us/",
+		"floss_software": true,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
-  }]
+  	}]
 }
