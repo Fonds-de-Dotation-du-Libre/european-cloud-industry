@@ -4,7 +4,7 @@
   "type": "Company",
   "logo_url": "",
   "location": {
-    "title": "Maarch",
+    "title": "Maarch SAS",
     "address": "11 Boulevard du Sud-Est",
     "postal_code": "92000",
     "city": "Nanterre",
@@ -14,77 +14,67 @@
     "coordinate_list": ["48.88951359814834, 2.1999754051299094"]
   },
   "subsidiary_location_list": [],
-  "website_url": "https://labs.maarch.org/maarch",
+  "website_url": "https://maarch.com/",
   "founded_year": "",
   "kpi_list": [
     "year": 2019,
     "staff": 26,
-    "earnings": "1819900 EUR",
-    "total_assets": "1923100 EUR",
-    "revenues": "",
-    "source_url": "https://www.societe.com/bilan/maarch-452392731201912311.html"
+    "earnings": "-43 831 EUR",
+    "total_assets": "1 923 129 EUR",
+    "revenues": "1 819 861 EUR",
+    "source_url": "https://www.verif.com/bilans-gratuits/MAARCH-452392731/"
   },{
     "year": 2018,
     "staff": 17,
-    "earnings": "1802000 EUR",
-    "total_assets": "1793200 EUR",
-    "revenues": "",
-    "source_url": "https://www.societe.com/bilan/maarch-452392731201912311.html"
+    "earnings": "258 163 EUR",
+    "total_assets": "1 793 220 EUR",
+    "revenues": "1 801 967 EUR",
+    "source_url": "https://www.verif.com/bilans-gratuits/MAARCH-452392731/"
   },{
     "year": 2017,
     "staff": 13,
-    "earnings": "1727500 EUR",
-    "total_assets": "15136600 EUR",
-    "revenues": "",
-    "source_url": "https://www.societe.com/bilan/maarch-452392731201712311.html"
+    "earnings": "300 943 EUR",
+    "total_assets": "1 513 628 EUR",
+    "revenues": "1 727 457 EUR",
+    "source_url": "https://www.verif.com/bilans-gratuits/MAARCH-452392731/"
   },{
     "year": 2016,
     "staff": 12,
-    "earnings": "1332800 EUR",
-    "total_assets": "1234100 EUR",
-    "revenues": "",
-    "source_url": "https://www.societe.com/bilan/maarch-452392731201712311.html"
+    "earnings": "188 004 EUR",
+    "total_assets": "1 234 080 EUR",
+    "revenues": "1 332 844 EUR",
+    "source_url": "https://www.verif.com/bilans-gratuits/MAARCH-452392731/"
   }],
   "solution_list": [{
     "title": "Maarch Courrier",
-    "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/12/picto_courrier_margin22pt.png?width=64",
-    "website_url": "https://labs.maarch.org/maarch/MaarchCourrier.git",
+    "logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/Courrier.jpg?fit=100%2C100&ssl=1",
+    "website_url": "https://maarch.com/maarch-courrier/",
     "created_year": "",
     "description": "Maarch Courrier is an Electronic Correspondence Manager (postal mail, email, etc.) and Electronic Document Management",
-    "category_list": [],
+    "category_list": ["Networking"],
     "similar_software_list": [{
-      "title": "",
-      "similar_software_url": "",
-      "category": ""
-    }],
+			"title": "Postfix",
+			"similar_solution_url": "https://www.postfix.org/",
+			"category": "Networking"
+		},{
+			"title": "Zimbra",
+			"similar_solution_url": "https://www.zimbra.com/",
+			"category": "Networking"
+		}],
     "licence_list": ["GPL v3.0"],
-    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
-    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
-    "commercial_support_url": "",
+    "source_code_download": "https://labs.maarch.org/maarch/MaarchCourrier",
+    "source_code_profile": "https://www.openhub.net/p/MaarchCourrier/analyses/latest/languages_summary",
+    "commercial_support_url": "https://maarch.com/nos-services/",
     "floss_software": true,
     "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
+    "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    "reference_list": [],
+    "success_case_list": []
   },{
     "title": "Maarch RM",
-    "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/3/Picto_Maarch_RM.png?width=64",
-    "website_url": "https://labs.maarch.org/maarch/maarchRM.git",
+    "logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/RM.jpg?fit=100%2C100&ssl=1",
+    "website_url": "https://maarch.com/maarch-rm/",
     "created_year": "",
     "description": "This application allows to store, find and display digital resources in compliance with international regulation ISO 14641-1.",
     "category_list": [],
@@ -118,16 +108,24 @@
       "success_case_url": ""
     }]
   },{
-    "title": "Maarch Capture",
-    "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/13/picto-maarch-capture.png?width=64",
-    "website_url": "https://labs.maarch.org/maarch/MaarchCapture.git",
+    "title": "Maarch Parapheur",
+    "logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/paraph.jpg?fit=100%2C100&ssl=1",
+    "website_url": "https://maarch.com/maarch-parapheur/",
     "created_year": "",
-    "description": "Maarch Capture is the main tool to feed Maarch Courrier",
-    "category_list": [],
+    "description": "A stand-alone, multi-mode and interoperable electronic signature process management system",
+    "category_list": ["Cybersecurity"],
     "similar_software_list": [{
-      "title": "",
-      "similar_software_url": "",
-      "category": ""
+      "title": "Go Docusign",
+      "similar_software_url": "https://go.docusign.fr/",
+      "category": "Cybersecurity"
+    }, {
+      "title": "Hellosign",
+      "similar_software_url": "https://www.hellosign.com/",
+      "category": "Cybersecurity"
+    }, {
+      "title": "Oneflow",
+      "similar_software_url": "https://oneflow.com/",
+      "category": "Cybersecurity"
     }],
     "licence_list": ["GPL v3.0"],
     "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
