@@ -92,6 +92,7 @@ List of validated sources for financial data:
 * https://www.kvk.nl/english/ordering-products-from-the-business-register/kvk-annual-financial-statements/ (NL-official);
 * https://www.brreg.no/ (NO-official);
 * https://www.firmenbuchgrundbuch.at/abfrageservices/firmenbuch (AT-official €);
+* https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html (PL-official);
 * https://foretagsinfo.bolagsverket.se/ (SE-official).
 
 Possible solution_category 
