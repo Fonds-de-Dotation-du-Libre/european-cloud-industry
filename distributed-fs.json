@@ -1,4 +1,4 @@
-{
+u{
   "created": "2022-04-07",
   "title": "LizardFS",
   "type": "Organisation",
@@ -21,7 +21,7 @@
     "title": "LizardFS",
     "logo_url": "https://lizardfs.com/wp-content/themes/understrap-master/img/logo-white.svg",
     "website_url": "https://lizardfs.com/about",
-    "created_year": "",
+    "created_year": "2013",
     "description": "LizardFS – Software Defined Storage is a distributed, scalable, fault-tolerant, and highly available file system. It allows combining disk space located on several servers into a single namespace visible on Unix-like and Windows systems in the same way as other file systems.",
     "category_list": ["Storage and database"],
     "similar_solutioj_list": [{
@@ -53,7 +53,7 @@
       "industry": "Banking and Finance",
       "customer": "Tinkoff",
       "country": "RU",
-      "language": "ru",
+      "language": "en",
       "success_case_url": "https://lizardfs.com/wp-content/uploads/Cases/Tinkoff_case_study.pdf"
     }]
   }]
