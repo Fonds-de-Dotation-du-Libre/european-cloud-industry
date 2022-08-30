@@ -16,7 +16,7 @@
   "subsidiary_location_list": [],
   "website_url": "https://maarch.com/",
   "founded_year": "",
-  "kpi_list": [
+  "kpi_list": [{
     "year": 2019,
     "staff": 26,
     "earnings": "-43 831 EUR",
@@ -46,146 +46,141 @@
     "source_url": "https://www.verif.com/bilans-gratuits/MAARCH-452392731/"
   }],
   "solution_list": [{
-    "title": "Maarch Courrier",
-    "logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/Courrier.jpg?fit=100%2C100&ssl=1",
-    "website_url": "https://maarch.com/maarch-courrier/",
-    "created_year": "",
-    "description": "Maarch Courrier is an Electronic Correspondence Manager (postal mail, email, etc.) and Electronic Document Management",
-    "category_list": ["Networking"],
-    "similar_software_list": [{
-			"title": "Postfix",
-			"similar_solution_url": "https://www.postfix.org/",
-			"category": "Networking"
-		},{
-			"title": "Zimbra",
-			"similar_solution_url": "https://www.zimbra.com/",
-			"category": "Networking"
-		}],
-    "licence_list": ["GPL v3.0"],
-    "source_code_download": "https://labs.maarch.org/maarch/MaarchCourrier",
-    "source_code_profile": "https://www.openhub.net/p/MaarchCourrier/analyses/latest/languages_summary",
-    "commercial_support_url": "https://maarch.com/nos-services/",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
+  	"title": "Maarch Courrier",
+    	"logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/Courrier.jpg?fit=100%2C100&ssl=1",
+    	"website_url": "https://maarch.com/maarch-courrier/",
+    	"created_year": "",
+    	"description": "Maarch Courrier is an Electronic Correspondence Manager (postal mail, email, etc.) and Electronic Document Management",
+    	"category_list": ["Networking"],
+    	"similar_software_list": [{
+		"title": "Postfix",
+		"similar_solution_url": "https://www.postfix.org/",
+		"category": "Networking"
+	},{
+		"title": "Zimbra",
+		"similar_solution_url": "https://www.zimbra.com/",
+		"category": "Networking"
+	}],
+    	"licence_list": ["GPL v3.0"],
+    	"source_code_download": "https://labs.maarch.org/maarch/MaarchCourrier",
+    	"source_code_profile": "https://www.openhub.net/p/MaarchCourrier/analyses/latest/languages_summary",
+    	"commercial_support_url": "https://maarch.com/nos-services/",
+    	"floss_software": true,
+    	"commercial_support_open_source_version": true,
+    	"commercial_support_available": true,
+    	"wikipedia_url": "",
+    	"reference_list": [],
+    	"success_case_list": [{
+		"title": "Thionville et Maarch travaillent ensemble pour le label Marianne.",
+	      	"description": "Thionville et Maarch travaillent ensemble pour le label Marianne. Thionville est une ville du Grand Est de la France. Avec...",
+	      	"image_url": "",
+	      	"industry": "Public Administration and Government",
+	      	"customer": "Thionville",
+	      	"country": "FR",
+	      	"language": "FR",
+      		"success_case_url": "https://maarch.com/thionville-et-maarch-travaillent-ensemble-pour-le-label-marianne/"
+    	},{
+		"title": "Maarch Courrier à l’INPI : généralisation du déploiement et gestion des recommandés",
+	      	"description": "L’Institut National de la Propriété Industrielle (INPI), participe activement à l’élaboration et la mise en œuvre des politiques publiques dans le domaine de la propriété intellectuelle, de soutien à l’innovation et à la compétitivité des entreprises et dans la lutte anti-contrefaçon.",
+	      	"image_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2022/01/logo-inpi.png?w=224&ssl=1",
+	      	"industry": "Associations and NGOs",
+	      	"customer": "INPI",
+	      	"country": "FR",
+	      	"language": "fr",
+      		"success_case_url": "https://maarch.com/maarch-courrier-outil-strategique-de-la-transition-numerique-a-linstitut-national-de-la-propriete-industrielle/"
+    	},{
+		"title": "De la validation à la diffusion de documents, Maarch Courrier, outil de la transition numérique à l’Agence Française de Développement",
+	      	"description": "L’Agence française de développement (AFD), est une institution financière publique qui met en œuvre la politique de développement de la France, agit pour combattre la pauvreté et favoriser le développement durable.",
+	      	"image_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2022/01/AFD_logo300x133.png?w=300&ssl=1",
+	      	"industry": "Associations and NGOs",
+	      	"customer": "AFD (Agence française de développement)",
+	      	"country": "FR",
+	      	"language": "fr",
+      		"success_case_url": "https://maarch.com/maarch-courrier-et-la-transition-numerique-a-lagence-francaise-de-developpement/"
+    	}, {
+      		"title": "Le SDIS 50 utilise Maarch Courrier face au COVID-19",
+      		"description": "Le SDIS 50 est un établissement public administratif. Ce statut lui confère une autonomie de gestion budgétaire qui lui permet d’agir juridiquement en tant que personne morale.",
+      		"image_url": "",
+      		"industry": "Public Administration and Government",
+      		"customer": "SDIS 50",
+      		"country": "FR",
+      		"language": "fr",
+      		"success_case_url": "https://maarch.com/le-sdis-50-utilise-maarch-courrier-face-au-covid-19/"
+    	}, {
+      		"title": "La CAPI 38 et Maarch en collaboration pour la dématérialisation du courrier",
+      		"description": "La communauté d’agglomération Porte de l’Isère, située en région Auvergne-Rhône-Alpes et dans le département de l’Isère, bénéficie d’un emplacement géographique privilégié.",
+      		"image_url": "",
+      		"industry": "",
+      		"customer": "CAPI 38",
+      		"country": "FR",
+      		"language": "fr",
+      		"success_case_url": "https://maarch.com/la-capi-38-et-maarch-en-collaboration-pour-la-dematerialisation-du-courrier/"
+    	}]
   },{
-    "title": "Maarch RM",
-    "logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/RM.jpg?fit=100%2C100&ssl=1",
-    "website_url": "https://maarch.com/maarch-rm/",
-    "created_year": "",
-    "description": "This application allows to store, find and display digital resources in compliance with international regulation ISO 14641-1.",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": ["GPL v3.0"],
-    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
-    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
-    "commercial_support_url": "",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
+    	"title": "Maarch RM",
+    	"logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/RM.jpg?fit=100%2C100&ssl=1",
+    	"website_url": "https://maarch.com/maarch-rm/",
+    	"created_year": "",
+    	"description": "This application allows to store, find and display digital resources in compliance with international regulation ISO 14641-1.",
+    	"category_list": [],
+    	"similar_software_list": [],
+    	"licence_list": ["GPL v3.0"],
+    	"source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
+    	"source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
+    	"commercial_support_url": "",
+    	"floss_software": true,
+    	"commercial_support_open_source_version": true,
+    	"commercial_support_available": false,
+    	"wikipedia_url": "",
+    	"reference_list": [],
+    	"success_case_list": [{
+		"title": "Coffreo déploie Maarch RM Digital Safe, le Composant Coffre-Fort Numérique certifié NF",
+	      	"description": "Coffreo est une entreprise dont l’activité principale consiste à numériser l’ensemble des documents échangés entre les intérimaires, les agences d’intérim et les entreprises utilisatrices (bulletins de paie, contrats de travail et autres documents).",
+	      	"image_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2022/01/Coffreo-300x101-1.png?w=300&ssl=1",
+	      	"industry": "Information Technology",
+	      	"customer": "Coffreo",
+	      	"country": "FR",
+	      	"language": "fr",
+      		"success_case_url": "https://maarch.com/coffreo-deploie-maarch-rm-digital-safe-le-composant-coffre-fort-numerique-certifie-nf-2/"
+    	}, {
+      		"title": "Jacquet Metal Services choisit Maarch RM pour son ouverture",
+      		"description": "Jacquet Metal Services est une société lyonnaise (Saint-Priest) aux filiales implantées dans de nombreux pays (Italie, Allemagne, Pays-Bas, Autriche, Portugal et Pologne), se positionnant comme l’un des premiers distributeurs européens d’aciers spéciaux, avec un CA annuel de 1,8M€.",
+      		"image_url": "",
+      		"industry": "Manufacturing",
+      		"customer": "Jacquet Metal",
+      		"country": "FR",
+      		"language": "fr",
+      		"success_case_url": "https://maarch.com/jacquet-metal-services-choisit-maarch-rm-pour-son-ouverture/"
+    	}]
   },{
-    "title": "Maarch Parapheur",
-    "logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/paraph.jpg?fit=100%2C100&ssl=1",
-    "website_url": "https://maarch.com/maarch-parapheur/",
-    "created_year": "",
-    "description": "A stand-alone, multi-mode and interoperable electronic signature process management system",
-    "category_list": ["Cybersecurity"],
-    "similar_software_list": [{
-      "title": "Go Docusign",
-      "similar_software_url": "https://go.docusign.fr/",
-      "category": "Cybersecurity"
-    }, {
-      "title": "Hellosign",
-      "similar_software_url": "https://www.hellosign.com/",
-      "category": "Cybersecurity"
-    }, {
-      "title": "Oneflow",
-      "similar_software_url": "https://oneflow.com/",
-      "category": "Cybersecurity"
-    }],
-    "licence_list": ["GPL v3.0"],
-    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
-    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
-    "commercial_support_url": "",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
-  },{
-    "title": "Maarch Parapheur",
-    "logo_url": "https://labs.maarch.org/uploads/-/system/project/avatar/98/picto_parapheur-164x280pt-.png?width=64",
-    "website_url": "https://labs.maarch.org/maarch/MaarchParapheur.git",
-    "created_year": "",
-    "description": "External Signature Pad",
-    "category_list": [],
-    "similar_software_list": [{
-      "title": "",
-      "similar_software_url": "",
-      "category": ""
-    }],
-    "licence_list": ["GPL v3.0"],
-    "source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
-    "source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
-    "commercial_support_url": "",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "",
-      "logo_url": "",
-      "country": "",
-      "industry": ""
-    }],
-    "success_case_list": [{
-      "title": "",
-      "description": "",
-      "image_url": "",
-      "industry": "",
-      "customer": "",
-      "country": "",
-      "language": "",
-      "success_case_url": ""
-    }]
-  }]
+  	"title": "Maarch Parapheur",
+    	"logo_url": "https://i0.wp.com/maarch.com/wp-content/uploads/2021/12/paraph.jpg?fit=100%2C100&ssl=1",
+	"website_url": "https://maarch.com/maarch-parapheur/",
+	"created_year": "",
+    	"description": "A stand-alone, multi-mode and interoperable electronic signature process management system",
+    	"category_list": ["Cybersecurity"],
+    	"similar_software_list": [{
+    		"title": "Go Docusign",
+      		"similar_software_url": "https://go.docusign.fr/",
+	      	"category": "Cybersecurity"
+	}, {
+      		"title": "Hellosign",
+	      	"similar_software_url": "https://www.hellosign.com/",
+	      	"category": "Cybersecurity"
+    	}, {
+      		"title": "Oneflow",
+      		"similar_software_url": "https://oneflow.com/",
+      		"category": "Cybersecurity"
+    	}],
+    	"licence_list": ["GPL v3.0"],
+    	"source_code_download": "https://labs.maarch.org/maarch/maarchRM.git",
+    	"source_code_profile": "https://www.openhub.net/p/maarch_entreprise/analyses/latest/languages_summary",
+    	"commercial_support_url": "",
+    	"floss_software": true,
+    	"commercial_support_open_source_version": true,
+    	"commercial_support_available": false,
+    	"wikipedia_url": "",
+    	"reference_list": [],
+	"success_case_list": []
+}]
 }
