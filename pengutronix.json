@@ -10,11 +10,11 @@
     "city": "Hildesheim",
     "country": "DE",
     "phone_contact": "+49 51 21 20 69 17 0",
-    "mail_contact": "ptxdist@pengutronix.de",
+    "mail_contact": "info@pengutronix.de",
     "coordinate_list": [52.161413728808895, 9.947292523359001]
   },
   "subsidiary_location_list": [],
-  "website_url": "https://www.pengutronix.de/en/",
+  "website_url": "https://www.pengutronix.de/",
   "founded_year": 2001,
   "kpi_list": [],
   "solution_list": [{
@@ -23,15 +23,53 @@
     "website_url": "https://www.ptxdist.org/index.html",
     "created_year": 2001,
     "description": "PTXdist is a build system for firmware images. It is developed by an Open Source Community including Pengutronix since 2001. The configuration system Kconfig, known from the Linux kernel, is used to select and configure each package. The collection of recipes is based on GNU Make and Bash.",
-    "category_list": ["Developer API"],
+    "category_list": ["Compute virtualisation"],
     "similar_solution_list": [],
     "licence_list": ["GPL-2.0"],
     "source_code_download": "https://git.pengutronix.de/git/ptxdist",
     "source_code_profile": "https://www.openhub.net/p/ptxdist/analyses/latest/languages_summary",
-    "commercial_support_url": "",
+    "commercial_support_url": "https://pengutronix.de/de/services/embedded-linux-consulting.html",
     "floss_software": true,
     "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
+    "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }, {
+    "title": "RAUC",
+    "logo_url": "https://www.ptxdist.org/images/PTXdist_Logo_RGB.svg",
+    "website_url": "https://www.ptxdist.org/index.html",
+    "created_year": 2001,
+    "description": "RAUC is a lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision. RAUC is also the tool on your host system that lets you create, inspect and modify update artifacts for your device.",
+    "category_list": ["Software Lifecycle Automation"],
+    "similar_solution_list": [{
+			"title": "Torizon",
+			"similar_solution_url": "https://www.toradex.com/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Rauc",
+			"similar_solution_url": "https://rauc.io/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Hologram",
+			"similar_solution_url": "https://www.hologram.io/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "SlapOS",
+			"similar_solution_url": "https://slapos.nexedi.com/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Google Cloud IOT core",
+			"similar_solution_url": "https://cloud.google.com/iot-core",
+			"category": "Service lifecycle automation"
+		}],
+    "licence_list": ["LGPL-2.1"],
+    "source_code_download": "https://rauc.io/pages/download.html",
+    "source_code_profile": "https://www.openhub.net/p/Rauc/analyses/latest/languages_summary",
+    "commercial_support_url": "https://rauc.io/pages/support.html",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [],
     "success_case_list": []
