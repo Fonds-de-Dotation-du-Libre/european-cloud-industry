@@ -14,57 +14,15 @@
 		"coordinate_list": [60.18405117669344, 24.814571784972014]
 	},
 	"subsidiary_location_list": ["CH", "NL"],
-	"website_url": "https://mariadb.com/",
+	"website_url": "https://mariadb.org/",
 	"founded_year": 2009,
-	"kpi_list": [{
-		"year": 2021,
-		"staff": 319,
-		"earnings": "",
-		"total_assets": "99 161 EUR",
-		"revenues": "36 700 000 EUR",
-		"source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
-	}, {
-		"year": 2020,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": 2019,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {
-		"year": 2018,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}, {}, {
-		"year": 2017,
-		"staff": 319,
-		"earnings": "12 060 000 EUR",
-		"total_assets": "161 947 EUR",
-		"revenues": "",
-		"source_url": "https://www.largestcompanies.com/company/MariaDB-Corporation-Ab-1324424/closing-figures-and-key-ratios?currency=DKK"
-	}, {
-		"year": 2016,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "",
-		"source_url": ""
-	}],
+	"kpi_list": [],
 	"solution_list": [{
-		"title": "MariaDB Community Server",
+		"title": "MariaDB Server",
 		"logo_url": "https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_blue-transparent.png",
-		"website_url": "https://mariadb.com/kb/en/applications-supporting-mariadb/",
+		"website_url": "https://mariadb.com/",
 		"created_year": 2009,
-		"description": "MariaDB Community Server is the open source relational database loved by developers all over the world. Created by MySQL’s original developers, MariaDB is compatible with MySQL and guaranteed to stay open source forever. MariaDB powers some of the world’s most popular websites such as Wikipedia and WordPress.com. It is also the core engine behind banking, social media, mobile and e-commerce sites worldwide.",		
+		"description": "MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. MariaDB is intended to maintain high compatibility with MySQL, with library binary parity and exact matching with MySQL APIs and commands, allowing it in many cases to function as drop-in replacement for MySQL.",		
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
 			"title": "PostgreSQL",
@@ -72,17 +30,21 @@
 			"category": "Storage and database"
 		}, {
 			"title": "MySQL",
-			"similar_solution_url": "https://www.mysql.com/fr/",
+			"similar_solution_url": "https://www.mysql.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Oracle",
+			"similar_solution_url": "https://www.oracle.com/database/",
 			"category": "Storage and database"
 		}],
 		"licence_list": ["GPL v2.0"],
-		"source_code_download": "https://github.com/MariaDB/server",
+		"source_code_download": "https://mariadb.com/downloads/community/community-server/",
 		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
+		"commercial_support_url": "https://mariadb.com/services/technical-support-services/",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#MariaDB_Server",
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB",
 		"reference_list": [],
 		"success_case_list": [{
 			"title": "Southeast Asia's Largest Bank Migrates to Open Source Database MariaDB",
@@ -92,7 +54,7 @@
 			"customer": "DBS Bank",
 			"country": "SG",
 			"language": "zh",
-			"success_case_url": "https://mariadb.com/wp-content/uploads/2019/11/dbs-mariadb_customer-story_1047.pdf"
+			"success_case_url": "https://mariadb.com/resources/customer-stories/dbs/"
 		}, {
 			"title": "Walgreens turns to MariaDB as part of open source push",
 			"description": "US pharmacy giant Walgreens is looking to move all of its relational database needs to open source MariaDB as part of a broader shift towards the cloud and open source technologies.",
@@ -102,42 +64,25 @@
 			"country": "US",
 			"language": "en",
 			"success_case_url": "https://www.computerworld.com/article/3428017/walgreens-turns-to-mariadb-as-part-of-open-source-push.html"
-		}]
-	}, {
-		"title": "MARIADB ENTERPRISE SERVER",
-		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
-		"website_url": "https://mariadb.com/products/enterprise/components/",
-		"created_year": "",
-		"description": "MariaDB Enterprise Server is an enhanced, hardened and secured version of MariaDB Community Server created to provide customers with enterprise reliability, stability and long-term support as well as greater operational efficiency when it comes to managing large database deployments for business- and mission-critical applications.",	
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "MongoDB",
-			"similar_solution_url": "https://duckduckgo.com/?q=MongoDB&atb=v322-3__&ia=web",
-			"category": "Storage and database"
 		}, {
-			"title": "Microsoft SQL Server",
-			"similar_solution_url": "https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads",
-			"category": "Storage and database"
-		}],
-		"licence_list": [],
-		"source_code_download": "https://github.com/MariaDB",
-		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Products_of_MariaDB_Corporation_Ab",
-		"reference_list": [],
-		"success_case_list": [{
 			"title": "How Copart Switched to MariaDB and Reduced Costs During Growth",
 			"description": "Due to exponential growth in its international business unit, Copart would have faced significantly higher database costs if continuing use of IBM DB2. Dheeraj Golla and Pravin Malali, both Senior Database Administrators at Copart, explain why they chose to standardize on MariaDB, how they convinced operational and development teams to adopt it, the challenges faced and how Copart is now evaluating MariaDB’s platform as a replacement for their analytics database too.",
-			"image_url": "",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/dbs-gray-300x180.png.webp",
 			"industry": "Automotive",
 			"customer": "Copart",
 			"country": "GB",
 			"language": "en",
 			"success_case_url": "https://mariadb.com/resources/customer-stories/copart-reduced-costs-switching-to-mariadb/"
 		}, {
+			"title": "Greetz’s successful migration from Oracle RAC to MariaDB Galera Cluster",
+			"description": "Greetz was concerned by the shortage of internal Oracle DBA resources and the increasing complexity of managing their Oracle database as their business grew. They approached us to provide them with a replacement database technology for their online store that would significantly reduce the total cost of ownership (TCO) whilst ensuring high availability and a solid, predictable performance.",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/greetz-gray-300x180.png.webp",
+			"industry": "Commerce and Retail",
+			"customer": "Greetz",
+			"country": "NL",
+			"language": "en",
+			"success_case_url": "https://mariadb.com/resources/customer-stories/greetz/"
+		},{
 			"title": "Red Hat Builds Enterprise Applications with MariaDB ",
 			"description": "Red Hat one of the most successful and respected open source corporations in the world, offers enterprise IT solutions through its comprehensive portfolio of products and services. ",
 			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/redhat-gray2-300x180.png.webp",
@@ -149,15 +94,33 @@
 		}, {
 			"title": "Global Health Initiative Relies on MariaDB to Manage and Analyze Multi-Billion-Row Tables",
 			"description": "IHME needed a platform that could leverage multi-host sharding with multi-threaded software. Its database team is small, and while building a sharding infrastructure is reasonably straightforward, IHME knew it wouldn’t be realistic to ask the development staff to make the applications shard-aware. For IHME, the decision to select MariaDB for analytics – with its powerful open source storage engine – was an easy one.",
-			"image_url": "",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/ihme-gray-300x180.png.webp",
 			"industry": "Health and Life Sciences",
 			"customer": "Global Health Initiative",
 			"country": "US",
 			"language": "en",
 			"success_case_url": "https://mariadb.com/resources/customer-stories/ihme/"
+		},{
+			"title": "Why Drumee Cloud in France chooses MariaDB over PostgreSQL",
+			"description": "Drumee has been getting a lot of attention in France as a new cloud platform. We recently interviewed their President and Founder, Somanos Sar, to learn more about the company and why they choose MariaDB Enterprise Server as the database to power their cloud.",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/06/drumee-customer-logo.png.webp",
+			"industry": "Telecommunication",
+			"customer": "Drumree",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://mariadb.com/resources/blog/why-drumee-cloud-in-france-choose-mariadb-over-postgresql/"
+		}, {
+			"title": "Ingenico Financial Solutions provides high availability e-Money solutions with MariaDB",
+			"description": "Ingenico Financial Solutions provides e-Money solutions and services for companies throughout the EU. Ingenico was looking for personal services, flexible contract negotiations and satisfactory high availability solutions – Ingenico decided to turn to MariaDB for help.",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/ingenico-gray-300x180.png.webp",
+			"industry": "Banking and Finance",
+			"customer": "Ingenico Financial Solutions",
+			"country": "BE",
+			"language": "en",
+			"success_case_url": "https://mariadb.com/resources/customer-stories/ingenico/"
 		}]
 	}, {
-		"title": "MariaDB Enterprise ColumnStore",
+		"title": "MariaDB ColumnStore",
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/docs/features/mariadb-enterprise-columnstore/",
 		"created_year": "",
@@ -165,13 +128,13 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [],
 		"licence_list": ["GPL"],
-		"source_code_download": "https://github.com/mariadb-corporation/mariadb-enterprise-columnstore-docker",
+		"source_code_download": "https://mariadb.com/downloads/community/columnstore/",
 		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
 		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Products_of_MariaDB_Corporation_Ab",
+		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": [{
 			"title": "Global Health Initiative Relies on MariaDB to Manage and Analyze Multi-Billion-Row Tables",
@@ -184,7 +147,7 @@
 			"success_case_url": "https://mariadb.com/resources/customer-stories/ihme/"
 		}]
 	}, {
-		"title": "MARIADB XPAND",
+		"title": "MariaDB Xpand",
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/products/enterprise/xpand/",
 		"created_year": "",
@@ -192,13 +155,13 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [],
 		"licence_list": [],
-		"source_code_download": "https://github.com/mariadb-corporation/mariadb-enterprise-columnstore-docker",
-		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
-		"floss_software": false,
+		"source_code_download": "https://mariadb.com/downloads/community/xpand/",
+		"source_code_profile": "",
+		"commercial_support_url": "https://mariadb.com/services/technical-support-services/",
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Products_of_MariaDB_Corporation_Ab",
+		"commercial_support_available": true,
+		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": [{
 			"title": "Samsung",
@@ -207,29 +170,11 @@
 			"industry": "Telecommunication",
 			"customer": "Samsung",
 			"country": "KR",
-			"language": "ko",
+			"language": "en",
 			"success_case_url": "https://mariadb.com/wp-content/uploads/2021/11/samsung-cloud-authenticates-10-billion-requests-daily-with-mariadb-xpand_customer-story_1127.pdf"
 		}]
 	}, {
-		"title": "MARIADB MAXSCALE",
-		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-mark.png",
-		"website_url": "https://mariadb.com/docs/whats-new/whats-new-in-maxscale-6/",
-		"created_year": "",
-		"description": "MariaDB MaxScale is an advanced database proxy for MariaDB Enterprise Server, providing it with enterprise high availability, scalability, security and integration services while at the same time abstracting away the underlying database infrastructure to simplify application development and database administration.",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "https://github.com/mariadb-corporation/mariadb-enterprise-columnstore-docker",
-		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#Products_of_MariaDB_Corporation_Ab",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "SkySQL",
+		"title": "MariaDB SkySQL",
 		"logo_url": "https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png",
 		"website_url": "https://mariadb.com/products/skysql/",
 		"created_year": "",
@@ -237,18 +182,18 @@
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [],
 		"licence_list": [],
-		"source_code_download": "https://github.com/MariaDB",
-		"source_code_profile": "https://www.openhub.net/p/mariadb/analyses/latest/languages_summary",
-		"commercial_support_url": "https://id.mariadb.com/?next=/openid/authorize%3Fresponse_type%3Dcode%26client_id%3D480075%26redirect_uri%3Dhttps%3A//cloud.mariadb.com/navpage.do%26scope%3Dprofile%2520mariadb%2520openid%2520email%26state%3Dhttps%253A%252F%252Fcloud.mariadb.com%252Fcsm%253Fid%253Dcsm_index",
-		"floss_software": false,
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://mariadb.com/services/technical-support-services/",
+		"floss_software": true,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
+		"commercial_support_available": true,
 		"wikipedia_url": "https://en.wikipedia.org/wiki/MariaDB#SkySQL",
 		"reference_list": [],
 		"success_case_list": [{
 			"title": "Financial Network, Inc. Moves to the Cloud with MariaDB SkySQL, Leaves Oracle Behind",
 			"description": "FNI made the move to MariaDB to escape the barriers to innovation they encountered with Oracle. With MariaDB, FNI was able to expand its product offering to bring additional value to its customers. MariaDB not only supported FNI’s requirements for security, scalability and high availability, its Oracle compatibility features aided in its migration. Now completely free from Oracle, FNI is expanding its MariaDB footprint with SkySQL to reduce data center costs and to realize the benefits of cloud database services from the source, the same experts building the database.",
-			"image_url": "",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/01/fni-gray-300x180.png.webp",
 			"industry": "Banking and Finance",
 			"customer": "Finance Network Inc.",
 			"country": "US",
@@ -257,7 +202,7 @@
 		}, {
 			"title": "Campus Cloud Fast-Tracks Universities to the Digital Era Relying on Cloud Database MariaDB SkySQL",
 			"description": "MariaDB® Corporation today announced that cloud-based Student Information System provider Campus Cloud Services has migrated to MariaDB SkySQL as its cloud database running on Google Cloud Platform (GCP) and SkyDBA for fractional DBAs with A+ proactive care. With dynamic scalability and a zero-tolerance policy for any downtime, SkySQL powers Campus Cloud, a cloud solution that manages all student data in one place – across admissions, academics, financial aid, accounts and billing, graduation and career placement – for over a hundred thousand students each day and growing.",
-			"image_url": "",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/campus-cloud-customer-logo2-300x180.png.webp",
 			"industry": "Information Technology",
 			"customer": "Campus Cloud Services",
 			"country": "US",
@@ -266,7 +211,7 @@
 		}, {
 			"title": "FanGraphs Baseball Hits a Home Run with MariaDB SkySQL and SkyDBA",
 			"description": "MariaDB® Corporation today announced that popular baseball analysis site FanGraphs has drafted MariaDB SkySQL as its cloud database running on Google Cloud Platform (GCP) and SkyDBA for first-string, 24x7x365 teammate firepower.",
-			"image_url": "",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/03/fangraphs-customer-logo.png.webp",
 			"industry": "Health and Life Sciences",
 			"customer": "FanGraphs",
 			"country": "US",
@@ -275,7 +220,7 @@
 		}, {
 			"title": "MissionTracker Selects MariaDB SkySQL to Deliver Better Quality of Care in Homeless Shelters",
 			"description": "MariaDB® Corporation today announced that MissionTracker, developer of cloud-based software for homeless shelters and missions, has chosen MariaDB SkySQL as its cloud database running on Google Cloud Platform (GCP). ",
-			"image_url": "",
+			"image_url": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/08/missiontracker-logo-customer-story.png.webp",
 			"industry": "Associations and NGOs",
 			"customer": "MissionTracker",
 			"country": "US",
