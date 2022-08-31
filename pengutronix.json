@@ -37,9 +37,9 @@
     "success_case_list": []
   }, {
     "title": "RAUC",
-    "logo_url": "https://www.ptxdist.org/images/PTXdist_Logo_RGB.svg",
-    "website_url": "https://www.ptxdist.org/index.html",
-    "created_year": 2001,
+    "logo_url": "https://rauc.io/images/RAUC_Logo_50.png",
+    "website_url": "https://rauc.io/",
+    "created_year": "",
     "description": "RAUC is a lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision. RAUC is also the tool on your host system that lets you create, inspect and modify update artifacts for your device.",
     "category_list": ["Software Lifecycle Automation"],
     "similar_solution_list": [{
