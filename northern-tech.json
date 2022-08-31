@@ -178,37 +178,340 @@
 				"language": "en",
 				"success_case_url": "https://cfengine.com/case-studies/percolate/"
 			}]
-		},
-		{
-			"title": "Mender",
-			"logo_url": "",
-			"website_url": "https://mender.io/",
-			"created_year": "",
-			"description": "Mender is a secure and robust end-to-end over-the-air (OTA) software update manager for IoT devices. Mender makes it easy to deploy updates to a large number of devices by providing efficiency and risk tolerant OTA deployments.",
-			"category_list": ["Service lifecycle automation"],
-			"similar_software_list": [{
-				"title": "SWUpdate",
-				"similar_solution_url": "https://kubernetes.io/",
-				"category": "Service lifecycle automation"
-			}, {
-				"title": "OSTree",
-				"similar_solution_url": "https://www.opensvc.com/",
-				"category": "Service lifecycle automation"
-			}, {
-				"title": "swupd",
-				"similar_solution_url": "https://www.openstack.org/",
-				"category": "Service lifecycle automation"
-			}],
-			"licence_list": ["APL v2.0"],
-			"source_code_download": "https://github.com/mendersoftware/mender",
-			"source_code_profile": "https://www.openhub.net/p/mender/analyses/latest/languages_summary",
-			"commercial_support_url": "",
-			"floss_software": true,
-			"commercial_support_open_source_version": false,
-			"commercial_support_available": true,
-			"wikipedia_url": "",
-			"reference_list": [],
-			"success_case_list": []
-		}
-	]
+		},{
+		"title": "Mender",
+		"logo_url": "https://mender.io/user/themes/mender/images/optimized/logo400px.png",
+		"website_url": "https://mender.io/plans/features",
+		"created_year": 2016,
+		"description": "Mender is a secure and robust end-to-end over-the-air (OTA) software update manager for IoT devices. Mender makes it easy to deploy updates to a large number of devices by providing efficiency and risk tolerant OTA deployments.",
+		"category_list": ["Service lifecycle automation"],
+		"similar_solution_list": [{
+			"title": "Torizon",
+			"similar_solution_url": "https://www.toradex.com/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Particle",
+			"similar_solution_url": "https://www.particle.io/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Hologram",
+			"similar_solution_url": "https://www.hologram.io/",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Thingswork",
+			"similar_solution_url": "https://www.ptc.com/en/products/thingworx",
+			"category": "Service lifecycle automation"
+		},{
+			"title": "Google Cloud IOT core",
+			"similar_solution_url": "https://cloud.google.com/iot-core",
+			"category": "Service lifecycle automation"
+		}],
+		"licence_list": ["APL v2.0"],
+		"source_code_download": "https://github.com/mendersoftware/mender",
+		"source_code_profile": "https://www.openhub.net/p/mender/analyses/latest/languages_summary",
+		"commercial_support_url": "https://mender.io/contact-us",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [{
+		"title": "Airbus Commercial Aircraft",
+			"logo_url": "https://www.airbus.com/themes/custom/airbus_brand/logo.svg",
+			"country": "FR",
+			"industry": "Aviation and Aerospace"
+		},{
+			"title": "Alz.ai",
+			"logo_url": "https://alz-knox-prod-1.s3.amazonaws.com/img/logo_full.svg?AWSAccessKeyId=AKIAS6R4YICTPWVNYZG2&Signature=dq1KIhfTXlxravcY7i27rqktsdM%3D&Expires=1650358817",
+			"country": "FR",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "Ather energy",
+			"logo_url": "https://www.atherenergy.com/images/common/logo-circle.png",
+			"country": "IN",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Avast",
+			"logo_url": "https://static3.avast.com/10002295/web/i/v2/components/logos/avast-logos/avast-logo-default.svg",
+			"country": "CZ",
+			"industry": "Information Technology"
+		},{
+			"title": "Bench Sentry",
+			"logo_url": "https://cdn.shopify.com/s/files/1/0051/3949/7078/files/BenchSentryGenie_Logo_FLAT_Oct2021_Web_WhiteText_250x.png?v=1635540910",
+			"country": "US",
+			"industry": "Banking and Finance"
+		},{
+			"title": "Biamp",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/biamp-logo.png",
+			"country": "US",
+			"industry": "Telecommunication"
+		},{
+			"title": "Blokable",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/blokable.png",
+			"country": "US",
+			"industry": "Housing and Real Estate"
+		},{
+			"title": "Carnegie Technologies",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/carnegie.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Clinomic",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/clinomic.png",
+			"country": "DE",
+			"industry": "Health and Life Sciences"
+		},{
+			"title": "E.on",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/eon.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Flightcell",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/flightcell.png",
+			"country": "NZ",
+			"industry": "Aviation and Aerospace"
+		},{
+			"title": "GridX",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/gridx.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Gunnebo",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/gunnebo.png",
+			"country": "SE",
+			"industry": "Defense"
+		},{
+			"title": "i-bee",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/ibee.png",
+			"country": "US",
+			"industry": "Consulting and Training"
+		},{
+			"title": "Iotas",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/iotas.png",
+			"country": "US",
+			"industry": "Housing and Real Estate"
+		},{
+			"title": "Jolt",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/jolt-logo-new_blue-tranparent-1.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Kinestral",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/kinestral.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "KVH",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/kvh.png",
+			"country": "US",
+			"industry": "Telecommunication"
+		},{
+			"title": "Lafon Technologies",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/lafon.png",
+			"country": "US",
+			"industry": "Defense"
+		},{
+			"title": "Lyft",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/lyft.png",
+			"country": "US",
+			"industry": "Automotive"
+		},{
+			"title": "Macgregor",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/macgregor.png",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "Moia",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/MOIA.png",
+			"country": "DE",
+			"industry": "Automotive"
+		},{
+			"title": "Nike",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/nike.png",
+			"country": "US",
+			"industry": "Commerce and Retail"
+		},{
+			"title": "Northvolt",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/northvolt.png",
+			"country": "SE",
+			"industry": "Information Technology"
+		},{
+			"title": "Panasonic",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/panasonic.png",
+			"country": "JP",
+			"industry": "Manufacturing"
+		},{
+			"title": "Powervault",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/powervault.png",
+			"country": "US",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Proterra",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/Proterra.png",
+			"country": "US",
+			"industry": "Automotive"
+		},{
+			"title": "Schindler",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/schindler.png",
+			"country": "CH",
+			"industry": "Manufacturing"
+		},{
+			"title": "Siemens",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/siemens.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Smart Start",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/smartstart.png",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "Thales",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/thales.png",
+			"country": "FR",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Vaillant Group",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/vaillant.png",
+			"country": "DE",
+			"industry": "Energy and Utilities"
+		},{
+			"title": "Whirlpool",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/Whirlpool.png",
+			"country": "US",
+			"industry": "Manufacturing"
+		},{
+			"title": "Xaptum",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/xaptum.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "XY Sense",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/xysense.png",
+			"country": "US",
+			"industry": "Information Technology"
+		},{
+			"title": "Zeiss",
+			"logo_url": "https://mender.io/user/themes/mender/images/customers/zeiss.png",
+			"country": "DE",
+			"industry": "Information Technology"
+		}],
+		"success_case_list": [{
+		      "title": "Siemens",
+		      "description": "The Engineering team at Siemens Mobile Communications uses Mender to update digital cab radios for Network Rail. Mender delivers robust updates over LTE-R to trains running at speeds in excess of 500km/h.",
+		      "image_url": "",
+		      "industry": "Transportation",
+		      "customer": "Siemens",
+		      "country": "DE",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_siemens_rail.pdf"
+		    },{
+		      "title": "Gunnebo",
+		      "description": "“I like Mender because we can customize the update process on both the device and server sides. It gives us control and flexibility to match our specific workflow needs.”",
+		      "image_url": "",
+		      "industry": "Telecommunication",
+		      "customer": "Gunnebo",
+		      "country": "SE",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_gunnebo.pdf"
+		    },{
+		      "title": "Macgregor",
+		      "description": "Mender focuses on OTA software updates and it is highly robust which is what MacGregor needs. It reliably pushes the updates to the customers premises. Furthermore, product security is enabled and amplified by an open source community that is growing and expanding, and as such improves the Mender Enterprise solution. The services from Mender are delivered in a proper and excellent manner and the functionality of Mender was clearly explained to the MacGregor project team at an early stage so they could better manage their milestones. The Mender services were delivered in a timely manner within the project deadlines and this has created high levels of customer satisfaction with the service.",
+		      "image_url": "",
+		      "industry": "Manufacturing",
+		      "customer": "Macgregor",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_macgregor.pdf"
+		    },{
+		      "title": "Northvolt",
+		      "description": "Mender’s way of doing OTA software updates by having a separate A and B partition means that Northvolt can do brick free upgrades of software to IoT devices both in the field with battery systems but also in the factories where the battery cells and battery systems are manufactured.",
+		      "image_url": "",
+		      "industry": "Manufacturing",
+		      "customer": "Northvolt",
+		      "country": "SE",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_northvolt.pdf"
+		    },{
+		      "title": "Vaillant Group",
+		      "description": "We selected Mender for the high technology, for being able to provide secure software updates to embedded devices. Also, its long history in community engagement through open source and the Mender Hub, and very good reputation in the world of embedded engineers",
+		      "image_url": "",
+		      "industry": "Energy and Utilities",
+		      "customer": "Vaillant Group",
+		      "country": "DE",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_vaillant.pdf"
+		    },{
+		      "title": "Airmoniq",
+		      "description": "Boats do not have constant GSM coverage, and Mender allows us to automatically update our core software when a boat reaches GSM coverage",
+		      "image_url": "",
+		      "industry": "Information Technology",
+		      "customer": "Airmoniq",
+		      "country": "HU",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_airmoniq.pdf"
+		    },{
+		      "title": "Ather",
+		      "description": "The Mender UI is very easy to use to do OTA updates. The learning is quite easy for less technical people who actually do these updates. We don’t have to explain the technical details of how Mender interface works.",
+		      "image_url": "",
+		      "industry": "Transportation",
+		      "customer": "Ather",
+		      "country": "IN",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_ather.pdf"
+		    },{
+		      "title": "beegy",
+		      "description": "With Mender, there is no effort involved with maintaining the infrastructure for the update functionality. The support from the Mender team is also very good.",
+		      "image_url": "",
+		      "industry": "Energy and Utilities",
+		      "customer": "beegy",
+		      "country": "DE",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_beegy.pdf"
+		    },{
+		      "title": "BenchSentry",
+		      "description": "Jen highlights the key benefits of Mender as reliability and responsiveness. Jen explains that the smart boxes are quite expensive to ship to and from a customer. “It costs $70 to transport one of these boxes in the US, so if there is failure, the customer will not ship the box back. BenchSentry will have to send them a new one and carry that cost.” Also, if the device fails, Jen adds there is no way for the BenchSentry team to troubleshoot, fix or redeploy the software updates. These factors make Mender’s high level of reliability with the A/B partition update roll backs all the more crucial",
+		      "image_url": "",
+		      "industry": "Manufacturing",
+		      "customer": "BenchSentry",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_benchsentry.pdf"
+		    },{
+		      "title": "Blokable",
+		      "description": "We did look at a couple of competitors and Mender in terms of features, robustness, security and cost together made it an easy solution for us to choose.",
+		      "image_url": "",
+		      "industry": "Housing and Real Estate",
+		      "customer": "Blokable",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_blokable.pdf"
+		    },{
+		      "title": "GridX",
+		      "description": "Atomic updates with built-in rollback is a key requirement. We need to make sure our devices continue to work with automated rollback if the update didn’t take for any reason. Mender provided that crucial capability.",
+		      "image_url": "",
+		      "industry": "Energy and Utilities",
+		      "customer": "GridX",
+		      "country": "DE",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_gridx.pdf"
+		    },{
+		      "title": "Iotas",
+		      "description": "We tried a number of OTA tools and Mender was by far the easiest to integrate into our board. The Mender community was also very active which eased our concerns around support for this new product we are deploying.",
+		      "image_url": "",
+		      "industry": "Housing and Real Estate",
+		      "customer": "Iotas",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_iotas.pdf"
+		    },{
+		      "title": "Kinestral",
+		      "description": "Deploying software updates can induce a good amount of unease. With Mender, we can now confidently deploy OTA as security and reliability are central and not an afterthought.",
+		      "image_url": "",
+		      "industry": "Information Technology",
+		      "customer": "Kinestral",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://mender.io/customers/mender_case_study_kinestral.pdf"
+		    }]
+	}]
 }
