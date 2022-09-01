@@ -14,15 +14,15 @@
 		"coordinate_list": [47.987475951852325, 7.858072555673697]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://delta.chat/en/",
-	"founded_year": 2017,
+	"website_url": "https://delta.chat/",
+	"founded_year": 2014,
 	"kpi_list": [],
 	"solution_list": [{
 		"title": "Delta Chat",
 		"logo_url": "https://delta.chat/assets/logos/delta-chat.svg",
-		"website_url": "https://delta.chat/en/download",
-		"created_year": 2017,
-		"description": "Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number.",
+		"website_url": "https://delta.chat/",
+		"created_year": 2019,
+		"description": "Delta Chat is a free instant messaging client for smartphones and PCs. It is available for the operating systems Android, iOS, Linux, Windows (also portable) and macOS. The protocol is based on IMAP and SMTP. By using the IMAP and SMTP e-mail protocols, Delta Chat is compatible with every conventional e-mail client. The system thus manages completely without its own servers. The user is no longer limited in the use of his messenger to users who use the same service, but could also use it to reach users who use other chat clients, since the underlying messaging protocol is the open e-mail standard. Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
 			"title": "Telegram",
