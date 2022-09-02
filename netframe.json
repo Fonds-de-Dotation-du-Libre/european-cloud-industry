@@ -55,6 +55,26 @@
 			"logo_url": "https://www.clichy-sous-bois.fr/wp-content/uploads/2019/05/logo-header.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
+		}, {
+			"title": "FAFCO",
+			"logo_url": "https://www.netframe.co/media/pages/home/brands/-1797150051-1630959439/fafco-138x.png",
+			"country": "FR",
+			"industry": "Manufacturing"
+		}, {
+			"title": "Pornic Agglo",
+			"logo_url": "https://www.netframe.co/media/pages/home/brands/-1241314826-1646930895/logo-choisi-horiz-138x.jpg",
+			"country": "FR",
+			"industry": "Public Administration and Government"
+		}, {
+			"title": "Restoria",
+			"logo_url": "https://www.netframe.co/media/pages/home/brands/-665642224-1630959439/logopetit-077983100-1010-06052015-138x.jpg",
+			"country": "FR",
+			"industry": "Manufacturing"
+		}, {
+			"title": "Le Santé au travail",
+			"logo_url": "https://www.netframe.co/media/pages/home/brands/-647578949-1630959439/sistbi-138x.png",
+			"country": "FR",
+			"industry": "Associations and NGOs"
 		}],
 		"success_case_list": []
 	}]
