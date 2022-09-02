@@ -5,7 +5,7 @@
 	"logo_url": "https://erp5.nexedi.net/web_site_module/erp5_community/NXD-Logo.Image?quality=75.0&display=large&format=png",
 	"location": {
 		"title": "Nexedi SA",
-		"address": "147 RUE DU BALLON",
+		"address": "147 Rue du Ballon",
 		"postal_code": "59110",
 		"city": "La Madeleine",
 		"country": "FR",
@@ -23,28 +23,28 @@
     		"total_assets": "6 733 231 EUR",
     		"revenues": "2 444 319 EUR",
     		"source_url": "https://www.verif.com/"
-  		}, {
+	}, {
     		"year": 2019,
    		"staff": 30,
    		"earnings": "136 970 EUR",
     		"total_assets": "5 238 187 EUR",
     		"revenues": "2 465 664 EUR",
     		"source_url": "https://www.verif.com/"
-  		},{
+	},{
    		"year": 2018,
     		"staff": 23,
     		"earnings": "304 409 EUR",
     		"total_assets": "5 489 528 EUR",
     		"revenues": "2 336 718 EUR",
     		"source_url": "https://www.verif.com/"
-  		},{
+	},{
     		"year": 2017,
     		"staff": 20,
     		"earnings": "341 478 EUR",
     		"total_assets": "5 098 147 EUR",
     		"revenues": "2 146 776 EUR",
    		"source_url": "https://www.verif.com/"
-  		},{
+	},{
     		"year": 2016,
     		"staff": 20,
     		"earnings": "572 158 EUR",
@@ -63,19 +63,15 @@
 			"title": "Odoo",
 			"similar_solution_url": "https://www.odoo.com/fr_FR",
 			"category": "Application"
-			}, {
-			"title": "Dolibarr",
-			"similar_solution_url": "https://www.dolibarr.org/",
-			"category": "Application"
-			},{
-      			"title": "Metasfresh",
-      			"similar_solution_url": "https://metasfresh.com/en/",
+		},{
+      			"title": "SAP",
+      			"similar_solution_url": "https://www.sap.com/",
       			"category": "Application"
-   			}],
+		}],
 		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/erp5.git",
 		"source_code_profile": "https://www.openhub.net/p/erp5/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.nexedi.com/service/nexedi-service-erp5/contact",
+		"commercial_support_url": "https://www.nexedi.com/contact",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
@@ -88,27 +84,27 @@
 			"industry": "Aviation and Aerospace",
 			"customer": "Airbus DS Geo Gmbh",
 			"country": "DE",
-			"language": "de",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Airbus.Success.Case"
-			}, {
+		}, {
 			"title": "Complete Coverage ERP Implementation for Japanese Pesticide Producer",
 			"description": "Sankei Chemical chose ERP5 because of its ability to implement the highly complex price models used in Japanese pesticide industry. Sankei runs an integrated ERP5 solution to manage pesticide production, purchase, sales, shipment and inventory. Thanks to ERP5s flexible design philosophy, the system could be fully customized to Sankeis business processes including interfaces for electronic trading data exchange with large industry organizations and key customers. The success case shows the importance of client-side project management for an ERP implementation project and why sometimes perseverance is required for a perfect requirement analysis.",
 			"image_url": "https://www.nexedi.com/web_page_module/3959",
 			"industry": "Manufacturing",
 			"customer": "Sankei Chemical",
 			"country": "JP",
-			"language": "ja",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Sankei.Success.Case"
-			}, {
+		}, {
 			"title": "Local HTML5 App and central ERP5 to manage supply-production-sales data for 14 companies",
 			"description": "GKR international group, the leader of China's rubber industry specialising in rubber planting, processing, sales and R&D, has implemented an exemplary purchase-production-sales data acquisition and management system for its 14 subsidiaries throughout Southeast Asia and China in only 3 months. It was accomplished by developing an easy-to-use HTML5 web application integrated to a central ERP5.",
 			"image_url": "https://www.nexedi.com/web_page_module/4534",
 			"industry": "Manufacturing",
 			"customer": "GKR international group",
 			"country": "CN",
-			"language": "zh",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
-			}, {
+		}, {
 			"title": "Zawee runs its local fashion shops and eCommerce web site with ERP5",
 			"description": "Zawee run its fashion retail business with two shops in Paris and its online shop weinparis.com with ERP5. Thanks to ERP5 Trade, ERP5 PDM and ERP5 POS, Zawee has complete control over its inventory of clothes, bags and accessories in all variations of colours and sizes. With EPR5 eCommerce Zawee can use the same product catalogue for online and offline sales. ERP5‘s social network integration allows Zawee to motivate its clients to promote Zawee products by rewarding facebook likes with loyalty points for shop discounts.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Zawee?display=thumbnail&format=png",
@@ -117,53 +113,53 @@
 			"country": "FR",
 			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Zawee.Success.Case"
-			}, {
+		}, {
 			"title": "Single integrated front and back office solution to power an eBusiness",
 			"description": "Sanef Tolling has chosen ERP5 to power its eBusiness related to management of Electronic Toll Collection for British citizens driving on French motorways. The Sanef Tolling website and the related eBusiness was able to be launched within one month from the beginning of the project because both the Frontoffice and Backoffice had been fully integrated thanks to ERP5.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Sanef?display=thumbnail&format=png",
 			"industry": "Transport",
 			"customer": "Sanef",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-SanefTolling.Success.Case"
-			}, {
+		}, {
 			"title": "Cloud-based financial management and consolidated OLAP reporting for an international NGO",
 			"description": "Aide et Action International is a non-governmental organisation focused on achieving access to quality education for all. Based in Genève (Switzerland), the organisation has more than 1000 employees and leads 120 projects all over the world. To improve the quality and transparency of the financial information and to increase the productivity of its financial teams, Aide et Action has deployed a cloud-based ERP5 configuration that covers general and analytical accounting as well as budget management for 30 distinct entities located in 22 countries.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Aide.Et.Action?display=thumbnail&format=png",
 			"industry": "Associations and NGOs",
 			"customer": "Aide et Action International",
 			"country": "CH",
-			"language": "zh",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-NGO.Success.Case"
-			}, {
+		}, {
 			"title": "Running a Massive Open Online Course with ERP5 for 1500 students for Technische Universität Dresden and Supinfo",
 			"description": "Technische Universität Dresden and Supinfo have chosen ERP5 to power the world-wide first Massive Open Online Course (MOOC) teaching Enterprise Resource Planning and the first MOOC which uses machine-learning-based mass individual assessment. ERP5 was used to implement a course management and correction system which allows online assessment and semi-automatic correction of praxis projects. The system allowed to teach and asses 1500 students distributed over 18 countries by a team of 28 tutors with differing experience levels working from nine different sites.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Tu.Dresden?display=thumbnail&format=png",
 			"industry": "Education",
 			"customer": "Technische Universität Dresden and Supinfo",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MOOC.Success.Case"
-			}, {
+		}, {
 			"title": "MMC Rus Success Case",
 			"description": "MMC Rus runs ERP5 to manage their internal contract and organisation approving procedures information system.",
 			"image_url": "https://www.nexedi.com/success/nexedi-success-case/NXD-Media.Logo.Client.Mmc?display=thumbnail&format=png",
 			"industry": "Manufacturing",
 			"customer": "Mitsubishi Motors",
 			"country": "RU",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-MMC.Rus.Success.Case"
-			}, {
+		}, {
 			"title": "Flexible Configurable Workflows and Advanced Security for Core Business Processes of a Central Bank",
 			"description": "A Central Bank runs its 64 regulatory workflows with ERP5: currency issuing, monetary circulation and banking transactions. Extensive scalability testing and rule based security management were key technical factors of success. Document orientation of the implementation process helper reducing project management bandwidth and budget. Use of Open Source from system to application through database enabled reactive support of a mission critical application.",
 			"image_url": "",
 			"industry": "Banking and Finance",
 			"customer": "central bank",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/erp5-Central.Bank.Success.Case"
-			}]
-		}, {
+		}]
+	}, {
 		"title": "SlapOS",
 		"logo_url": "https://www.nexedi.com/service/nexedi-service-slapos/graphic-SlapOS.vector.logo?display=thumbnail&format=png",
 		"website_url": "https://slapos.nexedi.com/",
@@ -202,7 +198,7 @@
 		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/slapos.core/tree/master",
 		"source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://www.nexedi.com/contact",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
@@ -218,7 +214,7 @@
 			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/slapos-IMT-Documents.Teralab.Success.Case"
 		}]
-		}, {
+	}, {
 		"title": "Wendelin Managed Big Data",
 		"logo_url": "https://www.wendelin.io/telecom-nexedi-logos?display=svg",
 		"website_url": "https://www.wendelin.io/#/?page=home&editable=true",
@@ -229,11 +225,15 @@
 			"title": "Hadoop",
 			"similar_solution_url": "https://hadoop.apache.org/",
 			"category": "Big Data Hub"
+  		 }, {
+			"title": "Palantir",
+			"similar_solution_url": "https://www.palantir.com/",
+			"category": "Big Data Hub"
   		 }],
 		"licence_list": ["GPL v3.0"],
 		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin.git",
 		"source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://www.nexedi.com/contact",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
@@ -246,7 +246,7 @@
 			"industry": "Academia and Research",
 			"customer": "Eureka programme",
 			"country": "FR",
-			"language": "fr",
+			"language": "en",
 			"success_case_url": "https://www.nexedi.com/success/P-WIND-WINDELIN.Success.Story"
 		}]
 	}]
