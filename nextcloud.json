@@ -186,15 +186,6 @@
 			"country": "FR",
 			"language": "en",
 			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-SIB-v2-EN.pdf"
-		},{
-			"title": "North-West University improves user storage mobility with Nextcloud and Collabora Online",
-			"description": "North-West University improves user storage mobility with Nextcloud and Collabora Online.",
-			"image_url": "https://www.nwu.ac.za/sites/www.nwu.ac.za/files/NWU-Logo-SW.png",
-			"industry": "Academia and Research",
-			"customer": "North-West University",
-			"country": "ZA",
-			"language": "en",
-			"success_case_url": "https://nextcloud.com/media/wp135098u/CaseStudy-NWU-WebVersion-13062018.pdf"
-		 }]
+		}]
 	}]
 }
