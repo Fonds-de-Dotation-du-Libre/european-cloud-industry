@@ -1,0 +1,91 @@
+{
+  "created": "2022-03-24",
+  "title": "Tarides",
+  "type": "Organisation",
+  "logo_url": "https://tarides.com/static/logo_tarides-52f91b59a8657d768e013129896b63e0.png",
+  "location": {
+	"title": "Tarides SAS",
+	"address": "21 rue Rollin",
+	"postal_code": "75005",
+	"city": "Paris",
+	"country": "FR",
+	"phone_contact": "",
+	"mail_contact": " contact@tarides.com",
+	"coordinate_list": ["48.84469821693384, 2.3501301715284546"]
+  },
+  "subsidiary_location_list": ["UK", "NO", "IN"],
+  "website_url": "https://tarides.com/",
+  "founded_year": 2018,
+  "kpi_list": [{
+    "year": 2020,
+    "staff": 20,
+    "earnings": "",
+    "total_assets": "2 867 435 EUR",
+    "revenues": "",
+    "source_url": "https://www.verif.com/bilans-gratuits/TARIDES-834644932/"
+  }],
+  "solution_list": [{
+	"title": "MirageOS",
+	"logo_url": "https://mirage.io/logo.svg",
+	"website_url": "https://mirage.io/",
+	"created_year": 2013,
+	"description": "MirageOS is an operating system that constructs unikernels for secure, high-performance applications across a variety of cloud computing and mobile platforms. Unikernels are fully standalone and specialised, and can run on the Xen and KVM hypervisors, on lightweight hypervisors like FreeBSD’s BHyve and OpenBSD’s VMM, as well as on bare metal. MirageOS was first released in 2013, and has made steady progress towards deploying self-managed internet infrastructure: it can securely deploy static website hosting, a secure SMTP stack, and decentralised communication infrastructure like Matrix, OpenVPN servers and TLS tunnels to ensure data privacy. A number of major commercial users rely on MirageOS libraries to secure their products, including Docker Desktop’s VPNKit, the Xen hypervisor from Citrix, and Nitrokey’s NetHSM.",
+	"category_list": ["Compute virtualisation"],
+	"similar_solution_list": [{
+		"title": "Rumprun",
+		"similar_solution_url": "https://github.com/rumpkernel/rumprun",
+		"category": "Compute virtualisation"
+	},{
+	    	"title": "OSv",
+	    	"similar_solution_url": "http://osv.io/",
+	    	"category": "Application"
+    	}],
+	"licence_list": ["ISC"],
+	"source_code_download": "https://github.com/mirage/mirage",
+	"source_code_profile": "https://www.openhub.net/p/mirageOS/analyses/latest/languages_summary",
+	"commercial_support_url": "https://tarides.com/services",
+	"floss_software": true,
+	"commercial_support_open_source_version": true,
+	"commercial_support_available": true,
+	"wikipedia_url": "https://fr.wikipedia.org/wiki/MirageOS",
+	"reference_list": [{
+      		"title": "Docker",
+	      	"logo_url": "https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png.webp",
+	      	"country": "US",
+	      	"industry": "Information Technology"
+    	},{
+	      	"title": "Xen",
+	      	"logo_url": "https://xenproject.org/wp-content/uploads/sites/79/2018/09/logo_xenproject.png",
+	      	"country": "FR",
+	      	"industry": "Information Technology"
+    	},{
+	      	"title": "Nitrokey",
+	      	"logo_url": "https://www.nitrokey.com/sites/all/themes/nitrokey/logo.png",
+	      	"country": "DE",
+	      	"industry": "Information Technology"
+    	}],
+	"success_case_list": []
+  }, {
+	"title": "Irmin",
+	"logo_url": "https://tarides.com/static/irmin-ff6d0fb6dbccdda359a0df6e92312251.png",
+	"website_url": "https://irmin.org/",
+	"created_year": 2018,
+	"description": "Irmin is an open-source OCaml library for building high-performance, distributed data stores. It is based on distributed version-control systems (DVCs), which are extensively used in software development to enable users to keep track of change provenance and expose modifications in the source code. Irmin applies DVC principles to large-scale distributed data, and exposes similar functions to Git (clone, push, pull, branch, rebase). It is highly customizable: users can define their own types for the stored data; use custom storage layers (in memory, on disk or in a remote Redis database); and define specific dynamic behaviours (e.g. merging strategies or event-driven workflows based on event notifications).",
+	"category_list": ["Storage and database"],
+	"similar_solution_list": [{
+		"title": "NEO",
+		"similar_solution_url": "https://neo.nexedi.com",
+		"category": "Storage and database"
+	}],
+	"licence_list": ["ICS"],
+	"source_code_download": "https://github.com/mirage/irmin",
+	"source_code_profile": "",
+	"commercial_support_url": "https://tarides.com/services",
+	"floss_software": true,
+	"commercial_support_open_source_version": true,
+	"commercial_support_available": true,
+	"wikipedia_url": "",
+	"reference_list": [],
+	"success_case_list": []
+  }]
+}
