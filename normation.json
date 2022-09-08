@@ -39,6 +39,14 @@
             "title": "Ansible",
             "similar_solution_url": "https://www.ansible.com/",
             "category": "Service lifecycle automation"
+        }, {
+            "title": "SlapOS",
+            "similar_solution_url": "https://slapos.nexedi.com/",
+            "category": "Service lifecycle automation"
+        }, {
+            "title": "CFEngine",
+            "similar_solution_url": "https://cfengine.com/",
+            "category": "Service lifecycle automation"
         }],
         "licence_list": ["GPL v3.0"],
         "source_code_download": "https://github.com/Normation/rudder",
