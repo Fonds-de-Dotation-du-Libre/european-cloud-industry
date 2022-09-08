@@ -22,7 +22,21 @@
         "earnings": "852 500 EUR",
         "total_assets": "1 204 600 EUR",
         "revenues": "711 600 EUR",
-        "source_url": "https://www.societe.com/"
+        "source_url": "https://www.verif.com/bilans-gratuits/NORMATION-519451686/"
+    }, {
+        "year": 2019,
+        "staff": 10,
+        "earnings": "",
+        "total_assets": "805 513 EUR",
+        "revenues": "",
+        "source_url": "https://www.verif.com/bilans-gratuits/NORMATION-519451686/"
+    }, {
+        "year": 2018,
+        "staff": "",
+        "earnings": "",
+        "total_assets": "797 976 EUR",
+        "revenues": "",
+        "source_url": "https://www.verif.com/bilans-gratuits/NORMATION-519451686/"
     }],
     "solution_list": [{
         "title": "Rudder",
