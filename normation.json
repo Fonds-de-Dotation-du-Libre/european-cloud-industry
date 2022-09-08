@@ -32,24 +32,12 @@
         "description": "Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Rudder is designed for critical environments where a security breach can mean more than a blip in the sales stats. Built-in features include change requests, audit logs, and strong authentication.",
         "category_list": ["Service lifecycle automation"],
         "similar_solution_list": [{
-            "title": "OpenNebula",
-            "similar_solution_url": "https://opennebula.io/",
+            "title": "Puppet",
+            "similar_solution_url": "https://puppet.com/",
             "category": "Service lifecycle automation"
         }, {
-            "title": "Nixos",
-            "similar_solution_url": "https://nixos.org/",
-            "category": "Service lifecycle automation"
-        }, {
-            "title": "Virtuozzo/OnApp",
-            "similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
-            "category": "Service lifecycle automation"
-        }, {
-            "title": "Google Anthos",
-            "similar_solution_url": "https://cloud.google.com/anthos",
-            "category": "Service lifecycle automation"
-        }, {
-            "title": "Kubernetes",
-            "similar_solution_url": "https://kubernetes.io/",
+            "title": "Ansible",
+            "similar_solution_url": "https://www.ansible.com/",
             "category": "Service lifecycle automation"
         }],
         "licence_list": ["GPL v3.0"],
