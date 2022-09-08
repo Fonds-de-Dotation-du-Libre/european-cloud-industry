@@ -1,131 +1,299 @@
 {
-  "created": "2022-04-04",
-  "title": "Odoo",
-  "type": "Organisation",
-  "logo_url": "",
-  "location": {
-    "title": "Odoo S.A.",
-    "address": "Chaussée de Namur 40",
-    "postal_code": "1367",
-    "city": "Grand-Rosière-Ramillies",
-    "country": "BE",
-    "phone_contact": "+3281813700",
-    "mail_contact": "fp@openerp.com",
-    "coordinate_list": [50.63537307087549, 4.864376886205374]
-  },
-  "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
-  "website_url": "https://www.odoo.com/",
-  "founded_year": 2002,
-  "kpi_list": [{
-    "year": 2020,
-    "staff": "",
-    "earnings": "140 822 EUR",
-    "total_assets": "",
-    "revenues": "43 871 968 EUR",
-    "source_url": "https://www.companyweb.be/"
-  },{
-    "year": 2019,
-    "staff": "",
-    "earnings": "422 478 EUR",
-    "total_assets": "",
-    "revenues": "29 772 268 EUR",
-    "source_url": "https://www.companyweb.be/"
-  },{
-    "year": 2018,
-    "staff": "",
-    "earnings": "-328 269 EUR",
-    "total_assets": "",
-    "revenues": "20 157 092 EUR",
-    "source_url": "https://www.companyweb.be/"
-  },{
-    "year": 2017,
-    "staff": "",
-    "earnings": "194 682 EUR",
-    "total_assets": "",
-    "revenues": "13 595 391 EUR",
-    "source_url": "https://www.companyweb.be/"
-  }],
-  "solution_list": [{
-    "title": "Odoo Software",
-    "logo_url": "https://www.odoo.com/documentation/15.0/_static/img/logos/odoo_logo.svg",
+    "created": "2022-04-04",
+    "title": "Odoo",
+    "type": "Organisation",
+    "logo_url": "https://odoocdn.com/openerp_website/static/src/img/2016/logos/odoo_logo.png",
+    "location": {
+        "title": "Odoo S.A.",
+        "address": "Chaussée de Namur 40",
+        "postal_code": "1367",
+        "city": "Grand-Rosière-Ramillies",
+        "country": "BE",
+        "phone_contact": "+3281813700",
+        "mail_contact": "fp@openerp.com",
+        "coordinate_list": [50.63537307087549, 4.864376886205374]
+    },
+    "subsidiary_location_list": ["AE","HK","IN","LU","MX","US"],
     "website_url": "https://www.odoo.com/",
-    "created_year": 2002,
-    "description": "Odoo is a suite of open source business apps that cover all companies' needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.",
-    "category_list": ["Workspace"],
-    "similar_solution_list": [{
-      "title": "ERPNext",
-      "similar_solution_url": "https://erpnext.com/",
-      "category": "Workspace"
-     },{
-      "title": "Dolibarr",
-      "similar_solution_url": "https://www.dolibarr.org/",
-      "category": "Workspace"
+    "founded_year": 2002,
+    "kpi_list": [{
+        "year": 2020,
+        "staff": "",
+        "earnings": "140 822 EUR",
+        "total_assets": "",
+        "revenues": "43 871 968 EUR",
+        "source_url": "https://www.companyweb.be/"
     },{
-      "title": "EspoCRM",
-      "similar_solution_url": "https://www.espocrm.com/",
-      "category": "Workspace"
+        "year": 2019,
+        "staff": "",
+        "earnings": "422 478 EUR",
+        "total_assets": "",
+        "revenues": "29 772 268 EUR",
+        "source_url": "https://www.companyweb.be/"
     },{
-      "title": "ZenTao",
-      "similar_solution_url": "https://www.zentao.pm/",
-      "category": "Workspace"
+        "year": 2018,
+        "staff": "",
+        "earnings": "-328 269 EUR",
+        "total_assets": "",
+        "revenues": "20 157 092 EUR",
+        "source_url": "https://www.companyweb.be/"
     },{
-      "title": "Tryton",
-      "similar_solution_url": "https://www.tryton.org/",
-      "category": "Workspace"
-    },{
-      "title": "Crust CRM",
-      "similar_solution_url": "https://www.planetcrust.com/solutions/crm/",
-      "category": "Application"
-    },{
-      "title": "Invoice Plane",
-      "similar_solution_url": "https://www.invoiceplane.com/",
-      "category": "Application"
+        "year": 2017,
+        "staff": "",
+        "earnings": "194 682 EUR",
+        "total_assets": "",
+        "revenues": "13 595 391 EUR",
+        "source_url": "https://www.companyweb.be/"
     }],
-    "licence_list": ["LGPL v3.0"],
-    "source_code_download": "https://github.com/odoo/odoo.git",
-    "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.odoo.com/pricing#pl=66&version_id=33&num_users=1&num_iot_boxes=1&hosting=online&odoosh_workers=1&odoosh_storage=1&odoosh_staging=1&implementation_service=self&pack=25&force_country=FR&integrating_partner_id=0&price_by=yearly",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Odoo",
-    "reference_list": [],
-    "success_case_list": [{
-      "title": "Intero Technologies: From User to Partner",
-      "description": "Intero Technologies is a German software company focused on creating smart software solutions for smart teams to drive business success. Odoo provides them with full service agency: consulting, implementation, hosting, migration, training, support and app development since 2010.",
-      "image_url": "https://www.intero-technologies.de/web/image/website/1/logo/Intero%20Technologies?unique=bbb4872",
-      "industry": "Information Technology",
-      "customer": "Intero Technologies",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/intero-technologies-from-user-to-partner-850#blog_content"
-    },{
-      "title": "Steersman Company takes business management by the horns",
-      "description": "Partnering with Odoo since 2015, Steersman Company find in them the flexible ERP solution, both functional and adaptable.",
-      "image_url": "https://ib.steersman.works/Qzg3z7exhCQLVI5g2F79-zlyrYPjw1LcESOG3zJE/steersman-logo-gradient-svg.svg",
-      "industry": "Consulting and Training",
-      "customer": "Steersman Company",
-      "country": "US",
-      "language": "en",
-      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/steersman-company-takes-business-management-by-the-horns-764"
-    },{
-      "title": "bloopark: Letting Go of Old Methods",
-      "description": "Bloopark is a German software company that works with Odoo since 2014. Bloopark’s expertise lies within the design, implementation and migration of Odoo. They are knowledgeable in agility, high quality, being dynamic and IoT.",
-      "image_url": "https://www.bloopark.de/theme_bloopark/static/src/img/bloopark-logo-black.png",
-      "industry": "Information Technology",
-      "customer": "bloopark",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/bloopark-letting-go-of-old-methods-736"
-    },{
-      "title": "Becoming a successful partner in a new market? Port Cities Vietnam became a certified Silver partner in just 7 months",
-      "description": "Port Cities implementation in Vietnam in 2018 required a suitable ERP system to connect them with businesses and has since evolved with the use of new modules: document management, Internet of Things, etc. Since then Port Cities in Vietnam has been working to raise awareness about smart business management applications and helping Vietnamese companies grow by automating their business processes.",
-      "image_url": "https://portcities.net/web/image/website/1/logo/Port%20Cities%20-%20the%20biggest%20Odoo%20partner%20in%20the%20world.?unique=8ce149d",
-      "industry": "Transport",
-      "customer": "Port Cities",
-      "country": "HK",
-      "language": "en",
-      "success_case_url": "https://www.odoo.com/blog/partner-stories-8/becoming-a-successful-partner-in-a-new-market-port-cities-vietnam-became-a-certified-silver-partner-in-just-7-months-542"
+    "solution_list": [{
+        "title": "Odoo Software",
+        "logo_url": "https://odoocdn.com/openerp_website/static/src/img/2016/logos/odoo_logo.png",
+        "website_url": "https://www.odoo.com/",
+        "created_year": 2002,
+        "description": "Odoo is a suite of open source business apps that cover all companies' needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.",
+        "category_list": ["Workspace"],
+        "similar_solution_list": [{
+            "title": "ERPNext",
+            "similar_solution_url": "https://erpnext.com/",
+            "category": "Workspace"
+        },{
+            "title": "Dolibarr",
+            "similar_solution_url": "https://www.dolibarr.org/",
+            "category": "Workspace"
+        },{
+            "title": "ERP5",
+            "similar_solution_url": "https://erp5.nexedi.com/",
+            "category": "Application"
+        },{
+            "title": "ERPNext",
+            "similar_solution_url": "https://erpnext.com/",
+            "category": "Application"
+        }],
+        "licence_list": ["LGPL v3.0"],
+        "source_code_download": "https://github.com/odoo/odoo.git",
+        "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
+        "commercial_support_url": "https://www.odoo.com/help",
+        "floss_software": true,
+        "commercial_support_open_source_version": false,
+        "commercial_support_available": true,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Odoo",
+        "reference_list": [],
+        "success_case_list": [{
+            "title": "Montrichard Group: Getting The Most Out Of Time With Odoo",
+            "description": "Before implementing Odoo, Montrichard Group ran its business with an in-house built ERP system. The system grew to be more difficult to maintain, to use, and was not automated. It was described to be a ticking bomb that needed to be defused as early as possible. So the company’s operations manager was on the lookout for solid software that could fulfill their core business needs. The company decided to upgrade its core operations after discovering the multi-functional capabilities of Odoo. Through a demo trial, the company’s director found that Odoo allows flexible software developments and is faster and more reliable (than the previous system) in monitoring and reporting processes.",
+            "image_url": "https://odoocdn.com/web/image/33675274-e3772dde/banner.jpg",
+            "industry": "Manufacturing",
+            "customer": "Montrichad Group",
+            "country": "FR",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/montrichard-group-getting-the-most-out-of-time-with-odoo-894"
+        },{
+            "title": "General October conquers problems with Odoo",
+            "description": "GO (General October) previously used local applications; each application handled different core functions: sales, inventory and accounting. All of them were segregated and had to be accessed individually to upload data and access the files later. Due to the localized applications, both uploading and accessing the data had to be done from a particular network on site, on specific computers. In retrospect, this doesn't seem like much of a hindrance until you consider when upper management needs to do their due diligence and when they need to access all files on the go. As the CEO usually travels, being limited to only accessing your files when you're on-site becomes a crippling effect on growth.",
+            "image_url": "https://odoocdn.com/web/image/6331667-8e692717/Industrial-Manufacturing-1.png",
+            "industry": "Commerce and Retail",
+            "customer": "General October",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/general-october-conquers-problems-with-odoo-950"
+        },{
+            "title": "Aliet Green: Building a Fair Trade Empire With Odoo",
+            "description": "Before using Odoo, the company relied on excel sheets to run its operations, and faced daily challenges: The Production Inventory team had to navigate many excel spreadsheets and keep paper records, as there were too many excel files. The staff found the tasks to be manual and time time-consuming, as simple production processes were complicated to monitor and finalize. The Finance & Accounting team used formulas to record and trace data. This made the processes tedious and time-consuming as they had to memorize and copy-paste formulas, which often caused delays in creating and submitting financial reports. It was also hectic for the team when they occasionally found inaccurate and repeated data/information as the excel sheets were not connected to one another and staff had to double-check the files one by one before finalizing them.",
+            "image_url": "https://odoocdn.com/web/image/34000332-927b2e88/aliet%20green%20banner.png",
+            "industry": "Manufacturing",
+            "customer": "Aliet Green",
+            "country": "ID",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/aliet-green-building-a-fair-trade-empire-with-odoo-947"
+        },{
+            "title": "VDB Nutrition: Unifying Inventory Management with Odoo",
+            "description": "VDB Nutrition and Nutraya are enterprises that grew from a single small shop run by a family to a larger group in Antwerp with +/- 30 staff members. The two businesses operate via retail, wholesale and web shops. Nutraya was established first and in 2012, VDB Nutrition was established as an answer to the needs of many of Nutraya’s customers; a way to lose weight in a responsible way whilst also pushing their performance. VDB Nutrition focusses on weight loss based on a protein diet. In its shops, all services are provided for free, and a large range of products is offered for sale. In extension, both companies also offer their products online.",
+            "image_url": "https://odoocdn.com/web/image/33990625-ca1a6209/angel-sinigersky-THdmJFIBEI8-unsplash.jpg",
+            "industry": "Manufacturing",
+            "customer": "VDB Nutrition",
+            "country": "BE",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/vdb-nutrition-unifying-inventory-management-with-odoo-946"
+        },{
+            "title": "Al-Ghomlas Wallpaper & Wood Floor lays foundations with Odoo",
+            "description": "With around 11 branches and one main warehouse that supplies to sub stores and each sub store supplies the nearest branches, they have a massive operation that demands constant upkeep. As a company as widely established as they are, having such a diverse operation could be the make or break for any company of that size. At the time, they struggled to connect all the branches and the store site. They could not accurately loop in the storefronts and their warehouses accurately and efficiently. The biggest thorn in a giant's side is being too big to communicate with the other organs. In comes Odoo with the multi-company solution to pluck that pesky thorn out of the giants' way. With a fully integrated and connected solution, the stores and warehouses have communicated in real-time, passing on requested items from store to store and tracking all data going in and out.",
+            "image_url": "https://odoocdn.com/web/image/33909214-c2fc666d/slider-2-3.jpeg",
+            "industry": "Manufacturing",
+            "customer": "Al Ghomlas",
+            "country": "KSA",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/al-ghomlas-wallpaper-wood-floor-lays-foundations-with-odoo-942"
+        },{
+            "title": "MTWA International Investment Co Ltd Invests with Odoo",
+            "description": "Before Odoo, they were utterly dependent on excel and staff reports which took time, sometimes unreliable and ineffective due to human error, the company of that size and stature could not afford to be making. Sales Forecasting, Financial Variance reports, budgeting, performance monitoring, Inventory monitoring and re-ordering, among other things. It had been long pending to be optimised and streamlined. Thankfully, with fully equipped team assistance from the implementing partner and the foundation quickstart method with Odoo, they could cover all ends successfully.",
+            "image_url": "https://odoocdn.com/web/image/33953088-85e64083/Screen%20Shot%202022-08-26%20at%2011.57.55%20AM.png",
+            "industry": "Manufacturing",
+            "customer": "MTWA",
+            "country": "SD",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/mtwa-international-investment-co-ltd-invests-with-odoo-945"
+        },{
+            "title": "American Tire Depot & Odoo: An Omnichannel Automotive Experience",
+            "description": "Using a centralized Magento admin panel, Brainvire created (and continues to operate) three websites for American Tire Depot - two are B2C, and one is B2B - with Odoo ERP connected throughout. The Brainvire team quickly developed a successful method for selling a wide range of wheels and tires online. They were able to accomplish that goal with the help of the Adobe Commerce cloud, which played a pivotal role in the building of these prominent online storefronts.",
+            "image_url": "https://unsplash/vVLrfAzmWYw/tire.jpg?unique=4b3181f0",
+            "industry": "Commerce and Retail",
+            "customer": "American Tire Depot",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/american-tire-depot-odoo-an-omnichannel-automotive-experience-928"
+        },{
+            "title": "Odoo & Itransition Deliver BPM Solutions for Maxmed Healthcare",
+            "description": "Maxmed Healthcare is a US-based healthcare service provider, specializing in medical staffing for private companies and governmental organizations, like the US Army, US Navy, US Air Force, and US Department of Health and Human Services, just to name a few. Maxmed Healthcare's business model is solely based on winning healthcare contracts through participation in tenders. However, in order for them to manage their tender application process, contracts, and employee/financial data, they were relying on a variety of disconnected solutions.",
+            "image_url": "https://unsplash/RlIppR1I3E8/doctors.jpg?unique=0d7c089d",
+            "industry": "Health and Life Sciences",
+            "customer": "Maxmed Healthcare",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/odoo-itransition-deliver-bpm-solutions-for-maxmed-healthcare-918"
+        },{
+            "title": "Odoo steps in with The Modern Time Machine",
+            "description": "The biggest challenge they had been facing was managing the supply chain for large numbers of SKUs and tracking inventory efficiently. The lack of proper software in place caused mismanagement with internal data and required hours in rechecks and going over past orders to manage future ones and keep accurate level stock based on previous billings. Moreover, they had been spending significant time on data management as the legacy system was proving near impossible to gather precise data for the overall performance of each SKU/Brand.",
+            "image_url": "https:////odoocdn.com/web/image/33814003-c62b1814/Screen%20Shot%202022-08-11%20at%209.52.59%20AM.png",
+            "industry": "Commerce and Retail",
+            "customer": "The Modern Time Machine",
+            "country": "JO",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/odoo-steps-in-with-the-modern-time-machine-930"
+        },{
+            "title": "Tradeline picks success fruits with Odoo",
+            "description": "Rapid growth and success came with many operational challenges. The existing inventory management system couldn't connect all the branches. As a result, each operated independently without access to the other branches' stock. It was impossible to anticipate when the in-demand products would run out, creating a disconnect between knowing what was available and what wasn't. Another limitation was the reflection and tracking of product movement that proved near impossible to manage, further adding to operational lag...",
+            "image_url": "odoocdn.com/web/image/33826178-5ecef379/1e27c845-6058-4611-91a6-826ac2fdd5c7.png",
+            "industry": "Commerce and Retail",
+            "customer": "Tradeline",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/tradeline-picks-success-fruits-with-odoo-937"
+        },{
+            "title": "Hair Hunter's Hunt with Odoo",
+            "description": "Traveling from Beirut to Dubai, Hair Hunter created the space to have the opportunity to find their true selves in one destination. From their barbers' diverse styles and personalities, Hair Hunter is a place where the music is worth turning up and where everyone can proudly let their individuality shine. Hair Hunters blend in premium service with the new style appeal of experienced and talented staff to ensure guests an experience as unique and authentic as the people who fill the shop.",
+            "image_url": "//odoocdn.com/web/image/33796876-2c9a54b9/Screen%20Shot%202022-08-09%20at%207.34.55%20PM.png",
+            "industry": "Commerce and Retail",
+            "customer": "HairHunter",
+            "country": "AE",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/hair-hunter-s-hunt-with-odoo-929"
+        },{
+            "title": "Gulf Seafood's fresh catch with Odoo",
+            "description": "For a historic company aiming to provide top-quality service and products, GSF needed to have a flawless and seamless operation to continue doing what they do best. Fortunately-unfortunately, the company was previously using tally as their operating system. Which led to their main point of concern manifesting itself in the form of a lack of data and information. The most significant obstacle they faced was working to understand where their profit margins were drawn in regard to both customer and product input. Having an interconnected network that could interlink the COGS (cost of goods sold) with the cost of actually producing and procuring them.",
+            "image_url": "//odoocdn.com/web/image/33763870-7e079d99/photo-1488188840666-e2308741a62f.jpeg",
+            "industry": "Manufacturing",
+            "customer": "Gulf Seafood",
+            "country": "AE",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/gulf-seafood-s-fresh-catch-with-odoo-927"
+        },{
+            "title": "Chickadee Learn and Play with Odoo",
+            "description": "They needed a school management system that is modifiable mainly to track child/parent details and send reminders via email. New businesses started recently wants a proper system from the start to help management and growth. One of the main points they struggled with was that they went 3 to 4 months during the launch in summer with no data at all. This caused a massive backlog of new data entries once they began to start keeping track, this caused a delay and many hours spent uploading.",
+            "image_url": "odoocdn.com/web/image/33729543-676758b3/thumb2.jpeg",
+            "industry": "Associations and NGOs",
+            "customer": "Chickadee",
+            "country": "SA",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/chickadee-learn-and-play-with-odoo-925"
+        },{
+            "title": "Pen Pals - Bedaya x Odoo",
+            "description": "Before implementing Odoo, they had depended on a SAAS model by a company called MRPEasy. Paired with the usage of excel sheets in manufacturing and Alameen soft in the accounting department, they faced many issues and delays. Delays like wasted manhours, tedious wait time and red tape to get any inventory-related data, no planned purchasing, and general delays in the manufacturing cycle due to lack of accurate information.",
+            "image_url": "https://odoocdn.com/web/image/33697376-627a3eca/Screen%20Shot%202022-07-29%20at%2012.46.18%20PM.png",
+            "industry": "Manufacturing",
+            "customer": "Penpals",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/pen-pals-bedaya-x-odoo-921"
+        },{
+            "title": "Perfect Business, Perfect Solution",
+            "description": "As a business with a catalog of over 4000 products and a contact list of 1000, they attempted to develop a custom system. For several months they faced difficulties as it was not integrated, and each workflow was separate. What they tried to create to streamline the operation was now causing them to add several man-hours in manual entry. The main issues they faced were managing their contacts with an integrated database and managing their sales cycle linked to the inventory. Before Odoo, they would import each sale into an excel sheet and divide it per salesman, and whenever they ran out of stock, they could not update the stock amount in real-time, which had caused many overlaps and delays in progress.",
+            "image_url": "https://odoocdn.com/web/image/33661883-7ceb6264/smart-healthcare-technology-template-vector_53876-110859%20copy.png",
+            "industry": "Commerce and Retail",
+            "customer": "Perfect business",
+            "country": "OM",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/perfect-business-perfect-solution-920"
+        },{
+            "title": "Spare Car patches up with Odoo",
+            "description": "In the early stages of digitalization, they were hosted on a local on-premise server that costs them massive maintenance fees. Paired with the constant downtimes faced due to poor connection caused enough disruption to shift to a PaaS solution eventually. ",
+            "image_url": "https://odoocdn.com/web/image/33764092-58dd249f/istockphoto-1212230930-170667a.jpeg",
+            "industry": "Automative",
+            "customer": "Spare car",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/spare-car-patches-up-with-odoo-919"
+        },{
+            "title": "MovEx Egypt moves up with Odoo",
+            "description": "A company of such size and function brings with it rapidly increasing new requirements and reinforces old functions. Digging deep into the company's functions, we discovered the current issues, which included slow internal communication and structured workflows with no inter-department communication. These issues were causing them to lose out on vital information and be able to track and monitor all departmental aspects. With so many moving components, generating organized and accurate reports became a core requirement as the company grew.",
+            "image_url": "odoocdn.com/web/image/33603484-01ba90a9/Screen%20Shot%202022-07-19%20at%209.09.18%20AM.png",
+            "industry": "Tansport",
+            "customer": "Movex",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/movex-egypt-moves-up-with-odoo-917"
+        },{
+            "title": "AquaNile swims upstream with Odoo",
+            "description": "Before Odoo, AquaNile's team worked on Excel sheets and Google spreadsheets. As the company started to grow, the operations were vast in function and rapidly outgrew sheets and Excel. An example given was that accessing any data would involve contacting a whole team and having days to retrieve all checks, inspect the payable and receivable, and trace back over 100 sheets to just get a simple report. Conducting simple statistical analysis or fetching financial and inventory reports had begun causing massive overdrafts in manhours to gather simple data.",
+            "image_url": "https://odoocdn.com/web/image/33577434-89dc14aa/Screen%20Shot%202022-07-15%20at%209.20.25%20AM.png",
+            "industry": "Manufacturing",
+            "customer": "Aqua Nil",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/aquanile-swims-upstream-with-odoo-914"
+        },{
+            "title": "CinemaNext: Replacing 8 Legacy Systems with Odoo in only 16 months",
+            "description": "Based in Liège-Blegny and operating through 26 companies in more than 20 countries around the globe, CinemaNext is one of the largest cinema exhibition services companies in Europe, the Middle East and Africa. At the beginning of 2020, the company group decided it was time for a new ERP system. At the time, CinemaNext consisted of 26 companies all differing in size and each had their own unique business process. There was no reporting, coordination or collaboration because each company had their own ERP solution and tools. Some of the many ERP solutions that were being used by the 26 companies included: SAP, Sage, Navision, 1C and Microsoft Excel. ",
+            "image_url": "https://odoocdn.com/web/image/33558086-667e1232/CinemaNext.jpg",
+            "industry": "Media and Entertainment",
+            "customer": "CinemaNext",
+            "country": "BE",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/cinemanext-replacing-8-legacy-systems-with-odoo-in-only-16-months-908"
+        },{
+            "title": "Brand for Pharmaceutical Industries Ropes Its Businesses under Odoo’s Umbrella",
+            "description": "If we take a look at the holding Group that uses Odoo to rope in all the functions of its businesses under the same umbrella, each of them has a unique function that requires its own approach. First, let's take a look at the Group and its companies.",
+            "image_url": "https://background-image: url(//odoocdn.com/web/image/33545413-49375de5/crystalweed-cannabis-Qd37vTyByBs-unsplash.jpg",
+            "industry": "Manufacturing",
+            "customer": "Brand for Pharmaceuticals",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/brand-for-pharmaceutical-industries-ropes-its-businesses-under-odoos-umbrella-907"
+        },{
+            "title": "DeltaChem Middle East Achieves High Performance with Odoo",
+            "description": "Delta Chemicals specializes in producing specialty fertilizers for fertigation and foliar nutrition. Striving for the highest quality in the industry, they guarantee continual quality improvement and innovative solutions. Furthermore, it assures its technical services and gives a promising growing partnership for prosperity.",
+            "image_url": "https://odoocdn.com/web/image/33511421-8d3d7ca0/delta.jpeg",
+            "industry": "Manufacturing",
+            "customer": "Deltachem",
+            "country": "EG",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/deltachem-middle-east-achieves-high-performance-with-odoo-904"
+        },{
+            "title": "Top Teh: Running an International Business with Odoo",
+            "description": "Top Teh is a supplier of technologically advanced plastic injection molding equipment. In addition to quality equipment, they offer their customers professional support and participate in all phases of planning and installation of machines and lines. They work with 14 suppliers, most of whom come from the EU. Top Teh has its headquarters in Slovenia, and they also have a subsidiary in Serbia, and are planning to expand to Croatia.",
+            "image_url": "https://odoocdn.com/web/image/33499996-c7bab861/Top%20Teh%201.png",
+            "industry": "Manufacturing",
+            "customer": "Top Teh",
+            "country": "SI",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/top-teh-running-an-international-business-with-odoo-903"
+        },{
+            "title": "Control System Labs & Odoo: Masters of Management",
+            "description": "Prior to using Odoo ERP, Control System Labs relied on the Alpha system. While Alpha was able to complete simple tasks for them early on, this platform quickly proved to be incapable of handling the expanding needs of this growing company. In fact, the Alpha system could have been classified as outdated - even back then. In short, that platform was the opposite of intuitive and littered with issues.",
+            "image_url": "https://odoocdn.com/web/image/33490134-77e1927f/CSL%20Case%20Study.jpg",
+            "industry": "Consulting and Training",
+            "customer": "Control System Labs",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/control-system-labs-odoo-masters-of-management-902"
+        },{
+            "title": "Feer Mcqueen rocks the marketing world with Odoo",
+            "description": "Growing past the 100 employees and expanding internationally posed severe challenges for Feer McQueen. Some of the challenges faced were: Managing multiple companies under the same group was a challenge due to the limited visibility of each department's load.",
+            "image_url": "https://odoocdn.com/web/image/33484153-2cf84043/s-o-c-i-a-l-c-u-t-r0saAQNjEjQ-unsplash.jpg",
+            "industry": "Consulting and Training",
+            "customer": "Flag M Group",
+            "country": "LB",
+            "language": "en",
+            "success_case_url": "https://www.odoo.com/blog/customer-reviews-6/feer-mcqueen-rocks-the-marketing-world-with-odoo-901"
+        }]
     }]
-  }]
 }
