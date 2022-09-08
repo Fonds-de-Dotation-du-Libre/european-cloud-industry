@@ -139,11 +139,7 @@
 			"similar_solution_url": "https://www.olimex.com/Products/OLinuXino/open-source-hardware",
 			"category": "IoT and Industrial"
 		}],
-		"licence_list": [{
-			"title": "Olimex SoM",
-			"similar_solution_url": "https://www.olimex.com/Products/SOM/",
-			"category": "IoT and Industrial"
-		}],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.toradex.com/support",
@@ -165,7 +161,7 @@
 			"similar_solution_url": "https://www.olimex.com/Products/OLinuXino/open-source-hardware",
 			"category": "IoT and Industrial"
 		}],
-		"licence_list": [""],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "https://www.openhub.net/p/mender/analyses/latest/languages_summary",
 		"commercial_support_url": "",
