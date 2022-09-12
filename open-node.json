@@ -1,13 +1,10 @@
 {
-  "created": "2022-03-22",
-  "title": "OpenNode",
-  "type": "Organisation",
-  "logo_url": "https://docs.waldur.com/assets/waldur-logo.svg",
-  "headquarter_country": "EE",
-  "subsidiary_country_list": [],
-  "website_url": "http://www.opennodecloud.com/",
-  "location": {
-		"title": "Opennode OÜ",
+    "created": "2022-03-22",
+    "title": "OpenNode",
+    "type": "Organisation",
+    "logo_url": "https://docs.waldur.com/assets/waldur-logo.svg",
+    "location": {
+	    "title": "OpenNode OÜ",
 		"address": "Jõekalda tee 22, Silla",
 		"postal_code": "86604",
 		"city": "Pärnu maakond",
@@ -16,51 +13,53 @@
 		"mail_contact": "info@opennodecloud.com",
 		"coordinate_list": [58.35231015189753, 24.62132794602116]
 	},
-  "founded_year": 2011,
-  "kpi_list":[{
-    "year": 2021,
-    "staff": 3,
-    "earnings": "332 247 EUR",
-    "total_assets": "720 383 EUR",
-    "revenues": "572 007 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
-  },{
-    "year": 2020,
-    "staff": 4,
-    "earnings": "62 014 EUR",
-    "total_assets": "461 289 EUR",
-    "revenues": "385 114 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
-  }, {
-    "year": 2019,
-    "staff": 3,
-    "earnings": "172 355 EUR",
-    "total_assets": "431 737 EUR",
-    "revenues": "379 895 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
-  }, {
-    "year": 2018,
-    "staff": 4,
-    "earnings": "75 452 EUR",
-    "total_assets": "326 941 EUR",
-    "revenues": "208 285 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
-  }, {
-    "year": 2017,
-    "staff": 3,
-    "earnings": "-45 016 EUR",
-    "total_assets": "270 188 EUR",
-    "revenues": "61 935 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
-  },{
-    "year": 2016,
-    "staff": 1,
-    "earnings": "101 238 EUR",
-    "total_assets": "327 922 EUR",
-    "revenues": "290 539 EUR",
-    "source_url": "https://ariregister.rik.ee/eng/company/12061352"
-  }],
-  "solution_list": [{
+    "subsidiary_country_list": [],
+    "website_url": "http://www.opennodecloud.com/",
+    "founded_year": "2011",
+    "kpi_list":[{
+        "year": 2021,
+        "staff": 3,
+        "earnings": "332 247 EUR",
+        "total_assets": "720 383 EUR",
+        "revenues": "572 007 EUR",
+        "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
+    },{
+        "year": 2020,
+        "staff": 4,
+        "earnings": "62 014 EUR",
+        "total_assets": "461 289 EUR",
+        "revenues": "385 114 EUR",
+        "source_url": "https://ariregister.rik.ee/eng/company/12061352 (€)"
+    }, {
+        "year": 2019,
+        "staff": 3,
+        "earnings": "172 355 EUR",
+        "total_assets": "431 737 EUR",
+        "revenues": "379 895 EUR",
+        "source_url": "https://ariregister.rik.ee/eng/company/12061352"
+    }, {
+        "year": 2018,
+        "staff": 4,
+        "earnings": "75 452 EUR",
+        "total_assets": "326 941 EUR",
+        "revenues": "208 285 EUR",
+        "source_url": "https://ariregister.rik.ee/eng/company/12061352"
+    }, {
+        "year": 2017,
+        "staff": 3,
+        "earnings": "-45 016 EUR",
+        "total_assets": "270 188 EUR",
+        "revenues": "61 935 EUR",
+        "source_url": "https://ariregister.rik.ee/eng/company/12061352"
+    },{
+        "year": 2016,
+        "staff": 1,
+        "earnings": "101 238 EUR",
+        "total_assets": "327 922 EUR",
+        "revenues": "290 539 EUR",
+        "source_url": "https://ariregister.rik.ee/eng/company/12061352"
+    }],
+    "solution_list": [{
     "title": "Waldur",
     "logo_url": "https://waldur.com/assets/img/logo.svg",
     "website_url": "https://waldur.com/",
@@ -68,25 +67,29 @@
     "description": "Waldur is an hybrid cloud orchestrator, managing private clouds, public clouds and High Performance Computing Centres. It automates OpenStack and Slurm, has billing, user self-service and support desk.",
     "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
-      "title": "SlapOS",
-      "similar_solution_url": "https://slapos.nexedi.com/",
-      "category": "Service lifecycle automation"
+        "title": "OpenNebula",
+        "similar_solution_url": "https://opennebula.io/",
+        "category": "Service lifecycle automation"
     }, {
-      "title": "Kubernetes",
-      "similar_solution_url": "https://kubernetes.io/",
-      "category": "Service lifecycle automation"
+        "title": "Virtuozzo/OnApp",
+        "similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
+        "category": "Service lifecycle automation"
     }, {
-      "title": "Virtengine",
-      "similar_solution_url": "https://virtengine.com/",
-      "category": "Storage and database"
-   },{
-      "title": "Vscaler",
-      "similar_software_url": "https://www.vscaler.com/",
-      "category": "Storage and database"
-    },{
-      "title": "OpenStack",
-      "similar_software_url":"https://www.openstack.org/",
-      "category": "Storage and database"
+        "title": "Google Anthos",
+        "similar_solution_url": "https://cloud.google.com/anthos",
+        "category": "Service lifecycle automation"
+    }, {
+        "title": "Kubernetes",
+        "similar_solution_url": "https://kubernetes.io/",
+        "category": "Service lifecycle automation"
+    }, {
+        "title": "SlapOS",
+        "similar_solution_url": "https://slapos.nexedi.com/",
+        "category": "Service lifecycle automation"
+    }, {
+        "title": "Virtengine",
+        "similar_solution_url": "https://virtengine.com/",
+         "category": "Storage and database"
     }],
     "licence_list": ["MIT"],
     "source_code_download": "https://github.com/waldur/waldur-mastermind",
@@ -96,48 +99,12 @@
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
     "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
-  }, {
-    "title": "NodeFabric",
-    "logo_url": "",
-    "website_url": "http://www.opennodecloud.com/products/nodefabric.html",
-    "created_year": 2015,
-    "description": "Highly Available Backend Layer. Containerized and distributed database, storage and messaging clusters for highly available and self-healing cloud services. NodeFabric delivers hyperconverged database and storage solution for highly available, self-healing and load-balanced cloud services.",
-    "category_list": ["Storage and database"],
-    "similar_solution_list": [],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "https://nodefabric.readthedocs.io/en/latest/guide/intro.html",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
     "reference_list": [{
       "title": "Estonian Scientific Computing Infrastructure (ETAIS)",
       "logo_url": "https://ut.ee/sites/default/files/2021-11/tartu_ylikool-p%C3%B5hilogo-valge-eng.svg",
       "country": "EE",
       "industry": "Academia and Research"
-    }],
-    "success_case_list": []
-  }, {
-    "title": "Government Cloud Platform (GCP)",
-    "logo_url": "",
-    "website_url": "http://www.opennodecloud.com/products/gcloud.html",
-    "created_year": "",
-    "description": "State-of-the-art holistic solution for creating a private or hybrid cloud for the public sector services. OpenNode Government Cloud Platform (GCP) is a state-of-the-art holistic solution for creating a private or hybrid cloud for the public sector services.",
-    "category_list": ["Application"],
-    "similar_solution_list": [],
-    "licence_list": [],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": false,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [{
+    },{
       "title": "Estonian Government Cloud",
       "logo_url": "https://media.voog.com/0000/0044/1767/photos/riigipilv_logo_est_blue_est_fff.png",
       "country": "EE",
