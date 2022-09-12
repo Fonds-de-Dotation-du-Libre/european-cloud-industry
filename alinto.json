@@ -1,0 +1,153 @@
+{
+  "created": "2022-09-10",
+  "title": "Alinto",
+  "type": "Organisation",
+  "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
+  "location": {
+    "title": "Alinto SA",
+    "address": "15 quai Tilsitt",
+    "postal_code": "69002",
+    "city": "Lyon",
+    "country": "FR",
+    "phone_contact": "+33 481 09 01 10",
+    "mail_contact": "",
+    "coordinate_list": [45.75713439618989, 4.827408764418216]
+  }, 
+  "subsidiary_location_list": [],
+  "website_url": "https://www.alinto.com/",
+  "founded_year": 2000,
+  "kpi_list": [{
+		"year": "2021",
+		"staff": "14",
+		"earnings": "36 589 EUR",
+		"total_assets": "1 635 211 EUR",
+		"revenues": "1 806 457 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
+	}, {
+		"year": "2020",
+		"staff": "",
+		"earnings": "210 026 EUR",
+		"total_assets": "1 826 387 EUR",
+		"revenues": "	2 007 955 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
+	}, {
+		"year": "2019",
+		"staff": "14",
+		"earnings": "23 685 EUR",
+		"total_assets": "1 855 717 EUR",
+		"revenues": "	1 880 824 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
+	}, {
+		"year": "2018",
+		"staff": "",
+		"earnings": "13 392 EUR",
+		"total_assets": "1 671 247 EUR",
+		"revenues": "	1 534 404 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
+	}, {
+		"year": "2017",
+		"staff": "",
+		"earnings": "188 655 EUR",
+		"total_assets": "1 882 188 EUR",
+		"revenues": "	1 885 183 EUR",
+		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
+	}],
+  "solution_list": [{
+    "title": "SoGoMail",
+    "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
+    "website_url": "https://www.alinto.com/professional-mail-server-sogomail/",
+    "created_year": ,
+    "description": "Powerful business-class mail server for organisations looking for a proven European alternative to Microsoft Exchange.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+      "title": "Microsoft Exchange",
+      "similar_solution_url": "https://mail.exchange.microsoft.com/",
+      "category": "Networking"
+    }, {
+			"title": "Zimbra",
+			"similar_solution_url": "https://www.zimbra.com/",
+			"category": "Networking"
+		}, {
+      "title": "OpenXchange",
+      "similar_solution_url": "https://www.open-xchange.com/",
+      "category": "Networking"
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.alinto.com/professional-mail-server-sogomail/",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": [{
+      "title": "Retour d’expérience",
+      "description": "L’agglomération de Paris-Saclay regroupe 27 communes et agit auprès de 318 308 habitants depuis le 1er janvier 2016. Ses missions s’articulent autour de plusieurs compétences :",
+      "image_url": "https://www.alinto.com/wp-content/uploads/2021/08/temoignage-saclay.png",
+      "industry": "Public Administration and Government",
+      "customer": "Paris Saclay",
+      "country": "FR",
+      "language": "fr",
+      "success_case_url": "https://www.alinto.com/wp-content/uploads/2022/03/Temoignage-Alinto-Paris-Saclay.pdf"
+    }]
+  }, {
+    "title": "CleanMail",
+    "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
+    "website_url": "https://www.alinto.com/email-security-relay-cleanmail/",
+    "created_year": ,
+    "description": "Protect your organisation from cyber-risks. Cleanmail protects you from all dangers and keeps your business email communications free from unwanted elements.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "https://www.alinto.com/professional-mail-server-sogomail/#services",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }, {
+    "title": "SerenaMail",
+    "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
+    "website_url": "https://www.alinto.com/smtp-mail-relay-serenamail/",
+    "created_year": ,
+    "description": "https://www.alinto.com/smtp-mail-relay-Secure%20SMTP%20relay%20for%20companies%20with%20high%20email%20volumes%20Send%20your%20transactional%20emails%20with%20confidence%20from%20your%20IP%20addresses%20and%20domains.%20No%20worries!%20Serenamail%20protects%20your%20network%20reputation%20and%20maximises%20email%20deliverability./",
+    "category_list": ["Networking"],
+    "similar_solution_list": [],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": ]
+  }, {
+    "title": "SoGo Open Source",
+    "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
+    "website_url": "https://www.sogo.nu/",
+    "created_year": "2009",
+    "description": "SOGo is a fully supported and trusted groupware server with a focus on scalability and open standards. SOGo is released under the GNU GPL/LGPL v2 and above. SOGo provides a rich AJAX-based Web interface and supports multiple native clients through the use of standard protocols such as CalDAV, CardDAV and GroupDAV, as well as Microsoft ActiveSync. SOGo is the missing component of your infrastructure; it sits in the middle of your servers to offer your users a uniform and complete interface to access their information. It has been deployed in production environments where thousands of users are involved.",
+    "category_list": ["Networking"],
+    "similar_solution_list": [{
+      "title": "",
+      "similar_solution_url": "",
+      "category": ""
+    }],
+    "licence_list": ["GPL v2.0"],
+    "source_code_download": "https://www.sogo.nu/download.html",
+    "source_code_profile": "https://www.openhub.net/p/sogo/analyses/latest/languages_summary",
+    "commercial_support_url": "https://www.openhub.net/p/sogo"",
+    "floss_software": true,
+    "commercial_support_open_source_version": true,
+    "commercial_support_available": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/SOGo",
+    "reference_list": [],
+    "success_case_list":  []
+  }]
+}
