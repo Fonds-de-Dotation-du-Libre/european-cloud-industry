@@ -1,0 +1,96 @@
+{
+    "created": "2022-04-27",
+    "title": "Ascensio",
+    "type": "Organisation",
+    "logo_url": "https://static-www.onlyoffice.com/images/logo_new.svg",
+    "location": {
+        "title": "Ascensio System SIA",
+        "address": "20A-6 Ernesta Birznieka Upish street",
+        "postal_code": "1050",
+        "city": "Riga",
+        "country": "LV",
+        "phone_contact": "+37163399867",
+        "mail_contact": "sales@onlyoffice.com",
+        "coordinate_list": [56.949306246137574, 24.129568524184045]
+    },
+    "subsidiary_location_list": [],
+    "website_url": "https://www.onlyoffice.com/",
+    "founded_year": 2009,
+    "kpi_list": [],
+    "solution_list": [{
+        "title": "OnlyOffice",
+        "logo_url": "",
+        "website_url": "https://www.onlyoffice.com/",
+        "created_year": "",
+        "description": "ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and collaboration or use as a part of ONLYOFFICE Workspace.",
+        "category_list": ["Application"],
+        "similar_solution_list": [{
+		    "title": "LibreOffice",
+			"similar_software_url": "https://www.libreoffice.org/",
+			"category": "Application"
+		}, {
+			"title": "Collabora Office",
+			"similar_software_url": "https://www.onlyoffice.com/en/",
+			"category": "Application"
+		}, {
+			"title": "Microsoft Office 365",
+			"similar_software_url": "https://www.microsoft.com/en-us/microsoft-365/",
+			"category": "Application"
+		}],
+        "licence_list": ["AGPL v3.0"],
+        "source_code_download": "https://www.onlyoffice.com/support-contact-form.aspx",
+        "source_code_profile": "https://www.openhub.net/p/ONLYOFFICE/analyses/latest/languages_summary",
+        "commercial_support_url": "https://www.onlyoffice.com/support-contact-form.aspx?from=office-suite",
+        "floss_software": true,
+        "commercial_support_open_source_version": false,
+        "commercial_support_available": true,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/OnlyOffice",
+        "reference_list": [],
+        "success_case_list": [{
+            "title": "Medical research at IBE: how ONLYOFFICE and Nextcloud help the institute",
+            "description": "The Institute for Medical Information Processing, Biometry, and Epidemiology (IBE) is using ONLYOFFICE Docs in combination with Nextcloud to organize effective collaboration between the employees. Nikolaus von Bomhard, CIO IBE, talks about his team’s experience.",
+            "image_url": "https://www.onlyoffice.com/blog/wp-content/uploads/2022/09/IBE-and-onlyoffice.png",
+            "industry": "Academica and Research",
+            "customer": "LMU",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.onlyoffice.com/blog/2022/09/medical-research-at-ibe-how-onlyoffice-and-nextcloud-help-the-institute/"
+        },{
+            "title": "Whaller integrates ONLYOFFICE Docs to enrich its digital workplace with a 100% European office suite",
+            "description": "Whaller, a French platform for secure collaborative networks, launches its own office suite Whaller 365 based on ONLYOFFICE Docs. Through this integration, Whaller offers its users a complete sovereign solution for viewing, creating, sharing, editing, and collaborating on office documents directly in their Whaller spheres. ",
+            "image_url": "https://www.onlyoffice.com/blog/wp-content/uploads/2020/11/Blog_Whaller.jpg",
+            "industry": "Information Technology",
+            "customer": "Whaller",
+            "country": "FR",
+            "language": "en",
+            "success_case_url": "https://www.onlyoffice.com/blog/2020/11/whaller-integrates-onlyoffice-docs-to-enrich-its-digital-workplace-with-a-100-european-office-suite/"
+        },{
+            "title": "NetExplorer integrates ONLYOFFICE Docs to provide medical institutions with a secure cloud solution for storing and processing health data",
+            "description": "ONLYOFFICE Docs has recently been integrated into NetExplorer, a professional French file sharing, online collaboration, and secure storage platform. This comprehensive solution allows the NetExplorer users to store and process their sensitive docs, such as personal health data, in a single, secure workspace.",
+            "image_url": "https://www.onlyoffice.com/blog/wp-content/uploads/2020/10/Blog_Netexplorer.jpg",
+            "industry": "Information Technology",
+            "customer": "NetExplorer",
+            "country": "FR",
+            "language": "en",
+            "success_case_url": "https://www.onlyoffice.com/blog/2020/11/netexplorer-integrates-onlyoffice-docs-to-provide-medical-institutions-with-a-secure-cloud-solution-for-storing-and-processing-health-data/"
+        },{
+            "title": "How SmartLynx Airlines deployed ONLYOFFICE Docs integrated with Seafile for secure online document collaboration",
+            "description": "SmartLynx Airlines, a Latvia-based airline company, has recently created a collaborative environment by integrating ONLYOFFICE Docs into Seafile to help its employees share and work on documents securely.",
+            "image_url": "https://www.onlyoffice.com/blog/wp-content/uploads/2020/11/Blog_smartlynx.jpg",
+            "industry": "Aviation and Aerospace",
+            "customer": "SmartLynx Airlines",
+            "country": "LV",
+            "language": "en",
+            "success_case_url": "https://www.onlyoffice.com/blog/2020/11/how-smartlynx-airlines-deployed-onlyoffice-docs-integrated-with-seafile-for-secure-online-document-collaboration/"
+        },{
+            "title": "How Yamaha Motor Solutions in Xiamen improves online collaboration on documents with ONLYOFFICE",
+            "description": "Yamaha Motor Solutions in Xiamen, China uses ONLYOFFICE Docs for effective collaboration within the team members, and plans to integrate it into their own ECM product A1-SHARE to provide a better document collaboration experience for their customers.",
+            "image_url": "https://www.onlyoffice.com/blog/wp-content/uploads/2022/03/Yamaha.jpg",
+            "industry": "Manufacturing",
+            "customer": "Yamaha Motor Solutions",
+            "country": "CN",
+            "language": "en",
+            "success_case_url": "https://www.onlyoffice.com/blog/2022/03/how-yamaha-motor-solutions-improves-online-collaboration-on-documents-with-onlyoffice/"
+        }]
+    }]
+}
