@@ -1,0 +1,230 @@
+{
+	"created": "2022-04-07",
+	"title": "Virtuozzo",
+	"type": "Organisation",
+	"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/vz-main-logo.svg",
+	"location": {
+		"title": "Virtuozzo International GmbH",
+		"address": "Vordergasse 59",
+		"postal_code": "8200",
+		"city": "Schaffhausen",
+		"country": "CH",
+		"phone_contact": "+41525391027",
+		"mail_contact": "info@virtuozzo.com",
+		"coordinate_list": [47.69623704462109, 8.635340666273231]
+	},
+	"subsidiary_location_list": ["UK", "JP", "US"],
+	"website_url": "https://www.virtuozzo.com/",
+	"founded_year": 2010,
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Virtuozzo Hybrid Infrastructure (IaaS)",
+		"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/vz-main-logo.svg",
+		"website_url": "https://www.virtuozzo.com/hybrid-infrastructure/",
+		"created_year": "",
+		"description": "Turnkey OpenStack cloud for service providers. Sell public, private, hybrid cloud: a more flexible, cost efficient &amp; profitable hyperscale alternative.",
+		"category_list": ["Service lifecycle automation"],
+		"similar_solution_list": [{
+			"title": "OpenNebula",
+			"similar_solution_url": "https://opennebula.io/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Nixos",
+			"similar_solution_url": "https://nixos.org/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Google Anthos",
+			"similar_solution_url": "https://cloud.google.com/anthos",
+			"category": "Service lifecycle automation"
+        }, {
+			"title": "OpenSVC",
+			"similar_solution_url": "https://www.opensvc.com/",
+			"category": "Service lifecycle automation"
+        }, {
+			"title": "OpenStack",
+			"similar_solution_url": "https://www.openstack.org/",
+			"category": "Service lifecycle automation"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.virtuozzo.com/all-supported-products/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OnApp",
+		"reference_list": [{
+			"title": "Tline",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2021/10/TLINE-logo.png",
+			"country": "ES",
+			"industry": "Information Technology"
+		}, {
+			"title": "FLOW",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2021/05/Flow-logo-02.svg",
+			"country": "CH",
+			"industry": "Information Technology"
+		},{
+			"title": "Ulink",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2021/12/ulink-1.svg",
+			"country": "ZH",
+			"industry": "Information Technology"
+		},{
+			"title": "Joe's Datacenter",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2021/10/JOES-logo-01.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}],
+		"success_case_list ": []
+    }, {
+        "title": "OpenVZ",
+		"logo_url": "https://openvz.org/img/logo.png",
+		"website_url": "https://openvz.org/",
+		"created_year": "2005",
+		"description": "Turnkey OpenStack cloud for service providers. Sell public, private, hybrid cloud: a more flexible, cost efficient &amp; profitable hyperscale alternative.",
+		"category_list": ["Service lifecycle automation"],
+		"similar_solution_list": [{
+			"title": "Oracle Solaris Containers",
+			"similar_solution_url": "https://www.oracle.com/solaris/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Linux Containers",
+			"similar_solution_url": "https://linuxcontainers.org/",
+			"category": "Service lifecycle automation"
+		}, {
+			"title": "Kubernetes",
+			"similar_solution_url": "https://kubernetes.io/",
+			"category": "Service lifecycle automation"
+        }],
+		"licence_list": ["GPL"],
+		"source_code_download": "https://download.openvz.org/",
+		"source_code_profile": "https://www.openhub.net/p/openvzcontrol/analyses/latest/languages_summary",
+		"commercial_support_url": "https://openvz.org/",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenVZ",
+		"reference_list": [{
+			"title": "Altassian",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/5/52/Atlassian-logo.png/375px-Atlassian-logo.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Funtoo Linux",
+			"logo_url": "https://wiki.openvz.org/w/images/7/74/Funtoo.jpg",
+			"country": "CA",
+			"industry": "Information Technology"
+		}, {
+			"title": "FastVPS",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/8/89/Fastvps_logotype.png/383px-Fastvps_logotype.png",
+			"country": "EE",
+			"industry": "Information Technology"
+		}, {
+			"title": "Montana State University",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/1/1e/Montana_State_University_Logo.svg/383px-Montana_State_University_Logo.svg.png",
+			"country": "US",
+			"industry": "Academia and Research"
+		}, {
+			"title": "Parallels",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/7/7f/Parallels-logo.png/375px-Parallels-logo.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Pixar",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/4/40/Pixar_logo.svg/375px-Pixar_logo.svg.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Travis CI",
+			"logo_url": "https://wiki.openvz.org/w/images/9/9e/TravisCI-logo.png",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Yandex",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/2/20/Yandex_eng_logo.png/210px-Yandex_eng_logo.png",
+			"country": "RU",
+			"industry": "Information Technology"
+		}, {
+			"title": "Wargaming Public Co Ltd",
+			"logo_url": "https://wiki.openvz.org/w/images/thumb/0/01/Wargaming.net_logo.png/270px-Wargaming.net_logo.png",
+			"country": "CY",
+			"industry": "Media and Entertainment"
+		}],
+		"success_case_list ": []
+    }, {
+		"title": "Virtuozzo Application Platform (PaaS)",
+		"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/vz-main-logo.svg",
+		"website_url": "https://www.virtuozzo.com/application-platform/",
+		"created_year": "",
+		"description": "Elastic, high-performance PaaS solution for service providers. The easy way to sell cloud hosting to DevOps-focused companies.",
+		"category_list": ["Compute virtualisation"],
+		"similar_solution_list": [{
+			"title": "Scaleway",
+			"similar_solution_url": "https://www.scaleway.com/",
+			"category": "Compute Virtualisation"
+		}, {
+			"title": "Clever Cloud",
+			"similar_solution_url": "https://www.clever-cloud.com/",
+			"category": "Compute Virtualisation"
+		},{
+		      "title": "Cloudways",
+		      "similar_solution_url": "https://www.cloudways.com/en/",
+		      "category": "Developer environment"
+        },{
+		      "title": "Heroku",
+		      "similar_solution_url": "https://www.heroku.com/",
+		      "category": "Developer environment"
+		},{
+		      "title": "Digital Ocean App Platform",
+		      "similar_solution_url": "https://try.digitalocean.com/app-platform/",
+		      "category": "Developer environment"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.virtuozzo.com/all-supported-products/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [{
+			"title": "Hidora",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/hidora.svg",
+			"country": "CH",
+			"industry": "Information Technology"
+		}, {
+			"title": "Reclaim Hosting",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/reclaim-1.svg",
+			"country": "US",
+			"industry": "Information Technology"
+		}, {
+			"title": "Layershift",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/layershift.png",
+			"country": "UK",
+			"industry": "Information Technology"
+		}, {
+			"title": "Infomaniak",
+			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/infomaniak.svg",
+			"country": "CH",
+			"industry": "Information Technology"
+		}],
+		"success_case_list ": []
+    }, {
+		"title": "Virtuozzo OnApp",
+		"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2022/03/vz-main-logo.svg",
+		"website_url": "https://www.virtuozzo.com/onapp-information/",
+		"created_year": "",
+		"description": "OnApp makes it easy to build, manage and sell your own brand of IaaS cloud. It’s the complete cloud management solution for service providers. Since 2021, OnApp is a division of Virtuozzo.",
+		"category_list": ["Compute virtualisation"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "https://docs.onapp.com/ig/latest",
+		"source_code_profile": "",
+		"commercial_support_url": "https://help.onapp.com/hc/en-us",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OnApp",
+		"reference_list": [],
+		"success_case_list ": []
+    }]
+}
