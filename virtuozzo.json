@@ -36,11 +36,11 @@
 			"title": "Google Anthos",
 			"similar_solution_url": "https://cloud.google.com/anthos",
 			"category": "Service lifecycle automation"
-        }, {
+        	}, {
 			"title": "OpenSVC",
 			"similar_solution_url": "https://www.opensvc.com/",
 			"category": "Service lifecycle automation"
-        }, {
+        	}, {
 			"title": "OpenStack",
 			"similar_solution_url": "https://www.openstack.org/",
 			"category": "Service lifecycle automation"
@@ -66,7 +66,7 @@
 		},{
 			"title": "Ulink",
 			"logo_url": "https://static.virtuozzo.com/wp-content/uploads/2021/12/ulink-1.svg",
-			"country": "ZH",
+			"country": "TW",
 			"industry": "Information Technology"
 		},{
 			"title": "Joe's Datacenter",
@@ -74,7 +74,115 @@
 			"country": "US",
 			"industry": "Information Technology"
 		}],
-		"success_case_list ": []
+		"success_case_list ": [{
+		      "title": "Ataraxie delivers fast, efficient VPS hosting with Virtuozzo Hybrid Server",
+		      "description": "Originally a Geographic Information Systems specialist – and still a major player in GIS hosting in France today – Ataraxie now provides server management, ADSL, SDSL, Fiber connectivity, dedicated servers, VoIP and Exchange hosting, and VPS hosting powered by Virtuozzo.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2022/01/ataraxie.svg",
+		      "industry": "Information Technology",
+		      "customer": "Ataraxie",
+		      "country": "FR",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/ataraxie/"
+	    	}, {
+		      "title": "Sharktech brings its unique service focus to cloud, powered by Virtuozzo",
+		      "description": "Sharktech has been in the hosting business for almost 20 years, and has a clear focus on service quality, network expertise, DDoS mitigation and high-quality support.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/12/sharktech-logoo.svg",
+		      "industry": "Information Technology",
+		      "customer": "Sharktech",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/sharktech/"
+	    	}, {
+		      "title": "Ulink grows its distribution business with Virtuozzo Hybrid Infrastructure",
+		      "description": "From its launch as a systems integrator and Value-Added Reseller, 25 years ago, Ulink has grown to become a successful solutions and distribution partner for customers and resellers across Taiwan – where the company is based – as well in Myanmar, Korea, Japan, Thailand, Singapore and China.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/12/ulink-1.svg",
+		      "industry": "Information Technology",
+		      "customer": "Ulink",
+		      "country": "TW",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/ulink/"
+	    	}, {
+		      "title": "Blockchain specialist Chainstack reduces TCO by 30% using Virtuozzo Hybrid Cloud",
+		      "description": "Chainstack provides a managed blockchain platform for developers building decentralized applications, trading applications, or any application that depends on a secure, unalterable ledger of transactions.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/12/chainstack-logo.svg",
+		      "industry": "Information Technology",
+		      "customer": "Chainstack",
+		      "country": "SG",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/chainstack/"
+	    	}, {
+		      "title": "Newfold Digital International unifies its technology stack with Virtuozzo Hybrid Server",
+		      "description": "Newfold Digital International provides a comprehensive range of web-presence solutions, including web and Wordpress hosting, email hosting, server hosting, domain name registration, online marketing tools and related web technologies, in global markets including the Asia Pacific region and the United Kingdom.",
+		      "image_url": "Chainstack provides a managed blockchain platform for developers building decentralized applications, trading applications, or any application that depends on a secure, unalterable ledger of transactions.",
+		      "industry": "Information Technology",
+		      "customer": "Newfold",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/newfold/"
+	    	}, {
+		      "title": "DT reinvents as a Digital Platform enabler using Virtuozzo Hybrid Infrastructure",
+		      "description": "The Turkey-based company first launched in 2006 as a systems integrator focused on information and communication technology (ICT) installations. Over time, DT identified a growing opportunity in telecommunications and ultimately established itself as a key player in Turkey’s telecom innovation boom—creating a strong carrier infrastructure, delivering 2G, 3G and subsequently 4G mobile access networks to thousands of sites nationwide.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/11/dt-logo.svg",
+		      "industry": "Information Technology",
+		      "customer": "DT",
+		      "country": "TR",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/dt-technology-group/"
+	    	}, {
+		      "title": "Stock Distribuidora builds its Latin America cloud business with Virtuozzo Hybrid Infrastructure",
+		      "description": "Stock, a leading Brazilian distributor, partners with Virtuozzo to enable Anything-as-a-Service for MSPs and CSPs across South America, through its reseller network.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/10/Stock-logo_2-01.svg",
+		      "industry": "Information Technology",
+		      "customer": "Stock Distribution",
+		      "country": "BR",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/stock/"
+	    	}, {
+		      "title": "Cloud South embarks on its next growth phase with Virtuozzo Hybrid Infrastructure",
+		      "description": "By 2013 Cloud South had diversified into dedicated servers and the nascent cloud space. Today it owns two Tier 4 datacenters and manages some 3,500 servers for customers across the Americas, and as far afield as India, Romania and Vietnam.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/10/cloud-south_logo.png",
+		      "industry": "",
+		      "customer": "Cloud South",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/cloud-south/"
+	    	}, {
+		      "title": "Easy On Net launches next-gen reseller cloud, powered by Virtuozzo Hybrid Infrastructure",
+		      "description": "Easy On Net is a new cloud service that offers fully isolated, high-performance infrastructure for MSPs and hosting resellers, without the drawbacks of traditional shared hosting.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/10/easy-on-net_logo.svg",
+		      "industry": "Information Technology",
+		      "customer": "EasyOnet",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/easy-on-net/"
+	    	}, {
+		      "title": "Prov.net Launches Alpha3 Cloud, Powered by Virtuozzo Hybrid Infrastructure",
+		      "description": "Alpha3 Cloud, the latest innovation from Prov.net, offers a better alternative to hyperscale cloud for MSPs, CSPs, ISV, enterprise and telco customers – reducing virtualization costs, optimizing cloud spend, improving productivity and decreasing time-to-market.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/10/prov.net_.svg",
+		      "industry": "Information Technology",
+		      "customer": "Prov.Net",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/prov-net-alpha3-cloud/"
+	    	}, {
+		      "title": "A Win-Win for Joe’s Datacenter with Virtuozzo Hybrid Infrastructure",
+		      "description": "Joe’s Datacenter is a successful U.S. Cloud Service Provider with a unique brand and ethos. Founded by Joe Morgan in 2008, Joe’s has grown to become a full-service cloud provider with customers across the U.S. and internationally.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/07/joes-datacenter-logo-1.png",
+		      "industry": "Information Technology",
+		      "customer": "Joe's Datacenter",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/joes-datacenter/"
+	    	}, {
+		      "title": "The Game Changer for TLine: Virtuozzo Hybrid Infrastructure",
+		      "description": "From its roots as a hardware reseller, to becoming a full cloud service provider and the first digital solutions broker in Latin America, TLine makes digital transformation easy for its SME and MSP customers.",
+		      "image_url": "https://static.virtuozzo.com/wp-content/uploads/2021/09/tline-logo-color.svg",
+		      "industry": "Information Technology",
+		      "customer": "Tline",
+		      "country": "US",
+		      "language": "en",
+		      "success_case_url": "https://www.virtuozzo.com/resources/case-studies/tline/"
+	    	}]
     }, {
         "title": "OpenVZ",
 		"logo_url": "https://openvz.org/img/logo.png",
@@ -161,7 +269,7 @@
 			"title": "Scaleway",
 			"similar_solution_url": "https://www.scaleway.com/",
 			"category": "Compute Virtualisation"
-		}, {
+		},{
 			"title": "Clever Cloud",
 			"similar_solution_url": "https://www.clever-cloud.com/",
 			"category": "Compute Virtualisation"
