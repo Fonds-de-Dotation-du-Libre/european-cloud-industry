@@ -35,28 +35,28 @@
 		"staff": "14",
 		"earnings": "23 685 EUR",
 		"total_assets": "1 855 717 EUR",
-		"revenues": "	1 880 824 EUR",
+		"revenues": "1 880 824 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
 	}, {
 		"year": "2018",
 		"staff": "",
 		"earnings": "13 392 EUR",
 		"total_assets": "1 671 247 EUR",
-		"revenues": "	1 534 404 EUR",
+		"revenues": "1 534 404 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
 	}, {
 		"year": "2017",
 		"staff": "",
 		"earnings": "188 655 EUR",
 		"total_assets": "1 882 188 EUR",
-		"revenues": "	1 885 183 EUR",
+		"revenues": "1 885 183 EUR",
 		"source_url": "https://www.verif.com/bilans-gratuits/ALINTO-429242738/"
 	}],
   "solution_list": [{
     "title": "SoGoMail",
     "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
     "website_url": "https://www.alinto.com/professional-mail-server-sogomail/",
-    "created_year": ,
+    "created_year": "",
     "description": "Powerful business-class mail server for organisations looking for a proven European alternative to Microsoft Exchange.",
     "category_list": ["Networking"],
     "similar_solution_list": [{
@@ -95,7 +95,7 @@
     "title": "CleanMail",
     "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
     "website_url": "https://www.alinto.com/email-security-relay-cleanmail/",
-    "created_year": ,
+    "created_year": "",
     "description": "Protect your organisation from cyber-risks. Cleanmail protects you from all dangers and keeps your business email communications free from unwanted elements.",
     "category_list": ["Networking"],
     "similar_solution_list": [],
@@ -113,7 +113,7 @@
     "title": "SerenaMail",
     "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
     "website_url": "https://www.alinto.com/smtp-mail-relay-serenamail/",
-    "created_year": ,
+    "created_year": "",
     "description": "https://www.alinto.com/smtp-mail-relay-Secure%20SMTP%20relay%20for%20companies%20with%20high%20email%20volumes%20Send%20your%20transactional%20emails%20with%20confidence%20from%20your%20IP%20addresses%20and%20domains.%20No%20worries!%20Serenamail%20protects%20your%20network%20reputation%20and%20maximises%20email%20deliverability./",
     "category_list": ["Networking"],
     "similar_solution_list": [],
@@ -126,12 +126,12 @@
     "commercial_support_available": true,
     "wikipedia_url": "",
     "reference_list": [],
-    "success_case_list": ]
+    "success_case_list": []
   }, {
     "title": "SoGo Open Source",
     "logo_url": "https://www.alinto.com/wp-content/uploads/2022/03/server.svg",
     "website_url": "https://www.sogo.nu/",
-    "created_year": "2009",
+    "+_year": "2009",
     "description": "SOGo is a fully supported and trusted groupware server with a focus on scalability and open standards. SOGo is released under the GNU GPL/LGPL v2 and above. SOGo provides a rich AJAX-based Web interface and supports multiple native clients through the use of standard protocols such as CalDAV, CardDAV and GroupDAV, as well as Microsoft ActiveSync. SOGo is the missing component of your infrastructure; it sits in the middle of your servers to offer your users a uniform and complete interface to access their information. It has been deployed in production environments where thousands of users are involved.",
     "category_list": ["Networking"],
     "similar_solution_list": [{
@@ -142,7 +142,7 @@
     "licence_list": ["GPL v2.0"],
     "source_code_download": "https://www.sogo.nu/download.html",
     "source_code_profile": "https://www.openhub.net/p/sogo/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.openhub.net/p/sogo"",
+    "commercial_support_url": "https://www.openhub.net/p/sogo",
     "floss_software": true,
     "commercial_support_open_source_version": true,
     "commercial_support_available": true,
