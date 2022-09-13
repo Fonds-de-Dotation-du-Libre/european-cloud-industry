@@ -1,0 +1,51 @@
+{
+	"created": "2022-04-14",
+	"title": "OpenIO",
+	"type": "Organisation",
+	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
+	"location": {
+		"title": "OpenIO SAS",
+		"address": "2 Rue Kellermann",
+		"postal_code": "59100",
+		"city": "Roubaix",
+		"country": "FR",
+		"phone_contact": "",
+		"mail_contact": "sales@openio.io",
+		"coordinate_list": [50.69171464832008, 3.2015353870994447]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.openio.io/",
+	"founded_year": 2015,
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "OpenIO Object store",
+		"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/OpenIO_Logo.svg/1200px-OpenIO_Logo.svg.png",
+		"website_url": "https://www.openio.io/opensource",
+		"created_year": 2015,
+		"description": "OpenIO is a software-defined open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-learning ConsciousGrid™ technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premises or cloud-hosted, on any hardware that you choose.",
+		"category_list": ["Storage and database"],
+		"similar_solution_list": [{
+			"title": "Amazon simple Storage Service",
+			"similar_solution_url": "https://aws.amazon.com/s3/",
+			"category": "Storage and database"
+		}, {
+			"title": "IBM Cloud Object Storage",
+			"similar_solution_url": "https://www.ibm.com/cloud/object-storage",
+			"category": "Storage and database"
+		}, {
+			"title": "Google Cloud Storage",
+			"similar_solution_url": "https://cloud.google.com/storage",
+			"category": "Storage and database"
+		}],
+		"licence_list": ["AGPL v3.0", "LGPL v3.0"],
+		"source_code_download": "https://github.com/open-io/oio-sds",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
+		"reference_list": [],
+		"success_case_list": []
+	}]
+}
