@@ -53,57 +53,161 @@
 		"source_url": "https://www.societe.com/bilan/outscale-527594493201612311.html"
 	}],
 	"solution_list": [{
-		"title": "Program Cloud Sprint",
+		"title": "Outscale Compute (VM)",
 		"logo_url": "https://fr.outscale.com/wp-content/uploads/2016/05/logo_cloud_sprint_couleurs-01-1-300x66.png",
-		"website_url": "https://fr.outscale.com/programme-cloud-sprint/",
-		"created_year": 2010,
-		"description": "Cloud Sprint is an intensive hands-on workshop that accelerates a customer's application migration to Google Cloud Platform (GCP).",
-		"category_list": ["Application"],
-		"similar_solution_list": [],
+		"website_url": "https://en.outscale.com/virtual-machines/",
+		"created_year": "",
+		"description": "The FCU (Flexible Compute Unit) resource, enables you to easily configure and manage your Cloud resources.",
+		"category_list": ["Compute Virtualisation"],
+		"similar_solution_list": [{
+		      "title": "VM Ware",
+		      "similar_solution_url": "https://www.virtualbox.org/",
+		      "category": "Compute virtualisation"
+	    	},{
+		      "title": "Proxmox Virtual Environment",
+		      "similar_solution_url": "https://www.proxmox.com/",
+		      "category": "Compute virtualisation"
+	    	},{
+		      "title": "SlapOS",
+		      "similar_solution_url": "https://slapos.nexedi.com/",
+		      "category": "Compute virtualisation"
+	    	}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://support.outscale.com/hc/fr-fr",
+		"commercial_support_url": "https://en.outscale.com/technical-support/",
 		"floss_software": false,
-		"commercial_support_open_source_version": true,
+		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
 		"reference_list": [],
-		"success_case_list": []
+		"success_case_list": [{
+			"title": "Artificial Intelligence in the Cloud serving industry 4.0",
+			"description": "Connect Your Machine (CYM) is a start-up that offers predictive maintenance solutions based on Artificial Intelligence. These enable companies to monitor and analyze the behavior of their machines, in order to define models for smooth operation and anticipate failures.",
+			"image_url": "https://en.outscale.com/wp-content/uploads/2018/09/logo-CYM-300x151.jpg",
+			"industry": "Information Technology",
+			"customer": "CYM",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://en.outscale.com/solutions-usages/artificial-intelligence-in-the-cloud-serving-industry-4-0/"
+		}, {
+			"title": "Securing SaaS application data by Design",
+			"description": "Tanker is an “ Encryption as a Service” platform dedicated to SaaS solution publishers that wish to guarantee the ownership and security of their data. The platform is available on desktop, web and mobile, guarantees ownership, security and integrity to the users of these services and natively secures the data managed and hosted by Cloud services, in a few lines of code during the development phase, without the need for security expertise. The goal is to enable applications with Tanker to have ANSSI (French national cybersecurity agency) certification, after a quick quality audit carried out by an external laboratory.",
+			"image_url": "https://en.outscale.com/wp-content/uploads/2018/07/Tanker.png",
+			"industry": "Information Technology",
+			"customer": "Tanker",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://en.outscale.com/solutions-usages/securing-saas-application-data-by-design/"
+		}]
 	}, {
-		"title": "Outscale for Entrepreneurs",
-		"logo_url": "https://en.outscale.com/wp-content/uploads/2019/03/Hexagone_O4E.png",
-		"website_url": "https://en.outscale.com/outscale-for-entrepreneurs/",
-		"created_year": 2010,
-		"description": "OUTSCALE for Entrepreneurs’ mission is to support fast-growing startups that encourage sustainable and responsible innovations, placing people at the heart of technological concerns for current and future generations, and enabling the industrial control of their growth.",
-		"category_list": ["Operation management"],
-		"similar_solution_list": [],
+		"title": "Outscale Network",
+		"logo_url": "https://fr.outscale.com/wp-content/uploads/2016/05/logo_cloud_sprint_couleurs-01-1-300x66.png",
+		"website_url": "https://en.outscale.com/networks/",
+		"created_year": "",
+		"description": "3DS OUTSCALE has deployed a global network infrastructure based on the latest generation technologies",
+		"category_list": ["Networking"],
+		"similar_solution_list": [{
+			"title": "Akami",
+			"similar_solution_url": "https://www.akamai.com/",
+			"category": "Networking"
+		}, {
+			"title": "Fastly",
+			"similar_solution_url": "https://www.fastly.com/",
+			"category": "Networking"
+		}, {
+			"title": "Cloudflare",
+			"similar_solution_url": "https://www.cloudflare.com/",
+			"category": "Networking"
+		}],
 		"licence_list": [],
-		"source_code_download": "https://github.com/outscale/",
-		"source_code_profile": "",
-		"commercial_support_url": "https://support.outscale.com/hc/fr-fr",
-		"floss_software": false,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "3D Outscale",
-		"logo_url": "https://en.outscale.com/wp-content/uploads/2019/03/Hexagone_O4E.png",
-		"website_url": "https://en.outscale.com/outscale-for-entrepreneurs/",
-		"created_year": 2010,
-		"description": "Founded in 2010 and a strategic partner of Dassault Systèmes, 3DS OUTSCALE is at the forefront of Cloud Computing infrastructure services (IaaS). 3DS OUTSCALE’s technology makes an automated and adaptable Cloud available to businesses, supporting them in the most complex IT projects while controlling their operational aspects. You boost your IT infrastructure’s reactivity, with request responses that only take a few seconds.",
-		"category_list": ["Operation management"],
-		"licence_list": ["BSD 3-clause new or revised"],
-		"source_code_download": "https://github.com/outscale/osc-cli",
+		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://en.outscale.com/technical-support/",
 		"floss_software": false,
 		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
+		"commercial_support_available": false,
 		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
 		"reference_list": [],
 		"success_case_list": []
+	}, {
+		"title": "Outscale Storage",
+		"logo_url": "https://fr.outscale.com/wp-content/uploads/2016/05/logo_cloud_sprint_couleurs-01-1-300x66.png",
+		"website_url": "https://en.outscale.com/storage/",
+		"created_year": "",
+		"description": "Secure, sovereign storage solutions that guarantee flexibility and scalability.",
+		"category_list": ["Storage and Database"],
+		"similar_solution_list": [{
+			"title": "EUbackups",
+			"similar_solution_url": "https://eubackups.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Nextcloud",
+			"similar_solution_url": "https://nextcloud.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Dropbox",
+			"similar_solution_url": "https://www.dropbox.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "Tresorit",
+			"similar_solution_url": "https://tresorit.com/",
+			"category": "Storage and database"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://en.outscale.com/technical-support/",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": false,
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Collecting and analysing web data in real time",
+			"description": "Belogik is a SaaS software solution that can collect, gather and analyse any kind of machine data from the web in real time. The solution is based on Elastic Search technology and the Python programming language. The whole application is designed to use Amazon APIs.",
+			"image_url": "",
+			"industry": "Information Technology",
+			"customer": "Belogik",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://en.outscale.com/solutions-usages/collecting-and-analysing-web-data-in-real-time/"
+		}]
+	}, {
+		"title": "Outscale Virtual Private Cloud",
+		"logo_url": "https://fr.outscale.com/wp-content/uploads/2016/05/logo_cloud_sprint_couleurs-01-1-300x66.png",
+		"website_url": "https://en.outscale.com/virtual-private-cloud-vpc/",
+		"created_year": "",
+		"description": "3DS OUTSCALE Virtual Private Cloud provides a space of Cloud resources totally isolated from other Cloud resources.",
+		"category_list": ["Compute Virtualisation"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://en.outscale.com/technical-support/",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": false,
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Outscale",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Deployment of Open Data portals in the Cloud",
+			"description": "OpenDataSoft, the Open Data leader, is developing an online platform designed for the rapid and economical transformation of all types of data into innovative services. Provided in SaaS (Software as a Service) mode, the OpenDataSoft solution enables public and private organizations to build data portals to be used either on-premise, or in public mode within the framework of open data projects. This solution facilitates the publication, viewing, sharing and re-use of API (Application Programming Interface) data by business users with no volume limit.",
+			"image_url": "https://en.outscale.com/wp-content/uploads/2018/04/opendatasoft_logo-300x67.png",
+			"industry": "Information Technology",
+			"customer": "OpenDataSoft",
+			"country": "fr",
+			"language": "en",
+			"success_case_url": "https://en.outscale.com/solutions-usages/deployment-of-open-data-portals-in-the-cloud/"
+		}, {
+			"title": "Secure Sharing of Sensitive Data on a Sovereign Cloud",
+			"description": "LockSelf is a French publisher specialized in cybersecurity that offers organizations a secure digital safe. After 3 years of R&D, LockSelf entered the market in 2018 and obtained the First Level Security Certification (CSPN), delivered by the National Cybersecurity Agency of France (ANSSI), immediately afterwards. The LockSelf safe is a suite of encryption solutions for organizations needing to secure the management and sharing of data on a daily basis. It integrates seamlessly with employees’ working environments and usage. Today, LockSelf works with more than 200 companies, mainly in France, from small businesses to large groups, with a focus on the health, public and banking sectors, as well as on consulting and legal professions.",
+			"image_url": "https://en.outscale.com/wp-content/uploads/2020/10/logo_lockself_colors-1.png",
+			"industry": "Information Technology",
+			"customer": "Lock Self",
+			"country": "FR",
+			"language": "en",
+			"success_case_url": "https://en.outscale.com/solutions-usages/secure-sharing-of-sensitive-data-on-a-sovereign-cloud/"
+		}]
 	}]
 }
