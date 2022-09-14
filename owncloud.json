@@ -56,7 +56,7 @@
 		"title": "ownCloud",
 		"logo_url": "https://owncloud.com/wp-content/uploads/2020/06/oc-logo-1c-1.svg",
 		"website_url": "https://owncloud.com/product/",
-		"created_year": "",
+		"created_year": "2010",
 		"description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device. It allows some integrations such as Microsoft, Collabora online, VNC and ONLYOFFICE.",
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
@@ -262,28 +262,6 @@
 			"country": "US",
 			"industry": "Information Technology"
 		}],
-		"success_case_list": []
-	}, {
-		"title": "ownCloud.online",
-		"logo_url": "https://owncloud.online/wp-content/themes/ownCloud.online/assets/img/logo-ownCloud-online.svg",
-		"website_url": "https://owncloud.online/",
-		"created_year": "",
-		"description": "Secure cloud storage for your data. Convenient collaboration for your team.",
-		"category_list": ["Storage and database"],
-		"similar_solution_list": [{
-			"title": "Dropbox",
-			"similar_solution_url": "https://www.dropbox.com/",
-			"category": "Storage and database"
-		}],
-		"licence_list": "",
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
 		"success_case_list": []
 	}]
 }
