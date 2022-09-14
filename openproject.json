@@ -51,77 +51,47 @@
 		"total_assets": "1 504 384 EUR",
 		"revenues": "",
 		"source_url": "https://www.bundesanzeiger.de/"
-	}, {
-		"year": 2014,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "1 438 235 EUR",
-		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/"
-	}, {
-		"year": 2013,
-		"staff": "",
-		"earnings": "",
-		"total_assets": "1 188 022 EUR",
-		"revenues": "",
-		"source_url": "https://www.bundesanzeiger.de/"
 	}],
 	"solution_list": [{
-		"title": "OpenProject Timeline",
-		"logo_url": "",
-		"website_url": "https://www.openproject.org/collaboration-software-features/timeline-project-management/",
-		"created_year": "",
-		"description": "The timeline project management lets the user schedule asks and visualize the required steps to complete a project while being updated automatically in sync with the Gantt Chart, so the team is always informed about the current status, or possible delays and can act accordingly.",
-		"category_list": ["Workspace"],
+		"title": "OpenProject",
+		"logo_url": "https://www.openproject.org/assets/images/press/openproject-logo-original-color-96caa456.png",
+		"website_url": "https://www.openproject.org/",
+		"created_year": "2012",
+		"description": "Open source project management software for classic, agile or hybrid project management: task management, Gantt charts, boards team collaboration, time and cost reporting",
+		"category_list": ["Application"],
 		"similar_solution_list": [{
 			"title": "Monday",
 			"similar_solution_url": "https://monday.com/lang/fr/",
-			"category": "Workspace"
+			"category": "Application"
 		}, {
-			"title": "Notion",
-			"similar_solution_url": "https://www.notion.so/fr-fr",
-			"category": "Workspace"
-		}, {
+            "title": "Jira",
+            "similar_solution_url": "https://www.atlassian.com",
+            "category": "Application"
+        }, {
 			"title": "Trello",
 			"similar_solution_url": "https://trello.com/",
-			"category": "Workspace"
-		}, {
-			"title": "Quire",
-			"similar_solution_url": "https://quire.io/",
-			"category": "Workspace"
+			"category": "Application"
 		}, {
 			"title": "Asana",
-			"similar_solution_url": "https://asana.com/fr",
-			"category": "Workspace"
+			"similar_solution_url": "https://asana.com/",
+			"category": "Application"
 		}, {
 			"title": "Redmine",
 			"similar_solution_url": "https://www.redmine.org/",
-			"category": "Workspace"
+			"category": "Application"
 		}, {
 			"title": "Basecamp",
 			"similar_solution_url": "https://basecamp.com/",
-			"category": "Workspace"
-		}, {
-			"title": "taiga.io",
-			"similar_solution_url": "https://www.taiga.io/",
-			"category": "Workspace"
-		}, {
-			"title": "Clickup",
-			"similar_solution_url": "https://clickup.com/",
-			"category": "Workspace"
-		}, {
-			"title": "Amazing Marvin",
-			"similar_solution_url": "https://amazingmarvin.com/",
-			"category": "Workspace"
+			"category": "Application"
 		}],
 		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/opf",
-		"source_code_profile": "",
-		"commercial_support_url": "",
+		"source_code_profile": "https://www.openhub.net/p/openproject/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.openproject.org/pricing/#support",
 		"floss_software": true,
 		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenProject",
 		"reference_list": [{
 			"title": "TMM Group",
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-tmm-group-95a460ad.svg",
@@ -272,145 +242,7 @@
 			"logo_url": "https://www.openproject.org/assets/images/logos/openproject-customer-cmu-27151eae.svg",
 			"country": "US",
 			"industry": "Academia and Research"
-		}],
-		"success_case_list": []
-	}, {
-		"title": "OpenProject Agile & Scrum",
-		"logo_url": "",
-		"website_url": "https://www.openproject.org/collaboration-software-features/scrum-agile-boards/",
-		"created_year": "",
-		"description": "The flexible Scrum and Agile Boards in OpenProject are designed to organize and prioritize teams’ work, keep an eye on everything that is important such as managing tasks, developing new features, and visualize the progress of work to be done in a project through unlimited boards, cards and lists that can be shared to facilitate collaborative work.",
-		"category_list": ["Workspace"],
-		"similar_solution_list": [],
-		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/opf",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "OpenProject Task Management",
-		"logo_url": "",
-		"website_url": "https://www.openproject.org/collaboration-software-features/task-management-software/",
-		"created_year": "",
-		"description": "OpenProject's task management software enables easy management of  work by creating, assigning tasks and keeping an eye on the teams’ progression thanks to the dynamic task list. Project planning is also made simpler with the Gantt Chart that allows you to navigate between projeects and set dates and relationships between tasks.",
-		"category_list": ["Workspace"],
-		"similar_solution_list": [],
-		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/opf",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "OpenProject Time Tracking",
-		"logo_url": "",
-		"website_url": "https://www.openproject.org/collaboration-software-features/time-tracking-software/",
-		"created_year": "",
-		"description": "OpenProject enables professional project controlling and cost analysis. Time and costs can be easily tracked on tasks and budget dashboards provide a top-level overview of budgets as well as a detailed analysis of time and costs.",
-		"category_list": ["Workspace"],
-		"similar_solution_list": [],
-		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/opf",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "OpenProject Bug Tracking",
-		"logo_url": "",
-		"website_url": "https://www.openproject.org/collaboration-software-features/bug-tracking-software/",
-		"created_year": "",
-		"description": "OpenProject enables structured software testing and bug tracking with detailed views on priorities, statuses and activities as well as customized workflows that allow best tracking and visibility, and provide an optimal base for decisions.",
-		"category_list": ["Workspace"],
-		"similar_solution_list": [],
-		"licence_list": ["AGPL v3.0"],
-		"source_code_download": "https://github.com/opf",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "OpenProject Roadmap",
-		"logo_url": "",
-		"website_url": "https://www.openproject.org/collaboration-software-features/product-roadmap-software/",
-		"created_year": "",
-		"description": "The product Roadmap communicates what you are building and why you are working on this, providing an overview across multiple projects, a visual timeline to witness the progress, analyzes statuses, priorities assignments to only provide informations to authorized users.",
-		"category_list": ["Workspace"],
-		"similar_solution_list": [{
-			"title": "Monday.com",
-			"similar_solution_url": "https://monday.com/",
-			"category": "Workspace"
 		}, {
-			"title": "Trello",
-			"similar_solution_url": "https://trello.com/home",
-			"category": "Workspace"
-		}, {
-			"title": "Project Manager",
-			"similar_solution_url": "https://www.projectmanager.com/",
-			"category": "Workspace"
-		}, {
-			"title": "Basecamp",
-			"similar_solution_url": "https://basecamp.com/",
-			"category": "Workspace"
-		}, {
-			"title": "Redmine",
-			"similar_solution_url": "https://www.redmine.org/",
-			"category": "Workspace"
-		}, {
-			"title": "Asana",
-			"similar_solution_url": "https://asana.com/",
-			"category": "Workspace"
-		}, {
-			"title": "ZenTao",
-			"similar_solution_url": "https://www.zentao.pm/",
-			"category": "Workspace"
-		}, {
-			"title": "Campr",
-			"similar_solution_url": "https://campr.biz/",
-			"category": "Workspace"
-		}, {
-			"title": "Roadmap Planner",
-			"similar_solution_url": "https://www.roadmap-planner.io/",
-			"category": "Workspace"
-		}, {
-			"title": "Jira",
-			"similar_solution_url": "https://www.atlassian.com/software/jira",
-			"category": "Workspace"
-		}, {
-			"title": "Wrike",
-			"similar_solution_url": "https://www.wrike.com/vm/",
-			"category": "Workspace"
-		}, {
-			"title": "TeamGantt",
-			"similar_solution_url": "https://www.teamgantt.com/",
-			"category": "Workspace"
-		}],
-		"licence_list": ["AGPL v.3.0"],
-		"source_code_download": "https://github.com/opf/openproject.git",
-		"source_code_profile": "https://www.openhub.net/p/openproject/analyses/latest/languages_summary",
-		"commercial_support_url": "https://www.openproject.org/pricing/",
-		"floss_software": true,
-		"commercial_support_open_source_version": true,
-		"commercial_support_available": true,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/OpenProject",
-		"reference_list": [{
 			"title": "Go~Mus",
 			"logo_url": "https://gomus.de/wp-content/uploads/2020/09/gomusLogo_green.svg",
 			"country": "DE",
@@ -536,6 +368,78 @@
 			"country": "DE",
 			"industry": "Associations and NGOs"
 		}],
-		"success_case_list": []
+		"success_case_list": [{
+			"title": "The innovative IT team of Greenpeace is using OpenProject to channel all incoming requests and turn them into tasks or projects.",
+			"description": "OpenProject for Greenpeace serves as a ticketing tool thanks to a customized plug in. All incoming IT requests can be converted from email into a task, assigned to a person, to a project or even a new project can be created from a ticket. The workflow in OpenProject allows to document all information and enables to work in a flat structure.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/greenpeace-teaser-36b4ed52.webp",
+			"industry": "Associations and NGOs",
+			"customer": "Greenpeace",
+			"country": "US",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-ngos-foundations/case-study-greenpeace/"
+		},{
+			"title": "The Linux Professional Institute is using OpenProject to keep track of projects and collects all project-related information in one place.",
+			"description": "Linux Professional Institute is using OpenProject across a wide variety of projects. One of the amazing projects managed with OpenProject was the release of the open source portal FOSSlife. Even after release, the team kept on using it to work on improvements and additional portal features. Creating some of the LPI programs wouldn’t be easy without the support of the OpenProject tool.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/lpi-teaser-39fb1eb5.webp",
+			"industry": "Associations and NGOs",
+			"customer": "Linux Professional Institute",
+			"country": "CA",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-ngos-foundations/case-study-linux-professional-institute/"
+		},{
+			"title": "With OpenProject, the District Office Enzkreis facilitates the information exchange between the project team members. It also uses it to visualize the project’s timeline.",
+			"description": "The District Office Enzkreis is using OpenProject for different types of projects as it offers a variety of features and adapts to each project. One example is the implementation of the federal participation act (‘Bundesteilhabegesetz’) where several people from within the District Office Enzkreis but also external parties formed part of the project team. The Enzkreis also used OpenProject for personnel development and the accompanying change management. Project members were invited to share information and participate and the whole process was made more interactive.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/enzkreis-teaser-f7ccd491.webp",
+			"industry": "Public Administration and Government",
+			"customer": "Enzkreis",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-public-sector/case-study-district-office-enzkreis/"
+		},{
+			"title": "The Rehabilitation Clinic Bellikon uses OpenProject to manage portfolio projects and projects within departments",
+			"description": "The Bellikon Rehabilitation Clinic uses OpenProject for all strategic projects. Internal and external team members work together in OpenProject, which contains all project information. There are no additional documents stored on a drive. The Wiki is used instead of Excel or Word files to document contacts or requirements, accesses, product comparisons, FAQs, etc. Meetings are logged in OpenProject. This provides full transparency in the project. Everyone has access to all information at any time from any place.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/bellikon-teaser-c63ea9d6.webp",
+			"industry": "Health and Life Sciences",
+			"customer": "Reha Kliniki Bellikon",
+			"country": "CH",
+			"language": "en",
+			"success_case_url": ""
+		},{
+			"title": "go∼mus implements projects with many external partners and uses OpenProject for a transparent exchange of information and because of its simple, intuitive operation.",
+			"description": "go∼mus uses OpenProject for complex projects with heavy customer involvement. Also for projects with several subcontractors or consulting agencies on customer side, go∼mus likes to use OpenProject. In addition, features such as Gantt charts and work packages or even backlogs help go∼mus to clearly structure the projects. OpenProject is easy, flexible and intuitive. Since not all of go∼mus’s customers are tech-savvy, OpenProject allows go∼mus to involve its customers in projects.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/gomus-teaser-674f3cf1.webp",
+			"industry": "Information Technology",
+			"customer": "Go-mus",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-it-technology/case-study-go-mus/"
+		},{
+			"title": "Coburg University of Applied Sciences uses OpenProject in hybrid project management, to consolidate the teaching content in practice.",
+			"description": "Like many colleges and universities, the Coburg University of Applied Sciences is also under massive pressure from digitalization. In addition to the usual teaching formats, projects are becoming increasingly important at Coburg University of Applied Sciences in order to work in a more interdisciplinary way. This promotes not only methodological and professional skills, but also personal and social competence (teamwork). The Faculty of Economics at Coburg University of Applied Sciences uses OpenProject for the implementation of its projects. Learning groups of about 12 students work together on one project. The knowledge about project management, which was previously conveyed theoretically, is now being tested and consolidated in practice on the basis of a real project.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/coburg-teaser-a02da2c6.webp",
+			"industry": "Academia and Research",
+			"customer": "Coburg University of Applied Sciences",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-universities-research/case-study-coburg-university/"
+		},{
+			"title": "At the Technical University of Berlin OpenProject is used for the organization in the laboratory and for the planning of master theses.",
+			"description": "The research group at the TU Berlin investigates splitting of water for hydrogen production. The group is hierarchically structured with many interfaces and areas of responsibility. In the context of a company foundation, supported by the Federal Ministry of Economics and Energy, the working group uses OpenProject. OpenProject enables a high degree of transparency and speed in all organizational tasks for planning and coordinating the laboratory work ensure laboratory regulations. Does anything need to be installed? Which orders, such as chemicals, stirrers or vessels, need to be initiated? Furthermore, the research group coordinates their master theses, which are researching water splitting in the field of electrochemistry, via OpenProject.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/tuberlin-teaser-f9847a3a.webp",
+			"industry": "Academia and Research",
+			"customer": "Technical University of Berlin",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-universities-research/case-study-tu-berlin/"
+		},{
+			"title": "The HTK Hygiene Technology Competence Center uses OpenProject for hybrid project management and an overview of its projects.",
+			"description": "The HTK Hygiene Technology Competence Center uses OpenProject to develop hygiene concepts for different industries. With the help of a project timeline, the Gantt chart, the individual tasks and project phases can be processed easily. With the project overview the current status is available for the project manager at any time and can be communicated to stakeholders quickly and easily.",
+			"image_url": "https://www.openproject.org/assets/images/case-study/htk-teaser-5b76bdff.webp",
+			"industry": "Academia and Research",
+			"customer": "Hygiene Technologie Kompetenzzentrum",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://www.openproject.org/project-management-universities-research/case-study-htk/"
+		}]
 	}]
 }
