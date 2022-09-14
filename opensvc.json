@@ -1,7 +1,7 @@
 {
 	"created": "2022-03-29",
 	"title": "OpenSVC",
-	"type": "Other",
+	"type": "Organisation",
 	"logo_url": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
 	"location": {
 		"title": "OpenSVC SAS",
@@ -71,25 +71,25 @@
 			"title": "Virtuozzo/OnApp",
 			"similar_solution_url": "https://www.virtuozzo.com/onapp-information/",
 			"category": "Service lifecycle automation"
-    		}, {
+        }, {
 			"title": "Google Anthos",
 			"similar_solution_url": "https://cloud.google.com/anthos",
 			"category": "Service lifecycle automation"
-    		}, {
+        }, {
 			"title": "Kubernetes",
 			"similar_solution_url": "https://kubernetes.io/",
 			"category": "Service lifecycle automation"
-    		}, {
+        }, {
 			"title": "SlapOS",
 			"similar_solution_url": "https://slapos.nexedi.com/",
 			"category": "Service lifecycle automation"
-    		}],
-		"licence_list": ["GNU General Public License v2"],
-		"source_code_download": "https://github.com/opensvc/docs.opensvc.com.git",
+        }],
+		"licence_list": ["GPL v2.0"],
+		"source_code_download": "https://github.com/opensvc/opensvc",
 		"source_code_profile": "",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://www.opensvc.com/",
 		"floss_software": true,
-		"commercial_support_open_source_version": true,
+		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [{
