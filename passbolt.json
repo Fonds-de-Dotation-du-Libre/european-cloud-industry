@@ -4,9 +4,9 @@
 	"type": "Organisation",
 	"logo_url": "https://avatars.githubusercontent.com/u/4386228?s=200&v=4",
 	"location": {
-		"title": "Passbolt SA",
+        "title": "Passbolt SA",
 		"address": "9 Avenue des Hauts-Fourneaux",
-		"postal_code": "L-4362",
+		"postal_code": "4362",
 		"city": "Esch-sur-Alzette",
 		"country": "LU",
 		"phone_contact": "",
@@ -42,7 +42,7 @@
 			"category": "Identity"
 		}],
 		"licence_list": ["AGPL v.3.0"],
-		"source_code_download": "https://github.com/passbolt/passbolt_api.git",
+		"source_code_download": "https://github.com/passbolt/",
 		"source_code_profile": "https://www.openhub.net/p/passbolt/analyses/latest/languages_summary",
 		"commercial_support_url": "https://signup.passbolt.com/pricing/pro",
 		"floss_software": true,
@@ -57,7 +57,7 @@
 			"industry": "Information Technology",
 			"customer": "bitExpert",
 			"country": "DE",
-			"language": "de",
+			"language": "en",
 			"success_case_url": "https://blog.passbolt.com/passbolt-case-study-96b6d0d689c4"
 		}]
 	}]
