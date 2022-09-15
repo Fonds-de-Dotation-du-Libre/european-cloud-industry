@@ -14,7 +14,7 @@
 		"coordinate_list": [48.78882373253103, 2.058812520668313]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://www.oxibox.com/en/",
+	"website_url": "https://www.oxibox.com/",
 	"founded_year": 2014,
 	"kpi_list": [],
 	"solution_list": [{
@@ -25,59 +25,88 @@
 		"description": "Oxibox Resilient Storage plugs into your existing storage and Data Protection infrastructure to make backups immutable, protecting them from corruption by attackers. There's no need to overhaul your whole backup infrastructure: simply plug Oxibox Resilient Storage at the storage level. Your data silos are protected from malicious write operations thanks to our patented technology: historical snapshots are never write-accessible.",
 		"category_list": ["Storage and database"],
 		"similar_solution_list": [{
-			"title": "EaseUs Todo Backup",
-			"similar_solution_url": "https://www.easeus.fr/logiciel-de-sauvegarde/index.html",
+            "title": "EUbackups",
+			"similar_solution_url": "https://eubackups.com/",
 			"category": "Storage and database"
-		}, {
-			"title": "Storeware",
-			"similar_solution_url": "https://storware.eu/",
-			"category": "Storage and database"
-		}, {
-			"title": "Carbonite",
-			"similar_solution_url": "https://www.carbonite.com/",
-			"category": "Storage and database"
-		}, {
-			"title": "Datto Cloud Continuity",
-			"similar_solution_url": "https://www.datto.com/products/cloud-continuity/",
-			"category": "Storage and database"
-		}, {
-			"title": "IDrive",
-			"similar_solution_url": "https://www.idrive.com/fr/",
-			"category": "Storage and database"
-		}, {
-			"title": "StorCentric Retrospect",
-			"similar_solution_url": "https://storcentric.com/our-products/on-premises-cloud-backup/retrospect/",
-			"category": "Storage and database"
-		}, {
-			"title": "SafeStore",
-			"similar_solution_url": "http://safestor.fr/",
-			"category": "Storage and database"
-		}, {
-			"title": "Catalogic DPX",
-			"similar_solution_url": "https://solutionsreview.com/backup-disaster-recovery/catalogic-dpx/",
-			"category": "Storage and database"
-		}, {
-			"title": "Xopero",
-			"similar_solution_url": "https://xopero.com/",
-			"category": "Storage and database"
-		}, {
-			"title": "Commvault Backup & Recovery",
-			"similar_solution_url": "https://www.commvault.com/complete-data-protection/backup-and-recovery",
-			"category": "Storage and database"
-		}, {
-			"title": "Bocada",
-			"similar_solution_url": "https://www.bocada.com/",
+        }, {
+			"title": "Tresorit",
+			"similar_solution_url": "https://tresorit.com/",
 			"category": "Storage and database"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://www.oxibox.com/en/resources/support.php",
 		"floss_software": false,
-		"commercial_support_open_source_version": true,
+		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [],
+		"reference_list": [{
+            "title": "Culligan",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_culligan.jpg",
+            "country": "US",
+            "industry": "Energy and Utilities"
+        }, {
+            "title": "CEIS",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_ceis_fic.jpg",
+            "country": "FR",
+            "industry": "Consulting and Training"
+        }, {
+            "title": "SPB Group",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_spb.jpg",
+            "country": "FR",
+            "industry": "Insurance"
+        }, {
+            "title": "Chronopost",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_chronopost.jpg",
+            "country": "FR",
+            "industry": "Transport"
+        }, {
+            "title": "Ordre des Avocats",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_avocats.jpg",
+            "country": "FR",
+            "industry": "Consulting and Training"
+        }, {
+            "title": "Tredunion",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_tred_union.png",
+            "country": "FR",
+            "industry": "Transport"
+        }, {
+            "title": "Kangourou",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_kangouroukids.jpg",
+            "country": "FR",
+            "industry": "Commerce and Retail"
+        }, {
+            "title": "Orpi",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_orpi.jpg",
+            "country": "FR",
+            "industry": "Housing and Real Estate"
+        }, {
+            "title": "Agate",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_agate.jpg",
+            "country": "FR",
+            "industry": "Associations and NGOs"
+        }, {
+            "title": "Soluris",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_soluris.jpg",
+            "country": "FR",
+            "industry": "Information Technology"
+        }, {
+            "title": "MEDEF",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_medef.jpg",
+            "country": "FR",
+            "industry": "Associations and NGOs"
+        }, {
+            "title": "Airbus",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_airbus.jpg",
+            "country": "FR",
+            "industry": "Aviation and Aerospace"
+        }, {
+            "title": "Altarea Cogedim",
+            "logo_url": "https://www.oxibox.com/static/img/ref_oxibox_altarea_cogedim.jpg",
+            "country": "FR",
+            "industry": "Housing and Real Estate"
+        }],
 		"success_case_list": []
 	}, {
 		"title": "Oxibox Plug-and-Protect",
@@ -92,23 +121,19 @@
 			"category": "Cybersecurity"
 		}, {
 			"title": "Acronis Cyber Backup",
-			"similar_solution_url": "https://www.acronis.com/en-us/",
+			"similar_solution_url": "https://www.acronis.com/",
 			"category": "Cybersecurity"
 		}, {
 			"title": "BackupAssist",
 			"similar_solution_url": "https://www.backupassist.com/",
 			"category": "Cybersecurity"
-		}, {
-			"title": "Commvault Complete Data Protection",
-			"similar_solution_url": "https://www.commvault.com/complete-data-protection",
-			"category": "Cybersecurity"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "",
+		"commercial_support_url": "https://www.oxibox.com/en/resources/support.php",
 		"floss_software": false,
-		"commercial_support_open_source_version": true,
+		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
 		"reference_list": [],
