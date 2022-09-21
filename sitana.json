@@ -23,19 +23,19 @@
 		"website_url": "https://www.veks.net/pt/",
 		"created_year": "",
 		"description": "VEKS is a hosting management platform for your website. It allows you to consult the resources available on your server, create email accounts and associate other forwarding addresses for your domain, or even make specific settings for managing your hosting. It is available through our various packages of servers, virtual machines and cloud units.",
-		"category_list": ["Deverloper Environment"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [{
       "title": "Cloudways",
       "similar_solution_url": "https://www.cloudways.com/en/",
-      "category": "Deverloper Environment"
+      "category": "Developer environment"
     },{
       "title": "Heroku",
       "similar_solution_url": "https://www.heroku.com/",
-      "category": "Deverloper Environment"
+      "category": "Developer environment"
     },{
       "title": "Scalingo",
       "similar_solution_url": "https://scalingo.com/",
-      "category": "Deverloper Environment"
+      "category": "Developer environment"
     }],
 		"licence_list": [],
 		"source_code_download": "",
@@ -80,7 +80,7 @@
 		"website_url": "https://netuno.org/en/",
 		"created_year": "",
 		"description": "NETUNO is a platform for developing web-based enterprise software that works in the cloud or on-premises. It uses the latest technologies for the frontend and the most robust technologies for the backend. It can be applied in areas: industrial, administrative, management and many more. The versatility of Neptune allows its integration with a wide range of platforms, in order to improve and automate your business processes.",
-		"category_list": ["Deverloper Environment"],
+		"category_list": ["Developer environment"],
 		"similar_solution_list": [],
 		"licence_list": ["APL v2.0"],
 		"source_code_download": "https://netuno.org/en/download/",
