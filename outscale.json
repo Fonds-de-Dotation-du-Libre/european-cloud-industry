@@ -58,7 +58,7 @@
 		"website_url": "https://en.outscale.com/virtual-machines/",
 		"created_year": "",
 		"description": "The FCU (Flexible Compute Unit) resource, enables you to easily configure and manage your Cloud resources.",
-		"category_list": ["Compute Virtualisation"],
+		"category_list": ["Compute virtualisation"],
 		"similar_solution_list": [{
 		      "title": "VM Ware",
 		      "similar_solution_url": "https://www.virtualbox.org/",
@@ -179,7 +179,7 @@
 		"website_url": "https://en.outscale.com/virtual-private-cloud-vpc/",
 		"created_year": "",
 		"description": "3DS OUTSCALE Virtual Private Cloud provides a space of Cloud resources totally isolated from other Cloud resources.",
-		"category_list": ["Compute Virtualisation"],
+		"category_list": ["Compute virtualisation"],
 		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
