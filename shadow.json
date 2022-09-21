@@ -1,59 +1,55 @@
 {
-  "created": "2022-04-06",
-  "title": "Shadow",
-  "type": "Organisation",
-  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_Shadow_Cloud_Gaming.jpg/280px-Logo_Shadow_Cloud_Gaming.jpg",
-  "location": {
-    "title": "Shadow SAS",
-    "address": " 151 Rue Saint-Denis",
-    "postal_code": "75002",
-    "city": "Paris",
-    "country": "FR",
-    "phone_contact": "+33144502034",
-    "mail_contact": "thomas.beaufils@shadow.tech",
-    "coordinate_list": [48.86500300434563, 2.3503854922580616]
-  },
-  "subsidiary_location_list": ["US"],
-  "website_url": "https://shadow.tech/",
-  "founded_year": 2015,
-  "kpi_list": [],
-  "solution_list": [{
+    "created": "2022-04-06",
     "title": "Shadow",
-    "logo_url": "https://image.status.io/O5rcVj22OLaA.png",
-    "website_url": "https://shadow.tech/en-gb/",
-    "created_year": 2015,
-    "description": "Shadow gives you access to a full-featured high-end PC to run Windows-based applications on the devices you own.",
-    "category_list": ["Desktop virtualisation"],
-    "similar_solution_list": [{
-      "title": "GeForce Now",
-      "similar_solution_url": "https://www.nvidia.com/fr-fr/geforce-now/",
-      "category": "Desktop virtualisation"
-    },{
-      "title": "Google Stadia",
-      "similar_solution_url": "https://stadia.google.com/",
-      "category": "Desktop virtualisation"
-    },{
-      "title": "Vortex",
-      "similar_solution_url": "https://vortex.gg/",
-      "category": "Desktop virtualisation"
-    },{
-      "title": "Playstation Now",
-      "similar_solution_url": "https://www.playstation.com/en-us/ps-now/",
-      "category": "Desktop virtualisation"
-    },{
-      "title": "Xbox Cloud Gaming",
-      "similar_solution_url": "https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming",
-      "category": "Desktop virtualisation"
-    }],
-    "licence_list": ["Proprietary"],
-    "source_code_download": "",
-    "source_code_profile": "",
-    "commercial_support_url": "https://shop.shadow.tech/plans",
-    "floss_software": false,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shadow.tech",
-    "reference_list": [],
-    "success_case_list": []
-  }]
+    "type": "Organisation",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_Shadow_Cloud_Gaming.jpg/280px-Logo_Shadow_Cloud_Gaming.jpg",
+    "location": {
+        "title": "Shadow SAS",
+        "address": " 151 Rue Saint-Denis",
+        "postal_code": "75002",
+        "city": "Paris",
+        "country": "FR",
+        "phone_contact": "+33144502034",
+        "mail_contact": "thomas.beaufils@shadow.tech",
+        "coordinate_list": [48.86500300434563, 2.3503854922580616]
+    },
+    "subsidiary_location_list": ["US"],
+    "website_url": "https://shadow.tech/",
+    "founded_year": 2015,
+    "kpi_list": [],
+    "solution_list": [{
+        "title": "Shadow",
+        "logo_url": "https://image.status.io/O5rcVj22OLaA.png",
+        "website_url": "https://shadow.tech/en-gb/",
+        "created_year": 2015,
+        "description": "Shadow gives you access to a full-featured high-end cloud-based PC to run Windows-based applications on the devices you own. Its technology is based on Windows 10 servers executing video games or other Windows software applications remotely. Unlike many other cloud services such as Google Stadia, Nvidia GeForce Now, or Amazon Luna, Shadow is not limited to running video games, as Shadow.tech provides remote access to a complete PC infrastructure",
+        "category_list": ["Desktop virtualisation"],
+        "similar_solution_list": [{
+            "title": "Google Stadia",
+            "similar_solution_url": "https://stadia.google.com/",
+            "category": "Desktop virtualisation"
+        },{
+            "title": "Vortex",
+            "similar_solution_url": "https://vortex.gg/",
+            "category": "Desktop virtualisation"
+        }, {
+            "title": "Nvidia GeForce Now",
+            "similar_solution_url":"https://www.nvidia.com/en-us/geforce-now/",
+            "category": "Desktop virtualisation"
+        }, {
+            "title": "Amazon Luna",
+            "similar_solution_url":"https://www.amazon.com/luna/landing-page",
+            "category": "Desktop virtualisation"
+        }],
+        "licence_list": [],
+        "source_code_download": "",
+        "source_code_profile": "",
+        "commercial_support_url": "https://shop.shadow.tech/plans",
+        "floss_software": false,
+        "commercial_support_open_source_version": false,
+        "commercial_support_available": true,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shadow.tech",
+        "reference_list": [],
+        "success_case_list": []
+    }]
 }
