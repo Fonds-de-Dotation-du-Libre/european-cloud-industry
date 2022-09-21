@@ -53,7 +53,7 @@
     "website_url": "https://rauc.io/",
     "created_year": "",
     "description": "RAUC is a lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision. RAUC is also the tool on your host system that lets you create, inspect and modify update artifacts for your device.",
-    "category_list": ["Software Lifecycle Automation"],
+    "category_list": ["Service lifecycle automation"],
     "similar_solution_list": [{
 			"title": "Torizon",
 			"similar_solution_url": "https://www.toradex.com/",
