@@ -1,11 +1,8 @@
 {
-	"created": "2022-03-17",
-	"title": "Shinken",
+    "created": "2022-03-17",
+    "title": "Shinken",
 	"type": "Organisation",
 	"logo_url": "http://static.shinken.io/img/Logoframeworkblack.png",
-	"headquarter_country": "FR",
-	"subsidiary_country_list": [],
-	"website_url": "http://www.shinken-monitoring.org/",
 	"location": {
 		"title": "Shinken Solutions SAS",
 		"address": "14 Avenue Descartes",
@@ -16,6 +13,8 @@
 		"mail_contact": "naparuba@gmail.com",
 		"coordinate_list": [44.85084873330953, -0.49501031654976324]
 	},
+	"subsidiary_country_list": [],
+	"website_url": "http://www.shinken-monitoring.org/",
 	"founded_year": 2009,
 	"kpi_list": [{
 		"year": 2020,
@@ -58,31 +57,15 @@
 			"similar_solution_url": "https://www.nagios.org/",
 			"category": "Application"
 		}, {
-			"title": "Opsview Core",
-			"similar_solution_url": "https://www.opsview.com/",
+			"title": "Zabbix",
+			"similar_solution_url": "https://www.zabbix.com/",
 			"category": "Application"
 		}, {
 			"title": "Icinga",
 			"similar_solution_url": "https://icinga.com/",
 			"category": "Application"
-		}, {
-			"title": "Mod-Gearman",
-			"similar_solution_url": "https://mod-gearman.org/",
-			"category": "Application"
-		}, {
-			"title": "The NOC Project",
-			"similar_solution_url": "https://getnoc.com/",
-			"category": "Application"
-		}, {
-			"title": "Webmin",
-			"similar_solution_url": "https://www.webmin.com/",
-			"category": "Application"
-		}, {
-			"title": "Check MK",
-			"similar_solution_url": "https://checkmk.com/",
-			"category": "Application"
 		}],
-		"licence_list": ["AGPL v.3.0"],
+		"licence_list": ["AGPL v3.0"],
 		"source_code_download": "https://github.com/naparuba/shinken.git",
 		"source_code_profile": "https://www.openhub.net/p/shinken/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.shinken-enterprise.com/fr/tarifs/",
