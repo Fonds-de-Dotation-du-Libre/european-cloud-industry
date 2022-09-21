@@ -103,7 +103,7 @@
 		"website_url": "https://www.toradex.com/operating-systems/torizon-core",
 		"created_year": "2003",
 		"description": "Easy-to-use Industrial Linux Software Platform TorizonCore is an open-source software platform that simplifies the development and maintenance of embedded Linux software. It is designed to be used out-of-the-box on devices requiring high reliability, allowing you to focus on your application and not on building and maintaining the operating system.",
-		"category_list": ["Compute Virtualisation"],
+		"category_list": ["Compute virtualisation"],
 		"similar_solution_list": [{
 			"title": "Yocto",
 			"similar_solution_url": "https://www.yoctoproject.org/",
