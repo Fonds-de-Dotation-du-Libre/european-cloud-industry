@@ -1,94 +1,59 @@
 {
-  "created": "2022-04-07",
-  "title": "SSAB",
-  "type": "Organisation",
-  "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
-  "location": {
-    "title": "SSAB AB",
-    "address": "Klarabergsviadukten 70",
-    "postal_code": "D6 Box 70 101 21",
-    "city": "Stockholm",
-    "country": "SE",
-    "phone_contact": "",
-    "mail_contact": "",
-    "coordinate_list": [59.331269459235685, 18.057021940761906]
-  },
-  "subsidiary_location_list": ["FI","US"],
-  "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
-  "founded_year": 1978,
-  "kpi_list": [{
-    "year": 2020,
-    "staff": 13974,
-    "earnings": "6 658 600 934 SEK",
-    "total_assets": "9 021 810 652 SEK",
-    "revenues": "",
-    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
-  }, {
-    "year": 2019,
-    "staff": 14514,
-    "earnings": "7 791 865 654 SEK",
-    "total_assets": "9 575 061 113 SEK",
-    "revenues": "",
-    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
-  },{
-    "year": 2018,
-    "staff": 15223,
-    "earnings": "7 634 646 659 SEK",
-    "total_assets": "9 420 421 671 SEK",
-    "revenues": "",
-    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
-  },{
-    "year": 2017,
-    "staff": 14925,
-    "earnings": "6 729 788 465 SEK",
-    "total_assets": "8 910 017 896 SEK",
-    "revenues": "",
-    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
-  },{
-    "year": 2016,
-    "staff": 14980,
-    "earnings": "5 639 212 084 SEK",
-    "total_assets": "9 262 668 791 SEK",
-    "revenues": "",
-    "source_url": "https://www.ssab.com/en/company/investors/financial-information/key-figures"
-  }],
-  "solution_list": [{
-    "title": "ProviewR",
+    "created": "2022-04-07",
+    "title": "SSAB",
+    "type": "Organisation",
     "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
-    "website_url": "http://www.proview.se/v3/index.php/about-proview-leftmenu-27",
-    "created_year": "",
-    "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
-    "category_list": ["Operation management"],
-    "similar_solution_list": [{
-      "title": "Codesys",
-      "similar_solution_url": "https://www.codesys.com/",
-      "category": "Developer environment"
-    }, {
-      "title": "Beremiz",
-      "similar_solution_url": "https://beremiz.org/",
-      "category": "Developer environment"
-    }, {
-      "title": "Siemens Simatic WinCC",
-      "similar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html ",
-      "category": "Developer environment"
-    }, {
-      "title": "GE Cimplicity",
-      "similar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
-      "category": "Developer environment"
-    }, {
-      "title": "InduSoft WebStudio",
-      "similar_solution_url": "https://on.factorysoftware.fr/indusoft-web-studio-devient-aveva-edge",
-      "category": "Developer environment"
-    }],
-    "licence_list": ["GNU/GPL"],
-    "source_code_download": "https://sourceforge.net/projects/proview/files/proview/",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": true,
-    "commercial_support_open_source_version": false,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
-  }]
+    "location": {
+        "title": "SSAB AB",
+        "address": "Klarabergsviadukten 70",
+        "postal_code": "D6 Box 70 101 21",
+        "city": "Stockholm",
+        "country": "SE",
+        "phone_contact": "",
+        "mail_contact": "",
+        "coordinate_list": [59.331269459235685, 18.057021940761906]
+    },
+    "subsidiary_location_list": ["FI","US"],
+    "website_url": "http://www.proview.se/v3/index.php/documentation-mainmenu-23",
+    "founded_year": 1978,
+    "kpi_list": [],
+    "solution_list": [{
+        "title": "ProviewR",
+        "logo_url": "http://www.proview.se/v3/images/joomla_black.gif",
+        "website_url": "http://www.proview.se/v3/index.php/about-proview-leftmenu-27",
+        "created_year": "2005",
+        "description": "ProviewR is an Open Source Process Control System. It is modern, powerful and general and contains all functions normally required for successful sequential control, adjustment, data acquisition, communication, supervision, etc.",
+        "category_list": ["Developer environment"],
+        "similar_solution_list": [{
+            "title": "Codesys",
+            "similar_solution_url": "https://www.codesys.com/",
+            "category": "Developer environment"
+        }, {
+            "title": "Beremiz",
+            "similar_solution_url": "https://beremiz.org/",
+            "category": "Developer environment"
+        }, {
+            "title": "Siemens Simatic WinCC",
+            "similar_solution_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-v7.html ",
+            "category": "Developer environment"
+        }, {
+            "title": "GE Cimplicity",
+            "similar_solution_url": "https://www.ge.com/digital/applications/hmi-scada/cimplicity",
+            "category": "Developer environment"
+        }, {
+            "title": "InduSoft WebStudio",
+            "similar_solution_url": "https://on.factorysoftware.fr/indusoft-web-studio-devient-aveva-edge",
+            "category": "Developer environment"
+        }],
+        "licence_list": ["GPL v3.0"],
+        "source_code_download": "https://sourceforge.net/projects/proview/files/proview/",
+        "source_code_profile": "",
+        "commercial_support_url": "",
+        "floss_software": true,
+        "commercial_support_open_source_version": false,
+        "commercial_support_available": false,
+        "wikipedia_url": "",
+        "reference_list": [],
+        "success_case_list": []
+    }]
 }
