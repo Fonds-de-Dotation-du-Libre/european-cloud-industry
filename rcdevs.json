@@ -1,5 +1,5 @@
-{
-	"created": "2022-04-05",
+{   
+    "created": "2022-04-05",
 	"title": "RCDevs",
 	"type": "Organisation",
 	"logo_url": "https://www.rcdevs.com/wp-content/uploads/logo-Black-Orange-160x73.png",
@@ -46,73 +46,18 @@
 		"source_url": "https://e-justice.europa.eu/content_find_a_company-489-fr.do"
 	}],
 	"solution_list": [{
-		"title": "OpenOTP Authentication Server",
+		"title": "OpenOTP Security Suite",
 		"logo_url": "",
-		"website_url": "https://www.rcdevs.com/products/openotp/",
+		"website_url": "https://www.rcdevs.com/products/openotp-security-suite/",
 		"created_year": "",
-		"description": "OpenOTP provides an authentication server for your Domain users. It supports the combination of single-factor and multi-factor authentication for user access with One-Time Password technologies (OTP) and Universal Second Factor (FIDO-U2F & FIDO2).",
+		"description": "All-in-one Multi-Factor Authentication Enterprise Solution including IAM, SSO & NAC. On-premise or Private Cloud. Modular & Flexible architecture.",
 		"category_list": ["Identity"],
-		"similar_solution_list": [],
-		"licence_list": ["Proprietary"],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "SpanKey SSH Key Server Management",
-		"logo_url": "",
-		"website_url": "https://www.rcdevs.com/products/spankey/",
-		"created_year": "",
-		"description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
-		"category_list": ["Service lifecycle automation"],
-		"licence_list": ["Proprietary"],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": false,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "WebADM Control Center",
-		"logo_url": "",
-		"website_url": "https://www.rcdevs.com/products/webadm/",
-		"created_year": "",
-		"description": "WebADM is a powerful Web-based Directory Administration Software designed for professionnals to manage LDAP Organization resources such as Domain Users and Groups. It is also the management console for RCDevs' applications like OpentOTP and TiQR. WebADM is compatible with Novell eDirectory, OpenLDAP,OpenDirectory, Oracle Directory, 389 and Microsoft Active Directory.",
-		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
-			"title": "Auth0",
-			"similar_solution_url": "https://auth0.com/key",
-			"category": "Service lifecycle automation"
-		}, {
-			"title": "Keycloak",
-			"similar_solution_url": "https://www.keycloak.org/",
-			"category": "Service lifecycle automation"
-		}, {
-			"title": "Amazon Cognito",
-			"similar_solution_url": "https://aws.amazon.com/cognito/?nc1=h_ls",
-			"category": "Service lifecycle automation"
-		}, {
-			"title": "Spring Security",
-			"similar_solution_url": "https://spring.io/projects/spring-security",
-			"category": "Service lifecycle automation"
-		}, {
-			"title": "Firebase Authentication",
-			"similar_solution_url": "https://firebase.google.com/",
-			"category": "Service lifecycle automation"
-		}, {
-			"title": "JSON web Token",
-			"similar_solution_url": "https://jwt.io/",
-			"category": "Service lifecycle automation"
-		}],
-		"licence_list": ["Proprietary"],
+            "title": "OpenAM",
+            "similar_solution_url": "https://www.openidentityplatform.org/openam",
+            "category": "Identity"
+        }],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "",
@@ -151,6 +96,23 @@
 			"country": "FR",
 			"industry": "Construction"
 		}],
+		"success_case_list": []
+	}, {
+		"title": "SpanKey SSH Key Server Management",
+		"logo_url": "",
+		"website_url": "https://www.rcdevs.com/products/spankey/",
+		"created_year": "",
+		"description": "The RCDevs’ SpanKey solution provides extended SSH key life-cycle management. This includes self-services for web-based SSH key self-enrollment with software and hardware private keys, automated key distribution, auditing of unwanted access and auto-renewal workflows for outdated public keys.",
+		"category_list": ["Service lifecycle automation"],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": false,
+		"wikipedia_url": "",
+		"reference_list": [],
 		"success_case_list": []
 	}]
 }
