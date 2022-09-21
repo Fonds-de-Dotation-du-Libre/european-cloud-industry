@@ -133,11 +133,11 @@
 		"website_url": "https://www.toradex.com/computer-on-modules",
 		"created_year": "",
 		"description": "Computer on Modules (CoM) / System on Modules (SoM) offer reliable and cost-effective embedded platform for building end-products. Toradex offers an extensive range of CoMs using leading Arm based System on Chips (SoC).",
-		"category_list": ["IoT and Industrial"],
+		"category_list": ["IoT and industrial"],
 		"similar_solution_list": [{
 			"title": "Olimex OLinuXino",
 			"similar_solution_url": "https://www.olimex.com/Products/OLinuXino/open-source-hardware",
-			"category": "IoT and Industrial"
+			"category": "IoT and industrial"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
@@ -155,11 +155,11 @@
 		"website_url": "https://www.toradex.com/carrier-boards-for-system-computer-on-module",
 		"created_year": "",
 		"description": "Single Board Computers (SBC) Carrier Boards - A carrier board is a hardware unit that complements a Computer on Module (CoM). The combination of the two is commonly referred to as a single-board computer (SBC). Toradex offers a comprehensive lineup of carrier boards from both our own portfolio and those of our accredited partners. A carrier board provides the necessary signal and power levels to the CoM. It also houses application-specific connectivity and multimedia interfaces, such as USB, Ethernet, UART, HDMI and so on.",
-		"category_list": ["IoT and Industrial"],
+		"category_list": ["IoT and industrial"],
 		"similar_solution_list": [{
 			"title": "Olimex OLinuXino",
 			"similar_solution_url": "https://www.olimex.com/Products/OLinuXino/open-source-hardware",
-			"category": "IoT and Industrial"
+			"category": "IoT and industrial"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
