@@ -1,8 +1,6 @@
 {
-	"created": "2022-03-18",
+    "created": "2022-03-18",
 	"title": "Sketch",
-	"subsidiary_country_list": [],
-	"website_url": "https://www.sketch.com/",
 	"type": "Organisation",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png",
 	"headquarter_country": "NL",
@@ -16,6 +14,8 @@
 		"mail_contact": "press@sketch.com",
 		"coordinate_list": [51.45411742021257, 5.4009246395419]
 	},
+	"subsidiary_country_list": [],
+	"website_url": "https://www.sketch.com/",
 	"founded_year": "2010",
 	"kpi_list": [],
 	"solution_list": [{
@@ -30,20 +30,16 @@
 			"similar_solution_url": "https://www.figma.com/",
 			"category": "Application"
 		}, {
-			"title": "Lunacy",
-			"similar_solution_url": "https://icons8.com/lunacy",
-			"category": "Application"
-		}, {
 			"title": "Adobe XD",
 			"similar_solution_url": "https://www.adobe.com/products/xd.html?mv=affiliate&mv2=red",
 			"category": "Application"
 		}, {
-			"title": "Pencil Project",
-			"similar_solution_url": "https://pencil.evolus.vn/",
+			"title": "Penpot",
+			"similar_solution_url": "https://penpot.app/",
 			"category": "Application"
 		}],
-		"licence_list": ["Proprietary"],
-		"source_code_download": "https://developer.sketch.com/file-format/",
+		"licence_list": [],
+		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://www.sketch.com/pricing/",
 		"floss_software": false,
