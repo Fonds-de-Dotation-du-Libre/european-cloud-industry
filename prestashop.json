@@ -1,18 +1,18 @@
 {
-	"created": "2022-04-05",
-	"title": "Prestashop",
-	"type": "Organisation",
-	"logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
-	"location": {
-		"title": "Prestashop SA",
-		"address": "4 rue Jules Lefebvre",
-		"postal_code": "75009",
-		"city": "Paris",
-		"country": "FR",
-		"phone_contact": "+33 (0)1 76 23 25 25",
-		"mail_contact": "contact@prestashop.com",
-		"coordinate_list": [48.8807269249733, 2.3275649826945304]
-	},
+    "created": "2022-04-05",
+    "title": "Prestashop",
+    "type": "Organisation",
+    "logo_url": "https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg",
+    "location": {
+        "title": "Prestashop SA",
+        "address": "4 rue Jules Lefebvre",
+        "postal_code": "75009",
+        "city": "Paris",
+        "country": "FR",
+        "phone_contact": "+33 (0)1 76 23 25 25",
+        "mail_contact": "contact@prestashop.com",
+        "coordinate_list": [48.8807269249733, 2.3275649826945304]
+    },
 	"subsidiary_location_list": [],
 	"website_url": "https://www.prestashop.com/en",
 	"founded_year": 2007,
@@ -25,27 +25,15 @@
 		"description": "PrestaShop allows ambitious entrepreneurs and companies to create and develop their own ecommerce site. Our open source software unites a global community.",
 		"category_list": ["Application"],
 		"similar_solution_list": [{
-			"title": "Ecwid",
-			"similar_solution_url": "https://www.ecwid.com/",
-			"category": "Application"
-		}, {
-			"title": "shopify",
+			"title": "Shopify",
 			"similar_solution_url": "https://www.shopify.com/",
 			"category": "Application"
 		}, {
-			"title": "woocommerce",
+			"title": "Woocommerce",
 			"similar_solution_url": "https://woocommerce.com/",
 			"category": "Application"
-		}, {
-			"title": "bigcommerce",
-			"similar_solution_url": "https://www.bigcommerce.com/",
-			"category": "Application"
-		}, {
-			"title": "nopcommerce",
-			"similar_solution_url": "https://www.nopcommerce.com/en",
-			"category": "Application"
 		}],
-		"licence_list": ["OSL"],
+		"licence_list": ["OSL v3.0"],
 		"source_code_download": "https://github.com/PrestaShop/PrestaShop",
 		"source_code_profile": "https://www.openhub.net/p/PrestaShop/analyses/latest/languages_summary",
 		"commercial_support_url": "https://www.prestashop.com/en/help",
