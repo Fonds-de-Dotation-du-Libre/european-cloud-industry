@@ -84,6 +84,7 @@ List of validated sources for financial data:
 * https://www.verif.com/ (FR); 
 * https://www.societe.com/ (FR);
 * https://www.infogreffe.fr/ (FR-official);
+* https://www.uid.admin.ch/ (CH-official);
 * https://www.bundesanzeiger.de/ (DE-official);
 * https://www.infocamere.it/ (IT);
 * https://italianbusinessregister.it/en/annual-accounts (IT);
