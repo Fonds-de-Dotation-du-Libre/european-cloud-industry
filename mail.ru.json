@@ -1,0 +1,119 @@
+{
+	"created": "2022-04-05",
+	"title": "Mail.ru",
+	"type": "Organisation",
+	"logo_url": "https://static.tarantool.io/pub/1.3.54/tarantool/images/logo-full.svg",
+	"location": {
+		"title": "Tarantool",
+		"address": "Leningradskiy prospect, 39, build 79, SkyLight",
+		"postal_code": "125167",
+		"city": "Moscow",
+		"country": "RU",
+		"phone_contact": "+74957256357",
+		"mail_contact": "noc@corp.mail.ru",
+		"coordinate_list": [55.79700683101193, 37.5372725406218]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://www.tarantool.io/en/",
+	"founded_year": 2008,
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Tarantool",
+		"logo_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/community/community-intro.png",
+		"website_url": "https://www.tarantool.io/en/developers/",
+		"created_year": 2010,
+		"description": "Tarantool keeps all the data in random-access memory (RAM). Solutions of this class are fast, but they often lack data persistence. Tarantool helps overcome these problems. Try Tarantool to see how fast, flexible, and scalable it is.",
+		"category_list": ["Storage and database"],
+		"similar_solution_list": [{
+			"title": "Redis",
+			"similar_solution_url": "https://redis.com/",
+			"category": "Storage and database"
+		}, {
+			"title": "MongoDB",
+			"similar_solution_url": "https://www.mongodb.com/",
+			"category": "Storage and database"
+		}],
+		"licence_list": ["BSD v2.0"],
+		"source_code_download": "https://github.com/tarantool/tarantool.git",
+		"source_code_profile": "https://www.openhub.net/p/tarantool/analyses/latest/languages_summary",
+		"commercial_support_url": "https://www.tarantool.io/en/request_support/",
+		"floss_software": true,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Tarantool",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "Speeding up MegaFon services with Tarantool",
+			"description": "Tarantool is used as a high-performance solution in the MegaFon real-time marketing (RTM) project. The project is designed to personalize the approach to each client and respond to events in real time. Several Tarantool storefronts solve the issue of fast access to data. RTM marts retrieve and process about 1.5TB of data.",
+			"image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/megafon/megafon-logo.svg",
+			"industry": "Telecommunication",
+			"customer": "MegaFon",
+			"country": "RU",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/megafon/"
+		}, {
+			"title": "Combining data from multiple systems in Alfa-Bank's investment business core",
+			"description": "We deployed the IB-Core solution in Alfa-Bank. This is an investment banking core based on Tarantool Data Grid. The heart of the system is a cluster of 40+ Tarantool instances deployed in two data centers.",
+			"image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/alfabank/alfabank-logo.svg",
+			"industry": "Banking and Finance",
+			"customer": "Alpha-Bank",
+			"country": "GR",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/alfabank/"
+		}, {
+			"title": "Opening a new sales channel and improving the existing infrastructure",
+			"description": "The new software interface is based on the Tarantool in-memory computing platform, which became the middle layer between Magnit’s information systems and the partners’ external applications. The project is based on Tarantool Data Grid. In this Tarantool implementation, deployment issues are initially solved out-of-the-box, which significantly shortens the project timeline.",
+			"image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/magnit/logo.png",
+			"industry": "Commerce and Retail",
+			"customer": "Magnit",
+			"country": "RU",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/magnit/"
+		}, {
+			"title": "Speeding up Gazprombank’s internal systems by a factor of 50 with Tarantool",
+			"description": "In mid-2019, Gazprombank launched a project to develop and implement a system based on Tarantool Data Grid. The solution caches data from different banking information systems and ensures the desired performance.",
+			"image_url": "https://static.tarantool.io/pub/1.3.71/tarantool/images/cases/gpb/logo.png",
+			"industry": "Banking and Finance",
+			"customer": "Gazprombank",
+			"country": "RU",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/gpb/"
+		}, {
+			"title": "Increasing the product catalog's availability and reliability",
+			"description": "Citilink is one of Russia's top online discount stores. Its extensive network of outlets and depots offers a wide variety of products. In 2020, Citilink's sales amounted to 132.7 billion rubles, which makes it the third-largest company in Russia.",
+			"image_url": "https://static.tarantool.io/pub/221010-1358-42cde9c/tarantool/images/cases/citilink/logo.png",
+			"industry": "Banking and Finance",
+			"customer": "Citilink",
+			"country": "RU",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/citilink/"
+		}, {
+			"title": "Tarantool-based PCI DSS compliant payment service",
+			"description": "Mastercard (NYSE: MA) is a global technology company in the payment industry. The company’s mission is to develop and strengthen the digital economy that benefits everyone everywhere by providing safe, simple, smart, and affordable transactions. By using secure data and networks, forging partnerships, and exploring sources of inspiration, Mastercard delivers innovations and solutions that help people, financial institutions, governments, and businesses realize their greatest potential. Decency quotient (DQ) is a fundamental part of Mastercard’s culture. Mastercard conducts business in more than 210 countries and territories and creates a sustainable world that offers invaluable opportunities for everyone.",
+			"image_url": "https://static.tarantool.io/pub/221010-1358-42cde9c/tarantool/images/cases/mastercard/mastercard-logo.svg",
+			"industry": "Banking and Finance",
+			"customer": "Mastercard",
+			"country": "US",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/mastercard/"
+		}, {
+			"title": "Recognizing objects using a billion-image database",
+			"description": "FindFace, an out-of-the-box solution by NtechLab, allows recognizing human faces and silhouettes, cars, and license plates. It is used in areas such as access control, fraud prevention, public safety, and behavior analysis.",
+			"image_url": "https://static.tarantool.io/pub/221010-1358-42cde9c/tarantool/images/cases/ntechlab/intro.png",
+			"industry": "Information Technology",
+			"customer": "NtechLab",
+			"country": "RU",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/ntechlab/"
+		}, {
+			"title": "How Otkritie Bank used Tarantool to reduce the load on backend systems by 85%",
+			"description": "Otkritie is a too-big-to-fail Russian bank, one of the top 10 largest credit institutions in Russia. It has more than 10 thousand large corporate clients, 510 thousand small and medium-sized businesses, as well as more than 3 million private customers. Otkritie has a comprehensive portfolio of digital products.",
+			"image_url": "https://static.tarantool.io/pub/221010-1358-42cde9c/tarantool/images/cases/ntechlab/intro.png",
+			"industry": "Banking and Finance",
+			"customer": "Otkritie Bank",
+			"country": "RU",
+			"language": "en",
+			"success_case_url": "https://www.tarantool.io/en/cases/ntechlab/"
+		}]
+	}]
+}
