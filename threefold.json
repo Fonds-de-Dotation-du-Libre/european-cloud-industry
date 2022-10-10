@@ -1,67 +1,47 @@
 {
-  "created": "2022-04-06",
-  "title": "Threefold",
-  "type": "Association",
-  "logo_url": "https://threefold.io/assets/static/tft_color_logo.3e8a41b.7b655c36cc78de99d8ef9da582b8cc8c.svg",
-  "location": {
-    "title": "Threefold Tech NV",
-    "address": "Antwerpse Steenweg 19",
-    "postal_code": "9080",
-    "city": "Lochristi",
-    "country": "BE",
-    "phone_contact": "+3293242092",
-    "mail_contact": "info@threefold.tech",
-    "coordinate_list": [51.0929571239287, 3.8217512755767316]
-  },
-  "subsidiary_location_list": [],
-  "website_url": "https://threefold.io/",
-  "founded_year": 2018,
-  "kpi_list": [],
-  "solution_list": [{
-    "title": "Threefold Tech",
-    "logo_url": "https://threefold.tech/assets/static/tft_logo.d25c033.5564300f20611d911b4e26840c45bac3.svg",
-    "website_url": "https://threefold.tech/",
-    "created_year": 2018,
-    "description": "",
-    "category_list": ["Cybersecurity"],
-    "similar_solution_list": [{
-      "title": "Akash",
-      "similar_solution_url": "https://akash.network/",
-      "category": "Storage and database"
-    },{
-      "title": "Dfinity",
-      "similar_solution_url": "https://dfinity.org/",
-      "category": "Application"
-    },{
-      "title": "Golem",
-      "similar_solution_url": "https://www.golem.network/",
-      "category": "Application"
-    },{
-      "title": "Syntropy",
-      "similar_solution_url": "https://www.syntropynet.com/",
-      "category": "Application"
-    },{
-      "title": "Siacoin",
-      "similar_solution_url": "https://sia.tech/",
-      "category": "Application"
-    },{
-      "title": "Filecoin",
-      "similar_solution_url": "https://filecoin.io/",
-      "category": "Application"
-    },{
-      "title": "Helium",
-      "similar_solution_url": "https://www.helium.com/",
-      "category": "Application"
-    }],
-    "licence_list": ["Apache v2.0"],
-    "source_code_download": "https://github.com/threefoldfoundation/home.git",
-    "source_code_profile": "",
-    "commercial_support_url": "",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": false,
-    "wikipedia_url": "",
-    "reference_list": [],
-    "success_case_list": []
-  }]
+    "created": "2022-04-06",
+    "title": "Threefold",
+    "type": "Association",
+    "logo_url": "https://threefold.io/assets/static/tft_color_logo.3e8a41b.7b655c36cc78de99d8ef9da582b8cc8c.svg",
+    "location": {
+        "title": "Threefold Tech NV",
+        "address": "Antwerpse Steenweg 19",
+        "postal_code": "9080",
+        "city": "Lochristi",
+        "country": "BE",
+        "phone_contact": "+3293242092",
+        "mail_contact": "info@threefold.tech",
+        "coordinate_list": [51.0929571239287, 3.8217512755767316]
+    },
+    "subsidiary_location_list": [],
+    "website_url": "https://threefold.io/",
+    "founded_year": 2018,
+    "kpi_list": [],
+    "solution_list": [{
+        "title": "Threefold Tech",
+        "logo_url": "https://threefold.tech/assets/static/tft_logo.d25c033.5564300f20611d911b4e26840c45bac3.svg",
+        "website_url": "https://threefold.tech/",
+        "created_year": 2018,
+        "description": "A global movement together building an open-source, community-driven, decentralized Internet – from the ground up.",
+        "category_list": ["Application"],
+        "similar_solution_list": [{
+          "title": "Filecoin",
+          "similar_solution_url": "https://filecoin.io/",
+          "category": "Application"
+        },{
+          "title": "Helium",
+          "similar_solution_url": "https://www.helium.com/",
+          "category": "Application"
+        }],
+        "licence_list": ["Apache v2.0"],
+        "source_code_download": "https://github.com/threefoldfoundation/home.git",
+        "source_code_profile": "",
+        "commercial_support_url": "",
+        "floss_software": true,
+        "commercial_support_open_source_version": false,
+        "commercial_support_available": true,
+        "wikipedia_url": "",
+        "reference_list": [],
+        "success_case_list": []
+    }]
 }
