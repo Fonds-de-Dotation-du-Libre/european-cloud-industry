@@ -1,10 +1,10 @@
 {
 	"created": "2022-04-07",
-	"title": "AG Project",
+	"title": "AG Projects",
 	"type": "Organisation",
 	"logo_url": "https://ag-projects.com/images/aglogo.svg",
 	"location": {
-		"title": "AG Project",
+		"title": "AG Projects",
 		"address": "Dr. Leijdsstraat 92",
 		"postal_code": "2021",
 		"city": "RK Haarlem",
@@ -14,43 +14,76 @@
 		"coordinate_list": [52.39577287027591, 4.64821424602116]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://sylkserver.com/",
-	"founded_year": "",
-	"kpi_list": [{
-		"year": 2021,
-		"staff": 25,
-		"earnings": "",
-		"total_assets": "",
-		"revenues": "458 110 000 EUR",
-		"source_url": "https://www.zoominfo.com/c/ag-projects-llc/445933980"
-	}],
+	"website_url": "https://ag-projects.com/",
+	"founded_year": "2002",
+	"kpi_list": [],
 	"solution_list": [{
 		"title": "Sylk suite",
 		"logo_url": "https://sylkserver.com/images/sylk.svg",
 		"website_url": "https://sylkserver.com/",
 		"created_year": "",
 		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
-		"category_list": ["Application"],
+		"category_list": ["Communication"],
 		"similar_solution_list": [{
-			"title": "MSRP",
-			"similar_solution_url": "http://msrprelay.org/",
-			"category": "Application"
+			"title": "element",
+			"similar_solution_url": "https://element.io/",
+			"category": "Communication"
 		}, {
-			"title": "Sipthor",
-			"similar_solution_url": "https://sipthor.net/index.phtml",
-			"category": "Application"
+			"title": "Whatsapp",
+			"similar_solution_url": "https://www.whatsapp.com/",
+			"category": "Communication"
 		}, {
-			"title": "sip2sip",
-			"similar_solution_url": "https://sip2sip.info/",
-			"category": "Application"
+			"title": "Signal",
+			"similar_solution_url": "https://signal.org/en/",
+			"category": "Communication"
+		}, {
+			"title": "Telegram",
+			"similar_solution_url": "https://telegram.org/",
+			"category": "Communication"
 		}],
-		"licence_list": ["GNU General Public License version 3"],
-		"source_code_download": "https://github.com/AGProjects/sylk-mobile",
-		"source_code_profile": "",
-		"commercial_support_url": "https://sylkserver.com/contact/",
+		"licence_list": ["GPL v3.0"],
+		"source_code_download": "https://github.com/AGProjects/sylkserver",
+		"source_code_profile": "https://www.openhub.net/p/sylkserver/analyses/latest/languages_summary",
+		"commercial_support_url": "https://ag-projects.com/support/",
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "SIP Thor",
+		"logo_url": "",
+		"website_url": "https://ag-projects.com/msp-platform/",
+		"created_year": "",
+		"description": "SIP Thor is a Peer-to-Peer overlay that allows for load balancing, self-organization and geographical distribution of SIP infrastructure elements. SIP Thor allows for distribution of hardware resources in multiple datacenters and in different geographical locations. Using SIP Thor all relevant computing resources can be virtualized allowing for running the SIP services in the cloud with a high scalability/cost ratio. The infrastructure can scale deterministically to handle millions of end-points.",
+		"category_list": ["Networking"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://ag-projects.com/support/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
+		"success_case_list": []
+	}, {
+		"title": "Sip2Sip",
+		"logo_url": "https://sip2sip.info/images/sip2sip.svg",
+		"website_url": "https://sip2sip.info/",
+		"created_year": "",
+		"description": "SIP2SIP is a multimedia real-time communications service based on SIP, WebRTC and related protocols. The service is free to use based on a fair-use policy and federates with other publicly reachable SIP and XMPP domains.",
+		"category_list": ["Networking"],
+		"similar_solution_list": [],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "",
+		"floss_software": false,
+		"commercial_support_open_source_version": true,
+		"commercial_support_available": false,
 		"wikipedia_url": "",
 		"reference_list": [],
 		"success_case_list": []
