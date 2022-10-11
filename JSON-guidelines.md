@@ -99,18 +99,18 @@ List of validated sources for financial data:
 Possible solution_category 
 
 * Storage and database 
-* Compute virtualisation 
-* Desktop virtualisation
+* Compute virtualisation - _Software or hardware that emulates a computer made of  CPU and, possibly, its attached peripherals with the intentin to offload a compute intensive server on the cloud and access it remotely. This includes emulators of an x86 PC (ex. kvm), or an ARM PC (ex. qemu), of a video game (ex. gameboy emulator) or of abstract machines (ex. wasm virtual machine). Ex. Qemu, xcp-ng_
+* Desktop virtualisation - _Software or hardware that emulates the graphic adapter of a computer and, possibly, its attached CPU and peripherals, with the intention to offload a desktop environment on the cloud and access it remotely. Ex. Softklix_
 * vRan 
-* Operation management 
-* Service lifecycle automation
+* Operation management - _A management software capable of automating most or all  operation processes of a cloud such as user registration, infrastructure inventory, service provisionning,  disaster recovery, monitoring, billing, access rights, etc. Also known as OM, OSS or BSS. Ex. Slapos, anthos_
+* Service lifecycle automation - _A service provisionning software capable of configuring and interconnecting automatically mutually consistent services. Ex. Opensvc, kubernetes_
 * Networking
 * Identity
 * Cybersecurity
-* Application
-* Workspace
-* Developer environment 
-* Developer API
+* Application - _Any application software (ERP, CRM, HR, etc.) which can be provided as SaaS and which is not a workspace or a cybersecutity application for which dedicated categories exist. Ex. Erp5_
+* Workspace - _An application software which can be provided as SaaS and provides workspace features (storage, email, calendar, document editing). Ex. Nextcloud_
+* Developer environment - _A software that can be provided as SaaS to developers so that they can connect to an online development environment rather than using their local text editor, IDE, etc. Ex. Theia, CribJS, ERP5, etc._
+* Developer API - _A library or application software which can be used to provide a managed API in a PaaS so that developers can rely on that API instead of integrating the library and manging it themselves in their application. Ex. cloudooo, Selenium Remote Control_
 * Communication 
 * IoT and industrial 
 * Big Data Hub
