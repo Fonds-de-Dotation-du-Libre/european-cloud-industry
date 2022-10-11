@@ -14,7 +14,7 @@
 		"coordinate_list": [47.409659765790934, 8.543620563704717]
 	},
 	"subsidiary_location_list": ["HU", "DE"],
-	"website_url": "https://tresorit.com/fr",
+	"website_url": "https://tresorit.com/",
 	"founded_year": 2012,
 	"kpi_list": [],
 	"solution_list": [{
@@ -52,7 +52,7 @@
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://tresorit.com/fr/pricing",
+		"commercial_support_url": "https://tresorit.com/pricing",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
