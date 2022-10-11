@@ -14,7 +14,7 @@
 		"coordinate_list": [50.078864617931394, 14.451447665255863]
 	},
 	"subsidiary_location_list": [],
-	"website_url": "https://www.nic.cz/page/357/kontakt/",
+	"website_url": "https://www.turris.cz/cs/mox/predstaveni/",
 	"founded_year": 1998,
   	"kpi_list": [],
 	"solution_list": [{
@@ -23,12 +23,8 @@
 		"website_url": "https://www.turris.com/en/shield/overview/",
 		"created_year": "",
 		"description": "Turris Shield is a single-purpose device for everyone who wants to easily secure their entire home or office without having to change their modem or router. No above-average IT skills needed!",
-		"category_list": ["Cybersecurity"],
-		"similar_solution_list": [{
-			"title": "OpenWRT",
-			"similar_solution_url": "https://openwrt.org/",
-			"category": "Cybersecurity"
-		}],
+		"category_list": ["Router"],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -80,12 +76,8 @@
 		"website_url": "https://www.turris.com/en/mox/overview/",
 		"created_year": "",
 		"description": "MOX offers dozens of different module combinations. Design a device that meets your requirements and don’t pay for anything that you don’t need.",
-		"category_list": ["Developer environment"],
-		"similar_solution_list": [{
-			"title": "Olimex",
-			"similar_solution_url": "https://olimex.com/",
-			"category": "Developer environment"
-		}],
+		"category_list": ["Router"],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -152,7 +144,7 @@
 		"website_url": "https://www.turris.com/en/turris-os/",
 		"created_year": "",
 		"description": "Turris devices are configurable through the user-friendly reForis web interface, which also contains an initial setup wizard. Unlike its previous version Foris, reForis can be proud to be built by usage of modern technologies such as Bootstrap, React and Flask.",
-		"category_list": ["Networking"],
+		"category_list": ["Compute virtualisation"],
 		"similar_solution_list": [],
 		"licence_list": ["GPL v2.0"],
 		"source_code_download": "https://github.com/CZ-NIC/turris-os",
@@ -161,8 +153,8 @@
 		"floss_software": true,
 		"commercial_support_open_source_version": true,
 		"commercial_support_available": true,
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Turris_Omnia",
+		"wikipedia_url": "",
 		"reference_list": [],
-    		"success_case_list": []
+        "success_case_list": []
 	}]
 }
