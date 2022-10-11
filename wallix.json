@@ -53,29 +53,11 @@
 		"source_url": "https://www.verif.com/bilans-gratuits/WALLIX-450401153/"
 	}],
 	"solution_list": [{
-		"title": "WALLIX Authenticator",
+		"title": "WALLIX Bastion PAM",
 		"logo_url": "https://www.wallix.com/wp-content/uploads/2022/02/PFA_150.png",
-		"website_url": "https://www.wallix.com/fr/multi-factor-authentication",
+		"website_url": "https://www.wallix.com/privileged-access-management/",
 		"created_year": "",
-		"description": "WALLIX Authenticator offers strong, multi-factor authentication to protect access to IT assets, applications and data, with a high security connection wherever you are.",
-		"category_list": ["Cybersecurity"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": true,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-   		"success_case_list": []
-	}, {
-		"title": "WALLIX Bastion Session Manager",
-		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
-		"website_url": "https://www.wallix.com/privileged-access-management/session-manager/",
-		"created_year": "",
-		"description": "With the WALLIX Bastion Session Manager, gain a real-time view of privileged user activity to monitor actions, record user sessions, and automatically terminate suspicious activity for enhanced threat detection and response",
+		"description": "A simplified PAM solution to secure and monitor access from anywhere. Privileged Access and Session Management to protect critical IT assets.",
 		"category_list": ["Cybersecurity"],
 		"similar_solution_list": [],
 		"licence_list": [],
@@ -86,16 +68,7 @@
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
 		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "Wallix Bation Password Manager",
-		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
-		"website_url": "https://www.wallix.com/privileged-access-management/password-manager/",
-		"created_year": "",
-		"description": "With the WALLIX Bastion Password Manager, manage system passwords in a consolidated vault to simplify IT super administrators’ access and control over credentials.",
-		"category_list": ["Cybersecurity"],
-		"similar_software_list": [{
+		"reference_list": [{
 			"title": "JumpCloud Directory Platform",
 			"similar_solution_url": "https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/jumpcloud-2022-logo.png",
 			"category": "Cybersecurity"
@@ -115,37 +88,28 @@
 			"title": "CyberArk",
 			"similar_solution_url": "https://www.cyberark.com/",
 			"category": "Cybersecurity"
-    },{
-			"title": "One Identity",
-			"similar_solution_url": "https://www.oneidentity.com/",
-			"category": "Cybersecurity"
-    },{
-			"title": "Delinea",
-			"similar_solution_url": "https://delinea.com/",
-			"category": "Cybersecurity"
-    },{
-			"title": "BeyondTrust",
-			"similar_solution_url": "https://www.beyondtrust.com/",
-			"category": "Cybersecurity"
-    },{
-			"title": "Micro Focus",
-			"similar_solution_url": "https://www.microfocus.com/",
-			"category": "Cybersecurity"
-    },{
-			"title": "Jumpcloud",
-			"similar_solution_url": "https://jumpcloud.com/",
-			"category": "Cybersecurity"
-    }],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": [{
+        },{
+            "title": "One Identity",
+            "similar_solution_url": "https://www.oneidentity.com/",
+            "category": "Cybersecurity"
+        },{
+            "title": "Delinea",
+            "similar_solution_url": "https://delinea.com/",
+            "category": "Cybersecurity"
+        },{
+            "title": "BeyondTrust",
+            "similar_solution_url": "https://www.beyondtrust.com/",
+            "category": "Cybersecurity"
+        },{
+            "title": "Micro Focus",
+            "similar_solution_url": "https://www.microfocus.com/",
+            "category": "Cybersecurity"
+        },{
+            "title": "Jumpcloud",
+            "similar_solution_url": "https://jumpcloud.com/",
+            "category": "Cybersecurity"
+        }],
+   		"success_case_list": [{
 			"title": "Birmingham NHS chooses WALLIX Bastion to secure access to IT amidst the Covid-19 health crisis",
 			"description": "With a staff of 5,000 agents, Birmingham Community Healthcare NHS Trust has gone through a period of unprecedented stress throughout the health crisis, particularly in terms of cybersecurity. Their small IT Infrastructure team is focused on ensuring the security of patient data and systems remote access.",
 			"image_url": "",
@@ -183,13 +147,13 @@
 			"success_case_url": "https://www.wallix.com/success-story/bank-of-africa"
 		}]
 	}, {
-		"title": "Wallix Access Manager",
+		"title": "WALLIX Trustelem IDaaS",
 		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
-		"website_url": "https://www.wallix.com/privileged-access-management/access-manager/",
+		"website_url": "https://www.wallix.com/identity-as-a-service/",
 		"created_year": "",
-		"description": "Securing and managing external access to critical IT assets is a priority in the current climate of remote access and rampant cyber threats.",
-		"category_list": ["Cybersecurity"],
-		"similar_software_list": [],
+		"description": "Simplify and secure access to key business applications from a centralized platform. Protect strategic assets, increase efficiency and productivity, and improve user experience for both application users and administrators.",
+		"category_list": ["Identity"],
+		"similar_solution_list": [],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
@@ -209,23 +173,5 @@
 			"language": "sr",
 			"success_case_url": "https://www.wallix.com/success-stories/ministry-of-agriculture-forestry-and-water-management-of-serbia"
 		}]
-	}, {
-		"title": "Wallix BestSafe",
-		"logo_url": "https://www.wallix.com/wp-content/themes/wallix/html/app/assets/img/logo.svg",
-		"website_url": "https://www.wallix.com/endpoint-privilege-management/",
-		"created_year": "",
-		"description": "Eliminate the need for user accounts with elevated permissions thanks to innovative endpoint privilege management. Achieve unparalleled security across all endpoints with permissions controlled at the application and process level – without impacting user productivity.",
-		"category_list": ["Cybersecurity"],
-		"similar_software_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
 	}]
 }
