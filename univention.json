@@ -1,577 +1,573 @@
 {
-  "created": "2022-04-06",
-  "title": "Univention",
-  "type": "Organisation",
-  "logo_url": "https://www.univention.com/wp-content/themes/univention/assets/images/univention-logo.svg",
-  "location": {
-    "title": "Univention GmbH",
-    "address": "Mary-Somerville-Straße 1",
-    "postal_code": "28359",
-    "city": "Bremen",
-    "country": "DE",
-    "phone_contact": "+49421222320",
-    "mail_contact": "info@univention.de",
-    "coordinate_list": [53.10588964832094, 8.86356485190525]
-  },
-  "subsidiary_location_list": ["US"],
-  "website_url": "https://www.univention.com/",
-  "founded_year": 2004,
-  "kpi_list": [{
-    "year": 2020,
-    "staff": 57,
-    "earnings": "",
-    "total_assets": "4 822 096 EUR",
-    "revenues": "",
-    "source_url": "https://www.bundesanzeiger.de/"
-  }, {
-    "year": 2019,
-    "staff": 39,
-    "earnings": "",
-    "total_assets": "3 074 820 EUR",
-    "revenues": "",
-    "source_url": "https://www.bundesanzeiger.de/"
-  },{
-    "year": 2018,
-    "staff": 39,
-    "earnings": "",
-    "total_assets": "2 530 255 EUR",
-    "revenues": "",
-    "source_url": "https://www.bundesanzeiger.de/"
-  },{
-    "year": 2017,
-    "staff": 39,
-    "earnings": "",
-    "total_assets": "2 355 430 EUR",
-    "revenues": "",
-    "source_url": "https://www.bundesanzeiger.de/"
-  },{
-    "year": 2016,
-    "staff": 53,
-    "earnings": "",
-    "total_assets": "2 183 892 EUR",
-    "revenues": "",
-    "source_url": "https://www.bundesanzeiger.de/"
-  }],
-  "solution_list": [{
-    "title": "Univention Corporate Server",
+    "created": "2022-04-06",
+    "title": "Univention",
+    "type": "Organisation",
     "logo_url": "https://www.univention.com/wp-content/themes/univention/assets/images/univention-logo.svg",
-    "website_url": "https://www.univention.com/products/ucs/",
-    "created_year": 2002,
-    "description": "Univention Corporate Server (UCS) is the innovative basis for the cost-efficient operation and easy administration of server applications and entire IT infrastructures.The integrated identity and infrastructure management system makes it easy to administrate applications, users and resources. Server and desktop solutions can be administrated centrally and across different locations and platforms via an easy-to-use web interface.Thanks to its standardized interfaces, UCS can be integrated easily into existing environments,on Microsoft Windows, Mac OS X or Linux systems",
-    "category_list": ["Operation management"],
-    "similar_solution_list": [{
-      "title": "Manjaro Linux",
-      "similar_solution_url": "https://manjaro.org/",
-      "category": "Operation management"
+    "location": {
+        "title": "Univention GmbH",
+        "address": "Mary-Somerville-Straße 1",
+        "postal_code": "28359",
+        "city": "Bremen",
+        "country": "DE",
+        "phone_contact": "+49421222320",
+        "mail_contact": "info@univention.de",
+        "coordinate_list": [53.10588964832094, 8.86356485190525]
+    },
+    "subsidiary_location_list": ["US"],
+    "website_url": "https://www.univention.com/",
+    "founded_year": 2004,
+    "kpi_list": [{
+        "year": 2020,
+        "staff": 57,
+        "earnings": "",
+        "total_assets": "4 822 096 EUR",
+        "revenues": "",
+        "source_url": "https://www.bundesanzeiger.de/"
+    }, {
+        "year": 2019,
+        "staff": 39,
+        "earnings": "",
+        "total_assets": "3 074 820 EUR",
+        "revenues": "",
+        "source_url": "https://www.bundesanzeiger.de/"
     },{
-      "title": "Fedora",
-      "similar_solution_url": "https://getfedora.org/",
-      "category": "Operation management"
+        "year": 2018,
+        "staff": 39,
+        "earnings": "",
+        "total_assets": "2 530 255 EUR",
+        "revenues": "",
+        "source_url": "https://www.bundesanzeiger.de/"
     },{
-      "title": "Pop!_OS",
-      "similar_solution_url": "https://pop.system76.com/",
-      "category": "Operation management"
+        "year": 2017,
+        "staff": 39,
+        "earnings": "",
+        "total_assets": "2 355 430 EUR",
+        "revenues": "",
+        "source_url": "https://www.bundesanzeiger.de/"
     },{
-      "title": "openSUSE",
-      "similar_solution_url": "https://www.opensuse.org/",
-      "category": "Operation management"
-    },{
-      "title": "YunoHost",
-      "similar_solution_url": "https://yunohost.org/#/",
-      "category": "Operation management"
-    },{
-      "title": "Solus",
-      "similar_solution_url": "https://getsol.us/home/",
-      "category": "Operation management"
+        "year": 2016,
+        "staff": 53,
+        "earnings": "",
+        "total_assets": "2 183 892 EUR",
+        "revenues": "",
+        "source_url": "https://www.bundesanzeiger.de/"
     }],
-    "licence_list": ["AGPL v.3.0"],
-    "source_code_download": "https://github.com/univention/univention-corporate-server.git",
-    "source_code_profile": "https://www.openhub.net/p/univention/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.univention.com/products/prices-and-subscriptions/",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Univention_Corporate_Server",
-    "reference_list": [{
-      "title": "A1 Telekom Austria AG",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2019/12/A1-300x280.png",
-      "country": "AT",
-      "industry": "Telecommunication"
-    },{
-      "title": "Adidas Runtastic",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2022/03/adidas-runtastic_logo-vertical_rgb_black-300x140.png",
-      "country": "AT",
-      "industry": "Commerce and Retail"
-    },{
-      "title": "Max Planck Society",
-      "logo_url": "https://www.openlibhums.org/news/id/2/image/670/",
-      "country": "DE",
-      "industry": "Academia and Research"
-    },{
-      "title": "PBP Bundeszentrale für politische Bildung",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/bundeszentrale_fuer_politische_bildung.png",
-      "country": "DE",
-      "industry": "Associations and NGOs"
+    "solution_list": [{
+        "title": "Univention Corporate Server",
+        "logo_url": "https://www.univention.com/wp-content/themes/univention/assets/images/univention-logo.svg",
+        "website_url": "https://www.univention.com/products/ucs/",
+        "created_year": 2002,
+        "description": "Univention Corporate Server (UCS) is the innovative basis for the cost-efficient operation and easy administration of server applications and entire IT infrastructures.The integrated identity and infrastructure management system makes it easy to administrate applications, users and resources. Server and desktop solutions can be administrated centrally and across different locations and platforms via an easy-to-use web interface.Thanks to its standardized interfaces, UCS can be integrated easily into existing environments,on Microsoft Windows, Mac OS X or Linux systems",
+        "category_list": ["Operation management"],
+        "similar_solution_list": [{
+            "title": "Manjaro Linux",
+            "similar_solution_url": "https://manjaro.org/",
+            "category": "Operation management"
+        },{
+            "title": "Fedora",
+            "similar_solution_url": "https://getfedora.org/",
+            "category": "Operation management"
+        },{
+            "title": "openSUSE",
+            "similar_solution_url": "https://www.opensuse.org/",
+            "category": "Operation management"
+        },{
+            "title": "YunoHost",
+            "similar_solution_url": "https://yunohost.org/#/",
+            "category": "Operation management"
+        },{
+            "title": "Solus",
+            "similar_solution_url": "https://getsol.us/home/",
+            "category": "Operation management"
+        }],
+        "licence_list": ["AGPL v3.0"],
+        "source_code_download": "https://github.com/univention/univention-corporate-server.git",
+        "source_code_profile": "https://www.openhub.net/p/univention/analyses/latest/languages_summary",
+        "commercial_support_url": "https://www.univention.com/products/prices-and-subscriptions/",
+        "floss_software": true,
+        "commercial_support_open_source_version": true,
+        "commercial_support_available": true,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Univention_Corporate_Server",
+        "reference_list": [{
+            "title": "A1 Telekom Austria AG",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2019/12/A1-300x280.png",
+            "country": "AT",
+            "industry": "Telecommunication"
+        },{
+            "title": "Adidas Runtastic",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2022/03/adidas-runtastic_logo-vertical_rgb_black-300x140.png",
+            "country": "AT",
+            "industry": "Commerce and Retail"
+        },{
+            "title": "Max Planck Society",
+            "logo_url": "https://www.openlibhums.org/news/id/2/image/670/",
+            "country": "DE",
+            "industry": "Academia and Research"
+        },{
+            "title": "PBP Bundeszentrale für politische Bildung",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/bundeszentrale_fuer_politische_bildung.png",
+            "country": "DE",
+            "industry": "Associations and NGOs"
+        }, {
+            "title": "ConnexionPoint",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/logo.png",
+            "country": "US",
+            "industry": "Consulting and Training"
+        }, {
+            "title": "Phoenix Open Source Community",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2020/12/Phoenix_Logo_zentriert_farbig_pos_RGB-Web-300x260.png",
+            "country": "DE",
+            "industry": "Associations and NGOs"
+        }, {
+            "title": "Eberspächer",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2015/05/Eberspaecher_Tageslichtetechnik_Logo.png",
+            "country": "AT",
+            "industry": "Commerce and Retail"
+        }, {
+            "title": "Bundespolizei",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2022/01/Logo_BPOL_Standard_jpg-300x88.jpg",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "LuxBau",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/10/logo_lux_bau.png",
+            "country": "DE",
+            "industry": "Construction"
+        }, {
+            "title": "Max Planck Digital Library",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2020/02/mpdl.mpg-logo.svg",
+            "country": "DE",
+            "industry": "Media and Entertainment"
+        }, {
+            "title": "MCE Bank GmbH",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2016/05/mcebanklogo.png",
+            "country": "DE",
+            "industry": "Banking and Finance"
+        }, {
+            "title": "MyToys",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/mytoys_rgb-300x104.jpg",
+            "country": "DE",
+            "industry": "Commerce and Retail"
+        }, {
+            "title": "OOWV Oldenburgisch-Ostfriesische Wasserverband",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/mytoys_rgb-300x104.jpg",
+            "country": "DE",
+            "industry": "Associations and NGOs"
+        }, {
+            "title": "POWER Personen-Objekt-WERkschutz GmbH",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2016/05/power-big-300x64.png",
+            "country": "DE",
+            "industry": "Consulting and Training"
+        }, {
+            "title": "Region IT ",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2015/09/regio-it-logo1.png",
+            "country": "DE",
+            "industry": "Information Technology"
+        }, {
+            "title": "Rewe Digital",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2016/09/rewe-digital-logo-300x176.png",
+            "country": "DE",
+            "industry": "Commerce and Retail"
+        }, {
+            "title": "Schulstiftung",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2021/11/signet-schulstiftung-sachsen-2021-300x284.jpg",
+            "country": "DE",
+            "industry": "Associations and NGOs"
+        }, {
+            "title": "SIKB | Saarländische Investitionskreditbank AG",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2015/10/sikb_logo.png",
+            "country": "DE",
+            "industry": "Banking and Finance"
+        }, {
+            "title": "Universität Vechta",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2015/03/Uni_Vechta_Logo.png",
+            "country": "DE",
+            "industry": "Academia and Research"
+        }],
+        "success_case_list": [{
+            "title": "Compact Cleaning",
+            "description": "CC Compact Cleaning GmbH, with locations all over Austria and over 500 employees, is a leading provider in the fields of cleaning, special cleaning, washroom and property services. The company is looking for a new IT infrastructure – location-independent, failsafe, easy to expand and easy to adapt.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/04/CC_Logo_large.png",
+            "industry": "Commerce and Retail",
+            "customer": "CC Compact Cleanring",
+            "country": "AT",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/cc-compact-cleaning/  "
+        }, {
+            "title": "Chefarztabrechnung24 GmbH",
+            "description": "Chefarztabrechnung24 GmbH works as a long-standing billing partner for chief physicians, specialists and hospitals.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2017/12/caa24-logo-323-willkommen_600-300x56.png",
+            "industry": "Commerce and Retail",
+            "customer": "Chefarztabrechnung 24 GmbH",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/blog-en/2018/01/collaborative-cloud-workspace-based-on-univention-corporate-server/"
+        }, {
+            "title": "Diakonie - Eine Welt",
+            "description": "Diakonie Eine Welt, Austria The Austrian deaconry Eine Welt Requirements Replacement of the unsufficient management console Central management of the devices and their users Central identity management in order to easier integrate different services. Future-proof with connection possibilities also to cloud services",
+            "image_url": "https://www.univention.com/wp-content/uploads/2015/05/Diakonie_Eine_Welt_Logo_Transparent.png",
+            "industry": "Associations and NGOs",
+            "customer": "Diakonie",
+            "country": "AT",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/diakonie-eine-welt-austria/"
+        }, {
+            "title": "Federal office for Radiation Protection",
+            "description": "A federal office with 750 employees, 9 locations and 950 workstations with conventional office software and specialist applications. The core task of the Federal Office for Radiation Protection (BfS – Bundesamt für Strahlenschutz) is protecting people and the environment from damage caused by ionising and non-ionising radiation. The work carried out by the BfS involves many areas of life: medical andoccupational radiation protection, the monitoring of environmental radioactivity, nuclear safety, the disposal of radioactive waste and research into electromagnetic fields and ultraviolet radiation are just a few examples.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2015/05/Bundesamt_fuer_Strahlenschutz_logo.png",
+            "industry": "Public Administration and Government",
+            "customer": "Federal office for Radiation Protection",
+            "country": "AT",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/federal-office-radiation-protection/"
+        }, {
+            "title": "Fritz-Haber-Institut",
+            "description": "Complete replacement of the Microsoft server infrastructure Connection of the Windows clients to the central user administration",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/04/FHI_Logo_RGB_colored_gradient-2048x434.png",
+            "industry": "Academia and Research",
+            "customer": "Fritz-Haber-Institut",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/fritz-haber-institute-of-the-max-planck-society/"
+        }, {
+            "title": "Deutsches Forschungszentrum für Künstliche Intelligenz",
+            "description": "The experts at the German Research Center for Artificial Intelligence (DFKI) are always in demand when it comes to matters of intelligent systems like SmartFactory, SmartService and SmartCity. The cutting edge research at the DFKI with its 800 employees working at 6 sites is now safeguarded by the use of the latest Open Source systems and thanks to the support of the IKU Systems & Services IT system house.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2016/05/dfki-schrift.png",
+            "industry": "Academia and Research",
+            "customer": "Deutsches Forschungszentrum für Künstliche Intelligenz",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/german-research-center-for-artificial-intelligence/"
+        }, {
+            "title": "HaCon Ingenieurgesellschaft mbH",
+            "description": "HaCon Ingenieurgesellschaft mbH based in Hanover with over 400 employees, develops apps and web-based solutions in the area of travel planning, mobile ticketing or fleet management. The company is a member of the Siemens “Combined Power for Mobility” family since 2017. Requirements Development of a central identity management for more than 400 users Connection of the groupware Zimbra to the IDM Integration and easy login to company-wide cloud services",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/06/HaCon_Logo.png",
+            "industry": "Transport",
+            "customer": "HaCon Ingenieurgesellschaft mbH",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/hacon-ingenieurgesellschaft/"
+        }, {
+            "title": "KiKxxl GmbH",
+            "description": "Founded in 1999, KiKxxl is a communication server provider with its headquarters in Osnabrück and which operates call centres in Bochum, Bremen and Dortmund. The company boasts 1,900 employees and 1,600 computer-based workplaces. Requirements Automation of granting of user rights Reduction of administration efforts for user and group administration Integration of important services (mail, chat, office license management, telephony) into the central resource management",
+            "image_url": "https://www.univention.com/wp-content/uploads/2015/10/kikxxl_logo_awb.png",
+            "industry": "Telecommunication",
+            "customer": "KiKxxl GmbH",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/kikxxl-gmbh/"
+        }, {
+            "title": "Maynard Steel Casting",
+            "description": "Maynard Steel Casting Company is a full-service foundry with around 300 employees. Our partner Solution Simplified in close cooperation with Univention’s Professional Service, migrated the existing infrastructure to Univention Corporate Server for the about 50 workstations. Further, all users in Maynard Steels office now enjoy Kopano as their Groupware solution.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2019/07/Maynardsteel.png",
+            "industry": "Manufacturing",
+            "customer": "Maynard Steel Casting",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/maynard-steel-casting-company/"
+        }, {
+            "title": "Mercedes-Benz of Buckhead",
+            "description": "Car dealership with affiliated workshop in Atlanta, Georgia, USA with 150 employees and 75 end devices that need to be serviced Requirements Replacement of the obsolete and maintenance-intensive MS Active Directory Reduction of administrative overhead Easy to use central identity and access management Integration of Mercedes specialist applications into the IDM More security through domain-wide password policies File sharing and roaming profiles",
+            "image_url": "https://www.univention.com/wp-content/uploads/2019/04/Logo_MBB_BG_black.jpg",
+            "industry": "Commerce and Retail",
+            "customer": "Mercedes-Benz of Buckhead",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/mercedes-benz-of-buckhead-car-dealership/"
+        }, {
+            "title": "Molitor Zahntechnik, Berlin",
+            "description": "Molitor Zahntechnik (Dental laboratory technology company) in Berlin Solution Univention Corporate Server (UCS) on server hardware from Thomas-Krenn.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2015/06/Molitor_Zahntechnik_logo_transparent.png",
+            "industry": "Health and Life Sciences",
+            "customer": "Molitor Zahntechnik, Berlin",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/molitor-zahntechnik-berlin/"
+        }, {
+            "title": "Momentus",
+            "description": "Startup company with about 50 employees, located in Santa Clara, USA. The company provides transportation services for satellites in space.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/10/momentus-inc-logo-.png",
+            "industry": "Aviation and Aerospace",
+            "customer": "Momentus",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/momentus-inc/"
+        }, {
+            "title": "Oldenburgische Landesbank (regional bank)",
+            "description": "The Oldenburgische Landesbank (OLB) is the leading regional bank in the Weser-Ems region. With around 170 branches and 2150 employees, the universal bank offers the entire range of services for private and commercial customers. Requirements Management of a heterogeneous IT infrastructure consisting of Windows clients, Windows servers, terminal servers, Unix servers, and Oracle database servers. Provision of a redundant virtualization infrastructure in the data center Centralized authentication and user administration for employees at headquarters and at the around 170 branch offices",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/09/OLBLogo.svg",
+            "industry": "Banking and Finance",
+            "customer": "Oldenburgische Landesbank (regional bank)",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/referenz/oldenburgische-landesbank-regional-bank/"
+        }, {
+            "title": "Orange S.A.",
+            "description": "With 170,000 employees, Orange S.A. is the largest telecommunications company in France with headquarters in Paris. Requirements Ability to manage 30 million user identities The directory service must handle more than a hundred thousand simultaneous requests Delegated administration and scalable notifications API compatibility to existing systems Highly scalable for gradual user data migration.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2019/12/Orange_logo-200px.png",
+            "industry": "Telecommunication",
+            "customer": "Orange S.A.",
+            "country": "FR",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/references/"
+        }, {
+            "title": "Bundesverlag Österreich",
+            "description": "The Österreichische Bundesverlag (öbv), based in Vienna, is one of the largest and best-known educational publishers in Austria. Altogether it has 70 employees inside and outside the office. Solution Kopano as a replacement for MS Exchange and Outlook, can be used through browser and external apps (desktop and mobile devices). Univention Corporate Server as central identity management and IT infrastructure management.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2019/08/%C3%B6vb_logo_200px.png",
+            "industry": "Media and Entertainment",
+            "customer": "Bundesverlag Österreich",
+            "country": "AT",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/referenz/osterreichischer-bundesverlag/"
+        }, {
+            "title": "Pennsylvania Dermatology Partners, Inc.",
+            "description": "Pennsylvania Dermatology Partners Inc. i a merger of 14 dermatology clinics in Alabama/USA",
+            "image_url": "https://www.univention.com/wp-content/uploads/2019/11/logo-pdp.jpg",
+            "industry": "Health and Life Sciences",
+            "customer": "Pennsylvania Dermatology Partners, Inc.",
+            "country": "US",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/pennsylvania-dermatology-partners/"
+        }, {
+            "title": "Reisebüro Fahrenkrog",
+            "description": "Reisebüro Fahrenkrog Touristik & Business Travel GmbH & Co KG has eight branches in Schleswig-Holstein and Bremen with around 80 employees in total. Requirements An adaptable, open IT infrastructure at an acceptable cost",
+            "image_url": "https://www.univention.com/wp-content/uploads/2017/07/logo-fahrenkrog-reiseb%C3%BCro.png",
+            "industry": "Travel and Tourism",
+            "customer": "Reisebüro Fahrenkrog",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/referenz/reisebuero-fahrenkrog-2/"
+        }, {
+            "title": "SchwuZ Kulturveranstaltungs GmbH",
+            "description": "The Berlin based cultural event company “SchwuZ Kulturveranstaltungs GmbH” is responsible for the IT infrastructure of their office as well as of the joined event center, called “SchwuZ”.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2017/12/20150601-Logo-SchwuZ-Black-ab-Juni-2015_RGB-300x70.png",
+            "industry": "Associations and NGOs",
+            "customer": "SchwuZ Kulturveranstaltungs GmbH",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/blog-en/2017/11/bitpack-io-modernizes-it-at-the-schwuz-in-berlin-with-univention-corporate-server/"
+        },{
+            "title": "Sea-Watch Legal Aid Fund",
+            "description": "The Sea-Watch Legal Assistance Fund helps supporters of refugees in protecting and enforcing their rights. That way, they ensure that the humanitarian duty of sea rescue under international law will continue in the future.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2021/12/logo-sea-watch-rhf-2021.png",
+            "industry": "Associations and NGOs",
+            "customer": "Sea-Watch Legal Aid Fund",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/referenz/sea-watch-legal-aid-fund/"
+        },{
+            "title": "SOLARKIOSK AG",
+            "description": "SOLARKIOSK offers clean energy services, quality products and sustainable solutions worldwide. Over 250 people work and collaborate for the organization across Ethiopia, Kenya, Ruanda, Tanzania and Germany. Requirements Collaborative workspace allowing all team members to work and communicate with each other independently, efficiently, and securely. Central management of all Windows, Apple and Linux desktops in a domain Central identity management Groupware Filesharing via cloud Project management solution Intranet solution for the knowledge management",
+            "image_url": "https://www.univention.com/wp-content/uploads/2018/06/solarkiosk_logo.png",
+            "industry": "Associations and NGOs",
+            "customer": "SOLARKIOSK AG",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/blog-en/2018/06/setup-of-a-collaborative-workspace-for-a-globally-operating-team-with-ucs-as-the-central-idm-system/"
+        },{
+            "title": "Stadt Bremerhaven",
+            "description": "The media center Bremerhaven supports schools in the implementation of IT-based classes. The aim here was to provide the 17,500 teachers and pupils in this town with an easy and safe access to the learning platform itslearning. Solution UCS with UCS@school as the central identity and rights management for the learning platform itslearning. The integration of further IT services into UCS was planned for the future.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2016/06/BRHV-Logo-2zeilig-web-300x81.png",
+            "industry": "Public Administration and Government",
+            "customer": "Stadt Bremerhaven",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/blog-en/2019/04/bremerhaven-ucs-as-idm-itslearning/"
+        },{
+            "title": "State Audit Office of Mecklenburg-Western Pomerania",
+            "description": "The State Audit Office of Mecklenburg-Western Pomerania, based in Schwerin, is the authority responsible for monitoring the budgetary and economic management of the state as well as the budgetary and economic management of the municipal corporations. The IT department of the State Audit Office of Mecklenburg-Western Pomerania is responsible for the day-to-day operation of the IT applications for its 90 employees.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2021/03/Landesrechnungshof_Mecklenburg-Vorpommern4.jpg",
+            "industry": "Public Administration and Government",
+            "customer": "State Audit Office of Mecklenburg-Western Pomerania",
+            "country": "DE",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/referenz/state-audit-office-of-mecklenburg-western-pomerania/"
+        },{
+            "title": "University IT centres in Afghanistan",
+            "description": "IT centers from 5 Afghan universities, supported by the German Center for International and Intercultural Communication (ZiiK) at the TU Berlin (Technical University).",
+            "image_url": "https://www.univention.com/wp-content/uploads/2014/08/kandhar_university.png",
+            "industry": "Academia and Research",
+            "customer": "University IT centres in Afghanistan",
+            "country": "AF",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/university-it-centres-in-afghanistan-rely-on-ucs/"
+        },{
+            "title": "Wick Machinery",
+            "description": "Wick Machinery, a manufacturer of filling and closing machines with 15 employees and two sites in Austria.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2014/10/Wick_Machinery_Logo.jpg",
+            "industry": "Manufacturing",
+            "customer": "Wick Machinery  ",
+            "country": "AT",
+            "language": "de",
+            "success_case_url": "https://www.univention.com/referenz/wick-machinery-2/"
+        }]
     }, {
-      "title": "ConnexionPoint",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/logo.png",
-      "country": "US",
-      "industry": "Consulting and Training"
-    }, {
-      "title": "Phoenix Open Source Community",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2020/12/Phoenix_Logo_zentriert_farbig_pos_RGB-Web-300x260.png",
-      "country": "DE",
-      "industry": "Associations and NGOs"
-    }, {
-      "title": "Eberspächer",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2015/05/Eberspaecher_Tageslichtetechnik_Logo.png",
-      "country": "AT",
-      "industry": "Commerce and Retail"
-    }, {
-      "title": "Bundespolizei",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2022/01/Logo_BPOL_Standard_jpg-300x88.jpg",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "LuxBau",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/10/logo_lux_bau.png",
-      "country": "DE",
-      "industry": "Construction"
-    }, {
-      "title": "Max Planck Digital Library",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2020/02/mpdl.mpg-logo.svg",
-      "country": "DE",
-      "industry": "Media and Entertainment"
-    }, {
-      "title": "MCE Bank GmbH",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2016/05/mcebanklogo.png",
-      "country": "DE",
-      "industry": "Banking and Finance"
-    }, {
-      "title": "MyToys",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/mytoys_rgb-300x104.jpg",
-      "country": "DE",
-      "industry": "Commerce and Retail"
-    }, {
-      "title": "OOWV Oldenburgisch-Ostfriesische Wasserverband",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/mytoys_rgb-300x104.jpg",
-      "country": "DE",
-      "industry": "Associations and NGOs"
-    }, {
-      "title": "POWER Personen-Objekt-WERkschutz GmbH",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2016/05/power-big-300x64.png",
-      "country": "DE",
-      "industry": "Consulting and Training"
-    }, {
-      "title": "Region IT ",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2015/09/regio-it-logo1.png",
-      "country": "DE",
-      "industry": "Information Technology"
-    }, {
-      "title": "Rewe Digital",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2016/09/rewe-digital-logo-300x176.png",
-      "country": "DE",
-      "industry": "Commerce and Retail"
-    }, {
-      "title": "Schulstiftung",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2021/11/signet-schulstiftung-sachsen-2021-300x284.jpg",
-      "country": "DE",
-      "industry": "Associations and NGOs"
-    }, {
-      "title": "SIKB | Saarländische Investitionskreditbank AG",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2015/10/sikb_logo.png",
-      "country": "DE",
-      "industry": "Banking and Finance"
-    }, {
-      "title": "Universität Vechta",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2015/03/Uni_Vechta_Logo.png",
-      "country": "DE",
-      "industry": "Academia and Research"
-    }],
-    "success_case_list": [{
-      "title": "Compact Cleaning",
-      "description": "CC Compact Cleaning GmbH, with locations all over Austria and over 500 employees, is a leading provider in the fields of cleaning, special cleaning, washroom and property services. The company is looking for a new IT infrastructure – location-independent, failsafe, easy to expand and easy to adapt.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/04/CC_Logo_large.png",
-      "industry": "Commerce and Retail",
-      "customer": "CC Compact Cleanring",
-      "country": "AT",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/cc-compact-cleaning/  "
-    }, {
-      "title": "Chefarztabrechnung24 GmbH",
-      "description": "Chefarztabrechnung24 GmbH works as a long-standing billing partner for chief physicians, specialists and hospitals.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2017/12/caa24-logo-323-willkommen_600-300x56.png",
-      "industry": "Commerce and Retail",
-      "customer": "Chefarztabrechnung 24 GmbH",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/blog-en/2018/01/collaborative-cloud-workspace-based-on-univention-corporate-server/"
-    }, {
-      "title": "Diakonie - Eine Welt",
-      "description": "Diakonie Eine Welt, Austria The Austrian deaconry Eine Welt Requirements Replacement of the unsufficient management console Central management of the devices and their users Central identity management in order to easier integrate different services. Future-proof with connection possibilities also to cloud services",
-      "image_url": "https://www.univention.com/wp-content/uploads/2015/05/Diakonie_Eine_Welt_Logo_Transparent.png",
-      "industry": "Associations and NGOs",
-      "customer": "Diakonie",
-      "country": "AT",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/diakonie-eine-welt-austria/"
-    }, {
-      "title": "Federal office for Radiation Protection",
-      "description": "A federal office with 750 employees, 9 locations and 950 workstations with conventional office software and specialist applications. The core task of the Federal Office for Radiation Protection (BfS – Bundesamt für Strahlenschutz) is protecting people and the environment from damage caused by ionising and non-ionising radiation. The work carried out by the BfS involves many areas of life: medical andoccupational radiation protection, the monitoring of environmental radioactivity, nuclear safety, the disposal of radioactive waste and research into electromagnetic fields and ultraviolet radiation are just a few examples.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2015/05/Bundesamt_fuer_Strahlenschutz_logo.png",
-      "industry": "Public Administration and Government",
-      "customer": "Federal office for Radiation Protection",
-      "country": "AT",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/federal-office-radiation-protection/"
-    }, {
-      "title": "Fritz-Haber-Institut",
-      "description": "Complete replacement of the Microsoft server infrastructure Connection of the Windows clients to the central user administration",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/04/FHI_Logo_RGB_colored_gradient-2048x434.png",
-      "industry": "Academia and Research",
-      "customer": "Fritz-Haber-Institut",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/fritz-haber-institute-of-the-max-planck-society/"
-    }, {
-      "title": "Deutsches Forschungszentrum für Künstliche Intelligenz",
-      "description": "The experts at the German Research Center for Artificial Intelligence (DFKI) are always in demand when it comes to matters of intelligent systems like SmartFactory, SmartService and SmartCity. The cutting edge research at the DFKI with its 800 employees working at 6 sites is now safeguarded by the use of the latest Open Source systems and thanks to the support of the IKU Systems & Services IT system house.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2016/05/dfki-schrift.png",
-      "industry": "Academia and Research",
-      "customer": "Deutsches Forschungszentrum für Künstliche Intelligenz",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/german-research-center-for-artificial-intelligence/"
-    }, {
-      "title": "HaCon Ingenieurgesellschaft mbH",
-      "description": "HaCon Ingenieurgesellschaft mbH based in Hanover with over 400 employees, develops apps and web-based solutions in the area of travel planning, mobile ticketing or fleet management. The company is a member of the Siemens “Combined Power for Mobility” family since 2017. Requirements Development of a central identity management for more than 400 users Connection of the groupware Zimbra to the IDM Integration and easy login to company-wide cloud services",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/06/HaCon_Logo.png",
-      "industry": "Transport",
-      "customer": "HaCon Ingenieurgesellschaft mbH",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/hacon-ingenieurgesellschaft/"
-    }, {
-      "title": "KiKxxl GmbH",
-      "description": "Founded in 1999, KiKxxl is a communication server provider with its headquarters in Osnabrück and which operates call centres in Bochum, Bremen and Dortmund. The company boasts 1,900 employees and 1,600 computer-based workplaces. Requirements Automation of granting of user rights Reduction of administration efforts for user and group administration Integration of important services (mail, chat, office license management, telephony) into the central resource management",
-      "image_url": "https://www.univention.com/wp-content/uploads/2015/10/kikxxl_logo_awb.png",
-      "industry": "Telecommunication",
-      "customer": "KiKxxl GmbH",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/kikxxl-gmbh/"
-    }, {
-      "title": "Maynard Steel Casting",
-      "description": "Maynard Steel Casting Company is a full-service foundry with around 300 employees. Our partner Solution Simplified in close cooperation with Univention’s Professional Service, migrated the existing infrastructure to Univention Corporate Server for the about 50 workstations. Further, all users in Maynard Steels office now enjoy Kopano as their Groupware solution.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2019/07/Maynardsteel.png",
-      "industry": "Manufacturing",
-      "customer": "Maynard Steel Casting",
-      "country": "US",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/maynard-steel-casting-company/"
-    }, {
-      "title": "Mercedes-Benz of Buckhead",
-      "description": "Car dealership with affiliated workshop in Atlanta, Georgia, USA with 150 employees and 75 end devices that need to be serviced Requirements Replacement of the obsolete and maintenance-intensive MS Active Directory Reduction of administrative overhead Easy to use central identity and access management Integration of Mercedes specialist applications into the IDM More security through domain-wide password policies File sharing and roaming profiles",
-      "image_url": "https://www.univention.com/wp-content/uploads/2019/04/Logo_MBB_BG_black.jpg",
-      "industry": "Commerce and Retail",
-      "customer": "Mercedes-Benz of Buckhead",
-      "country": "US",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/mercedes-benz-of-buckhead-car-dealership/"
-    }, {
-      "title": "Molitor Zahntechnik, Berlin",
-      "description": "Molitor Zahntechnik (Dental laboratory technology company) in Berlin Solution Univention Corporate Server (UCS) on server hardware from Thomas-Krenn.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2015/06/Molitor_Zahntechnik_logo_transparent.png",
-      "industry": "Health and Life Sciences",
-      "customer": "Molitor Zahntechnik, Berlin",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/molitor-zahntechnik-berlin/"
-    }, {
-      "title": "Momentus",
-      "description": "Startup company with about 50 employees, located in Santa Clara, USA. The company provides transportation services for satellites in space.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/10/momentus-inc-logo-.png",
-      "industry": "Aviation and Aerospace",
-      "customer": "Momentus",
-      "country": "US",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/momentus-inc/"
-    }, {
-      "title": "Oldenburgische Landesbank (regional bank)",
-      "description": "The Oldenburgische Landesbank (OLB) is the leading regional bank in the Weser-Ems region. With around 170 branches and 2150 employees, the universal bank offers the entire range of services for private and commercial customers. Requirements Management of a heterogeneous IT infrastructure consisting of Windows clients, Windows servers, terminal servers, Unix servers, and Oracle database servers. Provision of a redundant virtualization infrastructure in the data center Centralized authentication and user administration for employees at headquarters and at the around 170 branch offices",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/09/OLBLogo.svg",
-      "industry": "Banking and Finance",
-      "customer": "Oldenburgische Landesbank (regional bank)",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/referenz/oldenburgische-landesbank-regional-bank/"
-    }, {
-      "title": "Orange S.A.",
-      "description": "With 170,000 employees, Orange S.A. is the largest telecommunications company in France with headquarters in Paris. Requirements Ability to manage 30 million user identities The directory service must handle more than a hundred thousand simultaneous requests Delegated administration and scalable notifications API compatibility to existing systems Highly scalable for gradual user data migration.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2019/12/Orange_logo-200px.png",
-      "industry": "Telecommunication",
-      "customer": "Orange S.A.",
-      "country": "FR",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/references/"
-    }, {
-      "title": "Bundesverlag Österreich",
-      "description": "The Österreichische Bundesverlag (öbv), based in Vienna, is one of the largest and best-known educational publishers in Austria. Altogether it has 70 employees inside and outside the office. Solution Kopano as a replacement for MS Exchange and Outlook, can be used through browser and external apps (desktop and mobile devices). Univention Corporate Server as central identity management and IT infrastructure management.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2019/08/%C3%B6vb_logo_200px.png",
-      "industry": "Media and Entertainment",
-      "customer": "Bundesverlag Österreich",
-      "country": "AT",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/referenz/osterreichischer-bundesverlag/"
-    }, {
-      "title": "Pennsylvania Dermatology Partners, Inc.",
-      "description": "Pennsylvania Dermatology Partners Inc. i a merger of 14 dermatology clinics in Alabama/USA",
-      "image_url": "https://www.univention.com/wp-content/uploads/2019/11/logo-pdp.jpg",
-      "industry": "Health and Life Sciences",
-      "customer": "Pennsylvania Dermatology Partners, Inc.",
-      "country": "US",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/pennsylvania-dermatology-partners/"
-    }, {
-      "title": "Reisebüro Fahrenkrog",
-      "description": "Reisebüro Fahrenkrog Touristik & Business Travel GmbH & Co KG has eight branches in Schleswig-Holstein and Bremen with around 80 employees in total. Requirements An adaptable, open IT infrastructure at an acceptable cost",
-      "image_url": "https://www.univention.com/wp-content/uploads/2017/07/logo-fahrenkrog-reiseb%C3%BCro.png",
-      "industry": "Travel and Tourism",
-      "customer": "Reisebüro Fahrenkrog",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/referenz/reisebuero-fahrenkrog-2/"
-    }, {
-      "title": "SchwuZ Kulturveranstaltungs GmbH",
-      "description": "The Berlin based cultural event company “SchwuZ Kulturveranstaltungs GmbH” is responsible for the IT infrastructure of their office as well as of the joined event center, called “SchwuZ”.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2017/12/20150601-Logo-SchwuZ-Black-ab-Juni-2015_RGB-300x70.png",
-      "industry": "Associations and NGOs",
-      "customer": "SchwuZ Kulturveranstaltungs GmbH",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/blog-en/2017/11/bitpack-io-modernizes-it-at-the-schwuz-in-berlin-with-univention-corporate-server/"
-    },{
-      "title": "Sea-Watch Legal Aid Fund",
-      "description": "The Sea-Watch Legal Assistance Fund helps supporters of refugees in protecting and enforcing their rights. That way, they ensure that the humanitarian duty of sea rescue under international law will continue in the future.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2021/12/logo-sea-watch-rhf-2021.png",
-      "industry": "Associations and NGOs",
-      "customer": "Sea-Watch Legal Aid Fund",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/referenz/sea-watch-legal-aid-fund/"
-    },{
-      "title": "SOLARKIOSK AG",
-      "description": "SOLARKIOSK offers clean energy services, quality products and sustainable solutions worldwide. Over 250 people work and collaborate for the organization across Ethiopia, Kenya, Ruanda, Tanzania and Germany. Requirements Collaborative workspace allowing all team members to work and communicate with each other independently, efficiently, and securely. Central management of all Windows, Apple and Linux desktops in a domain Central identity management Groupware Filesharing via cloud Project management solution Intranet solution for the knowledge management",
-      "image_url": "https://www.univention.com/wp-content/uploads/2018/06/solarkiosk_logo.png",
-      "industry": "Associations and NGOs",
-      "customer": "SOLARKIOSK AG",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/blog-en/2018/06/setup-of-a-collaborative-workspace-for-a-globally-operating-team-with-ucs-as-the-central-idm-system/"
-    },{
-      "title": "Stadt Bremerhaven",
-      "description": "The media center Bremerhaven supports schools in the implementation of IT-based classes. The aim here was to provide the 17,500 teachers and pupils in this town with an easy and safe access to the learning platform itslearning. Solution UCS with UCS@school as the central identity and rights management for the learning platform itslearning. The integration of further IT services into UCS was planned for the future.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2016/06/BRHV-Logo-2zeilig-web-300x81.png",
-      "industry": "Public Administration and Government",
-      "customer": "Stadt Bremerhaven",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/blog-en/2019/04/bremerhaven-ucs-as-idm-itslearning/"
-    },{
-      "title": "State Audit Office of Mecklenburg-Western Pomerania",
-      "description": "The State Audit Office of Mecklenburg-Western Pomerania, based in Schwerin, is the authority responsible for monitoring the budgetary and economic management of the state as well as the budgetary and economic management of the municipal corporations. The IT department of the State Audit Office of Mecklenburg-Western Pomerania is responsible for the day-to-day operation of the IT applications for its 90 employees.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2021/03/Landesrechnungshof_Mecklenburg-Vorpommern4.jpg",
-      "industry": "Public Administration and Government",
-      "customer": "State Audit Office of Mecklenburg-Western Pomerania",
-      "country": "DE",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/referenz/state-audit-office-of-mecklenburg-western-pomerania/"
-    },{
-      "title": "University IT centres in Afghanistan",
-      "description": "IT centers from 5 Afghan universities, supported by the German Center for International and Intercultural Communication (ZiiK) at the TU Berlin (Technical University).",
-      "image_url": "https://www.univention.com/wp-content/uploads/2014/08/kandhar_university.png",
-      "industry": "Academia and Research",
-      "customer": "University IT centres in Afghanistan",
-      "country": "AF",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/university-it-centres-in-afghanistan-rely-on-ucs/"
-    },{
-      "title": "Wick Machinery",
-      "description": "Wick Machinery, a manufacturer of filling and closing machines with 15 employees and two sites in Austria.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2014/10/Wick_Machinery_Logo.jpg",
-      "industry": "Manufacturing",
-      "customer": "Wick Machinery  ",
-      "country": "AT",
-      "language": "de",
-      "success_case_url": "https://www.univention.com/referenz/wick-machinery-2/"
+        "title": "UCS@school",
+        "logo_url": "https://www.univention.com/wp-content/uploads/2020/04/ucs_school_logo_rgb.svg",
+        "website_url": "https://www.univention.de/produkte/ucsschool/",
+        "created_year": "",
+        "description": "UCS@school is an identity and authorization management system optimized for the educational sector to centrally manage users, services, applications, and digital media. Important basic services such as the provision of WLAN, authentication, printing or file storage are integrated. Other solutions such as e-learning, file sharing or e-mail can simply be connected to the management system.",
+        "category_list": ["Cybersecurity"],
+        "similar_solution_list": [],
+        "licence_list": ["AGPL v.3.0"],
+        "source_code_download": "https://www.univention.com/products/univention-app-center/app-catalog/ucsschool/",
+        "source_code_profile": "https://www.openhub.net/p/ucs-at-school/analyses/latest/languages_summary",
+        "commercial_support_url": "https://www.univention.com/products/support/contact-support/support-form/",
+        "floss_software": true,
+        "commercial_support_open_source_version": true,
+        "commercial_support_available": true,
+        "wikipedia_url": "",
+        "reference_list": [{
+            "title": "Chemnitz Stadt der Moderne",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/Chemnitz_Logo_klein.jpg",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        },{
+            "title": "Landeshauptstadt Hanover",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2017/12/Hannover_rot-schwarz-300x112.jpg",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Stadt Aachen",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2016/08/Stadt_Aachen-300x181.jpg",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Stadt Flensburg",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2017/08/logo_stadt-flensburg-2016-300x83.png",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Stadt Marburg",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2021/11/marburg-logo-web-2021-300x49.jpg",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Stadt Nürnberg",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2021/11/Nuernberg-logo-2021-300x187.jpg",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Handelslehranstalt Hameln",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2018/09/HLA-LOGO_NEU2016_gross_1100x330-300x90.png",
+            "country": "DE",
+            "industry": "Education"
+        }, {
+            "title": "Landkreis Friesland",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2015/11/landkreis_friesland.png",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Landkreis Rotehnburg",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2019/09/LK-ROW-Logo_pos-300x109.png",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Landtag Brandenburg ",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/landtag_brandenburg.png",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Landkreis Ludwigslust Parchim",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2019/06/ludwigslust_parchim_logo.png",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }, {
+            "title": "Stadt Völkingen ",
+            "logo_url": "https://www.univention.com/wp-content/uploads/2015/02/Stadt_Voelklingen_logo.png",
+            "country": "DE",
+            "industry": "Public Administration and Government"
+        }],
+        "success_case_list": [{
+            "title": "Bremen Senator for Children and Education",
+            "description": "Since 2003, the Bremen Senator for Children and Education has been developing and implementing a centralized offer for the provision of IT infrastructure in Bremen‘s schools. Among other elements, this covers centralized identity and infrastructure management, defined server and desktop environments, software distribution of educational applications for schools, a school software solution for computer-assisted teaching and roll-out, support, update and helpdesk procedures.",
+            "image_url": "https://www.bremen-tourism.de/_Resources/Static/Packages/Newland.BtzTheme/images/logo-bremen-en.png",
+            "industry": "Travel and Tourism",
+            "customer": "Bremen Tourism",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/bremen-senator-for-children-and-education/"
+        }, {
+            "title": "UCS@school and Open-Xchange for Schools in Basel",
+            "description": "Educational center PZ.BS, ICT Medien Maintaining 60 school sites with 25,000 pupils and 2,500 teachers and about 3,000 PCs and notebooks.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2016/05/basel_schrift-300x300.png",
+            "industry": "Public Administration and Government",
+            "customer": "Stadt Basel",
+            "country": "CH",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/blog-en/2019/06/ucsschool-and-open-xchange-for-schools-in-basel/"
+        }, {
+            "title": "City of Beckum",
+            "description": "The city of Beckum has a total of nine schools: six primary schools and three secondary schools. Two employees take care of the network infrastructure, the telephone systems, the servers and NAS systems as well as the end devices (including mobile device management). There are about 5,200 accounts (4,500 pupils and about 650 teachers).",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/07/stadt-beckum.svg",
+            "industry": "Public Administration and Government",
+            "customer": "City of Beckum",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/city-of-beckum/"
+        }, {
+            "title": "Stadt Köln",
+            "description": "The School and Pre-Kindergarten IT Services department at the Data Processing Office in Cologne provides services for 261 schools with around 10,000 faculty members and 135,000 students in total with the support of NetCologne. Solution A UCS-based identity management system managed centrally by the education authority with integration of the groupware Open-Xchange, the mobile device management software Jamf, the learning platform Moodle, and Office 365 via single sign-on",
+            "image_url": "https://www.univention.com/wp-content/uploads/2018/07/stadt_koeln.svg",
+            "industry": "Public Administration and Government",
+            "customer": "City of Cologne",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/blog-en/2018/05/setup-of-an-efficient-it-infrastructure-with-central-identity-management-in-261-schools-in-cologne/"
+        }, {
+            "title": "Stadt Fulda",
+            "description": "The council of the city of Fulda is responsible for the support and operation of IT for 23 schools with 13,000 students and 1,000 teachers. Requirements Uniform identity management for the centrally organized school IT of the schools in Fulda, to which the existing Active Directory can be connected. Controlling access rights for all students, teachers and school administrators of around 1,500 Windows PCs and notebooks and 850 thin clients Automatic and encrypted data import including a user life cycle management from the school administration (LUSD) Connection of further services to the central IDM such as Active Directory, fileservices, Self Service and Office 365.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2016/07/Logo_auf_Pantone_294_neu-300x100.jpg",
+            "industry": "Public Administration and Government",
+            "customer": "City of Fulda",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/blog-en/it-in-schools/2017/06/data-privacy-compliant-integration-of-office-365-in-fulda-schools/"
+        }, {
+            "title": "Stadt Neumünster",
+            "description": "The IT department of Neumünster’s city administration is responsible for the IT infrastructure and IT services for 22 general education schools and three vocational schools in that city. These schools include around 1,100 teachers and 15,000 students.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2020/09/neumuenster-logo.svg",
+            "industry": "Public Administration and Government",
+            "customer": "City of Neumünster",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/city-of-neumunster/"
+        }, {
+            "title": "Stadt Wolfsburg",
+            "description": "District-free city with 18,800 pupils at 37 schools Requirements The City of Wolfsburg intends to use the Wobila.de project to create a virtual learning space for the educational landscape in Wolfsburg. Within the framework of a pilot project at 6 schools, initially the central provision of WLAN and web services is to be tested.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2019/04/Wolfsburg_Offizielles_Stadtlogo_schwarz_PNG.png",
+            "industry": "Public Administration and Government",
+            "customer": "City of Wolfsburg",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/blog-en/2020/05/digital-offers-for-schools-interview-city-of-wolfsburg/"
+        }, {
+            "title": "Landkreis Kassel",
+            "description": "The media center maintains 72 schools in the district of Kassel with about 25,000 pupils. It also manages the use of around 6,000 end devices. Requirements Central administration of the school IT in spite of the wide-spread area structure Functional IT despite partially poor Internet connection at schools in rural areas Centralized provision of services from the data center Hofgeismar, combined with local school servers",
+            "image_url": "https://www.univention.com/wp-content/uploads/2017/02/Logo_Landkreis_Kassel.png",
+            "industry": "Public Administration and Government",
+            "customer": "Landkreis Kassel",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/blog-en/2019/07/schools-in-the-district-of-kassel-managing-ipads-centrally-with-ucsschool/"
+        },{
+            "title": "Landesmedienzentrum Baden-Württemberg",
+            "description": "Over 550 Baden-Württemberg schools, whose school networks and IT services for lessons are supported by the LMZ. Solution The new version of paedML Linux 6.0, which is based on UCS@school and the Open Source server operating system Univention Corporate Server.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2015/05/Logo_LMZ-.png",
+            "industry": "Media and Entertainment",
+            "customer": "Landesmedienzentrum Baden-Württemberg",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/landesmedienzentrum-baden-wuerttemberg/"
+        },{
+            "title": "Ministry of Education, Science, and Culture of Mecklenburg-Western Pomerania",
+            "description": "The Minister of Education, Science, and Culture is responsible for school and education matters in addition to science and culture. She is in charge of creating favorable conditions for education, the acquisition of knowledge, and lifelong learning in Mecklenburg-Western Pomerania. A state-wide directory service based on UCS@school enables the central provision of digital education services in Mecklenburg-Western Pomerania. The directory service manages the digital identities of pupils and teachers.",
+            "image_url": "https://www.univention.com/wp-content/uploads/2021/07/signet-ministry-of-education-science-culture-mecklenburg-western-pomerania.png",
+            "industry": "Public Administration and Government",
+            "customer": "Ministry of Education, Science, and Culture of Mecklenburg-Western Pomerania",
+            "country": "DE",
+            "language": "en",
+            "success_case_url": "https://www.univention.com/referenz/ministry-of-education-science-and-culture-of-mecklenburg-western-pomerania/"
+        }]
     }]
-  }, {
-    "title": "UCS@school",
-    "logo_url": "https://www.univention.com/wp-content/uploads/2020/04/ucs_school_logo_rgb.svg",
-    "website_url": "https://www.univention.de/produkte/ucsschool/",
-    "created_year": "",
-    "description": "UCS@school is an identity and authorization management system optimized for the educational sector to centrally manage users, services, applications, and digital media. Important basic services such as the provision of WLAN, authentication, printing or file storage are integrated. Other solutions such as e-learning, file sharing or e-mail can simply be connected to the management system.",
-    "category_list": ["Cybersecurity"],
-    "similar_solution_list": [],
-    "licence_list": ["AGPL v.3.0"],
-    "source_code_download": "https://www.univention.com/products/univention-app-center/app-catalog/ucsschool/",
-    "source_code_profile": "https://www.openhub.net/p/ucs-at-school/analyses/latest/languages_summary",
-    "commercial_support_url": "https://www.univention.com/products/support/contact-support/support-form/",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "Chemnitz Stadt der Moderne",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/Chemnitz_Logo_klein.jpg",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    },{
-      "title": "Landeshauptstadt Hanover",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2017/12/Hannover_rot-schwarz-300x112.jpg",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Stadt Aachen",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2016/08/Stadt_Aachen-300x181.jpg",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Stadt Flensburg",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2017/08/logo_stadt-flensburg-2016-300x83.png",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Stadt Marburg",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2021/11/marburg-logo-web-2021-300x49.jpg",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Stadt Nürnberg",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2021/11/Nuernberg-logo-2021-300x187.jpg",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Handelslehranstalt Hameln",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2018/09/HLA-LOGO_NEU2016_gross_1100x330-300x90.png",
-      "country": "DE",
-      "industry": "Education"
-    }, {
-      "title": "Landkreis Friesland",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2015/11/landkreis_friesland.png",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Landkreis Rotehnburg",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2019/09/LK-ROW-Logo_pos-300x109.png",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Landtag Brandenburg ",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2014/08/landtag_brandenburg.png",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Landkreis Ludwigslust Parchim",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2019/06/ludwigslust_parchim_logo.png",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }, {
-      "title": "Stadt Völkingen ",
-      "logo_url": "https://www.univention.com/wp-content/uploads/2015/02/Stadt_Voelklingen_logo.png",
-      "country": "DE",
-      "industry": "Public Administration and Government"
-    }],
-    "success_case_list": [{
-      "title": "Bremen Senator for Children and Education",
-      "description": "Since 2003, the Bremen Senator for Children and Education has been developing and implementing a centralized offer for the provision of IT infrastructure in Bremen‘s schools. Among other elements, this covers centralized identity and infrastructure management, defined server and desktop environments, software distribution of educational applications for schools, a school software solution for computer-assisted teaching and roll-out, support, update and helpdesk procedures.",
-      "image_url": "https://www.bremen-tourism.de/_Resources/Static/Packages/Newland.BtzTheme/images/logo-bremen-en.png",
-      "industry": "Travel and Tourism",
-      "customer": "Bremen Tourism",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/bremen-senator-for-children-and-education/"
-    }, {
-      "title": "UCS@school and Open-Xchange for Schools in Basel",
-      "description": "Educational center PZ.BS, ICT Medien Maintaining 60 school sites with 25,000 pupils and 2,500 teachers and about 3,000 PCs and notebooks.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2016/05/basel_schrift-300x300.png",
-      "industry": "Public Administration and Government",
-      "customer": "Stadt Basel",
-      "country": "CH",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/blog-en/2019/06/ucsschool-and-open-xchange-for-schools-in-basel/"
-    }, {
-      "title": "City of Beckum",
-      "description": "The city of Beckum has a total of nine schools: six primary schools and three secondary schools. Two employees take care of the network infrastructure, the telephone systems, the servers and NAS systems as well as the end devices (including mobile device management). There are about 5,200 accounts (4,500 pupils and about 650 teachers).",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/07/stadt-beckum.svg",
-      "industry": "Public Administration and Government",
-      "customer": "City of Beckum",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/city-of-beckum/"
-    }, {
-      "title": "Stadt Köln",
-      "description": "The School and Pre-Kindergarten IT Services department at the Data Processing Office in Cologne provides services for 261 schools with around 10,000 faculty members and 135,000 students in total with the support of NetCologne. Solution A UCS-based identity management system managed centrally by the education authority with integration of the groupware Open-Xchange, the mobile device management software Jamf, the learning platform Moodle, and Office 365 via single sign-on",
-      "image_url": "https://www.univention.com/wp-content/uploads/2018/07/stadt_koeln.svg",
-      "industry": "Public Administration and Government",
-      "customer": "City of Cologne",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/blog-en/2018/05/setup-of-an-efficient-it-infrastructure-with-central-identity-management-in-261-schools-in-cologne/"
-    }, {
-      "title": "Stadt Fulda",
-      "description": "The council of the city of Fulda is responsible for the support and operation of IT for 23 schools with 13,000 students and 1,000 teachers. Requirements Uniform identity management for the centrally organized school IT of the schools in Fulda, to which the existing Active Directory can be connected. Controlling access rights for all students, teachers and school administrators of around 1,500 Windows PCs and notebooks and 850 thin clients Automatic and encrypted data import including a user life cycle management from the school administration (LUSD) Connection of further services to the central IDM such as Active Directory, fileservices, Self Service and Office 365.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2016/07/Logo_auf_Pantone_294_neu-300x100.jpg",
-      "industry": "Public Administration and Government",
-      "customer": "City of Fulda",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/blog-en/it-in-schools/2017/06/data-privacy-compliant-integration-of-office-365-in-fulda-schools/"
-    }, {
-      "title": "Stadt Neumünster",
-      "description": "The IT department of Neumünster’s city administration is responsible for the IT infrastructure and IT services for 22 general education schools and three vocational schools in that city. These schools include around 1,100 teachers and 15,000 students.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2020/09/neumuenster-logo.svg",
-      "industry": "Public Administration and Government",
-      "customer": "City of Neumünster",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/city-of-neumunster/"
-    }, {
-      "title": "Stadt Wolfsburg",
-      "description": "District-free city with 18,800 pupils at 37 schools Requirements The City of Wolfsburg intends to use the Wobila.de project to create a virtual learning space for the educational landscape in Wolfsburg. Within the framework of a pilot project at 6 schools, initially the central provision of WLAN and web services is to be tested.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2019/04/Wolfsburg_Offizielles_Stadtlogo_schwarz_PNG.png",
-      "industry": "Public Administration and Government",
-      "customer": "City of Wolfsburg",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/blog-en/2020/05/digital-offers-for-schools-interview-city-of-wolfsburg/"
-    }, {
-      "title": "Landkreis Kassel",
-      "description": "The media center maintains 72 schools in the district of Kassel with about 25,000 pupils. It also manages the use of around 6,000 end devices. Requirements Central administration of the school IT in spite of the wide-spread area structure Functional IT despite partially poor Internet connection at schools in rural areas Centralized provision of services from the data center Hofgeismar, combined with local school servers",
-      "image_url": "https://www.univention.com/wp-content/uploads/2017/02/Logo_Landkreis_Kassel.png",
-      "industry": "Public Administration and Government",
-      "customer": "Landkreis Kassel",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/blog-en/2019/07/schools-in-the-district-of-kassel-managing-ipads-centrally-with-ucsschool/"
-    },{
-      "title": "Landesmedienzentrum Baden-Württemberg",
-      "description": "Over 550 Baden-Württemberg schools, whose school networks and IT services for lessons are supported by the LMZ. Solution The new version of paedML Linux 6.0, which is based on UCS@school and the Open Source server operating system Univention Corporate Server.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2015/05/Logo_LMZ-.png",
-      "industry": "Media and Entertainment",
-      "customer": "Landesmedienzentrum Baden-Württemberg",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/landesmedienzentrum-baden-wuerttemberg/"
-    },{
-      "title": "Ministry of Education, Science, and Culture of Mecklenburg-Western Pomerania",
-      "description": "The Minister of Education, Science, and Culture is responsible for school and education matters in addition to science and culture. She is in charge of creating favorable conditions for education, the acquisition of knowledge, and lifelong learning in Mecklenburg-Western Pomerania. A state-wide directory service based on UCS@school enables the central provision of digital education services in Mecklenburg-Western Pomerania. The directory service manages the digital identities of pupils and teachers.",
-      "image_url": "https://www.univention.com/wp-content/uploads/2021/07/signet-ministry-of-education-science-culture-mecklenburg-western-pomerania.png",
-      "industry": "Public Administration and Government",
-      "customer": "Ministry of Education, Science, and Culture of Mecklenburg-Western Pomerania",
-      "country": "DE",
-      "language": "en",
-      "success_case_url": "https://www.univention.com/referenz/ministry-of-education-science-and-culture-of-mecklenburg-western-pomerania/"
-    }]
-  }]
 }
