@@ -1,5 +1,5 @@
 {
-	"created": "2022-04-01",
+    "created": "2022-04-01",
 	"title": "Whaller",
 	"type": "Organisation",
 	"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whaller_logo_simple.png/1200px-Whaller_logo_simple.png",
@@ -53,19 +53,11 @@
 			"title": "Jamespot",
 			"similar_solution_url": "https://www.fr.jamespot.com/",
 			"category": "Workspace"
-		},{
-			"title": "Talkspirit",
-			"similar_solution_url": "https://en.talkspirit.com/",
-			"category": "Workspace"
-		},{
-			"title": "Wimi",
-			"similar_solution_url": "https://www.wimi-teamwork.com/",
-			"category": "Workspace"
 		}],
 		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
-		"commercial_support_url": "https://help.whaller.com/en/",
+		"commercial_support_url": "https://help.whaller.com/",
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
