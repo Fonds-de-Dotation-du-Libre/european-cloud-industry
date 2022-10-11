@@ -1,117 +1,117 @@
 {
-  "created": "2022-04-08",
-  "title": "Vates",
-  "type": "Organisation",
-  "logo_url": "https://vates.fr/img/bg-img/logovates.png",
-  "location": {
-    "title": "Vates SAS",
-    "address": "17 rue Aimé Berey",
-    "postal_code": "38000",
-    "city": "Grenoble",
-    "country": "FR",
-    "phone_contact": "",
-    "mail_contact": "",
-    "coordinate_list": [45.18926731267973, 5.709716628656718]
-  },
-  "subsidiary_location_list": [],
-  "website_url": "https://vates.fr/",
-  "founded_year": 2012,
-  "kpi_list": [{
-    "year": 2020,
-    "staff": "",
-    "earnings": "",
-    "total_assets": "2 017 605 EUR",
-    "revenues": "",
-    "source_url": "https://www.verif.com/"
-  }, {
-    "year": 2019,
-    "staff": "",
-    "earnings": "",
-    "total_assets": "1 445 752 EUR",
-    "revenues": "",
-    "source_url": "https://www.verif.com/"
-  }],
-  "solution_list": [{
-    "title": "XCP-ng",
-    "logo_url": "https://vates.fr/img/bg-img/xcp-ng.png",
-    "website_url": "https://xcp-ng.org/",
-    "created_year": 2018,
-    "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
-    "category_list": ["Compute virtualisation"],
-    "similar_solution_list": [{
-      "title": "VM Ware",
-      "similar_solution_url": "https://www.virtualbox.org/",
-      "category": "Compute virtualisation"
-    },{
-      "title": "Proxmox Virtual Environment",
-      "similar_solution_url": "https://www.proxmox.com/",
-      "category": "Compute virtualisation"
-    },{
-      "title": "SlapOS",
-      "similar_solution_url": "https://slapos.nexedi.com/",
-      "category": "Compute virtualisation"
+    "created": "2022-04-08",
+    "title": "Vates",
+    "type": "Organisation",
+    "logo_url": "https://vates.fr/img/bg-img/logovates.png",
+    "location": {
+        "title": "Vates SAS",
+        "address": "17 rue Aimé Berey",
+        "postal_code": "38000",
+        "city": "Grenoble",
+        "country": "FR",
+        "phone_contact": "",
+        "mail_contact": "",
+        "coordinate_list": [45.18926731267973, 5.709716628656718]
+    },
+    "subsidiary_location_list": [],
+    "website_url": "https://vates.fr/",
+    "founded_year": 2012,
+    "kpi_list": [{
+        "year": 2020,
+        "staff": "",
+        "earnings": "",
+        "total_assets": "2 017 605 EUR",
+        "revenues": "",
+        "source_url": "https://www.verif.com/"
+    }, {
+        "year": 2019,
+        "staff": "",
+        "earnings": "",
+        "total_assets": "1 445 752 EUR",
+        "revenues": "",
+        "source_url": "https://www.verif.com/"
     }],
-    "licence_list": ["GPL v2.0"],
-    "source_code_download": "https://github.com/xcp-ng/xcp",
-    "source_code_profile": "",
-    "commercial_support_url": "https://xcp-ng.com/service.html",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/XCP-ng",
-    "reference_list": [],
-     "success_case_list": []
-  },{
-    "title": "Xen Orchestra",
-    "logo_url": "https://xen-orchestra.com/assets/logo.png",
-    "website_url": "https://xen-orchestra.com/#!/xo-home",
-    "created_year": "",
-    "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
-    "category_list": ["Service lifecycle automation"],
-    "similar_solution_list": [{
-      "title": "Vagrant",
-      "similar_solution_url": "https://www.vagrantup.com/",
-      "category": "Service lifecycle automation"
-    }],
-    "licence_list": ["GPL v3.0"],
-    "source_code_download": "https://github.com/vatesfr/xen-orchestra/",
-    "source_code_profile": "https://www.openhub.net/p/xen-orchestra/analyses/latest/languages_summary",
-    "commercial_support_url": "https://xen-orchestra.com/#!/xo-features/support",
-    "floss_software": true,
-    "commercial_support_open_source_version": true,
-    "commercial_support_available": true,
-    "wikipedia_url": "",
-    "reference_list": [{
-      "title": "TSystems",
-      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/t-systems-small.png",
-      "country": "DE",
-      "industry": "Telecommunication"
+    "solution_list": [{
+        "title": "XCP-ng",
+        "logo_url": "https://vates.fr/img/bg-img/xcp-ng.png",
+        "website_url": "https://xcp-ng.org/",
+        "created_year": 2018,
+        "description": "Based on Citrix XenServer hypervisor™, XCP-ng is a fully open source virtualization platform. Result of the massive cooperation between individuals as well as companies XCP-ng is now part of the Linux Foundation as an incubated solution under the Xen Project. XCP-ng is very similar as Citrix Hypervisor™ with the notable exception of the restrictions: XCP-ng has none! Unleash the true power of virtualization.",
+        "category_list": ["Compute virtualisation"],
+        "similar_solution_list": [{
+            "title": "VM Ware",
+            "similar_solution_url": "https://www.virtualbox.org/",
+            "category": "Compute virtualisation"
+        },{
+            "title": "Proxmox Virtual Environment",
+            "similar_solution_url": "https://www.proxmox.com/",
+            "category": "Compute virtualisation"
+        },{
+            "title": "SlapOS",
+            "similar_solution_url": "https://slapos.nexedi.com/",
+            "category": "Compute virtualisation"
+        }],
+        "licence_list": ["GPL v2.0"],
+        "source_code_download": "https://github.com/xcp-ng/xcp",
+        "source_code_profile": "",
+        "commercial_support_url": "https://xcp-ng.com/service.html",
+        "floss_software": true,
+        "commercial_support_open_source_version": true,
+        "commercial_support_available": true,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/XCP-ng",
+        "reference_list": [],
+        "success_case_list": []
     },{
-      "title": "Boku",
-      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/bokulogo-small.png",
-      "country": "US",
-      "industry": "Banking and Finance"
-    },{
-      "title": "CGI",
-      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/cgi-small.png",
-      "country": "CA",
-      "industry": "Consulting and Training"
-    },{
-      "title": "Upwork",
-      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/upwork-small.png",
-      "country": "US",
-      "industry": "Information Technology"
-    },{
-      "title": "USGS",
-      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/usgs-small.png",
-      "country": "US",
-      "industry": "Academia and Research"
-    },{
-      "title": "Valve",
-      "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/valve-small.png",
-      "country": "US",
-      "industry": "Media and Entertainment"
-    }],
-    "success_case_list": []
-  }]
+        "title": "Xen Orchestra",
+        "logo_url": "https://xen-orchestra.com/assets/logo.png",
+        "website_url": "https://xen-orchestra.com/#!/xo-home",
+        "created_year": "",
+        "description": "Xen Orchestra is designed to give you the tools you need to administrate your Citrix Hypervisor (XenServer) pools and enjoy a complete overview of your whole infrastructure. No agent to install on your hosts, you can access everything from anywhere and from any devices.",
+        "category_list": ["Service lifecycle automation"],
+        "similar_solution_list": [{
+            "title": "Vagrant",
+            "similar_solution_url": "https://www.vagrantup.com/",
+            "category": "Service lifecycle automation"
+        }],
+        "licence_list": ["GPL v3.0"],
+        "source_code_download": "https://github.com/vatesfr/xen-orchestra/",
+        "source_code_profile": "https://www.openhub.net/p/xen-orchestra/analyses/latest/languages_summary",
+        "commercial_support_url": "https://xen-orchestra.com/#!/xo-features/support",
+        "floss_software": true,
+        "commercial_support_open_source_version": true,
+        "commercial_support_available": true,
+        "wikipedia_url": "",
+        "reference_list": [{
+            "title": "TSystems",
+            "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/t-systems-small.png",
+            "country": "DE",
+            "industry": "Telecommunication"
+        },{
+            "title": "Boku",
+            "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/bokulogo-small.png",
+            "country": "US",
+            "industry": "Banking and Finance"
+        },{
+            "title": "CGI",
+            "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/cgi-small.png",
+            "country": "CA",
+            "industry": "Consulting and Training"
+        },{
+            "title": "Upwork",
+            "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/upwork-small.png",
+            "country": "US",
+            "industry": "Information Technology"
+        },{
+            "title": "USGS",
+            "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/usgs-small.png",
+            "country": "US",
+            "industry": "Academia and Research"
+        },{
+            "title": "Valve",
+            "logo_url": "https://xen-orchestra.com/assets/clients/customers-logo-small/valve-small.png",
+            "country": "US",
+            "industry": "Media and Entertainment"
+        }],
+        "success_case_list": []
+    }]
 }
