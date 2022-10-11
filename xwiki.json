@@ -314,7 +314,7 @@
 			"language": "fr",
 			"success_case_url": "https://xwiki.com/fr/societe/references/cnfpt"
 		}]
-	}, {
+    }, {
 		"title": "Cryptpad",
 		"logo_url": "https://cryptpad.fr/customize/CryptPad_logo.svg?",
 		"website_url": "https://cryptpad.fr/index.html",
