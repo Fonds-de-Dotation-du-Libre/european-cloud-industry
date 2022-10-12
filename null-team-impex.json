@@ -1,6 +1,6 @@
 {
 	"created": "2022-04-07",
-	"title": "Null Team (YateBTS)",
+	"title": "Null Team",
 	"type": "Organisation",
 	"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
 	"location": {
@@ -119,7 +119,7 @@
       			"similar_solution_url": "https://slapos.nexedi.com/NXD-Document.Press.Release.SlapOS.NMS.Multistack.Showcase.MWC.2019",
      			"category": "vRan"
     		}],
-		"licence_list": ["GPL"],
+		"licence_list": [],
 		"source_code_download": "",
 		"source_code_profile": "",
 		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
@@ -194,7 +194,7 @@
 		}],
 		"success_case_list": []
 	}, {
-		"title": "YateUDMTM",
+		"title": "YateUDM",
 		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
 		"website_url": "https://yatebts.com/products/yateudm/",
 		"created_year": "",
@@ -307,42 +307,6 @@
 		"website_url": "https://yatebts.com/products/5g-sa-lab/",
 		"created_year": "",
 		"description": "5G SA Lab it’s a complete 5G network in a desktop package. It includes 5GC core network, 5G gNodeB and 2 5G SA compatible smartphones.",
-		"category_list": ["vRan"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "YateOTA",
-		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-		"website_url": "https://yatebts.com/products/yateota-ota-gateway/",
-		"created_year": "",
-		"description": "YateOTA is a system that provides the functions required to manage SIM configurations using Over-The-Air messages over SMS.",
-		"category_list": ["vRan"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://yatebts.com/documentation/how-to-reach-our-support-department/",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [],
-		"success_case_list": []
-	}, {
-		"title": "2Greet",
-		"logo_url": "https://yatebts.com/wp-content/uploads/2018/06/yatebts_60.svg",
-		"website_url": "https://yatebts.com/products/2greet-volte-ims-alternative/",
-		"created_year": "",
-		"description": "2Greet is a Core Network function that gives Voice service over LTE, 3G or WiFi. The network integration is seamless and it doesn’t need any special configurations.",
 		"category_list": ["vRan"],
 		"similar_solution_list": [],
 		"licence_list": [],
