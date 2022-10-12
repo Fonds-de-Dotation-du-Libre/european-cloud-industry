@@ -1,0 +1,145 @@
+{
+	"created": "12-10-2022",
+	"title": "Clickmeeting",
+	"type": "Organisation",
+	"logo_url": "https://sc.stat-cdn.com/vhp_dist/img/cm-logo.1080872.svg",
+	"location": {
+		"title": "ClickMeeting spółka z",
+		"address": "ul. Arkońska 6/A4",
+		"postal_code": "80-387",
+		"city": "Gdansk",
+		"country": "PL",
+		"phone_contact": "",
+		"mail_contact": "support@clickmeeting.com",
+		"coordinate_list": [54.40522352723209, 18.57737481349401]
+	},
+	"subsidiary_location_list": [],
+	"website_url": "https://clickmeeting.com/about-us",
+	"founded_year": "2011",
+	"kpi_list": [],
+	"solution_list": [{
+		"title": "Clickmeeting",
+		"logo_url": "https://sc.stat-cdn.com/vhp_dist/img/cm-logo.1080872.svg",
+		"website_url": "https://clickmeeting.com/about-us",
+		"created_year": "2011",
+		"description": "Video conferencing, online meetings, and webinar software to bring your students, customers, and team members together.",
+		"category_list": ["Communication"],
+		"similar_solution_list": [{
+			"title": "Zoom",
+			"similar_solution_url": "https://zoom.us/",
+			"category": "Communication"
+		}, {
+			"title": "Teams",
+			"similar_solution_url": "https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software",
+			"category": "Communication"
+		}, {
+			"title": "Hangouts",
+			"similar_solution_url": "https://hangouts.google.com/",
+			"category": "Communication"
+		}, {
+			"title": "Streamyard",
+			"similar_solution_url": "https://streamyard.com/",
+			"category": "Communication"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://knowledge.clickmeeting.com/",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "https://pl.wikipedia.org/wiki/ClickMeeting",
+		"reference_list": [],
+		"success_case_list": [{
+			"title": "How Webinars Help to Share Knowledge and Support Companies During the Crisis – Nethansa Case Study",
+			"description": "In recent months, as a result of the spreading pandemic, many valuable conferences have been canceled. Luckily, thanks to webinar platforms such as ClickMeeting, sharing knowledge is still not only possible but needed more than ever. Nethansa knows this perfectly well and, therefore, decided to focus on educating and helping other companies that may need it in these difficult times. They organized online events to show solutions that allowed many companies to emerge from the crisis unscathed.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2020/10/blog-header-2020-06-375x250.jpg",
+			"industry": "Information Technology",
+			"customer": "nethansa",
+			"country": "PL",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/nethansa-case-study"
+		}, {
+			"title": "How ProductCamp Changed their Offline Event into a Successful Online Summit",
+			"description": "Virtual summits are on the rise, especially this year. Due to the outbreak of the global pandemic, more and more event organizers had to make a quick decision: do we cancel or go online? The ones that decided to embrace the virtual summit model are now very happy that they did. If you are thinking about organizing ​huge virtual events​ – you are not alone. And this is a great place to find out how to do it seamlessly with ClickMeeting. Read on to see ​how one of ClickMeeting’s customers turned a medium-scale local event into a successful virtual summit ​with over 1400 attendees from 51 countries.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2020/10/blog-header-2020-08-375x250.jpg",
+			"industry": "Information Technology",
+			"customer": "ProductChamp",
+			"country": "US",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/productcamp-online-summit"
+		}, {
+			"title": "How to Organize an Online Event for Several Hundred People without any Technical Issues — ELSA case study",
+			"description": "COVID-19 has forced most companies and organizations to make a lot of changes. One of them was The European Law Students’ Association, which, despite the pandemic, decided to remain active and fulfill its mission, which is to share knowledge between students. They transformed all the events they had planned for 2020 into an online format. Interestingly, their online events gathered up to 500 members. How did they achieve it? We invite you to read this case study for more details.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2021/01/blog-header-2020-27-375x250.jpg",
+			"industry": "Associations and NGOs",
+			"customer": "ELSA",
+			"country": "BE",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/elsa-case-study"
+		}, {
+			"title": "How ClickMeeting Helped ESAE Double its Member Count in Two Years",
+			"description": "How would you like to 2X your customer base, subscriber list, or membership count? If you’re like most companies, you’d jump at the chance. As it turns out, the opportunity to grow your business in a significant way might be more accessible than you thought! We recently sat down and had a conversation with the leadership team at ESAE, who have used ClickMeeting to grow their association’s membership numbers to impressive heights. Sounds interesting? Keep reading to find out how you can achieve similar results.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2021/09/1500x500-375x250.jpeg",
+			"industry": "Associations and NGOs",
+			"customer": "ESAE",
+			"country": "BE",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/esae-case-study"
+		}, {
+			"title": "Solveta Case Study: How ClickMeeting Supports Solveta in Daily Work",
+			"description": "A picture is worth a thousand words and a video is worth a thousand pictures. That’s a million reasons why you absolutely need explainer videos! A billion such videos are now viewed every day on YouTube alone. However, the easier you want to explain something, the harder it becomes: What is important and what are you leaving out? In what order do you explain your topic? And how do you make sure that the audience stays there the whole time? The creation of a good explainer video is an art and a lot of craft. In this article, you’ll learn about Solveta, and how ClickMeeting supports the company in daily operations.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2021/12/blog-header-36-375x250.jpg",
+			"industry": "Education",
+			"customer": "Solveta",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/solveta-case-study"
+		}, {
+			"title": "How does SMSAPI use ClickMeeting? Case Study",
+			"description": "SMSAPI provides a mass SMS messaging service for companies both in Poland and abroad. It uses ClickMeeting in its daily operations. How does our platform support SMSAPI? You will find out in this article. Michał Kuliś, a content marketer at SMSAPI who is also responsible for organizing events, talks about cooperation with ClickMeeting and ways to use the tool.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2022/01/91970214_3067167096669251_7674985139226542080_n-375x250.png",
+			"industry": "Telecommunication",
+			"customer": "SMSAPI",
+			"country": "PL",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/smsapi-cs"
+		}, {
+			"title": "We support leaders. How does AGH UST Centre of e-Learning use ClickMeeting?",
+			"description": "AGH University of Science and Technology in Krakow is not only one of the best technical universities in Central and Eastern Europe: for many years it has also been an innovation leader in e-learning. One of the tools it uses is ClickMeeting.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2022/02/blogpostAGH_0003_Barwa_Nasycenie-2-375x250.jpg",
+			"industry": "Academia and Research",
+			"customer": "AGH University of Science and Technology",
+			"country": "PL",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/case-study-agh"
+		}, {
+			"title": "ClickMeeting and Moodle: eLearning platform of Gdańsk Tech",
+			"description": "E-Learning and blended learning are successfully used at all levels of education. This also applies to universities. The Gdańsk University of Technology is one of the leaders in distance learning. For many universities, the pandemic outbreak was a big surprise. The inability to conduct classes in a stationary mode forced a rapid transition to remote learning. However, the best universities had been well prepared and had taken advantage of eLearning and blended learning opportunities far earlier.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2022/04/Bez-nazwy-1_0001_Warstwa-3-375x250.jpg",
+			"industry": "Academia and Research",
+			"customer": "Gdańsk University of Technology ",
+			"country": "PL",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/case-study-pg"
+		}, {
+			"title": "Language classes and dyslexics support 100% online. Danzig & unfried Case Study",
+			"description": "Studying languages entirely online doesn’t surprise anyone anymore. On the contrary. It has become very popular all over the world. Anyone interested can learn virtually any language without leaving their home. One of the specialists in this field is Dr. Ernst Grabovszki, who teaches German via ClickMeeting and helps people with dyslexia. We are now used to having different types of courses fully online. This is very convenient: it is much easier to find free time, and save on commuting. Distance learning means a lot of comfort for teachers as well: conducting classes online can be equally fruitful, at the same time there is a proven set of techniques that will work perfectly with a particular group of students.",
+			"image_url": "https://blog.clickmeeting.com/uploads//2022/05/281430626_408196587980016_2066302758257293932_n-375x250.jpeg",
+			"industry": "Education",
+			"customer": "Dr. Ernst Grabovszki",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/danzig-unfried-cs"
+		}, {
+			"title": "Better Goalkeeper Training with ClickMeeting: Goalkeeping Development Case Study",
+			"description": "Remote learning doesn’t just work for schools and universities with lessons and lectures. It also helps to acquire slightly less standard knowledge and skills. A great example of such a company is Goalkeeping Development, which creates software to support the growth of goalkeepers. So how does it use ClickMeeting, and what benefits does it provide? Find the answers in this article!",
+			"image_url": "https://blog.clickmeeting.com/uploads//2022/02/139833098_3930703536962658_2336917657445669447_n-375x250.jpeg",
+			"industry": "Information Technology",
+			"customer": "Goalkeeping Development GmbH",
+			"country": "DE",
+			"language": "en",
+			"success_case_url": "https://blog.clickmeeting.com/goalkeeping-development-case-study"
+		}]
+	}]
+}
