@@ -59,20 +59,7 @@
 		"created_year": "",
 		"description": "A simplified PAM solution to secure and monitor access from anywhere. Privileged Access and Session Management to protect critical IT assets.",
 		"category_list": ["Cybersecurity"],
-		"similar_solution_list": [],
-		"licence_list": [],
-		"source_code_download": "",
-		"source_code_profile": "",
-		"commercial_support_url": "https://www.wallix.com/support/customer-support",
-		"floss_software": false,
-		"commercial_support_open_source_version": false,
-		"commercial_support_available": true,
-		"wikipedia_url": "",
-		"reference_list": [{
-			"title": "JumpCloud Directory Platform",
-			"similar_solution_url": "https://jumpcloud.com/wp-content/themes/jumpcloud/assets/images/jumpcloud-2022-logo.png",
-			"category": "Cybersecurity"
-		}, {
+		"similar_solution_list": [{
 			"title": "SecureLink",
 			"similar_solution_url": "https://www.securelink.com/",
 			"category": "Cybersecurity"
@@ -88,27 +75,36 @@
 			"title": "CyberArk",
 			"similar_solution_url": "https://www.cyberark.com/",
 			"category": "Cybersecurity"
-        },{
-            "title": "One Identity",
-            "similar_solution_url": "https://www.oneidentity.com/",
-            "category": "Cybersecurity"
-        },{
-            "title": "Delinea",
-            "similar_solution_url": "https://delinea.com/",
-            "category": "Cybersecurity"
-        },{
-            "title": "BeyondTrust",
-            "similar_solution_url": "https://www.beyondtrust.com/",
-            "category": "Cybersecurity"
-        },{
-            "title": "Micro Focus",
-            "similar_solution_url": "https://www.microfocus.com/",
-            "category": "Cybersecurity"
-        },{
-            "title": "Jumpcloud",
-            "similar_solution_url": "https://jumpcloud.com/",
-            "category": "Cybersecurity"
-        }],
+		},{
+		    "title": "One Identity",
+		    "similar_solution_url": "https://www.oneidentity.com/",
+		    "category": "Cybersecurity"
+		},{
+		    "title": "Delinea",
+		    "similar_solution_url": "https://delinea.com/",
+		    "category": "Cybersecurity"
+		},{
+		    "title": "BeyondTrust",
+		    "similar_solution_url": "https://www.beyondtrust.com/",
+		    "category": "Cybersecurity"
+		},{
+		    "title": "Micro Focus",
+		    "similar_solution_url": "https://www.microfocus.com/",
+		    "category": "Cybersecurity"
+		},{
+		    "title": "Jumpcloud",
+		    "similar_solution_url": "https://jumpcloud.com/",
+		    "category": "Cybersecurity"
+		}],
+		"licence_list": [],
+		"source_code_download": "",
+		"source_code_profile": "",
+		"commercial_support_url": "https://www.wallix.com/support/customer-support",
+		"floss_software": false,
+		"commercial_support_open_source_version": false,
+		"commercial_support_available": true,
+		"wikipedia_url": "",
+		"reference_list": [],
    		"success_case_list": [{
 			"title": "Birmingham NHS chooses WALLIX Bastion to secure access to IT amidst the Covid-19 health crisis",
 			"description": "With a staff of 5,000 agents, Birmingham Community Healthcare NHS Trust has gone through a period of unprecedented stress throughout the health crisis, particularly in terms of cybersecurity. Their small IT Infrastructure team is focused on ensuring the security of patient data and systems remote access.",
