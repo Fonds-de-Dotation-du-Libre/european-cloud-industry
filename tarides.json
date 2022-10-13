@@ -11,7 +11,7 @@
 	"country": "FR",
 	"phone_contact": "",
 	"mail_contact": " contact@tarides.com",
-	"coordinate_list": ["48.84469821693384, 2.3501301715284546"]
+	"coordinate_list": [48.84469821693384, 2.3501301715284546]
   },
   "subsidiary_location_list": ["UK", "NO", "IN"],
   "website_url": "https://tarides.com/",
