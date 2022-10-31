@@ -2,7 +2,7 @@
   "created": "2022-07-25",
   "title": "Cloud-IAM SAS",
   "type": "Organisation",
-  "logo_url": "https://uploads-ssl.webflow.com/5f50dc76ddedbedd50e51328/6100755898e686562f48c80e_raw-blue.svg",
+  "logo_url": "https://cloud-iam-marketing.s3.fr-par.scw.cloud/SVG/Logotype.svg",
   "location": {
     "title": "Cloud-IAM SAS",
     "address": "37 Boulevard Solférino Immeuble Eurosquare",
@@ -15,7 +15,7 @@
   },
   "subsidiary_location_list": [],
   "website_url": "https://www.cloud-iam.com/en/about",
-  "founded_year": "",
+  "founded_year": "2018",
   "kpi_list": [],
   "solution_list": [{
     "title": "Keycloak",
@@ -32,7 +32,7 @@
     "licence_list": ["Apache v2.0"],
     "source_code_download": "https://www.openhub.net/p/keycloak",
     "source_code_profile": "",
-    "commercial_support_url": "",
+    "commercial_support_url": "https://en.wikipedia.org/wiki/Keycloak",
     "floss_software": false,
     "commercial_support_open_source_version": false,
     "commercial_support_available": false,
