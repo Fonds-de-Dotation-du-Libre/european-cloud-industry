@@ -10,7 +10,8 @@
         "city": "Pessac",
         "country": "FR",
         "phone_contact": "+3281813700",
-        "mail_contact": "contact@dolicloud.com"
+        "mail_contact": "contact@dolicloud.com",
+        "coordinate_list": [44.8018171,-0.6299565]
     },
     "website_url": "https://www.dolicloud.com/",
     "founded_year": 2007,
