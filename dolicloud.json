@@ -1,0 +1,47 @@
+{
+    "created": "2022-04-04",
+    "title": "DoliCloud",
+    "type": "Organisation",
+    "logo_url": "https://www.dolicloud.com/medias/image/dolicloud.com/dolicloud_256x256_color.png",
+    "location": {
+        "title": "DoliCloud",
+        "address": "14 B Rue Razon",
+        "postal_code": "33600",
+        "city": "Pessac",
+        "country": "FR",
+        "phone_contact": "+3281813700",
+        "mail_contact": "contact@dolicloud.com"
+    },
+    "website_url": "https://www.dolicloud.com/",
+    "founded_year": 2007,
+    "solution_list": [{
+        "title": "Dolibarr ERP CRM",
+        "logo_url": "https://www.dolicloud.com/medias/image/dolicloud.com/dolicloud_256x256_color.png",
+        "website_url": "https://www.dolibarr.org/",
+        "created_year": 2002,
+        "description": "Dolibarr ERP CRM is a suite of open source business apps covering all companies' needs: CRM, accounting, stock, point of sale, project management, etc.",
+        "category_list": ["Workspace"],
+        "similar_solution_list": [{
+            "title": "Odoo",
+            "similar_solution_url": "https://www.odoo.com/",
+            "category": "Application"
+        },{
+            "title": "ERP5",
+            "similar_solution_url": "https://erp5.nexedi.com/",
+            "category": "Application"
+        },{
+            "title": "ERPNext",
+            "similar_solution_url": "https://erpnext.com/",
+            "category": "Application"
+        }],
+        "licence_list": ["GPL v3.0"],
+        "source_code_download": "https://github.com/Dolibarr/dolibarr.git",
+        "source_code_profile": "https://www.openhub.net/p/dolibarr/analyses/latest/languages_summary",
+        "commercial_support_url": "https://partners.dolibarr.org/",
+        "floss_software": true,
+        "commercial_support_open_source_version": true,
+        "commercial_support_available": true,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dolibarr",
+        "reference_list": []
+    }]
+}
