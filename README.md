@@ -12,4 +12,4 @@
 *3. After filling out the JSON file, please validate it using the JSON validator in: [https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/contribute/validator.py](https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/contribute/validator.py)*
 
 ## What is Euclidia ?
-*The European Cloud Industrial Alliance is an industry alliance made up of SMEs active in the cloud industry. Members are cloud SMEs that develop and supply hardware or software for IaaS, PaaS or SaaS, and which are majority owned by European-based shareholders.*
+*The European Cloud Industrial Alliance is an industry alliance made up of SMEs active in the cloud industry. Members are cloud SMEs that develop and supply hardware or software for IaaS, PaaS or SaaS, and which are majority owned by European-based shareholders. More info on [www.euclidia.eu](www.euclidia.eu)*
