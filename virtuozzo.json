@@ -191,7 +191,7 @@
 		"description": "Turnkey OpenStack cloud for service providers. Sell public, private, hybrid cloud: a more flexible, cost efficient &amp; profitable hyperscale alternative.",
 		"category_list": ["Service lifecycle automation"],
 		"similar_solution_list": [{
-			"title": "Oracle Solaris Containers",
+			"title": "Oracle Solaris",
 			"similar_solution_url": "https://www.oracle.com/solaris/",
 			"category": "Service lifecycle automation"
 		}, {

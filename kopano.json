@@ -32,12 +32,12 @@
 		"description": "Kopano Groupware is an e-mail and calendaring solution, which can be operated digitally sovereign. Its functionality is comparable to that of Microsoft Outlook and Exchange. Kopano Groupware installations can be operated with more than 100,000 users.",		
 		"category_list": ["Workspace"],
 		"similar_solution_list": [{
-			"title": "Microsoft 365",
+			"title": "Microsoft Office 365",
 			"similar_solution_url": "https://www.office.com/",
 			"category": "Workspace"
 		}, {
-			"title": "Zimbra Collaboration Suite",
-			"similar_solution_url": "https://www.zimbra.com/business-email-collaboration/",
+			"title": "Zimbra",
+			"similar_solution_url": "https://www.zimbra.com/",
 			"category": "Workspace"
 		}, {
 			"title": "Mailo",

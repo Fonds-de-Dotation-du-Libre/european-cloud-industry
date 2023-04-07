@@ -60,7 +60,7 @@
 		"description": "A flexible enterprise phone platform that delivers reliable, high quality digital age communications to grow your business.",
 		"category_list": ["Server"],
 		"similar_solution_list": [{
-			"title": "Skype for Business",
+			"title": "Skype",
 			"similar_solution_url": "https://www.microsoft.com/en-us/microsoft-365/skype-for-business/download-app",
 			"category": "Communication"
 		}, {
@@ -110,7 +110,7 @@
 		"description": "A powerful suite of communication and collaboration services for small- and mid- to large-sized.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
-			"title": "Webex Calling",
+			"title": "Webex",
 			"similar_solution_url": "https://www.cisco.com/c/en/us/solutions/collaboration/webex-calling/index.html",
 			"category": "Communication"
 		}, {
@@ -641,7 +641,7 @@
 		"description": "Indoor and outdoor access points including Wi-Fi 6 (802.11ax) and Wi-Fi 5 (802.11ac) technologies support versatile deployments in any size network.",
 		"category_list": ["Radio"],
 		"similar_solution_list": [{
-			"title": "Cisco Meraki Cloud-Managed Indoor Access Points",
+			"title": "Cisco Meraki",
 			"similar_solution_url": "https://meraki.cisco.com/products/wi-fi/",
 			"category": "Radio"
 		}, {

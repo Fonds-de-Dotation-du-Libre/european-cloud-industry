@@ -25,7 +25,7 @@
 		"description": "Sylk Suite allows the creation and delivery of rich multimedia applications accessed by SIP Clients, XMPP endpoints and WebRTC applications.",
 		"category_list": ["Communication"],
 		"similar_solution_list": [{
-			"title": "element",
+			"title": "Element",
 			"similar_solution_url": "https://element.io/",
 			"category": "Communication"
 		}, {

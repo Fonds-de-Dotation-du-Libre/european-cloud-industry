@@ -25,18 +25,14 @@
         "description": "The virtualized and cloud-native IMS core is the first 100% containerized and Kubernetes-based fully-fledged IMS solution, allowing deployment on bare metal (private), public, and hybrid cloud environments",
         "category_list": ["Compute virtualisation"],
         "similar_solution_list": [{
-            "title": "Cloud IMS",
+            "title": "Ericsson IMS",
             "similar_solution_url": "https://www.ericsson.com/en/portfolio/digital-services/cloud-communication/consumer-communication/cloud-ims",
             "category": "Compute virtualisation"
         },{
-            "title": "IMS",
+            "title": "Huawei IMS",
             "similar_solution_url": "https://carrier.huawei.com/en/products/core-network-v3/cs-ims/ims",
             "category": "Compute virtualisation"
         },{
-            "title": "Cloud-native IMS",
-            "similar_solution_url": "https://www.mavenir.com/portfolio/mavcore/cloud-native-ims/",
-            "category": "Compute virtualisation"
-        }, {
             "title": "Nokio Vo5G",
             "similar_solution_url": "https://www.nokia.com/networks/core-networks/voice-over-5g-vo5g-core",
             "category": "Compute virtualisation"

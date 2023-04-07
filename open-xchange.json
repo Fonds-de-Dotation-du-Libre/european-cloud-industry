@@ -107,7 +107,7 @@
 		"description": "The modular email and productivity suite designed for Telcos, Hosters, and Service Providers",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
-			"title": "Microsoft Outlook",
+			"title": "Microsoft Exchange",
 			"similar_solution_url": "https://outlook.live/com",
 			"category": "Networking"
 		}, {
@@ -197,7 +197,7 @@
 		"description": "With OX PowerDNS Recursor, Internet Service Providers can provide a fast and reliable DNS service, enabling a secure internet experience for subscribers and their personal devices, including laptops, tablets and mobile phones, as well as the many IoT devices that are already in use. Our high-end, high-performance caching name server delivers a reliable DNS service and provides the flexibility modern DNS deployments require. It comes with a variety of DNS protection features to secure both providers and subscribers. Trust our experience of powering the DNS resolution of hundreds of millions of users.",
 		"category_list": ["Networking"],
 		"similar_solution_list": [{
-			"title": "Cloudflare DNS",
+			"title": "Cloudflare",
 			"similar_solution_url": "https://www.cloudflare.com/",
 			"category": "Networking"
         }, {

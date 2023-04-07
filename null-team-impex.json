@@ -115,7 +115,7 @@
 		"description": "The YateHSS/HLR stores and manages the SIM database for mobile networks. It also manages multiple subscriber identities (from different technologies) in one server, providing seamless services over different networks. It is designed for use in GSM, UMTS, LTE, IMS, WiFi networks or any other type of network that uses MAP or Diameter for authentication. The YateHSS/HLR includes a Home Location Register (HLR), an Authentication Center (Auc) (2G/3G) and a Home Subscriber Server (HSS) (4G LTE). The YateHSS/HLR exports a JSON API for integration with any SIM management and CRM systems. It is capable of interconnecting with all the VLRs implemented in a GSM mobile network, with any MME from a conventional LTE network, or with the YateUCNTM core network server. As it is also an AuC, the YateHSS/HLR authenticates subscribers as they try to connect to the GSM, UMTS, or the LTE networks, to make phone calls, send SMSs and access mobile data.",
 		"category_list": ["vRan"],
 		"similar_solution_list": [{
-      			"title": "SlapOS: Converged Edge/SDR NMS - Nexedi",
+      			"title": "SlapOS",
       			"similar_solution_url": "https://slapos.nexedi.com/NXD-Document.Press.Release.SlapOS.NMS.Multistack.Showcase.MWC.2019",
      			"category": "vRan"
     		}],
