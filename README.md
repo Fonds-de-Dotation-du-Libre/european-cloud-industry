@@ -1,4 +1,4 @@
-*This repository presents the European Cloud market with a comprehensive list of European Cloud solutions. The data from this repository will be used to build an EU Cloud Solutions & Technologies Directory website (https://eu-cloud-directory.cleverapps.io/solutions/). It's part of the EUCLIDIA initiative to foster technological innovation and create a strong eco-system within Europe.*
+*This repository presents the European Cloud market with a comprehensive list of European Cloud solutions. The data from this repository will be used to build an EU Cloud Solutions & Technologies Directory website (https://www.cloudrepo.eu/). It's part of the EUCLIDIA initiative to foster technological innovation and create a strong eco-system within Europe.*
 
 1. Please follow this JSON guideline to correctly fill out the JSON file: https://github.com/Fonds-de-Dotation-du-Libre/european-cloud-industry/blob/master/JSON-guidelines.md
 
