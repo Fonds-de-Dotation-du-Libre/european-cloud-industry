@@ -1,0 +1,73 @@
+{
+  "created": "2023-04-07",
+  "title": "Coderberg",
+  "type": "Association",
+  "logo_url": "https://codeberg.org/assets/img/logo-250px.png",
+  "location": {
+    "title": "Coderberg e.V.",
+    "address": "Arminiusstraße 2-4",
+    "postal_code": "10551",
+    "city": "Berlin",
+    "country": "DE",
+    "phone_contact": "",
+    "mail_contact": "contact@codeberg.org",
+    "coordinate_list": [52.5278876047003, 13.338766740446337]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://codeberg.org/",
+  "founded_year": "",
+  "kpi_list": [],
+  "solution_list": [{
+    "title": "Coderberg",
+    "logo_url": "https://codeberg.org/assets/img/logo-250px.png",
+    "website_url": "https://codeberg.org/",
+    "created_year": "",
+    "description": "Codeberg is a collaboration platform and Git hosting for free and open source software, content and projects.",
+    "category_list": ["Developer environment"],
+    "similar_solution_list": [{
+      "title": "Github",
+      "similar_solution_url": "https://www.github.com/",
+      "category": "Developer environment"
+    }, {
+      "title": "Gitlab",
+      "similar_solution_url": "https://gitlab.com/",
+      "category": "Developer environment"
+    }, {
+      "title": "Sourcehut",
+      "similar_solution_url": "https://sourcehut.org/",
+      "category": "Developer environment"
+    }],
+    "licence_list": [],
+    "source_code_download": "",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": true,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }, {
+    "title": "Forgejo",
+    "logo_url": "https://forgejo.org/images/forgejo-wordmark.svg",
+    "website_url": "https://forgejo.org/",
+    "created_year": "",
+    "description": "Forgejo is a self-hosted lightweight software forge. Easy to install and low maintenance, it just does the job.",
+    "category_list": ["Developer environment"],
+    "similar_solution_list": [{
+      "title": "Gitea",
+      "similar_solution_url": "https://gitea.io/",
+      "category": "Developer environment"
+    }],
+    "licence_list": ["MIT"],
+    "source_code_download": "https://forgejo.org/download/",
+    "source_code_profile": "",
+    "commercial_support_url": "",
+    "floss_software": false,
+    "commercial_support_open_source_version": false,
+    "commercial_support_available": false,
+    "wikipedia_url": "",
+    "reference_list": [],
+    "success_case_list": []
+  }]
+}

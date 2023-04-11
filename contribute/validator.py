@@ -2,16 +2,17 @@
 
 import glob, json, os, sys
 
-sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/jsonschema-3.0.2-py2.7.egg")
-sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/attrs-18.2.0-py2.7.egg")
-sys.path.append('/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/six-1.12.0-py2.7.egg')
-sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/develop-eggs/pyrsistent-0.16.1-py2.7-linux-x86_64.egg")
+# moved to virtual environment in Python3 and installing jsonschema
+#sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/jsonschema-3.0.2-py2.7.egg")
+#sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/attrs-18.2.0-py2.7.egg")
+#sys.path.append('/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/eggs/six-1.12.0-py2.7.egg')
+#sys.path.append("/srv/slapgrid/slappart60/srv/runner/software/36024dd5826c8883cf99681c7e079a54/develop-eggs/pyrsistent-0.16.1-py2.7-linux-x86_64.egg")
 
 
 from jsonschema import validate
 from jsonschema.exceptions import ValidationError
 
-SCHEMA = json.load(open("JSON-schema.json"))
+SCHEMA = json.load(open("contribute/JSON-schema.json"))
 
 num_valid = 0
 
